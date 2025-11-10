@@ -1,0 +1,871 @@
+<?xml version="1.0" encoding="UTF-8"?><subLeg xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd" xml:lang="en"><meta><docName>Cap. 303 sub. leg. A</docName><docType>cap</docType><docNumber>303A</docNumber><docStatus>In effect</docStatus><dc:identifier>/hk/cap303A!en</dc:identifier><dc:date>2023-12-21</dc:date><dc:subject>legislation</dc:subject><dc:language>en</dc:language><dc:publisher>DoJ</dc:publisher><dc:rights>the Government of the Hong Kong Special Administrative Region</dc:rights></meta><main xml:lang="en" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd"><docTitle id="ID_1438402961423_001" name="shortTitle" reason="inEffect" status="operational" temporalId="shortTitle" startPeriod="2023-12-21">Radiation (Control
+            of
+            Radioactive
+            Substances)
+            Regulations</docTitle><enactingFormula role="empoweringSection">(<ref href="/hk/cap303/s13">Cap.
+                303,
+                section
+            13</ref>)<marker role="blank-line"></marker><marker role="blank-line"></marker></enactingFormula><commencementNote>[1 October 1965]<sourceNote><inline class="width_3"> </inline><ref href="/hk/1965/ln114">L.N. 114 of 1965</ref></sourceNote></commencementNote><sourceNote>(Format changes—<ref href="hk/2023/er4">E.R. 4 of 2023</ref>)</sourceNote><part id="ID_1438402961423_003" name="P1" reason="inEffect" startPeriod="2023-12-21" status="operational" temporalId="P1"><num value="1">Part
+            I</num><heading>Preliminary</heading><section id="ID_1438402961439_002" name="s1" reason="inEffect" role="regulation" startPeriod="2023-12-21" status="operational" temporalId="s1"><num value="1">1.</num><heading>Citation</heading><content>These regulations may be cited as the <shortTitle>Radiation (Control of Radioactive Substances) Regulations</shortTitle>.</content></section><section id="ID_1438402961439_004" name="s2" reason="inEffect" role="regulation" startPeriod="2023-12-21" status="operational" temporalId="s2"><num value="2">2.</num><heading>Interpretation</heading><subsection id="ID_1438411843202_011" name="1" temporalId="s2_1"><num value="1">(1)</num><leadIn>In these regulations, unless the context otherwise requires—</leadIn><def name="AffectedIndustrialUndertaking"><term>affected
+                    industrial
+                undertaking</term>
+                    (<term xml:lang="zh-Hant-HK">受影響的工業經營</term>) means an industrial undertaking
+                within the meaning of the Factories and Industrial Undertakings Ordinance (<ref href="/hk/cap59">Cap. 59</ref>), in or by which any radioactive substance is
+                manufactured, used, handled, conveyed or stored;</def><def name="AffectedUndertaking"><term>affected
+                    undertaking</term>
+                    (<term xml:lang="zh-Hant-HK">受影響的經營</term>) means any undertaking whatsoever,
+                whether carried on for gain or otherwise, in which any radioactive substance is
+                manufactured, used, handled, conveyed or stored, other than an affected industrial
+                undertaking;</def><def name="ApprovedLaboratory"><term>approved
+                    laboratory</term>
+                    (<term xml:lang="zh-Hant-HK">認可檢驗所</term>) means a laboratory approved by the
+                Board for the purposes of <ref>regulation 12</ref>;</def><def name="Authority"><term>Authority</term>
+                    (<term xml:lang="zh-Hant-HK">監督</term>), in relation to an affected industrial
+                undertaking, means the Commissioner for Labour and, in relation to an affected
+                undertaking, or in relation to any person not engaged in an undertaking, the
+                Director of Health;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1989/ln76">L.N. 76 of 1989</ref>)</sourceNote></def><def name="Employ,Employment"><term>employ</term>
+                and
+                    <term>employment</term>
+                    (<term xml:lang="zh-Hant-HK">僱用</term>、<term xml:lang="zh-Hant-HK">受僱</term>)
+                include reference to any kind of work carried out for another whether voluntarily or
+                for consideration;</def><def name="Handling"><term>handling</term>
+                    (<term xml:lang="zh-Hant-HK">處理</term>) includes physical contact or contact by
+                remote control with any radioactive substance or container containing any such
+                substance;</def><def name="LuminousCompound"><term>luminous
+                    compound</term>
+                    (<term xml:lang="zh-Hant-HK">發光化合物</term>) means luminous material consisting of
+                or containing any radioactive substance;</def><def name="OpenAir">
+                <leadIn><term>open
+                        air</term>
+                        (<term xml:lang="zh-Hant-HK">露天地方</term>) means a space which—</leadIn>
+                <paragraph id="ID_1438411843217_033" name="a" temporalId="s2_1_a"><num value="a">(a)</num><content>is vertically uncovered and unobstructed;</content></paragraph>
+                <paragraph id="ID_1438411843217_041" name="b" temporalId="s2_1_b"><num value="b">(b)</num><content>is not less, in any horizontal dimension, than 1.5 m; and</content></paragraph>
+                <paragraph id="ID_1438411843217_049" name="c" temporalId="s2_1_c"><num value="c">(c)</num><content>where such space is enclosed on 4 sides, has a horizontal area of not
+                        less than 0.25
+                            m<sup>2</sup>
+                         for every metre of the mean height of the walls enclosing
+                        the space;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1982/ln410">L.N. 410 of 1982</ref>)</sourceNote></content></paragraph>
+            </def><def name="Panel"><term>panel</term>
+                    (<term xml:lang="zh-Hant-HK">醫務小組</term>) means such committee as the Board may
+                from time to time appoint under <ref>section 5</ref> of the Ordinance, for the
+                purpose of advising the Board upon matters affecting or concerning the state of
+                health of persons employed or to be employed in any work or process involving
+                manufacture or handling of any radioactive substance;</def><def name="PersonnelRadiationMonitoringDevice"><term>personnel
+                    radiation monitoring
+                device</term>
+                    (<term xml:lang="zh-Hant-HK">工作人員輻射監測器具</term>) means a device designed to be
+                worn or carried by an individual for the purpose of measuring exposure to radiation
+                and includes a photographic film suitable for that purpose, placed in an appropriate
+                film holder;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1985/ln228">L.N. 228 of 1985</ref>)</sourceNote></def><def name="Proprietor"><term>proprietor</term>
+                    (<term xml:lang="zh-Hant-HK">東主</term>), in relation to any affected undertaking
+                or affected industrial undertaking, includes any person for the time being having
+                the management or control or receiving the profits of the business carried on in
+                such undertaking or employing any person engaged in such business;</def><def name="Radiation"><term>radiation</term>
+                    (<term xml:lang="zh-Hant-HK">輻射</term>) means ionizing radiation;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1985/ln228">L.N. 228 of
+                        1985</ref>)</sourceNote></def><def name="RadioactiveWaste"><term>radioactive
+                    waste</term>
+                    (<term xml:lang="zh-Hant-HK">放射性廢料</term>) means waste radioactive substances
+                and waste material contaminated by radioactive substances or which, having regard to
+                its use, may have become so contaminated;</def><def name="SealedSource"><term>sealed
+                    source</term>
+                    (<term xml:lang="zh-Hant-HK">密封源</term>) means a radioactive substance which is
+                permanently enclosed in a container in such a manner that it or any part of it
+                cannot be separated from the container unless the container is damaged, but also in
+                such a manner as to permit of the emission of radiation;</def><def name="UnsealedRadioactiveSubstance"><term>unsealed
+                    radioactive
+                substance</term>
+                    (<term xml:lang="zh-Hant-HK">非密封的放射性物質</term>) means any radioactive substance
+                which is not a sealed source.</def><sourceNote>(<ref href="/hk/1990/ln226">L.N. 226 of 1990</ref>)</sourceNote></subsection><subsection id="ID_1438411843233_046" name="2" temporalId="s2_2"><num value="2">(2)</num><sourceNote>(Repealed <ref href="/hk/1982/ln410">L.N. 410 of 1982</ref>)</sourceNote></subsection></section><section id="ID_1438402961454_002" name="s2A" reason="inEffect" role="regulation" startPeriod="2023-12-21" status="operational" temporalId="s2A"><num value="2A">2A.</num><heading>Delegation of powers and functions</heading><content>The Authority may, by notice in the Gazette, delegate to any public officer the exercise of any of the powers (or the performance of any of the duties) conferred (or imposed) upon the Authority by these regulations.</content><sourceNote>(<ref href="/hk/1985/ln228">L.N. 228 of 1985</ref>)</sourceNote></section></part><part id="ID_1438402961470_001" name="P2" reason="inEffect" startPeriod="2023-12-21" status="operational" temporalId="P2"><num value="2">Part
+            II</num><heading>Licensing, Conveyance
+            and
+            Storage</heading><section id="ID_1438402961470_003" name="s3" reason="inEffect" role="regulation" startPeriod="2023-12-21" status="operational" temporalId="s3"><num value="3">3.</num><heading>Application for licence</heading><leadIn>Every application pursuant to any of the provisions of <ref>section 7</ref> or <ref>8</ref> of the Ordinance for any licence relating to any radioactive substance shall be made in writing addressed to the Authority and shall contain, so far as may be applicable, the following particulars—</leadIn><paragraph id="ID_1438411843295_012" name="a" temporalId="s3_a"><num value="a">(a)</num><content>the purpose for which the licence is required;</content></paragraph><paragraph id="ID_1438411843295_020" name="b" temporalId="s3_b"><num value="b">(b)</num><content>the nature and quantity of the radioactive substance in question;</content></paragraph><paragraph id="ID_1438411843295_028" name="c" temporalId="s3_c"><num value="c">(c)</num><content>the type of packing in which the substance is contained;</content></paragraph><paragraph id="ID_1438411843295_036" name="d" temporalId="s3_d"><num value="d">(d)</num><content>the type and dose rate of radiation at the surface of any package;</content></paragraph><paragraph id="ID_1438411843311_006" name="e" temporalId="s3_e"><num value="e">(e)</num><content>in the case of a licence to manufacture, use or store any radioactive substance, the place in which it is to be manufactured, used or stored, and, in the case of a licence to possess for the purpose of transport, the intended means of transport and the place from which it is to be taken and the destination;</content></paragraph><paragraph id="ID_1438411843311_014" name="f" temporalId="s3_f"><num value="f">(f)</num><content>in the case of any application pursuant to the provisions of <ref>section 8</ref> of the Ordinance, the area in which prospecting or mining is to be undertaken; and</content></paragraph><paragraph id="ID_1438411843311_022" name="g" temporalId="s3_g"><num value="g">(g)</num><content>such other particulars as the Authority may require.</content></paragraph></section><section id="ID_1438402961485_001" name="s4" reason="inEffect" role="regulation" startPeriod="2023-12-21" status="operational" temporalId="s4"><num value="4">4.</num><heading>Licence</heading><subsection id="ID_1438411843342_052" name="1" temporalId="s4_1"><num value="1">(1)</num><content>A fee of $3,190 in respect of any period of 12 months or any part thereof shall be payable to the Authority in respect of the grant or renewal of a licence required by <ref>section 7</ref> of the Ordinance for any radioactive substance.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1976/ln42">L.N. 42 of 1976</ref>; <ref href="/hk/1989/ln211">L.N. 211 of 1989</ref>; <ref href="/hk/1994/ln662">L.N. 662 of 1994</ref>; <ref href="/hk/2006/ln129">L.N. 129 of 2006</ref>)</sourceNote></content></subsection><subsection id="ID_1438411843358_004" name="2" temporalId="s4_2"><num value="2">(2)</num><content>A licence shall be issued in the name of the applicant and shall contain, so far as may be applicable, the particulars specified in <ref>regulation 3</ref> and any conditions imposed.</content></subsection><subsection id="ID_1438411843358_012" name="3" temporalId="s4_3"><num value="3">(3)</num><content>A licence granted or renewed shall be valid for 12 months with effect from the date of grant or renewal thereof or for such lesser period as may be specified in the licence.</content></subsection><subsection id="ID_1438411843358_020" name="4" temporalId="s4_4"><num value="4">(4)</num><content>No licence shall be transferable.</content></subsection><sourceNote>(<ref href="/hk/1970/ln98">L.N. 98 of 1970</ref>)</sourceNote></section><section id="ID_1438402961501_001" name="s5" reason="inEffect" role="regulation" startPeriod="2023-12-21" status="operational" temporalId="s5"><num value="5">5.</num><heading>Licence to be exhibited</heading><subsection id="ID_1438411843373_027" name="1" temporalId="s5_1"><num value="1">(1)</num><content>A person to whom a licence has been issued or renewed under the Ordinance shall cause the licence to be exhibited in a conspicuous place in the premises where the radioactive substance concerned is stored or otherwise dealt with.</content></subsection><subsection id="ID_1438411843373_035" name="2" temporalId="s5_2"><num value="2">(2)</num><content>Any person who fails to comply with subregulation (1) shall be guilty of an
+                offence and shall be liable on conviction to a fine
+                at level
+                    3.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1990/ln226">L.N. 226 of
+                        1990</ref>; <ref href="/hk/2023/er4">E.R. 4 of
+                    2023</ref>)</sourceNote></content></subsection><sourceNote>(<ref href="/hk/1970/ln98">L.N. 98 of 1970</ref>)</sourceNote></section><section id="ID_1438402961501_003" name="s6" reason="inEffect" role="regulation" startPeriod="2023-12-21" status="operational" temporalId="s6"><num value="6">6.</num><heading>Labelling</heading><subsection id="ID_1438411843389_026" name="1" temporalId="s6_1"><num value="1">(1)</num><leadIn>No person shall store or convey, or cause or permit to be stored or conveyed,
+                any container containing any radioactive substance unless such container
+                bears—</leadIn><paragraph id="ID_1438411843389_034" name="a" temporalId="s6_1_a"><num value="a">(a)</num><leadIn>in the case of any container in respect of which the dose rate of the
+                    radiation at any point on the external surface of the container does not
+                    exceed—</leadIn><subparagraph id="ID_1438411843405_006" name="i" temporalId="s6_1_a_i"><num value="i">(i)</num><content>2.5 microcoulombs per kilogram per 24 hours in the case of gamma or X
+                        radiation;</content></subparagraph><subparagraph id="ID_1438411843405_014" name="ii" temporalId="s6_1_a_ii"><num value="ii">(ii)</num><content>the equivalent of 2.5 microcoulombs per kilogram per 24 hours in the
+                        case of beta-radiation; or</content></subparagraph><subparagraph id="ID_1438411843405_022" name="iii" temporalId="s6_1_a_iii"><num value="iii">(iii)</num><content>those values of flux given in Table I to this regulation in the case of
+                        neutrons,</content></subparagraph><continued>a label in the form of Label A prescribed in the <ref>Schedule</ref> (in
+                    this Part referred to as a
+                            <b><i>White
+                            Label</i></b>);</continued></paragraph><paragraph id="ID_1438411843405_035" name="b" temporalId="s6_1_b"><num value="b">(b)</num><leadIn>in the case of any container in respect of which the dose rate of the
+                    radiation at any point on its external surface exceeds the limits specified in
+                    paragraph (a) but does not exceed at any such point—</leadIn><subparagraph id="ID_1438411843405_043" name="i" temporalId="s6_1_b_i"><num value="i">(i)</num><content>50 microcoulombs per kilogram per hour in the case of gamma or X
+                        radiation;</content></subparagraph><subparagraph id="ID_1438411843405_051" name="ii" temporalId="s6_1_b_ii"><num value="ii">(ii)</num><content>the equivalent of 50 microcoulombs per kilogram per hour in the case of
+                        beta-radiation; or</content></subparagraph><subparagraph id="ID_1438411843405_059" name="iii" temporalId="s6_1_b_iii"><num value="iii">(iii)</num><content>those values of flux given in Table II to this regulation in the case
+                        of neutrons,</content></subparagraph><continued>or if measured at a distance of 1 m from any point on the external
+                    surface—</continued><subparagraph id="ID_1438411843405_073" name="iv" temporalId="s6_1_b_iv"><num value="iv">(iv)</num><content>2.5 microcoulombs per kilogram per hour in the case of gamma or X
+                        radiation;</content></subparagraph><subparagraph id="ID_1438411843420_007" name="v" temporalId="s6_1_b_v"><num value="v">(v)</num><content>the equivalent of 2.5 microcoulombs per kilogram per hour in the case
+                        of beta-radiation; or</content></subparagraph><subparagraph id="ID_1438411843420_015" name="vi" temporalId="s6_1_b_vi"><num value="vi">(vi)</num><content>those values of flux given in Table III to this regulation in the case
+                        of neutrons,</content></subparagraph><continued>a label in the form of Label B prescribed in the <ref>Schedule</ref> (in
+                    this Part referred to as a
+                            <b><i>Yellow
+                            Label</i></b>).</continued></paragraph></subsection><subsection id="ID_1438411843420_027" name="2" temporalId="s6_2"><num value="2">(2)</num><content>For the purposes of subregulation (1), the limits for dose rates referred to
+                for each type of radiation shall be deemed to be equivalent in biological
+                effectiveness.</content></subsection><subsection id="ID_1438411843420_035" name="3" temporalId="s6_3"><num value="3">(3)</num><content>Any person who contravenes any of the provisions of subregulation (1) shall be
+                guilty of an offence and liable on conviction to a fine
+                at
+                level 4.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1970/ln98">L.N. 98 of 1970</ref>; <ref href="/hk/1990/ln226">L.N.
+                        226 of
+                    1990</ref>; <ref href="/hk/2023/er4">E.R. 4 of
+                    2023</ref>)</sourceNote><marker role="blank-line"></marker><marker role="blank-line"></marker><marker role="blank-line"></marker><marker role="blank-line"></marker></content></subsection></section><text class="left_indent_60"><content>
+            <crossHeading> </crossHeading>
+        </content><content class="align_center"><inline class="not_bold">Table
+                I</inline><marker role="blank-line"></marker><marker role="blank-line"></marker></content><content>Neutron
+            fluxes biologically equivalent to a dose rate of 2.5 microcoulombs per kilogram per 24
+            hours of gamma
+            radiation.<marker role="blank-line"></marker><marker role="blank-line"></marker></content><content>
+            
+            
+            
+            <table xmlns="http://www.w3.org/1999/xhtml" width="360" class="repeat_header">
+                <col width="30%"></col>
+                <col width="30%"></col>
+                <col width="25%"></col>
+                <col width="15"></col>
+                <tbody>
+                    <tr>
+                        <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 cellpadding_top_3 cellpadding_bottom_3" colspan="2">
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Energy of
+                                neutrons</center>
+                        </td>
+                        <td class="border_top_0.75 border_bottom_0.75 border_left_0.75 cellpadding_top_3 cellpadding_bottom_3" colspan="2">
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Flux:
+                                    Neutrons/cm<sup>2</sup>s</center>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="cellpadding_top_3 left_indent_36">0.025</td>
+                        <td class="border_right_0.75 cellpadding_top_3">eV</td>
+                        <td class="align_right cellpadding_top_3">111</td>
+                        <td class=" cellpadding_top_3"></td>
+                    </tr>
+                    <tr>
+                        <td class="left_indent_30">10</td>
+                        <td class="border_right_0.75">eV</td>
+                        <td class="align_right">111</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td class="left_indent_30">10</td>
+                        <td class="border_right_0.75">keV</td>
+                        <td class="align_right">56</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td class="left_indent_36">0.1</td>
+                        <td class="border_right_0.75">MeV</td>
+                        <td class="align_right">11</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td class="left_indent_36">0.5</td>
+                        <td class="border_right_0.75">MeV</td>
+                        <td class="align_right">4</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td class="left_indent_36">1</td>
+                        <td class="border_right_0.75">MeV</td>
+                        <td class="align_right">3</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td class="left_indent_36">2</td>
+                        <td class="border_right_0.75">MeV</td>
+                        <td class="align_right">2</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td class="border_bottom_0.75 left_indent_36 cellpadding_bottom_3">3 to
+                            10</td>
+                        <td class="border_right_0.75 border_bottom_0.75 cellpadding_bottom_3">MeV</td>
+                        <td class="border_bottom_0.75 align_right cellpadding_bottom_3">2</td>
+                        <td class="border_bottom_0.75 cellpadding_bottom_3"></td>
+                    </tr>
+                </tbody>
+            </table>
+            
+            
+            <marker role="blank-line"></marker>
+        </content><marker role="section-break"></marker><crossHeading class="align_center"><inline class="not_bold">Table
+                II</inline><marker role="blank-line"></marker><marker role="blank-line"></marker></crossHeading><content>Neutron
+            fluxes biologically equivalent to a dose rate of 50 microcoulombs per kilogram per hour
+            of gamma
+                radiation.<marker role="blank-line"></marker><marker role="blank-line"></marker></content><content><table xmlns="http://www.w3.org/1999/xhtml" width="360" class="repeat_header">
+                <col width="30%"></col>
+                <col width="30%"></col>
+                <col width="25%"></col>
+                <col width="15"></col>
+                <tbody>
+                    <tr>
+                        <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 cellpadding_top_3 cellpadding_bottom_3" colspan="2">
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Energy of
+                                neutrons</center>
+                        </td>
+                        <td class="border_top_0.75 border_bottom_0.75 border_left_0.75 cellpadding_top_3 cellpadding_bottom_3" colspan="2">
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Flux:
+                                    Neutrons/cm<sup>2</sup>s</center>
+                        </td>
+                    </tr>
+                    <tr>
+                        
+                        <td class="cellpadding_top_3 left_indent_36">0.025</td>
+                        <td class="border_right_0.75 cellpadding_top_3">eV</td>
+                        <td class="align_right cellpadding_top_3">53300</td>
+                        <td class=" cellpadding_top_3"></td>
+                    </tr>
+                    <tr>
+                        
+                        <td class="left_indent_30">10</td>
+                        <td class="border_right_0.75">eV</td>
+                        <td class="align_right">53300</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        
+                        <td class="left_indent_30">10</td>
+                        <td class="border_right_0.75">keV</td>
+                        <td class="align_right">26700</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        
+                        <td class="left_indent_36">0.1</td>
+                        <td class="border_right_0.75">MeV</td>
+                        <td class="align_right">5330</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        
+                        <td class="left_indent_36">0.5</td>
+                        <td class="border_right_0.75">MeV</td>
+                        <td class="align_right">2130</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        
+                        <td class="left_indent_36">1</td>
+                        <td class="border_right_0.75">MeV</td>
+                        <td class="align_right">1600</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        
+                        <td class="left_indent_36">2</td>
+                        <td class="border_right_0.75">MeV</td>
+                        <td class="align_right">1070</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        
+                        <td class="border_bottom_0.75 left_indent_36 cellpadding_bottom_3">3 to
+                            10</td>
+                        <td class="border_right_0.75 border_bottom_0.75 cellpadding_bottom_3">MeV</td>
+                        <td class="border_bottom_0.75 align_right cellpadding_bottom_3">800</td>
+                        <td class="border_bottom_0.75 cellpadding_bottom_3"></td>
+                    </tr>
+                </tbody>
+            </table><marker role="blank-line"></marker><marker role="section-break"></marker></content><crossHeading class="align_center"><inline class="not_bold">Table
+                III</inline><marker role="blank-line"></marker><marker role="blank-line"></marker></crossHeading><content>Neutron
+            fluxes biologically equivalent to a dose rate of 2.5 microcoulombs per kilogram per hour
+            of gamma radiation.<marker role="blank-line"></marker><marker role="blank-line"></marker></content><content>
+            <table xmlns="http://www.w3.org/1999/xhtml" width="360">
+                <col width="30%"></col>
+                <col width="30%"></col>
+                <col width="25%"></col>
+                <col width="15"></col>
+                <thead>
+                    <tr>
+                        <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 cellpadding_bottom_3 cellpadding_top_3" colspan="2">
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Energy of
+                                neutrons</center>
+                        </td>
+                        <td class="border_top_0.75 border_bottom_0.75 border_left_0.75 cellpadding_bottom_3 cellpadding_top_3" colspan="2">
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Flux:
+                                    Neutrons/cm<sup>2</sup>s</center>
+                        </td>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        
+                        <td class="cellpadding_top_3 left_indent_36">0.025</td>
+                        <td class="border_right_0.75 cellpadding_top_3">eV</td>
+                        <td class="align_right cellpadding_top_3">2670</td>
+                        <td class="cellpadding_top_3"></td>
+                    </tr>
+                    <tr>
+                        
+                        <td class="left_indent_30">10</td>
+                        <td class="border_right_0.75">eV</td>
+                        <td class="align_right">2670</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        
+                        <td class="left_indent_30">10</td>
+                        <td class="border_right_0.75">keV</td>
+                        <td class="align_right">1330</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        
+                        <td class="left_indent_36">0.1</td>
+                        <td class="border_right_0.75">MeV</td>
+                        <td class="align_right">270</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        
+                        <td class="left_indent_36">0.5</td>
+                        <td class="border_right_0.75">MeV</td>
+                        <td class="align_right">110</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        
+                        <td class="left_indent_36">1</td>
+                        <td class="border_right_0.75">MeV</td>
+                        <td class="align_right">80</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        
+                        <td class="left_indent_36">2</td>
+                        <td class="border_right_0.75">MeV</td>
+                        <td class="align_right">53</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        
+                        <td class="border_bottom_0.75 left_indent_36 cellpadding_bottom_3">3 to
+                            10</td>
+                        <td class="border_right_0.75 border_bottom_0.75 cellpadding_bottom_3">MeV</td>
+                        <td class="border_bottom_0.75 align_right cellpadding_bottom_3">40</td>
+                        <td class="border_bottom_0.75 cellpadding_bottom_3"></td>
+                    </tr>
+                </tbody>
+            </table>
+        </content><sourceNote>(<ref href="/hk/1982/ln410">L.N. 410 of
+        1982</ref>)</sourceNote></text><section id="ID_1438402961517_002" name="s7" reason="inEffect" role="regulation" startPeriod="2023-12-21" status="operational" temporalId="s7"><num value="7">7.</num><heading>Conveyance of radioactive substances on vehicles or vessels</heading><subsection id="ID_1438411843483_004" name="1" temporalId="s7_1"><num value="1">(1)</num><content>No person shall move, or cause or permit to be moved, by land or water any
+                radioactive substance except under and in accordance with a written permit granted
+                by the Authority.</content></subsection><subsection id="ID_1438411843483_012" name="2" temporalId="s7_2"><num value="2">(2)</num><content>Except with the permission in writing of the Authority, no person shall convey,
+                or cause or permit to be conveyed, on any one vehicle or vessel at any one time more
+                than 40 containers of radioactive substance bearing White or Yellow Labels or, in
+                the case of containers bearing Yellow Labels, such lesser number of containers as
+                will limit the total number of radiation units indicated on such Labels to a number
+                not exceeding 40 units.</content></subsection><subsection id="ID_1438411843498_005" name="3" temporalId="s7_3"><num value="3">(3)</num><leadIn>For the purposes of subregulation (2), the total of the dose rates of the
+                following types of radiation measured at 1 m from the external surface of a package,
+                at the place where the value is highest, shall be called the number of radiation
+                units for the package—</leadIn><paragraph id="ID_1438411843498_013" name="a" temporalId="s7_3_a"><num value="a">(a)</num><content>for gamma-and/or X-radiation of energy greater than 200 keV: the number of
+                    microcoulombs per kilogram per hour multiplied by 4;</content></paragraph><paragraph id="ID_1438411843498_021" name="b" temporalId="s7_3_b"><num value="b">(b)</num><content>for gamma-and/or X-radiation of which more than 20% has an energy less than
+                    200 keV: the number of microcoulombs per kilogram per hour multiplied by
+                    6;</content></paragraph><paragraph id="ID_1438411843498_029" name="c" temporalId="s7_3_c"><num value="c">(c)</num><content>for beta-radiation: the number of microcoulombs per kilogram per hour
+                    multiplied by 4 which is equivalent;</content></paragraph><paragraph id="ID_1438411843498_037" name="d" temporalId="s7_3_d"><num value="d">(d)</num><content>for neutrons: the number of radiation units, according to the flux
+                    relationship given in the Table to this subregulation.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1982/ln410">L.N. 410 of
+                            1982</ref>)</sourceNote><marker role="blank-line"></marker><marker role="blank-line"></marker><marker role="blank-line"></marker><marker role="blank-line"></marker><marker role="section-break"></marker></content></paragraph></subsection><text class="left_indent_60">
+            <crossHeading class="align_center"><inline class="not_bold">Table</inline></crossHeading>
+            <content class="align_center">
+                <marker role="blank-line"></marker>
+                <marker role="blank-line"></marker>
+            </content>
+            <continued>Relationship of neutron flux to radiation
+                    unit.<marker role="blank-line"></marker><marker role="blank-line"></marker><table xmlns="http://www.w3.org/1999/xhtml" width="360">
+                    <col width="30%"></col>
+                    <col width="30%"></col>
+                    <col width="25%"></col>
+                    <col width="15"></col>
+                    <tbody>
+                        <tr>
+                            
+                            <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 valign_center" colspan="2">
+                                
+                                
+                                
+                                <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Energy of
+                                    neutrons</center>
+                            </td>
+                            <td class="border_top_0.75 border_bottom_0.75 border_left_0.75" colspan="2">
+                                <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Flux
+                                    equivalent to 1 <br></br>radiation
+                                    unit<br></br>(neutron/cm<sup>2</sup>s)</center>
+                            </td>
+                        </tr>
+                        <tr>
+                            
+                            <td class="cellpadding_top_3 left_indent_36">0.025</td>
+                            <td class="border_right_0.75">eV</td>
+                            <td class="align_right">267</td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            
+                            <td class="left_indent_30">10</td>
+                            <td class="border_right_0.75">eV</td>
+                            <td class="align_right">267</td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            
+                            <td class="left_indent_30">10</td>
+                            <td class="border_right_0.75">keV</td>
+                            <td class="align_right">133</td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            
+                            <td class="left_indent_36">0.1</td>
+                            <td class="border_right_0.75">MeV</td>
+                            <td class="align_right">27</td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            
+                            <td class="left_indent_36">0.5</td>
+                            <td class="border_right_0.75">MeV</td>
+                            <td class="align_right">11</td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            
+                            <td class="left_indent_36">1</td>
+                            <td class="border_right_0.75">MeV</td>
+                            <td class="align_right">8</td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            
+                            <td class="left_indent_36">2</td>
+                            <td class="border_right_0.75">MeV</td>
+                            <td class="align_right">5</td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            
+                            <td class="border_bottom_0.75 left_indent_36 cellpadding_bottom_3">3 to
+                                10</td>
+                            <td class="border_right_0.75 border_bottom_0.75">MeV</td>
+                            <td class="border_bottom_0.75 align_right">4</td>
+                            <td class="border_bottom_0.75"></td>
+                        </tr>
+                    </tbody>
+                </table><marker role="blank-line"></marker><marker role="blank-line"></marker></continued>
+        </text><subsection id="ID_1438411843514_018" name="4" temporalId="s7_4"><num value="4">(4)</num><content>No person shall convey, or cause or permit to be conveyed, any radioactive
+                substance on any vehicle unless there be conspicuously displayed at the front and
+                rear thereof notices in English and Chinese indicating the presence of such
+                substance.</content></subsection><subsection id="ID_1438411843514_026" name="5" temporalId="s7_5"><num value="5">(5)</num><content>No person shall convey, or cause or permit to be conveyed, any radioactive
+                substance in any vehicle or vessel except under the supervision of the owner,
+                consignor or consignee of the substance or his representative authorized in that
+                behalf.</content></subsection><subsection id="ID_1438411843514_034" name="6" temporalId="s7_6"><num value="6">(6)</num><sourceNote>(Repealed <ref href="/hk/1990/ln226">L.N. 226 of 1990</ref>)</sourceNote></subsection><subsection id="ID_1438411843514_042" name="7" temporalId="s7_7"><num value="7">(7)</num><content>A person
+                must
+                not
+                convey, or cause or permit to be
+                conveyed,
+                any substances, materials or articles described in section 6 of the Dangerous Goods
+                (Application and Exemption) Regulation 2012 (<ref href="/hk/cap295E">Cap. 295 sub.
+                    leg. E</ref>) in the same vehicle as that in which any
+                radioactive substance is conveyed unless
+                the
+                substances, materials or articles are themselves radioactive
+                    substances.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1990/ln226">L.N. 226 of 1990</ref>; <ref href="/hk/2005/10">10 of 2005 s. 211</ref>; <ref href="/hk/2021/29">29 of
+                        2021 s.
+                        22</ref>)</sourceNote></content></subsection><subsection id="ID_1438411843529_005" name="8" temporalId="s7_8"><num value="8">(8)</num><leadIn>Any person who contravenes any of the provisions of—</leadIn><paragraph id="ID_1438411843529_013" name="a" temporalId="s7_8_a"><num value="a">(a)</num><content>subregulation (1) or (2) shall be guilty of an offence and liable on
+                    conviction to a fine
+                    at
+                    level 4; and</content></paragraph><paragraph id="ID_1438411843529_021" name="b" temporalId="s7_8_b"><num value="b">(b)</num><content>subregulation (4), (5) or (7) shall be guilty of an offence and liable on
+                    conviction to a fine
+                    at
+                    level 3.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1970/ln98">L.N. 98 of 1970</ref>; <ref href="/hk/1990/ln226">L.N. 226 of
+                        1990</ref>; <ref href="/hk/2023/er4">E.R. 4 of
+                        2023</ref>)</sourceNote></content></paragraph></subsection></section><section id="ID_1438402961532_002" name="s8" reason="inEffect" role="regulation" startPeriod="2023-12-21" status="operational" temporalId="s8"><num value="8">8.</num><heading>Storage</heading><subsection id="ID_1438411843576_004" name="1" temporalId="s8_1"><num value="1">(1)</num><content>
+                <leadIn>No person shall store in any one place a greater number of containers
+                    containing any radioactive substance and bearing White or Yellow Labels, as
+                    referred to in <ref>regulation 6</ref>, than 40 or such lesser number of
+                    containers that the total number of radiation units indicated on such labels
+                    does not exceed 40
+                        units.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2023/er4">E.R. 4 of
+                            2023</ref>)</sourceNote></leadIn>
+                <proviso name="proviso" temporalId="s8_1_proviso">Provided that the Authority may
+                    grant, subject to such conditions as it may think fit to impose, permission in
+                    writing for this number of containers or radiation units, as the case may be, to
+                    be exceeded in any particular case where the Authority is satisfied that
+                    adequate safety precautions exist.</proviso>
+            </content></subsection><subsection id="ID_1438411843576_018" name="2" temporalId="s8_2"><num value="2">(2)</num><content>No person shall store, or cause or permit to be stored, any container
+                containing any radioactive substance and bearing a Yellow Label, as referred to in
+                    <ref>regulation 6</ref>, nearer to any area which is used for living
+                accommodation or as regularly occupied working space than the distance, measured in
+                any direction, specified in the Table to this subregulation appropriate to the
+                number of radiation units specified
+                therefor.<marker role="blank-line"></marker><marker role="blank-line"></marker><marker role="blank-line"></marker><marker role="blank-line"></marker></content></subsection><text class="left_indent_60"><content>
+                <crossHeading> </crossHeading>
+            </content><content class="align_center"><inline class="not_bold">Table</inline><marker role="blank-line"></marker><marker role="blank-line"></marker></content><content>
+                <table xmlns="http://www.w3.org/1999/xhtml" width="360">
+                    <col width="40%"></col>
+                    <col width="15%"></col>
+                    <col width="15%"></col>
+                    <col width="15%"></col>
+                    <col width="15%"></col>
+                    <tbody>
+                        <tr>
+                            
+                            <td rowspan="2" class="border_top_0.75 border_right_0.75 border_bottom_0.75 valign_center">
+                                
+                                
+                                
+                                <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Total number
+                                        of<br xmlns="http://www.w3.org/1999/xhtml"></br>radiation units
+                                        shown<br xmlns="http://www.w3.org/1999/xhtml"></br>on package
+                                    labels</center>
+                            </td>
+                            <td colspan="4" class="border_top_0.75 border_bottom_0.75 border_left_0.75">
+                                <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Minimum
+                                    distance in metres<br></br>from living accommodation<br></br>or
+                                    regularly occupied<br></br>working space</center>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="border_bottom_0.75 border_right_0.75 align_center">A</td>
+                            <td class="border_bottom_0.75 border_right_0.75 align_center">B</td>
+                            <td class="border_bottom_0.75 border_right_0.75 align_center">C</td>
+                            <td class="border_bottom_0.75 align_center">D</td>
+                        </tr>
+                        <tr>
+                            <td class="align_center border_right_0.75">up to 1</td>
+                            <td class=" align_center border_right_0.75">3</td>
+                            <td class=" align_center border_right_0.75">3</td>
+                            <td class=" align_center border_right_0.75">3</td>
+                            <td class=" align_center">4.5</td>
+                        </tr>
+                        <tr>
+                            <td class="align_center border_right_0.75">2 to 5</td>
+                            
+                            <td class="left_indent_17 border_right_0.75">8</td>
+                            <td class=" align_center border_right_0.75">3</td>
+                            <td class=" align_center border_right_0.75">3</td>
+                            <td class=" align_center">4.5</td>
+                        </tr>
+                        <tr>
+                            
+                            <td class="align_center border_right_0.75">6 to 10</td>
+                            
+                            <td class="left_indent_12 border_right_0.75">11</td>
+                            
+                            <td class="left_indent_9 border_right_0.75">4.5</td>
+                            <td class=" align_center border_right_0.75">3</td>
+                            <td class=" align_center">4.5</td>
+                        </tr>
+                        <tr>
+                            <td class="align_center border_right_0.75">11 to 25</td>
+                            
+                            <td class="left_indent_12 border_right_0.75">18</td>
+                            <td class=" align_center border_right_0.75">6</td>
+                            <td class=" align_center border_right_0.75">3</td>
+                            <td class=" align_center">4.5</td>
+                        </tr>
+                        <tr>
+                            <td class="align_center border_right_0.75 border_bottom_0.75">26 to
+                                40</td>
+                            
+                            <td class="left_indent_12 border_right_0.75 border_bottom_0.75">27</td>
+                            <td class=" align_center border_right_0.75 border_bottom_0.75">9</td>
+                            <td class=" align_center border_right_0.75 border_bottom_0.75">3</td>
+                            <td class=" align_center border_bottom_0.75">4.5</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </content><sourceNote>(<ref href="/hk/1982/ln410">L.N. 410 of
+                1982</ref>)<marker role="blank-line"></marker><marker role="blank-line"></marker></sourceNote></text><subsection id="ID_1438411843592_018" name="3" temporalId="s8_3"><num value="3">(3)</num><leadIn>For the purposes of the Table to subregulation (2)—</leadIn><paragraph id="ID_1438411843592_026" name="a" temporalId="s8_3_a"><num value="a">(a)</num><content>column A applies where there are no intervening goods, walls or other
+                    material of not less than the density of water situated between the container
+                    containing the radioactive substance and the living accommodation or working
+                    space in question;</content></paragraph><paragraph id="ID_1438411843592_034" name="b" temporalId="s8_3_b"><num value="b">(b)</num><content>column B applies where there is situated not less than 0.6 m of goods or
+                    other material of not less than the density of water and at least one partition
+                    composed of sheet steel of not less than 12 mm in thickness, or the equivalent
+                    in density thereto if composed of other material, between the container
+                    containing the radioactive substance and the living accommodation or working
+                    space in question;</content></paragraph><paragraph id="ID_1438411843607_006" name="c" temporalId="s8_3_c"><num value="c">(c)</num><content>column C applies where there is situated not less than
+                    2 m
+                    of goods or other material of not less than the density of water and at least 2
+                    partitions composed of sheet steel of not less than 12 mm in thickness, or the
+                    equivalent in density thereto if composed of other material, between the
+                    container containing the radioactive substance and the living accommodation or
+                    working space in question;</content></paragraph><paragraph id="ID_1438411843607_014" name="d" temporalId="s8_3_d"><num value="d">(d)</num><content>column D applies where there is situated not less than
+                    4.2 m
+                    of goods or other material of not less than the density of water and at least 2
+                    partitions composed of sheet steel of not less than 12 mm in thickness, or the
+                    equivalent in density thereto if composed of other material, between the
+                    container containing the radioactive substance and the living accommodation or
+                    working space in question; and</content></paragraph><paragraph id="ID_1438411843623_006" name="e" temporalId="s8_3_e"><num value="e">(e)</num><content>the density of water shall be taken to be 1 kilogram per cubic
+                        decimetre.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1982/ln410">L.N. 410 of 1982</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438411843623_013" name="4" temporalId="s8_4"><num value="4">(4)</num><content>No person shall store, or cause or permit to be stored, any radioactive
+                substance in any store or in a room of any building unless there is conspicuously
+                displayed on every entrance to such store or room a notice in English and Chinese
+                indicating the presence therein of such substance.</content></subsection><subsection id="ID_1438411843623_021" name="5" temporalId="s8_5"><num value="5">(5)</num><content>Any person who contravenes any of the provisions of subregulation (1), (2) or
+                (4) shall be guilty of an offence and liable on conviction to a fine
+                at
+                level 4.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1970/ln98">L.N. 98 of 1970</ref>; <ref href="/hk/1990/ln226">L.N.
+                        226 of
+                    1990</ref>; <ref href="/hk/2023/er4">E.R. 4 of
+                    2023</ref>)</sourceNote></content></subsection></section><section id="ID_1438402961548_002" name="s9" reason="inEffect" role="regulation" startPeriod="2023-12-21" status="operational" temporalId="s9"><num value="9">9.</num><heading>Disposal of radioactive waste</heading><subsection id="ID_1438411843670_004" name="1" temporalId="s9_1"><num value="1">(1)</num><content>No person shall dispose of, or cause or permit the disposal of, any radioactive waste from any place otherwise than by a method approved by the Board either generally by notification in the Gazette or in writing in any particular case.</content></subsection><subsection id="ID_1438411843670_012" name="2" temporalId="s9_2"><num value="2">(2)</num><content>Any person who contravenes any of the provisions of subregulation (1) shall be
+                guilty of an offence and liable on conviction to a
+                fine
+                at level 4.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1970/ln98">L.N. 98 of 1970</ref>; <ref href="/hk/1990/ln226">L.N.
+                        226 of
+                    1990</ref>; <ref href="/hk/2023/er4">E.R. 4 of
+                    2023</ref>)</sourceNote></content></subsection></section></part><part id="ID_1438402961563_001" name="P3" reason="inEffect" startPeriod="2023-12-21" status="operational" temporalId="P3"><num value="3">Part
+            III</num><heading>Control
+            of
+            Exposure</heading><section id="ID_1438402961563_003" name="s10" reason="inEffect" role="regulation" startPeriod="2023-12-21" status="operational" temporalId="s10"><num value="10">10.</num><heading>Precautions with regard to exposure</heading><subsection id="ID_1438411843701_004" name="1" temporalId="s10_1"><num value="1">(1)</num><content>No proprietor of any affected undertaking or affected industrial undertaking
+                shall cause or permit any person employed therein to be exposed to ionizing
+                radiations exceeding the dose limit as defined in relation to irradiating apparatus
+                in the Radiation (Control of Irradiating Apparatus) Regulations (<ref href="/hk/cap303B">Cap. 303 sub.
+                    leg.
+                    B</ref>).<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1995/ln153">L.N. 153 of 1995</ref>)</sourceNote></content></subsection><subsection id="ID_1438411843701_012" name="2" temporalId="s10_2"><num value="2">(2)</num><content>Any proprietor of any affected undertaking or affected industrial undertaking
+                who contravenes any of the provisions of subregulation (1) shall be guilty of an
+                offence and liable on conviction to a fine
+                at
+                level 4.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1970/ln98">L.N. 98 of 1970</ref>)</sourceNote></content></subsection><sourceNote>(<ref href="/hk/1990/ln226">L.N. 226 of
+            1990</ref>; <ref href="/hk/2023/er4">E.R. 4 of 2023</ref>)</sourceNote></section><section id="ID_1438402961579_002" name="s11" reason="inEffect" role="regulation" startPeriod="2023-12-21" status="operational" temporalId="s11"><num value="11">11.</num><heading>Register of employees</heading><subsection id="ID_1438411843732_004" name="1" temporalId="s11_1"><num value="1">(1)</num><content>The proprietor of any affected undertaking or affected industrial undertaking shall maintain, or cause to be maintained, a register of every person employed in such undertaking in any work or process involving the handling of any radioactive substance.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1970/ln98">L.N. 98 of 1970</ref>)</sourceNote></content></subsection><subsection id="ID_1438411843732_012" name="2" temporalId="s11_2"><num value="2">(2)</num><leadIn>Every such register shall contain the following particulars relating to every person required to be registered therein, namely—</leadIn><paragraph id="ID_1438411843732_020" name="a" temporalId="s11_2_a"><num value="a">(a)</num><content>the name (together with any alias);</content></paragraph><paragraph id="ID_1438411843732_028" name="b" temporalId="s11_2_b"><num value="b">(b)</num><content>photograph (adequate for identification);</content></paragraph><paragraph id="ID_1438411843732_036" name="c" temporalId="s11_2_c"><num value="c">(c)</num><content>current residential address;</content></paragraph><paragraph id="ID_1438411843732_044" name="d" temporalId="s11_2_d"><num value="d">(d)</num><content>the date of the last medical examination made in accordance with <ref>regulation 13</ref> or <ref>14</ref>, as the case may be; and</content></paragraph><paragraph id="ID_1438411843732_052" name="e" temporalId="s11_2_e"><num value="e">(e)</num><content>the dose of radiation received, as measured in accordance with <ref>regulation 12</ref>.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1985/ln228">L.N. 228 of 1985</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438411843748_005" name="3" temporalId="s11_3"><num value="3">(3)</num><content>A copy of every register maintained in accordance with this regulation shall be filed with the Authority and thereafter a copy of every addition to or deletion from such register of any entry therein, except an entry relating to subregulation <ref>(2)(e)</ref>, shall be filed with the Authority within 7 days after such addition or deletion is made.</content></subsection><subsection id="ID_1438411843748_013" name="4" temporalId="s11_4"><num value="4">(4)</num><content>Every register maintained in accordance with this regulation shall be open to inspection at all reasonable times by any inspector.</content></subsection><subsection id="ID_1438411843748_021" name="5" temporalId="s11_5"><num value="5">(5)</num><content>Any proprietor of any affected undertaking or affected industrial undertaking
+                who contravenes or fails to comply with any of the provisions of this regulation
+                shall be guilty of an offence and liable on conviction to a fine
+                at
+                level 4.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1970/ln98">L.N. 98 of 1970</ref>; <ref href="/hk/1990/ln226">L.N.
+                        226 of
+                    1990</ref>; <ref href="/hk/2023/er4">E.R. 4 of
+                    2023</ref>)</sourceNote></content></subsection></section><section id="ID_1438402961595_002" name="s12" reason="inEffect" role="regulation" startPeriod="2023-12-21" status="operational" temporalId="s12"><num value="12">12.</num><heading>Recording of personal exposure to radiation</heading><subsection id="ID_1438411843779_004" name="1" temporalId="s12_1"><num value="1">(1)</num><content>The proprietor of any affected undertaking or affected industrial undertaking
+                shall make arrangements for the wearing of, and shall direct every person employed
+                in such undertaking in any process involving the handling or transport of any
+                unsealed radioactive substance to wear, a suitable personnel radiation monitoring
+                device of a type approved by the Board, during any period in which such person is
+                liable to be exposed to radiation.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1970/ln98">L.N.
+                        98 of 1970</ref>)</sourceNote></content></subsection><subsection id="ID_1438411843795_005" name="2" temporalId="s12_2"><num value="2">(2)</num><content>Subject to subregulation (4A), the proprietor of any affected undertaking or affected industrial undertaking at his expense shall obtain the personnel radiation monitoring device referred to in subregulation (1) through the Authority, or from an approved laboratory, and shall arrange for the device, identified by reference to the wearer thereof, to be returned to the Authority or to the laboratory, as the case may be, for examination at such intervals as the Authority may from time to time direct.</content></subsection><subsection id="ID_1438411843810_005" name="3" temporalId="s12_3"><num value="3">(3)</num><content>Whenever a personnel radiation monitoring device is returned for examination to the Authority or to an approved laboratory, as the case may be, the Authority, or the person in charge of the laboratory, shall cause the device to be examined and, so soon as may be thereafter, shall issue to the proprietor who submitted the device for examination a certificate stating the dose of radiation received as measured by the device.</content></subsection><subsection id="ID_1438411843810_013" name="4" temporalId="s12_4"><num value="4">(4)</num><content>Every proprietor to whom a certificate in accordance with subregulation (3) is issued shall forthwith cause the dose of radiation stated thereon to be entered in the register of employees required to be kept in accordance with the provisions of <ref>regulation 11</ref> against the name of the person by whom such personnel radiation monitoring device was worn.</content></subsection><subsection id="ID_1438411843826_005" name="4A" temporalId="s12_4A"><num value="4A">(4A)</num><content>Notwithstanding subregulation (2), the proprietor of an affected undertaking or affected industrial undertaking may, with the approval in writing of the Board, obtain at his own expense the personnel radiation monitoring device referred to in subregulation (1) otherwise than through the Authority or from an approved laboratory and shall in that case, cause at such intervals as the Board may from time to time direct, the dose of radiation recorded by the device to be entered in the register of employees required to be kept in accordance with the provisions of <ref>regulation 11</ref>, against the name of the person by whom the device was worn.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1985/ln228">L.N. 228 of 1985</ref>)</sourceNote></content></subsection><subsection id="ID_1438411843841_005" name="5" temporalId="s12_5"><num value="5">(5)</num><paragraph id="ID_1438411843841_009" name="a" temporalId="s12_5_a"><num value="a">(a)</num><content>Any proprietor of any affected undertaking or affected industrial
+                    undertaking who fails to comply with any of the provisions of this regulation
+                    shall be guilty of an offence and liable on conviction to a fine
+                    at
+                    level 4.</content></paragraph><paragraph id="ID_1438411843841_015" name="b" temporalId="s12_5_b"><num value="b">(b)</num><content>Any person who fails to wear a suitable personnel radiation monitoring
+                    device when so directed by the proprietor of any affected undertaking or
+                    affected industrial undertaking in which he is employed shall be guilty of an
+                    offence and liable on conviction to a fine
+                    at
+                    level 2.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1990/ln226">L.N. 226 of
+                        1990</ref>; <ref href="/hk/2023/er4">E.R. 4 of
+                        2023</ref>)</sourceNote></content></paragraph></subsection><sourceNote>(<ref href="/hk/1985/ln228">L.N. 228 of 1985</ref>)</sourceNote></section><section id="ID_1438402961610_001" name="s13" reason="inEffect" role="regulation" startPeriod="2023-12-21" status="operational" temporalId="s13"><num value="13">13.</num><heading>Conditions for first employment</heading><subsection id="ID_1438411843873_035" name="1" temporalId="s13_1"><num value="1">(1)</num><leadIn>No proprietor of any affected undertaking or affected industrial undertaking shall employ therein any person in any work or process involving the handling or transport of any unsealed radioactive substance who—</leadIn><paragraph id="ID_1438411843873_043" name="a" temporalId="s13_1_a"><num value="a">(a)</num><content>is under the age of 18 years; or</content></paragraph><paragraph id="ID_1438411843873_051" name="b" temporalId="s13_1_b"><num value="b">(b)</num><content>has not, within the period of 4 months immediately preceding his first employment by such proprietor in such work or process, undergone a medical examination by the panel, including blood examination and the taking of relevant medical and occupational histories, and has been certified fit for such employment.</content></paragraph></subsection><subsection id="ID_1438411843888_005" name="2" temporalId="s13_2"><num value="2">(2)</num><content>Any person may apply in writing to the Board for medical examination by the panel for the purpose of complying with the requirements of subregulation <ref>(1)(b)</ref> and, upon receipt of the application, the Board shall direct the panel to carry out, free of charge, such examination as soon as may be, but in any event not exceeding 14 days, after receipt of the application and shall within 10 days after the examination supply to the applicant 2 copies of a certificate certifying the date upon which the examination took place and whether the applicant was found to be fit or unfit, as the case may be, for employment in radiation work.</content></subsection><subsection id="ID_1438411843904_005" name="3" temporalId="s13_3"><num value="3">(3)</num><def name="FirstEmployment">For the purpose of this regulation the expression
+                    <term>first
+                    employment</term>
+                    (<term xml:lang="zh-Hant-HK">首次受僱</term>) includes re-employment in any work or
+                process involving the handling of any radioactive substance following a cessation of
+                such employment for any period exceeding 14 months.</def></subsection><subsection id="ID_1438411843904_012" name="4" temporalId="s13_4"><num value="4">(4)</num><content>Any proprietor of any affected undertaking or affected industrial undertaking
+                who contravenes any of the provisions of subregulation (1) shall be guilty of an
+                offence and liable on conviction to a fine
+                at
+                level 4.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1990/ln226">L.N. 226 of
+                    1990</ref>; <ref href="/hk/2023/er4">E.R. 4 of
+                    2023</ref>)</sourceNote></content></subsection><sourceNote>(<ref href="/hk/1970/ln98">L.N. 98 of 1970</ref>)</sourceNote></section><section id="ID_1438402961610_003" name="s14" reason="inEffect" role="regulation" startPeriod="2023-12-21" status="operational" temporalId="s14"><num value="14">14.</num><heading>Conditions for continued employment</heading><subsection id="ID_1438411843935_011" name="1" temporalId="s14_1"><num value="1">(1)</num><content>No proprietor of any affected undertaking or affected industrial undertaking shall continue to employ any person for any period exceeding 14 months in any work involving the handling or transport of any unsealed radioactive substance unless such person undergoes medical examination by the panel, including blood examination, at intervals of not more than 14 months during the continuance of such employment and is after each examination certified by the Board to be fit for such employment.</content></subsection><subsection id="ID_1438411843951_005" name="2" temporalId="s14_2"><num value="2">(2)</num><content>Notwithstanding anything contained in subregulation (1), the Authority may require, by notice in writing served upon the proprietor of such undertaking, that any person employed by him in any work or process involving the handling or transport of any unsealed radioactive substance shall undergo medical examination by the panel, including blood examination, at such time or at such lesser intervals than those specified in subregulation (1) as the Authority, having regard to the circumstances of the case, may consider expedient to safeguard the health of such person; and if such person fails to submit to examination or, after examination, is certified by the Board to be unfit for such employment, such proprietor shall, forthwith upon receipt of notice in writing to that effect from the Authority, cease to employ such person on such work or process.</content></subsection><subsection id="ID_1438411843982_005" name="3" temporalId="s14_3"><num value="3">(3)</num><content>Whenever a notice in writing is served upon any proprietor of an affected undertaking or affected industrial undertaking in pursuance of the powers conferred by subregulation (2), a copy thereof shall also be served upon the person to which the notice relates.</content></subsection><subsection id="ID_1438411843982_013" name="4" temporalId="s14_4"><num value="4">(4)</num><content>Any proprietor of any affected undertaking or affected industrial undertaking
+                who contravenes or fails to comply with any of the provisions of subregulation (1)
+                or (2) shall be guilty of an offence and liable on conviction to a fine
+                at
+                level 4.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1990/ln226">L.N. 226 of
+                    1990</ref>; <ref href="/hk/2023/er4">E.R. 4 of
+                    2023</ref>)</sourceNote></content></subsection><sourceNote>(<ref href="/hk/1970/ln98">L.N. 98 of 1970</ref>)</sourceNote></section><section id="ID_1438402961641_001" name="s15" reason="inEffect" role="regulation" startPeriod="2023-12-21" status="operational" temporalId="s15"><num value="15">15.</num><heading>Presumptions as to exposure to radiation</heading><content>Any change in any part of the body of any person who has been engaged in any work or process involving the handling or transport of any radioactive substance which, in the opinion of the panel, is consistent with the effects of over-exposure to radiation shall be deemed to indicate over-exposure thereto.</content><sourceNote>(<ref href="/hk/1998/ln307">L.N. 307 of 1998</ref>)</sourceNote></section><section id="ID_1438402961641_003" name="s16" reason="inEffect" role="regulation" startPeriod="2023-12-21" status="operational" temporalId="s16"><num value="16">16.</num><heading>Radiation Board to keep records of medical examinations</heading><subsection id="ID_1438411844029_025" name="1" temporalId="s16_1"><num value="1">(1)</num><content>The Board shall keep a record of every medical examination carried out by the panel in accordance with these regulations and shall supply free of charge to any person so examined, and to the proprietor of the affected undertaking or affected industrial undertaking, as the case may be, in which such person is employed, a certificate certifying the date upon which the examination took place and whether such person was found to be fit or unfit to be employed in any work or process involving the handling or transport of any unsealed radioactive substance.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1970/ln98">L.N. 98 of 1970</ref>)</sourceNote></content></subsection><subsection id="ID_1438411844044_005" name="2" temporalId="s16_2"><num value="2">(2)</num><content>Upon application, and upon payment of a fee of $30, the Board shall issue a certified copy of any certificate referred to in subregulation (1) to the person to whom such certificate relates and to any present or past employer of such person.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1989/ln211">L.N. 211 of 1989</ref>; <ref href="/hk/1994/ln662">L.N. 662 of 1994</ref>; <ref href="/hk/2006/ln129">L.N. 129 of 2006</ref>)</sourceNote></content></subsection></section><section id="ID_1438402961657_002" name="s17" reason="inEffect" role="regulation" startPeriod="2023-12-21" status="operational" temporalId="s17"><num value="17">17.</num><heading>Medical examination and inquiry in cases of suspected over-exposure to radiation</heading><subsection id="ID_1438411844075_004" name="1" temporalId="s17_1"><num value="1">(1)</num><content>If the Authority, as a result of information received or otherwise, has reason to believe that any person employed in any affected undertaking or affected industrial undertaking is suffering from over-exposure to radiation the Authority shall, in the manner prescribed in <ref>regulation 14(2)</ref>, require that such person be medically examined by the panel; and if after such examination the Board is satisfied that such person is suffering from the effects of over-exposure to radiation to an extent requiring medical treatment, the Board shall, in addition to any action which the Board may consider appropriate under <ref>regulation 14</ref>, issue free of charge to such person a certificate certifying as to his condition.</content></subsection><subsection id="ID_1438411844091_005" name="2" temporalId="s17_2"><num value="2">(2)</num><content>Without prejudice to anything contained in subregulation (1), if the Authority
+                has reason to believe that any person employed in any affected undertaking or
+                affected industrial undertaking is suffering from the effects of, or appears to have
+                been subject to, over-exposure to radiation, the Authority may appoint one or more
+                representatives to investigate the working conditions or the working habits of such
+                person, together with any equipment used by him and to make report thereon to the
+                Authority.</content></subsection><subsection id="ID_1438411844107_005" name="3" temporalId="s17_3"><num value="3">(3)</num><content>A copy of any report made pursuant to the provisions of subregulation (2) shall
+                be forwarded by the Authority to the Board.</content></subsection><subsection id="ID_1438411844107_013" name="4" temporalId="s17_4"><num value="4">(4)</num><content>If any person wilfully obstructs or, by knowingly giving false information,
+                endeavours to mislead any representation of the Authority appointed under
+                subregulation (2) in the carrying out of any investigation under this regulation, he
+                shall be guilty of an offence and liable on conviction to a
+                fine
+                at level 2.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1970/ln98">L.N. 98 of 1970</ref>; <ref href="/hk/1990/ln226">L.N.
+                        226 of
+                    1990</ref>; <ref href="/hk/2023/er4">E.R. 4 of
+                    2023</ref>)</sourceNote></content></subsection></section></part><part id="ID_1438402961673_001" name="P4" reason="inEffect" startPeriod="2023-12-21" status="operational" temporalId="P4"><num value="4">Part
+            IV</num><heading>Workplaces
+            and
+            Equipment</heading><section id="ID_1438402961673_003" name="s18" reason="inEffect" role="regulation" startPeriod="2023-12-21" status="operational" temporalId="s18"><num value="18">18.</num><heading>Construction and cleaning of workroom, etc.</heading><subsection id="ID_1438411844138_004" name="1" temporalId="s18_1"><num value="1">(1)</num><leadIn>The proprietor of any affected undertaking or affected industrial undertaking shall cause—</leadIn><paragraph id="ID_1438411844153_005" name="a" temporalId="s18_1_a"><num value="a">(a)</num><content>the floors and walls of
+                    all
+                    workrooms in which unsealed radioactive substances are used to be constructed of
+                    smooth impervious material with all interstices effectively sealed, and to be so
+                    designed as to permit of easy cleaning;</content></paragraph><paragraph id="ID_1438411844153_013" name="b" temporalId="s18_1_b"><num value="b">(b)</num><content>all benches and tables on which unsealed radioactive substances are used to have a hard impervious surface, with all interstices effectively sealed, and to be so designed as to permit of easy cleaning;</content></paragraph><paragraph id="ID_1438411844153_021" name="c" temporalId="s18_1_c"><num value="c">(c)</num><content>all workers exposed to or liable to be exposed to ionizing radiations to be provided with seats of a substantial pattern having smooth impervious surfaces capable of being readily cleaned.</content></paragraph></subsection><subsection id="ID_1438411844153_028" name="2" temporalId="s18_2"><num value="2">(2)</num><content>The proprietor of any affected undertaking or affected industrial undertaking shall cause all benches or tables on which unsealed radioactive substances are handled and all seats used by workers engaged in the handling thereof to be cleaned at the end of each working day or shift and the floors of any workroom in which such substances are used to be cleaned not less than once in each working day and the walls thereof not less than once in each week.</content></subsection><subsection id="ID_1438411844169_005" name="3" temporalId="s18_3"><num value="3">(3)</num><content>Any proprietor of any affected undertaking or affected industrial undertaking
+                who fails to comply with any of the provisions of this regulation shall be guilty of
+                an offence and liable on conviction to a fine
+                at
+                level 3.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1970/ln98">L.N. 98 of 1970</ref>; <ref href="/hk/1990/ln226">L.N.
+                        226 of
+                    1990</ref>; <ref href="/hk/2023/er4">E.R. 4 of
+                    2023</ref>)</sourceNote></content></subsection></section><section id="ID_1438402961688_002" name="s19" reason="inEffect" role="regulation" startPeriod="2023-12-21" status="operational" temporalId="s19"><num value="19">19.</num><heading>Use of luminous compounds</heading><subsection id="ID_1438411844200_004" name="1" temporalId="s19_1"><num value="1">(1)</num><leadIn>The proprietor of any affected undertaking or affected industrial undertaking—</leadIn><paragraph id="ID_1438411844200_012" name="a" temporalId="s19_1_a"><num value="a">(a)</num><content>shall cause any luminous compound whenever practicable to be applied by a wet method;</content></paragraph><paragraph id="ID_1438411844200_020" name="b" temporalId="s19_1_b"><num value="b">(b)</num><content>shall not cause or permit the use of brushes in any process for the application of any unsealed radioactive substance without the written permission of the Authority; and</content></paragraph><paragraph id="ID_1438411844200_028" name="c" temporalId="s19_1_c"><num value="c">(c)</num><content>shall not cause or permit luminous powder to be used in any process without the written permission of the Authority.</content></paragraph></subsection><subsection id="ID_1438411844200_035" name="2" temporalId="s19_2"><num value="2">(2)</num><content>Any proprietor of any affected undertaking or affected industrial undertaking
+                who contravenes or fails to comply with any of the provisions of subregulation (1)
+                shall be guilty of an offence and liable on conviction to a fine
+                at
+                level 3.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1990/ln226">L.N. 226 of
+                    1990</ref>; <ref href="/hk/2023/er4">E.R. 4 of
+                    2023</ref>)</sourceNote></content></subsection><sourceNote>(<ref href="/hk/1970/ln98">L.N. 98 of 1970</ref>)</sourceNote></section><section id="ID_1438402961704_001" name="s20" reason="inEffect" role="regulation" startPeriod="2023-12-21" status="operational" temporalId="s20"><num value="20">20.</num><heading>Exhaust ventilation</heading><subsection id="ID_1438411844216_042" name="1" temporalId="s20_1"><num value="1">(1)</num><content>No proprietor of any affected undertaking or affected industrial undertaking shall cause or permit any work involving the handling of any unsealed radioactive substance in powder, paste, gas or vapour form to be carried out by any person except in a cabinet provided with exhaust ventilation of a type approved by the Authority.</content></subsection><subsection id="ID_1438411844231_005" name="2" temporalId="s20_2"><num value="2">(2)</num><paragraph id="ID_1438411844231_009" name="a" temporalId="s20_2_a"><num value="a">(a)</num><content>Any proprietor of any affected undertaking or affected industrial
+                    undertaking who contravenes any of the provisions of subregulation (1) shall be
+                    guilty of an offence and liable on conviction to a fine
+                    at level
+                    4.</content></paragraph><paragraph id="ID_1438411844231_015" name="b" temporalId="s20_2_b"><num value="b">(b)</num><content>Any person employed in any such undertaking who carries out any work
+                    referred to in subregulation (1) otherwise than in a cabinet of a type referred
+                    to therein shall be guilty of an offence and liable on conviction to a fine
+                    at
+                    level 2.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1990/ln226">L.N. 226 of
+                        1990</ref>; <ref href="/hk/2023/er4">E.R. 4 of
+                        2023</ref>)</sourceNote></content></paragraph></subsection><sourceNote>(<ref href="/hk/1970/ln98">L.N. 98 of 1970</ref>)</sourceNote></section><section id="ID_1438402961704_003" name="s21" reason="inEffect" role="regulation" startPeriod="2023-12-21" status="operational" temporalId="s21"><num value="21">21.</num><heading>Tool racks and cleaning of tools</heading><subsection id="ID_1438411844247_035" name="1" temporalId="s21_1"><num value="1">(1)</num><content>The proprietor of any affected undertaking or affected industrial undertaking shall, for the storage of tools not in actual use, provide suitable racks on all work benches on which any unsealed radioactive substance is handled and shall cause such racks and all such tools to be cleaned at the end of each working day or shift.</content></subsection><subsection id="ID_1438411844263_005" name="2" temporalId="s21_2"><num value="2">(2)</num><content>Any proprietor of any affected undertaking or affected industrial undertaking
+                who fails to comply with any of the provisions of subregulation (1) shall be guilty
+                of an offence and liable on conviction to a fine
+                at
+                level 3.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1970/ln98">L.N. 98 of 1970</ref>; <ref href="/hk/1990/ln226">L.N.
+                        226 of
+                    1990</ref>; <ref href="/hk/2023/er4">E.R. 4 of
+                    2023</ref>)</sourceNote></content></subsection></section><section id="ID_1438402961719_001" name="s22" reason="inEffect" role="regulation" startPeriod="2023-12-21" status="operational" temporalId="s22"><num value="22">22.</num><heading>Receptacles for certain substances</heading><subsection id="ID_1438411844278_019" name="1" temporalId="s22_1"><num value="1">(1)</num><content>The proprietor of any affected undertaking or affected industrial undertaking shall provide receptacles of a kind approved by the Authority for all unsealed radioactive substances used or stored in such undertaking.</content></subsection><subsection id="ID_1438411844278_027" name="2" temporalId="s22_2"><num value="2">(2)</num><content>Any proprietor of any affected undertaking or affected industrial undertaking
+                who fails to comply with any of the provisions of subregulation (1) shall be guilty
+                of an offence and liable on conviction to a fine
+                at
+                level 3.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1970/ln98">L.N. 98 of 1970</ref>; <ref href="/hk/1990/ln226">L.N.
+                        226 of
+                    1990</ref>; <ref href="/hk/2023/er4">E.R. 4 of
+                    2023</ref>)</sourceNote></content></subsection></section><section id="ID_1438402961719_003" name="s23" reason="inEffect" role="regulation" startPeriod="2023-12-21" status="operational" temporalId="s23"><num value="23">23.</num><heading>Ventilation of drying stove</heading><subsection id="ID_1438411844294_019" name="1" temporalId="s23_1"><num value="1">(1)</num><content>No proprietor of any affected undertaking or affected industrial undertaking shall cause or permit the use of any stove for the drying of any unsealed radioactive substance, or for the drying of any article to which any such substance has been applied, which is not effectively ventilated to the open air to the satisfaction of the Authority.</content></subsection><subsection id="ID_1438411844309_005" name="2" temporalId="s23_2"><num value="2">(2)</num><content>Any proprietor of any affected undertaking or affected industrial undertaking
+                who contravenes any of the provisions of subregulation (1) shall be guilty of an
+                offence and liable on conviction to a fine
+                at
+                level 3.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1970/ln98">L.N. 98 of 1970</ref>; <ref href="/hk/1990/ln226">L.N.
+                        226 of
+                    1990</ref>; <ref href="/hk/2023/er4">E.R. 4 of
+                    2023</ref>)</sourceNote></content></subsection></section><section id="ID_1438402961735_002" name="s24" reason="inEffect" role="regulation" startPeriod="2023-12-21" status="operational" temporalId="s24"><num value="24">24.</num><heading>Provision of storage safes in certain cases</heading><subsection id="ID_1438411844325_012" name="1" temporalId="s24_1"><num value="1">(1)</num><content>If so required by the Authority the proprietor of any affected undertaking or affected industrial undertaking shall provide and maintain for the storage of radioactive substances, including sealed sources, one or more storage safes of a kind approved by the Authority, and shall ensure that all radioactive substances which are not in use are stored therein and that only the minimum quantities required for immediate use are removed therefrom at any one time.</content></subsection><subsection id="ID_1438411844341_005" name="2" temporalId="s24_2"><num value="2">(2)</num><content>Every safe referred to in subregulation (1) which contains any radioactive substance which emits any radioactive substance in gaseous form shall be provided with adequate ventilation to the open air.</content></subsection><subsection id="ID_1438411844341_013" name="3" temporalId="s24_3"><num value="3">(3)</num><content>The proprietor shall ensure that no radioactive substance,
+                including
+                any sealed source, is removed from the safe referred to in subregulation (1) unless
+                it is contained in a suitable protective container and is removed by a person having
+                reasonable experience or training in the use of radioactive substances.</content></subsection><subsection id="ID_1438411844341_021" name="4" temporalId="s24_4"><num value="4">(4)</num><content>Any proprietor of any affected undertaking or affected industrial undertaking
+                who fails to comply with any of the provisions of this regulation shall be guilty of
+                an offence and liable on conviction to a fine
+                at
+                level 4.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1970/ln98">L.N. 98 of 1970</ref>; <ref href="/hk/1990/ln226">L.N.
+                        226 of
+                    1990</ref>; <ref href="/hk/2023/er4">E.R. 4 of
+                    2023</ref>)</sourceNote></content></subsection></section><section id="ID_1438402961735_004" name="s25" reason="inEffect" role="regulation" startPeriod="2023-12-21" status="operational" temporalId="s25"><num value="25">25.</num><heading>Disposal and transport of radioactive waste</heading><subsection id="ID_1438411844372_004" name="1" temporalId="s25_1"><num value="1">(1)</num><content>The proprietor of any affected undertaking or affected industrial undertaking shall cause all radioactive waste to be removed at frequent intervals from any workplace in which any radioactive substance, including any sealed source, is handled, and in any case at the end of each working day or shift, and shall cause such waste to be placed in one or more containers of a type approved by the Authority and thereafter disposed of in accordance with the provisions of <ref>regulation 9</ref>.</content></subsection><subsection id="ID_1438411844372_012" name="2" temporalId="s25_2"><num value="2">(2)</num><content>Any proprietor of any affected undertaking or affected industrial undertaking
+                who fails to comply with any of the provisions of subregulation (1) shall be guilty
+                of an offence and liable on conviction to a fine
+                at
+                level 3.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1970/ln98">L.N. 98 of 1970</ref>; <ref href="/hk/1990/ln226">L.N.
+                        226 of
+                    1990</ref>; <ref href="/hk/2023/er4">E.R. 4 of
+                    2023</ref>)</sourceNote></content></subsection></section><section id="ID_1438402961751_002" name="s26" reason="inEffect" role="regulation" startPeriod="2023-12-21" status="operational" temporalId="s26"><num value="26">26.</num><heading>Method of cleaning</heading><subsection id="ID_1438411844403_004" name="1" temporalId="s26_1"><num value="1">(1)</num><content>The proprietor of any affected undertaking or affected industrial undertaking
+                shall cause all cleaning which is required to be done under these regulations to be
+                done by a wet method and all implements used in such cleaning to be properly washed
+                after use and kept, when not in use, in a locked cupboard kept exclusively for that
+                purpose.</content></subsection><subsection id="ID_1438411844403_012" name="2" temporalId="s26_2"><num value="2">(2)</num><content>Any proprietor of any affected undertaking or affected industrial undertaking
+                who fails to comply with any of the provisions of subregulation (1) shall be guilty
+                of an offence and liable on conviction to a fine
+                at
+                level 3.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1970/ln98">L.N. 98 of 1970</ref>; <ref href="/hk/1990/ln226">L.N.
+                        226 of
+                    1990</ref>; <ref href="/hk/2023/er4">E.R. 4 of
+                    2023</ref>)</sourceNote></content></subsection></section></part><part id="ID_1438402961766_001" name="P5" reason="inEffect" startPeriod="2023-12-21" status="operational" temporalId="P5"><num value="5">Part
+            V</num><heading>Precautions
+            for
+            Workers</heading><section id="ID_1438402961766_003" name="s27" reason="inEffect" role="regulation" startPeriod="2023-12-21" status="operational" temporalId="s27"><num value="27">27.</num><heading>Protective clothing, etc.</heading><subsection id="ID_1438411844434_004" name="1" temporalId="s27_1"><num value="1">(1)</num><leadIn>The proprietor of any affected undertaking or affected industrial undertaking shall—</leadIn><paragraph id="ID_1438411844434_012" name="a" temporalId="s27_1_a"><num value="a">(a)</num><content>cause every worker employed in such undertaking who is engaged in the handling of any unsealed radioactive substance to be supplied with, and shall direct every such worker to wear, an overall of a pattern approved by the Authority;</content></paragraph><paragraph id="ID_1438411844434_020" name="b" temporalId="s27_1_b"><num value="b">(b)</num><content>cause any such
+                    overall,
+                    after each occasion upon which it is used, either to be washed in such manner as
+                    the Authority may approve for the purpose of preventing the spread of
+                    contamination, or to be disposed of as radioactive waste in accordance with the
+                    provisions of <ref>regulation 9</ref>;</content></paragraph><paragraph id="ID_1438411844434_028" name="c" temporalId="s27_1_c"><num value="c">(c)</num><content>cause every worker employed in such undertaking who is engaged in the handling of any unsealed radioactive substance, in addition to the overall referred to in paragraph (a), to be supplied with, and shall direct every such worker to wear rubber or plastic gloves for protecting the hands and suitable headgear for protecting the hair;</content></paragraph><paragraph id="ID_1438411844450_006" name="d" temporalId="s27_1_d"><num value="d">(d)</num><content>cause all such gloves to be washed each time they are removed from the wearers’ hands after use and such headgear, when in use, to be washed or renewed at least once each week in such manner as the Authority may approve;</content></paragraph><paragraph id="ID_1438411844450_014" name="e" temporalId="s27_1_e"><num value="e">(e)</num><content>cause every worker employed in such undertaking who is engaged in the handling of any unsealed radioactive substance to be supplied with a locker to be used solely for the storage of personal protective equipment;</content></paragraph><paragraph id="ID_1438411844450_022" name="f" temporalId="s27_1_f"><num value="f">(f)</num><content>cause every worker employed in such undertaking who is engaged in the handling of any unsealed radioactive substance to be provided with an adequate supply of paper handkerchiefs and shall direct every such worker not to use any other handkerchief for any purpose while so engaged;</content></paragraph><paragraph id="ID_1438411844465_006" name="g" temporalId="s27_1_g"><num value="g">(g)</num><content>cause arrangements to be made for the deposit in receptacles, of a type respectively approved by the Authority, of used paper handkerchiefs requiring disposal and of used articles of personal protective equipment requiring laundering;</content></paragraph><paragraph id="ID_1438411844465_014" name="h" temporalId="s27_1_h"><num value="h">(h)</num><content>cause receptacle referred to in paragraph (g) to be at all times situated in every workroom, locker room and ablution room used by any worker engaged in the handling of any unsealed radioactive substance and shall cause each such receptacle to be emptied of its contents at the end of each working day or shift and the contents thereof disposed of in accordance with the provisions of <ref>regulation 9</ref> as radioactive waste, or, as the case may be, laundered or stored for laundering in a manner approved by the Authority.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1993/ln386">L.N. 386 of 1993</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438411844481_005" name="2" temporalId="s27_2"><num value="2">(2)</num><content>The Authority may, upon application in any particular case and upon being satisfied that adequate alternative safety precautions are taken, by notice in writing addressed to the proprietor of any affected undertaking or affected industrial undertaking in question waive all or any of the provisions of subregulation (1).</content></subsection><subsection id="ID_1438411844481_013" name="3" temporalId="s27_3"><num value="3">(3)</num><leadIn>Subject to the provisions of subregulation (2)—</leadIn><paragraph id="ID_1438411844481_021" name="a" temporalId="s27_3_a"><num value="a">(a)</num><content>any proprietor of any affected undertaking or affected industrial
+                    undertaking who fails to comply with any of the provisions of subregulation (1)
+                    shall be guilty of an offence and liable on conviction to a fine
+                    at
+                    level 4.</content></paragraph><paragraph id="ID_1438411844481_029" name="b" temporalId="s27_3_b"><num value="b">(b)</num><content>any person who fails to comply with any direction required to be given
+                    pursuant to any of the provisions of subregulation (1) shall be guilty of an
+                    offence and liable on conviction to a fine
+                    at
+                    level 2.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1990/ln226">L.N. 226 of
+                        1990</ref>; <ref href="/hk/2023/er4">E.R. 4 of
+                        2023</ref>)</sourceNote></content></paragraph></subsection><sourceNote>(<ref href="/hk/1970/ln98">L.N. 98 of 1970</ref>)</sourceNote></section><section id="ID_1438402961782_001" name="s28" reason="inEffect" role="regulation" startPeriod="2023-12-21" status="operational" temporalId="s28"><num value="28">28.</num><heading>Protective screens</heading><subsection id="ID_1438411844528_004" name="1" temporalId="s28_1"><num value="1">(1)</num><content>The proprietor of any affected undertaking or affected industrial undertaking in which any person is employed in any work or process involving the handling of any unsealed radioactive substance in liquid form shall provide for the use of such person, and shall direct such person to use, a suitable protective screen so constructed that it is or can be placed in a position between the face and the hands of the worker so as effectively to screen the face from the work during the handling of the substance.</content></subsection><subsection id="ID_1438411844543_005" name="2" temporalId="s28_2"><num value="2">(2)</num><paragraph id="ID_1438411844543_009" name="a" temporalId="s28_2_a"><num value="a">(a)</num><content>Any proprietor of any affected undertaking or affected industrial
+                    undertaking who fails to comply with any of the provisions of subregulation (1)
+                    shall be guilty of an offence and liable on conviction to a fine
+                    at
+                    level 4.</content></paragraph><paragraph id="ID_1438411844543_015" name="b" temporalId="s28_2_b"><num value="b">(b)</num><content>Any person who
+                    fails
+                    to comply with any direction given by the proprietor of any affected undertaking
+                    or affected industrial undertaking pursuant to the provisions of subregulation
+                    (1) shall be guilty of an offence and liable on conviction to a fine
+                    at
+                    level 2.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1990/ln226">L.N. 226 of
+                        1990</ref>; <ref href="/hk/2023/er4">E.R. 4 of
+                        2023</ref>)</sourceNote></content></paragraph></subsection><sourceNote>(<ref href="/hk/1970/ln98">L.N. 98 of 1970</ref>)</sourceNote></section><section id="ID_1438402961782_003" name="s29" reason="inEffect" role="regulation" startPeriod="2023-12-21" status="operational" temporalId="s29"><num value="29">29.</num><heading>Washing facilities</heading><subsection id="ID_1438411844559_035" name="1" temporalId="s29_1"><num value="1">(1)</num><content>The proprietor of any affected undertaking or affected industrial undertaking shall provide washing facilities with soap, towels and nail brushes and an adequate supply of water free from radioactive contamination for the use of any person employed in any work or process involving the handling of any unsealed radioactive substance or any containers of such substance, and shall direct any such person to make adequate use of such facilities.</content></subsection><subsection id="ID_1438411844575_005" name="2" temporalId="s29_2"><num value="2">(2)</num><paragraph id="ID_1438411844575_009" name="a" temporalId="s29_2_a"><num value="a">(a)</num><content>Any proprietor of any affected undertaking or affected industrial
+                    undertaking who fails to comply with any of the provisions of subregulation (1)
+                    shall be guilty of an offence and liable on conviction to a fine
+                    at
+                    level 4.</content></paragraph><paragraph id="ID_1438411844575_015" name="b" temporalId="s29_2_b"><num value="b">(b)</num><content>Any person who fails to comply with any direction given by the proprietor
+                    of any affected undertaking or affected industrial undertaking given pursuant to
+                    the provisions of subregulation (1) shall be guilty of an offence and liable on
+                    conviction to a fine
+                    at
+                    level 2.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1990/ln226">L.N. 226 of
+                        1990</ref>; <ref href="/hk/2023/er4">E.R. 4 of
+                        2023</ref>)</sourceNote></content></paragraph></subsection><sourceNote>(<ref href="/hk/1970/ln98">L.N. 98 of 1970</ref>)</sourceNote></section><section id="ID_1438402961797_002" name="s30" reason="inEffect" role="regulation" startPeriod="2023-12-21" status="operational" temporalId="s30"><num value="30">30.</num><heading>Prevention of bodily absorption of radioactive substance</heading><subsection id="ID_1438411844606_004" name="1" temporalId="s30_1"><num value="1">(1)</num><content>No person shall, in any affected undertaking or affected industrial undertaking, introduce into any workplace in which any radioactive substance is handled any article not essential to the processes performed in that workplace and, without prejudice to the generality of the foregoing, no food or drink, or utensil for the partaking of food or drink, or any materials or articles for smoking or for the application of cosmetics shall be so introduced.</content></subsection><subsection id="ID_1438411844606_012" name="2" temporalId="s30_2"><num value="2">(2)</num><leadIn>Every worker employed in any affected undertaking or affected industrial undertaking who is engaged in the handling of any radioactive substance shall—</leadIn><paragraph id="ID_1438411844606_020" name="a" temporalId="s30_2_a"><num value="a">(a)</num><content>wash his hands before each meal; and</content></paragraph><paragraph id="ID_1438411844621_001" name="b" temporalId="s30_2_b"><num value="b">(b)</num><content>before leaving his place of work, deposit all personal protective equipment in the locker or receptacle, as the case may be, provided therefor in accordance with <ref>regulation 27(1)(e)</ref>, (g) or (h) and thereafter wash his hands.</content></paragraph></subsection><subsection id="ID_1438411844621_008" name="3" temporalId="s30_3"><num value="3">(3)</num><content>Any person who contravenes any of the provisions of subregulation (1) and any
+                worker who fails to comply with any of the provisions of subregulation (2) shall be
+                guilty of an offence and liable on conviction to a fine
+                at
+                level 2.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1970/ln98">L.N. 98 of 1970</ref>; <ref href="/hk/1990/ln226">L.N.
+                        226 of
+                    1990</ref>; <ref href="/hk/2023/er4">E.R. 4 of
+                    2023</ref>)</sourceNote></content></subsection></section><section id="ID_1438402961797_004" name="s31" reason="inEffect" role="regulation" startPeriod="2023-12-21" status="operational" temporalId="s31"><num value="31">31.</num><heading>Prohibition of the use of mouth-operated equipment</heading><subsection id="ID_1438411844637_035" name="1" temporalId="s31_1"><num value="1">(1)</num><content>No proprietor of any affected undertaking or affected industrial undertaking shall cause or permit any person employed therein in work involving the handling of any unsealed radioactive substance to operate by means of his mouth any plant, apparatus or other equipment whatsoever.</content></subsection><subsection id="ID_1438411844653_005" name="2" temporalId="s31_2"><num value="2">(2)</num><content>Any proprietor of any affected undertaking or affected industrial undertaking
+                who contravenes any of the provisions of subregulation (1) shall be guilty of an
+                offence and liable on conviction to a fine
+                at
+                level 4.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1970/ln98">L.N. 98 of 1970</ref>; <ref href="/hk/1990/ln226">L.N.
+                        226 of
+                    1990</ref>; <ref href="/hk/2023/er4">E.R. 4 of
+                    2023</ref>)</sourceNote></content></subsection></section></part><part id="ID_1438402961813_002" name="P6" reason="inEffect" startPeriod="2023-12-21" status="operational" temporalId="P6"><num value="6">Part
+            VI</num><heading>Supervision</heading><section id="ID_1438402961875_002" name="s32" reason="inEffect" role="regulation" startPeriod="2023-12-21" status="operational" temporalId="s32"><num value="32">32.</num><heading>Supervision</heading><subsection id="ID_1438411844684_004" name="1" temporalId="s32_1"><num value="1">(1)</num><content>The proprietor of any affected undertaking or affected industrial undertaking shall appoint a person having reasonable experience or training in the use of ionizing radiations or the handling of radioactive substances to supervise any work carried on in such undertaking which involves such use or such handling.</content></subsection><subsection id="ID_1438411844684_012" name="2" temporalId="s32_2"><num value="2">(2)</num><content>Any
+                proprietor
+                of any affected undertaking or affected industrial undertaking who fails to comply
+                with any of the provisions of subregulation (1) shall be guilty of an offence and
+                liable on conviction to a fine
+                at
+                level 3.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1970/ln98">L.N. 98 of 1970</ref>; <ref href="/hk/1990/ln226">L.N.
+                        226 of
+                    1990</ref>; <ref href="/hk/2023/er4">E.R. 4 of
+                    2023</ref>)</sourceNote></content></subsection></section><section id="ID_1438402961891_001" name="s33" reason="inEffect" role="regulation" startPeriod="2023-12-21" status="operational" temporalId="s33"><num value="33">33.</num><heading>Warning notices where ionizing radiations are used</heading><subsection id="ID_1438411844715_004" name="1" temporalId="s33_1"><num value="1">(1)</num><content>If so required by the Authority, either generally by notification in the Gazette or in any particular case by request in writing addressed to the proprietor, the proprietor of any affected undertaking or affected industrial undertaking, as the case may be, shall post such notices as the Authority may require to be posted in any place in the undertaking in which ionizing radiations are used.</content></subsection><subsection id="ID_1438411844715_012" name="2" temporalId="s33_2"><num value="2">(2)</num><content>The proprietor of any affected undertaking or affected industrial undertaking
+                who fails to post any notice referred to in subregulation (1) when so required in
+                accordance with the provisions of that subregulation shall be guilty of an offence
+                and liable on conviction to a fine
+                at
+                level 3.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1970/ln98">L.N. 98 of 1970</ref>; <ref href="/hk/1990/ln226">L.N.
+                        226 of
+                    1990</ref>; <ref href="/hk/2023/er4">E.R. 4 of
+                    2023</ref>)</sourceNote></content></subsection></section><section id="ID_1438402961891_003" name="s34" reason="inEffect" role="regulation" startPeriod="2023-12-21" status="operational" temporalId="s34"><num value="34">34.</num><heading>Action to be taken in the event of spillage, loss, etc.</heading><subsection id="ID_1438411844746_004" name="1" temporalId="s34_1"><num value="1">(1)</num><content>In the event of spillage or other loss of any radioactive substance in any affected undertaking or affected industrial undertaking or in the course of any form of transportation or of any other occurrence in any such undertaking, whether accidental or otherwise, of such a nature that the safety or health of any person is or may be adversely affected thereby, the proprietor of such undertaking, or the carrier in the case of transportation, shall, so soon as the fact of such spillage, loss or occurrence comes to his attention, cause a report of the circumstances to be made to the Authority, and, if such report is made verbally, it shall be followed by a report in writing made within 48 hours thereafter.</content></subsection><subsection id="ID_1438411844762_005" name="2" temporalId="s34_2"><num value="2">(2)</num><content>In the event of spillage of any radioactive substance in any affected undertaking or affected industrial undertaking, the proprietor of such undertaking shall immediately order the removal of all persons from the workplace affected; and shall so soon as may be thereafter cause the area to be cleansed by a wet method under the supervision of such person as the Authority may designate for the purpose; and until the workplace has been cleansed to the satisfaction of the person so designated and such person has so certified in writing, the proprietor shall permit only such persons as may be required to effect the cleansing to enter the workplace.</content></subsection><subsection id="ID_1438411844777_005" name="3" temporalId="s34_3"><num value="3">(3)</num><content>In the event of loss of any radioactive substance in any affected undertaking
+                or affected industrial undertaking, the Authority may take such steps as he
+                considers necessary and practicable for the protection of any person who might
+                suffer injury as a result of the
+                loss.</content></subsection><subsection id="ID_1438411844793_005" name="4" temporalId="s34_4"><num value="4">(4)</num><content>In the event of any other occurrence of the nature described in subregulation (1) in any affected undertaking or affected industrial undertaking, the proprietor of such undertaking shall take such remedial action as the Authority may direct.</content></subsection><subsection id="ID_1438411844793_013" name="5" temporalId="s34_5"><num value="5">(5)</num><content>Any proprietor of any affected undertaking or affected industrial undertaking
+                who fails to comply with any of the provisions of subregulation (1) or (2) or who
+                fails to comply with any direction given by the Authority pursuant to the provisions
+                of subregulation (4), and any carrier who fails to comply with any of the provisions
+                of subregulation (1), shall be guilty of an offence and liable on conviction to a
+                fine
+                at
+                level 4.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1970/ln98">L.N. 98 of 1970</ref>; <ref href="/hk/1990/ln226">L.N.
+                        226 of
+                    1990</ref>; <ref href="/hk/2023/er4">E.R. 4 of
+                    2023</ref>)</sourceNote></content></subsection></section></part><schedule id="ID_1438402961922_001" name="sch0" reason="inEffect" startPeriod="2023-12-21" status="operational" temporalId="sch0"><num value="0">Schedule</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap303A/s6">reg.
+                6</ref>]</note><crossHeading><inline class="not_bold">Label
+                A</inline></crossHeading><text>
+            <marker role="blank-line"></marker>
+            <marker role="blank-line"></marker>
+        </text><text>
+            <center><img alt="This image is the White Label for radioactive substance." height="215" width="228" src="images/CAP303A_en_sch0_20231221_000000_0001.jpg" title="This image is the White Label for radioactive substance."></img></center>
+        </text><text><marker role="section-break"></marker></text><crossHeading><inline class="not_bold">Label
+                B</inline></crossHeading><text class="left_indent_0 first_line_indent_168">
+            
+            <marker role="blank-line"></marker>
+            <marker role="blank-line"></marker>
+        </text><text>
+            <center><img src="images/CAP303A_en_sch0_20231221_000000_0002.jpg" alt="This image is the Yellow Label for radioactive substance." height="215" width="309" title="This image is the Yellow Label for radioactive substance."></img></center>
+        </text><sourceNote>(<ref href="/hk/1982/ln410">L.N. 410 of 1982</ref>; <ref href="/hk/1985/ln228">L.N. 228 of
+                1985</ref>; <ref href="/hk/2023/er4">E.R. 4 of
+        2023</ref>)</sourceNote></schedule></main></subLeg>

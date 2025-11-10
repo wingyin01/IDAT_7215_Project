@@ -1,0 +1,151 @@
+{% extends "base.html" %}
+
+{% block title %}Document Analysis - HK Criminal Law Expert System{% endblock %}
+
+{% block content %}
+<div class="card">
+    <h2>📄 Document Analysis</h2>
+    <p>Paste a legal document or case description to automatically extract facts, identify legal issues, and analyze potential offences.</p>
+</div>
+
+<div class="card">
+    <form id="analysis-form">
+        <div class="form-group">
+            <label for="document-text">Document Text:</label>
+            <textarea id="document-text" class="form-control" style="min-height: 250px;" placeholder="Paste your document here..." required></textarea>
+        </div>
+        
+        <button type="submit" class="btn btn-primary">Analyze Document</button>
+    </form>
+</div>
+
+<div id="loader" class="loader">
+    <div class="spinner"></div>
+    <p>Analyzing document...</p>
+</div>
+
+<div id="results" style="display: none;">
+    <div class="card">
+        <h2>📊 Analysis Results</h2>
+        <div id="results-content"></div>
+    </div>
+</div>
+
+<script>
+document.getElementById('analysis-form').addEventListener('submit', async function(e) {
+    e.preventDefault();
+    
+    const text = document.getElementById('document-text').value;
+    const loader = document.getElementById('loader');
+    const results = document.getElementById('results');
+    
+    loader.classList.add('active');
+    results.style.display = 'none';
+    
+    try {
+        const response = await fetch('/api/analyze-document', {
+            method: 'POST',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({text: text})
+        });
+        
+        const data = await response.json();
+        
+        if (!data.success) {
+            throw new Error(data.error);
+        }
+        
+        let html = '<div class="result"><h3>📋 Summary</h3>';
+        html += `<p>${data.analysis.summary}</p></div>`;
+        
+        // Potential offences
+        if (data.analysis.offences.length > 0) {
+            html += '<div class="result"><h3>🔴 Potential Offence Categories</h3><ul>';
+            data.analysis.offences.forEach(o => {
+                html += `<li><strong>${o.type.replace('_', ' ').toUpperCase()}</strong> - Confidence: ${(o.confidence * 100).toFixed(0)}%</li>`;
+            });
+            html += '</ul></div>';
+        }
+        
+        // Extracted facts
+        if (data.analysis.facts.length > 0) {
+            html += '<div class="result"><h3>✓ Extracted Legal Facts</h3><ul>';
+            data.analysis.facts.forEach(fact => {
+                html += `<li>${fact.replace('_', ' ')}</li>`;
+            });
+            html += '</ul></div>';
+        }
+        
+        // Parties
+        if (data.analysis.parties.length > 0) {
+            html += '<div class="result"><h3>👥 Parties Involved</h3><ul>';
+            data.analysis.parties.forEach(party => {
+                html += `<li>${party}</li>`;
+            });
+            html += '</ul></div>';
+        }
+        
+        // Dates
+        if (data.analysis.dates.length > 0) {
+            html += '<div class="result"><h3>📅 Dates</h3><ul>';
+            data.analysis.dates.forEach(date => {
+                html += `<li>${date}</li>`;
+            });
+            html += '</ul></div>';
+        }
+        
+        // Amounts
+        if (data.analysis.amounts.length > 0) {
+            html += '<div class="result"><h3>💰 Monetary Amounts</h3><ul>';
+            data.analysis.amounts.forEach(amount => {
+                html += `<li>${amount}</li>`;
+            });
+            html += '</ul></div>';
+        }
+        
+        // Locations
+        if (data.analysis.locations.length > 0) {
+            html += '<div class="result"><h3>📍 Locations</h3><ul>';
+            data.analysis.locations.forEach(loc => {
+                html += `<li>${loc}</li>`;
+            });
+            html += '</ul></div>';
+        }
+        
+        // Legal issues
+        if (data.analysis.legal_issues.length > 0) {
+            html += '<div class="result"><h3>⚖️ Legal Issues to Consider</h3><ul>';
+            data.analysis.legal_issues.forEach(issue => {
+                html += `<li>${issue}</li>`;
+            });
+            html += '</ul></div>';
+        }
+        
+        // Inference results if available
+        if (data.inference_results && data.inference_results.offences.length > 0) {
+            html += '<div class="result"><h3>🎯 Identified Offences</h3>';
+            data.inference_results.offences.forEach((offence, idx) => {
+                html += `
+                    <div class="offence-item">
+                        <h4>${idx + 1}. ${offence.name}</h4>
+                        <p><strong>Legal Basis:</strong> ${offence.ordinance_ref}</p>
+                        <p><strong>Maximum Penalty:</strong> ${offence.penalty}</p>
+                    </div>
+                `;
+            });
+            html += '</div>';
+        }
+        
+        document.getElementById('results-content').innerHTML = html;
+        results.style.display = 'block';
+        results.scrollIntoView({behavior: 'smooth'});
+        
+    } catch (error) {
+        alert('Error: ' + error.message);
+    } finally {
+        loader.classList.remove('active');
+    }
+});
+</script>
+{% endblock %}
+

@@ -1,0 +1,979 @@
+<?xml version="1.0" encoding="UTF-8"?><subLeg xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd" xml:lang="en"><meta><docName>Cap. 613 sub. leg. A</docName><docType>cap</docType><docNumber>613A</docNumber><docStatus>In effect</docStatus><dc:identifier>/hk/cap613A!en</dc:identifier><dc:date>2025-06-16</dc:date><dc:subject>legislation</dc:subject><dc:language>en</dc:language><dc:publisher>DoJ</dc:publisher><dc:rights>the Government of the Hong Kong Special Administrative Region</dc:rights></meta><main xml:lang="en" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd"><docTitle id="ID_1438403527529_001" name="shortTitle" reason="inEffect" status="operational" temporalId="shortTitle" startPeriod="2012-02-09">Residential Care Homes (Persons with Disabilities) Regulation</docTitle><enactingFormula role="empoweringSection">(<ref href="/hk/cap613/s24">Cap. 613, section 24</ref>)</enactingFormula><sourceNote>(Enacting provision omitted—<ref href="/hk/2012/er1">E.R. 1 of 2012</ref>)<marker role="blank-line"></marker><marker role="blank-line"></marker></sourceNote><commencementNote>[18 November 2011]<sourceNote><inline class="width_3"> </inline><ref href="/hk/2011/ln112">L.N. 112 of 2011</ref></sourceNote></commencementNote><part id="ID_1438403527529_003" name="P1" reason="inEffect" startPeriod="2011-11-18" status="operational" temporalId="P1"><num value="1">Part 1</num><heading>Preliminary</heading><section id="ID_1438403527529_005" name="s1" reason="omittedAsSpent" startPeriod="2012-02-09" status="omitted" temporalId="s1"><num value="1">1.</num><sourceNote>(Omitted as spent—<ref href="/hk/2012/er1">E.R. 1 of 2012</ref>)</sourceNote></section><section id="ID_1438403527545_002" name="s2" reason="inEffect" startPeriod="2024-06-16" status="operational" temporalId="s2"><num value="2">2.</num><heading>Interpretation</heading><leadIn>In this Regulation—</leadIn><def name="AncillaryWorker"><term>ancillary worker</term> (<term xml:lang="zh-Hant-HK">助理員</term>) means any person, other than a care worker, health worker or nurse,
+            employed by an operator whose duties include those of a cook, domestic servant, driver,
+            gardener, watchman, welfare worker or clerk;</def><def name="ApplicableFee"><term>applicable fee</term> (<term xml:lang="zh-Hant-HK">適用費用</term>), in relation to a matter, means the fee specified in <ref>Schedule
+                2</ref> payable for that matter; <sourceNote>(<ref href="hk/2023/12">12 of 2023 s. 75</ref>)</sourceNote></def><def name="CareWorker"><term>care worker</term> (<term xml:lang="zh-Hant-HK">護理員</term>)
+            means any person, other than an ancillary worker, health worker or nurse, employed by an
+            operator to render personal care to residents;</def><def name="HealthWorker"><term>health worker</term> (<term xml:lang="zh-Hant-HK">保健員</term>)
+            means a person who is responsible for providing health and care services to residents;
+                <sourceNote>(<ref href="hk/2023/12">12 of 2023 s. 75</ref>)</sourceNote></def><def name="HighCareLevelHome"><term>high care level home</term> (<term xml:lang="zh-Hant-HK">高度照顧院舍</term>) means a residential care home for PWDs within the meaning of
+                <ref>section 3(a)</ref>; <sourceNote>(<ref href="hk/2023/12">12 of 2023 s. 75</ref>)</sourceNote></def><def name="HomeManager"><term>home manager</term> (<term xml:lang="zh-Hant-HK">主管</term>)
+            means any person responsible for the management of a residential care home for
+            PWDs;</def><def name="LowCareLevelHome"><term>low care level home</term> (<term xml:lang="zh-Hant-HK">低度照顧院舍</term>) means a residential care home for PWDs within the meaning of
+                <ref>section 3(c)</ref>; <sourceNote>(<ref href="hk/2023/12">12 of 2023 s. 75</ref>)</sourceNote></def><def name="MediumCareLevelHome"><term>medium care level home</term> (<term xml:lang="zh-Hant-HK">中度照顧院舍</term>) means a residential care home for PWDs within
+            the meaning of <ref>section 3(b)</ref>; <sourceNote>(<ref href="hk/2023/12">12 of 2023 s. 75</ref>)</sourceNote></def><def name="ParticularsOfIdentity"><term>particulars of identity</term> (<term xml:lang="zh-Hant-HK">身分詳情</term>) means the particulars set out on an identity card
+            issued under the Registration of Persons Ordinance
+                (<ref href="/hk/cap177">Cap. 177</ref>); <sourceNote>(<ref href="hk/2023/12">12 of 2023 s. 75</ref>)</sourceNote></def><def name="PrematerialdateHomeManager"><term>pre-material-date home manager</term> (<term xml:lang="zh-Hant-HK">關鍵日期前的主管</term>) means a person who was employed as a home
+            manager in a residential care home for PWDs or a residential care home for the elderly
+            immediately before the material date; <sourceNote>(<ref href="hk/2023/12">12 of 2023 s. 75</ref>)</sourceNote></def><def name="RegisterOfHealthWorkers"><term>register of health workers</term> (<term xml:lang="zh-Hant-HK">保健員註冊紀錄冊</term>) means the register kept under <ref>section
+                5(1)</ref>; <sourceNote>(<ref href="hk/2023/12">12 of 2023 s. 75</ref>)</sourceNote></def><def name="RegisterOfHomeManagers"><term>register of home managers</term> (<term xml:lang="zh-Hant-HK">主管註冊紀錄冊</term>) means the register kept under <ref>section
+                3X(1)</ref>; <sourceNote>(<ref href="hk/2023/12">12 of 2023 s. 75</ref>)</sourceNote></def><def name="RegisteredHealthWorker"><term>registered health worker</term> (<term xml:lang="zh-Hant-HK">註冊保健員</term>) means a person whose name appears on the
+            register of health workers; <sourceNote>(<ref href="hk/2023/12">12 of 2023 s. 75</ref>)</sourceNote></def><def name="RegisteredHomeManager"><term>registered home manager</term> (<term xml:lang="zh-Hant-HK">註冊主管</term>) means a person whose name appears on the list of
+            persons registered as registered home managers in the register of home managers;
+                <sourceNote>(<ref href="hk/2023/12">12 of 2023 s. 75</ref>)</sourceNote></def><def name="RegisteredHomeManagerprovisional"><term>registered home manager
+                (provisional)</term> (<term xml:lang="zh-Hant-HK">註冊主管(臨時)</term>) means a person
+            whose name appears on the list of persons registered as registered home managers
+            (provisional) in the register of home managers; <sourceNote>(<ref href="hk/2023/12">12 of 2023 s. 75</ref>)</sourceNote></def><def name="Secretary"><term>Secretary</term> (<term xml:lang="zh-Hant-HK">局長</term>) means
+            the Secretary for Labour and Welfare. <sourceNote>(<ref href="hk/2023/12">12 of 2023 s. 75</ref>)</sourceNote></def><sourceNote>(<ref href="hk/2023/12">12 of 2023 s. 75</ref>)</sourceNote></section></part><part id="ID_1438403527545_004" name="P2" reason="inEffect" startPeriod="2011-11-18" status="operational" temporalId="P2"><num value="2">Part 2</num><heading>Types of Residential Care Homes for PWDs</heading><section id="ID_1438403527560_001" name="s3" reason="inEffect" startPeriod="2024-06-16" status="operational" temporalId="s3"><num value="3">3.</num><heading>Types of residential care homes for PWDs</heading><leadIn>For the purposes of <ref>sections 7(4)(c)</ref> and <ref>11(3)(c)</ref> of the
+            Ordinance and this
+            Regulation, a residential care home for PWDs may be classified as—
+            <sourceNote>(<ref href="hk/2023/12">12 of 2023 s. 76</ref>)</sourceNote></leadIn><paragraph id="ID_1438413843553_012" name="a" temporalId="s3_a"><num value="a">(a)</num><content>a “high care level home”, namely, an establishment providing residential care for PWDs who are generally weak in health and lack basic self-care skill to the extent that they require personal care, attention and assistance in the course of daily living activities but do not require a high degree of professional medical or nursing care;</content></paragraph><paragraph id="ID_1438413843553_020" name="b" temporalId="s3_b"><num value="b">(b)</num><content>a “medium care level home”, namely, an establishment providing residential care for PWDs who are capable of basic self-care but have a degree of difficulty in daily living activities; or</content></paragraph><paragraph id="ID_1438413843569_006" name="c" temporalId="s3_c"><num value="c">(c)</num><content>a “low care level home”, namely, an establishment providing residential care for PWDs who are capable of basic self-care and require only minimal assistance in daily living activities.</content></paragraph></section></part><part id="ID_1715223044465_001" name="P2A" temporalId="P2A" startPeriod="2024-06-16" status="operational" reason="inEffect"><num value="2A">Part 2A</num><heading>Registration of
+            Home Managers</heading><sourceNote>(<ref>Part 2A</ref> added <ref href="hk/2023/12">12 of 2023 s.
+            77</ref>)</sourceNote><division id="ID_1715223044763_002" name="D1" temporalId="P2A_D1" startPeriod="2024-06-16" status="operational" reason="inEffect"><num value="1">Division 1</num><heading>Registered Home
+            Managers</heading><section id="ID_1715223044977_003" name="s3A" temporalId="s3A" startPeriod="2024-06-16" status="operational" reason="inEffect"><num value="3A">3A.</num><heading>Application for
+            registration as registered home manager</heading><subsection id="ID_1715322438346_001" name="1" temporalId="s3A_1"><num value="1">(1)</num><leadIn>An application for registration as a registered home manager must—</leadIn><paragraph id="ID_1715322438347_002" name="a" temporalId="s3A_1_a"><num value="a">(a)</num><content>be made to the Director in the form and manner specified by the Director;
+                    and</content></paragraph><paragraph id="ID_1715322438348_003" name="b" temporalId="s3A_1_b"><num value="b">(b)</num><content>contain the information specified by the Director.</content></paragraph></subsection><subsection id="ID_1715322438349_004" name="2" temporalId="s3A_2"><num value="2">(2)</num><leadIn>On the application, the Director may register the applicant as a registered home
+                manager if—</leadIn><paragraph id="ID_1715322438350_005" name="a" temporalId="s3A_2_a"><num value="a">(a)</num><leadIn>the Director is satisfied that the applicant—</leadIn><subparagraph id="ID_1715322438351_006" name="1" temporalId="s3A_2_a_1"><num value="1">(i)</num><content>meets the qualification requirement specified in <ref>section
+                        3B</ref>;</content></subparagraph><subparagraph id="ID_1715322438354_007" name="2" temporalId="s3A_2_a_2"><num value="2">(ii)</num><content>is competent to perform the duties of a home manager; and</content></subparagraph><subparagraph id="ID_1715322438355_008" name="3" temporalId="s3A_2_a_3"><num value="3">(iii)</num><content>is fit and proper to be so registered; and</content></subparagraph></paragraph><paragraph id="ID_1715322438356_009" name="b" temporalId="s3A_2_b"><num value="b">(b)</num><content>the applicant has paid the applicable fee for the registration.</content></paragraph></subsection><subsection id="ID_1715322438357_010" name="3" temporalId="s3A_3"><num value="3">(3)</num><content>The Director may impose on the registration any condition that the Director
+                considers appropriate, including any condition relating to continuous
+                learning.</content></subsection></section><section id="ID_1715223045188_004" name="s3B" temporalId="s3B" startPeriod="2024-06-16" status="operational" reason="inEffect"><num value="3B">3B.</num><heading>Qualification
+            requirement for registration as registered home manager</heading><subsection id="ID_1715322686121_001" name="1" temporalId="s3B_1"><num value="1">(1)</num><leadIn>For <ref>section 3A(2)(a)(i)</ref>, the qualification requirement is
+                that—</leadIn><paragraph id="ID_1715322686123_002" name="a" temporalId="s3B_1_a"><num value="a">(a)</num><leadIn>the person—</leadIn><subparagraph id="ID_1715322686124_003" name="1" temporalId="s3B_1_a_1"><num value="1">(i)</num><content>is one specified in subsection <ref>(2)(a)</ref>, (b), (c) or (d);
+                        and</content></subparagraph><subparagraph id="ID_1715322686126_004" name="2" temporalId="s3B_1_a_2"><num value="2">(ii)</num><content>has completed a training course specified by the Director; or</content></subparagraph></paragraph><paragraph id="ID_1715322686127_005" name="b" temporalId="s3B_1_b"><num value="b">(b)</num><content>the person is a registered home manager as defined by <ref>section 2</ref>
+                    of <ref href="/hk/cap459A">Cap. 459A</ref>.</content></paragraph></subsection><subsection id="ID_1715322686130_006" name="2" temporalId="s3B_2"><num value="2">(2)</num><leadIn>The following persons are specified for subsection
+                <ref>(1)(a)(i)</ref>—</leadIn><paragraph id="ID_1715322686132_007" name="a" temporalId="s3B_2_a"><num value="a">(a)</num><leadIn>a person who—</leadIn><subparagraph id="ID_1715322686133_008" name="1" temporalId="s3B_2_a_1"><num value="1">(i)</num><leadIn>holds—</leadIn><subparagraph role="subSubparagraph" id="ID_1715322686134_009" name="A" temporalId="s3B_2_a_1_A"><num value="A">(A)</num><content>a professional qualification relating to healthcare or social work
+                            specified by the Director; or</content></subparagraph><subparagraph role="subSubparagraph" id="ID_1715322686135_010" name="B" temporalId="s3B_2_a_1_B"><num value="B">(B)</num><content>a bachelor or higher degree, or an academic qualification regarded
+                            by the Director as equivalent; and</content></subparagraph></subparagraph><subparagraph id="ID_1715322686136_011" name="2" temporalId="s3B_2_a_2"><num value="2">(ii)</num><content>has, within 3 years before making the application, worked in one or
+                        more residential care homes for PWDs or residential care homes for the
+                        elderly for a total of at least 1 year in a position involving or assisting
+                        in the management of the residential care homes for PWDs or residential care
+                        homes for the elderly;</content></subparagraph></paragraph><paragraph id="ID_1715322686137_012" name="b" temporalId="s3B_2_b"><num value="b">(b)</num><leadIn>a person who—</leadIn><subparagraph id="ID_1715322686138_013" name="1" temporalId="s3B_2_b_1"><num value="1">(i)</num><content>is a registered health worker within the meaning of this Regulation, or
+                        a registered health worker as defined by <ref>section 2</ref> of <ref href="/hk/cap459A">Cap. 459A</ref>; and</content></subparagraph><subparagraph id="ID_1715322686141_014" name="2" temporalId="s3B_2_b_2"><num value="2">(ii)</num><content>has worked in one or more residential care homes for PWDs or
+                        residential care homes for the elderly as a health worker for a total of at
+                        least 5 years;</content></subparagraph></paragraph><paragraph id="ID_1715322686142_015" name="c" temporalId="s3B_2_c"><num value="c">(c)</num><content>a pre-material-date home manager who applies for registration as a
+                    registered home manager under <ref>section 3A</ref> during the 6-month period
+                    beginning on the material date;</content></paragraph><paragraph id="ID_1715322686144_016" name="d" temporalId="s3B_2_d"><num value="d">(d)</num><leadIn>a pre-material-date home manager who is—</leadIn><subparagraph id="ID_1715322686145_017" name="1" temporalId="s3B_2_d_1"><num value="1">(i)</num><content>a registered home manager (provisional) within the meaning of this
+                        Regulation; or</content></subparagraph><subparagraph id="ID_1715322686146_018" name="2" temporalId="s3B_2_d_2"><num value="2">(ii)</num><content>a registered home manager (provisional) as defined by <ref>section
+                            2</ref> of <ref href="/hk/cap459A">Cap. 459A</ref>.</content></subparagraph></paragraph></subsection></section><section id="ID_1715223045396_005" name="s3C" temporalId="s3C" startPeriod="2024-06-16" status="operational" reason="inEffect"><num value="3C">3C.</num><heading>Fit and proper
+            requirement for registration as registered home manager</heading><leadIn>For <ref>section 3A(2)(a)(iii)</ref>, in considering whether a person is fit and
+            proper to be registered as a registered home manager, the Director must have regard to
+            all relevant matters, including—</leadIn><paragraph id="ID_1715322801742_001" name="a" temporalId="s3C_a"><num value="a">(a)</num><leadIn>whether the person has been—</leadIn><subparagraph id="ID_1715322801743_002" name="1" temporalId="s3C_a_1"><num value="1">(i)</num><content>convicted of an offence involving fraud or dishonesty, or of a sexual
+                    nature, in any place;</content></subparagraph><subparagraph id="ID_1715322801744_003" name="2" temporalId="s3C_a_2"><num value="2">(ii)</num><content>convicted of an indictable offence in Hong Kong;</content></subparagraph><subparagraph id="ID_1715322801745_004" name="3" temporalId="s3C_a_3"><num value="3">(iii)</num><content>sentenced to imprisonment (however described) in a place outside Hong Kong,
+                    whether or not the sentence is suspended; or</content></subparagraph><subparagraph id="ID_1715322801746_005" name="4" temporalId="s3C_a_4"><num value="4">(iv)</num><content>convicted of an offence under the Ordinance, this Regulation, <ref href="/hk/cap459">Cap. 459</ref> or <ref href="/hk/cap459A">Cap. 459A</ref>;
+                    and</content></subparagraph></paragraph><paragraph id="ID_1715322801749_006" name="b" temporalId="s3C_b"><num value="b">(b)</num><content>if any professional or academic qualification of the person (whether or not
+                relating to healthcare or social work) has been revoked—the reason for the
+                revocation.</content></paragraph></section><section id="ID_1715223045600_006" name="s3D" temporalId="s3D" startPeriod="2024-06-16" status="operational" reason="inEffect"><num value="3D">3D.</num><heading>Notice of
+            decision on application for registration</heading><subsection id="ID_1715322855065_001" name="1" temporalId="s3D_1"><num value="1">(1)</num><content>On determining an application under <ref>section 3A</ref>, the Director must
+                give a written notice of the decision to the applicant.</content></subsection><subsection id="ID_1715322855068_002" name="2" temporalId="s3D_2"><num value="2">(2)</num><content>If the application is approved, the notice must state the validity period of
+                the registration.</content></subsection><subsection id="ID_1715322855068_003" name="3" temporalId="s3D_3"><num value="3">(3)</num><leadIn>If the application is refused, the notice must state—</leadIn><paragraph id="ID_1715322855069_004" name="a" temporalId="s3D_3_a"><num value="a">(a)</num><content>the reason for the refusal; and</content></paragraph><paragraph id="ID_1715322855070_005" name="b" temporalId="s3D_3_b"><num value="b">(b)</num><content>that the applicant may appeal under <ref>section 3K</ref>.</content></paragraph></subsection></section><section id="ID_1715223045838_007" name="s3E" temporalId="s3E" startPeriod="2024-06-16" status="operational" reason="inEffect"><num value="3E">3E.</num><heading>Renewal of
+            registration as registered home manager</heading><subsection id="ID_1715322924269_001" name="1" temporalId="s3E_1"><num value="1">(1)</num><content>A registered home manager may apply for the renewal of the
+                registration.</content></subsection><subsection id="ID_1715322924270_002" name="2" temporalId="s3E_2"><num value="2">(2)</num><leadIn>The application must—</leadIn><paragraph id="ID_1715322924271_003" name="a" temporalId="s3E_2_a"><num value="a">(a)</num><content>be made to the Director at least 3 months before, but not earlier than 6
+                    months before, the expiry of the registration;</content></paragraph><paragraph id="ID_1715322924272_004" name="b" temporalId="s3E_2_b"><num value="b">(b)</num><content>be made in the form and manner specified by the Director; and</content></paragraph><paragraph id="ID_1715322924273_005" name="c" temporalId="s3E_2_c"><num value="c">(c)</num><content>contain the information specified by the Director.</content></paragraph></subsection><subsection id="ID_1715322924273_006" name="3" temporalId="s3E_3"><num value="3">(3)</num><leadIn>On the application, the Director may renew the registration if—</leadIn><paragraph id="ID_1715322924274_007" name="a" temporalId="s3E_3_a"><num value="a">(a)</num><leadIn>the Director is satisfied that the registered home manager—</leadIn><subparagraph id="ID_1715322924275_008" name="1" temporalId="s3E_3_a_1"><num value="1">(i)</num><content>still meets the requirements for registration under <ref>section
+                            3A(2)(a)(ii)</ref> and <ref>(iii)</ref>; and</content></subparagraph><subparagraph id="ID_1715322924278_009" name="2" temporalId="s3E_3_a_2"><num value="2">(ii)</num><content>complies with all conditions imposed on the registration; and</content></subparagraph></paragraph><paragraph id="ID_1715322924279_010" name="b" temporalId="s3E_3_b"><num value="b">(b)</num><content>the manager has paid the applicable fee for the renewal.</content></paragraph></subsection><subsection id="ID_1715322924280_011" name="4" temporalId="s3E_4"><num value="4">(4)</num><content>The Director may impose on the renewed registration any condition that the
+                Director considers appropriate, including any condition relating to continuous
+                learning.</content></subsection></section><section id="ID_1715223046034_008" name="s3F" temporalId="s3F" startPeriod="2024-06-16" status="operational" reason="inEffect"><num value="3F">3F.</num><heading>Notice of
+            decision on application for renewal of registration</heading><subsection id="ID_1715322964983_001" name="1" temporalId="s3F_1"><num value="1">(1)</num><content>On determining an application under <ref>section 3E</ref>, the Director must
+                give a written notice of the decision to the applicant.</content></subsection><subsection id="ID_1715322964985_002" name="2" temporalId="s3F_2"><num value="2">(2)</num><content>If the application is approved, the notice must state the validity period of
+                the renewed registration.</content></subsection><subsection id="ID_1715322964986_003" name="3" temporalId="s3F_3"><num value="3">(3)</num><leadIn>If the application is refused, the notice must state—</leadIn><paragraph id="ID_1715322964988_004" name="a" temporalId="s3F_3_a"><num value="a">(a)</num><content>the reason for the refusal; and</content></paragraph><paragraph id="ID_1715322964989_005" name="b" temporalId="s3F_3_b"><num value="b">(b)</num><content>that the applicant may appeal under <ref>section 3K</ref>.</content></paragraph></subsection></section><section id="ID_1715223046256_009" name="s3G" temporalId="s3G" startPeriod="2024-06-16" status="operational" reason="inEffect"><num value="3G">3G.</num><heading>Registration
+            remains in effect pending determination of renewal
+            application</heading><subsection id="ID_1715323007302_001" name="1" temporalId="s3G_1"><num value="1">(1)</num><leadIn>This section applies if—</leadIn><paragraph id="ID_1715323007303_002" name="a" temporalId="s3G_1_a"><num value="a">(a)</num><content>a registered home manager applies for the renewal of the registration under
+                        <ref>section 3E</ref>; and</content></paragraph><paragraph id="ID_1715323007305_003" name="b" temporalId="s3G_1_b"><num value="b">(b)</num><content>the registration would, but for this section, have expired before the
+                    application is determined.</content></paragraph></subsection><subsection id="ID_1715323007306_004" name="2" temporalId="s3G_2"><num value="2">(2)</num><leadIn>The registration remains in effect until—</leadIn><paragraph id="ID_1715323007307_005" name="a" temporalId="s3G_2_a"><num value="a">(a)</num><content>the Director determines the application; or</content></paragraph><paragraph id="ID_1715323007308_006" name="b" temporalId="s3G_2_b"><num value="b">(b)</num><content>the registered home manager withdraws the application.</content></paragraph></subsection></section><section id="ID_1715223046456_010" name="s3H" temporalId="s3H" startPeriod="2024-06-16" status="operational" reason="inEffect"><num value="3H">3H.</num><heading>Validity period
+            of registration as registered home manager</heading><content>The validity period of a registration or renewed registration as a registered home
+            manager is to be decided by the Director and must not exceed 5 years.</content></section><section id="ID_1715223046647_011" name="s3I" temporalId="s3I" startPeriod="2024-06-16" status="operational" reason="inEffect"><num value="3I">3I.</num><heading>Cancellation of
+            registration as registered home manager</heading><subsection id="ID_1715323138014_001" name="1" temporalId="s3I_1"><num value="1">(1)</num><leadIn>The Director may cancel a person’s registration as a registered home manager if
+                satisfied that—</leadIn><paragraph id="ID_1715323138015_002" name="a" temporalId="s3I_1_a"><num value="a">(a)</num><content>the registration was obtained by fraudulent means;</content></paragraph><paragraph id="ID_1715323138016_003" name="b" temporalId="s3I_1_b"><num value="b">(b)</num><content>the person no longer meets the requirement for registration under
+                        <ref>section 3A(2)(a)(ii)</ref> or <ref>(iii)</ref>; or</content></paragraph><paragraph id="ID_1715323138020_004" name="c" temporalId="s3I_1_c"><num value="c">(c)</num><leadIn>the person contravenes—</leadIn><subparagraph id="ID_1715323138021_005" name="1" temporalId="s3I_1_c_1"><num value="1">(i)</num><content>a condition imposed on the registration under <ref>section 3A(3)</ref>
+                        or <ref>3E(4)</ref>; or</content></subparagraph><subparagraph id="ID_1715323138024_006" name="2" temporalId="s3I_1_c_2"><num value="2">(ii)</num><content><ref>section 3W</ref>.</content></subparagraph></paragraph></subsection><subsection id="ID_1715323138026_007" name="2" temporalId="s3I_2"><num value="2">(2)</num><leadIn>The Director must cancel a person’s registration as a registered home
+                manager—</leadIn><paragraph id="ID_1715323138027_008" name="a" temporalId="s3I_2_a"><num value="a">(a)</num><content>if the person makes a written request to the Director for cancelling the
+                    registration; or</content></paragraph><paragraph id="ID_1715323138028_009" name="b" temporalId="s3I_2_b"><num value="b">(b)</num><leadIn>if—</leadIn><subparagraph id="ID_1715323138029_010" name="1" temporalId="s3I_2_b_1"><num value="1">(i)</num><content>the person was also registered as a registered home manager or
+                        registered home manager (provisional) under <ref href="/hk/cap459A">Cap.
+                            459A</ref>; and</content></subparagraph><subparagraph id="ID_1715323138031_011" name="2" temporalId="s3I_2_b_2"><num value="2">(ii)</num><content>that registration under <ref href="/hk/cap459A">Cap. 459A</ref> is
+                        cancelled under <ref>section 3I(1)(a)</ref> or <ref>(b)</ref> or
+                            <ref>3T(1)(a)</ref> or <ref>(b)</ref> of <ref href="/hk/cap459A">Cap.
+                            459A</ref>.</content></subparagraph></paragraph></subsection><subsection id="ID_1715323138038_012" name="3" temporalId="s3I_3"><num value="3">(3)</num><leadIn>The cancellation takes effect—</leadIn><paragraph id="ID_1715323138040_013" name="a" temporalId="s3I_3_a"><num value="a">(a)</num><content>for a cancellation under subsection (1)—subject to <ref>section
+                    3K(3)</ref>, on the expiry of 21 days after the day on which the Director gives
+                    the notice under <ref>section 3J</ref>; or</content></paragraph><paragraph id="ID_1715323138043_014" name="b" temporalId="s3I_3_b"><num value="b">(b)</num><content>for a cancellation under subsection (2)—on the expiry of 21 days after the
+                    day on which the Director gives the notice under <ref>section
+                    3J</ref>.</content></paragraph></subsection></section><section id="ID_1715223046838_012" name="s3J" temporalId="s3J" startPeriod="2024-06-16" status="operational" reason="inEffect"><num value="3J">3J.</num><heading>Notice of
+            cancellation of registration</heading><subsection id="ID_1715323189727_001" name="1" temporalId="s3J_1"><num value="1">(1)</num><leadIn>If the Director decides to cancel a person’s registration under <ref>section
+                    3I</ref>, the Director must give a written notice of the decision to—</leadIn><paragraph id="ID_1715323189729_002" name="a" temporalId="s3J_1_a"><num value="a">(a)</num><content>the person; and</content></paragraph><paragraph id="ID_1715323189730_003" name="b" temporalId="s3J_1_b"><num value="b">(b)</num><content>if the person is employed in a residential care home for PWDs when the
+                    decision is made—the operator and the responsible person of the residential care
+                    home.</content></paragraph></subsection><subsection id="ID_1715323189731_004" name="2" temporalId="s3J_2"><num value="2">(2)</num><leadIn>The notice must state—</leadIn><paragraph id="ID_1715323189732_005" name="a" temporalId="s3J_2_a"><num value="a">(a)</num><content>the date on which the cancellation takes effect under <ref>section
+                        3I(3)</ref>;</content></paragraph><paragraph id="ID_1715323189734_006" name="b" temporalId="s3J_2_b"><num value="b">(b)</num><content>the reason for cancelling the registration; and</content></paragraph><paragraph id="ID_1715323189735_007" name="c" temporalId="s3J_2_c"><num value="c">(c)</num><content>if the registration is cancelled under <ref>section 3I(1)</ref>—that the
+                    person may appeal under <ref>section 3K</ref>.</content></paragraph></subsection></section><section id="ID_1715223047037_013" name="s3K" temporalId="s3K" startPeriod="2024-06-16" status="operational" reason="inEffect"><num value="3K">3K.</num><heading>Appeals to
+            Secretary</heading><subsection id="ID_1715323279938_001" name="1" temporalId="s3K_1"><num value="1">(1)</num><leadIn>If the Director—</leadIn><paragraph id="ID_1715323279939_002" name="a" temporalId="s3K_1_a"><num value="a">(a)</num><content>decides to refuse to register a person under <ref>section
+                    3A</ref>;</content></paragraph><paragraph id="ID_1715323279942_003" name="b" temporalId="s3K_1_b"><num value="b">(b)</num><content>decides to refuse to renew a person’s registration under <ref>section
+                        3E</ref>; or</content></paragraph><paragraph id="ID_1715323279944_004" name="c" temporalId="s3K_1_c"><num value="c">(c)</num><content>decides to cancel a person’s registration under <ref>section
+                    3I(1)</ref>,</content></paragraph><continued>the person may, by written notice, appeal to the Secretary against the
+                decision.</continued></subsection><subsection id="ID_1715323279946_005" name="2" temporalId="s3K_2"><num value="2">(2)</num><leadIn>The notice must—</leadIn><paragraph id="ID_1715323279947_006" name="a" temporalId="s3K_2_a"><num value="a">(a)</num><content>state the grounds of appeal; and</content></paragraph><paragraph id="ID_1715323279949_007" name="b" temporalId="s3K_2_b"><num value="b">(b)</num><content>be delivered to the Director within 21 days after the day on which the
+                    Director gives the notice of the decision.</content></paragraph></subsection><subsection id="ID_1715323279950_008" name="3" temporalId="s3K_3"><num value="3">(3)</num><content>If an appeal is made against a decision described in subsection
+                    <ref>(1)(c)</ref>, the decision does not have effect pending the determination
+                of the appeal by the Secretary.</content></subsection><subsection id="ID_1715323279952_009" name="4" temporalId="s3K_4"><num value="4">(4)</num><leadIn>When considering an appeal against a decision of the Director, the
+                Secretary—</leadIn><paragraph id="ID_1715323279953_010" name="a" temporalId="s3K_4_a"><num value="a">(a)</num><content>must give the appellant and the Director an opportunity of being heard;
+                    and</content></paragraph><paragraph id="ID_1715323279954_011" name="b" temporalId="s3K_4_b"><num value="b">(b)</num><content>may confirm, vary or reverse the decision and, if the decision is reversed,
+                    substitute for the decision a decision that the Secretary considers
+                    appropriate.</content></paragraph></subsection><subsection id="ID_1715323279955_012" name="5" temporalId="s3K_5"><num value="5">(5)</num><content>If the Secretary varies, or substitutes another decision for, the Director’s
+                decision, the decision as varied or the substituted decision must be one that the
+                Director had power to make.</content></subsection><subsection id="ID_1715323279956_013" name="6" temporalId="s3K_6"><num value="6">(6)</num><leadIn>On the determination of the appeal by the Secretary, the Director must give a
+                written notice of the determination to—</leadIn><paragraph id="ID_1715323279957_014" name="a" temporalId="s3K_6_a"><num value="a">(a)</num><content>the appellant; and</content></paragraph><paragraph id="ID_1715323279958_015" name="b" temporalId="s3K_6_b"><num value="b">(b)</num><content>if the appellant is employed in a residential care home for PWDs when the
+                    appeal is determined—the operator and the responsible person of the residential
+                    care home.</content></paragraph></subsection><subsection id="ID_1715323279959_016" name="7" temporalId="s3K_7"><num value="7">(7)</num><content>The notice referred to in subsection (6) must state the reason for the
+                determination.</content></subsection></section><section id="ID_1715223070903_001" name="s3L" temporalId="s3L" startPeriod="2024-06-16" status="operational" reason="inEffect"><num value="3L">3L.</num><heading>Registration
+            remains in effect pending determination of appeal</heading><subsection id="ID_1715323419259_001" name="1" temporalId="s3L_1"><num value="1">(1)</num><leadIn>This section applies if—</leadIn><paragraph id="ID_1715323419260_002" name="a" temporalId="s3L_1_a"><num value="a">(a)</num><content>a person appeals against a decision described in <ref>section
+                        3K(1)(b)</ref> or <ref>(c)</ref>; and</content></paragraph><paragraph id="ID_1715323419264_003" name="b" temporalId="s3L_1_b"><num value="b">(b)</num><content>the person’s registration as a registered home manager would, but for this
+                    section, have expired before the appeal is determined.</content></paragraph></subsection><subsection id="ID_1715323419265_004" name="2" temporalId="s3L_2"><num value="2">(2)</num><leadIn>The registration remains in effect until—</leadIn><paragraph id="ID_1715323419266_005" name="a" temporalId="s3L_2_a"><num value="a">(a)</num><content>the Secretary determines the appeal; or</content></paragraph><paragraph id="ID_1715323419267_006" name="b" temporalId="s3L_2_b"><num value="b">(b)</num><content>the person withdraws the appeal.</content></paragraph></subsection></section></division><division id="ID_1715223071188_002" name="D2" temporalId="P2A_D2" startPeriod="2024-06-16" status="operational" reason="inEffect"><num value="2">Division 2</num><heading>Registered Home
+            Managers (Provisional)</heading><section id="ID_1715223071379_003" name="s3M" temporalId="s3M" startPeriod="2024-06-16" status="operational" reason="inEffect"><num value="3M">3M.</num><heading>Application for
+            registration as registered home manager (provisional)</heading><subsection id="ID_1715323728515_001" name="1" temporalId="s3M_1"><num value="1">(1)</num><leadIn>An application for registration as a registered home manager (provisional)
+                must—</leadIn><paragraph id="ID_1715323728516_002" name="a" temporalId="s3M_1_a"><num value="a">(a)</num><content>be made to the Director in the form and manner specified by the Director;
+                    and</content></paragraph><paragraph id="ID_1715323728517_003" name="b" temporalId="s3M_1_b"><num value="b">(b)</num><content>contain the information specified by the Director.</content></paragraph></subsection><subsection id="ID_1715323728518_004" name="2" temporalId="s3M_2"><num value="2">(2)</num><leadIn>On the application, the Director may register the applicant as a registered home
+                manager (provisional) if—</leadIn><paragraph id="ID_1715323728519_005" name="a" temporalId="s3M_2_a"><num value="a">(a)</num><leadIn>the Director is satisfied that the applicant—</leadIn><subparagraph id="ID_1715323728520_006" name="1" temporalId="s3M_2_a_1"><num value="1">(i)</num><content>meets the qualification requirement specified in <ref>section
+                        3N</ref>;</content></subparagraph><subparagraph id="ID_1715323728522_007" name="2" temporalId="s3M_2_a_2"><num value="2">(ii)</num><content>is competent to perform the duties of a home manager;</content></subparagraph><subparagraph id="ID_1715323728523_008" name="3" temporalId="s3M_2_a_3"><num value="3">(iii)</num><content>is fit and proper to be so registered; and</content></subparagraph><subparagraph id="ID_1715323728524_009" name="4" temporalId="s3M_2_a_4"><num value="4">(iv)</num><content>if the applicant is not a pre-material-date home manager—on being so
+                        registered, will be employed as a home manager in a residential care home
+                        for PWDs under <ref>section 11(1)(a)</ref>; and</content></subparagraph></paragraph><paragraph id="ID_1715323728526_010" name="b" temporalId="s3M_2_b"><num value="b">(b)</num><content>the applicant has paid the applicable fee for the registration.</content></paragraph></subsection><subsection id="ID_1715323728527_011" name="3" temporalId="s3M_3"><num value="3">(3)</num><content>The Director may impose on the registration any condition that the Director
+                considers appropriate, including any condition relating to continuous
+                learning.</content></subsection></section><section id="ID_1715223071581_004" name="s3N" temporalId="s3N" startPeriod="2024-06-16" status="operational" reason="inEffect"><num value="3N">3N.</num><heading>Qualification
+            requirement for registration as registered home manager
+            (provisional)</heading><leadIn>For <ref>section 3M(2)(a)(i)</ref>, the qualification requirement is that the
+            person—</leadIn><paragraph id="ID_1715323775360_001" name="a" temporalId="s3N_a"><num value="a">(a)</num><content>holds a professional qualification relating to healthcare or social work
+                specified by the Director;</content></paragraph><paragraph id="ID_1715323775361_002" name="b" temporalId="s3N_b"><num value="b">(b)</num><content>holds a bachelor or higher degree, or an academic qualification regarded by the
+                Director as equivalent; or</content></paragraph><paragraph id="ID_1715323775362_003" name="c" temporalId="s3N_c"><num value="c">(c)</num><content>is a pre-material-date home manager who applies for registration as a
+                registered home manager (provisional) under <ref>section 3M</ref> during the 6-month
+                period beginning on the material date.</content></paragraph></section><section id="ID_1715223071872_005" name="s3O" temporalId="s3O" startPeriod="2024-06-16" status="operational" reason="inEffect"><num value="3O">3O.</num><heading>Fit and proper
+            requirement for registration as registered home manager
+            (provisional)</heading><content>For <ref>section 3M(2)(a)(iii)</ref>, in considering whether a person is fit and
+            proper to be registered as a registered home manager (provisional), the Director must
+            have regard to all relevant matters, including the matters mentioned in <ref>section
+                3C(a)</ref> and <ref>(b)</ref>.</content></section><section id="ID_1715223072065_006" name="s3P" temporalId="s3P" startPeriod="2024-06-16" status="operational" reason="inEffect"><num value="3P">3P.</num><heading>Notice of
+            decision on application for registration</heading><subsection id="ID_1715323863097_001" name="1" temporalId="s3P_1"><num value="1">(1)</num><content>On determining an application under <ref>section 3M</ref>, the Director must
+                give a written notice of the decision to the applicant.</content></subsection><subsection id="ID_1715323863099_002" name="2" temporalId="s3P_2"><num value="2">(2)</num><content>If the application is approved, the notice must state the validity period of
+                the registration.</content></subsection><subsection id="ID_1715323863100_003" name="3" temporalId="s3P_3"><num value="3">(3)</num><leadIn>If the application is refused, the notice must state—</leadIn><paragraph id="ID_1715323863101_004" name="a" temporalId="s3P_3_a"><num value="a">(a)</num><content>the reason for the refusal; and</content></paragraph><paragraph id="ID_1715323863102_005" name="b" temporalId="s3P_3_b"><num value="b">(b)</num><content>that the applicant may appeal under <ref>section 3V</ref>.</content></paragraph></subsection></section><section id="ID_1715223072266_007" name="s3Q" temporalId="s3Q" startPeriod="2024-06-16" status="operational" reason="inEffect"><num value="3Q">3Q.</num><heading>Validity period
+            of registration as registered home manager (provisional)</heading><content>The validity period of a registration as a registered home manager (provisional) is
+            to be decided by the Director and must not exceed 2 years.</content></section><section id="ID_1715223072479_008" name="s3R" temporalId="s3R" startPeriod="2024-06-16" status="operational" reason="inEffect"><num value="3R">3R.</num><heading>Extension of
+            validity period</heading><subsection id="ID_1715323953410_001" name="1" temporalId="s3R_1"><num value="1">(1)</num><content>A person who is registered as a registered home manager (provisional) because
+                of meeting the qualification requirement specified in <ref>section 3N(c)</ref> may
+                apply for the extension of the validity period of the registration once.</content></subsection><subsection id="ID_1715323953412_002" name="2" temporalId="s3R_2"><num value="2">(2)</num><leadIn>The application must—</leadIn><paragraph id="ID_1715323953413_003" name="a" temporalId="s3R_2_a"><num value="a">(a)</num><content>be made to the Director before the expiry of the registration;</content></paragraph><paragraph id="ID_1715323953413_004" name="b" temporalId="s3R_2_b"><num value="b">(b)</num><content>be made in the form and manner specified by the Director; and</content></paragraph><paragraph id="ID_1715323953414_005" name="c" temporalId="s3R_2_c"><num value="c">(c)</num><content>contain the information specified by the Director.</content></paragraph></subsection><subsection id="ID_1715323953415_006" name="3" temporalId="s3R_3"><num value="3">(3)</num><content>The Director may extend the validity period of the registration for a period of
+                not more than 2 years only if satisfied that there are exceptional circumstances
+                that justify the extension.</content></subsection></section><section id="ID_1715223072682_009" name="s3S" temporalId="s3S" startPeriod="2024-06-16" status="operational" reason="inEffect"><num value="3S">3S.</num><heading>Registration
+            remains in effect pending determination of certain
+            application</heading><subsection id="ID_1715324000311_001" name="1" temporalId="s3S_1"><num value="1">(1)</num><leadIn>This section applies if—</leadIn><paragraph id="ID_1715324000312_002" name="a" temporalId="s3S_1_a"><num value="a">(a)</num><leadIn>a registered home manager (provisional) applies—</leadIn><subparagraph id="ID_1715324000313_003" name="1" temporalId="s3S_1_a_1"><num value="1">(i)</num><content>for registration under <ref>section 3A</ref>; or</content></subparagraph><subparagraph id="ID_1715324000315_004" name="2" temporalId="s3S_1_a_2"><num value="2">(ii)</num><content>for the extension of the validity period of the registration under
+                            <ref>section 3R</ref>; and</content></subparagraph></paragraph><paragraph id="ID_1715324000317_005" name="b" temporalId="s3S_1_b"><num value="b">(b)</num><content>the registration would, but for this section, have expired before the
+                    application is determined.</content></paragraph></subsection><subsection id="ID_1715324000318_006" name="2" temporalId="s3S_2"><num value="2">(2)</num><leadIn>The registration remains in effect until—</leadIn><paragraph id="ID_1715324000319_007" name="a" temporalId="s3S_2_a"><num value="a">(a)</num><content>the Director determines the application; or</content></paragraph><paragraph id="ID_1715324000320_008" name="b" temporalId="s3S_2_b"><num value="b">(b)</num><content>the registered home manager (provisional) withdraws the
+                    application.</content></paragraph></subsection></section><section id="ID_1715223072875_010" name="s3T" temporalId="s3T" startPeriod="2024-06-16" status="operational" reason="inEffect"><num value="3T">3T.</num><heading>Cancellation of
+            registration as registered home manager (provisional)</heading><subsection id="ID_1715324087713_001" name="1" temporalId="s3T_1"><num value="1">(1)</num><leadIn>The Director may cancel a person’s registration as a registered home manager
+                (provisional) if satisfied that—</leadIn><paragraph id="ID_1715324087714_002" name="a" temporalId="s3T_1_a"><num value="a">(a)</num><content>the registration was obtained by fraudulent means;</content></paragraph><paragraph id="ID_1715324087715_003" name="b" temporalId="s3T_1_b"><num value="b">(b)</num><content>the person no longer meets the requirement for registration under
+                        <ref>section 3M(2)(a)(ii)</ref> or <ref>(iii)</ref>; or</content></paragraph><paragraph id="ID_1715324087719_004" name="c" temporalId="s3T_1_c"><num value="c">(c)</num><leadIn>the person contravenes—</leadIn><subparagraph id="ID_1715324087720_005" name="1" temporalId="s3T_1_c_1"><num value="1">(i)</num><content>a condition imposed on the registration under <ref>section 3M(3)</ref>;
+                        or</content></subparagraph><subparagraph id="ID_1715324087722_006" name="2" temporalId="s3T_1_c_2"><num value="2">(ii)</num><content><ref>section 3W</ref>.</content></subparagraph></paragraph></subsection><subsection id="ID_1715324087725_007" name="2" temporalId="s3T_2"><num value="2">(2)</num><leadIn>The Director must cancel a person’s registration as a registered home manager
+                (provisional)—</leadIn><paragraph id="ID_1715324087726_008" name="a" temporalId="s3T_2_a"><num value="a">(a)</num><content>if the person is registered as a registered home manager under <ref>section
+                        3A</ref>;</content></paragraph><paragraph id="ID_1715324087728_009" name="b" temporalId="s3T_2_b"><num value="b">(b)</num><content>if the person makes a written request to the Director for cancelling the
+                    registration; or</content></paragraph><paragraph id="ID_1715324087729_010" name="c" temporalId="s3T_2_c"><num value="c">(c)</num><leadIn>if—</leadIn><subparagraph id="ID_1715324087730_011" name="1" temporalId="s3T_2_c_1"><num value="1">(i)</num><content>the person was also registered as a registered home manager or
+                        registered home manager (provisional) under <ref href="/hk/cap459A">Cap.
+                            459A</ref>; and</content></subparagraph><subparagraph id="ID_1715324087733_012" name="2" temporalId="s3T_2_c_2"><num value="2">(ii)</num><content>that registration under <ref href="/hk/cap459A">Cap. 459A</ref> is
+                        cancelled under <ref>section 3I(1)(a)</ref> or <ref>(b)</ref> or
+                            <ref>3T(1)(a)</ref> or <ref>(b)</ref> of <ref href="/hk/cap459A">Cap.
+                            459A</ref>.</content></subparagraph></paragraph></subsection><subsection id="ID_1715324087741_013" name="3" temporalId="s3T_3"><num value="3">(3)</num><leadIn>The cancellation takes effect—</leadIn><paragraph id="ID_1715324087742_014" name="a" temporalId="s3T_3_a"><num value="a">(a)</num><content>for a cancellation under subsection (1)—subject to <ref>section
+                    3V(3)</ref>, on the expiry of 21 days after the day on which the Director gives
+                    the notice under <ref>section 3U</ref>;</content></paragraph><paragraph id="ID_1715324087746_015" name="b" temporalId="s3T_3_b"><num value="b">(b)</num><content>for a cancellation under subsection <ref>(2)(a)</ref>—on the day on which
+                    the registration under <ref>section 3A</ref> takes effect; or</content></paragraph><paragraph id="ID_1715324087749_016" name="c" temporalId="s3T_3_c"><num value="c">(c)</num><content>for a cancellation under subsection <ref>(2)(b)</ref> or (c)—on the expiry
+                    of 21 days after the day on which the Director gives the notice under
+                        <ref>section 3U</ref>.</content></paragraph></subsection></section><section id="ID_1715223073076_011" name="s3U" temporalId="s3U" startPeriod="2024-06-16" status="operational" reason="inEffect"><num value="3U">3U.</num><heading>Notice of
+            cancellation of registration</heading><subsection id="ID_1715324145339_001" name="1" temporalId="s3U_1"><num value="1">(1)</num><leadIn>If the Director decides to cancel a person’s registration under <ref>section
+                    3T</ref>, the Director must give a written notice of the decision to—</leadIn><paragraph id="ID_1715324145341_002" name="a" temporalId="s3U_1_a"><num value="a">(a)</num><content>the person; and</content></paragraph><paragraph id="ID_1715324145342_003" name="b" temporalId="s3U_1_b"><num value="b">(b)</num><content>if the person is employed in a residential care home for PWDs when the
+                    decision is made—the operator and the responsible person of the residential care
+                    home.</content></paragraph></subsection><subsection id="ID_1715324145343_004" name="2" temporalId="s3U_2"><num value="2">(2)</num><leadIn>The notice must state—</leadIn><paragraph id="ID_1715324145344_005" name="a" temporalId="s3U_2_a"><num value="a">(a)</num><content>the date on which the cancellation takes effect under <ref>section
+                        3T(3)</ref>;</content></paragraph><paragraph id="ID_1715324145346_006" name="b" temporalId="s3U_2_b"><num value="b">(b)</num><content>the reason for cancelling the registration; and</content></paragraph><paragraph id="ID_1715324145347_007" name="c" temporalId="s3U_2_c"><num value="c">(c)</num><content>if the registration is cancelled under <ref>section 3T(1)</ref>—that the
+                    person may appeal under <ref>section 3V</ref>.</content></paragraph></subsection></section><section id="ID_1715223073277_012" name="s3V" temporalId="s3V" startPeriod="2024-06-16" status="operational" reason="inEffect"><num value="3V">3V.</num><heading>Appeals to
+            Secretary</heading><subsection id="ID_1715324223578_001" name="1" temporalId="s3V_1"><num value="1">(1)</num><leadIn>If the Director—</leadIn><paragraph id="ID_1715324223579_002" name="a" temporalId="s3V_1_a"><num value="a">(a)</num><content>decides to refuse to register a person under <ref>section 3M</ref>;
+                    or</content></paragraph><paragraph id="ID_1715324223581_003" name="b" temporalId="s3V_1_b"><num value="b">(b)</num><content>decides to cancel a person’s registration under <ref>section
+                    3T(1)</ref>,</content></paragraph><continued>the person may, by written notice, appeal to the Secretary against the
+                decision.</continued></subsection><subsection id="ID_1715324223583_004" name="2" temporalId="s3V_2"><num value="2">(2)</num><leadIn>The notice must—</leadIn><paragraph id="ID_1715324223584_005" name="a" temporalId="s3V_2_a"><num value="a">(a)</num><content>state the grounds of appeal; and</content></paragraph><paragraph id="ID_1715324223585_006" name="b" temporalId="s3V_2_b"><num value="b">(b)</num><content>be delivered to the Director within 21 days after the day on which the
+                    Director gives the notice of the decision.</content></paragraph></subsection><subsection id="ID_1715324223586_007" name="3" temporalId="s3V_3"><num value="3">(3)</num><content>If an appeal is made against a decision described in subsection
+                    <ref>(1)(b)</ref>, the decision does not have effect pending the determination
+                of the appeal by the Secretary.</content></subsection><subsection id="ID_1715324223588_008" name="4" temporalId="s3V_4"><num value="4">(4)</num><leadIn>When considering an appeal against a decision of the Director, the
+                Secretary—</leadIn><paragraph id="ID_1715324223589_009" name="a" temporalId="s3V_4_a"><num value="a">(a)</num><content>must give the appellant and the Director an opportunity of being heard;
+                    and</content></paragraph><paragraph id="ID_1715324223590_010" name="b" temporalId="s3V_4_b"><num value="b">(b)</num><content>may confirm, vary or reverse the decision and, if the decision is reversed,
+                    substitute for the decision a decision that the Secretary considers
+                    appropriate.</content></paragraph></subsection><subsection id="ID_1715324223591_011" name="5" temporalId="s3V_5"><num value="5">(5)</num><content>If the Secretary varies, or substitutes another decision for, the Director’s
+                decision, the decision as varied or the substituted decision must be one that the
+                Director had power to make.</content></subsection><subsection id="ID_1715324223592_012" name="6" temporalId="s3V_6"><num value="6">(6)</num><leadIn>On the determination of the appeal by the Secretary, the Director must give a
+                written notice of the determination to—</leadIn><paragraph id="ID_1715324223592_013" name="a" temporalId="s3V_6_a"><num value="a">(a)</num><content>the appellant; and</content></paragraph><paragraph id="ID_1715324223593_014" name="b" temporalId="s3V_6_b"><num value="b">(b)</num><content>if the appellant is employed in a residential care home for PWDs when the
+                    appeal is determined—the operator and the responsible person of the residential
+                    care home.</content></paragraph></subsection><subsection id="ID_1715324223594_015" name="7" temporalId="s3V_7"><num value="7">(7)</num><content>The notice referred to in subsection (6) must state the reason for the
+                determination.</content></subsection></section></division><division id="ID_1715223091827_001" name="D3" temporalId="P2A_D3" startPeriod="2024-06-16" status="operational" reason="inEffect"><num value="3">Division 3</num><heading>Reporting
+            Requirements</heading><section id="ID_1715223092023_002" name="s3W" temporalId="s3W" startPeriod="2024-06-16" status="operational" reason="inEffect"><num value="3W">3W.</num><heading>Registered home
+            manager or registered home manager (provisional) to report certain
+            events</heading><subsection id="ID_1715324323709_001" name="1" temporalId="s3W_1"><num value="1">(1)</num><leadIn>A registered home manager or a registered home manager (provisional) must report
+                to the Director if—</leadIn><paragraph id="ID_1715324323710_002" name="a" temporalId="s3W_1_a"><num value="a">(a)</num><content>a prosecution is started against the manager for an indictable offence in
+                    Hong Kong;</content></paragraph><paragraph id="ID_1715324323711_003" name="b" temporalId="s3W_1_b"><num value="b">(b)</num><content>a prosecution is started against the manager for an offence punishable with
+                    imprisonment (however described) in a place outside Hong Kong;</content></paragraph><paragraph id="ID_1715324323712_004" name="c" temporalId="s3W_1_c"><num value="c">(c)</num><content>the manager is convicted of an indictable offence in Hong Kong;</content></paragraph><paragraph id="ID_1715324323713_005" name="d" temporalId="s3W_1_d"><num value="d">(d)</num><content>the manager is sentenced to imprisonment (however described) in a place
+                    outside Hong Kong, whether or not the sentence is suspended;</content></paragraph><paragraph id="ID_1715324323714_006" name="e" temporalId="s3W_1_e"><num value="e">(e)</num><content>any professional or academic qualification of the manager (whether or not
+                    relating to healthcare or social work) is revoked; or</content></paragraph><paragraph id="ID_1715324323715_007" name="f" temporalId="s3W_1_f"><num value="f">(f)</num><content>there is a change in the name or correspondence address of the
+                    manager.</content></paragraph></subsection><subsection id="ID_1715324323717_008" name="2" temporalId="s3W_2"><num value="2">(2)</num><leadIn>The report must—</leadIn><paragraph id="ID_1715324323718_009" name="a" temporalId="s3W_2_a"><num value="a">(a)</num><leadIn>be given in writing—</leadIn><subparagraph id="ID_1715324323719_010" name="1" temporalId="s3W_2_a_1"><num value="1">(i)</num><content>for an event described in subsection <ref>(1)(a)</ref>, (b), (c), (d)
+                        or (e)—as soon as reasonably practicable after the event occurs;
+                        or</content></subparagraph><subparagraph id="ID_1715324323721_011" name="2" temporalId="s3W_2_a_2"><num value="2">(ii)</num><content>for a change described in subsection <ref>(1)(f)</ref>—within 3
+                            months<sup> </sup>after the change occurs; and</content></subparagraph></paragraph><paragraph id="ID_1715324323723_012" name="b" temporalId="s3W_2_b"><num value="b">(b)</num><content>contain the information specified by the Director.</content></paragraph></subsection></section></division><division id="ID_1715223092199_003" name="D4" temporalId="P2A_D4" startPeriod="2024-06-16" status="operational" reason="inEffect"><num value="4">Division 4</num><heading>Register of
+            Home Managers</heading><section id="ID_1715223092379_004" name="s3X" temporalId="s3X" startPeriod="2024-06-16" status="operational" reason="inEffect"><num value="3X">3X.</num><heading>Register of
+            home managers</heading><subsection id="ID_1715324444164_001" name="1" temporalId="s3X_1"><num value="1">(1)</num><leadIn>The Director must keep a register containing—</leadIn><paragraph id="ID_1715324444165_002" name="a" temporalId="s3X_1_a"><num value="a">(a)</num><content>a list of persons registered as registered home managers under
+                        <ref>Division 1</ref>; and</content></paragraph><paragraph id="ID_1715324444167_003" name="b" temporalId="s3X_1_b"><num value="b">(b)</num><content>a list of persons registered as registered home managers (provisional)
+                    under <ref>Division 2</ref>.</content></paragraph></subsection><subsection id="ID_1715324444169_004" name="2" temporalId="s3X_2"><num value="2">(2)</num><leadIn>The purpose of the register is to enable the public to ascertain—</leadIn><paragraph id="ID_1715324444170_005" name="a" temporalId="s3X_2_a"><num value="a">(a)</num><content>whether a person is a registered home manager or registered home manager
+                    (provisional); and</content></paragraph><paragraph id="ID_1715324444171_006" name="b" temporalId="s3X_2_b"><num value="b">(b)</num><content>the particulars of the registration.</content></paragraph></subsection><subsection id="ID_1715324444172_007" name="3" temporalId="s3X_3"><num value="3">(3)</num><leadIn>Each list in the register—</leadIn><paragraph id="ID_1715324444173_008" name="a" temporalId="s3X_3_a"><num value="a">(a)</num><content>must contain the name and correspondence address of each person on the
+                    list; and</content></paragraph><paragraph id="ID_1715324444174_009" name="b" temporalId="s3X_3_b"><num value="b">(b)</num><content>may contain other particulars that the Director considers
+                    appropriate.</content></paragraph></subsection><subsection id="ID_1715324444175_010" name="4" temporalId="s3X_4"><num value="4">(4)</num><content>The Director may make any amendment to the register that the Director considers
+                necessary for securing its accuracy or keeping it up-to-date.</content></subsection><subsection id="ID_1715324444176_011" name="5" temporalId="s3X_5"><num value="5">(5)</num><leadIn>The Director must remove from the register the name of a person if—</leadIn><paragraph id="ID_1715324444177_012" name="a" temporalId="s3X_5_a"><num value="a">(a)</num><content>it has come to the notice of the Director that the person has died;
+                    or</content></paragraph><paragraph id="ID_1715324444177_013" name="b" temporalId="s3X_5_b"><num value="b">(b)</num><content>the person’s registration ceases to have effect on expiry or
+                    cancellation.</content></paragraph></subsection></section><section id="ID_1715223092566_005" name="s3Y" temporalId="s3Y" startPeriod="2024-06-16" status="operational" reason="inEffect"><num value="3Y">3Y.</num><heading>Inspection of
+            register of home managers</heading><leadIn>The Director must make the register of home managers available for public
+            inspection—</leadIn><paragraph id="ID_1715324486766_001" name="a" temporalId="s3Y_a"><num value="a">(a)</num><content>free of charge;</content></paragraph><paragraph id="ID_1715324486767_002" name="b" temporalId="s3Y_b"><num value="b">(b)</num><content>at offices of the Government that the Director directs; and</content></paragraph><paragraph id="ID_1715324486768_003" name="c" temporalId="s3Y_c"><num value="c">(c)</num><content>during the hours when those offices are open to the public.</content></paragraph></section></division></part><part id="ID_1438403527560_003" name="P3" reason="inEffect" startPeriod="2011-11-18" status="operational" temporalId="P3"><num value="3">Part 3</num><heading>Registration of Health Workers</heading><section id="ID_1438403527560_005" name="s4" reason="inEffect" startPeriod="2024-06-16" status="operational" temporalId="s4"><num value="4">4.</num><heading>Qualifications for registration as
+            registered
+            health worker</heading><sourceNote>(<ref href="hk/2023/12">12 of 2023 s. 78</ref>)</sourceNote><leadIn>A person who meets either of the following requirements is qualified to be
+            registered as a
+            registered
+            health worker for the purposes of employment at a residential care
+            home for PWDs—
+            <sourceNote>(<ref href="hk/2023/12">12 of 2023 s. 78</ref>)</sourceNote></leadIn><paragraph id="ID_1438413843600_012" name="a" temporalId="s4_a"><num value="a">(a)</num><content>the person has completed a course of training approved by the Director in
+                writing either generally or in any particular case;</content></paragraph><paragraph id="ID_1438413843616_005" name="b" temporalId="s4_b"><num value="b">(b)</num><content>by reason of the person’s education, training, professional experience and
+                skill in health work, the Director is satisfied that the person is a suitable person
+                to be registered as a
+                registered
+                health worker.</content></paragraph><sourceNote>(<ref href="hk/2023/12">12 of 2023 s. 78</ref>)</sourceNote></section><section id="ID_1438403527576_002" name="s5" reason="inEffect" startPeriod="2024-06-16" status="operational" temporalId="s5"><num value="5">5.</num><heading>Register of health workers</heading><subsection id="ID_1715324687264_001" name="1" temporalId="s5_1"><num value="1">(1)</num><content>The Director must keep a register containing a list of persons registered as
+                registered health workers under this Part. <sourceNote>(<ref href="hk/2023/12">12 of 2023 s. 79</ref>)</sourceNote></content></subsection><subsection id="ID_1715324687268_002" name="1A" temporalId="s5_1A"><num value="1A">(1A)</num><leadIn>The purpose of the register is to enable the public to ascertain—</leadIn><paragraph id="ID_1715324687269_003" name="a" temporalId="s5_1A_a"><num value="a">(a)</num><content>whether a person is a registered health worker; and</content></paragraph><paragraph id="ID_1715324687270_004" name="b" temporalId="s5_1A_b"><num value="b">(b)</num><content>the particulars of the registration. <sourceNote>(<ref href="hk/2023/12">12 of 2023 s. 79</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1715324687273_005" name="1B" temporalId="s5_1B"><num value="1B">(1B)</num><leadIn>The register—</leadIn><paragraph id="ID_1715324687276_006" name="a" temporalId="s5_1B_a"><num value="a">(a)</num><content>must contain the name and correspondence address of each person in the
+                    register; and</content></paragraph><paragraph id="ID_1715324687277_007" name="b" temporalId="s5_1B_b"><num value="b">(b)</num><content>may contain other particulars that the Director considers appropriate.
+                        <sourceNote>(<ref href="hk/2023/12">12 of 2023 s. 79</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438413843631_012" name="2" temporalId="s5_2"><num value="2">(2)</num><content>The register must be available for inspection by the public free of charge at
+                any offices of the Government that the Director directs, during the hours when those
+                offices are open to the public.</content></subsection><subsection id="ID_1715324687280_008" name="3" temporalId="s5_3"><num value="3">(3)</num><content>The Director may make any amendment to the register that the Director considers
+                necessary for securing its accuracy or keeping it up-to-date. <sourceNote>(<ref href="hk/2023/12">12 of 2023 s. 79</ref>)</sourceNote></content></subsection><subsection id="ID_1715324687284_009" name="4" temporalId="s5_4"><num value="4">(4)</num><leadIn>The Director must remove from the register the name of a person if—</leadIn><paragraph id="ID_1715324687285_010" name="a" temporalId="s5_4_a"><num value="a">(a)</num><content>it has come to the notice of the Director that the person has died;
+                    or</content></paragraph><paragraph id="ID_1715324687286_011" name="b" temporalId="s5_4_b"><num value="b">(b)</num><content>the person’s registration ceases to have effect on expiry or cancellation.
+                        <sourceNote>(<ref href="hk/2023/12">12 of 2023 s. 79</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438413843663_021" name="5" temporalId="s5_5"><num value="5">(5)</num><sourceNote>(Repealed <ref href="hk/2023/12">12 of 2023 s. 79</ref>)</sourceNote></subsection></section><section reason="inEffect" status="operational" id="ID_1438403527576_004" name="s6" temporalId="s6" startPeriod="2024-06-16"><num value="6">6.</num><heading>Application for registration as registered health worker</heading><subsection id="ID_1715324782564_001" name="1" temporalId="s6_1"><num value="1">(1)</num><leadIn>An application for registration as a registered health worker must—</leadIn><paragraph id="ID_1715324782565_002" name="a" temporalId="s6_1_a"><num value="a">(a)</num><content>be made to the Director in the form and manner specified by the Director;
+                    and</content></paragraph><paragraph id="ID_1715324782566_003" name="b" temporalId="s6_1_b"><num value="b">(b)</num><content>contain the information specified by the Director.</content></paragraph></subsection><subsection id="ID_1715324782567_004" name="2" temporalId="s6_2"><num value="2">(2)</num><leadIn>On the application, the Director may register the applicant as a registered
+                health worker if—</leadIn><paragraph id="ID_1715324782568_005" name="a" temporalId="s6_2_a"><num value="a">(a)</num><leadIn>the Director is satisfied that the applicant—</leadIn><subparagraph id="ID_1715324782569_006" name="1" temporalId="s6_2_a_1"><num value="1">(i)</num><content>is qualified under <ref>section 4</ref> to be so registered;</content></subparagraph><subparagraph id="ID_1715324782571_007" name="2" temporalId="s6_2_a_2"><num value="2">(ii)</num><content>is competent to perform the duties of a health worker; and</content></subparagraph><subparagraph id="ID_1715324782572_008" name="3" temporalId="s6_2_a_3"><num value="3">(iii)</num><content>is fit and proper to be so registered; and</content></subparagraph></paragraph><paragraph id="ID_1715324782573_009" name="b" temporalId="s6_2_b"><num value="b">(b)</num><content>the applicant has paid the applicable fee for the registration.</content></paragraph></subsection><subsection id="ID_1715324782574_010" name="3" temporalId="s6_3"><num value="3">(3)</num><content>The Director may impose on the registration any condition that the Director
+                considers appropriate, including any condition relating to continuous
+                learning.</content></subsection><sourceNote>(<ref href="hk/2023/12">12 of 2023 s. 80</ref>)</sourceNote></section><section reason="inEffect" status="operational" id="ID_1438403527592_001" name="s7" temporalId="s7" startPeriod="2024-06-16"><num value="7">7.</num><heading>Notice of decision on application for registration</heading><subsection id="ID_1715324851959_001" name="1" temporalId="s7_1"><num value="1">(1)</num><content>On determining an application under <ref>section 6</ref>, the Director must
+                give a written notice of the decision to the applicant.</content></subsection><subsection id="ID_1715324851961_002" name="2" temporalId="s7_2"><num value="2">(2)</num><content>If the application is approved, the notice must state the validity period of
+                the registration.</content></subsection><subsection id="ID_1715324851962_003" name="3" temporalId="s7_3"><num value="3">(3)</num><leadIn>If the application is refused, the notice must state—</leadIn><paragraph id="ID_1715324851963_004" name="a" temporalId="s7_3_a"><num value="a">(a)</num><content>the reason for the refusal; and</content></paragraph><paragraph id="ID_1715324851964_005" name="b" temporalId="s7_3_b"><num value="b">(b)</num><content>that the applicant may appeal under <ref>section 10</ref>.</content></paragraph></subsection><sourceNote>(<ref href="hk/2023/12">12 of 2023 s. 81</ref>)</sourceNote></section><section id="ID_1715244592087_001" name="s7A" temporalId="s7A" startPeriod="2024-06-16" status="operational" reason="inEffect"><num value="7A">7A.</num><heading>Renewal of
+            registration as registered health worker</heading><subsection id="ID_1715324936035_001" name="1" temporalId="s7A_1"><num value="1">(1)</num><content>A registered health worker may apply for the renewal of the
+                registration.</content></subsection><subsection id="ID_1715324936036_002" name="2" temporalId="s7A_2"><num value="2">(2)</num><leadIn>The application must—</leadIn><paragraph id="ID_1715324936037_003" name="a" temporalId="s7A_2_a"><num value="a">(a)</num><content>be made to the Director at least 3 months before, but not earlier than 6
+                    months before, the expiry of the registration;</content></paragraph><paragraph id="ID_1715324936038_004" name="b" temporalId="s7A_2_b"><num value="b">(b)</num><content>be made in the form and manner specified by the Director; and</content></paragraph><paragraph id="ID_1715324936039_005" name="c" temporalId="s7A_2_c"><num value="c">(c)</num><content>contain the information specified by the Director.</content></paragraph></subsection><subsection id="ID_1715324936040_006" name="3" temporalId="s7A_3"><num value="3">(3)</num><leadIn>On the application, the Director may renew the registration if—</leadIn><paragraph id="ID_1715324936040_007" name="a" temporalId="s7A_3_a"><num value="a">(a)</num><leadIn>the Director is satisfied that the registered health worker—</leadIn><subparagraph id="ID_1715324936041_008" name="1" temporalId="s7A_3_a_1"><num value="1">(i)</num><content>still meets the requirements for registration under <ref>section
+                            6(2)(a)</ref>; and</content></subparagraph><subparagraph id="ID_1715324936044_009" name="2" temporalId="s7A_3_a_2"><num value="2">(ii)</num><content>complies with all conditions imposed on the registration; and</content></subparagraph></paragraph><paragraph id="ID_1715324936044_010" name="b" temporalId="s7A_3_b"><num value="b">(b)</num><content>the health worker has paid the applicable fee for the renewal.</content></paragraph></subsection><subsection id="ID_1715324936045_011" name="4" temporalId="s7A_4"><num value="4">(4)</num><content>The Director may impose on the renewed registration any condition that the
+                Director considers appropriate, including any condition relating to continuous
+                learning.</content></subsection><sourceNote>(<ref href="hk/2023/12">12 of 2023 s. 82</ref>)</sourceNote></section><section id="ID_1715244592296_002" name="s7B" temporalId="s7B" startPeriod="2024-06-16" status="operational" reason="inEffect"><num value="7B">7B.</num><heading>Notice of
+            decision on application for renewal of registration</heading><subsection id="ID_1715324993222_001" name="1" temporalId="s7B_1"><num value="1">(1)</num><content>On determining an application under <ref>section 7A</ref>, the Director must
+                give a written notice of the decision to the applicant.</content></subsection><subsection id="ID_1715324993224_002" name="2" temporalId="s7B_2"><num value="2">(2)</num><content>If the application is approved, the notice must state the validity period of
+                the renewed registration.</content></subsection><subsection id="ID_1715324993225_003" name="3" temporalId="s7B_3"><num value="3">(3)</num><leadIn>If the application is refused, the notice must state—</leadIn><paragraph id="ID_1715324993226_004" name="a" temporalId="s7B_3_a"><num value="a">(a)</num><content>the reason for the refusal; and</content></paragraph><paragraph id="ID_1715324993227_005" name="b" temporalId="s7B_3_b"><num value="b">(b)</num><content>that the applicant may appeal under <ref>section 10</ref>.</content></paragraph></subsection><sourceNote>(<ref href="hk/2023/12">12 of 2023 s. 82</ref>)</sourceNote></section><section id="ID_1715244592463_003" name="s7C" temporalId="s7C" startPeriod="2024-06-16" status="operational" reason="inEffect"><num value="7C">7C.</num><heading>Registration
+            remains in effect pending determination of renewal
+            application</heading><subsection id="ID_1715325047547_001" name="1" temporalId="s7C_1"><num value="1">(1)</num><leadIn>This section applies if—</leadIn><paragraph id="ID_1715325047548_002" name="a" temporalId="s7C_1_a"><num value="a">(a)</num><content>a registered health worker applies for the renewal of the registration
+                    under <ref>section 7A</ref>; and</content></paragraph><paragraph id="ID_1715325047550_003" name="b" temporalId="s7C_1_b"><num value="b">(b)</num><content>the registration would, but for this section, have expired before the
+                    application is determined.</content></paragraph></subsection><subsection id="ID_1715325047550_004" name="2" temporalId="s7C_2"><num value="2">(2)</num><leadIn>The registration remains in effect until—</leadIn><paragraph id="ID_1715325047551_005" name="a" temporalId="s7C_2_a"><num value="a">(a)</num><content>the Director determines the application; or</content></paragraph><paragraph id="ID_1715325047552_006" name="b" temporalId="s7C_2_b"><num value="b">(b)</num><content>the registered health worker withdraws the application.</content></paragraph></subsection><sourceNote>(<ref href="hk/2023/12">12 of 2023 s. 82</ref>)</sourceNote></section><section id="ID_1715244592576_004" name="s7D" temporalId="s7D" startPeriod="2024-06-16" status="operational" reason="inEffect"><num value="7D">7D.</num><heading>Validity period
+            of registration as registered health worker</heading><content>The validity period of a registration or renewed registration as a registered
+            health worker is to be decided by the Director and must not exceed 5 years.</content><sourceNote>(<ref href="hk/2023/12">12 of 2023 s. 82</ref>)</sourceNote></section><section reason="inEffect" status="operational" id="ID_1438403527592_003" name="s8" temporalId="s8" startPeriod="2024-06-16"><num value="8">8.</num><heading>Cancellation of registration as registered health worker</heading><subsection id="ID_1715325225423_001" name="1" temporalId="s8_1"><num value="1">(1)</num><leadIn>The Director may cancel a person’s registration as a registered health worker if
+                satisfied that—</leadIn><paragraph id="ID_1715325225424_002" name="a" temporalId="s8_1_a"><num value="a">(a)</num><content>the registration was obtained by fraudulent means;</content></paragraph><paragraph id="ID_1715325225425_003" name="b" temporalId="s8_1_b"><num value="b">(b)</num><content>the person no longer meets the requirement for registration under
+                        <ref>section 6(2)(a)(i)</ref>, <ref>(ii)</ref> or <ref>(iii)</ref>;
+                    or</content></paragraph><paragraph id="ID_1715325225429_004" name="c" temporalId="s8_1_c"><num value="c">(c)</num><leadIn>the person contravenes—</leadIn><subparagraph id="ID_1715325225430_005" name="1" temporalId="s8_1_c_1"><num value="1">(i)</num><content>a condition imposed on the registration under <ref>section 6(3)</ref>
+                        or <ref>7A(4)</ref>; or</content></subparagraph><subparagraph id="ID_1715325225432_006" name="2" temporalId="s8_1_c_2"><num value="2">(ii)</num><content><ref>section 10B</ref>.</content></subparagraph></paragraph></subsection><subsection id="ID_1715325225434_007" name="2" temporalId="s8_2"><num value="2">(2)</num><leadIn>The Director must cancel a person’s registration as a registered health
+                worker—</leadIn><paragraph id="ID_1715325225435_008" name="a" temporalId="s8_2_a"><num value="a">(a)</num><content>if the person makes a written request to the Director for cancelling the
+                    registration; or</content></paragraph><paragraph id="ID_1715325225436_009" name="b" temporalId="s8_2_b"><num value="b">(b)</num><leadIn>if—</leadIn><subparagraph id="ID_1715325225437_010" name="1" temporalId="s8_2_b_1"><num value="1">(i)</num><content>the person was also registered as a registered health worker under <ref href="/hk/cap459A">Cap. 459A</ref>; and</content></subparagraph><subparagraph id="ID_1715325225439_011" name="2" temporalId="s8_2_b_2"><num value="2">(ii)</num><content>that registration under <ref href="/hk/cap459A">Cap. 459A</ref> is
+                        cancelled under <ref>section 8(1)(a)</ref> or <ref>(b)</ref> of <ref href="/hk/cap459A">Cap. 459A</ref>.</content></subparagraph></paragraph></subsection><subsection id="ID_1715325225444_012" name="3" temporalId="s8_3"><num value="3">(3)</num><leadIn>The cancellation takes effect—</leadIn><paragraph id="ID_1715325225445_013" name="a" temporalId="s8_3_a"><num value="a">(a)</num><content>for a cancellation under subsection (1)—subject to <ref>section
+                    10(3)</ref>, on the expiry of 21 days after the day on which the Director gives
+                    the notice under <ref>section 9</ref>; or</content></paragraph><paragraph id="ID_1715325225447_014" name="b" temporalId="s8_3_b"><num value="b">(b)</num><content>for a cancellation under subsection (2)—on the expiry of 21 days after the
+                    day on which the Director gives the notice under <ref>section 9</ref>.</content></paragraph></subsection><sourceNote>(<ref href="hk/2023/12">12 of 2023 s. 83</ref>)</sourceNote></section><section id="ID_1438403527607_002" name="s9" reason="inEffect" startPeriod="2024-06-16" status="operational" temporalId="s9"><num value="9">9.</num><heading>Notice of cancellation of registration</heading><subsection id="ID_1715325297716_001" name="1" temporalId="s9_1"><num value="1">(1)</num><leadIn>If the Director decides to cancel a person’s registration under <ref>section
+                    8</ref>, the Director must give a written notice of the decision to—</leadIn><paragraph id="ID_1715325297718_002" name="a" temporalId="s9_1_a"><num value="a">(a)</num><content>the person; and</content></paragraph><paragraph id="ID_1715325297719_003" name="b" temporalId="s9_1_b"><num value="b">(b)</num><content>if the person is employed in a residential care home for PWDs when the
+                    decision is made—the operator and the responsible person of the residential care
+                    home. <sourceNote>(<ref href="hk/2023/12">12 of 2023 s. 84</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1715325297723_004" name="2" temporalId="s9_2"><num value="2">(2)</num><leadIn>The notice must state—</leadIn><paragraph id="ID_1715325297723_005" name="a" temporalId="s9_2_a"><num value="a">(a)</num><content>the date on which the cancellation takes effect under <ref>section
+                        8(3)</ref>;</content></paragraph><paragraph id="ID_1715325297726_006" name="b" temporalId="s9_2_b"><num value="b">(b)</num><content>the reason for cancelling the registration; and</content></paragraph><paragraph id="ID_1715325297727_007" name="c" temporalId="s9_2_c"><num value="c">(c)</num><content>if the registration is cancelled under <ref>section 8(1)</ref>—that the
+                    person may appeal under <ref>section 10</ref>. <sourceNote>(<ref href="hk/2023/12">12 of 2023 s. 84</ref>)</sourceNote></content></paragraph></subsection></section><section reason="inEffect" status="operational" id="ID_1438403527607_004" name="s10" temporalId="s10" startPeriod="2024-06-16"><num value="10">10.</num><heading>Appeals to Secretary</heading><subsection id="ID_1715325443830_001" name="1" temporalId="s10_1"><num value="1">(1)</num><leadIn>If the Director—</leadIn><paragraph id="ID_1715325443832_002" name="a" temporalId="s10_1_a"><num value="a">(a)</num><content>decides to refuse to register a person under <ref>section
+                    6</ref>;</content></paragraph><paragraph id="ID_1715325443834_003" name="b" temporalId="s10_1_b"><num value="b">(b)</num><content>decides to refuse to renew a person’s registration under <ref>section
+                        7A</ref>; or</content></paragraph><paragraph id="ID_1715325443836_004" name="c" temporalId="s10_1_c"><num value="c">(c)</num><content>decides to cancel a person’s registration under <ref>section
+                    8(1)</ref>,</content></paragraph><continued>the person may, by written notice, appeal to the Secretary against the
+                decision.</continued></subsection><subsection id="ID_1715325443838_005" name="2" temporalId="s10_2"><num value="2">(2)</num><leadIn>The notice must—</leadIn><paragraph id="ID_1715325443839_006" name="a" temporalId="s10_2_a"><num value="a">(a)</num><content>state the grounds of appeal; and</content></paragraph><paragraph id="ID_1715325443840_007" name="b" temporalId="s10_2_b"><num value="b">(b)</num><content>be delivered to the Director within 21 days after the day on which the
+                    Director gives the notice of the decision.</content></paragraph></subsection><subsection id="ID_1715325443841_008" name="3" temporalId="s10_3"><num value="3">(3)</num><content>If an appeal is made against a decision described in subsection
+                    <ref>(1)(c)</ref>, the decision does not have effect pending the determination
+                of the appeal by the Secretary.</content></subsection><subsection id="ID_1715325443843_009" name="4" temporalId="s10_4"><num value="4">(4)</num><leadIn>When considering an appeal against a decision of the Director, the
+                Secretary—</leadIn><paragraph id="ID_1715325443844_010" name="a" temporalId="s10_4_a"><num value="a">(a)</num><content>must give the appellant and the Director an opportunity of being heard;
+                    and</content></paragraph><paragraph id="ID_1715325443845_011" name="b" temporalId="s10_4_b"><num value="b">(b)</num><content>may confirm, vary or reverse the decision and, if the decision is reversed,
+                    substitute for the decision a decision that the Secretary considers
+                    appropriate.</content></paragraph></subsection><subsection id="ID_1715325443846_012" name="5" temporalId="s10_5"><num value="5">(5)</num><content>If the Secretary varies, or substitutes another decision for, the Director’s
+                decision, the decision as varied or the substituted decision must be one that the
+                Director had power to make.</content></subsection><subsection id="ID_1715325443847_013" name="6" temporalId="s10_6"><num value="6">(6)</num><leadIn>On the determination of the appeal by the Secretary, the Director must give a
+                written notice of the determination to—</leadIn><paragraph id="ID_1715325443848_014" name="a" temporalId="s10_6_a"><num value="a">(a)</num><content>the appellant; and</content></paragraph><paragraph id="ID_1715325443849_015" name="b" temporalId="s10_6_b"><num value="b">(b)</num><content>if the appellant is employed in a residential care home for PWDs when the
+                    appeal is determined—the operator and the responsible person of the residential
+                    care home.</content></paragraph></subsection><subsection id="ID_1715325443850_016" name="7" temporalId="s10_7"><num value="7">(7)</num><content>The notice referred to in subsection (6) must state the reason for the
+                determination.</content></subsection><sourceNote>(<ref href="hk/2023/12">12 of 2023 s. 85</ref>)</sourceNote></section><section id="ID_1715305062461_001" name="s10A" temporalId="s10A" startPeriod="2024-06-16" status="operational" reason="inEffect"><num value="10A">10A.</num><heading>Registration
+            remains in effect pending determination of appeal</heading><subsection id="ID_1715325504088_001" name="1" temporalId="s10A_1"><num value="1">(1)</num><leadIn>This section applies if—</leadIn><paragraph id="ID_1715325504089_002" name="a" temporalId="s10A_1_a"><num value="a">(a)</num><content>a person appeals against a decision described in <ref>section
+                        10(1)(b)</ref> or <ref>(c)</ref>; and</content></paragraph><paragraph id="ID_1715325504093_003" name="b" temporalId="s10A_1_b"><num value="b">(b)</num><content>the person’s registration as a registered health worker would, but for this
+                    section, have expired before the appeal is determined.</content></paragraph></subsection><subsection id="ID_1715325504094_004" name="2" temporalId="s10A_2"><num value="2">(2)</num><leadIn>The registration remains in effect until—</leadIn><paragraph id="ID_1715325504095_005" name="a" temporalId="s10A_2_a"><num value="a">(a)</num><content>the Secretary determines the appeal; or</content></paragraph><paragraph id="ID_1715325504096_006" name="b" temporalId="s10A_2_b"><num value="b">(b)</num><content>the person withdraws the appeal.</content></paragraph></subsection><sourceNote>(<ref href="hk/2023/12">12 of 2023 s. 86</ref>)</sourceNote></section><section id="ID_1715305062776_002" name="s10B" temporalId="s10B" startPeriod="2024-06-16" status="operational" reason="inEffect"><num value="10B">10B.</num><heading>Registered
+            health worker to report certain events</heading><subsection id="ID_1715325608721_001" name="1" temporalId="s10B_1"><num value="1">(1)</num><leadIn>A registered health worker must report to the Director if—</leadIn><paragraph id="ID_1715325608722_002" name="a" temporalId="s10B_1_a"><num value="a">(a)</num><content>a prosecution is started against the health worker for an indictable
+                    offence in Hong Kong;</content></paragraph><paragraph id="ID_1715325608723_003" name="b" temporalId="s10B_1_b"><num value="b">(b)</num><content>a prosecution is started against the health worker for an offence
+                    punishable with imprisonment (however described) in a place outside Hong
+                    Kong;</content></paragraph><paragraph id="ID_1715325608724_004" name="c" temporalId="s10B_1_c"><num value="c">(c)</num><content>the health worker is convicted of an indictable offence in Hong
+                    Kong;</content></paragraph><paragraph id="ID_1715325608725_005" name="d" temporalId="s10B_1_d"><num value="d">(d)</num><content>the health worker is sentenced to imprisonment (however described) in a
+                    place outside Hong Kong, whether or not the sentence is suspended; or</content></paragraph><paragraph id="ID_1715325608726_006" name="e" temporalId="s10B_1_e"><num value="e">(e)</num><content>there is a change in the name or correspondence address of the health
+                    worker.</content></paragraph></subsection><subsection id="ID_1715325608727_007" name="2" temporalId="s10B_2"><num value="2">(2)</num><leadIn>The report must—</leadIn><paragraph id="ID_1715325608728_008" name="a" temporalId="s10B_2_a"><num value="a">(a)</num><leadIn>be given in writing—</leadIn><subparagraph id="ID_1715325608729_009" name="1" temporalId="s10B_2_a_1"><num value="1">(i)</num><content>for an event described in subsection <ref>(1)(a)</ref>, (b), (c) or
+                        (d)—as soon as reasonably practicable after the event occurs; or</content></subparagraph><subparagraph id="ID_1715325608731_010" name="2" temporalId="s10B_2_a_2"><num value="2">(ii)</num><content>for a change described in subsection <ref>(1)(e)</ref>—within 3 months
+                        after the change occurs; and</content></subparagraph></paragraph><paragraph id="ID_1715325608733_011" name="b" temporalId="s10B_2_b"><num value="b">(b)</num><content>contain the information specified by the Director.</content></paragraph></subsection><sourceNote>(<ref href="hk/2023/12">12 of 2023 s. 86</ref>)</sourceNote></section><section id="ID_1715305062963_003" name="s10C" temporalId="s10C" startPeriod="2024-06-16" status="operational" reason="inEffect"><num value="10C">10C.</num><heading>Transitional
+            provisions relating to registration before material date</heading><subsection id="ID_1715325664999_001" name="1" temporalId="s10C_1"><num value="1">(1)</num><content>Unless renewed under <ref>section 7A</ref>, a registration under <ref>section
+                    6</ref> that has effect immediately before the material date expires at midnight
+                on the last day of the 5-year period beginning on the material date (<b><i>expiry
+                        date</i></b>).</content></subsection><subsection id="ID_1715325665002_002" name="2" temporalId="s10C_2"><num value="2">(2)</num><leadIn>Despite <ref>section 7A(2)(a)</ref>, an application for the renewal of the
+                registration—</leadIn><paragraph id="ID_1715325665004_003" name="a" temporalId="s10C_2_a"><num value="a">(a)</num><content>may be made at any time on or after the material date; but</content></paragraph><paragraph id="ID_1715325665004_004" name="b" temporalId="s10C_2_b"><num value="b">(b)</num><content>must be made at least 6 months before the expiry date.</content></paragraph></subsection><sourceNote>(<ref href="hk/2023/12">12 of 2023 s. 86</ref>)</sourceNote></section><section id="ID_1715305063132_004" name="s10D" temporalId="s10D" startPeriod="2024-06-16" status="operational" reason="inEffect"><num value="10D">10D.</num><heading>Application for
+            registration as registered health worker pending on material
+            date</heading><leadIn>If an application for registration under <ref>section 6</ref>—</leadIn><paragraph id="ID_1715325714330_001" name="a" temporalId="s10D_a"><num value="a">(a)</num><content>was made before the material date; but</content></paragraph><paragraph id="ID_1715325714331_002" name="b" temporalId="s10D_b"><num value="b">(b)</num><content>has not been determined by the Director before that date,</content></paragraph><continued>this Part, as amended by the Residential Care Homes Legislation (Miscellaneous
+            Amendments) Ordinance 2023 (<ref href="hk/2023/12">12 of 2023</ref>), applies in
+            relation to the application.</continued><sourceNote>(<ref href="hk/2023/12">12 of 2023 s. 86</ref>)</sourceNote></section></part><part id="ID_1438403527623_001" name="P4" reason="inEffect" startPeriod="2011-11-18" status="operational" temporalId="P4"><num value="4">Part 4</num><heading>Duties of Operators</heading><section id="ID_1438403527623_003" name="s11" reason="inEffect" startPeriod="2025-06-16" status="operational" temporalId="s11"><num value="11">11.</num><heading>Staffing
+            requirements</heading><sourceNote>(<ref href="hk/2023/12">12 of 2023 s. 87</ref>)</sourceNote><subsection id="ID_1715326037919_001" name="1" temporalId="s11_1"><num value="1">(1)</num><leadIn>An operator of a residential care home for PWDs must—</leadIn><paragraph id="ID_1715326037920_002" name="a" temporalId="s11_1_a"><num value="a">(a)</num><content>employ a home manager for the residential care home; and</content></paragraph><paragraph id="ID_1715326037921_003" name="b" temporalId="s11_1_b"><num value="b">(b)</num><content>ensure that <ref>Schedule 1</ref> is complied with in relation to the
+                    residential care home. <sourceNote>(<ref href="hk/2023/12">12 of 2023 s. 87</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438413843943_044" name="2" temporalId="s11_2"><num value="2">(2)</num><leadIn>An operator of a residential care home for PWDs must not employ any person
+                as—</leadIn><paragraph id="ID_1438413843943_052" name="a" temporalId="s11_2_a"><num value="a">(a)</num><leadIn>a
+                    home manager—</leadIn><subparagraph id="ID_1750837813431_001" name="i" temporalId="s11_2_a_i"><num value="i">(i)</num><content>unless the person is a registered home manager or a registered home
+                        manager (provisional); and</content></subparagraph><subparagraph id="ID_1750837813431_002" name="ii" temporalId="s11_2_a_ii"><num value="ii">(ii)</num><content>for any purpose other than employment as a home manager;
+                                <sourceNote>(<ref href="hk/2023/12">12 of 2023 s.
+                            87</ref>)</sourceNote></content></subparagraph></paragraph><paragraph id="ID_1438413843943_060" name="b" temporalId="s11_2_b"><num value="b">(b)</num><content>an ancillary worker for any purpose other than employment as an ancillary
+                    worker;</content></paragraph><paragraph id="ID_1438413843943_068" name="c" temporalId="s11_2_c"><num value="c">(c)</num><content>a care worker for any purpose other than employment as a care
+                    worker;</content></paragraph><paragraph id="ID_1438413843959_006" name="d" temporalId="s11_2_d"><num value="d">(d)</num><leadIn>a health worker—</leadIn><subparagraph id="ID_1438413843959_014" name="i" temporalId="s11_2_d_i"><num value="i">(i)</num><content>unless the person
+                        is
+                        a registered health worker; and <sourceNote>(<ref href="hk/2023/12">12 of 2023 s. 87</ref>)</sourceNote></content></subparagraph><subparagraph id="ID_1438413843959_022" name="ii" temporalId="s11_2_d_ii"><num value="ii">(ii)</num><content>for any purpose other than employment as a health worker; or</content></subparagraph></paragraph><paragraph id="ID_1438413843959_029" name="e" temporalId="s11_2_e"><num value="e">(e)</num><leadIn>a nurse—</leadIn><subparagraph id="ID_1438413843959_037" name="i" temporalId="s11_2_e_i"><num value="i">(i)</num><content>unless the person
+                        is
+                        a person with full registration, limited registration, full enrolment or
+                        limited enrolment within the meaning of the Nurses Registration Ordinance
+                            (<ref href="/hk/cap164">Cap. 164</ref>); and
+                        <sourceNote>(<ref href="hk/2023/12">12 of 2023 s.
+                            87</ref>; <ref href="hk/2024/24">24 of 2024 s. 95</ref>)</sourceNote></content></subparagraph><subparagraph id="ID_1438413843959_045" name="ii" temporalId="s11_2_e_ii"><num value="ii">(ii)</num><content>for any purpose other than employment as a nurse.</content></subparagraph></paragraph></subsection><subsection id="ID_1438413843959_051" name="3" temporalId="s11_3"><num value="3">(3)</num><content>An operator of a residential care home for PWDs must inform the Director in
+                writing within 14 days after any change in the employment of a home manager of the
+                residential care home under subsection <ref>(1)(a)</ref> has occurred.</content></subsection><subsection id="ID_1438413843975_005" name="4" temporalId="s11_4"><num value="4">(4)</num><content>An operator who contravenes subsection (1), (2) or (3) commits an offence and
+                is liable to a fine at
+                level 5.
+                <sourceNote>(<ref href="hk/2023/12">12 of 2023 s. 87</ref>)</sourceNote></content></subsection></section><section id="ID_1438403527623_005" name="s12" reason="inEffect" startPeriod="2024-06-16" status="operational" temporalId="s12"><num value="12">12.</num><heading>Maintenance of records by operators</heading><subsection id="ID_1438413844021_004" name="1" temporalId="s12_1"><num value="1">(1)</num><content>An operator of a residential care home for PWDs must maintain a record of the name, address and particulars of identity of every person employed in the residential care home.</content></subsection><subsection id="ID_1438413844021_012" name="2" temporalId="s12_2"><num value="2">(2)</num><content>An operator who contravenes subsection (1) commits an offence and is liable to
+                a fine at level 5.
+                <sourceNote>(<ref href="hk/2023/12">12 of 2023 s. 88</ref>)</sourceNote></content></subsection></section><section id="ID_1438403527638_002" name="s13" reason="inEffect" startPeriod="2024-06-16" status="operational" temporalId="s13"><num value="13">13.</num><heading>Operators to provide plans etc.</heading><subsection id="ID_1438413844037_012" name="1" temporalId="s13_1"><num value="1">(1)</num><content>The Director may, by a notice in writing given to an operator of a residential care home for PWDs, require the operator to provide to the Director a plan or diagram, with dimensions of the premises of the residential care home, before the expiry of the time, being not less than 14 days, indicated in the notice.</content></subsection><subsection id="ID_1438413844053_005" name="2" temporalId="s13_2"><num value="2">(2)</num><content>An operator to whom a notice is given under subsection (1) must, before the expiry of the time indicated in the notice, provide the plan or diagram required by the Director.</content></subsection><subsection id="ID_1438413844053_013" name="3" temporalId="s13_3"><num value="3">(3)</num><content>An operator who contravenes subsection (2) commits an offence and is liable to
+                a fine at
+                level 5.
+                <sourceNote>(<ref href="hk/2023/12">12 of 2023 s. 89</ref>)</sourceNote></content></subsection></section><section id="ID_1438403527638_004" name="s14" reason="inEffect" startPeriod="2024-06-16" status="operational" temporalId="s14"><num value="14">14.</num><heading>Operators to provide details of fees</heading><subsection id="ID_1438413844084_004" name="1" temporalId="s14_1"><num value="1">(1)</num><content>The Director may, by a notice in writing given to an operator of a residential care home for PWDs, require the operator to provide to the Director details of any fees or charges payable by the residents of the residential care home, before the expiry of the time, being not less than 14 days, indicated in the notice.</content></subsection><subsection id="ID_1438413844084_012" name="2" temporalId="s14_2"><num value="2">(2)</num><content>An operator to whom a notice is given under subsection (1) must, before the expiry of the time indicated in the notice, provide the details of the fees and charges required by the Director.</content></subsection><subsection id="ID_1438413844084_020" name="3" temporalId="s14_3"><num value="3">(3)</num><content>An operator must inform the Director in writing within 14 days after any change in the fees and charges payable by the residents.</content></subsection><subsection id="ID_1438413844099_005" name="4" temporalId="s14_4"><num value="4">(4)</num><content>An operator who contravenes subsection (2) or (3) commits an offence and is
+                liable to a fine at
+                level 5.
+                <sourceNote>(<ref href="hk/2023/12">12 of 2023 s. 90</ref>)</sourceNote></content></subsection></section><section id="ID_1438403527638_006" name="s15" reason="inEffect" startPeriod="2024-06-16" status="operational" temporalId="s15"><num value="15">15.</num><heading>Operators to ensure advertisement contains certain information</heading><subsection id="ID_1438413844131_004" name="1" temporalId="s15_1"><num value="1">(1)</num><content>An operator of a residential care home for PWDs must ensure that
+                every
+                advertisement published by or on behalf of the operator for
+                promoting the residential care home contains information to the effect that a
+                licence or a certificate of exemption is for the time being in force in respect of
+                the residential care home.</content></subsection><subsection id="ID_1438413844131_012" name="2" temporalId="s15_2"><num value="2">(2)</num><sourceNote>(Repealed <ref href="hk/2023/12">12 of 2023 s. 91</ref>)</sourceNote></subsection><subsection id="ID_1438413844131_035" name="3" temporalId="s15_3"><num value="3">(3)</num><content>An operator who contravenes subsection (1) commits an offence and is liable to
+                a fine at
+                level
+                5.</content></subsection><subsection id="ID_1715326292438_001" name="4" temporalId="s15_4"><num value="4">(4)</num><leadIn>In subsection (1)—</leadIn><def name="Advertisement">
+                <leadIn><term>advertisement</term> (<term xml:lang="zh-Hant-HK">廣告</term>) includes
+                    any advertisement in the form of any words (written or spoken), picture,
+                    drawing, visual image, figure or article—</leadIn>
+                <paragraph id="ID_1715326292439_002" name="a" temporalId="s15_4_a"><num value="a">(a)</num><content>appearing in any publication; or</content></paragraph>
+                <paragraph id="ID_1715326292440_003" name="b" temporalId="s15_4_b"><num value="b">(b)</num><content>brought to the notice of the general public or any section of the
+                        general public in any other way;</content></paragraph>
+            </def><def name="Publish"><term>publish</term> (<term xml:lang="zh-Hant-HK">發布</term>)
+                includes issue, circulate, display, distribute and broadcast. <sourceNote>(<ref href="hk/2023/12">12 of 2023 s. 91</ref>)</sourceNote></def></subsection><sourceNote>(<ref href="hk/2023/12">12 of 2023 s. 91</ref>)</sourceNote></section></part><part id="ID_1438403527654_002" name="P5" reason="inEffect" startPeriod="2011-11-18" status="operational" temporalId="P5"><num value="5">Part 5</num><heading>Duties of Home Managers</heading><section id="ID_1715305795804_001" name="s15A" temporalId="s15A" startPeriod="2024-06-16" status="operational" reason="inEffect"><num value="15A">15A.</num><heading>Application of
+                <ref>Part 5</ref></heading><content>This Part applies to a person who is employed by an operator of a residential care
+            home for PWDs as a home manager of the residential care home in compliance with
+                <ref>section 11(1)(a)</ref>.</content><sourceNote>(<ref href="hk/2023/12">12 of 2023 s. 92</ref>)</sourceNote></section><section id="ID_1438403527654_004" name="s16" reason="inEffect" startPeriod="2024-06-16" status="operational" temporalId="s16"><num value="16">16.</num><heading>Submission of staff list by home managers</heading><subsection id="ID_1438413844177_004" name="1" temporalId="s16_1"><num value="1">(1)</num><content>A home manager must, in relation to a residential care home for PWDs and if required by the Director in writing, submit to the Director a list of staff employed by the operator of the residential care home under <ref>section 11</ref>, within 14 days of being required to do so.</content></subsection><subsection id="ID_1438413844177_012" name="2" temporalId="s16_2"><num value="2">(2)</num><content>A home manager must, in relation to a residential care home for PWDs, at least once every 3 months inform the Director in writing of any change in the list of staff employed by the operator of the residential care home under <ref>section 11</ref>.</content></subsection><subsection id="ID_1438413844193_005" name="3" temporalId="s16_3"><num value="3">(3)</num><content>A home manager who contravenes subsection (1) or (2) commits an offence and is
+                liable to a fine at
+                level 5.
+                <sourceNote>(<ref href="hk/2023/12">12 of 2023 s. 93</ref>)</sourceNote></content></subsection></section><section id="ID_1438403527670_001" name="s17" reason="inEffect" startPeriod="2024-06-16" status="operational" temporalId="s17"><num value="17">17.</num><heading>Maintenance of records by home managers</heading><subsection id="ID_1438413844209_020" name="1" temporalId="s17_1"><num value="1">(1)</num><leadIn>A home manager of a residential care home for PWDs must maintain a record
+                of—</leadIn><paragraph id="ID_1438413844224_005" name="a" temporalId="s17_1_a"><num value="a">(a)</num><content>the name, address and particulars of identity of every resident;</content></paragraph><paragraph id="ID_1438413844224_013" name="b" temporalId="s17_1_b"><num value="b">(b)</num><content>the name, address and particulars of identity of at least one relative or
+                    one contact person of every resident;</content></paragraph><paragraph id="ID_1438413844224_021" name="c" temporalId="s17_1_c"><num value="c">(c)</num><content>where or how the relative or contact person may be contacted in an
+                    emergency;</content></paragraph><paragraph id="ID_1438413844224_029" name="d" temporalId="s17_1_d"><num value="d">(d)</num><content>the date of admission and discharge of every resident;</content></paragraph><paragraph id="ID_1438413844224_037" name="e" temporalId="s17_1_e"><num value="e">(e)</num><content>any accident or illness suffered by a resident and of any remedial action
+                    taken in relation to that accident or illness;</content></paragraph><paragraph id="ID_1438413844224_045" name="f" temporalId="s17_1_f"><num value="f">(f)</num><content>any death of a resident;</content></paragraph><paragraph id="ID_1438413844224_053" name="g" temporalId="s17_1_g"><num value="g">(g)</num><content>any action taken, including the use of force
+                    or
+                    restraint, to prevent or restrain a resident from
+                    self-injury
+                    or injuring others, or damaging property, or creating a disturbance;</content></paragraph><paragraph id="ID_1438413844224_061" name="h" temporalId="s17_1_h"><num value="h">(h)</num><content>possessions or property stored or held on behalf of every resident;
+                    and</content></paragraph><paragraph id="ID_1438413844240_006" name="i" temporalId="s17_1_i"><num value="i">(i)</num><content>any complaint made by a resident or any other person relating to the
+                    management or operation of the residential care home and of any remedial action
+                    taken in relation to that complaint.</content></paragraph></subsection><subsection id="ID_1438413844240_013" name="2" temporalId="s17_2"><num value="2">(2)</num><content>A home manager who contravenes subsection (1) commits an offence and is liable
+                to a fine at
+                level
+                5.</content></subsection><sourceNote>(<ref href="hk/2023/12">12 of 2023 s. 94</ref>)</sourceNote></section><section id="ID_1438403527670_003" name="s18" reason="inEffect" startPeriod="2024-06-16" status="operational" temporalId="s18"><num value="18">18.</num><heading>Information to be provided by home managers</heading><subsection id="ID_1438413844271_004" name="1" temporalId="s18_1"><num value="1">(1)</num><content>The Director may, by a notice in writing given to a home manager of a residential care home for PWDs, require the home manager to provide any information concerning the residential care home that the Director may require, before the expiry of the time, being not less than 14 days, indicated in the notice.</content></subsection><subsection id="ID_1438413844287_005" name="2" temporalId="s18_2"><num value="2">(2)</num><content>A home manager to whom a notice is given under subsection (1) must, before the expiry of the time indicated in the notice, provide the information required by the Director.</content></subsection><subsection id="ID_1438413844287_013" name="3" temporalId="s18_3"><num value="3">(3)</num><content>A home manager who contravenes subsection (2) commits an offence and is liable
+                to a fine at
+                level 5.
+                <sourceNote>(<ref href="hk/2023/12">12 of 2023 s. 95</ref>)</sourceNote></content></subsection></section><section id="ID_1438403527670_005" name="s19" reason="inEffect" startPeriod="2024-06-16" status="operational" temporalId="s19"><num value="19">19.</num><heading>Home managers to report scheduled infectious disease</heading><subsection id="ID_1438413844302_027" name="1" temporalId="s19_1"><num value="1">(1)</num><content>If a home manager of a residential care home for PWDs reasonably suspects or knows of a case of a scheduled infectious disease amongst the residents or staff of the residential care home or reasonably suspects or knows that a resident or staff member has been in contact with a case of a scheduled infectious disease, the home manager must immediately so report to the Director.</content></subsection><subsection id="ID_1438413844318_005" name="2" temporalId="s19_2"><num value="2">(2)</num><content>A home manager who contravenes subsection (1) commits an offence and is liable
+                to a fine at
+                level 5.
+                <sourceNote>(<ref href="hk/2023/12">12 of 2023 s. 96</ref>)</sourceNote></content></subsection><subsection id="ID_1438413844318_013" name="3" temporalId="s19_3"><num value="3">(3)</num><leadIn>In this section—</leadIn><def name="ScheduledInfectiousDisease"><term>scheduled infectious disease</term> (<term xml:lang="zh-Hant-HK">表列傳染病</term>) has the meaning given by <ref>section 2</ref> of the Prevention and Control of Disease Ordinance (<ref href="/hk/cap599">Cap. 599</ref>).</def></subsection></section></part><part id="ID_1438403527685_002" name="P6" reason="inEffect" startPeriod="2011-11-18" status="operational" temporalId="P6"><num value="6">Part 6</num><heading>Location and Design of Residential Care Homes for PWDs</heading><section id="ID_1438403527685_004" name="s20" reason="inEffect" startPeriod="2011-11-18" status="operational" temporalId="s20"><num value="20">20.</num><heading>Location</heading><leadIn>A residential care home for PWDs must not be situated in any part of—</leadIn><paragraph id="ID_1438413844380_012" name="a" temporalId="s20_a"><num value="a">(a)</num><content>an industrial building; or</content></paragraph><paragraph id="ID_1438413844380_020" name="b" temporalId="s20_b"><num value="b">(b)</num><content>any premises the floor of which is immediately over the ceiling or immediately below the floor slab of any premises in which any trade that, in the opinion of the Director, may pose a risk to the life or safety of the residents is carried on.</content></paragraph></section><section id="ID_1438403527701_002" name="s21" reason="inEffect" startPeriod="2011-11-18" status="operational" temporalId="s21"><num value="21">21.</num><heading>Height</heading><subsection id="ID_1438413844411_004" name="1" temporalId="s21_1"><num value="1">(1)</num><content>Subject to subsection (2), a residential care home for PWDs, including any part of it, must not be situated at a height more than 24 m above the street level, measuring vertically from the street level to the floor of the premises in which the residential care home is or is to be situated.</content></subsection><subsection id="ID_1438413844411_012" name="2" temporalId="s21_2"><num value="2">(2)</num><content>The Director may, by a notice in writing given to an operator of a residential care home for PWDs, authorize that any part of the residential care home may be situated at a height more than 24 m above the street level as may be indicated in the notice.</content></subsection></section><section id="ID_1438403527701_004" name="s22" reason="inEffect" startPeriod="2011-11-18" status="operational" temporalId="s22"><num value="22">22.</num><heading>Design</heading><leadIn>A residential care home for PWDs must, to the satisfaction of the Director, be designed to suit the particular needs of the residents as follows—</leadIn><paragraph id="ID_1438413844443_012" name="a" temporalId="s22_a"><num value="a">(a)</num><content>every passage and doorway must be wide enough to accommodate residents using walking aids or wheelchairs;</content></paragraph><paragraph id="ID_1438413844443_020" name="b" temporalId="s22_b"><num value="b">(b)</num><content>non-slip tiles must be fitted in every place where the safety of residents is in jeopardy by reason of a risk of slippage;</content></paragraph><paragraph id="ID_1438413844443_028" name="c" temporalId="s22_c"><num value="c">(c)</num><content>the ceiling of every room must, unless otherwise permitted by the Director, be situated at a height not less than 2.5 m measuring vertically from the floor or not less than 2.3 m measuring vertically from the floor to the underside of any beam;</content></paragraph><paragraph id="ID_1438413844443_036" name="d" temporalId="s22_d"><num value="d">(d)</num><content>any other requirements that may be set out in the Code of Practice issued by the Director under <ref>section 23</ref> of the Ordinance.</content></paragraph></section><section id="ID_1438403527716_002" name="s23" reason="inEffect" startPeriod="2024-06-16" status="operational" temporalId="s23"><num value="23">23.</num><heading>Area of floor space per resident</heading><subsection id="ID_1715326699379_001" name="1" temporalId="s23_1"><num value="1">(1)</num><leadIn>The minimum area of floor space required for each resident of a residential care
+                home for PWDs is—</leadIn><paragraph id="ID_1715326699380_002" name="a" temporalId="s23_1_a"><num value="a">(a)</num><content>for a high care level home—9.5 m<sup>2</sup>; or</content></paragraph><paragraph id="ID_1715326699382_003" name="b" temporalId="s23_1_b"><num value="b">(b)</num><content>for a medium care level home or a low care level home—8 m<sup>2</sup>.
+                        <sourceNote>(<ref href="hk/2023/12">12 of 2023 s. 97</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1715326699385_004" name="1A" temporalId="s23_1A"><num value="1A">(1A)</num><leadIn>Despite subsection (1)—</leadIn><paragraph id="ID_1715326699386_005" name="a" temporalId="s23_1A_a"><num value="a">(a)</num><leadIn>for a high care level home to which this subsection applies, the minimum
+                    area of floor space required for each resident is—</leadIn><subparagraph id="ID_1715326699387_006" name="1" temporalId="s23_1A_a_1"><num value="1">(i)</num><content>during the 4-year period beginning on the material date—6.5
+                            m<sup>2</sup>; and</content></subparagraph><subparagraph id="ID_1715326699388_007" name="2" temporalId="s23_1A_a_2"><num value="2">(ii)</num><content>during the 4-year period immediately after the period mentioned in
+                        subparagraph (i)—8 m<sup>2</sup>; or</content></subparagraph></paragraph><paragraph id="ID_1715326699389_008" name="b" temporalId="s23_1A_b"><num value="b">(b)</num><content>for a medium care level home or a low care level home to which this
+                    subsection applies, during the 8-year period beginning on the material date, the
+                    minimum area of floor space required for each resident is 6.5 m<sup>2</sup>.
+                        <sourceNote>(<ref href="hk/2023/12">12 of 2023 s. 97</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1715326699393_009" name="1B" temporalId="s23_1B"><num value="1B">(1B)</num><leadIn>Subsection (1A) applies to a residential care home for PWDs if—</leadIn><paragraph id="ID_1715326699394_010" name="a" temporalId="s23_1B_a"><num value="a">(a)</num><content>a licence was in force in respect of the residential care home immediately
+                    before the material date; or</content></paragraph><paragraph id="ID_1715326699395_011" name="b" temporalId="s23_1B_b"><num value="b">(b)</num><content>a licence is issued in respect of the residential care home on or after the
+                    material date on an application made before that date. <sourceNote>(<ref href="hk/2023/12">12 of 2023 s. 97</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438413844474_020" name="2" temporalId="s23_2"><num value="2">(2)</num><content>In determining the area of floor space for the purposes of this section, the
+                area of any open space, podium, garden or any other area in the residential care
+                home which the Director is satisfied is unsuitable for the purposes of a residential
+                care home for PWDs is to be disregarded.</content></subsection></section><section id="ID_1438403527857_001" name="s24" reason="inEffect" startPeriod="2011-11-18" status="operational" temporalId="s24"><num value="24">24.</num><heading>Accessibility</heading><content>A residential care home for PWDs must, to the satisfaction of the Director, be accessible by emergency services.</content></section><section id="ID_1438403527919_001" name="s25" reason="inEffect" startPeriod="2011-11-18" status="operational" temporalId="s25"><num value="25">25.</num><heading>Heating, lighting and ventilation</heading><content>A residential care home for PWDs must, to the satisfaction of the Director, be adequately heated, lighted and ventilated.</content></section><section id="ID_1438403527935_002" name="s26" reason="inEffect" startPeriod="2011-11-18" status="operational" temporalId="s26"><num value="26">26.</num><heading>Toilet facilities</heading><subsection id="ID_1438413844536_011" name="1" temporalId="s26_1"><num value="1">(1)</num><content>A residential care home for PWDs must be provided with toilet facilities and sanitary arrangements of a type approved by the Director.</content></subsection><subsection id="ID_1438413844536_019" name="2" temporalId="s26_2"><num value="2">(2)</num><leadIn>A room used for toilet facilities must—</leadIn><paragraph id="ID_1438413844552_005" name="a" temporalId="s26_2_a"><num value="a">(a)</num><content>to the satisfaction of the Director, be provided with fittings appropriate to the use of the toilet facilities by the residents;</content></paragraph><paragraph id="ID_1438413844552_013" name="b" temporalId="s26_2_b"><num value="b">(b)</num><content>at all times be kept in a clean and sanitary condition; and</content></paragraph><paragraph id="ID_1438413844552_021" name="c" temporalId="s26_2_c"><num value="c">(c)</num><content>not be used for any other purpose.</content></paragraph></subsection></section><section id="ID_1438403527935_004" name="s27" reason="inEffect" startPeriod="2011-11-18" status="operational" temporalId="s27"><num value="27">27.</num><heading>Water supply and ablutions</heading><leadIn>A residential care home for PWDs must, to the satisfaction of the Director, be provided with—</leadIn><paragraph id="ID_1438413844583_012" name="a" temporalId="s27_a"><num value="a">(a)</num><content>an adequate and wholesome supply of water;</content></paragraph><paragraph id="ID_1438413844583_020" name="b" temporalId="s27_b"><num value="b">(b)</num><content>adequate washing and laundering facilities; and</content></paragraph><paragraph id="ID_1438413844583_028" name="c" temporalId="s27_c"><num value="c">(c)</num><content>adequate bathing facilities.</content></paragraph></section><section id="ID_1438403527950_002" name="s28" reason="inEffect" startPeriod="2011-11-18" status="operational" temporalId="s28"><num value="28">28.</num><heading>Repair</heading><content>A residential care home for PWDs must, to the satisfaction of the Director, be kept in a state of good repair.</content></section></part><part id="ID_1438403527950_004" name="P7" reason="inEffect" startPeriod="2024-06-16" status="operational" temporalId="P7"><num value="7">Part 7</num><heading>Residents’
+            Health, Safety and Well-being</heading><sourceNote>(<ref href="hk/2023/12">12 of 2023 s. 98</ref>)</sourceNote><section id="ID_1438403527966_001" name="s29" reason="inEffect" startPeriod="2011-11-18" status="operational" temporalId="s29"><num value="29">29.</num><heading>Precautions for health and safety</heading><content>In a residential care home for PWDs, the design, the construction (including the fire resistance of the elements of construction) and the properties of the materials must be such that the health and safety of the residents, and in particular their safe escape in the event of fire, are, to the satisfaction of the Director, reasonably assured.</content></section><section id="ID_1438403527966_003" name="s30" reason="inEffect" startPeriod="2011-11-18" status="operational" temporalId="s30"><num value="30">30.</num><heading>Fire prevention equipment</heading><content>A residential care home for PWDs must, to the satisfaction of the Director of Fire Services, be provided with adequate apparatus and equipment to safeguard the residential care home against fire.</content></section><section id="ID_1438403527966_005" name="s31" reason="inEffect" startPeriod="2011-11-18" status="operational" temporalId="s31"><num value="31">31.</num><heading>Fire exits</heading><leadIn>The fire exits and exit routes of a residential care home for PWDs must, to the satisfaction of the Director, be—</leadIn><paragraph id="ID_1438413844677_012" name="a" temporalId="s31_a"><num value="a">(a)</num><content>kept free from obstruction; and</content></paragraph><paragraph id="ID_1438413844677_020" name="b" temporalId="s31_b"><num value="b">(b)</num><content>adequately illuminated.</content></paragraph></section><section id="ID_1438403527982_002" name="s32" reason="inEffect" startPeriod="2024-06-16" status="operational" temporalId="s32"><num value="32">32.</num><heading>Inspection of premises by members of Fire Services Department</heading><subsection id="ID_1438413844692_033" name="1" temporalId="s32_1"><num value="1">(1)</num><leadIn>Any member of the Fire Services Department may, without warrant and on production if so required, of proof of the person’s membership and particulars of identity, at all reasonable times enter and inspect—</leadIn><paragraph id="ID_1438413844708_005" name="a" temporalId="s32_1_a"><num value="a">(a)</num><content>a residential care home for PWDs;</content></paragraph><paragraph id="ID_1438413844708_013" name="b" temporalId="s32_1_b"><num value="b">(b)</num><content>a building where a residential care home for PWDs is situated, if it appears to the member that a risk of fire to the residential care home may arise in the building; or</content></paragraph><paragraph id="ID_1438413844708_021" name="c" temporalId="s32_1_c"><num value="c">(c)</num><content>a building, place or premises adjacent or near to a residential care home for PWDs, if it appears to the member that a risk of fire to the residential care home may arise in the building, place or premises.</content></paragraph></subsection><subsection id="ID_1438413844708_028" name="2" temporalId="s32_2"><num value="2">(2)</num><content>A person must not obstruct a member of the Fire Services Department in the exercise of the powers of the member under subsection (1).</content></subsection><subsection id="ID_1438413844723_004" name="3" temporalId="s32_3"><num value="3">(3)</num><content>A person who contravenes subsection (2) commits an offence and is liable to a
+                fine at
+                level 5.
+                <sourceNote>(<ref href="hk/2023/12">12 of 2023 s. 100</ref>)</sourceNote></content></subsection></section><section id="ID_1438403527982_004" name="s33" reason="inEffect" startPeriod="2011-11-18" status="operational" temporalId="s33"><num value="33">33.</num><heading>Report from Fire Services Department</heading><content>Any member of the Fire Services Department may, in relation to any residential care home for PWDs, report to the Director any matter arising from an inspection under <ref>section 32</ref> or relating to the protection of life or property under the Fire Services Ordinance (<ref href="/hk/cap95">Cap. 95</ref>) and may make recommendations to the Director as to anything necessary to preclude danger from fire.</content></section><section reason="inEffect" status="operational" id="ID_1438403527997_001" name="s34" temporalId="s34" startPeriod="2024-06-16"><num value="34">34.</num><heading>Storage and administration of medicine</heading><subsection id="ID_1715327280135_001" name="1" temporalId="s34_1"><num value="1">(1)</num><content>All medicine kept in a residential care home for PWDs must, to the satisfaction
+                of the Director, be kept in a secure and locked place.</content></subsection><subsection id="ID_1715327280136_002" name="2" temporalId="s34_2"><num value="2">(2)</num><content>A medicine that is prescribed by a registered medical practitioner, a
+                registered Chinese medicine practitioner or a listed Chinese medicine practitioner
+                for a resident in a residential care home for PWDs may only be administered to the
+                resident in accordance with the prescription.</content></subsection><subsection id="ID_1715327280136_003" name="3" temporalId="s34_3"><num value="3">(3)</num><leadIn>In this section—</leadIn><def name="ListedChineseMedicinePractitioner"><term>listed Chinese medicine
+                    practitioner</term> (<term xml:lang="zh-Hant-HK">表列中醫</term>) has the meaning
+                given by <ref>section 2(1)</ref> of the Chinese Medicine Ordinance (<ref href="/hk/cap549">Cap. 549</ref>);</def><def name="RegisteredChineseMedicinePractitioner"><term>registered Chinese medicine
+                    practitioner</term> (<term xml:lang="zh-Hant-HK">註冊中醫</term>) has the meaning
+                given by <ref>section 2(1)</ref> of the Chinese Medicine Ordinance (<ref href="/hk/cap549">Cap. 549</ref>).</def></subsection><sourceNote>(<ref href="hk/2023/12">12 of 2023 s. 101</ref>)</sourceNote></section><section id="ID_1715308739758_001" name="s34A" temporalId="s34A" startPeriod="2024-06-16" status="operational" reason="inEffect"><num value="34A">34A.</num><heading>Use of
+            restraints</heading><subsection id="ID_1715327341799_001" name="1" temporalId="s34A_1"><num value="1">(1)</num><leadIn>A restraint must not be used on a resident in a residential care home for PWDs
+                unless—</leadIn><paragraph id="ID_1715327341800_002" name="a" temporalId="s34A_1_a"><num value="a">(a)</num><content>the safety, health or well-being of the resident or other persons is
+                    endangered;</content></paragraph><paragraph id="ID_1715327341800_003" name="b" temporalId="s34A_1_b"><num value="b">(b)</num><content>no other less restrictive means to avoid the danger are available in the
+                    circumstances; and</content></paragraph><paragraph id="ID_1715327341801_004" name="c" temporalId="s34A_1_c"><num value="c">(c)</num><content>the requirements relating to obtaining consent to the use of restraint as
+                    set out in the Codes of Practice issued under <ref>section 23</ref> of the
+                    Ordinance are complied with.</content></paragraph></subsection><subsection id="ID_1715327341803_005" name="2" temporalId="s34A_2"><num value="2">(2)</num><leadIn>A restraint may only be used—</leadIn><paragraph id="ID_1715327341804_006" name="a" temporalId="s34A_2_a"><num value="a">(a)</num><content>in the safe and proper manner as set out in the Codes of Practice;
+                    and</content></paragraph><paragraph id="ID_1715327341805_007" name="b" temporalId="s34A_2_b"><num value="b">(b)</num><content>for no longer than is necessary.</content></paragraph></subsection><subsection id="ID_1715327341805_008" name="3" temporalId="s34A_3"><num value="3">(3)</num><content>The use of a restraint must be closely monitored and reviewed to ensure that
+                subsections (1) and (2) are complied with in relation to the continued use of the
+                restraint.</content></subsection><sourceNote>(<ref href="hk/2023/12">12 of 2023 s. 102</ref>)</sourceNote></section><section id="ID_1715308739973_002" name="s34B" temporalId="s34B" startPeriod="2024-06-16" status="operational" reason="inEffect"><num value="34B">34B.</num><heading>Protection of
+            residents’ dignity and privacy when providing care etc.</heading><content>When a personal care service is provided to, or a nursing care procedure is
+            performed on, a resident in a residential care home for PWDs, adequate facilities or
+            measures must be provided or taken, to the satisfaction of the Director, to avoid
+            improper exposure of body parts and protect the dignity and privacy of the
+            resident.</content><sourceNote>(<ref href="hk/2023/12">12 of 2023 s. 102</ref>)</sourceNote></section><section id="ID_1438403527997_003" name="s35" reason="inEffect" startPeriod="2024-06-16" status="operational" temporalId="s35"><num value="35">35.</num><heading>Medical
+            examination of residents</heading><sourceNote>(<ref href="hk/2023/12">12 of 2023 s. 103</ref>)</sourceNote><subsection id="ID_1438413844786_011" name="1" temporalId="s35_1"><num value="1">(1)</num><content>An operator of a residential care home for PWDs must ensure that every resident
+                of the residential care home who has attained the age of 60 years is medically
+                examined at least once in every 12 months.</content></subsection><subsection id="ID_1438413844786_019" name="2" temporalId="s35_2"><num value="2">(2)</num><content>The examination must be conducted by a registered medical practitioner, who
+                must report in writing to the operator on the health of every resident mentioned in
+                subsection (1).</content></subsection><subsection id="ID_1438413844801_005" name="3" temporalId="s35_3"><num value="3">(3)</num><content>A copy of the report must be kept by the operator and made available at all
+                reasonable times for inspection by the Director or any inspector.</content></subsection></section><section id="ID_1438403528044_001" name="s36" reason="inEffect" startPeriod="2011-11-18" status="operational" temporalId="s36"><num value="36">36.</num><heading>Discharge of residents by operators</heading><content>An operator of a residential care home for PWDs may, by a notice in writing given to any resident of the residential care home and to a relative or contact person of the resident, discharge the resident and require the resident to quit the residential care home, before the expiry of the time, being not less than 30 days, indicated in the notice.</content></section></part><part id="ID_1438403528044_003" name="P8" reason="inEffect" startPeriod="2011-11-18" status="operational" temporalId="P8"><num value="8">Part 8</num><heading>Fees</heading><section reason="inEffect" status="operational" id="ID_1438403528075_001" name="s37" temporalId="s37" startPeriod="2024-06-16"><num value="37">37.</num><heading>Fees</heading><content>A fee specified in column 3 of <ref>Schedule 2</ref> is payable to the Director for
+            the matter described, opposite the fee, in column 2 of that Schedule.</content><sourceNote>(<ref href="hk/2023/12">12 of 2023 s. 104</ref>)</sourceNote></section></part><schedule reason="inEffect" status="operational" id="ID_1438403528075_003" name="sch1" temporalId="sch1" startPeriod="2024-06-16"><num value="1">Schedule 1</num><note role="crossReferences" type="inline">[<ref href="/hk/cap613A/s11">s.
+            11</ref>]</note><heading>Minimum Staffing Requirements</heading><part id="ID_1717639416577_001" name="P1" temporalId="sch1_P1"><num value="1">Part 1</num><heading>Preliminary</heading><section id="ID_1717639416578_002" name="s1" temporalId="sch1_P1_s1"><num value="1">1.</num><heading>Interpretation of <ref>Schedule 1</ref></heading><leadIn>In this Schedule—</leadIn><def name="OnCall"><term>on call</term> (<term xml:lang="zh-Hant-HK">候命</term>)
+                    means standing by and being ready to be on duty as soon as practicable after
+                    being called on;</def><def name="Onsite"><term>on-site</term> (<term xml:lang="zh-Hant-HK">在場</term>), in
+                    relation to a residential care home for PWDs, means being present in the
+                    residential care home;</def><def name="SpecifiedPeriod"><term>specified period</term> (<term xml:lang="zh-Hant-HK">指明期間</term>), in relation to a day, means the period
+                    from 6 a.m. to 10 p.m. on that day;</def><def name="StaffMember"><term>staff member</term> (<term xml:lang="zh-Hant-HK">員工</term>) means a home manager, a nurse, a health worker, a care worker or
+                    an ancillary worker.</def></section><section id="ID_1717639416580_003" name="s2" temporalId="sch1_P1_s2"><num value="2">2.</num><heading>Number of residents to be rounded up to next multiple</heading><leadIn>If, in relation to a residential care home for PWDs—</leadIn><paragraph id="ID_1717639416581_004" name="a" temporalId="sch1_P1_s2_a"><num value="a">(a)</num><content>this <ref>Schedule </ref>requires at least 1 staff member for every
+                        specified number of residents (<i><b>specified number</b></i>);
+                        and</content></paragraph><paragraph id="ID_1717639416583_005" name="b" temporalId="sch1_P1_s2_b"><num value="b">(b)</num><content>the number of residents of the residential care home is not a multiple
+                        of the specified number,</content></paragraph><continued>then, for the purpose of determining the number of staff members
+                    required, the number of residents of the residential care home is to be rounded
+                    up to the next multiple of the specified number.</continued></section></part><part id="ID_1717639416584_006" name="P2" temporalId="sch1_P2"><num value="2">Part 2</num><heading>Minimum Staffing Requirements</heading><section id="ID_1717639416585_007" name="s3" temporalId="sch1_P2_s3"><num value="3">3.</num><heading>High care level home</heading><leadIn>For a high care level home, during or at the time specified in column 2 of
+                    Table 1 on every day, there must be at least the number of staff members that is
+                    specified in column 3 of Table 1 opposite the
+                    time.<marker role="blank-line"></marker></leadIn><text class="align_center"><inline class="underline"><b>Table
+                    1</b></inline><marker role="blank-line"></marker></text><leadIn>
+                    <table xmlns="http://www.w3.org/1999/xhtml" width="100%" class="left_indent_30 repeat_header">
+                        <colgroup>
+                            <col width="17%"></col>
+                            <col width="29%"></col>
+                            <col width="54%"></col>
+                        </colgroup>
+                        <thead>
+                            <tr class="break_rows">
+                                <td class="align_left cellpadding_left_5">
+                                    <p class="first_line_indent_1">Column 1</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="align_center">Column 2</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="align_center">Column 3</p>
+                                </td>
+                            </tr>
+                            <tr class="break_rows">
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p>Item</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="align_center">Time</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="align_center">Minimum staffing requirement</p>
+                                    <p></p>
+                                </td>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr class="break_rows">
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5" colspan="3">
+                                    <p class="align_center"><b xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Nurse and
+                                            Health Worker</b></p>
+                                    <p></p>
+                                </td>
+                            </tr>
+                            <tr class="break_rows">
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p>1.</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p>11 hours within the specified period</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="left_indent_1 first_line_indent_-1">1 health worker
+                                        (on duty) for every 30 residents, and for this purpose, 1
+                                        nurse (on duty) is considered equivalent to 2 health workers
+                                        (on duty)</p>
+                                    <p></p>
+                                </td>
+                            </tr>
+                            <tr class="break_rows">
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5" colspan="3">
+                                    <p class="align_center"><b xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Care
+                                            Worker</b></p>
+                                    <p></p>
+                                </td>
+                            </tr>
+                            <tr class="break_rows">
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p>2.</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p>10 hours within the specified period</p>
+                                    <p></p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p>1 care worker (on duty) for every 20 residents</p>
+                                </td>
+                            </tr>
+                            <tr class="break_rows">
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p>3.</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p>Any time other than the 10 hours mentioned in item 2</p>
+                                    <p></p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p>1 care worker (on duty) for every 40 residents</p>
+                                </td>
+                            </tr>
+                            <tr class="break_rows">
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5" colspan="3">
+                                    <p class="align_center"><b xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Ancillary
+                                            Worker</b></p>
+                                    <p></p>
+                                </td>
+                            </tr>
+                            <tr class="break_rows">
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p>4.</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p>11 hours within the specified period</p>
+                                    <p></p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p>1 ancillary worker (on duty) for every 40 residents</p>
+                                </td>
+                            </tr>
+                            <tr class="break_rows">
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5" colspan="3">
+                                    <p class="align_center"><b xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Any Staff
+                                            Member</b></p>
+                                    <p></p>
+                                </td>
+                            </tr>
+                            <tr class="break_rows">
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p>5.</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p>From 6 p.m. on a day to 7 a.m. on the next day</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p>2 staff members (on duty) (who may be persons engaged for
+                                        complying with a requirement specified in any other item of
+                                        this Table)</p>
+                                    <p></p>
+                                </td>
+                            </tr>
+                            <tr class="break_rows">
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p>6.</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p>Any time when a resident is in the high care level home</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p>1 staff member (on-site and on duty) (who may be a person
+                                        engaged for complying with a requirement specified in any
+                                        other item of this Table)</p>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </leadIn></section><section id="ID_1717639416587_008" name="s4" temporalId="sch1_P2_s4"><num value="4">4.</num><heading>Medium care level home</heading><leadIn>For a medium care level home, during or at the time specified in column 2 of
+                    Table 2 on every day, there must be at least the number of staff members that is
+                    specified in column 3 of Table 2 opposite the
+                    time.<marker role="blank-line"></marker></leadIn><text class="align_center"><inline class="underline"><b>Table
+                    2</b></inline><marker role="blank-line"></marker></text><leadIn>
+                    <table xmlns="http://www.w3.org/1999/xhtml" width="100%" class="left_indent_30 repeat_header">
+                        <colgroup>
+                            <col width="17%"></col>
+                            <col width="29%"></col>
+                            <col width="5"></col>
+                            <col width="49%"></col>
+                        </colgroup>
+                        <thead>
+                            <tr class="break_rows">
+                                <td class="align_left cellpadding_left_5">
+                                    <p>Column 1</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="align_center">Column 2</p>
+                                </td>
+                                
+                                <td colspan="2">
+                                    <p class="align_center">Column 3</p>
+                                </td>
+                            </tr>
+                            <tr class="break_rows">
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p>Item</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="align_center">Time</p>
+                                </td>
+                                
+                                <td colspan="2">
+                                    <p class="align_center">Minimum staffing requirement</p>
+                                    <p></p>
+                                </td>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr class="break_rows">
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5" colspan="4">
+                                    <p class="align_center left_indent_0 first_line_indent_0"><b xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Nurse and
+                                            Health Worker</b></p>
+                                    <p></p>
+                                </td>
+                            </tr>
+                            <tr class="break_rows">
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p>1.</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5" rowspan="2">
+                                    <p>6 hours within the specified period</p>
+                                </td>
+                                <td>
+                                    <p>(a)</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_4">1 nurse (on duty); or</p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5"></td>
+                                <td>
+                                    <p>(b)</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p>1 health worker (on duty) for every 60 residents</p>
+                                    <p></p>
+                                </td>
+                            </tr>
+                            <tr class="break_rows">
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5" colspan="4">
+                                    <p class="align_center left_indent_0 first_line_indent_0"><b xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Care
+                                            Worker and Ancillary Worker</b></p>
+                                    <p></p>
+                                </td>
+                            </tr>
+                            <tr class="break_rows">
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p>2.</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p>11 hours within the specified period</p>
+                                    <p></p>
+                                </td>
+                                <td colspan="2">
+                                    <p>1 care worker (on duty) or ancillary worker (on duty) for
+                                        every 30 residents</p>
+                                </td>
+                            </tr>
+                            <tr class="break_rows">
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5" colspan="4">
+                                    <p class="align_center"><b xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Any Staff
+                                            Member</b></p>
+                                    <p></p>
+                                </td>
+                            </tr>
+                            <tr class="break_rows">
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p>3.</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p>From 6 p.m. on a day to 7 a.m. on the next day</p>
+                                </td>
+                                <td colspan="2">
+                                    <p class="below_space_between_line_4">Both of the following
+                                        staff members (who may be persons engaged for complying with
+                                        a requirement specified in any other item of this
+                                        Table)—</p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5"></td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5"></td>
+                                <td>
+                                    <p>(a)</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_4">1 staff member (on
+                                        duty);</p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5"></td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5"></td>
+                                <td>
+                                    <p>(b)</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p>1 staff member on-site (whether or not on duty)</p>
+                                    <p></p>
+                                </td>
+                            </tr>
+                            <tr class="break_rows">
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p>4.</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p>Any time when a resident is in the medium care level home</p>
+                                </td>
+                                <td colspan="2">
+                                    <p>1 staff member (on-site and on duty) (who may be a person
+                                        engaged for complying with a requirement specified in any
+                                        other item of this Table)</p>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </leadIn></section><section id="ID_1717639416589_009" name="s5" temporalId="sch1_P2_s5"><num value="5">5.</num><heading>Low care level home</heading><leadIn>For a low care level home, during or at the time specified in column 2 of
+                    Table 3 on every day, there must be at least the number of staff members that is
+                    specified in column 3 of Table 3 opposite the
+                    time.<marker role="blank-line"></marker></leadIn><text class="align_center"><b><inline class="underline">Table
+                    3</inline></b><marker role="blank-line"></marker></text><leadIn>
+                    <table xmlns="http://www.w3.org/1999/xhtml" width="100%" class="left_indent_30 repeat_header">
+                        <colgroup>
+                            <col width="17%"></col>
+                            <col width="29%"></col>
+                            <col width="5"></col>
+                            <col width="49%"></col>
+                        </colgroup>
+                        <thead>
+                            <tr class="break_rows">
+                                <td class="align_left cellpadding_left_5">
+                                    <p>Column 1</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="align_center">Column 2</p>
+                                </td>
+                                
+                                <td colspan="2">
+                                    <p class="align_center">Column 3</p>
+                                </td>
+                            </tr>
+                            <tr class="break_rows">
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p>Item</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="align_center">Time</p>
+                                </td>
+                                
+                                <td colspan="2">
+                                    <p class="align_center">Minimum staffing requirement</p>
+                                    <p></p>
+                                </td>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr class="break_rows">
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5" colspan="4">
+                                    <p class="align_center"><b xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Care
+                                            Worker and Ancillary Worker</b></p>
+                                    <p></p>
+                                </td>
+                            </tr>
+                            <tr class="break_rows">
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p>1.</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p>11 hours within the specified period</p>
+                                    <p></p>
+                                </td>
+                                <td colspan="2">
+                                    <p>1 care worker (on duty) or ancillary worker (on duty) for
+                                        every 60 residents</p>
+                                </td>
+                            </tr>
+                            <tr class="break_rows">
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5" colspan="4">
+                                    <p class="align_center"><b xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Any Staff
+                                            Member</b></p>
+                                    <p></p>
+                                </td>
+                            </tr>
+                            <tr class="break_rows">
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p>2.</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p>Any time between 7 a.m. and 6 p.m. when a resident is in the
+                                        low care level home</p>
+                                    <p></p>
+                                </td>
+                                <td colspan="2">
+                                    <p>1 staff member (on-site and on duty) (who may be a person
+                                        engaged for complying with the requirement specified in item
+                                        1)</p>
+                                </td>
+                            </tr>
+                            <tr class="break_rows">
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p>3.</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p>From 6 p.m. on a day to 7 a.m. on the next day</p>
+                                </td>
+                                <td colspan="2">
+                                    <p class="below_space_between_line_4">Both of the following
+                                        staff members (who may be persons engaged for complying with
+                                        the requirement specified in item 1)—</p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5"></td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5"></td>
+                                <td>
+                                    <p>(a)</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_4">1 staff member on-site
+                                        (whether or not on duty);</p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5"></td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5"></td>
+                                <td>
+                                    <p>(b)</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p>1 staff member on call (whether or not on-site)</p>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </leadIn></section><section id="ID_1717639416591_010" name="s6" temporalId="sch1_P2_s6"><num value="6">6.</num><heading>Certain staffing requirements must be complied with during specific hours
+                    approved by Director</heading><subsection id="ID_1717639416592_011" name="1" temporalId="sch1_P2_s6_1"><num value="1">(1)</num><content>If, in relation to a residential care home for PWDs, this <ref>Schedule
+                        </ref>requires at least a certain number of staff members during a certain
+                        number of hours within the specified period on every day
+                                (<b><i>requirement</i></b>), the requirement must be complied with
+                        during a specific period of, or specific periods totalling, that number of
+                        hours (<b><i>specific hours</i></b>) on every day as approved by the
+                        Director under this section in relation to the residential care
+                        home.</content></subsection><subsection id="ID_1717639416594_012" name="2" temporalId="sch1_P2_s6_2"><num value="2">(2)</num><leadIn>For the requirement, the operator of the residential care home—</leadIn><paragraph id="ID_1717639416595_013" name="a" temporalId="sch1_P2_s6_2_a"><num value="a">(a)</num><content>must apply to the Director for approval of the specific hours
+                            proposed by the operator; and</content></paragraph><paragraph id="ID_1717639416595_014" name="b" temporalId="sch1_P2_s6_2_b"><num value="b">(b)</num><content>may propose in the application different specific hours for
+                            different days.</content></paragraph></subsection><subsection id="ID_1717639416596_015" name="3" temporalId="sch1_P2_s6_3"><num value="3">(3)</num><leadIn>The application must—</leadIn><paragraph id="ID_1717639416597_016" name="a" temporalId="sch1_P2_s6_3_a"><num value="a">(a)</num><content>be made in the form and manner specified by the Director;
+                            and</content></paragraph><paragraph id="ID_1717639416598_017" name="b" temporalId="sch1_P2_s6_3_b"><num value="b">(b)</num><content>contain the information specified by the Director.</content></paragraph></subsection><subsection id="ID_1717639416599_018" name="4" temporalId="sch1_P2_s6_4"><num value="4">(4)</num><leadIn>The Director may approve the specific hours proposed by the operator if
+                        satisfied that the proposal is appropriate having regard to all relevant
+                        circumstances, including—</leadIn><paragraph id="ID_1717639416600_019" name="a" temporalId="sch1_P2_s6_4_a"><num value="a">(a)</num><content>the <ref>schedule </ref>of activities of the residents of the
+                            residential care home; and</content></paragraph><paragraph id="ID_1717639416602_020" name="b" temporalId="sch1_P2_s6_4_b"><num value="b">(b)</num><content>the rest hours of the residents of the residential care
+                            home.</content></paragraph></subsection></section></part><sourceNote>(<ref>Schedule </ref>replaced <ref href="hk/2023/12">12 of 2023 s. 105</ref>)</sourceNote></schedule><schedule id="ID_1715327511767_001" name="sch2" temporalId="sch2" startPeriod="2024-06-16" status="operational" reason="inEffect"><num value="2">Schedule
+            2</num><note role="crossReferences" type="inline">[<ref href="/hk/cap613A/s2">ss. 2</ref> &amp; <ref href="/hk/cap613A/s37">37</ref>]</note><heading>Fees<marker role="blank-line"></marker></heading><content>
+            <table xmlns="http://www.w3.org/1999/xhtml" width="100%">
+                <colgroup>
+                    <col width="20%"></col>
+                    <col width="62%"></col>
+                    <col width="18%"></col>
+                </colgroup>
+                <thead>
+                    <tr class="break_rows">
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>Column 1</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">Column 2</p>
+                        </td>
+                        <td class="align_center cellpadding_left_5 cellpadding_right_5" colspan="1">
+                            <p class="align_center">Column 3</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>Item</p>
+                            <p></p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">Matter</p>
+                            <p></p>
+                        </td>
+                        <td class="align_center cellpadding_left_5 cellpadding_right_5" colspan="1">
+                            <p class="align_center">Fee</p>
+                            <p></p>
+                        </td>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr class="break_rows">
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>1.</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5" colspan="1">
+                            <p>Registration as a registered home manager under <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">section
+                                3A</ref></p>
+                            <p></p>
+                        </td>
+                        <td class="cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">$345</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>2.</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5" colspan="1">
+                            <p>Renewal of a registration as a registered home manager under <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">section
+                                3E</ref></p>
+                            <p></p>
+                        </td>
+                        <td class="cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">$235</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>3.</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5" colspan="1">
+                            <p>Registration as a registered home manager (provisional) under <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">section
+                                3M</ref></p>
+                            <p></p>
+                        </td>
+                        <td class="cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">$345</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>4.</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5" colspan="1">
+                            <p>Registration as a registered health worker under <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">section
+                                6</ref></p>
+                            <p></p>
+                        </td>
+                        <td class="cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">$245</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>5.</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5" colspan="1">
+                            <p>Renewal of a registration as a registered health worker under <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">section
+                                7A</ref></p>
+                        </td>
+                        <td class="cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">$190</p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </content><sourceNote>(<ref>Schedule 2</ref> added <ref href="hk/2023/12">12 of 2023 s.
+                107</ref>)</sourceNote></schedule></main></subLeg>

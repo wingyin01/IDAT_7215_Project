@@ -1,0 +1,1177 @@
+<?xml version="1.0" encoding="UTF-8"?><subLeg xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd" identifier="/hk/cap571AN!en" xml:lang="en"><meta><docType>cap</docType><docNumber>571AN</docNumber><docStatus>In effect</docStatus><docName>Cap. 571 sub. leg. AN</docName><dc:identifier>/hk/cap571AN!en</dc:identifier><dc:date>2025-08-24</dc:date><dc:subject>legislation</dc:subject><dc:language>en</dc:language><dc:publisher>DoJ</dc:publisher><dc:rights>The Government of the Hong Kong Special Administrative Region</dc:rights></meta><main><docTitle startPeriod="2016-10-20" id="ID_1467619028576_001" name="shortTitle" temporalId="shortTitle" status="operational" reason="inEffect">Securities
+                        and Futures (OTC Derivative Transactions—Clearing and Record Keeping
+                        Obligations and Designation of Central Counterparties)
+                        Rules</docTitle><enactingFormula>(Cap. 571,
+                        <ref href="/hk/cap571/s101N">section 101N</ref>,
+                                <ref href="/hk/cap571/s101P">101P</ref> and
+                                <ref href="/hk/cap571/s101Q">101Q</ref>)</enactingFormula><sourceNote>(Enacting provision omitted— <ref href="hk/2016/er1">E.R. 1 of 2016</ref>)</sourceNote><commencementNote><marker role="blank-line"></marker>[1
+                        September 2016]</commencementNote><part startPeriod="2016-09-01T00:00:00" id="ID_1467619028623_002" name="P1" temporalId="P1" status="operational" reason="inEffect"><num value="1">Part 1</num><heading>Preliminary</heading><section startPeriod="2016-10-20" id="ID_1467619028639_003" name="s1" temporalId="s1" status="omitted" reason="omittedAsSpent"><num value="1">1.</num><sourceNote>(Omitted as spent—<ref href="hk/2016/er1">E.R. 1 of 2016</ref>)</sourceNote></section><section startPeriod="2025-08-24" id="ID_1467619028639_004" name="s2" temporalId="s2" status="operational" reason="inEffect"><num value="2">2.</num><heading>Interpretation</heading><leadIn>In these Rules—</leadIn><def name="DeliverableFXForward"><term>deliverable FX forward</term> (<term xml:lang="zh-Hant-HK">交收外匯遠期</term>) means an OTC derivative transaction under the terms and conditions of which the 2 counterparties to the transaction agree to exchange, on a single day in the future, an agreed amount of a currency for—<paragraph id="ID_1467619028717_005" name="a" temporalId="s2_a"><num value="a">(a)</num><content>an agreed amount of another currency; or</content></paragraph><paragraph id="ID_1467619028733_006" name="b" temporalId="s2_b"><num value="b">(b)</num><content>an amount in another currency calculated by reference to an agreed exchange rate;</content></paragraph></def><def name="DeliverableFXSwap,CurrencyA,CurrencyB"><term>deliverable FX swap</term> (<term xml:lang="zh-Hant-HK">交收外匯掉期</term>) means an OTC derivative transaction under the terms and conditions of which the 2 counterparties to the transaction agree to exchange 2 currencies (<term>currency A</term> and <term>currency B</term>) in the following manner—<paragraph id="ID_1467619028795_007" name="a" temporalId="s2_a"><num value="a">(a)</num><leadIn>on a specified day, a counterparty (<term>counterparty 1</term>) will give to the other counterparty (<term>counterparty 2</term>) an agreed amount of currency A and will receive from counterparty 2—</leadIn><subparagraph id="ID_1467619028826_008" name="1" temporalId="s2_a_1"><num value="1">(i)</num><content>an agreed amount of currency B; or</content></subparagraph><subparagraph id="ID_1467619028826_009" name="2" temporalId="s2_a_2"><num value="2">(ii)</num><content>an amount in currency B calculated by reference to an agreed exchange rate; and</content></subparagraph></paragraph><paragraph id="ID_1467619028826_010" name="b" temporalId="s2_b"><num value="b">(b)</num><leadIn>on another specified day that is after the day referred to in paragraph (a), counterparty 1 will give to counterparty 2 an agreed amount of currency B and will receive from counterparty 2—</leadIn><subparagraph id="ID_1467619028842_011" name="1" temporalId="s2_b_1"><num value="1">(i)</num><content>an agreed amount of currency A; or</content></subparagraph><subparagraph id="ID_1467619028842_012" name="2" temporalId="s2_b_2"><num value="2">(ii)</num><content>an amount in currency A calculated by reference to an agreed exchange rate;</content></subparagraph></paragraph></def><def name="DesignatedCCP"><term>designated CCP</term> (<term xml:lang="zh-Hant-HK">指定中央對手方</term>) has the meaning given by <ref>section 101A</ref> of the Ordinance;</def><def name="FinancialServicesProvider"><term>financial services provider</term> (<term xml:lang="zh-Hant-HK">金融服務提供者</term>) means a person designated by the Commission in accordance with <ref>rule 3</ref>;</def><def name="LocalAFI"><term>local AFI</term> (<term xml:lang="zh-Hant-HK">本地認可財務機構</term>) means an
+                        authorized institution incorporated in Hong Kong as defined by <ref>section
+                                2(1)</ref> of the Banking Ordinance (<ref href="/hk/cap155">Cap.
+                                155</ref>); <sourceNote>(<ref href="/hk/2025/14">14 of 2025 s.
+                                        257</ref>)</sourceNote></def><def name="LocalAMB"><term>local AMB</term> (<term xml:lang="zh-Hant-HK">本地核准貨幣經紀</term>) means an
+            approved money broker that is incorporated in Hong Kong or is a re-domiciled entity;
+                    <sourceNote>(<ref href="/hk/2025/14">14 of 2025 s. 257</ref>)</sourceNote></def><def name="LocalLC"><term>local LC</term> (<term xml:lang="zh-Hant-HK">本地持牌法團</term>) means a
+            licensed corporation that is incorporated in Hong Kong or is a re-domiciled entity;
+                    <sourceNote>(<ref href="/hk/2025/14">14 of 2025 s. 257</ref>)</sourceNote></def><def name="OverseasAFI"><term>non-local
+                                AFI</term> (<term xml:lang="zh-Hant-HK">非本地認可財務機構</term>)
+                        means an authorized institution incorporated outside Hong
+                        Kong as defined by <ref>section 2(1)</ref> of the Banking Ordinance (<ref href="/hk/cap155">Cap. 155</ref>); <sourceNote>(<ref href="/hk/2025/14">14 of 2025 s.
+                                257</ref>; <ref href="hk/2025/31">31 of 2025 s. 178</ref>)</sourceNote></def><def name="OverseasAMB"><term>non-local
+                                AMB</term> (<term xml:lang="zh-Hant-HK">非本地核准貨幣經紀</term>)
+                        means an approved money broker that is incorporated
+                        outside Hong Kong and is not a re-domiciled entity; <sourceNote>(<ref href="/hk/2025/14">14 of 2025 s.
+                                257</ref>; <ref href="hk/2025/31">31 of 2025 s. 178</ref>)</sourceNote></def><def name="OverseasLC"><term>non-local
+                                LC</term> (<term xml:lang="zh-Hant-HK">非本地持牌法團</term>)
+                        means a licensed corporation that is incorporated outside
+                        Hong Kong and is not a re-domiciled entity; <sourceNote>(<ref href="/hk/2025/14">14 of 2025 s.
+                                257</ref>; <ref href="hk/2025/31">31 of 2025 s. 178</ref>)</sourceNote></def><def name="OutstandingTrade"><term>outstanding trade</term> (<term xml:lang="zh-Hant-HK">未完結交易</term>), in relation to a person and at a particular time, means an OTC derivative transaction (except a deliverable FX forward and a deliverable FX swap)—<paragraph id="ID_1467619028889_013" name="a" temporalId="s2_a"><num value="a">(a)</num><content>to which the person is a counterparty; and</content></paragraph><paragraph id="ID_1467619028889_014" name="b" temporalId="s2_b"><num value="b">(b)</num><leadIn>that—</leadIn><subparagraph id="ID_1467619028889_015" name="1" temporalId="s2_b_1"><num value="1">(i)</num><content>has not matured; and</content></subparagraph><subparagraph id="ID_1467619028904_016" name="2" temporalId="s2_b_2"><num value="2">(ii)</num><content>before the transaction matures, has not been terminated in accordance with the terms and conditions of the transaction or by agreement between the counterparties to the transaction;</content></subparagraph></paragraph></def><def name="RedomiciledEntity"><term>re-domiciled entity</term> (<term xml:lang="zh-Hant-HK">經遷冊實體</term>) means a re-domiciled company that is deregistered as required by
+                <ref>section 820E(3)(a)</ref> of the Companies Ordinance (<ref href="/hk/cap622">Cap. 622</ref>); <sourceNote>(<ref href="/hk/2025/14">14 of 2025 s.
+                257</ref>)</sourceNote></def><def name="SpecifiedOTCDerivativeTransaction"><term>specified OTC derivative transaction</term> (<term xml:lang="zh-Hant-HK">指明場外衍生工具交易</term>) has the meaning given by <ref>section 101A</ref> of the Ordinance;</def><def name="TotalPosition"><term>total position</term> (<term xml:lang="zh-Hant-HK">總持倉量</term>), in relation to a person, means the aggregate of the notional amounts of every outstanding trade of the person.</def></section><section startPeriod="2016-09-01T00:00:00" id="ID_1467619028920_017" name="s3" temporalId="s3" status="operational" reason="inEffect"><num value="3">3.</num><heading>Designation as a financial services provider</heading><subsection id="ID_1467619028920_018" name="1" temporalId="s3_1"><num value="1">(1)</num><content>For the purposes of these Rules, the Commission may, with the consent of the Monetary Authority and by notice published in the Gazette, designate any person (whether incorporated in Hong Kong or outside Hong Kong) as a financial services provider if the Commission is satisfied that it is likely that the person is actively engaged in activities relating to OTC derivative transactions or OTC derivative products outside Hong Kong.</content></subsection><subsection id="ID_1467619028920_019" name="2" temporalId="s3_2"><num value="2">(2)</num><content>For the purposes of subrule (1), the Commission may designate a person by name, or by reference to a class or description of persons to which the person belongs, or both.</content></subsection><subsection id="ID_1467619028936_020" name="3" temporalId="s3_3"><num value="3">(3)</num><content>The Commission may, with the consent of the Monetary Authority and by notice published in the Gazette, revoke the designation of a person made under subrule (1).</content></subsection><subsection id="ID_1467619028936_021" name="4" temporalId="s3_4"><num value="4">(4)</num><content>In deciding whether to designate a person under subrule (1) or to revoke the designation of a person under subrule (3), the Commission may have regard to any information in its possession.</content></subsection><subsection id="ID_1467619028936_022" name="5" temporalId="s3_5"><num value="5">(5)</num><content>A notice published under subrule (1) or (3) is not subsidiary legislation.</content></subsection></section><section startPeriod="2016-09-01" id="ID_1467619028951_023" name="s4" temporalId="s4" status="operational" reason="inEffect"><num value="4">4.</num><heading>Transactions that are specified OTC derivative transactions for purposes of clearing obligation</heading><content>For the purposes of paragraph (b) of the definition of <b><i>specified OTC derivative transaction
+                                        </i></b>
+                        in
+                                <ref>section 101A</ref> of the Ordinance, an OTC derivative
+                        transaction that is specified in <ref>section 2 of Schedule 1</ref> is
+                        specified for the purposes of the clearing obligation.</content></section><section startPeriod="2016-09-01" id="ID_1467619028967_024" name="s5" temporalId="s5" status="operational" reason="inEffect"><num value="5">5.</num><heading>Transactions that are specified OTC derivative transactions for purposes of record keeping obligation</heading><content>For the purposes of paragraph (d) of the definition of <b><i>specified OTC derivative transaction
+                                        </i></b>
+                        in <ref>section 101A</ref> of the Ordinance, an OTC
+                        derivative transaction that is specified in <ref>section 2 of Schedule
+                                1</ref> is specified for the purposes of the record keeping
+                        obligation.</content></section></part><part startPeriod="2016-09-01T00:00:00" id="ID_1467619028967_025" name="P2" temporalId="P2" status="operational" reason="inEffect"><num value="2">Part 2</num><heading>Clearing Obligation</heading><section startPeriod="2025-08-24" id="ID_1467619028983_026" name="s6" temporalId="s6" status="operational" reason="inEffect"><num value="6">6.</num><heading>When clearing obligation arises</heading><subsection id="ID_1467619028983_027" name="1" temporalId="s6_1"><num value="1">(1)</num><leadIn>Subject to <ref>rules 8(1)</ref>, <ref>9(1)</ref> and <ref>10(1)</ref>, a
+                prescribed person must clear a specified OTC derivative transaction with a
+                designated CCP (whether directly or through a third party) within 1 business day
+                after the transaction is entered into if—</leadIn><paragraph id="ID_1467619028983_028" name="a" temporalId="s6_1_a"><num value="a">(a)</num><leadIn>the person is a counterparty to the transaction and—</leadIn><subparagraph id="ID_1467619028983_029" name="1" temporalId="s6_1_a_1"><num value="1">(i)</num><leadIn>the transaction is entered into on or after—</leadIn><subparagraph role="subSubparagraph" id="ID_1467619028983_030" name="A" temporalId="s6_1_a_1_A"><num value="A">(A)</num><content>the prescribed day for the first calculation period in respect of
+                            which the person reached the clearing threshold; or</content></subparagraph><subparagraph role="subSubparagraph" id="ID_1467619028998_031" name="B" temporalId="s6_1_a_1_B"><num value="B">(B)</num><content>if the person gave an exit notice, the prescribed day for the first
+                            calculation period in respect of which the person reached the clearing
+                            threshold after giving the exit notice; and</content></subparagraph></subparagraph><subparagraph id="ID_1467619028998_032" name="2" temporalId="s6_1_a_2"><num value="2">(ii)</num><content>if the person
+                        is
+                        a non-local AFI or a non-local AMB, the transaction is
+                        recorded in the form of an entry in the Hong Kong books of the person; and
+                        <sourceNote>(<ref href="hk/2025/31">31 of 2025 s.
+                        179</ref>)</sourceNote></content></subparagraph></paragraph><paragraph id="ID_1467619028998_033" name="b" temporalId="s6_1_b"><num value="b">(b)</num><leadIn>the other counterparty to the transaction—</leadIn><subparagraph id="ID_1467619028998_034" name="1" temporalId="s6_1_b_1"><num value="1">(i)</num><content>is also a prescribed person and the requirements referred to in
+                        paragraph (a)(i) are met in relation to the counterparty; or</content></subparagraph><subparagraph id="ID_1467619028998_035" name="2" temporalId="s6_1_b_2"><num value="2">(ii)</num><content>is a financial services provider.</content></subparagraph></paragraph></subsection><subsection id="ID_1467619029014_036" name="2" temporalId="s6_2"><num value="2">(2)</num><leadIn>For the purposes of subrule (1), a prescribed person is regarded as having
+                reached the clearing threshold at all times after—</leadIn><paragraph id="ID_1467619029014_037" name="a" temporalId="s6_2_a" class="left_indent_86 first_line_indent_-26"><num value="a">(a)</num><content>subject to paragraph (b), the first calculation period in respect of which
+                    the person reached the clearing threshold, even if the person has not reached
+                    the clearing threshold for a subsequent calculation period; or</content></paragraph><paragraph id="ID_1467619029014_038" name="b" temporalId="s6_2_b" class="left_indent_86 first_line_indent_-26"><num value="b">(b)</num><content>if the person gave an exit notice, the first calculation period in respect
+                    of which the person reached the clearing threshold after giving the exit notice,
+                    even if the person has not reached the clearing threshold for a subsequent
+                    calculation period.</content></paragraph></subsection><subsection id="ID_1467619029029_039" name="3" temporalId="s6_3"><num value="3">(3)</num><leadIn>An exit notice may be given by a prescribed person if—</leadIn><paragraph id="ID_1467619029029_040" name="a" temporalId="s6_3_a"><num value="a">(a)</num><content>the person is a local AFI, a local AMB or a local LC on the day on which
+                    the exit notice is given, and the total position of the person on the last day
+                    of each month in a period of 12 consecutive months is less than US$14 billion;
+                    or</content></paragraph><paragraph id="ID_1467619029029_041" name="b" temporalId="s6_3_b"><num value="b">(b)</num><content>the person
+                    is
+                    a non-local AFI, a non-local AMB or a non-local LC on the day
+                    on which the exit notice is given, and the local total position of the person on
+                    the last day of each month in a period of 12 consecutive months is less than
+                    US$14 billion. <sourceNote>(<ref href="/hk/2025/14">14 of 2025 s.
+                        258</ref>; <ref href="hk/2025/31">31 of 2025 s.
+                        179</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1467619029029_042" name="4" temporalId="s6_4"><num value="4">(4)</num><leadIn>An exit notice given under subrule (3) must—</leadIn><paragraph id="ID_1467619029045_043" name="a" temporalId="s6_4_a"><num value="a">(a)</num><content>be in writing;</content></paragraph><paragraph id="ID_1467619029045_044" name="b" temporalId="s6_4_b"><num value="b">(b)</num><leadIn>be given to—</leadIn><subparagraph id="ID_1467619029045_045" name="1" temporalId="s6_4_b_1"><num value="1">(i)</num><content>the Monetary Authority, if the person is an authorized financial
+                        institution or an approved money broker; or</content></subparagraph><subparagraph id="ID_1467619029045_046" name="2" temporalId="s6_4_b_2"><num value="2">(ii)</num><content>the Commission, if the person is a licensed corporation; and</content></subparagraph></paragraph><paragraph id="ID_1467619029045_047" name="c" temporalId="s6_4_c"><num value="c">(c)</num><leadIn>specify—</leadIn><subparagraph id="ID_1467619029061_048" name="1" temporalId="s6_4_c_1"><num value="1">(i)</num><content>the period of 12 consecutive months (<term>period</term>) during which
+                        the total position or the local total position (as applicable) of the person
+                        on the last day of each month was less than US$14 billion;</content></subparagraph><subparagraph id="ID_1467619029061_049" name="2" temporalId="s6_4_c_2"><num value="2">(ii)</num><content>the total position or the local total position (as applicable) of the
+                        person on the last day of each month within the period; and</content></subparagraph><subparagraph id="ID_1467619029061_050" name="3" temporalId="s6_4_c_3"><num value="3">(iii)</num><content>that the total position or the local total position (as applicable) of
+                        the person has not equalled or exceeded US$14 billion between the last day
+                        of the last month included in the period and the day on which the exit
+                        notice is given.</content></subparagraph></paragraph></subsection><subsection id="ID_1467619029076_051" name="5" temporalId="s6_5"><num value="5">(5)</num><leadIn>For the purposes of this rule, a prescribed person reached the clearing
+                threshold if—</leadIn><paragraph id="ID_1467619029139_052" name="a" temporalId="s6_5_a"><num value="a">(a)</num><content>where, as at the end of a calculation period, the person is a local AFI, a
+                    local AMB or a local LC—the average total position of the person for the
+                    calculation period equals or exceeds the clearing threshold specified in column
+                    3 of <ref>Schedule 2</ref> for the calculation period;
+                    or</content></paragraph><paragraph id="ID_1467619029139_053" name="b" temporalId="s6_5_b"><num value="b">(b)</num><content>where, as at the end of a calculation period, the person
+                    is
+                    a non-local AFI, a non-local AMB or a non-local LC—the average
+                    local total position of the person for the calculation period equals or exceeds
+                    the clearing threshold specified in column 3 of <ref>Schedule 2</ref> for the
+                    calculation period. <sourceNote>(<ref href="/hk/2025/14">14 of 2025 s.
+                        258</ref>; <ref href="hk/2025/31">31 of 2025 s.
+                        179</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1467619029139_054" name="6" temporalId="s6_6"><num value="6">(6)</num><leadIn>In this rule—</leadIn><def name="AverageLocalTotalPosition"><term>average local total position</term> (<term xml:lang="zh-Hant-HK">平均本地總持倉量</term>), in relation to a prescribed person that
+                is
+                a non-local AFI, a non-local AMB or a non-local LC for a
+                calculation period, means the amount which is equal to the sum of the person’s local
+                total positions on the last day of each month within the calculation period, divided
+                by the number of months in the calculation period;
+                <sourceNote>(<ref href="hk/2025/31">31 of 2025 s.
+                179</ref>)</sourceNote></def><def name="AverageTotalPosition"><term>average total position</term> (<term xml:lang="zh-Hant-HK">平均總持倉量</term>), in relation to a person for a calculation
+                period, means the amount which is equal to the sum of the person’s total positions
+                on the last day of each month within the calculation period, divided by the number
+                of months in the calculation period;</def><def name="CalculationPeriod"><term>calculation period</term> (<term xml:lang="zh-Hant-HK">計算期間</term>) means a period specified in column 2 of
+                    <ref>Schedule 2</ref>;</def><def name="ExitNotice"><term>exit notice</term> (<term xml:lang="zh-Hant-HK">退出通知</term>) means a notice given under subrule (3);</def><def name="LocalTotalPosition"><term>local total position</term> (<term xml:lang="zh-Hant-HK">本地總持倉量</term>), in relation to a person, means the total
+                position of the person excluding every outstanding trade of the person that is
+                recorded in the form of an entry
+                in
+                any of the books (other than the Hong Kong books) of the person;
+                <sourceNote>(<ref href="hk/2025/31">31 of 2025 s.
+                179</ref>)</sourceNote></def><def name="PrescribedDay"><term>prescribed day</term> (<term xml:lang="zh-Hant-HK">訂明日期</term>), in relation to a calculation period, means the day specified in
+                column 4 of <ref>Schedule 2</ref>.</def></subsection></section><section startPeriod="2016-09-01T00:00:00" id="ID_1467619029170_055" name="s7" temporalId="s7" status="operational" reason="inEffect"><num value="7">7.</num><heading>Clearing obligation applies even if counterparty is, or transaction was entered into, outside Hong Kong</heading><leadIn>For the purposes of this Part, a prescribed person must clear a specified OTC derivative transaction with a designated CCP even if—</leadIn><paragraph id="ID_1467619029170_056" name="a" temporalId="s7_a"><num value="a">(a)</num><content>a counterparty, or more than one counterparty, to the transaction is a person outside Hong Kong; or</content></paragraph><paragraph id="ID_1467619029170_057" name="b" temporalId="s7_b"><num value="b">(b)</num><content>the transaction was entered into wholly or partially outside Hong Kong.</content></paragraph></section><section startPeriod="2025-05-23" id="ID_1467619029170_058" name="s8" temporalId="s8" status="operational" reason="inEffect"><num value="8">8.</num><heading>Clearing obligation does not apply to transactions with exempt affiliate</heading><subsection id="ID_1467619029170_059" name="1" temporalId="s8_1"><num value="1">(1)</num><leadIn><ref>Rule 6(1)</ref> does not apply to a prescribed person in relation to a specified OTC derivative transaction to which the person is a counterparty if, on the day on which the transaction is entered into—</leadIn><paragraph id="ID_1467619029186_060" name="a" temporalId="s8_1_a"><num value="a">(a)</num><content>the other counterparty to the transaction is an affiliate of the person;</content></paragraph><paragraph id="ID_1467619029186_061" name="b" temporalId="s8_1_b"><num value="b">(b)</num><content>the affiliate is an exempt affiliate, within the meaning of subrule (3); and</content></paragraph><paragraph id="ID_1467619029186_062" name="c" temporalId="s8_1_c"><num value="c">(c)</num><content>the requirements referred to in subrule (2) are met.</content></paragraph></subsection><subsection id="ID_1467619029186_063" name="2" temporalId="s8_2"><num value="2">(2)</num><leadIn>The requirements are that—</leadIn><paragraph id="ID_1467619029186_064" name="a" temporalId="s8_2_a"><num value="a">(a)</num><leadIn>the person and the exempt affiliate are accounted for on a full basis in the consolidated financial statements of the holding company of the group of companies to which they belong, for the purposes of and in compliance with—</leadIn><subparagraph id="ID_1467619029186_065" name="1" temporalId="s8_2_a_1"><num value="1">(i)</num><content>the Hong Kong Financial Reporting Standards issued by the Hong Kong Institute of Certified Public Accountants;</content></subparagraph><subparagraph id="ID_1467619029201_066" name="2" temporalId="s8_2_a_2"><num value="2">(ii)</num><content>the International Financial Reporting Standards issued by the International Accounting Standards Board; or</content></subparagraph><subparagraph id="ID_1467619029201_067" name="3" temporalId="s8_2_a_3"><num value="3">(iii)</num><content>if
+                                                  the holding company is incorporated in a place
+                                                  outside Hong Kong and is not a re-domiciled
+                                                  entity—the standards of accounting practices
+                                                  applicable to the holding company in that place;
+                                                  and <sourceNote>(<ref href="/hk/2025/14">14 of
+                                                  2025 s.
+                                                  259</ref>)</sourceNote></content></subparagraph></paragraph><paragraph id="ID_1467619029201_068" name="b" temporalId="s8_2_b"><num value="b">(b)</num><content>the risk evaluation, measurement and control procedures applicable to the person and the exempt affiliate are centrally overseen and managed within the group of companies to which they belong.</content></paragraph></subsection><subsection id="ID_1467619029201_069" name="3" temporalId="s8_3"><num value="3">(3)</num><content>For the purposes of subrule <ref>(1)(b)</ref>, an affiliate of a prescribed person is an exempt affiliate on and after the effective day specified in an exemption notice until the day before the effective day specified in a cessation notice (if any).</content></subsection><subsection id="ID_1467619029201_070" name="4" temporalId="s8_4"><num value="4">(4)</num><leadIn>An exemption notice or a cessation notice given by a prescribed person must—</leadIn><paragraph id="ID_1467619029201_071" name="a" temporalId="s8_4_a"><num value="a">(a)</num><content>be in writing;</content></paragraph><paragraph id="ID_1467619029201_072" name="b" temporalId="s8_4_b"><num value="b">(b)</num><content>be given to the Commission or the Monetary Authority;</content></paragraph><paragraph id="ID_1467619029217_073" name="c" temporalId="s8_4_c"><num value="c">(c)</num><content>specify the affiliate (or if more than one, each affiliate) of the person that is to be regarded as, or is to cease to be regarded as, an exempt affiliate for the purposes of this rule; and</content></paragraph><paragraph id="ID_1467619029217_074" name="d" temporalId="s8_4_d"><num value="d">(d)</num><content>specify the effective day, being a day that is not earlier than the day on which the notice is received by the Commission or the Monetary Authority.</content></paragraph></subsection><subsection id="ID_1467619029217_075" name="5" temporalId="s8_5"><num value="5">(5)</num><leadIn>In this rule—</leadIn><def name="Affiliate"><term>affiliate</term> (<term xml:lang="zh-Hant-HK">聯屬公司</term>), in relation to a prescribed person, means a corporation that is in the same group of companies as the person, except a corporation that is a collective investment scheme;</def><def name="CessationNotice"><term>cessation notice</term>
+                (<term xml:lang="zh-Hant-HK">停止通知</term>), in relation to an exemption notice given by a prescribed person in respect of an affiliate specified in the exemption notice, means a notice given by the person in accordance with subrule (4) to the effect that the affiliate is to cease to be regarded as an exempt affiliate for the purposes of this rule;</def><def name="EffectiveDay"><term>effective day</term> (<term xml:lang="zh-Hant-HK">生效日期</term>), in relation to an exemption notice or a cessation notice, means the day on which the notice is to take effect as specified in the notice;</def><def name="ExemptionNotice"><term>exemption notice</term>
+                (<term xml:lang="zh-Hant-HK">豁免通知</term>)
+                means a notice given by a prescribed person in accordance with subrule (4) in
+                respect of an affiliate of the person to the effect that the affiliate is to be
+                regarded as an exempt affiliate for the purposes of this
+                rule.</def></subsection></section><section startPeriod="2016-09-01" id="ID_1467619029233_076" name="s9" temporalId="s9" status="operational" reason="inEffect"><num value="9">9.</num><heading>Clearing obligation does not apply to transactions recorded in exempt jurisdiction books</heading><subsection id="ID_1467619029248_077" name="1" temporalId="s9_1"><num value="1">(1)</num><leadIn><ref>Rule 6(1)</ref> does not apply to a prescribed person that is a licensed corporation, a local AFI or a local AMB in relation to a specified OTC derivative transaction to which the person is a counterparty if—</leadIn><paragraph id="ID_1467619029248_078" name="a" temporalId="s9_1_a"><num value="a">(a)</num><content>on the day on which the transaction is entered into, the jurisdiction is an exempt jurisdiction in relation to the person, within the meaning of subrule (3);</content></paragraph><paragraph id="ID_1467619029248_079" name="b" temporalId="s9_1_b"><num value="b">(b)</num><content>the transaction is recorded in the form of an entry in the exempt jurisdiction books of the person; and</content></paragraph><paragraph id="ID_1467619029248_080" name="c" temporalId="s9_1_c"><num value="c">(c)</num><content>at the end of the day on which the transaction is entered into, taking into account every outstanding trade of the person (including the transaction), the requirements referred to in subrule (2) are met.</content></paragraph></subsection><subsection id="ID_1467619029264_081" name="2" temporalId="s9_2"><num value="2">(2)</num><leadIn>The requirements are that—</leadIn><paragraph id="ID_1467619029264_082" name="a" temporalId="s9_2_a"><num value="a">(a)</num><content>the jurisdiction position of the person for each jurisdiction that is an exempt jurisdiction in relation to the person does not exceed 5% of the total position of the person; and</content></paragraph><paragraph id="ID_1467619029264_083" name="b" temporalId="s9_2_b"><num value="b">(b)</num><content>the aggregate of the person’s jurisdiction positions for all jurisdictions that are exempt jurisdictions in relation to the person does not exceed 10% of the total position of the person.</content></paragraph></subsection><subsection id="ID_1467619029279_084" name="3" temporalId="s9_3"><num value="3">(3)</num><content>Subject to subrule (5), for the purposes of subrule <ref>(1)(a)</ref>, a jurisdiction outside Hong Kong is an exempt jurisdiction in relation to a prescribed person on and after the effective day specified in an exemption notice in respect of the jurisdiction until the day before the effective day specified in a cessation notice (if any) in respect of the jurisdiction.</content></subsection><subsection id="ID_1467619029279_085" name="4" temporalId="s9_4"><num value="4">(4)</num><leadIn>An exemption notice or a cessation notice given by a prescribed person must—</leadIn><paragraph id="ID_1467619029295_086" name="a" temporalId="s9_4_a"><num value="a">(a)</num><content>be in writing;</content></paragraph><paragraph id="ID_1467619029295_087" name="b" temporalId="s9_4_b"><num value="b">(b)</num><content>be given to the Monetary Authority, if the person is a local AFI or a local AMB;</content></paragraph><paragraph id="ID_1467619029295_088" name="c" temporalId="s9_4_c"><num value="c">(c)</num><content>be given to the Commission, if the person is a licensed corporation;</content></paragraph><paragraph id="ID_1467619029295_089" name="d" temporalId="s9_4_d"><num value="d">(d)</num><content>specify the jurisdiction (or if more than one jurisdiction, each jurisdiction) that is to be regarded as, or is to cease to be regarded as, an exempt jurisdiction in relation to the person for the purposes of this rule; and</content></paragraph><paragraph id="ID_1467619029311_090" name="e" temporalId="s9_4_e"><num value="e">(e)</num><content>specify the effective day, being a day that is not earlier than the day on which the notice is received by the Monetary Authority or the Commission.</content></paragraph></subsection><subsection id="ID_1467619029311_091" name="5" temporalId="s9_5"><num value="5">(5)</num><content>A prescribed person that has given an exemption notice and a cessation notice in respect of a jurisdiction is permitted to give only 1 more exemption notice in respect of the jurisdiction.</content></subsection><subsection id="ID_1467619029311_092" name="6" temporalId="s9_6"><num value="6">(6)</num><leadIn>In this rule—</leadIn><def name="CessationNotice"><term>cessation notice</term>
+                (<term xml:lang="zh-Hant-HK">停止通知</term>), in relation to an exemption notice given by a prescribed person in respect of a jurisdiction specified in the exemption notice, means a notice given by the person in accordance with subrule (4) to the effect that the jurisdiction is to cease to be regarded as an exempt jurisdiction in relation to the person for the purposes of this rule;</def><def name="EffectiveDay"><term>effective day</term> (<term xml:lang="zh-Hant-HK">生效日期</term>), in relation to an exemption notice or a cessation notice, means the day on which the notice is to take effect as specified in the notice;</def><def name="ExemptionNotice"><term>exemption notice</term>
+                (<term xml:lang="zh-Hant-HK">豁免通知</term>) means a notice given by a prescribed person in accordance with subrule (4) in respect of a jurisdiction
+                to the effect that the jurisdiction is to be regarded as an exempt jurisdiction in relation to the person for the purposes of this rule;</def><def name="JurisdictionPosition"><term>jurisdiction position</term> (<term xml:lang="zh-Hant-HK">司法管轄區持倉量</term>), in relation to a prescribed person and an exempt jurisdiction, means the aggregate of the notional amounts of every outstanding trade of the person that is recorded in the form of an entry in the exempt jurisdiction books of the person.</def></subsection></section><section startPeriod="2021-06-11" id="ID_1467619029326_093" name="s10" temporalId="s10" status="operational" reason="inEffect"><num value="10">10.</num><heading>Clearing obligation does not apply to transactions resulting from multilateral
+            portfolio compression
+            exercise</heading><sourceNote>(<ref href="hk/2021/17">17 of 2021 s. 80</ref>)</sourceNote><subsection id="ID_1467619029342_094" name="1" temporalId="s10_1"><num value="1">(1)</num><leadIn><ref>Rule 6(1)</ref> does not apply to a prescribed person in relation to a
+                specified OTC derivative transaction to which the person is a counterparty
+                if—</leadIn><paragraph id="ID_1467619029342_095" name="a" temporalId="s10_1_a"><num value="a">(a)</num><leadIn>the transaction is entered into by the person—</leadIn><subparagraph id="ID_1467619029342_096" name="1" temporalId="s10_1_a_1"><num value="1">(i)</num><content>as a result of a multilateral portfolio compression
+                        exercise;
+                        and</content></subparagraph><subparagraph id="ID_1467619029342_097" name="2" temporalId="s10_1_a_2"><num value="2">(ii)</num><content>with a participant in the multilateral portfolio compression
+                        exercise
+                        that was a counterparty to one or more of the compressed transactions;
+                        and</content></subparagraph></paragraph><paragraph id="ID_1467619029342_098" name="b" temporalId="s10_1_b"><num value="b">(b)</num><content><ref>rule 6(1)</ref> did not apply to the person in relation to any of the
+                    compressed transactions, under the multilateral portfolio compression exercise.
+                    <sourceNote>(<ref href="hk/2021/17">17 of 2021 s. 80</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1467619029342_099" name="2" temporalId="s10_2"><num value="2">(2)</num><sourceNote>(Repealed <ref href="hk/2021/17">17 of 2021 s. 80</ref>)</sourceNote></subsection><subsection id="ID_1467619029358_103" name="3" temporalId="s10_3"><num value="3">(3)</num><leadIn>In this rule—</leadIn><def name="CompressedTransaction"><term>compressed transaction</term> (<term xml:lang="zh-Hant-HK">壓縮交易</term>), in relation to a multilateral portfolio
+                compression
+                exercise,
+                means an OTC derivative transaction that was modified,
+                terminated,
+                or terminated and replaced,
+                as
+                a result of the exercise;
+                <sourceNote>(<ref href="hk/2021/17">17 of 2021 s. 80</ref>)</sourceNote></def><def name="MultilateralPortfolioCompressionExercise"><term>multilateral portfolio
+                    compression
+                    exercise</term>
+                    (<term xml:lang="zh-Hant-HK">多邊投資組合壓縮行動</term>)
+                means a process applied to portfolios of OTC derivative transactions
+                of
+                the
+                participants in the process—<paragraph name="a" temporalId="s10_3_a" id="ID_1623745404167_001"><num value="a">(a)</num><content>that is conducted for the purpose of reducing exposures between or
+                        among the participants;</content></paragraph><paragraph id="ID_1467619029373_107" name="b" temporalId="s10_3_b"><num value="b">(b)</num><content>that
+                        involves
+                        more than
+                        2 participants, none of whom is the person (<b><i>service provider</i></b>)
+                        operating the
+                        process;</content></paragraph><paragraph id="ID_1623745404167_002" name="c" temporalId="s10_3_c"><num value="c">(c)</num><leadIn>that is conducted in accordance with—</leadIn><paragraph id="ID_1623745404167_003" name="1" temporalId="s10_3_c_1"><num value="1">(i)</num><content>the operating rules set by the service provider for participation
+                            in the process; and</content></paragraph><paragraph id="ID_1623745404167_004" name="2" temporalId="s10_3_c_2"><num value="2">(ii)</num><content>any parameters agreed between the service provider and each of the
+                            participants;</content></paragraph></paragraph><paragraph id="ID_1623745404167_005" name="d" temporalId="s10_3_d"><num value="d">(d)</num><content>that is conducted without changing the market risk of the portfolio of
+                        OTC derivative transactions of any of the participants beyond any market
+                        risk tolerance level set by the participant concerned;</content></paragraph><paragraph id="ID_1623745404167_006" name="e" temporalId="s10_3_e"><num value="e">(e)</num><content>that is conducted for the purpose of reducing counterparty credit risk
+                        or operational risk for the participants; and</content></paragraph><paragraph id="ID_1623745404167_007" name="f" temporalId="s10_3_f"><num value="f">(f)</num><leadIn>as a result of which none, any or all of the OTC derivative
+                        transactions—</leadIn><paragraph id="ID_1623745404167_008" name="1" temporalId="s10_3_f_1"><num value="1">(i)</num><content>are modified;</content></paragraph><paragraph id="ID_1623745404167_009" name="2" temporalId="s10_3_f_2"><num value="2">(ii)</num><content>are terminated; or</content></paragraph><paragraph id="ID_1623745404167_010" name="3" temporalId="s10_3_f_3"><num value="3">(iii)</num><content>are terminated and replaced with one or more new OTC derivative
+                            transactions. <sourceNote>(<ref href="hk/2021/17">17 of 2021 s.
+                                80</ref>)</sourceNote></content></paragraph></paragraph></def><sourceNote>(<ref href="hk/2021/17">17 of 2021 s. 80</ref>)</sourceNote></subsection></section><section startPeriod="2016-09-01T00:00:00" id="ID_1467619029373_108" name="s11" temporalId="s11" status="operational" reason="inEffect"><num value="11">11.</num><heading>Clearing obligation taken to have been complied with if transaction cleared under laws of designated jurisdiction</heading><subsection id="ID_1467619029373_109" name="1" temporalId="s11_1"><num value="1">(1)</num><leadIn>A prescribed person is taken to have complied with <ref>rule 6(1)</ref> in relation to a specified OTC derivative transaction to which the person is a counterparty if—</leadIn><paragraph id="ID_1467619029373_110" name="a" temporalId="s11_1_a"><num value="a">(a)</num><content>under the laws of a jurisdiction that is designated by the Commission in accordance with subrule (2) (<term>designated jurisdiction</term>), the transaction is required to be cleared with a central counterparty;</content></paragraph><paragraph id="ID_1467619029373_111" name="b" temporalId="s11_1_b"><num value="b">(b)</num><content>the transaction has been cleared with a central counterparty in accordance with the laws of the designated jurisdiction; and</content></paragraph><paragraph id="ID_1467619029373_112" name="c" temporalId="s11_1_c"><num value="c">(c)</num><content>the central counterparty referred to in paragraph (b) is a designated CCP.</content></paragraph></subsection><subsection id="ID_1467619029389_113" name="2" temporalId="s11_2"><num value="2">(2)</num><leadIn>For the purposes of subrule (1), the Commission may, with the consent of the Monetary Authority and by notice published in the Gazette, designate any jurisdiction outside Hong Kong if the Commission is satisfied that the laws of the jurisdiction—</leadIn><paragraph id="ID_1467619029389_114" name="a" temporalId="s11_2_a"><num value="a">(a)</num><content>provide for requirements that are similar to, or serve similar purposes as, the clearing obligation; and</content></paragraph><paragraph id="ID_1467619029389_115" name="b" temporalId="s11_2_b"><num value="b">(b)</num><content>are appropriately administered and enforced in the jurisdiction.</content></paragraph></subsection><subsection id="ID_1467619029389_116" name="3" temporalId="s11_3"><num value="3">(3)</num><content>The Commission may, with the consent of the Monetary Authority and by notice published in the Gazette, revoke the designation of a jurisdiction made under subrule (2).</content></subsection><subsection id="ID_1467619029389_117" name="4" temporalId="s11_4"><num value="4">(4)</num><content>A notice published under subrule (2) or (3) is not subsidiary legislation.</content></subsection></section></part><part startPeriod="2016-09-01T00:00:00" id="ID_1467619029389_118" name="P3" temporalId="P3" status="operational" reason="inEffect"><num value="3">Part 3</num><heading>Record Keeping Obligation</heading><section startPeriod="2016-09-01T00:00:00" id="ID_1467619029389_119" name="s12" temporalId="s12" status="operational" reason="inEffect"><num value="12">12.</num><heading>Prescribed persons to keep records in relation to transactions</heading><leadIn>A prescribed person must, in relation to a specified OTC derivative transaction to which it is a counterparty, keep the records specified in <ref>rule 14</ref> in the manner specified in <ref>rule 15</ref> until no earlier than 5 years after the transaction has—</leadIn><paragraph id="ID_1467619029420_120" name="a" temporalId="s12_a"><num value="a">(a)</num><content>matured; or</content></paragraph><paragraph id="ID_1467619029436_121" name="b" temporalId="s12_b"><num value="b">(b)</num><content>before the transaction matures, been terminated in accordance with the terms and conditions of the transaction or by agreement between the counterparties to the transaction.</content></paragraph></section><section startPeriod="2016-09-01T00:00:00" id="ID_1467619029451_122" name="s13" temporalId="s13" status="operational" reason="inEffect"><num value="13">13.</num><heading>Prescribed persons to keep records even if counterparty is, or transaction was entered into, outside Hong Kong</heading><leadIn><ref>Rule 12</ref> applies to a specified OTC derivative transaction even if—</leadIn><paragraph id="ID_1467619029498_123" name="a" temporalId="s13_a"><num value="a">(a)</num><content>a counterparty, or more than one counterparty, to the transaction is a person outside Hong Kong; or</content></paragraph><paragraph id="ID_1467619029498_124" name="b" temporalId="s13_b"><num value="b">(b)</num><content>the transaction was entered into wholly or partially outside Hong Kong.</content></paragraph></section><section startPeriod="2016-09-01T00:00:00" id="ID_1467619029514_125" name="s14" temporalId="s14" status="operational" reason="inEffect"><num value="14">14.</num><heading>Records to be kept by prescribed persons</heading><leadIn>The records that a prescribed person must keep in relation to a specified OTC derivative transaction are records sufficient to demonstrate that—</leadIn><paragraph id="ID_1467619029514_126" name="a" temporalId="s14_a"><num value="a">(a)</num><leadIn><ref>rule 6(1)</ref> applied to the person in relation to the transaction and—</leadIn><subparagraph id="ID_1467619029514_127" name="1" temporalId="s14_a_1"><num value="1">(i)</num><content>the person complied with <ref>rule 6(1)</ref>; or</content></subparagraph><subparagraph id="ID_1467619029514_128" name="2" temporalId="s14_a_2"><num value="2">(ii)</num><content>the person was taken to have complied with <ref>rule 6(1)</ref> because <ref>rule 11(1)</ref> applied to the person in relation to the transaction; or</content></subparagraph></paragraph><paragraph id="ID_1467619029514_129" name="b" temporalId="s14_b"><num value="b">(b)</num><leadIn><ref>rule 6(1)</ref> did not apply to the person in relation to the transaction because—</leadIn><subparagraph id="ID_1467619029514_130" name="1" temporalId="s14_b_1"><num value="1">(i)</num><content><ref>rule 6(1)(a)(i)</ref> was not satisfied;</content></subparagraph><subparagraph id="ID_1467619029514_131" name="2" temporalId="s14_b_2"><num value="2">(ii)</num><content><ref>rule 6(1)(b)</ref> was not satisfied;</content></subparagraph><subparagraph id="ID_1467619029529_132" name="3" temporalId="s14_b_3"><num value="3">(iii)</num><content><ref>rule 6(3)</ref> applied to the person and the person gave a notice under <ref>rule 6(3)</ref>;</content></subparagraph><subparagraph id="ID_1467619029529_133" name="4" temporalId="s14_b_4"><num value="4">(iv)</num><content><ref>rule 8(1)</ref> applied to the person in relation to the transaction;</content></subparagraph><subparagraph id="ID_1467619029529_134" name="5" temporalId="s14_b_5"><num value="5">(v)</num><content><ref>rule 9(1)</ref> applied to the person in relation to the transaction; or</content></subparagraph><subparagraph id="ID_1467619029529_135" name="6" temporalId="s14_b_6"><num value="6">(vi)</num><content><ref>rule 10(1)</ref> applied to the person in relation to the transaction.</content></subparagraph></paragraph></section><section startPeriod="2016-09-01T00:00:00" id="ID_1467619029529_136" name="s15" temporalId="s15" status="operational" reason="inEffect"><num value="15">15.</num><heading>Manner in which records to be kept</heading><content>A prescribed person must, in relation to a specified OTC derivative transaction, keep the records specified in <ref>rule 14</ref> in a manner that enables the records to be readily accessible.</content></section></part><part startPeriod="2016-09-01T00:00:00" id="ID_1467619029545_137" name="P4" temporalId="P4" status="operational" reason="inEffect"><num value="4">Part 4</num><heading>Designation as Central Counterparty</heading><section startPeriod="2025-08-24" id="ID_1467619029545_138" name="s16" temporalId="s16" status="operational" reason="inEffect"><num value="16">16.</num><heading>Designation as central counterparty</heading><subsection id="ID_1467619029545_139" name="1" temporalId="s16_1"><num value="1">(1)</num><leadIn>The Commission may, if it is satisfied that it is appropriate to do so in the interests of the investing public or in the public interest—</leadIn><paragraph id="ID_1467619029545_140" name="a" temporalId="s16_1_a"><num value="a">(a)</num><content>designate a person under <ref>section 101J(1)</ref> of the Ordinance as a central counterparty for the purposes of Part IIIA of the Ordinance; and</content></paragraph><paragraph id="ID_1467619029561_141" name="b" temporalId="s16_1_b"><num value="b">(b)</num><leadIn>do the following with regard to a designation—</leadIn><subparagraph id="ID_1467619029561_142" name="1" temporalId="s16_1_b_1"><num value="1">(i)</num><content>impose conditions;</content></subparagraph><subparagraph id="ID_1467619029561_143" name="2" temporalId="s16_1_b_2"><num value="2">(ii)</num><content>amend or revoke a condition;</content></subparagraph><subparagraph id="ID_1467619029561_144" name="3" temporalId="s16_1_b_3"><num value="3">(iii)</num><content>impose additional conditions.</content></subparagraph></paragraph></subsection><subsection id="ID_1467619029561_145" name="2" temporalId="s16_2"><num value="2">(2)</num><leadIn>An application under <ref>section 101J(1)</ref> of the Ordinance for designation must—</leadIn><paragraph id="ID_1467619029561_146" name="a" temporalId="s16_2_a"><num value="a">(a)</num><content>be in writing;</content></paragraph><paragraph id="ID_1467619029561_147" name="b" temporalId="s16_2_b"><num value="b">(b)</num><content>specify the class or description of OTC derivative transactions in respect of which the applicant seeks to be designated;</content></paragraph><paragraph id="ID_1467619029561_148" name="c" temporalId="s16_2_c"><num value="c">(c)</num><leadIn>if the applicant is a person outside Hong Kong—</leadIn><subparagraph id="ID_1467619029561_149" name="1" temporalId="s16_2_c_1"><num value="1">(i)</num><content>specify each authority or regulatory organization outside Hong Kong
+                        that is responsible for regulation of the applicant in its capacity as a
+                        central counterparty
+                            (<term>non-Hong
+                            Kong regulators</term>); and</content></subparagraph><subparagraph id="ID_1467619029576_150" name="2" temporalId="s16_2_c_2"><num value="2">(ii)</num><content>be accompanied by information that is sufficient to demonstrate that
+                        the applicant meets legal or regulatory requirements enforced or
+                        administered by the
+                        non-Hong
+                        Kong regulators, and that those requirements meet
+                        generally recognized international principles and standards applicable to
+                        central counterparties; and
+                        <sourceNote>(<ref href="hk/2025/31">31 of 2025 s. 180</ref>)</sourceNote></content></subparagraph></paragraph><paragraph id="ID_1467619029576_151" name="d" temporalId="s16_2_d"><num value="d">(d)</num><content>contain or be accompanied by any other information that the Commission may reasonably require.</content></paragraph></subsection><subsection id="ID_1467619029576_152" name="3" temporalId="s16_3"><num value="3">(3)</num><leadIn>The Commission may, in considering an application for designation—</leadIn><paragraph id="ID_1467619029576_153" name="a" temporalId="s16_3_a"><num value="a">(a)</num><content>by a written notice served on the applicant, request the applicant to submit any additional information that the Commission reasonably considers may be relevant to the Commission’s consideration of the application; and</content></paragraph><paragraph id="ID_1467619029576_154" name="b" temporalId="s16_3_b"><num value="b">(b)</num><content>have regard to any information in the possession of the Commission, whether provided by the applicant or not.</content></paragraph></subsection><subsection id="ID_1467619029576_155" name="4" temporalId="s16_4"><num value="4">(4)</num><leadIn>A notice of designation given by the Commission to a person under <ref>section 101J(1)(a)</ref> of the Ordinance must specify—</leadIn><paragraph id="ID_1467619029576_156" name="a" temporalId="s16_4_a"><num value="a">(a)</num><content>the class or description of OTC derivative transactions in respect of which the person is designated;</content></paragraph><paragraph id="ID_1467619029576_157" name="b" temporalId="s16_4_b"><num value="b">(b)</num><content>the conditions (if any) imposed with regard to the designation; and</content></paragraph><paragraph id="ID_1467619029592_158" name="c" temporalId="s16_4_c"><num value="c">(c)</num><content>the time at which the designation is to take effect.</content></paragraph></subsection><subsection id="ID_1467619029592_159" name="5" temporalId="s16_5"><num value="5">(5)</num><content>The Commission may, in considering whether to exercise any of the powers referred to in subrule <ref>(1)(b)</ref> with regard to a designation, have regard to any information in the possession of the Commission, whether provided by the designated person or not.</content></subsection></section><section startPeriod="2016-09-01" id="ID_1467619029592_160" name="s17" temporalId="s17" status="operational" reason="inEffect"><num value="17">17.</num><heading>Refusal to designate</heading><content>If the Commission, under <ref>section 101J(1)(b)</ref> of the Ordinance, refuses to designate a person as a central counterparty for the purposes of <ref>Part IIIA</ref> of the Ordinance, the Commission must, by a written notice served on the person, inform the person of the refusal and the reasons for the refusal.</content></section><section startPeriod="2016-09-01" id="ID_1467619029592_161" name="s18" temporalId="s18" status="operational" reason="inEffect"><num value="18">18.</num><heading>Revocation of designation</heading><subsection id="ID_1467619029592_162" name="1" temporalId="s18_1"><num value="1">(1)</num><leadIn>The Commission may revoke a designation of a person under <ref>section 101J(5)(d)</ref> of the Ordinance—</leadIn><paragraph id="ID_1467619029608_163" name="a" temporalId="s18_1_a"><num value="a">(a)</num><content>if the Commission is satisfied that it is appropriate to do so in the interests of the investing public or in the public interest; or</content></paragraph><paragraph id="ID_1467619029608_164" name="b" temporalId="s18_1_b"><num value="b">(b)</num><content>at the request, in writing, of the person.</content></paragraph></subsection><subsection id="ID_1467619029608_165" name="2" temporalId="s18_2"><num value="2">(2)</num><leadIn>If the Commission revokes a designation of a person under <ref>section 101J(5)(d)</ref> of the Ordinance—</leadIn><paragraph id="ID_1467619029608_166" name="a" temporalId="s18_2_a"><num value="a">(a)</num><content>it must include in the notice the reasons for the revocation, except where the revocation is at the request of the person; and</content></paragraph><paragraph id="ID_1467619029623_167" name="b" temporalId="s18_2_b"><num value="b">(b)</num><leadIn>it may include in the notice any directions to the person that it considers appropriate for the purpose of—</leadIn><subparagraph id="ID_1467619029623_168" name="1" temporalId="s18_2_b_1"><num value="1">(i)</num><content>ceasing the designation of the person; or</content></subparagraph><subparagraph id="ID_1467619029623_169" name="2" temporalId="s18_2_b_2"><num value="2">(ii)</num><content>protecting the interests of the investing public or the public interest.</content></subparagraph></paragraph></subsection><subsection id="ID_1467619029623_170" name="3" temporalId="s18_3"><num value="3">(3)</num><content>The Commission may, in considering whether to revoke a designation of a person under <ref>section 101J(5)(d)</ref> of the Ordinance, have regard to any information in the possession of the Commission, whether provided by the person or not.</content></subsection></section></part><schedule startPeriod="2024-07-01" id="ID_1467619029639_171" name="sch1" temporalId="sch1" status="operational" reason="inEffect"><num value="1">Schedule 1</num><note role="crossReferences" type="inline">[<ref href="/hk/cap571AN/s4">rr. 4</ref> &amp;
+                <ref href="/hk/cap571AN/s5">5</ref>]</note><heading>Specified OTC Derivative Transactions for the Purposes of Clearing Obligation and
+            Record Keeping Obligation</heading><section id="ID_1467619029654_172" name="s1" temporalId="sch1_s1" status="operational" reason="inEffect"><num value="1">1.</num><heading>Interpretation</heading><leadIn>In this Schedule—</leadIn><def name="BasisSwap"><term>basis swap</term> (<term xml:lang="zh-Hant-HK">基準掉期</term>)
+                means an interest rate swap under the terms and conditions of which—<paragraph id="ID_1467619029654_173" name="a" temporalId="sch1_s1_a"><num value="a">(a)</num><content>the payments to be made by one of the 2 counterparties are to be
+                        calculated by reference to a floating interest rate applied to a notional
+                        amount; and</content></paragraph><paragraph id="ID_1467619029654_174" name="b" temporalId="sch1_s1_b"><num value="b">(b)</num><content>the payments to be made by the other counterparty are to be calculated
+                        by reference to another floating interest rate applied to the same notional
+                        amount;</content></paragraph></def><def name="Features"><term>features</term> (<term xml:lang="zh-Hant-HK">特點</term>), in
+                relation to an interest rate swap, and as applicable depending on whether the swap
+                is a basis swap (see Table 1), a fixed-to-floating swap (except an overnight index
+                swap) (see Table 2) or an overnight index swap (see Table 3), means the
+                    following—<paragraph id="ID_1467619029670_175" name="a" temporalId="sch1_s1_a"><num value="a">(a)</num><content>the currency in which the notional amount and payments are denominated
+                        as specified under column 2 with the heading of “Currency” in Table 1, 2 or
+                        3;</content></paragraph><paragraph id="ID_1467619029670_176" name="b" temporalId="sch1_s1_b"><num value="b">(b)</num><content>the floating rate index on which the floating interest rate (or rates)
+                        for the swap is based as specified under column 3 with the heading of
+                        “Floating rate index” in Table 1, 2 or 3;</content></paragraph><paragraph id="ID_1467619029670_177" name="c" temporalId="sch1_s1_c"><num value="c">(c)</num><content>the tenor of the swap is within the range as specified under column 4
+                        with the heading of “Tenor” in Table 1, 2 or 3;</content></paragraph><paragraph id="ID_1467619029686_178" name="d" temporalId="sch1_s1_d"><num value="d">(d)</num><content>whether or not the swap has optionality as specified under column 5
+                        with the heading of “Optionality” in Table 1, 2 or 3;</content></paragraph><paragraph id="ID_1467619029701_179" name="e" temporalId="sch1_s1_e"><num value="e">(e)</num><content>whether or not the notional amount of the swap is constant during the
+                        tenor of the transaction as specified under column 6 with the heading of
+                        “Constant notional” in Table 1, 2 or 3;</content></paragraph></def><def name="FixedtofloatingSwap"><term>fixed-to-floating swap</term> (<term xml:lang="zh-Hant-HK">固定對浮動掉期</term>) means an interest rate swap under the
+                terms and conditions of which—<paragraph id="ID_1467619029701_180" name="a" temporalId="sch1_s1_a"><num value="a">(a)</num><content>the payments to be made by one of the 2 counterparties are to be
+                        calculated by reference to a fixed interest rate applied to a notional
+                        amount; and</content></paragraph><paragraph id="ID_1467619029717_181" name="b" temporalId="sch1_s1_b"><num value="b">(b)</num><content>the payments to be made by the other counterparty are to be calculated
+                        by reference to a floating interest rate applied to the same notional
+                        amount;</content></paragraph></def><def name="InterestRateSwap"><term>interest rate swap</term> (<term xml:lang="zh-Hant-HK">掉期息率</term>) means an OTC derivative transaction under the
+                terms and conditions of which—<paragraph id="ID_1467619029717_182" name="a" temporalId="sch1_s1_a"><num value="a">(a)</num><content>the 2 counterparties to the transaction agree to exchange interest rate
+                        cash flows (<term>payments</term>) at specified intervals while the
+                        transaction is still outstanding; and</content></paragraph><paragraph id="ID_1467619029733_183" name="b" temporalId="sch1_s1_b"><num value="b">(b)</num><leadIn>the payments are to be calculated by reference to—</leadIn><subparagraph id="ID_1467619029733_184" name="1" temporalId="sch1_s1_b_1"><num value="1">(i)</num><content>a notional amount that is denominated in a single currency;
+                            and</content></subparagraph><subparagraph id="ID_1467619029733_185" name="2" temporalId="sch1_s1_b_2"><num value="2">(ii)</num><content>agreed fixed interest rates or agreed floating interest
+                            rates;</content></subparagraph></paragraph></def><def name="Optionality"><term>optionality</term> (<term xml:lang="zh-Hant-HK">授予選擇權</term>), in relation to an interest rate swap, means a counterparty to
+                the swap is granted an option which, if exercised, would or might affect the amount,
+                timing or form of the payments that would otherwise be made under the swap;</def><def name="OvernightIndexSwap"><term>overnight index swap</term> (<term xml:lang="zh-Hant-HK">隔夜指數掉期</term>) means a fixed-to-floating swap where the
+                floating interest rate referred to in paragraph (b) of the definition of
+                        <i><b>fixed-to-floating swap
+                        </b></i>
+                in this section is based on an overnight interest rate
+                index.</def></section><section id="ID_1467619029779_186" name="s2" temporalId="sch1_s2" status="operational" reason="inEffect"><num value="2">2.</num><heading>Specified OTC derivative transactions</heading><leadIn>The following OTC derivative transactions are specified for the purposes of
+                    <ref>rules 4</ref> and <ref>5</ref>—</leadIn><paragraph id="ID_1467619029779_187" name="a" temporalId="sch1_s2_a"><num value="a">(a)</num><content>a basis swap that has all of the features specified for an item in a row of
+                    Table 1;</content></paragraph><paragraph id="ID_1467619029779_188" name="b" temporalId="sch1_s2_b"><num value="b">(b)</num><content>a fixed-to-floating swap (except an overnight index swap) that has all of
+                    the features specified for an item in a row of Table 2;</content></paragraph><paragraph id="ID_1467619029779_189" name="c" temporalId="sch1_s2_c"><num value="c">(c)</num><content>an overnight index swap that has all of the features specified for an item
+                    in a row of Table 3.</content></paragraph></section><text><marker role="blank-line"></marker><marker role="blank-line"></marker><crossHeading class="start_para_next_page no_header">
+                <table xmlns="http://www.w3.org/1999/xhtml" frame="void" width="448">
+                    <col width="100%"></col>
+                    <tbody>
+                        <tr>
+                            <td>
+                                <p class="align_center"><b xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Table
+                                    1</b></p>
+                                <p class="align_center"><b xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Basis
+                                        Swaps</b></p>
+                                <p></p>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </crossHeading><table xmlns="http://www.w3.org/1999/xhtml" width="448" class="left_indent_5 repeat_header">
+                <colgroup>
+                    <col width="13.76%"></col>
+                    <col width="17.02%"></col>
+                    <col width="18.94%"></col>
+                    <col width="16.35%"></col>
+                    <col width="18.87%"></col>
+                    <col width="15.04%"></col>
+                </colgroup>
+                <thead>
+                    <tr>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">Column<br></br>1</p>
+                            
+                            
+                            
+                            <p></p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">Column<br></br>2</p>
+                            
+                            
+                            
+                            <p></p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">Column<br></br>3</p>
+                            
+                            
+                            
+                            <p></p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">Column<br></br>4</p>
+                            
+                            
+                            
+                            <p></p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">Column<br></br>5</p>
+                            
+                            
+                            
+                            <p></p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">Column<br></br>6</p>
+                            
+                            
+                            
+                            <p></p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left valign_bottom cellpadding_left_5 cellpadding_right_5">
+                            <p class="below_space_between_line_0">Item</p>
+                        </td>
+                        <td class="align_left valign_bottom cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center below_space_between_line_0">Currency</p>
+                        </td>
+                        <td class="align_left valign_bottom cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center below_space_between_line_0">Floating rate
+                                index</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5 valign_bottom">
+                            <p class="below_space_between_line_0 align_center">Tenor</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5 valign_bottom">
+                            <p class="align_center below_space_between_line_0">Optionality</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5 valign_bottom">
+                            <p class="align_center below_space_between_line_0">Constant notional</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left valign_bottom cellpadding_left_5 cellpadding_right_5"></td>
+                        <td class="align_left valign_bottom cellpadding_left_5 cellpadding_right_5">
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                        <td class="align_left valign_bottom cellpadding_left_5 cellpadding_right_5"></td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5 valign_bottom"></td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5 valign_bottom"></td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5 valign_bottom"></td>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>1.</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5" colspan="5"><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="hk/2023/ln150">L.N. 150 of
+                            2023</ref>)</sourceNote><p></p></td>
+                    </tr>
+                    <tr>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>2.</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">EUR</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">EURIBOR</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>28 days to 10 years</p>
+                            <p></p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">No</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">Yes</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        
+                        <td class="align_left cellpadding_left_5 cellpadding_right_2"><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="3,4">3-4.</num></td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5" colspan="5"><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="hk/2023/ln150">L.N. 150 of
+                            2023</ref>)</sourceNote><p></p></td>
+                    </tr>
+                    <tr>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>5.</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">HKD</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">HIBOR</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>28 days to 10 years</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">No</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">Yes</p>
+                            <p></p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table><marker role="section-break"></marker><marker role="blank-line"></marker><crossHeading class="no_header">
+                <table xmlns="http://www.w3.org/1999/xhtml" frame="void" width="448">
+                    <col width="100%"></col>
+                    <tbody>
+                        <tr>
+                            <td>
+                                <p class="below_space_between_line_8 align_center"><b xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Table
+                                    2</b></p>
+                                <p class="align_center"><b xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Fixed-to-Floating Swaps (except Overnight Index
+                                    Swaps)</b></p>
+                                <p></p>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </crossHeading><table xmlns="http://www.w3.org/1999/xhtml" width="448" class="left_indent_5 repeat_header">
+                <colgroup>
+                    <col width="13.76%"></col>
+                    <col width="17.02%"></col>
+                    <col width="18.94%"></col>
+                    <col width="16.35%"></col>
+                    <col width="18.87%"></col>
+                    <col width="15.04%"></col>
+                </colgroup>
+                <thead>
+                    <tr class="break_rows">
+                        <td class="align_left valign_bottom cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center below_space_between_line_0">Column</p>
+                            <p class="align_center below_space_between_line_0">1</p>
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_bottom cellpadding_left_5 cellpadding_right_5">
+                            <p class="below_space_between_line_0 align_center">Column</p>
+                            <p class="below_space_between_line_0 align_center">2</p>
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_bottom cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center below_space_between_line_0">Column</p>
+                            <p class="below_space_between_line_0 align_center">3</p>
+                            <p></p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center below_space_between_line_0">Column</p>
+                            <p class="align_center below_space_between_line_0">4</p>
+                            <p></p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center below_space_between_line_0">Column</p>
+                            <p class="align_center below_space_between_line_0">5</p>
+                            <p></p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center below_space_between_line_0">Column</p>
+                            <p class="align_center below_space_between_line_0">6</p>
+                            <p></p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left valign_bottom cellpadding_left_5 cellpadding_right_5">
+                            <p class="below_space_between_line_0">Item</p>
+                        </td>
+                        <td class="align_left valign_bottom cellpadding_left_5 cellpadding_right_5">
+                            <p class="below_space_between_line_0 align_center">Currency</p>
+                        </td>
+                        <td class="align_left valign_bottom cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center below_space_between_line_0">Floating rate
+                                index</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5 valign_bottom">
+                            <p class="below_space_between_line_0 align_center">Tenor</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5 valign_bottom">
+                            <p class="align_center below_space_between_line_0">Optionality</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5 valign_bottom">
+                            <p class="below_space_between_line_0 align_center">Constant notional</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left valign_bottom cellpadding_left_5 cellpadding_right_5"></td>
+                        <td class="align_left valign_bottom cellpadding_left_5 cellpadding_right_5">
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                        <td class="align_left valign_bottom cellpadding_left_5 cellpadding_right_5"></td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5 valign_bottom"></td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5 valign_bottom"></td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5 valign_bottom"></td>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>1.</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5" colspan="5"><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="hk/2023/ln150">L.N. 150 of
+                            2023</ref>)</sourceNote><p></p></td>
+                    </tr>
+                    <tr>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>2.</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">EUR</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">EURIBOR</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>28 days to 10 years</p>
+                            <p></p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">No</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">Yes</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        
+                        <td class="align_left cellpadding_left_5 cellpadding_right_2"><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="3,4">3-4.</num></td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5" colspan="5"><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="hk/2023/ln150">L.N. 150 of
+                            2023</ref>)</sourceNote><p></p></td>
+                    </tr>
+                    <tr>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>5.</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">HKD</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">HIBOR</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>28 days to 10 years</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">No</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">Yes</p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table><marker role="blank-line"></marker><marker role="section-break"></marker><crossHeading class=" no_header">
+                <table xmlns="http://www.w3.org/1999/xhtml" frame="void" width="448">
+                    <col width="100%"></col>
+                    <tbody>
+                        <tr>
+                            <td>
+                                <p class="align_center below_space_between_line_8"><b xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Table
+                                    3</b></p>
+                                <p class="align_center"><b xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Overnight
+                                        Index Swaps</b></p>
+                                <p></p>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </crossHeading><table xmlns="http://www.w3.org/1999/xhtml" width="448" class="left_indent_5 repeat_header">
+                <colgroup>
+                    <col width="13.76%"></col>
+                    <col width="17.08%"></col>
+                    <col width="18.74%"></col>
+                    <col width="16.43%"></col>
+                    <col width="18.88%"></col>
+                    <col width="15.1%"></col>
+                </colgroup>
+                <thead>
+                    <tr class="break_rows">
+                        <td class="align_left valign_bottom cellpadding_left_5 cellpadding_right_5">
+                            <p class="below_space_between_line_0 align_center">Column</p>
+                            <p class="align_center below_space_between_line_0">1</p>
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_bottom cellpadding_left_5 cellpadding_right_5">
+                            <p class="below_space_between_line_0 align_center">Column</p>
+                            <p class="align_center below_space_between_line_0">2</p>
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_bottom cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center below_space_between_line_0">Column</p>
+                            <p class="align_center below_space_between_line_0">3</p>
+                            <p></p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="below_space_between_line_0 align_center">Column</p>
+                            <p class="below_space_between_line_0 align_center">4</p>
+                            <p></p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="below_space_between_line_0 align_center">Column</p>
+                            <p class="align_center below_space_between_line_0">5</p>
+                            <p></p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="below_space_between_line_0 align_center">Column</p>
+                            <p class="below_space_between_line_0 align_center">6</p>
+                            <p></p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left valign_bottom cellpadding_left_5 cellpadding_right_5">
+                            <p class="below_space_between_line_0">Item</p>
+                        </td>
+                        <td class="align_left valign_bottom cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center below_space_between_line_0">Currency</p>
+                        </td>
+                        <td class="align_left valign_bottom cellpadding_left_5 cellpadding_right_5">
+                            <p class="below_space_between_line_0 align_center">Floating rate
+                                index</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5 valign_bottom">
+                            <p class="align_center below_space_between_line_0">Tenor</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5 valign_bottom">
+                            <p class="align_center below_space_between_line_0">Optionality</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5 valign_bottom">
+                            <p class="align_center below_space_between_line_0">Constant notional</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left valign_bottom cellpadding_left_5 cellpadding_right_5"></td>
+                        <td class="align_left valign_bottom cellpadding_left_5 cellpadding_right_5">
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                        <td class="align_left valign_bottom cellpadding_left_5 cellpadding_right_5"></td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5 valign_bottom"></td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5 valign_bottom"></td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5 valign_bottom"></td>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>1.</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">USD</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">Fed Funds</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>7 days to 2 years</p>
+                            <p></p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">No</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">Yes</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>2.</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5"><p class="align_center">EUR</p><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="hk/2023/ln150">L.N. 150 of
+                            2023</ref>)</sourceNote><p></p></td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">
+                                €STR</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>7 days to
+                                3
+                                years</p>
+                            <p></p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">No</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">Yes</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>3.</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5"><p class="align_center">GBP</p><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="hk/2023/ln150">L.N. 150 of 2023</ref>)<p xmlns="http://www.w3.org/1999/xhtml"></p></sourceNote></td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">SONIA</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>7 days to
+                                50
+                                years</p>
+                            
+                            
+                            <p></p>
+                            
+                            
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">No</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">Yes</p>
+                        </td>
+                    </tr>
+                    
+                    
+                    <tr>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5"></td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5"></td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5"></td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5"></td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5"></td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5"></td>
+                    </tr>
+                    <tr>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5"></td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5"></td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5"></td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5"></td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5"></td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5"></td>
+                    </tr>
+                    <tr>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5"></td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5"></td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5"></td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5"></td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5"></td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5"></td>
+                    </tr>
+                    <tr>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5"></td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5"></td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5"></td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5"></td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5"></td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5"></td>
+                    </tr>
+                    <tr>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5"></td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5"></td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5"></td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5"></td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5"></td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5"></td>
+                    </tr>
+                    <tr>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5"></td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5"></td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5"></td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5"></td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5"></td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5"></td>
+                    </tr>
+                    <tr>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>4.</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5"><p class="align_center">JPY</p><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="hk/2023/ln150">L.N. 150 of 2023</ref>)<p xmlns="http://www.w3.org/1999/xhtml"></p></sourceNote></td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">TONA</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>7 days to 30 years</p>
+                            <p></p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">No</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">Yes</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>5.</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5"><p class="align_center">USD</p><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="hk/2023/ln150">L.N. 150 of 2023</ref>)<p xmlns="http://www.w3.org/1999/xhtml"></p></sourceNote></td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">SOFR</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>7 days to 50 years</p>
+                            <p></p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">No</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">Yes</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>6.</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5"><p class="align_center">HKD</p><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="hk/2023/ln150">L.N. 150 of 2023</ref>)<p xmlns="http://www.w3.org/1999/xhtml"></p></sourceNote></td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">HONIA</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>7 days to 10 years</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">No</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">Yes</p>
+                        </td>
+                    </tr>
+                    
+                    
+                </tbody>
+            </table></text></schedule><schedule id="ID_1467624131782_001" name="sch2" temporalId="sch2" startPeriod="2023-03-01" status="operational" reason="inEffect"><num value="2">Schedule 2</num><note role="crossReferences" type="inline">[<ref href="/hk/cap571AN/s6">r. 6</ref>]</note><heading>Calculation
+            Periods, Clearing Thresholds and Prescribed
+            Days<marker role="blank-line"></marker></heading><content>
+            
+            <table xmlns="http://www.w3.org/1999/xhtml" width="447" class="left_indent_5 repeat_header">
+                <colgroup>
+                    <col width="18%"></col>
+                    <col width="35%"></col>
+                    <col width="23%"></col>
+                    <col width="25%"></col>
+                </colgroup>
+                
+                
+                <thead>
+                    <tr>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>Column 1</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">Column 2</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">Column 3</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">Column 4</p>
+                            <p></p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p></p>
+                            <p>Item</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">Calculation</p>
+                            <p class="align_center">period</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">Clearing</p>
+                            <p class="align_center">threshold</p>
+                            <p></p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">Prescribed</p>
+                            <p class="align_center">day</p>
+                        </td>
+                    </tr>
+                </thead>
+                
+                
+                <tbody>
+                    
+                    
+                    
+                    <tr>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>1.</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>1 September 2016 to<br></br>30 November 2016</p>
+                            <p></p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">US$20 billion</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">1 July 2017</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>2.</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>1 March 2017 to<br></br>31 May 2017</p>
+                            <p></p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">US$20 billion</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">1 January 2018</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>3.</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>1 September 2017 to<br></br>30 November 2017</p>
+                            <p></p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">US$20 billion</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">1 July 2018</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>4.</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>1 March 2018 to<br></br>31 May 2018</p>
+                            
+                            
+                            <p></p>
+                            
+                            
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">US$20 billion</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">1 January 2019</p>
+                            <p></p>
+                        </td>
+                    </tr>
+                    
+                    
+                    <tr>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>5.</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>1 March 2019 to<br></br>31 May 2019 <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="hk/2018/ln259">L.N. 259 of
+                                2018</ref>)</sourceNote></p>
+                            <p></p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">US$20 billion</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">1 January 2020</p>
+                            <p></p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>6.</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>1 September 2019 to<br></br>30 November 2019 <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="hk/2018/ln259">L.N. 259 of
+                                2018</ref>)</sourceNote></p>
+                            <p></p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">US$20 billion</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">1 July 2020</p>
+                            <p></p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>7.</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>1 March 2020 to<br></br>31 May 2020 <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="hk/2018/ln259">L.N. 259 of
+                                2018</ref>)</sourceNote></p>
+                            <p></p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">US$20 billion</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">1 January 2021</p>
+                            <p></p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>8.</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5"><p>1 September
+                                2020 to<br></br>30 November 2020 <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="hk/2018/ln259">L.N. 259 of
+                                2018</ref>)</sourceNote></p><p></p><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" note="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">US$20 billion</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">1 July 2021</p>
+                            <p></p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>9.</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>1 March 2021 to<br></br>31 May 2021 <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="hk/2018/ln259">L.N. 259 of
+                                2018</ref>)</sourceNote></p>
+                            <p></p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">US$20 billion</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">1 January 2022</p>
+                            <p></p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>10.</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>1 September 2021 to<br></br>30 November 2021 <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="hk/2018/ln259">L.N. 259 of
+                                2018</ref>)</sourceNote></p>
+                            <p></p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">US$20 billion</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">1 July 2022</p>
+                            <p></p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>11.</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>1 March 2022 to<br></br>31 May 2022 <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="hk/2018/ln259">L.N. 259 of
+                                2018</ref>)</sourceNote></p>
+                            <p></p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">US$20 billion</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">1 January 2023</p>
+                            <p></p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>12.</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5"><p>1 September
+                                2022 to<br></br>30 November 2022 <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="hk/2018/ln259">L.N. 259 of
+                                2018</ref>)</sourceNote></p><p></p><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" note="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">US$20 billion</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">1 July 2023</p>
+                            <p></p>
+                        </td>
+                        
+                    </tr>
+                    
+                    <tr>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>13.</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>1 March 2023 to<br></br>31 May 2023 <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="hk/2022/ln159">L.N. 159 of
+                                2022</ref>)</sourceNote></p>
+                            <p></p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">US$20 billion</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">1 January 2024</p>
+                            <p></p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>14.</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>1 September 2023 to<br></br>30 November 2023 <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="hk/2022/ln159">L.N. 159 of
+                                2022</ref>)</sourceNote></p>
+                            <p></p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">US$20 billion</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">1 July 2024</p>
+                            <p></p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>15.</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>1 March 2024 to<br></br>31 May 2024 <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="hk/2022/ln159">L.N. 159 of
+                                2022</ref>)</sourceNote></p>
+                            <p></p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">US$20 billion</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">1 January 2025</p>
+                            <p></p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>16.</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5"><p>1 September
+                                2024 to<br></br>30 November 2024 <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="hk/2022/ln159">L.N. 159 of
+                                2022</ref>)</sourceNote></p><p></p><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" note="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">US$20 billion</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">1 July 2025</p>
+                            <p></p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>17.</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>1 March 2025 to<br></br>31 May 2025 <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="hk/2022/ln159">L.N. 159 of
+                                2022</ref>)</sourceNote></p>
+                            <p></p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">US$20 billion</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">1 January 2026</p>
+                            <p></p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>18.</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>1 September 2025 to<br></br>30 November 2025 <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="hk/2022/ln159">L.N. 159 of
+                                2022</ref>)</sourceNote></p>
+                            <p></p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">US$20 billion</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">1 July 2026</p>
+                            <p></p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>19.</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>1 March 2026 to<br></br>31 May 2026 <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="hk/2022/ln159">L.N. 159 of
+                                2022</ref>)</sourceNote></p>
+                            <p></p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">US$20 billion</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">1 January 2027</p>
+                            <p></p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>20.</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>1 September 2026 to<br></br>30 November 2026 <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="hk/2022/ln159">L.N. 159 of
+                                2022</ref>)</sourceNote></p>
+                            <p></p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">US$20 billion</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center">1 July 2027</p>
+                            <p></p>
+                        </td>
+                    </tr>
+                    
+                    
+                </tbody>
+            </table>
+        </content></schedule></main></subLeg>

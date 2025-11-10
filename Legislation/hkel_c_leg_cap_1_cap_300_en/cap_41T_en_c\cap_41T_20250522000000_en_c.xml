@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?><subLeg xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd" identifier="/hk/cap41T!en" xml:lang="en"><meta><docType>cap</docType><docNumber>41T</docNumber><docStatus>In effect</docStatus><docName>Cap. 41 sub. leg. T</docName><dc:identifier>/hk/cap41T!en</dc:identifier><dc:date>2025-05-22</dc:date><dc:subject>legislation</dc:subject><dc:language>en</dc:language><dc:publisher>DoJ</dc:publisher><dc:rights>The Government of the Hong Kong Special Administrative Region</dc:rights></meta><main><docTitle startPeriod="2025-05-22" status="operational" reason="inEffect" name="shortTitle" temporalId="shortTitle" id="ID_1714706067837_001">
+                        <content>Insurance (Maintenance of Assets in Hong Kong) Rules</content>
+                </docTitle><enactingFormula>(<ref href="/hk/cap41/s129">Cap.
+                                41,
+                                section
+                        129(1)</ref>)</enactingFormula><sourceNote>(Enacting provision omitted—<ref href="hk/2025/er1">E.R. 1 of
+                        2025</ref>)</sourceNote><commencementNote>[1 July 2024] <sourceNote><ref href="hk/2024/ln67">L.N. 67 of
+                                        2024</ref></sourceNote></commencementNote><part startPeriod="2024-07-01" status="operational" reason="inEffect" name="P1" temporalId="P1" id="ID_1716968013083_001"><num value="1">Part 1</num><heading>Preliminary</heading><section startPeriod="2025-05-22" status="omitted" reason="omittedAsSpent" name="s1" temporalId="s1" id="ID_1716968014109_002"><num value="1">1.</num><sourceNote>(Omitted as spent—<ref href="hk/2025/er1">E.R. 1 of 2025</ref>)</sourceNote></section><section startPeriod="2025-05-22" status="operational" reason="inEffect" name="s2" temporalId="s2" id="ID_1716968014702_003"><num value="2">2.</num><heading>Interpretation</heading><leadIn>In these Rules—</leadIn><def name="DeterminingFactor"><term>determining factor</term> (<term xml:lang="zh-Hant-HK">釐定因子</term>), in relation to an authorized insurer, means the factor applicable to the insurer as determined in accordance with <ref>rule 8</ref>;</def><def name="GeneralBusinessWithOnshoreRisk"><term>general business with onshore risk</term> (<term xml:lang="zh-Hant-HK">具在岸風險的一般業務</term>) has the meaning given by <ref>section 25A(12)</ref> of the Ordinance;</def><def name="InsuranceLiabilities"><term>insurance liabilities</term> (<term xml:lang="zh-Hant-HK">保險負債</term>) has the meaning given by <ref>rule 2(1)</ref> of the Insurance
+            (Valuation and Capital)
+            Rules (<ref href="/hk/cap41R">Cap. 41 sub. leg. R</ref>);
+            <sourceNote>(<ref href="hk/2025/er1">E.R. 1 of
+            2025</ref>)</sourceNote></def><def name="MarineInsurer"><term>marine insurer</term> (<term xml:lang="zh-Hant-HK">海事保險人</term>) has
+            the meaning given by <ref>rule 2</ref> of the Insurance (Marine Insurers and Captive
+            Insurers) Rules
+                (<ref href="/hk/cap41U">Cap. 41 sub. leg. U</ref>);
+            <sourceNote>(<ref href="hk/2025/er1">E.R. 1 of
+            2025</ref>)</sourceNote></def><def name="NetOfReinsurance"><term>net of reinsurance</term> (<term xml:lang="zh-Hant-HK">已減除再保險</term>) has the meaning given by <ref>rule 2(1)</ref> of the Insurance
+            (Valuation and Capital)
+            Rules (<ref href="/hk/cap41R">Cap. 41 sub. leg. R</ref>);
+            <sourceNote>(<ref href="hk/2025/er1">E.R. 1 of
+            2025</ref>)</sourceNote></def><def name="PrescribedRatingAgency">
+            
+            <leadIn><term>prescribed rating agency</term> (<term xml:lang="zh-Hant-HK">訂明評級機構</term>) means—</leadIn>
+            <paragraph name="a" temporalId="s2_a" id="ID_1716968658668_001"><num value="a">(a)</num><content>S&amp;P Global Ratings;</content></paragraph>
+            <paragraph name="b" temporalId="s2_b" id="ID_1716968658669_002"><num value="b">(b)</num><content>Moody’s Investors Service;</content></paragraph>
+            <paragraph name="c" temporalId="s2_c" id="ID_1716968658670_003"><num value="c">(c)</num><content>Fitch Ratings; or</content></paragraph>
+            <paragraph name="d" temporalId="s2_d" id="ID_1716968658671_004"><num value="d">(d)</num><content>A.M. Best Company, Inc.</content></paragraph>
+        </def></section><section startPeriod="2024-07-01" status="operational" reason="inEffect" name="s3" temporalId="s3" id="ID_1716968015351_004"><num value="3">3.</num><heading>Application</heading><subsection name="1" temporalId="s3_1" id="ID_1716968692497_001"><num value="1">(1)</num><leadIn>These Rules apply to—</leadIn><paragraph name="a" temporalId="s3_1_a" id="ID_1716968692498_002"><num value="a">(a)</num><content>authorized insurers which carry on general business in or from Hong Kong; and</content></paragraph><paragraph name="b" temporalId="s3_1_b" id="ID_1716968692499_003"><num value="b">(b)</num><content>Lloyd’s in respect of general business it carries on in or from Hong Kong.</content></paragraph></subsection><subsection name="2" temporalId="s3_2" id="ID_1716968692500_004"><num value="2">(2)</num><content>All amounts and calculations in these Rules are based on Hong Kong dollars.</content></subsection></section></part><part startPeriod="2024-07-01" status="operational" reason="inEffect" name="P2" temporalId="P2" id="ID_1716968015744_005"><num value="2">Part 2</num><heading>Exemption</heading><section startPeriod="2024-07-01" status="operational" reason="inEffect" name="s4" temporalId="s4" id="ID_1716968016039_006"><num value="4">4.</num><heading>Exempted insurers</heading><leadIn>Pursuant to <ref>section 25A(2)(b)</ref> of the Ordinance, the following insurers are exempt from the requirements in <ref>section 25A</ref> of the Ordinance—</leadIn><paragraph name="a" temporalId="s4_a" id="ID_1716968755648_001"><num value="a">(a)</num><content>HK insurers;</content></paragraph><paragraph name="b" temporalId="s4_b" id="ID_1716968755649_002"><num value="b">(b)</num><content>designated insurers; and</content></paragraph><paragraph name="c" temporalId="s4_c" id="ID_1716968755650_003"><num value="c">(c)</num><content>captive insurers.</content></paragraph></section></part><part startPeriod="2024-07-01" status="operational" reason="inEffect" name="P3" temporalId="P3" id="ID_1716968016379_007"><num value="3">Part 3</num><heading>Amount of Assets in Hong Kong to be Maintained</heading><section startPeriod="2025-05-22" status="operational" reason="inEffect" name="s5" temporalId="s5" id="ID_1716968016586_008"><num value="5">5.</num><heading>Assets in Hong Kong for authorized insurers (except marine insurers)</heading><subsection name="1" temporalId="s5_1" id="ID_1716968860022_001"><num value="1">(1)</num><leadIn>Pursuant to <ref>section 25A(3)(b)</ref> of the Ordinance—</leadIn><paragraph name="a" temporalId="s5_1_a" id="ID_1716968860025_002"><num value="a">(a)</num><content>subject to paragraph (b), the value of the assets an authorized insurer
+                    must maintain in Hong Kong in respect of its insurance liabilities (as referred
+                    to in <ref>section 25A(3A)</ref> of the Ordinance) in its current financial
+                    year, must not be less than the amount determined in accordance with subrule (2)
+                    as at the end of its last preceding financial year; and</content></paragraph><paragraph name="b" temporalId="s5_1_b" id="ID_1716968860027_003"><num value="b">(b)</num><content>this rule does not apply to marine insurers.</content></paragraph></subsection><subsection name="2" temporalId="s5_2" id="ID_1716968860028_004"><num value="2">(2)</num><leadIn>The amount mentioned in subrule <ref>(1)(a)</ref> is the sum of—</leadIn><paragraph name="a" temporalId="s5_2_a" id="ID_1716968860030_005"><num value="a">(a)</num><content>the authorized insurer’s insurance liabilities, net of reinsurance, for its
+                    general business with onshore risk carried on in or from Hong Kong in respect of
+                    direct business, valued in accordance with the Insurance (Valuation and Capital)
+                    Rules (<ref href="/hk/cap41R">Cap. 41 sub. leg. R</ref>);</content></paragraph><paragraph name="b" temporalId="s5_2_b" id="ID_1716968860031_006"><num value="b">(b)</num><leadIn>the amount determined by multiplying A by B, where—</leadIn><subparagraph name="1" temporalId="s5_2_b_1" id="ID_1716968860031_007"><num value="1">(i)</num><content>A is the authorized insurer’s insurance liabilities, net of
+                        reinsurance, for its general business with onshore risk carried on in or
+                        from Hong Kong in respect of reinsurance business, valued in accordance with
+                        the Insurance (Valuation and Capital)
+                        Rules
+                            (<ref href="/hk/cap41R">Cap. 41 sub. leg. R</ref>);
+                        and</content></subparagraph><subparagraph name="2" temporalId="s5_2_b_2" id="ID_1716968860032_008"><num value="2">(ii)</num><content>B is the determining factor applicable to the authorized insurer;
+                        and</content></subparagraph></paragraph><paragraph name="c" temporalId="s5_2_c" id="ID_1716968860033_009"><num value="c">(c)</num><leadIn>the amount determined by multiplying the onshore prescribed capital amount
+                    for the authorized insurer as determined in accordance with subrule (3), by the
+                    ratio of C to D, where—</leadIn><subparagraph name="1" temporalId="s5_2_c_1" id="ID_1716968860034_010"><num value="1">(i)</num><leadIn>C is the sum of—</leadIn><subparagraph role="subSubparagraph" name="A" temporalId="s5_2_c_1_A" id="ID_1716968860035_011"><num value="A">(A)</num><content>the amount of net premium for the insurer’s general business with
+                            onshore risk carried on in or from Hong Kong in respect of direct
+                            business in its last preceding financial year; and</content></subparagraph><subparagraph role="subSubparagraph" name="B" temporalId="s5_2_c_1_B" id="ID_1716968860036_012"><num value="B">(B)</num><content>the amount determined by multiplying the amount of net premium for
+                            the insurer’s general business with onshore risk carried on in or from
+                            Hong Kong in respect of reinsurance business in its last preceding
+                            financial year, by the determining factor applicable to the insurer;
+                            and</content></subparagraph></subparagraph><subparagraph name="2" temporalId="s5_2_c_2" id="ID_1716968860037_013"><num value="2">(ii)</num><content>D is the amount of net premium for the insurer’s general business with
+                        onshore risk carried on in or from Hong Kong in its last preceding financial
+                        year.</content></subparagraph></paragraph></subsection><subsection name="3" temporalId="s5_3" id="ID_1716968860037_014"><num value="3">(3)</num><leadIn>For the purposes of subrule <ref>(2)(c)</ref>, an authorized insurer to which
+                subrule (2) applies must determine its onshore prescribed capital amount—</leadIn><paragraph name="a" temporalId="s5_3_a" id="ID_1716968860039_015"><num value="a">(a)</num><content>in the same manner as the insurer determines its prescribed capital amount
+                    in accordance with the Insurance (Valuation and Capital)
+                    Rules (<ref href="/hk/cap41R">Cap. 41 sub. leg. R</ref>) but with the
+                    modifications to those Rules mentioned in subrule (4); and</content></paragraph><paragraph name="b" temporalId="s5_3_b" id="ID_1716968860040_016"><num value="b">(b)</num><leadIn>based only on the insurer’s—</leadIn><subparagraph name="1" temporalId="s5_3_b_1" id="ID_1716968860041_017"><num value="1">(i)</num><content>insurance liabilities for its general business with onshore risk
+                        carried on in or from Hong Kong (subject to subrule <ref>(4)(c)</ref>)
+                        allocated to the fund the insurer is required to maintain under <ref>section
+                            25AA(2)</ref>,
+                            <ref>(4)(b)</ref>
+                        or
+                            <ref>(6)</ref>
+                        of the Ordinance, as the case may be; and</content></subparagraph><subparagraph name="2" temporalId="s5_3_b_2" id="ID_1716968860045_018"><num value="2">(ii)</num><content>assets in Hong Kong allocated to the fund the insurer is required to
+                        maintain under <ref>section 25AA(2)</ref>,
+                            <ref>(4)(b)</ref>
+                        or
+                            <ref>(6)</ref>
+                        of the Ordinance, as the case may be.</content></subparagraph></paragraph></subsection><subsection name="4" temporalId="s5_4" id="ID_1716968860049_019"><num value="4">(4)</num><leadIn>For the purposes of subrule (3), the modifications to the Insurance (Valuation
+                and Capital)
+                Rules (<ref href="/hk/cap41R">Cap. 41 sub. leg. R</ref>) are—
+                <sourceNote>(<ref href="hk/2025/er1">E.R. 1 of
+                2025</ref>)</sourceNote></leadIn><paragraph name="a" temporalId="s5_4_a" id="ID_1716968860050_020"><num value="a">(a)</num><content>in determining its risk capital amount for counterparty default and other
+                    risk in accordance with <ref>rule 81</ref> of the Insurance (Valuation and
+                    Capital)
+                    Rules (<ref href="/hk/cap41R">Cap. 41 sub. leg. R</ref>), an
+                    authorized insurer must include any letter of credit or other commitment from a
+                    bank approved under <ref>section 25C</ref> of the Ordinance;</content></paragraph><paragraph name="b" temporalId="s5_4_b" id="ID_1716968860053_021"><num value="b">(b)</num><leadIn>in determining its risk capital amount for natural catastrophe
+                    risk—</leadIn><subparagraph name="1" temporalId="s5_4_b_1" id="ID_1716968860054_022"><num value="1">(i)</num><content>an insurer is only required to include Hong Kong windstorm in that
+                        determination; and</content></subparagraph><subparagraph name="2" temporalId="s5_4_b_2" id="ID_1716968860054_023"><num value="2">(ii)</num><content>its adjustment in <ref>rule 68(9)(b)</ref> of the Insurance (Valuation
+                        and Capital)
+                        Rules
+                            (<ref href="/hk/cap41R">Cap. 41 sub. leg. R</ref>) is
+                        multiplied by the ratio of its insurance risk mitigation effect for Hong
+                        Kong windstorm to its total insurance risk mitigation effect for natural
+                        catastrophe risk; and</content></subparagraph></paragraph><paragraph name="c" temporalId="s5_4_c" id="ID_1716968860056_024"><num value="c">(c)</num><content>in determining its risk capital amount for man-made non-systemic
+                    catastrophe risk and risk capital amount for man-made systemic catastrophe risk,
+                    the insurer must include all its business allocated to the funds mentioned in
+                    subrule (3), irrespective of any portion of such business being offshore
+                    risk.</content></paragraph></subsection><subsection name="5" temporalId="s5_5" id="ID_1716968860057_025"><num value="5">(5)</num><leadIn>In this rule—</leadIn><def name="GrossPremium"><term>gross premium</term> (<term xml:lang="zh-Hant-HK">毛保費</term>), in relation to a period of time, means the premiums paid or
+                payable to a relevant insurer in respect of contracts of insurance written or
+                renewed in that period of time before deducting commissions of agents or brokers but
+                after deducting any discounts specified in policies or refunds of premiums made in
+                respect of any termination or reduction of risks;</def><def name="NetPremium"><term>net premium</term> (<term xml:lang="zh-Hant-HK">淨保費</term>), in relation to a period of time, means the amount determined by
+                deducting from gross premium, the amount of any premiums payable by a relevant
+                insurer in respect of reinsurance in that period of time covering insurance business
+                other than long term business.</def></subsection><sourceNote>(<ref href="hk/2025/er1">E.R. 1 of 2025</ref>)</sourceNote></section><section startPeriod="2025-05-22" status="operational" reason="inEffect" name="s6" temporalId="s6" id="ID_1716968016974_009"><num value="6">6.</num><heading>Assets in Hong Kong for marine insurers</heading><subsection name="1" temporalId="s6_1" id="ID_1716968900519_001"><num value="1">(1)</num><content>Pursuant to <ref>section 25A(3)(b)</ref> of the Ordinance, the value of the assets a marine insurer must maintain in Hong Kong in respect of its insurance liabilities (as referred to in <ref>section 25A(3A)</ref> of the Ordinance) in its current financial year, must not be less than the amount determined in accordance with subrule (2) as at the end of its last preceding financial year.</content></subsection><subsection name="2" temporalId="s6_2" id="ID_1716968900522_002"><num value="2">(2)</num><leadIn>The amount mentioned in subrule (1) is the sum of—</leadIn><paragraph name="a" temporalId="s6_2_a" id="ID_1716968900523_003"><num value="a">(a)</num><content>the marine insurer’s insurance liabilities, net of reinsurance, for its
+                    general business with onshore risk carried on in or from Hong Kong in respect of
+                    direct business, valued in accordance with <ref>rule 7</ref> of the Insurance
+                    (Marine Insurers and Captive Insurers)
+                    Rules (<ref href="/hk/cap41U">Cap. 41 sub. leg. U</ref>);</content></paragraph><paragraph name="b" temporalId="s6_2_b" id="ID_1716968900525_004"><num value="b">(b)</num><leadIn>the amount determined by multiplying E by F where—</leadIn><subparagraph name="1" temporalId="s6_2_b_1" id="ID_1716968900525_005"><num value="1">(i)</num><content>E is the marine insurer’s insurance liabilities, net of reinsurance,
+                        for its general business with onshore risk carried on in or from Hong Kong
+                        in respect of reinsurance business, valued in accordance with <ref>rule
+                            7</ref> of the Insurance (Marine Insurers and Captive Insurers)
+                        Rules
+                            (<ref href="/hk/cap41U">Cap. 41 sub. leg. U</ref>);
+                        and</content></subparagraph><subparagraph name="2" temporalId="s6_2_b_2" id="ID_1716968900527_006"><num value="2">(ii)</num><content>F is the determining factor applicable to the marine insurer; and</content></subparagraph></paragraph><paragraph name="c" temporalId="s6_2_c" id="ID_1716968900528_007"><num value="c">(c)</num><content>the onshore prescribed capital amount for the marine insurer determined in
+                    accordance with subrule (3).
+                    <sourceNote>(<ref href="hk/2025/er1">E.R. 1 of
+                    2025</ref>)</sourceNote></content></paragraph></subsection><subsection name="3" temporalId="s6_3" id="ID_1716968900529_008"><num value="3">(3)</num><leadIn>For the purposes of subrule <ref>(2)(c)</ref>, a marine insurer’s onshore
+                prescribed capital amount is the prescribed capital amount that would be determined
+                in accordance with the Insurance (Marine Insurers and Captive Insurers)
+                Rules (<ref href="/hk/cap41U">Cap. 41 sub. leg. U</ref>), as being the
+                applicable amount in column 3 of Table 1 in <ref>rule 8</ref> of those Rules, based
+                on the applicable case in column 2 of that Table, but with the following
+                modifications to column 2 of that Table—
+                <sourceNote>(<ref href="hk/2025/er1">E.R. 1 of
+                2025</ref>)</sourceNote></leadIn><paragraph name="a" temporalId="s6_3_a" id="ID_1716968900531_009"><num value="a">(a)</num><leadIn>the reference to “net premium” in column 2 of that Table refers to the sum
+                    of the marine insurer’s—</leadIn><subparagraph name="1" temporalId="s6_3_a_1" id="ID_1716968900532_010"><num value="1">(i)</num><content>net premium in respect of its general business with onshore risk which
+                        is direct business; and</content></subparagraph><subparagraph name="2" temporalId="s6_3_a_2" id="ID_1716968900533_011"><num value="2">(ii)</num><content>net premium in respect of its general business with onshore risk which
+                        is reinsurance business, multiplied by the determining factor applicable to
+                        the marine insurer; and</content></subparagraph></paragraph><paragraph name="b" temporalId="s6_3_b" id="ID_1716968900534_012"><num value="b">(b)</num><leadIn>the reference to “relevant claims outstanding” in column 2 of that Table
+                    refers to the sum of the marine insurer’s—</leadIn><subparagraph name="1" temporalId="s6_3_b_1" id="ID_1716968900535_013"><num value="1">(i)</num><content>relevant claims outstanding in respect of its general business with
+                        onshore risk which is direct business; and</content></subparagraph><subparagraph name="2" temporalId="s6_3_b_2" id="ID_1716968900535_014"><num value="2">(ii)</num><content>relevant claims outstanding in respect of its general business with
+                        onshore risk which is reinsurance business, multiplied by the determining
+                        factor applicable to the marine insurer.</content></subparagraph></paragraph></subsection></section><section startPeriod="2025-05-22" status="operational" reason="inEffect" name="s7" temporalId="s7" id="ID_1716968017883_010"><num value="7">7.</num><heading>Assets in Hong Kong for Lloyd’s</heading><subsection name="1" temporalId="s7_1" id="ID_1716968935606_001"><num value="1">(1)</num><content>Pursuant to <ref>section 25A(3)(b)</ref> of the Ordinance, the value of the assets Lloyd’s must maintain in Hong Kong in respect of its insurance liabilities (as referred to in <ref>section 25A(3A)</ref> of the Ordinance) in its current financial year, must not be less than the amount determined in accordance with subrule (2) as at the end of its last preceding financial year.</content></subsection><subsection name="2" temporalId="s7_2" id="ID_1716968935609_002"><num value="2">(2)</num><leadIn>The amount mentioned in subrule (1) is the sum of—</leadIn><paragraph name="a" temporalId="s7_2_a" id="ID_1716968935610_003"><num value="a">(a)</num><content>Lloyd’s insurance liabilities, net of reinsurance, for its general business
+                    with onshore risk carried on in or from Hong Kong, valued in accordance with
+                        <ref>rule 7</ref> of the Insurance (Lloyd’s)
+                    Rules (<ref href="/hk/cap41V">Cap. 41 sub. leg. V</ref>); and
+                    <sourceNote>(<ref href="hk/2025/er1">E.R. 1 of
+                    2025</ref>)</sourceNote></content></paragraph><paragraph name="b" temporalId="s7_2_b" id="ID_1716968935612_004"><num value="b">(b)</num><content>the onshore prescribed capital amount for Lloyd’s determined in accordance with subrule (3).</content></paragraph></subsection><subsection name="3" temporalId="s7_3" id="ID_1716968935613_005"><num value="3">(3)</num><leadIn>For the purposes of subrule <ref>(2)(b)</ref>, the onshore prescribed capital
+                amount for Lloyd’s is the prescribed capital amount that would be determined in
+                accordance with the Insurance (Lloyd’s)
+                Rules (<ref href="/hk/cap41V">Cap. 41 sub. leg. V</ref>), as being the
+                applicable amount in column 3 of the Table in <ref>rule 8</ref> of those Rules,
+                based on the applicable case in column 2 of that Table, but with the following
+                modifications to column 2 of that Table—
+                <sourceNote>(<ref href="hk/2025/er1">E.R. 1 of
+                2025</ref>)</sourceNote></leadIn><paragraph name="a" temporalId="s7_3_a" id="ID_1716968935616_006"><num value="a">(a)</num><content>the reference to “net premium” in column 2 of that Table refers to Lloyd’s
+                    net premium in respect of its general business with onshore risk; and</content></paragraph><paragraph name="b" temporalId="s7_3_b" id="ID_1716968935617_007"><num value="b">(b)</num><content>the reference to “relevant claims outstanding” in column 2 of that Table
+                    refers to Lloyd’s relevant claims outstanding in respect of its general business
+                    with onshore risk.</content></paragraph></subsection></section><section startPeriod="2024-07-01" status="operational" reason="inEffect" name="s8" temporalId="s8" id="ID_1716968018181_011"><num value="8">8.</num><heading>Determining factor</heading><subsection name="1" temporalId="s8_1" id="ID_1716969007050_001"><num value="1">(1)</num><leadIn>For the purposes of <ref>rules 5(2)</ref> and <ref>6(2)</ref> and
+                    <ref>(3)</ref>,
+                the determining factor applicable to an authorized insurer to which those rules
+                apply is—</leadIn><paragraph name="a" temporalId="s8_1_a" id="ID_1716969007056_002"><num value="a">(a)</num><leadIn>100% if the insurer is—</leadIn><subparagraph name="1" temporalId="s8_1_a_1" id="ID_1716969007057_003"><num value="1">(i)</num><content>not assigned with any financial strength rating by a prescribed rating
+                        agency; or</content></subparagraph><subparagraph name="2" temporalId="s8_1_a_2" id="ID_1716969007058_004"><num value="2">(ii)</num><content>assigned at least one financial strength rating by a prescribed rating
+                        agency that is a rating in category 3 of the Table;</content></subparagraph></paragraph><paragraph name="b" temporalId="s8_1_b" id="ID_1716969007059_005"><num value="b">(b)</num><content>50% if the insurer is assigned at least one financial strength rating by a
+                    prescribed rating agency that is a rating in category 2 of the Table and none of
+                    the insurer’s other assigned financial strength ratings is in category 3 of the
+                    Table;</content></paragraph><paragraph name="c" temporalId="s8_1_c" id="ID_1716969007060_006"><num value="c">(c)</num><content>0% if the insurer is only assigned one financial strength rating by a
+                    prescribed rating agency and that is a rating in category 1 of the Table, or if
+                    the insurer is assigned more than one financial strength rating by a prescribed
+                    rating agency, all such ratings are in category 1 of the Table; or</content></paragraph><paragraph name="d" temporalId="s8_1_d" id="ID_1716969007061_007"><num value="d">(d)</num><leadIn>if the Authority has served a notice on the insurer pursuant to subrule (2)
+                    and that notice remains valid, the percentage stated in that notice.</leadIn><text class="left_indent_60 align_center" alignTo="T1" name="T1"><b>Table</b></text><text class="left_indent_60 align_center"><b>Financial Strength Rating
+                    Category</b><marker role="blank-line"></marker></text><leadIn>
+                    
+                    <table xmlns="http://www.w3.org/1999/xhtml" width="100%" class="left_indent_59 repeat_header">
+                        <colgroup>
+                            
+                            <col width="20%"></col>
+                            
+                            <col width="20%"></col>
+                            
+                            <col width="20%"></col>
+                            
+                            <col width="20%"></col>
+                            
+                            <col width="20%"></col>
+                        </colgroup>
+                        <thead>
+                            <tr class="break_rows">
+                                
+                                <td class="align_left valign_bottom cellpadding_right_5">
+                                    
+                                    <p class="align_left">Column 1</p>
+                                </td>
+                                
+                                <td class="valign_bottom cellpadding_right_5">
+                                    <p class="align_center">Column 2</p>
+                                </td>
+                                
+                                <td class="valign_bottom cellpadding_right_5">
+                                    <p class="align_center">Column 3</p>
+                                </td>
+                                
+                                <td class="valign_bottom cellpadding_right_5">
+                                    <p class="align_center">Column 4</p>
+                                </td>
+                                
+                                <td class="valign_bottom cellpadding_right_5">
+                                    <p class="align_center">Column 5</p>
+                                </td>
+                            </tr>
+                            <tr class="break_rows">
+                                
+                                <td class="align_left valign_bottom cellpadding_right_5">
+                                    
+                                    <p class="align_left">Rating agency</p>
+                                </td>
+                                
+                                <td class="valign_bottom cellpadding_right_5">
+                                    <p class="align_center">S&amp;P Global Ratings</p>
+                                </td>
+                                
+                                <td class="valign_bottom cellpadding_right_5">
+                                    <p class="align_center">Moody’s Investors Service</p>
+                                </td>
+                                
+                                <td class="valign_bottom cellpadding_right_5">
+                                    <p class="align_center">Fitch Ratings</p>
+                                </td>
+                                
+                                <td class="valign_bottom cellpadding_right_5">
+                                    <p class="align_center">A.M. Best Company, Inc.</p>
+                                </td>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr class="break_rows">
+                                
+                                <td class="align_left cellpadding_right_5">
+                                    
+                                    <p class="below_space_between_line_12 align_left">Financial
+                                        Strength Rating—category 1</p>
+                                </td>
+                                
+                                <td class="align_left cellpadding_right_5">
+                                    <p class="align_justified">AAA</p>
+                                    <p class="align_justified">AA+</p>
+                                    <p class="align_justified">AA</p>
+                                    <p class="align_justified">AA-</p>
+                                    <p class="align_justified">A+</p>
+                                    <p class="below_space_between_line_12 align_justified">A</p>
+                                </td>
+                                
+                                <td class="align_left cellpadding_right_5">
+                                    <p class="align_justified">Aaa</p>
+                                    <p class="align_justified">Aa1</p>
+                                    <p class="align_justified">Aa2</p>
+                                    <p class="align_justified">Aa3</p>
+                                    <p class="align_justified">A1</p>
+                                    <p class="align_justified">A2</p>
+                                </td>
+                                
+                                <td class="align_left cellpadding_right_5">
+                                    <p class="align_justified">AAA</p>
+                                    <p class="align_justified">AA+</p>
+                                    <p class="align_justified">AA</p>
+                                    <p class="align_justified">AA-</p>
+                                    <p class="align_justified">A+</p>
+                                    <p class="align_justified">A</p>
+                                </td>
+                                
+                                <td class="align_left cellpadding_right_5">
+                                    <p class="align_justified">A++</p>
+                                    <p class="align_justified">A+</p>
+                                    <p class="align_justified">A</p>
+                                </td>
+                            </tr>
+                            <tr>
+                                
+                                <td class="align_left cellpadding_right_5">
+                                    
+                                    <p class="below_space_between_line_12 align_left">Financial
+                                        Strength Rating—category 2</p>
+                                </td>
+                                
+                                <td class="align_left cellpadding_right_5">
+                                    <p class="align_justified">A-</p>
+                                </td>
+                                
+                                <td class="align_left cellpadding_right_5">
+                                    <p class="align_justified">A3</p>
+                                </td>
+                                
+                                <td class="align_left cellpadding_right_5">
+                                    <p class="align_justified">A-</p>
+                                </td>
+                                
+                                <td class="align_left cellpadding_right_5">
+                                    <p class="align_justified">A-</p>
+                                </td>
+                            </tr>
+                            <tr class="break_rows">
+                                
+                                <td class="align_left cellpadding_right_5">
+                                    
+                                    <p class="align_left">Financial Strength Rating—category 3</p>
+                                </td>
+                                
+                                <td class="align_left cellpadding_right_5">
+                                    <p>BBB+</p>
+                                    <p>BBB</p>
+                                    <p>BBB-</p>
+                                    <p>BB+</p>
+                                    <p>BB</p>
+                                    <p>BB-</p>
+                                    <p>B+</p>
+                                    <p>B</p>
+                                    <p>B-</p>
+                                    <p>CCC and lower</p>
+                                </td>
+                                
+                                <td class="align_left cellpadding_right_5">
+                                    <p>Baa1</p>
+                                    <p>Baa2</p>
+                                    <p>Baa3</p>
+                                    <p>Ba1</p>
+                                    <p>Ba2</p>
+                                    <p>Ba3</p>
+                                    <p>B1</p>
+                                    <p>B2</p>
+                                    <p>B3</p>
+                                    <p>Caa and lower</p>
+                                </td>
+                                
+                                <td class="align_left cellpadding_right_5">
+                                    <p>BBB+</p>
+                                    <p>BBB</p>
+                                    <p>BBB-</p>
+                                    <p>BB+</p>
+                                    <p>BB</p>
+                                    <p>BB-</p>
+                                    <p>B+</p>
+                                    <p>B</p>
+                                    <p>B-</p>
+                                    <p>CCC and lower</p>
+                                </td>
+                                
+                                <td class="align_left cellpadding_right_5">
+                                    <p>B++</p>
+                                    <p>B+</p>
+                                    <p>B</p>
+                                    <p>B-</p>
+                                    <p>C++</p>
+                                    <p>C+</p>
+                                    <p>C and lower</p>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </leadIn></paragraph></subsection><subsection name="2" temporalId="s8_2" id="ID_1716969007064_008"><num value="2">(2)</num><leadIn>For the purposes of subrule <ref>(1)(d)</ref>, if the Authority is of the opinion that, based on the financial status of the authorized insurer, a lower determining factor may be applied in place of that which would otherwise apply in accordance with subrule <ref>(1)(a)</ref> or (b), it may by written notice served on the insurer, assign the following determining factor to the insurer—</leadIn><paragraph name="a" temporalId="s8_2_a" id="ID_1716969007067_009"><num value="a">(a)</num><content>50%; or</content></paragraph><paragraph name="b" temporalId="s8_2_b" id="ID_1716969007068_010"><num value="b">(b)</num><content>0%.</content></paragraph></subsection><subsection name="3" temporalId="s8_3" id="ID_1716969007069_011"><num value="3">(3)</num><content>In assigning by written notice a lower determining factor to an authorized insurer under subrule (2), the Authority may limit the validity of the assignment in the notice to a specified period.</content></subsection><subsection name="4" temporalId="s8_4" id="ID_1716969007070_012"><num value="4">(4)</num><leadIn>In respect of any assignment of a determining factor under subrule (2), and irrespective of whether the assignment is subject to a specified period, the Authority may by notice in writing to an authorized insurer at any time—</leadIn><paragraph name="a" temporalId="s8_4_a" id="ID_1716969007071_013"><num value="a">(a)</num><content>if the insurer is assigned a 50% determining factor under subrule <ref>(2)(a)</ref>, revise the assignment to 0%;</content></paragraph><paragraph name="b" temporalId="s8_4_b" id="ID_1716969007073_014"><num value="b">(b)</num><content>if the insurer is assigned a 0% determining factor under subrule <ref>(2)(b)</ref>, revise the assignment to 50%;</content></paragraph><paragraph name="c" temporalId="s8_4_c" id="ID_1716969007076_015"><num value="c">(c)</num><content>extend the specified period given under subrule (3); or</content></paragraph><paragraph name="d" temporalId="s8_4_d" id="ID_1716969007076_016"><num value="d">(d)</num><content>if it appears to the Authority that it is no longer necessary for the assignment to remain in force, revoke the assignment.</content></paragraph></subsection></section><section startPeriod="2024-07-01" status="operational" reason="inEffect" name="s9" temporalId="s9" id="ID_1716968018610_012"><num value="9">9.</num><heading>Notification, filing and maintenance of assets in Hong Kong after change of determining factor</heading><subsection name="1" temporalId="s9_1" id="ID_1716969041189_001"><num value="1">(1)</num><content>For the purposes of <ref>section 17(1)</ref> of the Ordinance, if there is any change to a financial strength rating assigned to an authorized insurer by a prescribed rating agency and, by reason of such change the insurer is assigned a different determining factor in accordance with <ref>rule 8</ref>, the insurer must, within 1 month of such change, serve on the Authority a notice in writing stating the date of the change and its applicable determining factor resulting from the change.</content></subsection><subsection name="2" temporalId="s9_2" id="ID_1716969041192_002"><num value="2">(2)</num><content>For the purposes of <ref>section 17(1)</ref> of the Ordinance, an authorized insurer must, within 3 months of any change to its determining factor, report to the Authority, the amount of assets in Hong Kong it must maintain in accordance with <ref>rule 5</ref> or <ref>6</ref>, as the case may be.</content></subsection><subsection name="3" temporalId="s9_3" id="ID_1716969041196_003"><num value="3">(3)</num><content>For the purposes of <ref>section 25A(3)(b)</ref> of the Ordinance, where any change to the determining factor of an authorized insurer results in the insurer having to increase its assets in Hong Kong, the insurer must, within 3 months of such change, increase its amount of assets maintained in Hong Kong to the amount required under <ref>rule 5</ref> or <ref>6</ref>, as the case may be.</content></subsection></section></part></main></subLeg>

@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?><ordinance xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd" xml:lang="en"><meta><docName>Cap. 125</docName><docType>cap</docType><docNumber>125</docNumber><docStatus>In effect</docStatus><dc:identifier>/hk/cap125!en</dc:identifier><dc:date>2025-05-22</dc:date><dc:subject>legislation</dc:subject><dc:language>en</dc:language><dc:publisher>DoJ</dc:publisher><dc:rights>the Government of the Hong Kong Special Administrative Region</dc:rights></meta><main xml:lang="en" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd"><longTitle id="ID_1438402655054_002" name="longTitle" reason="inEffect" status="operational" temporalId="longTitle" startPeriod="2021-10-28">
+            <content>To provide for the apportionment of Government rent and premium.</content>
+        </longTitle><sourceNote>(Amended <ref href="/hk/1998/29">29 of 1998 s.
+            35</ref>)<marker role="blank-line"></marker><marker role="blank-line"></marker></sourceNote><commencementNote>[8 May 1970]</commencementNote><sourceNote>(Format changes—<ref href="hk/2021/er5">E.R. 5 of 2021</ref>)</sourceNote><part id="ID_1438402655070_002" name="P1" reason="inEffect" startPeriod="2021-10-28" status="operational" temporalId="P1"><num value="1">Part
+            I</num><heading>Preliminary</heading><section id="ID_1438402655070_004" name="s1" reason="inEffect" startPeriod="2021-10-28" status="operational" temporalId="s1"><num value="1">1.</num><heading>Short title</heading><text>This Ordinance may be cited as the <shortTitle>Government Rent and Premium
+                                (Apportionment) Ordinance</shortTitle>.</text><sourceNote>(Amended <ref href="/hk/1998/29">29 of 1998 s. 36</ref>)</sourceNote></section><section id="ID_1438402655085_002" name="s2" reason="inEffect" startPeriod="2021-10-28" status="operational" temporalId="s2"><num value="2">2.</num><heading>Interpretation</heading><leadIn>In this Ordinance, unless the context otherwise requires—</leadIn><def name="DeterminedAnnualInstalmentOfPremium"><term>determined
+                annual instalment of
+            premium</term>
+                (<term xml:lang="zh-Hant-HK">已釐定的每年的地價分期付款</term>) means the sum determined by the
+            Director of Lands under <ref>section 5</ref> or <ref>12</ref> as the annual instalment
+            of premium payable in respect of a section or a relevant interest;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1993/8">8 of 1993 s. 3</ref>; <ref href="/hk/1993/ln291">L.N. 291 of 1993</ref>)</sourceNote></def><def name="DeterminedGovernmentRent"><term>determined
+                Government
+            rent</term>
+                (<term xml:lang="zh-Hant-HK">已釐定的地稅</term>) means the sum determined by the Director
+            of Lands under <ref>section 5</ref> or <ref>12</ref> as the Government rent payable in
+            respect of a section or a relevant interest;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1993/8">8 of 1993 s. 3</ref>; <ref href="/hk/1993/ln291">L.N. 291 of 1993</ref>; <ref href="/hk/1998/29">29 of 1998
+                    s. 105</ref>)</sourceNote></def><def name="ExistingBuilding">
+            <leadIn><term>existing
+                    building</term>
+                    (<term xml:lang="zh-Hant-HK">現有建築物</term>) means a building standing on a lot or
+                section—</leadIn>
+            <paragraph id="ID_1438411149905_012" name="a" temporalId="s2_a"><num value="a">(a)</num><content>the Government lease of which has been renewed in accordance with a proviso
+                    for renewal contained therein or pursuant to a statutory provision, or has been
+                    regranted subject to payment of a premium by
+                    instalments;</content></paragraph>
+            <paragraph id="ID_1438411149905_020" name="b" temporalId="s2_b"><num value="b">(b)</num><content>a relevant interest in which was created or agreed to be created under an
+                    instrument registered in the Land Registry before 1 August 1970; and</content></paragraph>
+            <paragraph id="ID_1438411149905_028" name="c" temporalId="s2_c"><num value="c">(c)</num><content>in respect of which no instrument containing a basis of apportionment of
+                    the principal Government rent reserved under the new Government lease or of the
+                    annual instalment of premium payable in respect of that relevant interest has
+                    been registered in the Land Registry;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1973/29">29 of 1973 s. 2</ref>. Amended <ref href="/hk/1993/8">8 of 1993 s. 2</ref>; <ref href="/hk/1998/29">29 of 1998 s. 105</ref>)</sourceNote></content></paragraph>
+        </def><def name="Lot">
+            <leadIn><term>lot</term>
+                    (<term xml:lang="zh-Hant-HK">地段</term>) means—</leadIn>
+            <paragraph id="ID_1438411149905_042" name="a" temporalId="s2_a"><num value="a">(a)</num><content>any piece or parcel of ground the subject of a Government lease; and<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1998/29">29 of
+                            1998 s. 105</ref>)</sourceNote></content></paragraph>
+            <paragraph id="ID_1438411149921_006" name="b" temporalId="s2_b"><num value="b">(b)</num><content>a section which, by virtue of <ref>section 8(3)</ref> or <ref>27(2)</ref>,
+                    is deemed to be a lot;</content></paragraph>
+        </def><def name="Owner">
+            <leadIn><term>owner</term>
+                    (<term xml:lang="zh-Hant-HK">擁有人</term>), in relation to a section or a relevant
+                interest, means—</leadIn>
+            <paragraph id="ID_1438411149921_020" name="a" temporalId="s2_a"><num value="a">(a)</num><content>the person whose name is registered in the Land Registry as that of the
+                    owner or one of the owners of the section or relevant interest; and</content></paragraph>
+            <paragraph id="ID_1438411149921_028" name="b" temporalId="s2_b"><num value="b">(b)</num><content>a mortgagee under a mortgage which is registered in the Land Registry;
+                    <sourceNote>(Amended <ref href="/hk/1993/8">8 of 1993 s.
+                    2</ref>)</sourceNote></content></paragraph>
+        </def><def name="Premium">
+            <leadIn><term>premium</term>
+                    (<term xml:lang="zh-Hant-HK">地價</term>) means any sum, other than Government
+                rent, required to be paid to the Government as a condition or in consideration of—
+                <sourceNote>(Amended <ref href="/hk/1998/29">29 of 1998 s.
+                105</ref>)</sourceNote></leadIn>
+            <paragraph id="ID_1438411149921_042" name="a" temporalId="s2_a"><num value="a">(a)</num><content>the grant, renewal or continuance of a Government lease;</content></paragraph>
+            <paragraph id="ID_1438411149921_050" name="b" temporalId="s2_b"><num value="b">(b)</num><content>consent to the assignment of a Government lease or of any rights under a
+                    Government lease; or</content></paragraph>
+            <paragraph id="ID_1438411149921_058" name="c" temporalId="s2_c"><num value="c">(c)</num><content>the extension or variation of a Government lease;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1998/29">29 of 1998 s.
+                            105</ref>)</sourceNote></content></paragraph>
+        </def><def name="PrincipalGovernmentRent"><term>principal
+                Government
+            rent</term>
+                (<term xml:lang="zh-Hant-HK">主要地稅</term>) means the Government rent payable in
+            respect of a lot;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1998/29">29 of 1998 s. 105</ref>)</sourceNote></def><def name="PrincipalPremium"><term>principal
+                premium</term>
+                (<term xml:lang="zh-Hant-HK">主要地價</term>) means the premium payable in respect of a
+            lot;</def><def name="RelevantInterest"><term>relevant
+                interest</term>
+                (<term xml:lang="zh-Hant-HK">有關權益</term>) means the undivided share in the lot on
+            which a building stands, the owner of which share, as between himself and the owners of
+            the other undivided shares in that lot, is entitled under the terms of an instrument
+            registered in the Land Registry to exclusive possession of premises in that building;
+            <sourceNote>(Amended <ref href="/hk/1993/8">8 of 1993 s.
+            2</ref>)</sourceNote></def><def name="Section"><term>section</term>
+                (<term xml:lang="zh-Hant-HK">分段</term>) means any portion or division of a lot,
+            which portion or division has been assigned, alienated or retained for the whole of the
+            term or interest created by the Government lease of the lot by or under an instrument
+            which is registered in the Land Registry.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1993/8">8 of 1993 s. 2</ref>; <ref href="/hk/1998/29">29 of 1998 s. 105</ref>)</sourceNote></def></section><section id="ID_1438402655101_002" name="s3" reason="inEffect" startPeriod="2025-05-22" status="operational" temporalId="s3"><num value="3">3.</num><heading>Application</heading><subsection id="ID_1438411149968_056" name="1A" temporalId="s3_1A"><num value="1A">(1A)</num><paragraph id="ID_1438411149968_060" name="a" temporalId="s3_1A_a"><num value="a">(a)</num><leadIn>Subject to paragraph (b), this Ordinance does not apply to any interest in
+                    land held under an applicable lease within the meaning of the Government Rent
+                    (Assessment and Collection) Ordinance (<ref href="/hk/cap515">Cap. 515</ref>) as
+                    from—</leadIn><subparagraph id="ID_1438411149983_006" name="i" temporalId="s3_1A_a_i"><num value="i">(i)</num><content>in the case of an applicable lease extended by <ref>section 6</ref> of
+                        the New Territories Leases (Extension) Ordinance (<ref href="/hk/cap150">Cap. 150</ref>), 28 June 1997;</content></subparagraph><subparagraph id="ID_1438411149983_014" name="ii" temporalId="s3_1A_a_ii"><num value="ii">(ii)</num><content>in the case of an interest held under an applicable lease which was
+                        exempted from liability to pay Government rent under the Government Rent
+                        (Assessment and Collection) Ordinance (<ref href="/hk/cap515">Cap.
+                        515</ref>), the date on which the exemption ceases to apply;</content></subparagraph><subparagraph id="ID_1720686320331_001" name="2a" temporalId="s3_1A_a_2a"><num value="2a">(iia)</num><content>in the case of an applicable lease extended by
+                            <ref>section
+                            12</ref>
+                        of the Extension of Government Leases Ordinance
+                            (<ref href="/hk/cap648">Cap.
+                        648</ref>),
+                        the date on which the lease is so extended; or <sourceNote>(Added <ref href="/hk/2024/14">14 of 2024
+                            s.25</ref>. Amended <ref href="hk/2025/er1">E.R. 1 of
+                            2025</ref>)</sourceNote></content></subparagraph><subparagraph id="ID_1438411149983_022" name="iii" temporalId="s3_1A_a_iii"><num value="iii">(iii)</num><content>in the case of an applicable lease under which there is an express
+                        obligation to pay an annual rent of 3% of the rateable value from time to
+                        time of the land leased, the date specified in the lease as the date from
+                        which the rent is payable.</content></subparagraph></paragraph><paragraph id="ID_1548400592666_002" name="b" temporalId="s3_1A_b"><num value="b">(b)</num><content>Nothing in paragraph (a) shall affect any right or liability already
+                    acquired or incurred in respect of any interest referred to in that paragraph
+                    under or by virtue of any provision of this Ordinance at any time before this
+                    Ordinance ceases to apply to such interest by virtue of that paragraph.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1997/53">53 of
+                            1997 s. 55</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438411149983_036" name="1" temporalId="s3_1"><num value="1">(1)</num><leadIn>Subject to subsection (1A), this Ordinance does not apply to land in the New
+                Territories unless the land—  <sourceNote>(Amended <ref href="/hk/1997/53">53 of
+                        1997 s. 55</ref>)</sourceNote></leadIn><paragraph id="ID_1438411149999_006" name="a" temporalId="s3_1_a"><num value="a">(a)</num><content>has been exempted from Part II of the New Territories Ordinance (<ref href="/hk/cap97">Cap. 97</ref>) under <ref>section 7</ref> thereof;
+                    or</content></paragraph><paragraph id="ID_1438411149999_014" name="b" temporalId="s3_1_b"><num value="b">(b)</num><content>is declared to be subject to this Ordinance by the Chief Executive by
+                    notice in the Gazette.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/2000/3">3 of 2000 s. 3</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438411149999_020" name="2" temporalId="s3_2"><num value="2">(2)</num><content>A notice under subsection <ref>(1)(b)</ref> may specify the date from which the
+                land shall be subject to this Ordinance.</content></subsection></section><section id="ID_1438402655116_002" name="s4" reason="inEffect" startPeriod="2021-10-28" status="operational" temporalId="s4"><num value="4">4.</num><heading>Power of Chief Executive to give directions to Director of Lands</heading><sourceNote>(Amended <ref href="/hk/1993/8">8 of 1993 s. 3</ref>; <ref href="/hk/1993/ln291">L.N. 291 of 1993</ref>)</sourceNote><subsection id="ID_1438411150030_011" name="1" temporalId="s4_1"><num value="1">(1)</num><content>The Chief Executive may give to the Director of
+                Lands
+                and any public officer such directions as he thinks fit with
+                respect to the exercise or performance of their powers, functions and duties under
+                this Ordinance, either generally or in any particular case.</content></subsection><subsection id="ID_1438411150030_019" name="2" temporalId="s4_2"><num value="2">(2)</num><content>The Director of Lands and every public officer shall, in the exercise or
+                performance of his powers, functions and duties under this Ordinance, comply with
+                any directions given by the Chief Executive under subsection (1).</content></subsection><sourceNote>(Amended <ref href="/hk/1993/8">8 of 1993 s. 3</ref>; <ref href="/hk/1993/ln291">L.N. 291 of 1993</ref>; <ref href="/hk/2000/3">3 of 2000 s. 3</ref>)</sourceNote></section></part><part id="ID_1438402655132_002" name="P2" reason="inEffect" startPeriod="2021-10-28" status="operational" temporalId="P2"><num value="2">Part
+            II</num><heading>Apportionment
+            on
+            Sections</heading><section id="ID_1438402655148_001" name="s5" reason="inEffect" startPeriod="2021-10-28" status="operational" temporalId="s5"><num value="5">5.</num><heading>Power to apportion on section</heading><leadIn>Subject to any directions given by the Chief Executive under <ref>section 4</ref>,
+            the Director of Lands may, if he thinks fit, either of his own motion or on the
+            application of the owner, determine in accordance with this
+                Ordinance—  <sourceNote>(Amended <ref href="/hk/1993/8">8 of 1993 s. 3</ref>; <ref href="/hk/1993/ln291">L.N. 291 of 1993</ref>; <ref href="/hk/2000/3">3 of 2000
+                    s. 3</ref>)</sourceNote></leadIn><paragraph id="ID_1438411150061_019" name="a" temporalId="s5_a"><num value="a">(a)</num><content>the Government rent payable in respect of a section; and<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1998/29">29 of 1998 s.
+                    105</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411150061_027" name="b" temporalId="s5_b"><num value="b">(b)</num><content>where the principal premium is payable by instalments, the annual instalment of
+                that premium payable in respect of a section.</content></paragraph></section><section id="ID_1438402655148_003" name="s6" reason="inEffect" startPeriod="2021-10-28" status="operational" temporalId="s6"><num value="6">6.</num><heading>Apportionment of Government rent</heading><subsection id="ID_1438411150077_040" name="1" temporalId="s6_1"><num value="1">(1)</num><leadIn>If the Director of Lands decides in accordance with <ref>section 5</ref> to
+                determine the Government rent payable in respect of a section, then, subject to
+                subsection (2), the Government rent payable in respect of that section shall be
+                determined by the Director of Lands in the following manner, that is to say—
+                <sourceNote>(Amended <ref href="/hk/1993/8">8 of 1993 s. 3</ref>; <ref href="/hk/1993/ln291">L.N. 291 of 1993</ref>; <ref href="/hk/1998/29">29 of
+                        1998 s. 105</ref>)</sourceNote></leadIn><paragraph id="ID_1438411150077_048" name="a" temporalId="s6_1_a"><num value="a">(a)</num><content>in accordance with any apportionment of the principal Government rent
+                    appearing in the Government Rent Roll; or</content></paragraph><paragraph id="ID_1438411150077_056" name="b" temporalId="s6_1_b"><num value="b">(b)</num><content>in accordance with any apportionment of the principal Government rent made
+                    in an instrument which is registered in the Land Registry; or
+                    <sourceNote>(Amended <ref href="/hk/1993/8">8 of 1993 s.
+                    2</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411150093_006" name="c" temporalId="s6_1_c"><num value="c">(c)</num><content>if there is no such apportionment as is referred to in paragraph (a) or
+                    (b), so that it bears the same proportion to the principal Government rent as
+                    the area of the section bears to the area of the lot.</content></paragraph></subsection><subsection id="ID_1438411150093_013" name="2" temporalId="s6_2"><num value="2">(2)</num><leadIn>The Director of Lands shall add to the Government rent determined in accordance
+                with subsection (1)—
+                <sourceNote>(Amended <ref href="/hk/1993/8">8 of 1993 s. 3</ref>; <ref href="/hk/1993/ln291">L.N. 291 of 1993</ref>; <ref href="/hk/1998/29">29 of
+                        1998 s. 105</ref>)</sourceNote></leadIn><paragraph id="ID_1438411150093_021" name="a" temporalId="s6_2_a"><num value="a">(a)</num><content>such sum as may be necessary to make the same an even number of dollars;
+                    and</content></paragraph><paragraph id="ID_1438411150093_029" name="b" temporalId="s6_2_b"><num value="b">(b)</num><content>a further sum of $2,</content></paragraph><continued>and the determined Government rent payable in respect of the section shall be
+                the sum so ascertained. </continued></subsection><sourceNote>(Amended <ref href="/hk/1998/29">29 of 1998 s. 105</ref>)</sourceNote></section><section id="ID_1438402655163_002" name="s7" reason="inEffect" startPeriod="2021-10-28" status="operational" temporalId="s7"><num value="7">7.</num><heading>Apportionment of premium on section</heading><subsection id="ID_1438411150124_011" name="1" temporalId="s7_1"><num value="1">(1)</num><leadIn>If the Director of Lands decides in accordance with <ref>section 5</ref> to
+                determine the annual instalment of premium payable in respect of a section, then,
+                subject to subsection (2), the annual instalment of premium payable in respect of
+                that section shall be determined by the Director of Lands in the following manner,
+                that is to say—
+                <sourceNote>(Amended <ref href="/hk/1993/8">8 of 1993 s. 3</ref>; <ref href="/hk/1993/ln291">L.N. 291 of
+                1993</ref>)</sourceNote></leadIn><paragraph id="ID_1438411150124_019" name="a" temporalId="s7_1_a"><num value="a">(a)</num><content>in accordance with any apportionment of the annual instalment of the
+                    principal premium made in an instrument which is registered in the Land
+                    Registry; or<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1993/8">8 of 1993 s. 2</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411150124_027" name="b" temporalId="s7_1_b"><num value="b">(b)</num><content>if there is no such apportionment as is referred to in paragraph (a), so
+                    that it bears the same proportion to the annual instalment of the principal
+                    premium as the area of the section bears to the area of the lot.</content></paragraph></subsection><subsection id="ID_1438411150124_034" name="2" temporalId="s7_2"><num value="2">(2)</num><leadIn>The Director of Lands shall add to the annual instalment of premium determined
+                in accordance with subsection (1)—
+                <sourceNote>(Amended <ref href="/hk/1993/8">8 of 1993 s. 3</ref>; <ref href="/hk/1993/ln291">L.N. 291 of
+                1993</ref>)</sourceNote></leadIn><paragraph id="ID_1438411150124_042" name="a" temporalId="s7_2_a"><num value="a">(a)</num><content>such sum as may be necessary to make the same an even number of dollars;
+                    and</content></paragraph><paragraph id="ID_1438411150139_006" name="b" temporalId="s7_2_b"><num value="b">(b)</num><content>a further sum of $10,</content></paragraph><continued>and the determined annual instalment of premium payable in respect of the
+                section shall be the sum so ascertained.</continued></subsection></section><section id="ID_1438402655179_002" name="s8" reason="inEffect" startPeriod="2021-10-28" status="operational" temporalId="s8"><num value="8">8.</num><heading>Effect of apportionment on section</heading><subsection id="ID_1438411150155_025" name="1" temporalId="s8_1"><num value="1">(1)</num><content>With effect from the publication in the Gazette of notice under <ref>section
+                    22(1)</ref>, the owner of the section shall hold the same as if there had been
+                granted to him a separate Government lease of the section for the residue of the
+                term of years created by the Government lease of the lot, containing, so far as they
+                are applicable thereto, the covenants (other than the covenants to pay the
+                Government rent and the premium, if any), stipulations, exceptions, reservations,
+                provisos, powers and conditions contained in the said Government lease of the
+                lot.</content></subsection><subsection id="ID_1438411150171_005" name="2" temporalId="s8_2"><num value="2">(2)</num><leadIn>There shall be deemed to be included in such separate Government lease of the section—
+                <sourceNote>(Amended <ref href="/hk/1998/29">29 of 1998 s.
+                105</ref>)</sourceNote></leadIn><paragraph id="ID_1438411150171_013" name="a" temporalId="s8_2_a"><num value="a">(a)</num><content>a covenant to pay the determined Government rent to the Government as from
+                    the day up to which the principal Government rent has been paid; and</content></paragraph><paragraph id="ID_1438411150171_021" name="b" temporalId="s8_2_b"><num value="b">(b)</num><content>a covenant to pay the determined annual instalment of premium, if any, to
+                    the Government as from the day when the last annual instalment of<inline class="width_3"> </inline>the principal premium which has been paid became
+                    due.</content></paragraph></subsection><subsection id="ID_1438411150171_028" name="3" temporalId="s8_3"><num value="3">(3)</num><content>A section which is by virtue of subsection (1) held as if a separate Government
+                lease thereof had been granted shall be deemed to be a lot for the purposes of this
+                Ordinance.</content></subsection><subsection id="ID_1438411150186_005" name="4" temporalId="s8_4"><num value="4">(4)</num><content>Nothing in this section shall affect any right or liability acquired or
+                incurred by the Government or the owner of the section under the Government lease of
+                the lot prior to the publication in the Gazette of notice under <ref>section
+                    22(1)</ref>, save that as from the day referred to in subsection
+                    <ref>(2)(a)</ref> or (b), as the case may be, any such liability of the owner of
+                the section to pay the principal Government rent or the principal premium, if any,
+                to the Government shall determine.</content></subsection><sourceNote>(Amended <ref href="/hk/1998/29">29 of 1998 s. 105</ref>)</sourceNote></section><section id="ID_1438402655194_002" name="s9" reason="inEffect" startPeriod="2021-10-28" status="operational" temporalId="s9"><num value="9">9.</num><heading>Saving of Government lease of lot</heading><sourceNote>(Amended <ref href="/hk/1998/29">29 of 1998 s. 105</ref>)</sourceNote><text>Save in so far as the same is necessarily affected by the fact that a section is by
+            virtue of <ref>section 8</ref> held as if the separate Government lease referred to in
+            that section had been granted and save as otherwise provided in this Ordinance, the
+            Government lease of the lot shall continue in full force and effect in respect of any
+            part of the lot which continues to be held thereunder.</text><sourceNote>(Amended <ref href="/hk/1998/29">29 of 1998 s. 105</ref>)</sourceNote></section><section id="ID_1438402655210_001" name="s10" reason="inEffect" startPeriod="2021-10-28" status="operational" temporalId="s10"><num value="10">10.</num><heading>Area of lot or section</heading><subsection id="ID_1438411150233_032" name="1" temporalId="s10_1"><num value="1">(1)</num><content>For the purpose of determining the area of any lot or section, the Director of
+                Lands may accept any statement as to such area contained in a Government lease or
+                other instrument which is registered in the Land Registry or in any plan annexed to
+                or endorsed on any such Government lease or instrument.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1993/8">8 of 1993
+                        s.
+                        2</ref>)</sourceNote></content></subsection><subsection id="ID_1438411150233_040" name="2" temporalId="s10_2"><num value="2">(2)</num><content>If the Director of Lands considers that the area of a lot or section which
+                requires to be ascertained for the purpose of determining the Government rent
+                payable in respect of a section is uncertain, he may have such lot or section
+                    surveyed.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1982/ln76">L.N. 76 of
+                    1982</ref>)</sourceNote></content></subsection><subsection id="ID_1438411150249_005" name="3" temporalId="s10_3"><num value="3">(3)</num><leadIn>A certificate—</leadIn><paragraph id="ID_1438411150249_013" name="a" temporalId="s10_3_a"><num value="a">(a)</num><content>purporting to be signed by the Director of Lands or a public officer
+                    authorized by him for the purposes of this section;
+                    and</content></paragraph><paragraph id="ID_1438411150249_021" name="b" temporalId="s10_3_b"><num value="b">(b)</num><content>specifying the area of a lot or section ascertained by a survey pursuant to
+                    subsection
+                    (2),</content></paragraph><continued>shall be conclusive evidence for the purposes of this Ordinance of the area
+                of the lot or section.</continued></subsection><sourceNote>(Amended <ref href="/hk/1986/ln94">L.N. 94 of 1986</ref>; <ref href="/hk/1993/8">8 of 1993 s. 3
+                &amp;16</ref>; <ref href="/hk/1993/ln291">L.N. 291 of
+            1993</ref>; <ref href="/hk/1998/25">29 of 1998 s. 105</ref>)</sourceNote></section></part><part id="ID_1438402655226_001" name="P3" reason="inEffect" startPeriod="2021-10-28" status="operational" temporalId="P3"><num value="3">Part
+            III</num><heading>Apportionment
+            on
+            Relevant
+            Interests</heading><section id="ID_1438402655226_003" name="s11" reason="inEffect" startPeriod="2021-10-28" status="operational" temporalId="s11"><num value="11">11.</num><heading>Cases in which Government rent or premium to be treated as apportioned in
+            registered instrument</heading><leadIn>For the purposes of this Part—</leadIn><paragraph id="ID_1438411150280_019" name="a" temporalId="s11_a"><num value="a">(a)</num><leadIn>the principal Government rent shall be treated as apportioned in an instrument
+                which is registered in the Land Registry only if— <sourceNote>(Amended <ref href="/hk/1993/8">8 of 1993 s. 2</ref>; <ref href="/hk/1998/29">29 of 1998 s. 105</ref>)</sourceNote></leadIn><subparagraph id="ID_1438411150280_027" name="i" temporalId="s11_a_i"><num value="i">(i)</num><content>a sum is specified in such instrument as the share of the principal
+                    Government rent which is payable in respect of the relevant interest; or<inline class="width_3"> </inline></content></subparagraph><subparagraph id="ID_1438411150280_035" name="ii" temporalId="s11_a_ii"><num value="ii">(ii)</num><content>the share of the principal Government rent which is payable in respect of
+                    the relevant interest is expressed in such instrument to be a specified fraction
+                    of the principal Government rent or such share is otherwise ascertainable from
+                    the terms of such instrument; and<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1998/29">29 of 1998 s.
+                            105</ref>)</sourceNote></content></subparagraph></paragraph><paragraph id="ID_1438411150295_006" name="b" temporalId="s11_b"><num value="b">(b)</num><leadIn>the annual instalment of the principal premium shall be treated as apportioned
+                in an instrument which is registered in the Land Registry only if—
+                <sourceNote>(Amended <ref href="/hk/1993/8">8 of 1993 s.
+                2</ref>)</sourceNote></leadIn><subparagraph id="ID_1438411150295_014" name="i" temporalId="s11_b_i"><num value="i">(i)</num><content>a sum is specified in such instrument as the share of the annual instalment
+                    of the principal premium which is payable in respect of the relevant interest;
+                    or</content></subparagraph><subparagraph id="ID_1438411150295_022" name="ii" temporalId="s11_b_ii"><num value="ii">(ii)</num><content>the share of the annual instalment of the principal premium which is
+                    payable in respect of the relevant interest is expressed in such instrument to
+                    be a specified fraction of the annual instalment of the principal premium or
+                    such share is otherwise ascertainable from the terms of such
+                    instrument.</content></subparagraph></paragraph></section><section id="ID_1438402655241_002" name="s12" reason="inEffect" startPeriod="2021-10-28" status="operational" temporalId="s12"><num value="12">12.</num><heading>Power to apportion on relevant interest</heading><leadIn>Subject to any directions given by the Chief Executive under <ref>section 4</ref>,
+            the Director of Lands may, if he thinks fit, either of his own motion or on the
+            application of the owner, determine in accordance with this
+                Ordinance—  <sourceNote>(Amended <ref href="/hk/1993/8">8 of 1993 s. 3</ref>; <ref href="/hk/1993/ln291">L.N. 291 of 1993</ref>; <ref href="/hk/2000/3">3 of 2000
+                    s. 3</ref>)</sourceNote></leadIn><paragraph id="ID_1438411150327_019" name="a" temporalId="s12_a"><num value="a">(a)</num><content>the Government rent payable in respect of a relevant interest;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1998/29">29 of
+                        1998 s. 105</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411150327_027" name="b" temporalId="s12_b"><num value="b">(b)</num><content>where the principal premium is payable by instalments, the annual instalment of
+                that premium payable in respect of a relevant interest.</content></paragraph></section><section id="ID_1438402655257_001" name="s13" reason="inEffect" startPeriod="2021-10-28" status="operational" temporalId="s13"><num value="13">13.</num><heading>Apportionment of Government rent on relevant interest</heading><subsection id="ID_1438411150342_011" name="1" temporalId="s13_1"><num value="1">(1)</num><leadIn>If the Director of Lands decides in accordance with <ref>section 12</ref> to
+                determine the Government rent payable in respect of a relevant interest, then,
+                subject to subsection (2), and <ref>section 14A</ref>, the Government rent payable
+                in respect of that relevant interest shall be determined by the Director of Lands in
+                the following manner, that is to
+                    say— <sourceNote>(Amended <ref href="/hk/1973/29">29 of 1973 s.
+                    3</ref>; <ref href="/hk/1993/8">8 of 1993 s. 3</ref>; <ref href="/hk/1993/ln291">L.N.
+                        291 of 1993</ref>)</sourceNote></leadIn><paragraph id="ID_1438411150342_019" name="a" temporalId="s13_1_a"><num value="a">(a)</num><content>in accordance with any apportionment of the principal Government rent made
+                    in an instrument which is registered in the Land Registry; or
+                    <sourceNote>(Amended <ref href="/hk/1993/8">8 of 1993 s.
+                    2</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411150342_027" name="b" temporalId="s13_1_b"><num value="b">(b)</num><content>if there is no such apportionment as is referred to in paragraph (a), so
+                    that it bears the same proportion to the principal Government rent as the
+                    relevant interest bears to the aggregate of the relevant interests.</content></paragraph></subsection><subsection id="ID_1438411150358_005" name="2" temporalId="s13_2"><num value="2">(2)</num><leadIn>The Director of Lands shall add to the Government rent determined in accordance
+                with subsection (1)—
+                <sourceNote>(Amended <ref href="/hk/1993/8">8 of 1993 s. 3</ref>; <ref href="/hk/1993/ln291">L.N. 291 of
+                1993</ref>)</sourceNote></leadIn><paragraph id="ID_1438411150358_013" name="a" temporalId="s13_2_a"><num value="a">(a)</num><content>such sum as may be necessary to make the same an even number of dollars;
+                    and</content></paragraph><paragraph id="ID_1438411150358_021" name="b" temporalId="s13_2_b"><num value="b">(b)</num><content>a further sum of $2,</content></paragraph><continued>and the determined Government rent payable in respect of the relevant
+                interest shall be the sum so ascertained.</continued></subsection><sourceNote>(Amended <ref href="/hk/1998/29">29 of 1998 s. 105</ref>)</sourceNote></section><section id="ID_1438402655257_003" name="s14" reason="inEffect" startPeriod="2021-10-28" status="operational" temporalId="s14"><num value="14">14.</num><heading>Apportionment of premium on relevant interest</heading><subsection id="ID_1438414871083_004" name="1" temporalId="s14_1"><num value="1">(1)</num><leadIn>If the Director of Lands decides in accordance with <ref>section 12</ref> to
+                determine the annual instalment of premium payable in respect of a relevant
+                interest, then, subject to subsection (2), and <ref>section 14A</ref>, the annual
+                instalment of premium payable in respect of that relevant interest shall be
+                determined by the Director of Lands in the following manner, that is to
+                    say— <sourceNote>(Amended <ref href="/hk/1973/29">29 of 1973 s.
+                    4</ref>; <ref href="/hk/1993/8">8 of 1993 s. 3</ref>; <ref href="/hk/1993/ln291">L.N.
+                        291 of 1993</ref>)</sourceNote></leadIn><paragraph id="ID_1438414871083_012" name="a" temporalId="s14_1_a"><num value="a">(a)</num><content>in accordance with any apportionment of the annual instalment of the
+                    principal premium made in an instrument which is registered in the Land
+                    Registry; or<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1993/8">8 of 1993 s. 2</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438414871099_005" name="b" temporalId="s14_1_b"><num value="b">(b)</num><content>if there is no such apportionment as is referred to in paragraph (a), so
+                    that it bears the same proportion to the annual instalment of the principal
+                    premium as the relevant interest bears to the aggregate of the relevant
+                    interests.</content></paragraph></subsection><subsection id="ID_1438414871099_012" name="2" temporalId="s14_2"><num value="2">(2)</num><leadIn>The Director of Lands shall add to the annual instalment of premium determined
+                in accordance with subsection (1)—
+                <sourceNote>(Amended <ref href="/hk/1993/8">8 of 1993 s. 3</ref>; <ref href="/hk/1993/ln291">L.N. 291 of
+                1993</ref>)</sourceNote></leadIn><paragraph id="ID_1438414871099_020" name="a" temporalId="s14_2_a"><num value="a">(a)</num><content>such sum as may be necessary to make the same an even number of dollars;
+                    and</content></paragraph><paragraph id="ID_1438414871099_028" name="b" temporalId="s14_2_b"><num value="b">(b)</num><content>a further sum of $10,</content></paragraph><continued>and the determined annual instalment of premium payable in respect of the
+                relevant interest shall be the sum so ascertained.</continued></subsection></section><section id="ID_1438402655288_001" name="s14A" reason="inEffect" startPeriod="2021-10-28" status="operational" temporalId="s14A"><num value="14A">14A.</num><heading>Apportionment of Government rent and premium on relevant interest in respect of an
+            existing building</heading><subsection id="ID_1438411150420_011" name="1" temporalId="s14A_1"><num value="1">(1)</num><content>If the Director of Buildings and Lands decides in accordance with <ref>section
+                    12</ref> to determine the Government rent or the annual instalment of premium
+                payable in respect of a relevant interest in a lot or section on which an existing
+                building stands, <ref>section 13</ref> or <ref>14</ref> shall not apply, and the
+                Government rent, or the annual instalment of premium if any, payable in respect of
+                that relevant interest shall be determined by the Director of Buildings and Lands so
+                that it bears the same proportion to the principal Government rent, or to the annual
+                instalment of the principal premium if any, as the value of the relevant interest
+                bears to the value of the aggregate of the relevant interests.</content></subsection><subsection id="ID_1438411150436_005" name="2" temporalId="s14A_2"><num value="2">(2)</num><content>The value of a relevant interest for the purpose of this section shall be such
+                value as may be determined by the Director of Lands.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1982/ln76">L.N. 76 of 1982</ref>; <ref href="/hk/1986/ln94">L.N. 94 of 1986</ref>; <ref href="/hk/1993/8">8 of
+                        1993 s. 17</ref>; <ref href="/hk/1993/ln291">L.N. 291 of
+                    1993</ref>)</sourceNote></content></subsection><subsection id="ID_1438411150436_013" name="3" temporalId="s14A_3"><num value="3">(3)</num><leadIn>The Director of Buildings and Lands shall add to the Government rent or the
+                annual instalment of premium determined in accordance with subsection (1)—
+                <sourceNote>(Amended <ref href="/hk/1993/8">8 of 1993 s.
+                3</ref>)</sourceNote></leadIn><paragraph id="ID_1438411150436_021" name="a" temporalId="s14A_3_a"><num value="a">(a)</num><content>such sum as may be necessary to make the same an even number of dollars;
+                    and</content></paragraph><paragraph id="ID_1438411150451_006" name="b" temporalId="s14A_3_b"><num value="b">(b)</num><content>a further sum of $10 or, if the Government rent which is determined in
+                    accordance with subsection (1) is in respect of a regranted Government lease, a
+                    further sum of $2,</content></paragraph><continued>and the determined Government rent, or the determined annual instalment of
+                premium if any, payable in respect of the relevant interest shall be the sum or sums
+                so ascertained. </continued></subsection><sourceNote>(Added <ref href="/hk/1973/29">29 of 1973 s. 5</ref>. Amended <ref href="/hk/1993/8">8 of 1993 s. 3</ref>; <ref href="/hk/1998/29">29 of 1998 s.
+                105</ref>)</sourceNote></section><section id="ID_1438402655288_003" name="s15" reason="inEffect" startPeriod="2021-10-28" status="operational" temporalId="s15"><num value="15">15.</num><heading>Effect of apportionment on relevant interest</heading><subsection id="ID_1438411150467_056" name="1" temporalId="s15_1"><num value="1">(1)</num><leadIn>With effect from the publication in the Gazette of notice under <ref>section
+                    22(2)</ref>—</leadIn><paragraph id="ID_1438411150467_064" name="a" temporalId="s15_1_a"><num value="a">(a)</num><leadIn>the owner of the relevant interest shall be liable to pay the determined
+                    Government rent to the Government—
+                    <sourceNote>(Amended <ref href="/hk/1998/29">29 of 1998 s.
+                        105</ref>)</sourceNote></leadIn><subparagraph id="ID_1438411150483_006" name="i" temporalId="s15_1_a_i"><num value="i">(i)</num><content>as from the day up to which the principal Government rent has been
+                        paid; or</content></subparagraph><subparagraph id="ID_1438411150483_014" name="ii" temporalId="s15_1_a_ii"><num value="ii">(ii)</num><content>where the Government rent payable in respect of another relevant
+                        interest of which the relevant interest at some time formed part has been
+                        determined under this Ordinance, as from the day up to which the determined
+                        Government rent payable in respect of that other relevant interest has been
+                        paid; and</content></subparagraph></paragraph><paragraph id="ID_1438411150483_021" name="b" temporalId="s15_1_b"><num value="b">(b)</num><content>any liability of the owner of the relevant interest in respect of the
+                    payment of the principal Government rent to the Government shall
+                    determine.</content></paragraph></subsection><subsection id="ID_1438411150483_028" name="2" temporalId="s15_2"><num value="2">(2)</num><leadIn>With effect from the publication in the Gazette of notice under <ref>section
+                    22(2)</ref>—
+                <sourceNote>(Amended <ref href="/hk/1998/29">29 of 1998 s.
+                105</ref>)</sourceNote></leadIn><paragraph id="ID_1438411150483_036" name="a" temporalId="s15_2_a"><num value="a">(a)</num><leadIn>the owner of the relevant interest shall be liable to pay the determined
+                    annual instalment of premium to the Government—</leadIn><subparagraph id="ID_1438411150483_044" name="i" temporalId="s15_2_a_i"><num value="i">(i)</num><content>as from the day on which the last annual instalment of the principal
+                        premium which has been paid became due; or</content></subparagraph><subparagraph id="ID_1438411150483_052" name="ii" temporalId="s15_2_a_ii"><num value="ii">(ii)</num><content>where the annual instalment of the principal premium payable in respect
+                        of another relevant interest of which the relevant interest at some time
+                        formed part has been determined under this Ordinance, as from the day on
+                        which the last determined annual instalment of premium which has been paid
+                        became due; and</content></subparagraph></paragraph><paragraph id="ID_1438411150498_006" name="b" temporalId="s15_2_b"><num value="b">(b)</num><content>any liability of the owner of the relevant interest in respect of the
+                    payment of the principal premium to the Government shall determine.</content></paragraph></subsection><sourceNote>(Amended <ref href="/hk/1998/29">29 of 1998 s. 105</ref>)</sourceNote></section><section id="ID_1438402655304_002" name="s16" reason="inEffect" startPeriod="2021-10-28" status="operational" temporalId="s16"><num value="16">16.</num><heading>Liability for payment of determined Government rent and premium where relevant
+            interests formed part of another relevant interest</heading><subsection id="ID_1438411150514_079" name="1" temporalId="s16_1"><num value="1">(1)</num><leadIn>Where—</leadIn><paragraph id="ID_1438411150514_087" name="a" temporalId="s16_1_a"><num value="a">(a)</num><content>a relevant interest at some time formed part of another relevant interest;
+                    and</content></paragraph><paragraph id="ID_1438411150529_006" name="b" temporalId="s16_1_b"><num value="b">(b)</num><content>the Government rent payable in respect of that other relevant interest has
+                    been determined under this Ordinance,</content></paragraph><continued>then, until the Government rent payable in respect of the relevant interest
+                is determined under this Ordinance, the owner thereof shall be liable to the
+                Government, jointly and severally with the owner of each other relevant interest
+                which at some time formed part of such other relevant interest, for the payment of
+                the determined Government rent payable in respect of such other relevant
+                interest.</continued></subsection><subsection id="ID_1438411150529_019" name="2" temporalId="s16_2"><num value="2">(2)</num><leadIn>Where—</leadIn><paragraph id="ID_1438411150529_027" name="a" temporalId="s16_2_a"><num value="a">(a)</num><content>a relevant interest at some time formed part of another relevant interest;
+                    and</content></paragraph><paragraph id="ID_1438411150529_035" name="b" temporalId="s16_2_b"><num value="b">(b)</num><content>the annual instalment of the principal premium payable in respect of that
+                    other relevant interest has been determined under this Ordinance,</content></paragraph><continued>then, until the annual instalment of the principal premium payable in respect
+                of the relevant interest is determined under this Ordinance, the owner thereof shall
+                be liable to the Government, jointly and severally with the owner of each other
+                relevant interest which at some time formed part of such other relevant interest,
+                for the payment of the determined annual instalment of premium payable in respect of
+                such other relevant interest.</continued></subsection><sourceNote>(Amended <ref href="/hk/1998/29">29 of 1998 s. 105</ref>)</sourceNote></section><section id="ID_1438402655319_002" name="s17" reason="inEffect" startPeriod="2021-10-28" status="operational" temporalId="s17"><num value="17">17.</num><heading>Saving of Government lease</heading><sourceNote>(Amended <ref href="/hk/1998/29">29 of 1998 s. 105</ref>)</sourceNote><text>Save in so far as the same is necessarily affected by the operation of <ref>section
+                15</ref> or <ref>16</ref>, the Government lease of the lot shall continue in full
+            force and effect.</text><sourceNote>(Amended <ref href="/hk/1998/29">29 of 1998 s. 105</ref>)</sourceNote></section></part><part id="ID_1438402655319_004" name="P4" reason="inEffect" startPeriod="2021-10-28" status="operational" temporalId="P4"><num value="4">Part
+            IV</num><heading>Apportionment
+            Procedure</heading><section id="ID_1438402655335_002" name="s18" reason="inEffect" startPeriod="2021-10-28" status="operational" temporalId="s18"><num value="18">18.</num><heading>Notice of intention to apportion on relevant interests</heading><leadIn>Where the Director of Lands proposes to exercise his powers under <ref>section
+                12</ref>, he shall cause to be published in the Gazette and affixed in a conspicuous
+            position in or on the building a notice specifying—  <sourceNote>(Amended <ref href="/hk/1993/8">8 of 1993 s. 3</ref>; <ref href="/hk/1993/ln291">L.N. 291 of
+                    1993</ref>)</sourceNote></leadIn><paragraph id="ID_1438411150592_019" name="a" temporalId="s18_a"><num value="a">(a)</num><content>the relevant interests in relation to which he proposes to exercise those
+                powers; and</content></paragraph><paragraph id="ID_1438411150592_027" name="b" temporalId="s18_b"><num value="b">(b)</num><content>a provisional determination of the Government rent, and of the annual
+                instalment of premium if any, payable in respect of each of the relevant
+                    interests.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1998/29">29 of 1998 s. 105</ref>)</sourceNote></content></paragraph></section><section id="ID_1438402655350_002" name="s19" reason="inEffect" startPeriod="2021-10-28" status="operational" temporalId="s19"><num value="19">19.</num><heading>Objection to exercise of
+            Director of
+            Lands’
+            powers under <ref>section 12</ref></heading><subsection id="ID_1438414871380_011" name="1" temporalId="s19_1"><num value="1">(1)</num><content>The owner of any relevant interest specified in the notice published in the
+                Gazette under <ref>section 18</ref> may object that the Director of Lands ought not
+                to exercise his powers under <ref>section 12</ref>.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1993/8">8 of 1993 s.
+                    3</ref>)</sourceNote></content></subsection><subsection id="ID_1438414871395_005" name="2" temporalId="s19_2"><num value="2">(2)</num><leadIn>An objection under subsection (1)—</leadIn><paragraph id="ID_1438414871395_013" name="a" temporalId="s19_2_a"><num value="a">(a)</num><content>shall be in writing and shall be lodged with the Director of Lands within 3
+                    months after the notice was published in the Gazette under <ref>section
+                    18</ref>; and<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1993/8">8 of 1993 s.
+                        18</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438414871395_021" name="b" temporalId="s19_2_b"><num value="b">(b)</num><content>shall contain particulars of the grounds on which the objection is
+                    made.</content></paragraph></subsection><subsection id="ID_1438414871395_028" name="3" temporalId="s19_3"><num value="3">(3)</num><content>The owners of not less than 75 per cent of the aggregate of the relevant
+                interests specified in the notice published in the Gazette under <ref>section
+                    18</ref> may object that the Director of Lands ought not to exercise his powers
+                under <ref>section 13(1)(b)</ref> or <ref>section 14(1)(b)</ref> or <ref>section
+                    14A</ref>.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1973/29">29 of 1973 s. 6</ref>; <ref href="/hk/1993/8">8 of 1993
+                        s.
+                    3</ref>)</sourceNote></content></subsection><subsection id="ID_1438414871411_005" name="4" temporalId="s19_4"><num value="4">(4)</num><content>An objection under subsection (3) shall be in writing and shall be lodged with
+                the Director of Lands within 3 months after the notice was published in the Gazette
+                under <ref>section 18</ref>. <sourceNote>(Amended <ref href="/hk/1993/8">8 of 1993
+                        s.
+                    18</ref>)</sourceNote></content></subsection><sourceNote>(Amended <ref href="/hk/1993/ln291">L.N. 291 of 1993</ref>)</sourceNote></section><section id="ID_1438402655366_001" name="s20" reason="inEffect" startPeriod="2021-10-28" status="operational" temporalId="s20"><num value="20">20.</num><heading>Director of Lands to have regard to objections</heading><sourceNote>(Amended <ref href="/hk/1993/8">8 of 1993 s. 3</ref>; <ref href="/hk/1993/ln291">L.N. 291 of 1993</ref>)</sourceNote><subsection id="ID_1438414871427_004" name="1" temporalId="s20_1"><num value="1">(1)</num><content>In deciding whether or not to exercise his powers under <ref>section 12</ref>,
+                the Director of Lands shall have regard to any relevant objection made under
+                    <ref>section 19(1)</ref>.</content></subsection><subsection id="ID_1438414871427_012" name="2" temporalId="s20_2"><num value="2">(2)</num><content>Where an objection has been made under <ref>section 19(3)</ref>, the Director
+                of Lands shall not, except in the manner provided by <ref>section 13(1)(a)</ref> or
+                    <ref>14(1)(a)</ref>, exercise his powers under <ref>section 12</ref> until after
+                the expiration of 6 months from the day of publication of the notice in the Gazette
+                under <ref>section 18</ref>.</content></subsection><sourceNote>(Amended <ref href="/hk/1993/8">8 of 1993 s. 3</ref>; <ref href="/hk/1993/ln291">L.N. 291 of 1993</ref>)</sourceNote></section><section id="ID_1438402655366_003" name="s21" reason="inEffect" startPeriod="2021-10-28" status="operational" temporalId="s21"><num value="21">21.</num><heading>Appeal in certain cases where Director of Lands decides not to exercise
+            powers</heading><subsection id="ID_1438411150685_011" name="1" temporalId="s21_1"><num value="1">(1)</num><content>Where the Director of Lands decides not to exercise his powers under
+                    <ref>section 5</ref> or <ref>12</ref> following an application by the owner of a
+                section or relevant interest, he shall give by post to the applicant notice of the
+                ground on which he decided not to exercise those
+                    powers.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1993/8">8 of 1993 s. 3</ref>; <ref href="/hk/1993/ln291">L.N. 291 of
+                1993</ref>)</sourceNote></content></subsection><subsection id="ID_1438411150685_019" name="2" temporalId="s21_2"><num value="2">(2)</num><content>Where the Director of Lands decides not to exercise his powers under
+                    <ref>section 12</ref> after notice has been published in the Gazette under
+                    <ref>section 18</ref>, he shall cause to be published in the Gazette and affixed
+                in a conspicuous position in or on the building notice of the ground on which he
+                decided not to exercise those powers.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1993/8">8 of 1993 s. 3</ref>; <ref href="/hk/1993/ln291">L.N. 291 of 1993</ref>)</sourceNote></content></subsection><subsection id="ID_1438411150685_027" name="3" temporalId="s21_3"><num value="3">(3)</num><content>Within 3 months after the giving of notice under subsection (1), the applicant
+                may appeal by way of petition to the Chief Executive in Council.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/2000/3">3 of 2000
+                        s. 3</ref>)</sourceNote></content></subsection><subsection id="ID_1438411150701_005" name="4" temporalId="s21_4"><num value="4">(4)</num><content>Within 3 months after the publication in the Gazette of notice under subsection
+                (2), the owner of any relevant interest may appeal by way of petition to the Chief
+                Executive in Council.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/2000/3">3 of 2000 s. 3</ref>)</sourceNote></content></subsection></section><section id="ID_1438402655382_002" name="s22" reason="inEffect" startPeriod="2021-10-28" status="operational" temporalId="s22"><num value="22">22.</num><heading>Notice of determined Government rent and determined annual instalment of
+            premium</heading><subsection id="ID_1438411150732_011" name="1" temporalId="s22_1"><num value="1">(1)</num><leadIn>Where, under <ref>section 5</ref>, the Director of Lands has determined the
+                Government rent, and the annual instalment of premium if any, payable in respect of
+                a section, he shall—
+                <sourceNote>(Amended <ref href="/hk/1993/8">8 of 1993 s. 3</ref>; <ref href="/hk/1993/ln291">L.N. 291 of 1993</ref>; <ref href="/hk/1998/29">29 of
+                        1998 s. 105</ref>)</sourceNote></leadIn><paragraph id="ID_1438411150732_019" name="a" temporalId="s22_1_a"><num value="a">(a)</num><content>cause notice of the determined Government rent, and determined annual
+                    instalment of premium if any, to be published in the Gazette; and</content></paragraph><paragraph id="ID_1438411150732_027" name="b" temporalId="s22_1_b"><num value="b">(b)</num><content>cause particulars of the determined Government rent, and determined annual
+                    instalment of premium if any, to be noted in the Land Registry records against
+                    the section.</content></paragraph></subsection><subsection id="ID_1438411150732_034" name="2" temporalId="s22_2"><num value="2">(2)</num><leadIn>Where, under <ref>section 12</ref>, the Director of Lands has determined the
+                Government rent, and the annual instalment of premium if any, payable in respect of
+                a relevant interest, he shall—
+                <sourceNote>(Amended <ref href="/hk/1993/8">8 of 1993 s. 3</ref>; <ref href="/hk/1993/ln291">L.N. 291 of 1993</ref>; <ref href="/hk/1998/29">29 of
+                        1998 s. 105</ref>)</sourceNote></leadIn><paragraph id="ID_1438411150732_042" name="a" temporalId="s22_2_a"><num value="a">(a)</num><content>cause notice of the determined Government rent, and the determined annual
+                    instalment of premium if any, to be published in the Gazette; and</content></paragraph><paragraph id="ID_1438411150748_006" name="b" temporalId="s22_2_b"><num value="b">(b)</num><content>cause particulars of the determined Government rent, and the determined
+                    annual instalment of premium if any, to be noted in the Land Registry records
+                    against the relevant interest.</content></paragraph></subsection><sourceNote>(Amended <ref href="/hk/1993/8">8 of 1993
+                s.
+                2</ref>; <ref href="/hk/1998/29">29 of 1998 s. 105</ref>)</sourceNote></section></part><part id="ID_1438402655397_002" name="P5" reason="inEffect" startPeriod="2021-10-28" status="operational" temporalId="P5"><num value="5">Part
+            V</num><heading>Miscellaneous</heading><section id="ID_1438402655413_001" name="s23" reason="inEffect" startPeriod="2021-10-28" status="operational" temporalId="s23"><num value="23">23.</num><heading>Cancellation of apportionment where divided building demolished or
+            destroyed</heading><subsection id="ID_1438411150779_011" name="1" temporalId="s23_1"><num value="1">(1)</num><content>Where the building is wholly or partly demolished or destroyed, the Director of
+                Lands may, if he thinks fit, cancel any determination under <ref>section 12</ref> of
+                the Government rent, and the annual instalment of premium if any, payable in respect
+                of a relevant interest.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1993/8">8 of 1993 s.
+                    3</ref>; <ref href="/hk/1998/29">29 of 1998 s.
+                    37</ref>)</sourceNote></content></subsection><subsection id="ID_1438411150779_019" name="2" temporalId="s23_2"><num value="2">(2)</num><content>The Director of Lands shall cause notice of the cancellation of any such
+                determination to be published in the
+                    Gazette.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1993/8">8 of 1993 s.
+                    3</ref>)</sourceNote></content></subsection><subsection id="ID_1438411150779_027" name="3" temporalId="s23_3"><num value="3">(3)</num><leadIn>With effect from the publication in the Gazette of notice under subsection (2),
+                the Government rent, and the premium if any, payable in respect of the lot shall be paid—
+                <sourceNote>(Amended <ref href="/hk/1998/29">29 of 1998 s.
+                37</ref>)</sourceNote></leadIn><paragraph id="ID_1438411150779_035" name="a" temporalId="s23_3_a"><num value="a">(a)</num><content>in the case of a lot, other than a section which by virtue of <ref>section
+                        8(3)</ref> or <ref>27(2)</ref> is deemed to be a lot, in accordance with the
+                    Government lease of the lot; and</content></paragraph><paragraph id="ID_1438411150779_043" name="b" temporalId="s23_3_b"><num value="b">(b)</num><content>in the case of a section which by virtue of <ref>section 8(3)</ref> or
+                        <ref>27(2)</ref> is deemed to be a lot, in accordance with the covenant for
+                    the payment thereof deemed by virtue of <ref>section 8(2)</ref> of this
+                    Ordinance or <ref>section 9(1)</ref> of the repealed Crown Rents (Apportionment)
+                    Ordinance
+                    (Cap.
+                    125,
+                    1964 Ed.), as the case may be, to be included in the separate Government lease
+                    of the section.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1998/29">29 of 1998 s. 37</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438411150795_005" name="4" temporalId="s23_4"><num value="4">(4)</num><leadIn>A certificate—</leadIn><paragraph id="ID_1438411150795_013" name="a" temporalId="s23_4_a"><num value="a">(a)</num><content>purporting to be signed by the Director of Lands or a public officer
+                    authorized by him for the purposes of this section; and<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1982/ln76">L.N. 76 of
+                            1982</ref>; <ref href="/hk/1986/ln94">L.N. 94 of
+                        1986</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411150795_021" name="b" temporalId="s23_4_b"><num value="b">(b)</num><content>specifying that a building has been wholly or partly demolished or
+                    destroyed, </content></paragraph><continued>shall be conclusive evidence for the purposes of this Ordinance that the
+                building has been wholly or partly demolished or destroyed.</continued></subsection><sourceNote>(Amended <ref href="/hk/1993/ln291">L.N. 291 of 1993</ref>)</sourceNote></section><section id="ID_1438402655428_001" name="s24" reason="inEffect" startPeriod="2021-10-28" status="operational" temporalId="s24"><num value="24">24.</num><heading>Correction of clerical errors</heading><text>The Director of Lands may at any time correct clerical or arithmetical errors in a
+            determination under <ref>section 5</ref> or <ref>12</ref>.</text><sourceNote>(Amended <ref href="/hk/1993/8">8 of 1993 s. 3</ref>; <ref href="/hk/1993/ln291">L.N. 291 of 1993</ref>)</sourceNote></section><section id="ID_1438402655428_003" name="s25" reason="inEffect" startPeriod="2021-10-28" status="operational" temporalId="s25"><num value="25">25.</num><heading>Covenants between owners not to be affected</heading><text>Neither <ref>section 8</ref> nor <ref>section 15</ref> shall affect any covenant or
+            agreement with respect to the payment of Government rent or premium, or both, contained
+            in an instrument which is registered in the Land Registry, but where the owner of a
+            section or a relevant interest pays the determined Government rent or the determined
+            annual instalment of premium to the Government his liability under such covenant or
+            agreement shall be discharged to the extent of such payment.</text><sourceNote>(Amended <ref href="/hk/1993/8">8 of 1993 s. 2</ref>; <ref href="/hk/1998/29">29
+                of 1998 s. 105</ref>)</sourceNote></section><section id="ID_1438402655444_001" name="s26" reason="inEffect" startPeriod="2021-10-28" status="operational" temporalId="s26"><num value="26">26.</num><heading>Delegation by Director of Lands</heading><sourceNote>(Amended <ref href="/hk/1993/8">8 of 1993 s. 3</ref>; <ref href="/hk/1993/ln291">L.N. 291 of 1993</ref>)</sourceNote><content>The powers, functions and duties conferred or imposed by this Ordinance on the
+            Director of Lands may be exercised or performed by any public officer authorized in
+            writing by the Director of Lands for the purposes of this Ordinance.</content><sourceNote>(Amended <ref href="/hk/1993/8">8 of 1993 s. 3</ref>; <ref href="/hk/1993/ln291">L.N. 291 of 1993</ref>)</sourceNote></section><section id="ID_1438402655460_001" name="s27" reason="inEffect" startPeriod="2021-10-28" status="operational" temporalId="s27"><num value="27">27.</num><heading>Transitional provisions</heading><subsection id="ID_1438411150904_018" name="1" temporalId="s27_1"><num value="1">(1)</num><content>Notwithstanding the repeal of the Crown Rents (Apportionment) Ordinance
+                (Cap.
+                125,
+                1964 Ed.), a determination thereunder of the Crown rent payable in respect of a
+                section shall, if it has been registered and notified in accordance with that
+                Ordinance, continue to have effect as if that Ordinance had not been
+                repealed.</content></subsection><subsection id="ID_1438411150904_026" name="2" temporalId="s27_2"><num value="2">(2)</num><content>A section which by virtue of <ref>section 9</ref> of the repealed Crown Rents
+                (Apportionment) Ordinance
+                (Cap.
+                125,
+                1964 Ed.) is held as if a separate Government lease thereof had been granted shall
+                be deemed to be a lot for the purposes of this Ordinance.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1998/29">29 of 1998 s.
+                    38</ref>)</sourceNote></content></subsection><subsection id="ID_1438411150919_005" name="3" temporalId="s27_3"><num value="3">(3)</num><content>For the purposes of <ref>section 24</ref>, a determination under the repealed
+                Crown Rents (Apportionment) Ordinance
+                (Cap.
+                125,
+                1964 Ed.) of the Crown rent payable in respect of a section shall be deemed to have
+                been made under <ref>section 5</ref>.</content></subsection></section></part></main></ordinance>

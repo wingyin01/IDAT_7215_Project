@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?><ordinance xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd" xml:lang="en"><meta><docName>Cap. 295</docName><docType>cap</docType><docNumber>295</docNumber><docStatus>In effect</docStatus><dc:identifier>/hk/cap295!en</dc:identifier><dc:date>2022-03-31</dc:date><dc:subject>legislation</dc:subject><dc:language>en</dc:language><dc:publisher>DoJ</dc:publisher><dc:rights>the Government of the Hong Kong Special Administrative Region</dc:rights></meta><main xml:lang="en" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd"><longTitle id="ID_1438402946338_001" name="longTitle" reason="inEffect" status="operational" temporalId="longTitle" startPeriod="2019-12-12">
+            <content>To consolidate and amend the law relating to dangerous
+                goods.<marker role="blank-line"></marker><marker role="blank-line"></marker></content>
+        </longTitle><commencementNote>[27 July 1956]</commencementNote><sourceNote>(Format changes—<ref href="hk/2019/er6">E.R. 6 of 2019</ref>)</sourceNote><part id="ID_1438402946338_003" name="P1" reason="inEffect" startPeriod="2019-12-12" status="operational" temporalId="P1"><num value="1">Part
+            I</num><heading>Preliminary</heading><sourceNote>(Added <ref href="/hk/1971/9">9 of 1971 s. 2</ref>)</sourceNote><section id="ID_1438402946353_002" name="s1" reason="inEffect" startPeriod="2019-12-12" status="operational" temporalId="s1"><num value="1">1.</num><heading>Short title</heading><content>This Ordinance may be cited as the <shortTitle>Dangerous Goods Ordinance</shortTitle>.</content></section><section id="ID_1438402946353_004" name="s2" reason="inEffect" startPeriod="2022-03-31" status="operational" temporalId="s2"><num value="2">2.</num><heading>Interpretation</heading><leadIn>In this Ordinance, unless the context otherwise requires—</leadIn><def name="Carrier"><term>carrier</term> (<term xml:lang="zh-Hant-HK">承運人</term>) includes
+            all persons carrying goods or passengers for hire by land or water;</def><def name="DangerousGoods"><term>dangerous goods</term> (<term xml:lang="zh-Hant-HK">危險品</term>) means any of the
+            substances,
+            materials or articles to which this Ordinance applies under
+                <ref>section 3</ref>;
+            <sourceNote>(Amended <ref href="hk/2002/4">4 of 2002 s. 2</ref> and <ref href="hk/2021/er5">E.R. 5 of 2021</ref>)</sourceNote></def><def name="Depot"><term>depot</term> (<term xml:lang="zh-Hant-HK">倉庫</term>) means any place
+            or vessel designated as a Government Explosives Depot under <ref>section
+                13A</ref>;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1971/9">9 of 1971 s. 3</ref>)</sourceNote></def><def name="Explosive">
+            
+            <leadIn><term>explosive</term> (<term xml:lang="zh-Hant-HK">爆炸品</term>)
+                means—</leadIn>
+            
+            <paragraph id="ID_1643180862392_001" name="a" temporalId="s2_a"><num value="a">(a)</num><leadIn>any solid or liquid substance or any mixture of solid or liquid substances,
+                    or both, which is—</leadIn><subparagraph id="ID_1643180862392_002" name="1" temporalId="s2_a_1"><num value="1">(i)</num><content>capable by chemical reaction in itself of producing gas at such a
+                        temperature and pressure and at such a speed as could cause damage to
+                        surroundings; or</content></subparagraph><subparagraph id="ID_1643180862392_003" name="2" temporalId="s2_a_2"><num value="2">(ii)</num><content>designed to produce an effect by heat, light, sound, gas or smoke, or a
+                        combination of these, as a result of
+                        non-detonative
+                        self-sustaining exothermic chemical reactions; or</content></subparagraph></paragraph>
+            <paragraph id="ID_1643180862392_004" name="b" temporalId="s2_b"><num value="b">(b)</num><content>any article containing any substance or mixture referred to in paragraph
+                    (a); <sourceNote>(Replaced <ref href="hk/2002/4">4 of 2002 s. 2</ref> and <ref href="hk/2021/er5">E.R. 5 of 2021</ref>)</sourceNote></content></paragraph>
+            
+            
+        </def><def name="IMDGCode"><term>IMDG Code</term> (<term xml:lang="zh-Hant-HK">《規則》</term>) means the
+            International Maritime Dangerous Goods Code published by the International Maritime
+            Organization, as amended or revised by the Organization from time to time;
+                <sourceNote>(Added <ref href="hk/2002/4">4 of 2002 s. 2</ref> and <ref href="hk/2021/er5">E.R. 5 of 2021</ref>)</sourceNote></def><def name="Licence"><term>licence</term> (<term xml:lang="zh-Hant-HK">牌照</term>) includes
+                permit;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1964/8">8
+                    of 1964 s. 2</ref>)</sourceNote></def><def name="LicensedPremises"><term>licensed premises</term> (<term xml:lang="zh-Hant-HK">領有牌照處所</term>) means any premises in which dangerous goods are permitted to be
+            manufactured or stored by virtue of a licence issued under this Ordinance;</def><def name="Manufacture">
+            <leadIn><term>manufacture</term> (<term xml:lang="zh-Hant-HK">製造</term>)—</leadIn>
+            <paragraph id="ID_1438411799522_040" name="a" temporalId="s2_a"><num value="a">(a)</num><content>includes process, compress, liquefy or otherwise alter the nature or form
+                    of any substance;</content></paragraph>
+            <paragraph id="ID_1438411799522_048" name="b" temporalId="s2_b"><num value="b">(b)</num><content>does not include assembling, mixing, compounding or installing for the
+                    preparation of materials within the meaning of pyrotechnic special effects
+                    material under the Entertainment Special Effects Ordinance (<ref href="/hk/cap560">Cap. 560</ref>) if the process is authorized by a
+                    discharge permit issued under that Ordinance;<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/2000/41">41 of 2000 s.
+                            61</ref>)</sourceNote></content></paragraph>
+        </def><def name="Occupier"><term>occupier</term> (<term xml:lang="zh-Hant-HK">佔用人</term>) includes
+            any number of persons and a body corporate and, in the case of any manufacture, includes
+            any person carrying on such manufacture;</def><def name="Owner"><term>owner</term> (<term xml:lang="zh-Hant-HK">擁有人</term>), in respect of
+            any vessel, includes a charterer and any person acting as agent for the owner;</def><def name="Owner"><term>owner</term> (<term xml:lang="zh-Hant-HK">擁有人</term>), in respect of
+            dangerous goods, includes any person acting as agent for the owner;</def><def name="Petroleum"><term>petroleum</term> (<term xml:lang="zh-Hant-HK">石油</term>)
+            includes crude petroleum, oil made from petroleum or from coal, shale, peat or other
+            bituminous substance, and other products of petroleum or of any of the above-mentioned
+            oils, and mixtures containing petroleum or any of the above-mentioned oils;</def><def name="ProhibitedGoods"><term>prohibited goods</term> (<term xml:lang="zh-Hant-HK">違禁品</term>) means any dangerous goods declared by any regulation made under
+                <ref>section 5</ref> to be prohibited goods for the purposes of this
+                Ordinance;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1959/8">8 of 1959 s. 2</ref>)</sourceNote></def><def name="Store"><term>store</term> (<term xml:lang="zh-Hant-HK">貯存</term>、<term xml:lang="zh-Hant-HK">貯存所</term>), when used as a verb, includes to have possession
+            or custody of or control over that to which the verb relates;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1964/24">24 of 1964 s.
+                2</ref>)</sourceNote></def><def name="ThisOrdinance"><term>this Ordinance</term> (<term xml:lang="zh-Hant-HK">本條例</term>) includes regulations made under <ref>section 5</ref>;</def><def name="Transit">
+            <leadIn><term>transit</term> (<term xml:lang="zh-Hant-HK">過境</term>), in relation to
+                cargo, means cargo which—</leadIn>
+            <paragraph id="ID_1438411799537_054" name="a" temporalId="s2_a"><num value="a">(a)</num><content>is brought into Hong Kong solely for the purpose of taking it out of Hong
+                    Kong; and</content></paragraph>
+            <paragraph id="ID_1438411799537_062" name="b" temporalId="s2_b"><num value="b">(b)</num><content>remains at all times in or on the vessel, aircraft or vehicle in or on
+                    which it is brought into Hong Kong;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1973/25">25 of 1973 s.
+                        2</ref>)</sourceNote></content></paragraph>
+        </def><def name="Vessel">
+            
+            <leadIn><term>vessel</term> (<term xml:lang="zh-Hant-HK">船隻</term>)
+                includes—</leadIn>
+            
+            
+            <paragraph id="ID_1643180862533_005" name="a" temporalId="s2_a"><num value="a">(a)</num><content> any ship, junk, boat, dynamically supported craft, seaplane, or any other
+                    description of vessel used in navigation; and </content></paragraph>
+            <paragraph id="ID_1643180862533_006" name="b" temporalId="s2_b"><num value="b">(b)</num><content>
+                    any other description of vessel in Hong Kong or in the waters of Hong Kong not
+                    used in navigation or not constructed or adapted for use in navigation;
+                    <sourceNote>(Replaced <ref href="hk/2002/4">4 of 2002 s. 2</ref> and <ref href="hk/2021/er5">E.R. 5 of 2021</ref>)</sourceNote></content></paragraph>
+            
+        </def><def name="WarehouseOwner"><term>warehouse owner</term> (<term xml:lang="zh-Hant-HK">貨倉擁有人</term>) includes any person owning or managing any warehouse, store, quay,
+            pier or other premises in which goods are deposited.</def></section><section id="ID_1438402946385_001" name="s3" reason="inEffect" startPeriod="2022-03-31" status="operational" temporalId="s3"><num value="3">3.</num><heading>Application</heading><subsection id="ID_1648009091804_001" name="1" temporalId="s3_1"><num value="1">(1)</num><leadIn>This Ordinance applies to—</leadIn><paragraph id="ID_1643598950466_001" name="a" temporalId="s3_1_a"><num value="a">(a)</num><content>explosives;</content></paragraph><paragraph id="ID_1643598950466_002" name="b" temporalId="s3_1_b"><num value="b">(b)</num><content>gases;</content></paragraph><paragraph id="ID_1643598950466_003" name="c" temporalId="s3_1_c"><num value="c">(c)</num><content>flammable liquids or flammable solids;</content></paragraph><paragraph id="ID_1643598950466_004" name="d" temporalId="s3_1_d"><num value="d">(d)</num><content>substances liable to spontaneous combustion;</content></paragraph><paragraph id="ID_1643598950466_005" name="e" temporalId="s3_1_e"><num value="e">(e)</num><content>substances that, in contact with water, emit flammable
+                                        gases;</content></paragraph><paragraph id="ID_1643598950466_006" name="f" temporalId="s3_1_f"><num value="f">(f)</num><content>oxidizing substances;</content></paragraph><paragraph id="ID_1643598950466_007" name="g" temporalId="s3_1_g"><num value="g">(g)</num><content>organic peroxides;</content></paragraph><paragraph id="ID_1643598950466_008" name="h" temporalId="s3_1_h"><num value="h">(h)</num><content>toxic substances;</content></paragraph><paragraph id="ID_1643598950466_009" name="1" temporalId="s3_1_1"><num value="1">(i)</num><content>infectious substances;</content></paragraph><paragraph id="ID_1643598950466_010" name="j" temporalId="s3_1_j"><num value="j">(j)</num><content>radioactive material;</content></paragraph><paragraph id="ID_1643598950466_011" name="k" temporalId="s3_1_k"><num value="k">(k)</num><content>corrosive substances; and</content></paragraph><paragraph id="ID_1643598950466_012" name="50" temporalId="s3_1_50"><num value="50">(l)</num><content>any substance, material and article to which this Ordinance
+                                        applies, as provided for by any regulation made under
+                                                <ref>section 5(1)(a)</ref>.</content></paragraph></subsection><subsection id="ID_1643598950466_013" name="b" temporalId="s3_b"><num value="b">(2)</num><leadIn>This Ordinance does not apply—</leadIn><paragraph id="ID_1643598950482_014" name="a" temporalId="s3_b_a"><num value="a">(a)</num><content>to any dangerous goods carried in the ships of war of the
+                                        Chinese People’s Liberation Army or in the ships of war of
+                                        any foreign state; or</content></paragraph><paragraph id="ID_1643598950482_015" name="b" temporalId="s3_b_b"><num value="b">(b)</num><content>subject to <ref>Part III</ref>, to any dangerous goods in
+                                        the possession and control of the State.</content></paragraph></subsection><sourceNote>(Replaced <ref href="hk/2021/29">29 of 2021
+                                s.
+                                3</ref>)</sourceNote></section><section id="ID_1438402946385_003" name="s4" reason="inEffect" startPeriod="2019-12-12" status="operational" temporalId="s4"><num value="4">4.</num><heading>Power of Chief Executive to give directions</heading><subsection id="ID_1438411799615_040" name="1" temporalId="s4_1"><num value="1">(1)</num><content>The Chief Executive may give such directions as he thinks fit (either generally
+                or in any particular case) with respect to the exercise or performance by any public
+                officer (other than a judge, a District Judge or a magistrate) of any powers,
+                functions and duties under this Ordinance.</content></subsection><subsection id="ID_1438411799631_005" name="2" temporalId="s4_2"><num value="2">(2)</num><content>A public officer shall, in the exercise or performance of any powers, functions
+                and duties under this Ordinance, comply with any directions given by the Chief
+                Executive under subsection (1).</content></subsection><sourceNote>(Added <ref href="/hk/1971/9">9 of 1971 s. 5</ref>. Amended <ref href="/hk/1999/71">71 of 1999 s. 3</ref>)</sourceNote></section><section id="ID_1438402946400_002" name="s5" reason="inEffect" startPeriod="2022-03-31" status="operational" temporalId="s5"><num value="5">5.</num><heading>Regulations</heading><subsection id="ID_1438411799647_011" name="1" temporalId="s5_1"><num value="1">(1)</num><leadIn>The Chief Executive in Council may by regulation provide
+                    for—  <sourceNote>(Amended <ref href="/hk/1999/71">71 of 1999 s.
+                    3</ref>)</sourceNote></leadIn><paragraph id="ID_1438411799647_019" name="a" temporalId="s5_1_a"><num value="a">(a)</num><content>the application of this Ordinance to any
+                    substances,
+                    materials and articles whatsoever;</content></paragraph><paragraph id="ID_1438411799647_027" name="b" temporalId="s5_1_b"><num value="b">(b)</num><leadIn>the
+                    exemption from the operation of this Ordinance or any part thereof of—
+                    </leadIn><subparagraph id="ID_1646710541287_001" name="1" temporalId="s5_1_b_1"><num value="1">(i)</num><leadIn>any—</leadIn><subparagraph id="ID_1646710541287_002" name="A" temporalId="s5_1_b_1_A"><num value="A">(A)</num><content>substance, material or article; or</content></subparagraph><subparagraph id="ID_1646710541287_003" name="B" temporalId="s5_1_b_1_B"><num value="B">(B)</num><content>group or description of substances, materials or
+                            articles,</content></subparagraph><continued>to which this Ordinance applies, or any quantity thereof;
+                        or</continued></subparagraph><subparagraph id="ID_1646710541287_004" name="2" temporalId="s5_1_b_2"><num value="2">(ii)</num><content>any group or description of persons,</content></subparagraph><continued>by reference generally or by reference to any circumstances as may be
+                    specified and subject to such terms and conditions as may be specified;
+                        <sourceNote>(Replaced <ref href="hk/2002/4">4 of 2002 s. 4</ref> and <ref href="hk/2021/er5">E.R. 5 of 2021</ref>)</sourceNote></continued></paragraph><paragraph id="ID_1646710541287_005" name="b" temporalId="s5_1_b"><num value="b">(ba)</num><leadIn>the application to or exemption from—</leadIn><subparagraph id="ID_1646710541287_006" name="1" temporalId="s5_1_b_1"><num value="1">(i)</num><content>any section of this Ordinance; or</content></subparagraph><subparagraph id="ID_1646710541287_007" name="2" temporalId="s5_1_b_2"><num value="2">(ii)</num><content>any provision of the regulations,</content></subparagraph><continued>in respect of dangerous goods on land or dangerous goods at sea;
+                        <sourceNote>(Added <ref href="hk/2002/4">4 of 2002 s. 4</ref> and <ref href="hk/2021/er5">E.R. 5 of 2021</ref>)</sourceNote></continued></paragraph><paragraph id="ID_1438411799647_035" name="c" temporalId="s5_1_c"><num value="c">(c)</num><content>the declaration of any dangerous goods to be prohibited goods for the
+                    purposes of this Ordinance;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1959/8">8 of 1959 s. 3</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411799647_043" name="d" temporalId="s5_1_d"><num value="d">(d)</num><content>the control of and the safety precautions which shall be taken in relation
+                    to the manufacture, possession, landing, shipment, transhipment,
+                    handling,
+                    loading, unloading, stowage, storage, carriage, movement, sale
+                    and use of dangerous
+                    goods;</content></paragraph><paragraph id="ID_1438411799647_051" name="e" temporalId="s5_1_e"><num value="e">(e)</num><content>the
+                    label,
+                    placard, mark or sign to be attached to any drum, tin,
+                    case, freight
+                    container or other package containing dangerous goods and the
+                    notices to be affixed to any premises containing dangerous goods and other
+                    methods of marking such goods or premises;</content></paragraph><paragraph id="ID_1438411799662_006" name="f" temporalId="s5_1_f"><num value="f">(f)</num><content>the tests to be applied for any purpose whatsoever to any dangerous goods
+                    or to any receptacle which has contained dangerous goods;</content></paragraph><paragraph id="ID_1438411799662_014" name="g" temporalId="s5_1_g"><num value="g">(g)</num><content>the manner in which any dangerous goods shall be packed;</content></paragraph><paragraph id="ID_1646710541333_008" name="b" temporalId="s5_1_b"><num value="b">(ga)</num><leadIn>the implementation of all or part of the IMDG Code, any other publication
+                    issued by the International Maritime Organization or any other international
+                    agreement dealing with dangerous goods, including the utilization of—</leadIn><subparagraph id="ID_1646710541333_009" name="1" temporalId="s5_1_b_1"><num value="1">(i)</num><content>a system of classification of dangerous goods;</content></subparagraph><subparagraph id="ID_1646710541333_010" name="2" temporalId="s5_1_b_2"><num value="2">(ii)</num><content>testing requirements used to determine whether or not a substance,
+                        material or article constitutes dangerous goods to which regulations should
+                        apply,</content></subparagraph><continued>contained in such code, publication or other international agreement;
+                        <sourceNote>(Added <ref href="hk/2002/4">4 of 2002 s. 4</ref> and <ref href="hk/2021/er5">E.R. 5 of 2021</ref>)</sourceNote></continued></paragraph><paragraph id="ID_1438411799662_022" name="h" temporalId="s5_1_h"><num value="h">(h)</num><content>requiring
+                    information
+                    and declaration to be furnished to such public
+                    officers and
+                    other persons as may be specified in respect of dangerous
+                    goods carried or to be loaded on any vessel, aircraft or vehicles, and the
+                    nature of such
+                    information
+                    and declaration;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1959/8">8 of 1959 s.
+                        3</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411799662_030" name="i" temporalId="s5_1_i"><num value="i">(i)</num><content>requiring such dangerous goods
+                    signals and
+                    warning signs as may be prescribed to be exhibited on any
+                    vessel or vehicle carrying or about to load dangerous goods;</content></paragraph><paragraph id="ID_1438411799662_038" name="j" temporalId="s5_1_j"><num value="j">(j)</num><content>requiring such port fire alarm signals as may be prescribed to be exhibited
+                    or made on an outbreak of fire on any vessel carrying dangerous goods;</content></paragraph><paragraph id="ID_1438411799662_046" name="k" temporalId="s5_1_k"><num value="k">(k)</num><content>the control of the blasting of stone, earth or other material, the
+                    precautions to be taken while such blasting takes place and the times during
+                    which such blasting may take place;</content></paragraph><paragraph id="ID_1438411799662_054" name="l" temporalId="s5_1_l"><num value="l">(l)</num><content>the use of any cinematograph or similar apparatus upon any premises which
+                    is not a place of public entertainment within the meaning of the Places of
+                    Public Entertainment Ordinance (<ref href="/hk/cap172">Cap.
+                    172</ref>);</content></paragraph><paragraph id="ID_1438411799678_006" name="m" temporalId="s5_1_m"><num value="m">(m)</num><content>the apprehension without a warrant of any person found committing any such
+                    dangerous offence as may be specified on licensed premises, for the purpose of
+                    conveying such person before a
+                    magistrate;</content></paragraph><paragraph id="ID_1646710541365_011" name="b" temporalId="s5_1_b"><num value="b">(ma)</num><leadIn>empowering the—</leadIn><subparagraph id="ID_1646710541365_012" name="1" temporalId="s5_1_b_1"><num value="1">(i)</num><content>Director of Marine, in respect of dangerous goods at sea; and</content></subparagraph><subparagraph id="ID_1646710541365_013" name="2" temporalId="s5_1_b_2"><num value="2">(ii)</num><content>Director of Fire Services, in respect of dangerous goods on
+                        land,</content></subparagraph><continued>to grant an exemption, in respect of a specific case or a specific
+                    person, from all or any of the provisions of this Ordinance, subject to such
+                    terms and conditions as the Director of Marine or the Director of Fire Services
+                    may specify; <sourceNote>(Added <ref href="hk/2002/4">4 of 2002 s. 4</ref> and <ref href="hk/2021/er5">E.R. 5 of 2021</ref>)</sourceNote></continued></paragraph><paragraph id="ID_1646710541365_014" name="b" temporalId="s5_1_b"><num value="b">(mb)</num><content>prohibiting or controlling the employment of any person or class of persons
+                    in connection with the manufacture, loading, unloading, shipment, transhipment,
+                    storage, carriage, movement, sale or use of dangerous goods, for the purpose of
+                    ensuring proper standards are maintained in the course of any such activity;
+                        <sourceNote>(Added <ref href="hk/2002/4">4 of 2002 s. 4</ref> and <ref href="hk/2021/er5">E.R. 5 of 2021</ref>)</sourceNote></content></paragraph><paragraph id="ID_1646710541380_015" name="b" temporalId="s5_1_b"><num value="b">(mc)</num><content>measures to be taken in the event of an emergency occurring while dangerous
+                    goods are being transported by a vehicle; <sourceNote>(Added <ref href="hk/2002/4">4 of 2002 s. 4</ref> and <ref href="hk/2021/er5">E.R. 5 of 2021</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411799678_014" name="n" temporalId="s5_1_n"><num value="n">(n)</num><leadIn>the
+                    following matters concerning a licence issued under this
+                    Ordinance—</leadIn><subparagraph id="ID_1646710541380_016" name="1" temporalId="s5_1_n_1"><num value="1">(i)</num><content>the terms and conditions of the licence;</content></subparagraph><subparagraph id="ID_1646710541380_017" name="2" temporalId="s5_1_n_2"><num value="2">(ii)</num><content>the public officer who may issue the licence;</content></subparagraph><subparagraph id="ID_1646710541380_018" name="3" temporalId="s5_1_n_3"><num value="3">(iii)</num><content>the fee for the licence; and</content></subparagraph><subparagraph id="ID_1646710541380_019" name="4" temporalId="s5_1_n_4"><num value="4">(iv)</num><content>the period for which the licence is valid; and <sourceNote>(Replaced <ref href="hk/2021/29">29 of 2021 s. 4</ref>)</sourceNote></content></subparagraph></paragraph><paragraph id="ID_1438411799678_022" name="o" temporalId="s5_1_o"><num value="o">(o)</num><sourceNote>(Repealed <ref href="hk/2021/29">29 of 2021 s. 4</ref>)</sourceNote></paragraph><paragraph id="ID_1438411799678_030" name="p" temporalId="s5_1_p"><num value="p">(p)</num><content>the better carrying out of the provisions of this Ordinance.</content></paragraph></subsection><subsection id="ID_1438411799678_037" name="2" temporalId="s5_2"><num value="2">(2)</num><content>
+                <leadIn>Regulations made under this section may provide that contravention of
+                    specified provisions of such regulations shall be an offence and may provide
+                    penalties therefor:</leadIn>
+                <proviso name="proviso" temporalId="s5_2_proviso">Provided that no penalty so
+                    provided shall exceed a fine
+                    at
+                    level 6 and imprisonment for 6 months.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1984/ln171">L.N. 171 of
+                            1984</ref>)</sourceNote></proviso>
+            </content><sourceNote>(Amended <ref href="hk/2002/4">4 of 2002 s. 4</ref> and <ref href="hk/2021/er5">E.R. 5 of 2021</ref>)</sourceNote></subsection></section><section id="ID_1643600814578_001" name="s5AA" temporalId="s5AA" startPeriod="2022-03-31" status="operational" reason="inEffect"><num value="5AA">5AA.</num><heading>Secretary for
+            Security may amend Schedules to regulations</heading><subsection id="ID_1643601369933_001" name="1" temporalId="s5AA_1"><num value="1">(1)</num><leadIn>Subsection (2) applies if any contents of a Schedule to a regulation made under
+                    <ref>section 5(1)</ref> relate to a matter described in—</leadIn><paragraph id="ID_1643601369933_002" name="a" temporalId="s5AA_1_a"><num value="a">(a)</num><content><ref>section 5(1)(a);</ref></content></paragraph><paragraph id="ID_1643601369933_003" name="b" temporalId="s5AA_1_b"><num value="b">(b)</num><content><ref>section 5(1)(b)</ref> (except subparagraph (ii));</content></paragraph><paragraph id="ID_1643601369933_004" name="c" temporalId="s5AA_1_c"><num value="c">(c)</num><content><ref>section 5(1)(ba)</ref>;</content></paragraph><paragraph id="ID_1643601369949_005" name="d" temporalId="s5AA_1_d"><num value="d">(d)</num><content><ref>section 5(1)(c);</ref></content></paragraph><paragraph id="ID_1643601369949_006" name="e" temporalId="s5AA_1_e"><num value="e">(e)</num><content><ref>section 5(1)(d);</ref></content></paragraph><paragraph id="ID_1643601369949_007" name="f" temporalId="s5AA_1_f"><num value="f">(f)</num><content><ref>section 5(1)(e);</ref></content></paragraph><paragraph id="ID_1643601369949_008" name="g" temporalId="s5AA_1_g"><num value="g">(g)</num><content><ref>section 5(1)(g);</ref> or</content></paragraph><paragraph id="ID_1643601369949_009" name="h" temporalId="s5AA_1_h"><num value="h">(h)</num><content><ref>section 5(1)(i);</ref></content></paragraph></subsection><subsection id="ID_1643601369949_010" name="b" temporalId="s5AA_b"><num value="b">(2)</num><content>Without limiting <ref>section 5(1)</ref>, the Secretary for Security may amend
+                the Schedule by notice published in the Gazette in so far as it relates to the
+                matter.</content></subsection><sourceNote>(Added <ref href="hk/2021/29">29 of 2021 s. 5</ref>)</sourceNote></section><section id="ID_1643183022551_001" name="s5A" temporalId="s5A" startPeriod="2022-03-31" status="operational" reason="inEffect"><num value="5A">5A.</num><heading>Codes of
+            practice</heading><subsection id="ID_1643184381354_001" name="b" temporalId="s5A_b"><num value="b">(1)</num><content>In this section, <term>Director</term> (<term xml:lang="zh-Hant-HK">處長</term>)
+                means the Director of Fire Services or the Director of Marine, as the case may
+                be.</content></subsection><subsection id="ID_1643184381354_002" name="b" temporalId="s5A_b"><num value="b">(2)</num><content>For the purpose of providing practical guidance in respect of any one or more
+                of the requirements of this Ordinance or of regulations made under this Ordinance,
+                the Director may issue such codes of practice (whether prepared by the Director or
+                not) as the Director considers appropriate.</content></subsection><subsection id="ID_1643184381354_003" name="b" temporalId="s5A_b"><num value="b">(3)</num><content>The Director may amend or revoke a code of practice issued by him under
+                subsection (2).</content></subsection><subsection id="ID_1643184381354_004" name="b" temporalId="s5A_b"><num value="b">(4)</num><content>Where the Director exercises a power under subsection (2) or (3), he shall, as
+                soon as may be reasonably practicable, publish notice thereof in the Gazette and the
+                notice shall be in such form as the Director considers appropriate.</content></subsection><subsection id="ID_1643184381354_005" name="b" temporalId="s5A_b"><num value="b">(5)</num><leadIn>A failure by any person to observe a provision of such a code shall not of
+                itself cause him to incur any criminal liability, but where—</leadIn><paragraph id="ID_1643184381354_006" name="a" temporalId="s5A_b_a"><num value="a">(a)</num><leadIn>in any criminal proceedings the defendant is alleged to have committed an
+                    offence either—</leadIn><subparagraph id="ID_1643184381354_007" name="1" temporalId="s5A_b_a_1"><num value="1">(i)</num><content>by reason of a contravention of or a failure to comply with, whether by
+                        act or omission, this Ordinance or regulations made under this Ordinance;
+                        or</content></subparagraph><subparagraph id="ID_1643184381354_008" name="2" temporalId="s5A_b_a_2"><num value="2">(ii)</num><content>by reason of a failure to discharge or perform a duty imposed by this
+                        Ordinance or such regulations; and</content></subparagraph></paragraph><paragraph id="ID_1643184381354_009" name="b" temporalId="s5A_b_b"><num value="b">(b)</num><content>the matter to which the alleged contravention or failure relates is one to
+                    which, in the opinion of the court, such a code relates,</content></paragraph><proviso>then subsection (6) shall apply as regards the proceedings.</proviso></subsection><subsection id="ID_1643184381354_010" name="b" temporalId="s5A_b"><num value="b">(6)</num><leadIn>In any criminal proceedings to which this subsection applies, the following
+                namely—</leadIn><paragraph id="ID_1643184381354_011" name="a" temporalId="s5A_b_a"><num value="a">(a)</num><content>compliance with a provision of a code found by the court to be relevant to
+                    a matter to which a contravention or failure alleged in the proceedings
+                    relates;</content></paragraph><paragraph id="ID_1643184381354_012" name="b" temporalId="s5A_b_b"><num value="b">(b)</num><content>a contravention of or failure to comply with, whether by act or omission,
+                    any such provision so found,</content></paragraph><proviso>may be relied on by any party to the proceedings as tending to establish or to
+                negative any liability which is in question in the proceedings.</proviso></subsection><subsection id="ID_1643184381354_013" name="b" temporalId="s5A_b"><num value="b">(7)</num><content>In any criminal proceedings, any document which purports to be a copy of a
+                particular code shall, in the absence of evidence to the contrary, be regarded by
+                the court as being a true copy of that code.</content></subsection><sourceNote>(Added <ref href="hk/2002/4">4 of 2002 s. 5</ref> and <ref href="hk/2021/er5">E.R. 5 of 2021</ref>)</sourceNote></section></part><part id="ID_1438402946416_001" name="P2" reason="inEffect" startPeriod="2019-12-12" status="operational" temporalId="P2"><num value="2">Part
+            II</num><heading>Control
+            of
+            Dangerous
+            Goods</heading><sourceNote>(Added <ref href="/hk/1971/9">9 of 1971 s. 6</ref>)</sourceNote><section id="ID_1438402946416_003" name="s6" reason="inEffect" startPeriod="2019-12-12" status="operational" temporalId="s6"><num value="6">6.</num><heading>Licence required for
+            manufacture,
+            etc. of dangerous goods</heading><subsection id="ID_1438411799756_004" name="1" temporalId="s6_1"><num value="1">(1)</num><content>
+                <leadIn>Except under and in accordance with a licence granted under this Ordinance,
+                    no person shall manufacture, store, convey or use any dangerous goods:</leadIn>
+                <proviso name="proviso" temporalId="s6_1_proviso">
+                    <leadIn>Provided that, except as may be otherwise provided by regulations made
+                        under <ref>section 5</ref>, nothing in this subsection shall be construed to
+                        apply to any dangerous goods—  <sourceNote>(Amended <ref href="/hk/1990/49">49 of 1990 s. 38</ref>)</sourceNote></leadIn>
+                    <paragraph id="ID_1438411799756_019" name="a" temporalId="s6_1_a"><num value="a">(a)</num><content>while in the course of transit as cargo in any vessel, aircraft or
+                            vehicle; or</content></paragraph>
+                    <paragraph id="ID_1438411799756_027" name="b" temporalId="s6_1_b"><num value="b">(b)</num><content>while being loaded into or discharged from any vessel by any person
+                            or his servants or agents, licensed for that purpose under this
+                            Ordinance; or</content></paragraph>
+                    <paragraph id="ID_1438411799756_035" name="c" temporalId="s6_1_c"><num value="c">(c)</num><content>while being loaded onto or discharged from any aircraft or vehicle;
+                            or</content></paragraph>
+                    <paragraph id="ID_1438411799756_043" name="d" temporalId="s6_1_d"><num value="d">(d)</num><content>in respect of any possession of, or dealing in, such goods by any
+                            person which is authorized by a licence under <ref>section 27</ref> of
+                            the Firearms and Ammunition Ordinance (<ref href="/hk/cap238">Cap.
+                                238</ref>) or to which that Ordinance does not apply by virtue of
+                            any provision (except <ref>sections 9</ref> and <ref>10</ref>) in Part
+                            II thereof.<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/1981/68">68 of 1981 s.
+                            56</ref>)</sourceNote></content></paragraph>
+                </proviso>
+            </content></subsection><subsection id="ID_1438411799771_005" name="2" temporalId="s6_2"><num value="2">(2)</num><content>Without prejudice to the other provisions of this Ordinance, this section, and
+                regulations made under <ref>section 5</ref> which relate to licences, shall not
+                apply to or in relation to any dangerous goods which are liquefied petroleum gas
+                within the meaning of the Gas Safety Ordinance (<ref href="/hk/cap51">Cap. 51</ref>)
+                except to the extent, if any, specified in regulations made under that
+                    Ordinance.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1990/49">49 of 1990 s. 38</ref>)</sourceNote></content></subsection><sourceNote>(Replaced <ref href="/hk/1964/8">8 of 1964 s. 4</ref>)</sourceNote></section><section id="ID_1438402946431_002" name="s7" reason="inEffect" startPeriod="2019-12-12" status="operational" temporalId="s7"><num value="7">7.</num><heading>Prohibited goods</heading><content>No person shall manufacture or cause to be manufactured any prohibited goods or have any prohibited goods in his possession, custody or control or in the possession, custody or control of any servant, agent or warehouse owner.</content><sourceNote>(Added <ref href="/hk/1959/8">8 of 1959 s. 5</ref>)</sourceNote></section><section id="ID_1438402946431_004" name="s8" reason="inEffect" startPeriod="2019-12-12" status="operational" temporalId="s8"><num value="8">8.</num><heading>Licence required for supplying labour, etc. for handling dangerous goods on vessels</heading><content>No person shall hire out or supply labour, vessels or equipment for loading, discharging or moving dangerous goods on vessels except under and in accordance with a licence issued under this Ordinance.</content></section><section id="ID_1643601415321_001" name="s8A" temporalId="s8A" startPeriod="2022-03-31" status="operational" reason="inEffect"><num value="8A">8A.</num><heading>Forms of
+            licences</heading><subsection id="ID_1643601586194_001" name="b" temporalId="s8A_b"><num value="b">(1)</num><content>If a regulation made under <ref>section 5(1)(n)</ref> empowers a public officer
+                to issue a licence, the public officer may specify the form of the
+                licence.</content></subsection><subsection id="ID_1643601586194_002" name="2" temporalId="s8A_2"><num value="2">(2)</num><leadIn>If the public officer specifies the form of the licence under subsection (1),
+                the public officer must make copies of the form available—</leadIn><paragraph id="ID_1643601586194_003" name="a" temporalId="s8A_2_a"><num value="a">(a)</num><content><ref>at the office of the public officer during normal office hours;
+                        and</ref></content></paragraph><paragraph id="ID_1643601586194_004" name="b" temporalId="s8A_2_b"><num value="b">(b)</num><content>in any other way the public officer considers appropriate.</content></paragraph></subsection><sourceNote>(Added <ref href="hk/2021/29">29 of 2021 s. 6</ref>)</sourceNote></section><section id="ID_1438402946447_002" name="s9" reason="inEffect" startPeriod="2019-12-12" status="operational" temporalId="s9"><num value="9">9.</num><heading>Grant and revocation of licences</heading><subsection id="ID_1438411799849_004" name="1" temporalId="s9_1"><num value="1">(1)</num><content>The grant or renewal of any licence issued or to be issued under this Ordinance shall be in the absolute discretion of the officer authorized to issue such licence, and any such licence shall be subject to such terms and conditions endorsed thereon as such officer may determine.</content></subsection><subsection id="ID_1438411799849_012" name="2" temporalId="s9_2"><num value="2">(2)</num><content>Such officer may, by notice in writing served upon the holder of the licence either personally or by registered post, revoke any licence issued under this Ordinance on proof to his satisfaction of an offence against this Ordinance or a breach of any condition of such licence by the holder.</content></subsection><subsection id="ID_1438411799849_020" name="3" temporalId="s9_3"><num value="3">(3)</num><content>A notice under subsection (2) shall include a statement of the reasons for the revocation.</content></subsection><sourceNote>(Replaced <ref href="/hk/1994/6">6 of 1994 s. 54</ref>)</sourceNote></section><section id="ID_1438402946447_004" name="s9A" reason="inEffect" startPeriod="2019-12-12" status="operational" temporalId="s9A"><num value="9A">9A.</num><heading>Appeals</heading><content>An applicant for or holder of a licence may, within 28 days after receipt of notice of such refusal or revocation, appeal to the Administrative Appeals Board against any refusal to grant or renew or against any revocation of the licence under <ref>section 9</ref>.</content><sourceNote>(Added <ref href="/hk/1994/6">6 of 1994 s. 54</ref>)</sourceNote></section><section id="ID_1438402946463_002" name="s9B" reason="inEffect" startPeriod="2022-03-31" status="operational" temporalId="s9B"><num value="9B">9B.</num><heading>Penalty for breach of licence</heading><leadIn>Notwithstanding any other liability which may arise under the provisions of this
+            Ordinance or otherwise, the breach of any term or condition endorsed upon any licence
+            issued pursuant to <ref>section 9</ref> shall constitute an offence which shall be
+            punishable on summary
+            conviction—
+                <sourceNote>(Amended <ref href="hk/2002/4">4 of 2002 s. 6</ref> and <ref href="hk/2021/er5">E.R. 5 of 2021</ref>)</sourceNote></leadIn><paragraph id="ID_1643184351180_001" name="a" temporalId="s9B_a"><num value="a">(a)</num><content>for a first offence, by a fine at level 5 and imprisonment not exceeding 1
+                month; </content></paragraph><paragraph id="ID_1643184351180_002" name="b" temporalId="s9B_b"><num value="b">(b)</num><content>for a subsequent offence, by a fine at level 6 and imprisonment not exceeding 3
+                months.</content></paragraph><sourceNote>(Added <ref href="/hk/1994/6">6 of 1994 s.
+            54</ref>. Amended <ref href="hk/2002/4">4 of 2002 s. 6</ref> and <ref href="hk/2021/er5">E.R. 5 of 2021</ref>)</sourceNote></section><section id="ID_1438402946463_004" name="s10" reason="inEffect" startPeriod="2022-03-31" status="operational" temporalId="s10"><num value="10">10.</num><heading>Marking of dangerous goods and giving of notice of their character</heading><leadIn>Except
+            as otherwise provided in this Ordinance or regulations made under this Ordinance,
+            no person shall deliver to any warehouse owner or carrier, or send or
+            carry or cause to be sent or carried to or from any part of Hong Kong by land or water,
+            or sell or expose for sale, or store any dangerous goods, or deposit any dangerous goods
+            in or on any warehouse, wharf or quay unless—  <sourceNote>(Amended <ref href="/hk/1999/71">71 of 1999 s.
+                3</ref>; <ref href="hk/2002/4">4 of 2002 s. 7</ref> and <ref href="hk/2021/er5">E.R. 5 of 2021</ref>)</sourceNote></leadIn><paragraph id="ID_1438411799912_033" name="a" temporalId="s10_a"><num value="a">(a)</num><content>the true name or description of such goods is distinctly written, printed or
+                marked in English and Chinese on the outside of the drum, tin, case or other package
+                containing such goods; and</content></paragraph><paragraph id="ID_1438411799927_006" name="b" temporalId="s10_b"><num value="b">(b)</num><content>the prescribed label, if any, is attached to the outside of the drum, tin, case
+                or other package containing such goods; and</content></paragraph><paragraph id="ID_1438411799927_014" name="c" temporalId="s10_c"><num value="c">(c)</num><content>in the case of delivery to any warehouse owner or carrier, notice in writing
+                has been given to such warehouse owner or carrier of the true name or description of
+                such goods and the dangerous nature thereof.</content></paragraph></section><section id="ID_1438402946478_002" name="s11" reason="inEffect" startPeriod="2019-12-12" status="operational" temporalId="s11"><num value="11">11.</num><heading>Removal of dangerous goods in contravention of regulations</heading><text>Where any dangerous goods are possessed, landed, shipped, transhipped, stored or are
+            otherwise dealt with, or where any vessel, carrying any dangerous goods is berthed or
+            has anchored or stopped contrary to any regulations made under <ref>section 5</ref>, the
+            Commissioner of Police, the Director of Marine, the Director of Fire Services or the
+            Commissioner of Mines, or any other person acting under the orders of any of those
+            officers, may cause such dangerous goods, or such vessel to be removed, at the expense
+            of the owner thereof, to such place as may be in conformity with the said regulations,
+            and all expenses incurred in such removal may be recovered from the owner thereof in
+            like manner, in all respects, as a sum of money due or payable to the Government in
+            respect of a fee is recoverable.</text><sourceNote>(Amended <ref href="/hk/1961/42">42 of 1961 s. 2</ref>; <ref href="/hk/1964/8">8
+                of 1964 s. 5</ref>; <ref href="/hk/1999/71">71 of 1999 s. 3</ref>)</sourceNote></section><section id="ID_1438402946494_001" name="s12" reason="inEffect" startPeriod="2022-03-31" status="operational" temporalId="s12"><num value="12">12.</num><heading>Power of entry, etc.</heading><subsection id="ID_1438411800005_004" name="1" temporalId="s12_1"><num value="1">(1)</num><leadIn>Any police officer not below the rank of inspector, and any officer of the Fire
+                Services Department not below the rank of station officer and any officer of the
+                Mines Division, Civil Engineering and Development Department not below the rank of
+                explosives officer I and any other officer of the Mines Division, Civil Engineering
+                and Development Department, not below the rank of explosives officer II, authorized
+                in writing by the Commissioner of
+                Mines, and any
+                officer of the Marine Department not below the rank of Marine Inspector
+                II and any member of the Customs and Excise Service, as defined in
+                the Customs and Excise Service Ordinance (<ref href="/hk/cap342">Cap. 342</ref>),
+                    may—  <sourceNote>(Replaced <ref href="/hk/1991/ln27">L.N. 27 of 1991</ref>. Amended <ref href="/hk/1991/ln364">L.N. 364 of 1991</ref>; <ref href="/hk/2004/ln104">L.N. 104 of
+                    2004</ref>; <ref href="hk/2002/4">4 of 2002 s. 8</ref> and <ref href="hk/2021/er5">E.R. 5 of 2021</ref>)</sourceNote></leadIn><paragraph id="ID_1438411800021_005" name="a" temporalId="s12_1_a"><num value="a">(a)</num><content>enter, inspect and examine any place or building in which dangerous goods
+                    are manufactured, stored or used and every part thereof, at all times by day and
+                    by night, but so as not unnecessarily to impede or obstruct the work in such
+                    place or building, and may make inquiries as to the observance of this Ordinance
+                    and all matters and things relating to the safety of the public or of the
+                    persons employed in or about such place or building;</content></paragraph><paragraph id="ID_1438411800021_013" name="b" temporalId="s12_1_b"><num value="b">(b)</num><content>require the occupier of any place or building which he is entitled under
+                    this section to enter, or a person employed by such occupier therein, to give
+                    him samples of any
+                    substance,
+                    material or article therein;</content></paragraph><paragraph id="ID_1438411800037_006" name="c" temporalId="s12_1_c"><num value="c">(c)</num><content>enter and search any place or building in which such officer may have
+                    reasonable grounds for suspecting that there may be anything which, under
+                    paragraph (e), is liable to seizure;</content></paragraph><paragraph id="ID_1438411800037_014" name="d" temporalId="s12_1_d"><num value="d">(d)</num><content>stop, board and search any vessel, vehicle or aircraft in which such
+                    officer or member may have reasonable grounds for suspecting that there may be
+                    anything which, under paragraph (e), is liable to
+                    seizure;
+                    and</content></paragraph><paragraph id="ID_1438411800037_022" name="e" temporalId="s12_1_e"><num value="e">(e)</num><leadIn>seize, remove and detain—</leadIn><subparagraph id="ID_1438411800037_030" name="i" temporalId="s12_1_e_i"><num value="i">(i)</num><content>anything with respect to which such officer or member may have
+                        reasonable grounds for suspecting that any offence against this Ordinance
+                        has been committed; or</content></subparagraph><subparagraph id="ID_1438411800037_038" name="ii" temporalId="s12_1_e_ii"><num value="ii">(ii)</num><content>any other thing, which may appear to such officer or member likely to
+                        be, or to contain, evidence of any such
+                        offence.</content></subparagraph></paragraph></subsection><subsection id="ID_1438411800037_044" name="2" temporalId="s12_2"><num value="2">(2)</num><leadIn>Any such officer or member may—</leadIn><paragraph id="ID_1438411800037_052" name="a" temporalId="s12_2_a"><num value="a">(a)</num><content>break open any outer or inner door of any place or building which he is
+                    empowered to enter and search;</content></paragraph><paragraph id="ID_1438411800037_060" name="b" temporalId="s12_2_b"><num value="b">(b)</num><content>forcibly enter any vessel, vehicle or aircraft which he is empowered to
+                    stop, board and search and every part thereof;</content></paragraph><paragraph id="ID_1438411800052_006" name="c" temporalId="s12_2_c"><num value="c">(c)</num><content>remove by force any material obstruction to, or any persons obstructing any
+                    arrest, detention, search, inspection, seizure or removal which he is empowered
+                    to make;</content></paragraph><paragraph id="ID_1438411800052_014" name="d" temporalId="s12_2_d"><num value="d">(d)</num><content>detain any person found in any place or building which he is empowered to
+                    enter and search until such place or building has been
+                    searched;</content></paragraph><paragraph id="ID_1438411800052_022" name="e" temporalId="s12_2_e"><num value="e">(e)</num><content>detain any vessel, vehicle or aircraft which he is empowered to stop, board
+                    and search and any person on board such
+                    vessel,
+                    vehicle or aircraft and prevent any person from approaching or
+                    boarding such
+                    vessel,
+                    vehicle or aircraft until such
+                    vessel,
+                    vehicle or aircraft has been
+                    searched;
+                    and</content></paragraph><paragraph id="ID_1646708964714_001" name="f" temporalId="s12_2_f"><num value="f">(f)</num><content>detain any vessel, vehicle or aircraft which he is empowered to stop, board
+                    and search and any person on board such vessel, vehicle or aircraft, where the
+                    officer or member has reasonable grounds for believing that anything liable to
+                    seizure under subsection (1)(e) results in a danger to public safety, and such
+                    detention may continue until the officer or member is satisfied that the danger
+                    to public safety has been removed. <sourceNote>(Added <ref href="hk/2002/4">4 of 2002 s. 8</ref> and <ref href="hk/2021/er5">E.R. 5 of 2021</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438411800052_029" name="3" temporalId="s12_3"><num value="3">(3)</num><leadIn>Without prejudice to any power of entry or search conferred by any other
+                enactment, no officer or member referred to in subsection (1) shall enter or search
+                any part of any premises used solely for dwelling purposes except—</leadIn><paragraph id="ID_1438411800052_037" name="a" temporalId="s12_3_a"><num value="a">(a)</num><content>by virtue of a warrant issued by a magistrate, where such magistrate is
+                    satisfied by information on oath that there is reasonable ground for suspecting
+                    that an offence against this Ordinance has been, is being or is about to be
+                    committed in such part of the premises or there is in such part of the premises
+                    anything likely to be or to contain evidence of such offence; or</content></paragraph><paragraph id="ID_1438411800068_006" name="b" temporalId="s12_3_b"><num value="b">(b)</num><content>without warrant, where such officer or member is of opinion having regard
+                    to the circumstances that the purpose of the entry or the search would be
+                    defeated by application for such warrant.<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/1959/8">8 of 1959 s.
+                        6</ref>)</sourceNote></content></paragraph></subsection><sourceNote>(Amended <ref href="/hk/1973/25">25 of 1973 s.
+            3</ref>; <ref href="hk/2002/4">4 of 2002 s. 8</ref> and <ref href="hk/2021/er5">E.R. 5 of 2021</ref>)</sourceNote></section><section id="ID_1438402946509_001" name="s13" reason="inEffect" startPeriod="2019-12-12" status="operational" temporalId="s13"><num value="13">13.</num><heading>Report of accident by explosion or fire</heading><content>Whenever there occurs any accident by explosion or fire in or about or in
+            connexion
+            with any licensed premises, the occupier of such premises shall forthwith report such
+            accident, and any loss of life or personal injury occasioned thereby, to the Director of
+            Fire Services.</content><sourceNote>(Amended <ref href="/hk/1961/42">42 of 1961 s. 2</ref>; <ref href="/hk/1964/8">8 of 1964 s. 7</ref>)</sourceNote></section></part><part id="ID_1438402946509_003" name="P3" reason="inEffect" startPeriod="2019-12-12" status="operational" temporalId="P3"><num value="3">Part
+            III</num><heading>Government
+            Explosives
+            Depots</heading><sourceNote>(Part III added <ref href="/hk/1971/9">9 of 1971 s. 7</ref>)</sourceNote><section id="ID_1438402946525_001" name="s13A" reason="inEffect" startPeriod="2019-12-12" status="operational" temporalId="s13A"><num value="13A">13A.</num><heading>Chief Executive may designate places and vessels as Government Explosives
+            Depots</heading><text>The Chief Executive may, by notice published in the Gazette, designate any place or
+            vessel as a Government Explosives Depot for the storage of explosives.</text><sourceNote>(Amended <ref href="/hk/1999/71">71 of 1999 s. 3</ref>)</sourceNote></section><section id="ID_1438402946525_003" name="s13B" reason="inEffect" startPeriod="2019-12-12" status="operational" temporalId="s13B"><num value="13B">13B.</num><heading>Commissioner of Mines to be in charge of depots</heading><content>The Commissioner of Mines shall, subject to <ref>section 13C</ref>, have the control and management of every depot.</content></section><section id="ID_1438402946541_001" name="s13C" reason="inEffect" startPeriod="2019-12-12" status="operational" temporalId="s13C"><num value="13C">13C.</num><heading>Powers of Director of Marine</heading><subsection id="ID_1438411800177_018" name="1" temporalId="s13C_1"><num value="1">(1)</num><content>The Director of Marine may give directions as to the surveying, movement, siting and mooring of any vessel designated as a depot.</content></subsection><subsection id="ID_1438411800177_026" name="2" temporalId="s13C_2"><num value="2">(2)</num><leadIn>The Director of Marine may, if it appears to him that a vessel designated as a depot is in any respect unsuitable for the storage of explosives—</leadIn><paragraph id="ID_1438411800193_005" name="a" temporalId="s13C_2_a"><num value="a">(a)</num><content>prohibit the use of the vessel for the storage of explosives; or</content></paragraph><paragraph id="ID_1438411800193_013" name="b" temporalId="s13C_2_b"><num value="b">(b)</num><content>permit the use of the vessel for the storage of explosives, either unconditionally or subject to such conditions as he may think fit to impose.</content></paragraph></subsection></section><section id="ID_1438402946541_003" name="s13D" reason="inEffect" startPeriod="2019-12-12" status="operational" temporalId="s13D"><num value="13D">13D.</num><heading>Appointment of managers and deputy managers</heading><text>The Chief Executive may, by notice published in the Gazette, appoint a manager and one
+            or more deputy managers of a depot.</text><sourceNote>(Amended <ref href="/hk/1999/71">71 of 1999 s. 3</ref>)</sourceNote></section><section id="ID_1438402946556_001" name="s13E" reason="inEffect" startPeriod="2022-03-31" status="operational" temporalId="s13E"><num value="13E">13E.</num><heading>Regulations for management of depots</heading><subsection id="ID_1438411800224_011" name="1" temporalId="s13E_1"><num value="1">(1)</num><leadIn>The Chief Executive in Council may by regulation provide
+                    for—  <sourceNote>(Amended <ref href="/hk/1999/71">71 of 1999 s.
+                    3</ref>)</sourceNote></leadIn><paragraph id="ID_1438411800224_019" name="a" temporalId="s13E_1_a"><num value="a">(a)</num><content>the control and management of depots;</content></paragraph><paragraph id="ID_1438411800224_027" name="b" temporalId="s13E_1_b"><num value="b">(b)</num><content>safety precautions to be taken in depots;</content></paragraph><paragraph id="ID_1438411800224_035" name="c" temporalId="s13E_1_c"><num value="c">(c)</num><content>the empowering of any public officer to give such directions as he thinks
+                    fit for the purposes of the proper control and management and the safety of
+                    depots;</content></paragraph><paragraph id="ID_1438411800224_043" name="d" temporalId="s13E_1_d"><num value="d">(d)</num><content>the fees chargeable for the storage of explosives in depots and for
+                    deliveries of explosives by the Government to or from depots;</content></paragraph><paragraph id="ID_1438411800224_051" name="e" temporalId="s13E_1_e"><num value="e">(e)</num><content>the destruction of explosives stored in depots;</content></paragraph><paragraph id="ID_1438411800224_059" name="f" temporalId="s13E_1_f"><num value="f">(f)</num><content>the sale of explosives stored in depots in respect of which the prescribed
+                    fees have not been paid and the deduction of such fees and the expenses of sale
+                    from the proceeds of sale; and</content></paragraph><paragraph id="ID_1438411800239_006" name="g" temporalId="s13E_1_g"><num value="g">(g)</num><content>the better carrying out of the provisions of this
+                    Part.</content></paragraph></subsection><subsection id="ID_1438411800239_013" name="2" temporalId="s13E_2"><num value="2">(2)</num><content>Regulations made under this section may provide that contravention of specified
+                provisions of such regulations shall be an offence and may provide penalties
+                therefor, but no penalty so provided shall exceed a fine
+                at
+                level 6 and imprisonment for 6 months.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1984/ln171">L.N. 171 of
+                        1984</ref>; <ref href="hk/2002/4">4 of 2002 s. 9</ref> and <ref href="hk/2021/er5">E.R. 5 of
+                        2021</ref>)</sourceNote></content></subsection></section></part><part id="ID_1438402946556_003" name="P4" reason="inEffect" startPeriod="2019-12-12" status="operational" temporalId="P4"><num value="4">Part
+            IV</num><heading>General</heading><sourceNote>(Added <ref href="/hk/1971/9">9 of 1971 s. 8</ref>)</sourceNote><section id="ID_1438402946572_002" name="s14" reason="inEffect" startPeriod="2022-03-31" status="operational" temporalId="s14"><num value="14">14.</num><heading>Offences and penalties</heading><subsection id="ID_1438411800286_025" name="1" temporalId="s14_1"><num value="1">(1)</num><leadIn>Any person who contravenes— <sourceNote>(Amended <ref href="hk/2002/4">4 of 2002
+                        s. 10</ref> and <ref href="hk/2021/er5">E.R. 5 of
+                2021</ref>)</sourceNote></leadIn><paragraph id="ID_1645595960729_001" name="a" temporalId="s14_1_a"><num value="a">(a)</num><leadIn><ref>section 6</ref> or <ref>7</ref> shall be guilty of an offence and shall
+                    be liable— </leadIn><subparagraph id="ID_1645595960729_002" name="1" temporalId="s14_1_a_1"><num value="1">(i)</num><content>for a first offence, to a fine at level 6 and to imprisonment for 6
+                        months;</content></subparagraph><subparagraph id="ID_1645595960744_003" name="2" temporalId="s14_1_a_2"><num value="2">(ii)</num><content>for a subsequent offence, to a fine of $200,000 and to imprisonment for
+                        12 months;</content></subparagraph></paragraph><paragraph id="ID_1645595960744_004" name="b" temporalId="s14_1_b"><num value="b">(b)</num><content><ref>section 8</ref> or <ref>10</ref> shall be guilty of an offence and
+                    shall be liable to a fine at level 6 and to imprisonment for 6
+                    months:
+                        <sourceNote>(Amended <ref href="/hk/1959/8">8 of 1959 s. 7</ref>; <ref href="hk/2002/4">4 of 2002 s. 10</ref> and <ref href="hk/2021/er5">E.R.
+                            5 of 2021</ref>)</sourceNote></content></paragraph><proviso name="proviso" temporalId="s14_1_proviso">Provided that any person accused of
+                having contravened any of the provisions of <ref>section 10</ref> shall not be
+                liable to be convicted thereof if he shows, to the satisfaction of the magistrate
+                before whom he is tried, that he did not know the nature of the goods to which the
+                information relates, and that he could not, with reasonable diligence, have obtained
+                such knowledge.</proviso></subsection><subsection id="ID_1438411800302_004" name="2" temporalId="s14_2"><num value="2">(2)</num><content>The occupier of any premises who fails to report an accident in contravention
+                of the provisions of <ref>section 13</ref> shall be guilty of an offence and shall
+                be liable to a fine
+                at level
+                3.</content></subsection><subsection id="ID_1438411800302_012" name="3" temporalId="s14_3"><num value="3">(3)</num><leadIn>Any person who—</leadIn><paragraph id="ID_1438411800302_020" name="a" temporalId="s14_3_a"><num value="a">(a)</num><content>obstructs or delays any officer in the exercise of any of the powers
+                    conferred upon him by this Ordinance; or</content></paragraph><paragraph id="ID_1438411800302_028" name="b" temporalId="s14_3_b"><num value="b">(b)</num><content>wilfully or recklessly gives false information or withholds information, as
+                    to the source from which any dangerous goods were obtained or as to the
+                    manufacture, conveyance, storage, packing, labelling or use of any dangerous
+                        goods,<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/1964/8">8 of 1964 s. 8</ref>)</sourceNote></content></paragraph><continued>shall be guilty of an offence and shall be liable to a fine
+                at
+                level 6 and to imprisonment for 6 months.</continued></subsection><sourceNote>(Amended <ref href="/hk/1984/ln171">L.N. 171 of
+            1984</ref>; <ref href="hk/2002/4">4 of 2002 s. 10</ref> and <ref href="hk/2021/er5">E.R. 5 of 2021</ref>)</sourceNote></section><section id="ID_1438402946572_004" name="s15" reason="inEffect" startPeriod="2019-12-12" status="operational" temporalId="s15"><num value="15">15.</num><heading>Liability of licence holder for offences committed by his employees and agents</heading><leadIn>Whenever it is proved to the satisfaction of any court having jurisdiction that an offence against this Ordinance has been committed by any employee or agent of any person holding a licence issued under this Ordinance, such person shall be held to be liable for such offence and to the penalty provided therefor, unless he proves that the offence was committed without his knowledge or consent and that he had exercised all due diligence to prevent the commission of the offence:</leadIn><proviso name="proviso" temporalId="s15_proviso"><leadIn>Provided that—</leadIn><paragraph id="ID_1438411800333_019" name="a" temporalId="s15_proviso_a"><num value="a">(a)</num><content>no such person shall be sentenced to imprisonment (except in default of payment of a fine) for any offence under this section; and</content></paragraph><paragraph id="ID_1438411800333_027" name="b" temporalId="s15_proviso_b"><num value="b">(b)</num><content>nothing in this section shall be deemed to exempt the employee or agent from the penalties provided for the offence committed by him.</content></paragraph></proviso></section><section id="ID_1438402946587_002" name="s16" reason="inEffect" startPeriod="2019-12-12" status="operational" temporalId="s16"><num value="16">16.</num><heading>Liability of directors, etc. where offence committed by company</heading><content>Where a person by whom an offence under this Ordinance has been committed is a company, every director and every officer concerned in the management of the company shall be guilty of the like offence unless he proves that the act constituting the offence took place without his knowledge or consent.</content><sourceNote>(Added <ref href="/hk/1961/23">23 of 1961 s. 3</ref>)</sourceNote></section><section id="ID_1438402946587_004" name="s17" reason="inEffect" startPeriod="2019-12-12" status="operational" temporalId="s17"><num value="17">17.</num><heading>Cancellation of licence on conviction</heading><content>On the conviction of any person for an offence against this Ordinance, the magistrate may, in addition to any other penalty, order that any licence issued under this Ordinance held by such person shall be cancelled and any licence in respect whereof any such order is made shall be forthwith delivered by the holder thereof to the appropriate licensing authority for cancellation.</content></section><section id="ID_1438402946603_002" name="s18" reason="inEffect" startPeriod="2019-12-12" status="operational" temporalId="s18"><num value="18">18.</num><heading>Forfeiture</heading><text>A magistrate may order to be forfeited to the Government any dangerous goods and any
+            container thereof with respect to which any offence against this Ordinance has been
+            committed, whether any person has been charged with such offence or not.</text><sourceNote>(Amended <ref href="/hk/1999/71">71 of 1999 s. 3</ref>)</sourceNote></section><section id="ID_1438402946603_004" name="s19" reason="repealed" startPeriod="1997-06-30" status="repealed" temporalId="s19"><num value="19">19.</num><sourceNote>(Repealed <ref href="/hk/1969/31">31 of 1969
+                Schedule</ref>)</sourceNote></section><section id="ID_1643188072519_001" name="s19A" temporalId="s19A" startPeriod="2022-03-31" status="operational" reason="inEffect"><num value="19A">19A.</num><heading>Application of
+            IMDG Code</heading><subsection id="ID_1643188302673_001" name="b" temporalId="s19A_b"><num value="b">(1)</num><leadIn>Where dangerous goods—</leadIn><paragraph id="ID_1643188302673_002" name="a" temporalId="s19A_b_a"><num value="a">(a)</num><content>are being carried on board a vessel from a place outside Hong Kong to Hong
+                    Kong; or</content></paragraph><paragraph id="ID_1643188302673_003" name="b" temporalId="s19A_b_b"><num value="b">(b)</num><content>are intended to be carried on board a vessel from Hong Kong to a place
+                    outside Hong Kong,</content></paragraph><proviso>and such goods are packed, marked and labelled in accordance with the IMDG
+                Code, they shall be deemed to comply with the requirements of any regulations made
+                under this Ordinance in respect of the packing, marking and labelling of such goods
+                for conveyance by vessels or by vehicles transporting them to or from any berth
+                where the vessel on which they have been, or will be, conveyed is located.</proviso></subsection><subsection id="ID_1643188302673_004" name="b" temporalId="s19A_b"><num value="b">(2)</num><content>Where dangerous goods are passing through Hong Kong as part of a journey from a
+                place outside Hong Kong to another place outside Hong Kong and such goods are
+                packed, marked and labelled in accordance with the IMDG Code, they shall be deemed
+                to comply with the requirements of any regulations made under this Ordinance in
+                respect of the packing, marking and labelling of such goods for conveyance by
+                vessels or by vehicles across the territory.</content></subsection><subsection id="ID_1643188302673_005" name="b" temporalId="s19A_b"><num value="b">(3)</num><content>Subsection (1) also applies to dangerous goods where the vessel carrying or
+                intended to carry such goods arrives at or departs from a port outside Hong Kong and
+                the goods are transported by vehicle between Hong Kong and such vessel.</content></subsection><sourceNote>(Added <ref href="hk/2002/4">4 of 2002 s. 11</ref> and <ref href="hk/2021/er5">E.R. 5 of 2021</ref>)</sourceNote></section><section id="ID_1438402946619_002" name="s20" reason="inEffect" startPeriod="2019-12-12" status="operational" temporalId="s20"><num value="20">20.</num><heading>Saving for other enactments</heading><content>The provisions of this Ordinance shall be in addition to and not in derogation of the provisions of any other enactment relating to dangerous goods.</content></section></part></main></ordinance>

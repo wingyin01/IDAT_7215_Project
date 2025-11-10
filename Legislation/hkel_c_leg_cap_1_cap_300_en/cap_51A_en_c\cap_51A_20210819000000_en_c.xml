@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><subLeg xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd" xml:lang="en"><meta><docName>Cap. 51 sub. leg. A</docName><docType>cap</docType><docNumber>51A</docNumber><docStatus>In effect</docStatus><dc:identifier>/hk/cap51A!en</dc:identifier><dc:date>2021-08-19</dc:date><dc:subject>legislation</dc:subject><dc:language>en</dc:language><dc:publisher>DoJ</dc:publisher><dc:rights>the Government of the Hong Kong Special Administrative Region</dc:rights></meta><main xml:lang="en" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd"><docTitle id="ID_1438403312314_001" name="shortTitle" reason="inEffect" status="operational" temporalId="shortTitle" startPeriod="2019-04-11">Gas Safety (Gas
+            Quality)
+            Regulations</docTitle><enactingFormula role="empoweringSection">(<ref href="/hk/cap51/s8">Cap. 51, section
+            8</ref>)</enactingFormula><sourceNote>(Enacting provision omitted—<ref href="hk/2019/er1">E.R. 1 of
+            2019</ref>)<marker role="blank-line"></marker></sourceNote><commencementNote>[1 April 1991]</commencementNote><sourceNote>(Format changes—<ref href="hk/2019/er1">E.R. 1 of 2019</ref>)</sourceNote><section id="ID_1438403312314_003" name="s1" reason="inEffect" role="regulation" startPeriod="2019-04-11" status="operational" temporalId="s1"><num value="1">1.</num><heading>Citation</heading><content>These regulations may be cited as the Gas Safety (Gas Quality) Regulations.</content></section><section id="ID_1438403312330_001" name="s2" reason="inEffect" role="regulation" startPeriod="2019-04-11" status="operational" temporalId="s2"><num value="2">2.</num><heading>Interpretation</heading><leadIn>In these regulations, unless the context otherwise requires—</leadIn><def name="RelativeDensity"><term>relative
+                density</term>
+                (<term xml:lang="zh-Hant-HK">相對密度</term>), in relation to any gas, means the ratio
+            of the mass of a volume of the gas when containing no water vapour to the mass
+            (expressed in the same units) of the same volume of air containing no water vapour under
+            the same conditions of temperature and pressure;</def><def name="Sulphur"><term>sulphur</term>
+                (<term xml:lang="zh-Hant-HK">硫磺</term>) includes sulphur compound;</def><def name="WobbeNumber"><term>Wobbe
+                number</term>
+                (<term xml:lang="zh-Hant-HK">華白指數</term>) means the number derived by dividing the
+            calorific value of any gas by the square root of the relative density of the gas.</def></section><section id="ID_1438403312330_003" name="s3" reason="inEffect" role="regulation" startPeriod="2019-04-11" status="operational" temporalId="s3"><num value="3">3.</num><heading>Standard of pressure</heading><leadIn>No person shall supply any gas through—</leadIn><paragraph id="ID_1438412911102_054" name="a" temporalId="s3_a"><num value="a">(a)</num><content>a service pipe; or</content></paragraph><paragraph id="ID_1438412911117_006" name="b" temporalId="s3_b"><num value="b">(b)</num><content>a gas main,</content></paragraph><continued>at a pressure which is less than the pressure specified in column 2 of the table
+            to this regulation in relation to the range of Wobbe numbers specified opposite thereto
+            in column 1 of that table applicable to the gas
+                supplied.<crossHeading>Table</crossHeading><crossHeading>Pressure
+                of Gas Supplied Through Service Pipes and Gas Mains</crossHeading><table xmlns="http://www.w3.org/1999/xhtml" width="100%">
+                <col width="50%"></col>
+                <col width="25%"></col>
+                <col width="25%"></col>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Column 1</center>
+                    </td>
+                    <td class="border_top_0.75 border_bottom_0.75 border_left_0.75" colspan="2">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Column 2</center>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Range of Wobbe
+                            numbers in Megajoule per cubic metre</center>
+                    </td>
+                    <td class="border_top_0.75 border_bottom_0.75 border_left_0.75" colspan="2">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Pressure measured in
+                            kPa in excess of atmospheric pressure </center>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 cellpadding_bottom_3 cellpadding_right_3">
+                        <p class="align_justified">Not more than 31</p>
+                    </td>
+                    <td class="border_top_0.75 border_left_0.75"></td>
+                    <td class="border_top_0.75 ">
+                        <p class="align_left">0.5</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_right_0.75 cellpadding_bottom_3 cellpadding_right_3">
+                        <p class="align_justified left_indent_12 first_line_indent_-12">More than 31
+                            but not more than 40</p>
+                    </td>
+                    <td class="border_left_0.75"></td>
+                    <td>
+                        <p class="align_left">1</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_right_0.75 cellpadding_bottom_3 cellpadding_right_3">
+                        <p class="align_justified left_indent_12 first_line_indent_-12">More than 40
+                            but not more than 72</p>
+                    </td>
+                    <td class="border_left_0.75"></td>
+                    <td>
+                        <p class="align_left">1.25</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_right_0.75 border_bottom_0.75 cellpadding_bottom_3 cellpadding_right_3">
+                        <p class="align_justified">More than 72</p>
+                    </td>
+                    <td class="border_bottom_0.75 border_left_0.75"></td>
+                    <td class="border_bottom_0.75">
+                        <p class="align_left">2</p>
+                    </td>
+                </tr>
+            </table></continued></section><section id="ID_1438403312346_002" name="s4" reason="inEffect" role="regulation" startPeriod="2019-04-11" status="operational" temporalId="s4"><num value="4">4.</num><heading>Standard of purity</heading><content>No person shall supply any gas specified in column 1 of the table to this
+            regulation which contains more than the proportion of sulphur specified opposite thereto
+            in column 2 of that
+                table.<marker role="blank-line"></marker><marker role="blank-line"></marker><crossHeading>Table<marker role="blank-line"></marker>Purity
+                of Gas Supplied<marker role="blank-line"></marker></crossHeading><table xmlns="http://www.w3.org/1999/xhtml" width="100%">
+                <col width="50%"></col>
+                <col width="50%"></col>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Column 1</center>
+                    </td>
+                    <td class="border_top_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Column 2</center>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 valign_center">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Type of gas</center>
+                    </td>
+                    <td class="border_top_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Maximum proportion of
+                            sulphur permitted</center>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_right_0.75 cellpadding_bottom_3 cellpadding_top_3">
+                        <p class="align_justified left_indent_2 first_line_indent_0">Town gas</p>
+                    </td>
+                    <td class="border_left_0.75 cellpadding_bottom_3 cellpadding_right_6 cellpadding_top_3 left_indent_15 first_line_indent_-12">
+                        <p>5 mg of hydrogen sulphide per standard cubic metre</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_right_0.75 cellpadding_bottom_3">
+                        <p class="align_justified left_indent_2 first_line_indent_0">Natural gas</p>
+                    </td>
+                    <td class="border_left_0.75 cellpadding_bottom_3 cellpadding_right_6 left_indent_15 first_line_indent_-12">
+                        <p>5 mg of hydrogen sulphide per standard cubic metre</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_right_0.75 border_bottom_0.75 cellpadding_bottom_3">
+                        <p class="align_justified left_indent_2 first_line_indent_0">Liquefied
+                            petroleum gas</p>
+                    </td>
+                    <td class="border_bottom_0.75 border_left_0.75 cellpadding_bottom_3 cellpadding_right_6 left_indent_15 first_line_indent_-12">
+                        <p>0.02% by mass total sulphur</p>
+                    </td>
+                </tr>
+            </table></content></section><section id="ID_1438403312361_001" name="s5" reason="inEffect" role="regulation" startPeriod="2019-04-11" status="operational" temporalId="s5"><num value="5">5.</num><heading>Distinctive smell</heading><subsection id="ID_1438412911148_032" name="1" temporalId="s5_1"><num value="1">(1)</num><content>Subject to subregulation (2), no person shall supply any gas which does not possess a distinctive smell.</content></subsection><subsection id="ID_1438412911148_040" name="2" temporalId="s5_2"><num value="2">(2)</num><leadIn>Subregulation (1) shall not apply to the supply of gas for use in—</leadIn><paragraph id="ID_1438412911148_048" name="a" temporalId="s5_2_a"><num value="a">(a)</num><content>cigarette lighters; or</content></paragraph><paragraph id="ID_1438412911148_056" name="b" temporalId="s5_2_b"><num value="b">(b)</num><content>aerosol cans.</content></paragraph></subsection></section><section id="ID_1438403312361_003" name="s6" reason="inEffect" role="regulation" startPeriod="2021-08-19" status="operational" temporalId="s6"><num value="6">6.</num><heading>Offences</heading><content>Any person who contravenes <ref>regulation 3</ref>, <ref>4</ref> or <ref>5(1)</ref>
+            commits an offence and is liable on conviction to a fine
+            at
+            level 3 and, in the case of a continuing offence, to a daily penalty
+            of $1,000.</content><sourceNote>(<ref href="/hk/2021/er4">E.R. 4 of 2021</ref>)</sourceNote></section><section id="ID_1438403312377_002" name="s7" reason="inEffect" role="regulation" startPeriod="2019-04-11" status="operational" temporalId="s7"><num value="7">7.</num><heading>Defence</heading><leadIn>It shall be a defence to a charge under <ref>regulation 6</ref> alleging the contravention of a provision referred to in that regulation that the person charged—</leadIn><paragraph id="ID_1438412911180_026" name="a" temporalId="s7_a"><num value="a">(a)</num><content>shows that such contravention was due to circumstances beyond his control; and</content></paragraph><paragraph id="ID_1438412911180_034" name="b" temporalId="s7_b"><num value="b">(b)</num><content>took all reasonably practicable steps to prevent such contravention.</content></paragraph></section><section id="ID_1438403312392_001" name="s8" reason="inEffect" role="regulation" startPeriod="2019-04-11" status="operational" temporalId="s8"><num value="8">8.</num><heading>Exemptions</heading><leadIn>The Authority may exempt in writing any person from any of the provisions of <ref>regulation 3</ref>, <ref>4</ref> or <ref>5(1)</ref>—</leadIn><paragraph id="ID_1438412911211_041" name="a" temporalId="s8_a"><num value="a">(a)</num><content>where the Authority is of the opinion that the safety of members of the public will not be prejudiced by such exemption; and</content></paragraph><paragraph id="ID_1438412911211_049" name="b" temporalId="s8_b"><num value="b">(b)</num><content>subject to such reasonable conditions as the Authority thinks fit specified in such exemption.</content></paragraph></section></main></subLeg>

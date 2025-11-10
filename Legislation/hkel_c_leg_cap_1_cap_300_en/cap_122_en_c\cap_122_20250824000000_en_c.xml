@@ -1,0 +1,702 @@
+<?xml version="1.0" encoding="UTF-8"?><ordinance xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd" xml:lang="en"><meta><docName>Cap. 122</docName><docType>cap</docType><docNumber>122</docNumber><docStatus>In effect</docStatus><dc:identifier>/hk/cap122!en</dc:identifier><dc:date>2025-08-24</dc:date><dc:subject>legislation</dc:subject><dc:language>en</dc:language><dc:publisher>DoJ</dc:publisher><dc:rights>the Government of the Hong Kong Special Administrative Region</dc:rights></meta><main xml:lang="en" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd"><longTitle name="longTitle" reason="inEffect" status="operational" temporalId="longTitle" startPeriod="2025-08-24" id="ID_1438402640640_001">
+            <content>To provide for
+                matters
+                relating to the office of the Director of Audit (including the appointment of the
+                Director in accordance with the Basic Law, the tenure of office of the Director, and
+                the duties and powers of the Director) and for the auditing of and
+                reporting on the public accounts and the accounts of specified persons, bodies
+                corporate and other bodies and for matters incidental thereto or connected
+                therewith.
+                </content>
+        </longTitle><sourceNote>(Amended <ref href="/hk/2025/31">31 of 2025 s.
+            39</ref>)<marker role="blank-line"></marker><marker role="blank-line"></marker></sourceNote><commencementNote>[10 December 1971]<sourceNote><inline class="width_3"> </inline><ref href="/hk/1971/ln166">L.N. 166 of 1971</ref></sourceNote></commencementNote><sourceNote class="align_right">(Format changes—<ref href="/hk/2019/er6">E.R. 6 of
+                2019</ref>)</sourceNote><section id="ID_1438402640655_001" name="s1" reason="inEffect" startPeriod="2019-12-12" status="operational" temporalId="s1"><num value="1">1.</num><heading>Short title</heading><content>This Ordinance may be cited as the <shortTitle>Audit Ordinance</shortTitle>.</content></section><section name="s2" reason="inEffect" startPeriod="2025-08-24" status="operational" temporalId="s2" id="ID_1438402640655_003"><num value="2">2.</num><heading>Interpretation</heading><leadIn>In this Ordinance, unless the context otherwise requires—</leadIn><def name="AccountingOfficer">
+            <leadIn><term>accounting
+                    officer</term>
+                    (<term xml:lang="zh-Hant-HK">會計人員</term>) means—</leadIn>
+            
+            <paragraph name="a" temporalId="s2_a" id="ID_1755224819062_001"><num value="a">(a)</num><leadIn>any public officer who is entrusted with—</leadIn><subparagraph name="i" temporalId="s2_a_i" id="ID_1755224819062_002"><num value="i">(i)</num><content>the collection, receipt, custody, issue or payment of public
+                        moneys;</content></subparagraph><subparagraph name="ii" temporalId="s2_a_ii" id="ID_1755224819062_003"><num value="ii">(ii)</num><content>the receipt, custody, issue, sale, transfer or disposal of, or the
+                        accounting for, any stamps, securities, stores or any other Government
+                        property; or</content></subparagraph><subparagraph name="iii" temporalId="s2_a_iii" id="ID_1755224819062_004"><num value="iii">(iii)</num><content>any monetary or financial responsibilities connected with or arising
+                        from his official duties; and</content></subparagraph></paragraph>
+            
+            <paragraph name="b" temporalId="s2_b" id="ID_1755224819062_005"><num value="b">(b)</num><content>the head of the
+                    department
+                    in which any such public officer is employed;
+                    <sourceNote>(Amended <ref href="/hk/2025/31">31 of 2025 s.
+                        41</ref>)</sourceNote></content></paragraph>
+        </def><def name="Director"><term>Director</term>
+                (<term xml:lang="zh-Hant-HK">署長</term>) means the Director of Audit appointed
+            in
+            accordance with the Basic Law;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1993/19">19 of 1993 s.
+                2</ref>; <ref href="/hk/2025/31">31 of 2025 s. 41</ref>)</sourceNote></def><def name="Director"><term>government regulations</term> (<term xml:lang="zh-Hant-HK">政府規例</term>) means the administrative rules known as the Government Regulations and
+            any other administrative rules or instruments regulating the public service;
+                <sourceNote>(Added <ref href="/hk/2025/31">31 of 2025 s.
+            41</ref>)</sourceNote></def><def name="President"><term>President</term>
+                (<term xml:lang="zh-Hant-HK">主席</term>) means the President of the Legislative
+                Council;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1993/19">19 of 1993 s. 2</ref>)</sourceNote>
+        </def><def name="PublicMoneys">
+            <leadIn><term>public
+                    moneys</term>
+                    (<term xml:lang="zh-Hant-HK">公帑</term>) means—</leadIn>
+            
+            <paragraph name="a" temporalId="s2_a" id="ID_1755224819312_006"><num value="a">(a)</num><content>the general revenue;<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/1983/3">3 of 1983 s. 43</ref>)</sourceNote></content></paragraph>
+            
+            <paragraph name="b" temporalId="s2_b" id="ID_1755224819344_007"><num value="b">(b)</num><content>any moneys (other than moneys in the accounts or constituting the funds
+                    specified in column 2 of <ref>Schedule 1</ref>) which are accounted for, in
+                    whole or in part, in the books or records of account of the Director of
+                    Accounting Services; and<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/2000/32">32 of 2000 s. 16</ref>)</sourceNote></content></paragraph>
+            
+            <paragraph name="c" temporalId="s2_c" id="ID_1755224819375_008"><num value="c">(c)</num><content>any other moneys which the
+                    Chief
+                    Executive may declare in writing to be public moneys for the
+                    purposes of this
+                    Ordinance;
+                        <sourceNote>(Amended <ref href="/hk/2025/31">31 of 2025 s.
+                        41</ref>)</sourceNote></content></paragraph>
+        </def><def name="PublicMoneys">
+            <leadIn><term>Public Service (Administration) Order</term> (<term xml:lang="zh-Hant-HK">《公務人員(管理)命令》</term>) means—</leadIn>
+            <paragraph name="a" temporalId="s2_a" id="ID_1755224819391_009"><num value="a">(a)</num><content>the Public Service (Administration) Order 1997 (Executive Order No. 1 of
+                    1997);</content></paragraph>
+            <paragraph name="b" temporalId="s2_b" id="ID_1755224819391_010"><num value="b">(b)</num><content>the Public Service (Disciplinary) Regulation made under <ref>section
+                        21</ref> of that Order (and together with that Order published in S.S. No. 5
+                    to Gazette No. 2/1997); and</content></paragraph>
+            <paragraph name="c" temporalId="s2_c" id="ID_1755224819391_011"><num value="c">(c)</num><content>any other regulation made or any direction given under that
+                    Order,</content></paragraph>
+            <continued>as amended from time to time. <sourceNote>(Added <ref href="/hk/2025/31">31
+                        of 2025 s. 41</ref>)</sourceNote></continued>
+        </def></section><section name="s3" reason="inEffect" startPeriod="2025-08-24" status="operational" temporalId="s3" id="ID_1438402640686_002"><num value="3">3.</num><heading>Appointment
+            of Director in accordance with Basic Law</heading><content>The Director is to be appointed in accordance with the Basic Law.</content><sourceNote>(Replaced <ref href="/hk/2025/31">31 of 2025 s. 42</ref>)</sourceNote></section><section name="s3A" temporalId="s3A" startPeriod="2025-08-24" status="operational" reason="inEffect" id="ID_1755156767113_001"><num value="3A">3A.</num><heading>Director not
+            to hold other office of emolument under Government while holding office of
+            Director</heading><content>The Director must not, whilst holding the office of Director, hold any other office
+            of emolument under the Government.</content><sourceNote>(Added <ref href="/hk/2025/31">31 of 2025 s. 43</ref>)</sourceNote></section><section name="s4" reason="inEffect" startPeriod="2025-08-24" status="operational" temporalId="s4" id="ID_1438402640702_001"><num value="4">4.</num><heading>Tenure of office of Director</heading><subsection name="1" temporalId="s4_1" id="ID_1755241660348_001"><num value="1">(1)</num><leadIn>A person
+                holding
+                the office of Director—
+                <sourceNote>(Amended <ref href="/hk/2025/31">31 of 2025 s.
+                44</ref>)</sourceNote></leadIn><paragraph name="a" temporalId="s4_1_a" id="ID_1755241660395_002"><num value="a">(a)</num><content>shall hold that office during good behaviour; and</content></paragraph><paragraph name="b" temporalId="s4_1_b" id="ID_1755241660395_003"><num value="b">(b)</num><content>may only be removed from that office in accordance with the Basic Law.
+                        <sourceNote>(Replaced <ref href="/hk/2025/31">31 of 2025 s.
+                        44</ref>)</sourceNote></content></paragraph></subsection><subsection name="2" temporalId="s4_2" id="ID_1755241660426_004"><num value="2">(2)</num><content>Where
+                a
+                person is removed from the office of Director in accordance with the Basic Law,
+                a
+                full statement of the circumstances shall be made at the first opportunity to the
+                Legislative Council.
+                <sourceNote>(Amended <ref href="/hk/2025/31">31 of 2025 s.
+                44</ref>)</sourceNote></content></subsection></section><section name="s4A" reason="inEffect" startPeriod="2025-08-24" status="operational" temporalId="s4A" id="ID_1438402640702_003"><num value="4A">4A.</num><heading>Salary of Director</heading><subsection name="1" temporalId="s4A_1" id="ID_1756284485399_001"><num value="1">(1)</num><leadIn>The Director is entitled to a salary at—</leadIn><paragraph name="a" temporalId="s4A_1_a" id="ID_1756284485399_002"><num value="a">(a)</num><content>the rate specified and last increased under the former <ref>section
+                        4A(1)</ref> immediately before the commencement date; or</content></paragraph><paragraph name="b" temporalId="s4A_1_b" id="ID_1756284485399_003"><num value="b">(b)</num><content>if the rate is subsequently increased under subsection (2)—the rate so
+                    increased. <sourceNote>(Replaced <ref href="/hk/2025/31">31 of 2025 s.
+                        45</ref>)</sourceNote></content></paragraph></subsection><subsection name="2" temporalId="s4A_2" id="ID_1756284485477_004"><num value="2">(2)</num><content>The
+                Chief Executive may, from time to time, by order published in the Gazette, increase
+                the rate of salary of the Director with effect from the date specified in the order.
+                    <sourceNote>(Replaced <ref href="/hk/2025/31">31 of 2025 s.
+                    45</ref>)</sourceNote></content></subsection><subsection name="3" temporalId="s4A_3" id="ID_1756284485493_005"><num value="3">(3)</num><content>The salary payable to the Director by virtue of this section shall be charged
+                on and paid out of the general revenue.</content></subsection><subsection name="1" temporalId="s4A_1" id="ID_1756284485493_006"><num value="1">(4)</num><leadIn>In subsection (1)—</leadIn><def name="主席">*<term>commencement date</term> (<term xml:lang="en">生效日期</term>) means
+                the date on which <ref>section 45</ref> of the Statute Law (Miscellaneous
+                Provisions) Ordinance (<ref href="/hk/2025/31">31 of 2025</ref>) comes into
+                operation;</def><def name="主席"><term>former <ref>section 4A(1)</ref></term> (<term xml:lang="en">原有<ref>第4A(1)條</ref></term>) means <ref>section 4A(1)</ref> as in force
+                immediately before the commencement date. <sourceNote>(Added <ref href="/hk/2025/31">31 of 2025 s. 45</ref>)</sourceNote></def></subsection><sourceNote>(Added <ref href="/hk/1979/35">35 of 1979 s. 2</ref>)</sourceNote><editorialNote type="footnote" id="ID_1756284485540_007">
+            <content class="font_size_9">Editorial
+                        Note:<content><inline class="force_orig_font">*</inline> Commencement date: 24 August
+                    2025.</content></content>
+        </editorialNote></section><section id="ID_1438402640718_002" name="s5" reason="inEffect" startPeriod="2025-08-24" status="operational" temporalId="s5"><num value="5">5.</num><heading>Director’s
+            employment as public officer</heading><content>The
+            Director is to be employed subject to the Public Service (Administration) Order, the
+            government regulations, and such Ordinances as apply generally to public
+            officers.</content><sourceNote>(Replaced <ref href="/hk/2025/31">31 of 2025 s. 46</ref>)</sourceNote></section><section id="ID_1438402640733_002" name="s6" reason="inEffect" startPeriod="2025-08-24" status="operational" temporalId="s6"><num value="6">6.</num><heading>Nomination
+            and reporting for filling of vacancy in office of Director</heading><content>When
+            a vacancy occurs in the office of Director for any reason, the Chief Executive must, in
+            accordance with the Basic Law, nominate and report to the Central People’s Government
+            for appointment of another person to hold that office.</content><sourceNote>(Replaced <ref href="/hk/2025/31">31 of 2025 s. 46</ref>)</sourceNote></section><section id="ID_1438402640749_001" name="s7" reason="inEffect" startPeriod="2025-08-24" status="operational" temporalId="s7"><num value="7">7.</num><heading>Acting appointment to office of Director</heading><content>If, in the opinion of the
+            Chief
+            Executive, the Director is unable to exercise his powers or perform
+            the duties of this office during any period for any reason, the
+            Chief
+            Executive shall appoint another person to act as the Director
+            
+            during that period.</content><sourceNote>(Amended <ref href="/hk/2025/31">31 of 2025 s. 47</ref>)</sourceNote></section><section id="ID_1438402640749_003" name="s8" reason="inEffect" startPeriod="2019-12-12" status="operational" temporalId="s8"><num value="8">8.</num><heading>Duties of the Director</heading><subsection id="ID_1438411114571_018" name="1" temporalId="s8_1"><num value="1">(1)</num><leadIn>The Director shall—</leadIn><paragraph id="ID_1438411114571_026" name="a" temporalId="s8_1_a"><num value="a">(a)</num><content>examine, inquire into and audit the accounts of all accounting officers in respect of public moneys, stamps, securities, stores and any other Government property; and</content></paragraph><paragraph id="ID_1438411114571_034" name="b" temporalId="s8_1_b"><num value="b">(b)</num><content>examine, inquire into and audit the accounts, statements and records kept in respect of the accounts or funds specified in column 2 of <ref>Schedule 1</ref> by the public officers specified opposite such accounts or funds.<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/2000/32">32 of 2000 s. 17</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438411114571_041" name="2" temporalId="s8_2"><num value="2">(2)</num><leadIn>The Director shall satisfy himself that—</leadIn><paragraph id="ID_1438411114587_005" name="a" temporalId="s8_2_a"><num value="a">(a)</num><content>adequate directions and instructions have been given to ensure the due collection of public moneys or moneys in the accounts or constituting the funds specified in column 2 of <ref>Schedule 1</ref> and that the Ordinances relating thereto and such directions and instructions have been duly observed by the public officers concerned therewith;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/2000/32">32 of 2000 s. 17</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411114587_013" name="b" temporalId="s8_2_b"><num value="b">(b)</num><content>all issues and payments of public moneys or moneys in the accounts or constituting the funds specified in column 2 of <ref>Schedule 1</ref> were made in accordance with proper authority;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/2000/32">32 of 2000 s. 17</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411114587_021" name="c" temporalId="s8_2_c"><num value="c">(c)</num><content>all payments were properly chargeable and are supported by sufficient vouchers or proof of payment or otherwise properly accounted for;</content></paragraph><paragraph id="ID_1438411114587_029" name="d" temporalId="s8_2_d"><num value="d">(d)</num><content>the rules and procedures applied to the issue and payment of public moneys or moneys in the accounts or constituting the funds specified in column 2 of <ref>Schedule 1</ref> are sufficient to secure an effective control over expenditure and that such rules and procedures have been duly observed by the public officers concerned therewith;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/2000/32">32 of 2000 s. 17</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411114603_006" name="e" temporalId="s8_2_e"><num value="e">(e)</num><content>any public moneys appropriated by the Legislative Council for a specified purpose and expended by a public officer have been expended in the due application of that purpose and in accordance with the authority under which the appropriation was made; and</content></paragraph><paragraph id="ID_1438411114603_014" name="f" temporalId="s8_2_f"><num value="f">(f)</num><content>adequate rules and procedures have been made to ensure the proper receipt, custody, issue, sale, transfer and disposal of, or the accounting for, any stamps, securities, stores and other Government property and that such rules and procedures have been duly observed by the public officers concerned therewith.</content></paragraph></subsection><subsection id="ID_1438411114603_021" name="3" temporalId="s8_3"><num value="3">(3)</num><content>The Director shall not be required to undertake any duty which is, in his opinion, incompatible with the duties imposed on him by this or any other Ordinance.</content></subsection></section><section id="ID_1438402640764_002" name="s9" reason="inEffect" startPeriod="2025-08-24" status="operational" temporalId="s9"><num value="9">9.</num><heading>Powers of the Director</heading><subsection id="ID_1438411114634_052" name="1" temporalId="s9_1"><num value="1">(1)</num><leadIn>In the performance of his duties and the exercise of his powers under this Ordinance the Director may—</leadIn><paragraph id="ID_1438411114649_005" name="a" temporalId="s9_1_a"><num value="a">(a)</num><content><leadIn>authorize in writing any public officer on his behalf to conduct any inquiry, examination or audit and require such public officer to report thereon to him:</leadIn><proviso name="proviso" temporalId="s9_1_a_proviso">Provided that any such authority shall be
+                        subject to the concurrence of the head of the
+                        department
+                        in which the public officer is employed;
+                        <sourceNote>(Amended <ref href="/hk/2025/31">31 of 2025 s.
+                            49</ref>)</sourceNote></proviso></content></paragraph><paragraph id="ID_1438411114649_019" name="b" temporalId="s9_1_b"><num value="b">(b)</num><content>require any public officer to give such explanation, or to furnish such information, as the Director may think fit in order to enable the Director to discharge his duties;</content></paragraph><paragraph id="ID_1438411114649_027" name="c" temporalId="s9_1_c"><num value="c">(c)</num><content>without payment of any fee, cause search to be made in, and extracts to be
+                    taken from, any book, document or record in any
+                    Government department;
+                    <sourceNote>(Amended <ref href="/hk/2025/31">31 of 2025 s.
+                        49</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411114649_035" name="d" temporalId="s9_1_d"><num value="d">(d)</num><leadIn>require any person whom he thinks fit to explain any matter relating to—</leadIn><subparagraph id="ID_1438411114649_043" name="i" temporalId="s9_1_d_i"><num value="i">(i)</num><content>the receipt, expenditure or custody of public moneys or moneys in the accounts or constituting the funds specified in column 2 of <ref>Schedule 1</ref>;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/2000/32">32 of 2000 s. 18</ref>)</sourceNote></content></subparagraph><subparagraph id="ID_1438411114649_051" name="ii" temporalId="s9_1_d_ii"><num value="ii">(ii)</num><content>the receipt, custody, issue, sale, transfer or disposal of, or the accounting for, any stamps, securities, stores or other Government property; or</content></subparagraph><subparagraph id="ID_1438411114649_059" name="iii" temporalId="s9_1_d_iii"><num value="iii">(iii)</num><content>anything else which is, in the opinion of the Director, necessary for him to know for the due performance of his duties and the exercise of his powers under this Ordinance; and</content></subparagraph></paragraph><paragraph id="ID_1438411114665_006" name="e" temporalId="s9_1_e"><num value="e">(e)</num><content>report to the Secretary for Justice any matter which he thinks fit.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1997/ln362">L.N. 362 of 1997</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438411114665_013" name="2" temporalId="s9_2"><num value="2">(2)</num><content>In the performance of his duties and the exercise of his powers under this Ordinance, the Director and any public officer or other person authorized in writing by him shall have access to all records, books, vouchers, documents, cash, receipts, stamps, securities, stores and any other Government property in the possession of any public officer.</content></subsection><subsection id="ID_1438411114665_021" name="3" temporalId="s9_3"><num value="3">(3)</num><content>In the performance of his duties and the exercise of his powers under this Ordinance the Director shall not be subject to the direction or control of any other person or authority.</content></subsection></section><section id="ID_1438402640796_002" name="s10" reason="inEffect" startPeriod="2025-08-24" status="operational" temporalId="s10"><num value="10">10.</num><heading>Appointment of staff of the Director</heading><subsection id="ID_1438411114696_004" name="1" temporalId="s10_1"><num value="1">(1)</num><content>The
+                Chief
+                Executive may appoint other public officers to assist the Director
+                in the performance of his duties and the exercise of his powers under this Ordinance.
+                <sourceNote>(Amended <ref href="/hk/2025/31">31 of 2025 s.
+                50</ref>)</sourceNote></content></subsection><subsection id="ID_1438411114696_012" name="2" temporalId="s10_2"><num value="2">(2)</num><content>All members of the Director’s staff shall be employed subject to
+                the
+                Public Service (Administration) Order, the government regulations, and such
+                Ordinances as apply generally to public officers.
+                <sourceNote>(Amended <ref href="/hk/2025/31">31 of 2025 s.
+                50</ref>)</sourceNote></content></subsection><subsection id="ID_1438411114696_020" name="3" temporalId="s10_3"><num value="3">(3)</num><content>Subject to subsection (4), the Director may delegate any of his duties or powers under this Ordinance to any public officer.<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/2000/32">32 of 2000 s. 19</ref>)</sourceNote></content></subsection><subsection id="ID_1438411114712_004" name="4" temporalId="s10_4"><num value="4">(4)</num><content>The Director may delegate his duties or powers under this Ordinance in respect of the certifying and reporting of accounts, other than the certifying and reporting of the accounts which are required to be transmitted to the Director by the Director of Accounting Services in accordance with <ref>section 11</ref>, to any public officer who is a member of his staff appointed to or acting in the rank and office not below that of a Principal Auditor and specified in <ref>Schedule 2</ref> provided that any public officer so delegated shall, when signing an opinion or report, indicate beneath his signature the office he holds and the fact that he is signing on behalf of the Director.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/2000/32">32 of 2000 s. 19</ref>)</sourceNote></content></subsection></section><section id="ID_1438402640811_002" name="s11" reason="inEffect" startPeriod="2025-08-24" status="operational" temporalId="s11"><num value="11">11.</num><heading>Submission of annual accounts by the Director of Accounting Services to the Director</heading><subsection id="ID_1438411114743_027" name="1" temporalId="s11_1"><num value="1">(1)</num><leadIn>The Director of Accounting Services shall, within the period of 5 months, or
+                such longer
+                period
+                as the Chief Executive may determine, after the close of each
+                financial year, transmit to the Director—
+                <sourceNote>(Amended <ref href="/hk/2025/31">31 of 2025 s.
+                51</ref>)</sourceNote></leadIn><paragraph id="ID_1438411114743_035" name="a" temporalId="s11_1_a"><num value="a">(a)</num><content>a statement of the assets and liabilities of the Government;</content></paragraph><paragraph id="ID_1438411114759_006" name="b" temporalId="s11_1_b"><num value="b">(b)</num><content>an annual statement of the receipts and payments by the Government;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1985/17">17 of
+                            1985 s. 2</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411114759_014" name="c" temporalId="s11_1_c"><num value="c">(c)</num><content>a statement of the assets and liabilities of each fund, other than the
+                    Lotteries Fund, established in accordance with <ref>section 29</ref> of the
+                    Public Finance Ordinance (<ref href="/hk/cap2">Cap. 2</ref>);<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/1988/45">45
+                            of 1988 s. 2</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411114759_022" name="d" temporalId="s11_1_d"><num value="d">(d)</num><content>a statement of the receipts and payments by each fund, other than the
+                    Lotteries Fund, established in accordance with <ref>section 29</ref> of the
+                    Public Finance Ordinance (<ref href="/hk/cap2">Cap. 2</ref>); and<inline class="width_5"> </inline><sourceNote>(Replaced <ref href="/hk/1988/45">45
+                            of 1988 s. 2</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411114759_030" name="e" temporalId="s11_1_e"><num value="e">(e)</num><content>such other statements as the
+                    Chief
+                    Executive may specify from time to time.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1985/17">17 of
+                            1985 s.
+                        2</ref>. Amended <ref href="/hk/2025/31">31 of 2025 s.
+                        51</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438411114759_037" name="2" temporalId="s11_2"><num value="2">(2)</num><sourceNote>(Repealed <ref href="/hk/1988/45">45 of 1988 s. 2</ref>)</sourceNote></subsection></section><section name="s12" reason="inEffect" startPeriod="2025-08-24" status="operational" temporalId="s12" id="ID_1438402640827_001"><num value="12">12.</num><heading>Examination and audit of annual statements by the Director and submission of report
+            to the President</heading><subsection name="1" temporalId="s12_1" id="ID_1756284984985_001"><num value="1">(1)</num><leadIn>On receipt of the statements referred to in <ref>section 11</ref>, the
+                Director—</leadIn><paragraph name="a" temporalId="s12_1_a" id="ID_1756284984985_002"><num value="a">(a)</num><content>shall examine and audit the statements; and</content></paragraph><paragraph name="b" temporalId="s12_1_b" id="ID_1756284984985_003"><num value="b">(b)</num><leadIn>shall, within the period of 7 months after the close of the financial year,
+                    or such longer period as the
+                    Chief
+                    Executive may determine, prepare and submit to the President
+                    a
+                    report in respect of his examination and audit of the statements and on any
+                    matter relating to the performance of his duties and the exercise of his powers
+                    under this Ordinance, together
+                        with— <sourceNote>(Amended <ref href="/hk/1978/60">60 of 1978 s. 3</ref>; <ref href="/hk/1993/19">19 of 1993 s.
+                        3</ref>; <ref href="hk/2025/31">31 of 2025 s. 52</ref>)</sourceNote></leadIn><subparagraph name="i" temporalId="s12_1_b_i" id="ID_1756284985048_004"><num value="i">(i)</num><content>a copy of the statement of assets and liabilities of the Government,
+                        duly certified by him;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1985/17">17 of 1985 s.
+                        3</ref>)</sourceNote></content></subparagraph><subparagraph name="ii" temporalId="s12_1_b_ii" id="ID_1756284985079_005"><num value="ii">(ii)</num><content>a copy of the annual statement of the receipts and payments by the
+                        Government, duly certified by him;</content></subparagraph><subparagraph name="iii" temporalId="s12_1_b_iii" id="ID_1756284985079_006"><num value="iii">(iii)</num><content>a copy of each statement of assets and liabilities transmitted to him
+                        under <ref>section 11(1)(c)</ref>, duly certified by him; and<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/1988/45">45 of 1988 s. 3</ref>)</sourceNote></content></subparagraph><subparagraph name="iv" temporalId="s12_1_b_iv" id="ID_1756284985110_007"><num value="iv">(iv)</num><content>a copy of each statement of receipts and payments transmitted to him
+                        under <ref>section 11(1)(d)</ref>, duly certified by him.<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/1988/45">45 of 1988 s. 3</ref>)</sourceNote></content></subparagraph></paragraph></subsection><subsection name="2" temporalId="s12_2" id="ID_1756284985126_008"><num value="2">(2)</num><leadIn>Within the period of 1 month, or such longer period as the President may
+                determine, after the receipt of the report and certified statements from the
+                Director under subsection (1), a copy of the report and certified statements
+                    shall— <sourceNote>(Amended <ref href="/hk/1984/49">49 of 1984 s. 2</ref>; <ref href="/hk/1993/19">19 of
+                        1993 s. 3</ref>)</sourceNote></leadIn><paragraph name="a" temporalId="s12_2_a" id="ID_1756284985173_009"><num value="a">(a)</num><content>be laid before the Legislative Council; and</content></paragraph><paragraph name="b" temporalId="s12_2_b" id="ID_1756284985173_010"><num value="b">(b)</num><content>be submitted to the
+                        Government.<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/1978/60">60
+                            of 1978 s. 3</ref>)</sourceNote></content></paragraph></subsection><subsection name="2A" temporalId="s12_2A" id="ID_1756284985188_011"><num value="2A">(2A)</num><leadIn>Within the period of 3 months, or such longer period as the President may
+                determine, after the laying of the report and certified statements from the Director
+                under subsection <ref>(2)(a)</ref>, a copy of the report of the Public Accounts
+                Committee of the Legislative Council
+                    shall— <sourceNote>(Amended <ref href="/hk/1993/19">19 of 1993 s.
+                3</ref>)</sourceNote></leadIn><paragraph name="a" temporalId="s12_2A_a" id="ID_1756284985220_012"><num value="a">(a)</num><content>be laid before the Legislative Council; and</content></paragraph><paragraph name="b" temporalId="s12_2A_b" id="ID_1756284985220_013"><num value="b">(b)</num><content>be submitted to the
+                        Government.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1984/49">49 of
+                            1984 s. 2</ref>)</sourceNote></content></paragraph></subsection><subsection name="3" temporalId="s12_3" id="ID_1756284985251_014"><num value="3">(3)</num><leadIn>Without prejudice to subsections (1), (2) and
+                    (2A)— <sourceNote>(Amended <ref href="/hk/1984/49">49 of 1984 s. 2</ref>)</sourceNote></leadIn><paragraph name="a" temporalId="s12_3_a" id="ID_1756284985266_015"><num value="a">(a)</num><content>the Director may submit to the President
+                    at
+                    any time a special report on any matter incidental to the performance of his
+                    duties or the exercise of his powers under this Ordinance; and<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1978/60">60 of
+                            1978 s. 3</ref>; <ref href="/hk/1993/19">19 of 1993 s.
+                        3</ref>)</sourceNote></content></paragraph><paragraph name="b" temporalId="s12_3_b" id="ID_1756284985532_016"><num value="b">(b)</num><content>the procedure to be followed in respect of such report shall be in
+                    accordance with subsections (2) and (2A).<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/1984/49">49 of 1984 s.
+                            2</ref>)</sourceNote></content></paragraph></subsection><sourceNote>(Amended <ref href="/hk/2025/31">31 of 2025 s. 52</ref>)</sourceNote></section><section id="ID_1438402640842_001" name="s13" reason="inEffect" startPeriod="2025-08-24" status="operational" temporalId="s13"><num value="13">13.</num><heading>Director’s report of serious irregularities to the President</heading><subsection id="ID_1438411114852_004" name="1" temporalId="s13_1"><num value="1">(1)</num><leadIn>The Director shall report to the President
+                any
+                matter
+                    which— <sourceNote>(Amended <ref href="/hk/1978/60">60 of 1978 s. 4</ref>; <ref href="/hk/1993/19">19 of
+                        1993 s.
+                    4</ref>; <ref href="/hk/2025/31">31 of 2025 s.
+                    53</ref>)</sourceNote></leadIn><paragraph id="ID_1438411114852_012" name="a" temporalId="s13_1_a"><num value="a">(a)</num><leadIn>constitutes, in the opinion of the Director, a serious irregularity in the
+                    accounting for—</leadIn><subparagraph id="ID_1438411114852_020" name="i" temporalId="s13_1_a_i"><num value="i">(i)</num><content>the receipt, expenditure or custody of public moneys or moneys in the
+                        accounts or constituting the funds specified in column 2 of <ref>Schedule
+                            1</ref>; or<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/2000/32">32 of 2000 s. 20</ref>)</sourceNote></content></subparagraph><subparagraph id="ID_1438411114852_028" name="ii" temporalId="s13_1_a_ii"><num value="ii">(ii)</num><content>the receipt, issue, custody, sale, transfer or delivery of any stamps,
+                        securities, stores or any other Government property; and</content></subparagraph></paragraph><paragraph id="ID_1438411114852_035" name="b" temporalId="s13_1_b"><num value="b">(b)</num><content>comes to his notice in the performance of his duties or the exercise of his
+                    powers under this Ordinance.</content></paragraph></subsection><subsection id="ID_1438411114852_042" name="2" temporalId="s13_2"><num value="2">(2)</num><content>The procedure to be followed in respect of a report to the President under subsection (1) shall be in accordance with <ref>section 12(2)</ref> and (2A).<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/1984/49">49 of 1984 s. 3</ref>. Amended <ref href="/hk/1993/19">19 of 1993 s. 4</ref>)</sourceNote></content></subsection></section><section id="ID_1438402640858_002" name="s14" reason="inEffect" startPeriod="2025-08-24" status="operational" temporalId="s14"><num value="14">14.</num><heading>Audit, examination or inquiry into the accounts of bodies corporate, etc.
+            authorized by Ordinances</heading><subsection name="1" temporalId="s14_1" id="ID_1755223272096_001"><num value="1">(1)</num><leadIn>Where any Ordinance empowers the Director to audit, examine or inquire into the
+                accounts of any person, body corporate or other body, the Director—</leadIn><paragraph name="a" temporalId="s14_1_a" id="ID_1755223272096_002"><num value="a">(a)</num><content>shall have in relation to such person, body corporate or other body, its
+                    members, officers and employees, the same discretion and powers as are conferred
+                    on him by <ref>sections 8</ref> and <ref>9</ref> in relation to public moneys,
+                    stamps, securities, stores and any other Government property; and</content></paragraph><paragraph name="b" temporalId="s14_1_b" id="ID_1755223272096_003"><num value="b">(b)</num><content>
+                    <leadIn>may authorize in writing any person publicly carrying on the profession
+                        of accountant or any public officer to audit, examine or inquire into the
+                        records and accounts of such person, body corporate or other body and
+                        require the authorized accountant or public officer to report thereon to the
+                        Director in such manner as the Director may specify:</leadIn>
+                    <proviso name="proviso" temporalId="s14_1_b_proviso">Provided that any such
+                        authority to a public officer shall be subject to the concurrence of the
+                        head of the
+                        department
+                        in which the public officer is employed.
+                        <sourceNote>(Amended <ref href="/hk/2025/31">31 of 2025 s.
+                            54</ref>)</sourceNote></proviso>
+                </content></paragraph></subsection><subsection name="2" temporalId="s14_2" id="ID_1755223272205_004"><num value="2">(2)</num><content>Any person, body corporate or other body whose accounts have been audited,
+                examined or inquired into under subsection (1) may be charged such fee (if any) as
+                may be determined under <ref>section 17(1)</ref>.</content></subsection></section><section id="ID_1438402640874_001" name="s15" reason="inEffect" startPeriod="2025-08-24" status="operational" temporalId="s15"><num value="15">15.</num><heading>Audit, examination or inquiry into the accounts of persons, bodies corporate, etc.
+            under
+            Chief
+            Executive’s authority</heading><sourceNote>(Amended <ref href="/hk/2025/31">31 of 2025 s. 55</ref>)</sourceNote><subsection id="ID_1438411114946_004" name="1" temporalId="s15_1"><num value="1">(1)</num><leadIn>Notwithstanding that he is not empowered by any Ordinance to audit, examine or
+                inquire into the accounts of a person, body corporate or other body, the Director
+                may audit, examine or inquire into the records and accounts of any person, body
+                corporate
+                or other body if—</leadIn><paragraph id="ID_1438411114946_012" name="a" temporalId="s15_1_a"><num value="a">(a)</num><content>he is authorized in writing to do so by the
+                    Chief
+                    Executive in the public interest; and </content></paragraph><paragraph id="ID_1438411114946_020" name="b" temporalId="s15_1_b"><num value="b">(b)</num><content>in the opinion of the Director, such audit, examination or inquiry will not
+                    interfere with the due performance of his duties and the due exercise of his
+                    powers under this Ordinance.</content></paragraph></subsection><subsection id="ID_1438411114946_027" name="2" temporalId="s15_2"><num value="2">(2)</num><leadIn>Where the Director undertakes under subsection (1) the audit, examination of, or
+                inquiry into the records and accounts of any person, body corporate or other body,
+                he—</leadIn><paragraph id="ID_1438411114946_035" name="a" temporalId="s15_2_a"><num value="a">(a)</num><content>shall have in relation to such person, body corporate or other body, its
+                    members, officers and employees the same discretion and powers as are conferred
+                    on him by <ref>sections 8</ref> and <ref>9</ref> in relation to public moneys,
+                    stamps, securities, stores and any other Government property; and</content></paragraph><paragraph id="ID_1438411114961_006" name="b" temporalId="s15_2_b"><num value="b">(b)</num><content>
+                    <leadIn>may authorize in writing any person publicly carrying on the profession
+                        of accountant or any public officer to audit, examine or inquire into the
+                        records and accounts of such person, body corporate or other body and
+                        require the authorized accountant or public officer to report thereon to the
+                        Director in such manner as the Director may determine:</leadIn>
+                    <proviso name="proviso" temporalId="s15_2_b_proviso">Provided that any such
+                        authority to a public officer shall be subject to the concurrence of the
+                        head of the
+                        department
+                        in which the public officer is employed.</proviso>
+                </content></paragraph></subsection><subsection id="ID_1438411114961_019" name="3" temporalId="s15_3"><num value="3">(3)</num><content>Any person, body corporate or other body whose records and accounts have been
+                audited, examined or inquired into under subsection (1) may be charged such fee (if
+                any) as may be determined under <ref>section 17(1)</ref>.</content></subsection><sourceNote>(Amended <ref href="/hk/2025/31">31 of 2025 s. 55</ref>)</sourceNote></section><section id="ID_1438402640889_001" name="s16" reason="inEffect" startPeriod="2025-08-24" status="operational" temporalId="s16"><num value="16">16.</num><heading>Director’s certification of accounts and report of accounts of bodies corporate,
+            etc.</heading><subsection id="ID_1438411114993_004" name="1" temporalId="s16_1"><num value="1">(1)</num><leadIn>Subject to the provisions of any other Ordinance, where the Director has
+                audited, examined or inquired into the accounts of any person, body corporate or
+                other body under <ref>section 14</ref> or <ref>15</ref> he shall—</leadIn><paragraph id="ID_1438411114993_012" name="a" temporalId="s16_1_a"><num value="a">(a)</num><content>if he has audited the accounts of such person, body corporate or other
+                    body, submit to the
+                    Chief
+                    Executive a statement of such accounts, duly certified by him;
+                    and</content></paragraph><paragraph id="ID_1438411114993_020" name="b" temporalId="s16_1_b"><num value="b">(b)</num><content>prepare such a report (if any) as he may think fit in respect of his audit,
+                    examination or inquiry into the accounts and submit such report (if any) to the
+                    Chief
+                    Executive.</content></paragraph></subsection><subsection id="ID_1438411114993_027" name="2" temporalId="s16_2"><num value="2">(2)</num><content>If the Director so requests, the
+                Chief
+                Executive shall authorize the Director to transmit to the
+                President a copy of any certified statement of accounts or report submitted to the
+                Chief
+                Executive under subsection (1), and the procedure to be followed
+                in respect of such statement or report shall be in accordance with <ref>section
+                    12(2)</ref> and (2A).<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/1993/19">19 of 1993 s. 5</ref>)</sourceNote></content></subsection><sourceNote>(Amended <ref href="/hk/2025/31">31 of 2025 s. 56</ref>)</sourceNote></section><section id="ID_1438402640889_003" name="s17" reason="inEffect" startPeriod="2019-12-12" status="operational" temporalId="s17"><num value="17">17.</num><heading>Fees to be determined by the Financial Secretary</heading><subsection id="ID_1438411115024_004" name="1" temporalId="s17_1"><num value="1">(1)</num><leadIn>Subject to the provisions of any other Ordinance, the fee (if any) charged for the audit, examination or inquiry into the accounts of any person, body corporate or other body undertaken by the Director under <ref>section 14</ref> or <ref>15</ref> shall—</leadIn><paragraph id="ID_1438411115024_012" name="a" temporalId="s17_1_a"><num value="a">(a)</num><content>be determined by the Financial Secretary;</content></paragraph><paragraph id="ID_1438411115024_020" name="b" temporalId="s17_1_b"><num value="b">(b)</num><content>be payable by such person, body corporate or other body; and</content></paragraph><paragraph id="ID_1438411115024_028" name="c" temporalId="s17_1_c"><num value="c">(c)</num><content>be paid into the general revenue.</content></paragraph></subsection><subsection id="ID_1438411115024_035" name="2" temporalId="s17_2"><num value="2">(2)</num><leadIn>Subject to the provisions of any other Ordinance, the fee (if any) payable to an
+                authorized person for the audit, examination or inquiry into the accounts of any
+                person, body corporate or other body under <ref>section 14(1)(b)</ref> or
+                <ref>15(2)(b)</ref>
+                shall—
+                <sourceNote>(<ref href="/hk/2019/er6">E.R. 6 of
+                2019</ref>)</sourceNote></leadIn><paragraph id="ID_1438411115024_043" name="a" temporalId="s17_2_a"><num value="a">(a)</num><content>be determined by the Financial Secretary; and</content></paragraph><paragraph id="ID_1438411115024_051" name="b" temporalId="s17_2_b"><num value="b">(b)</num><content>be paid from the general revenue.</content></paragraph></subsection></section><section id="ID_1438402640905_002" name="s18" reason="inEffect" startPeriod="2019-12-12" status="operational" temporalId="s18"><num value="18">18.</num><heading>Amendment of <ref>Schedules</ref></heading><subsection id="ID_1438411115039_064" name="1" temporalId="s18_1"><num value="1">(1)</num><content>The Financial Secretary may, by notice published in the Gazette, amend <ref>Schedule 1</ref>.</content></subsection><subsection id="ID_1438411115039_072" name="2" temporalId="s18_2"><num value="2">(2)</num><content>The Director may, by notice published in the Gazette, amend <ref>Schedule 2</ref>.</content></subsection><sourceNote>(Added <ref href="/hk/2000/32">32 of 2000 s. 21</ref>)</sourceNote></section><schedule id="ID_1438402640936_001" name="sch1" reason="inEffect" startPeriod="2025-08-24" status="operational" temporalId="sch1"><num value="1">Schedule
+            1</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap122/s2">ss. 2</ref>, <ref href="/hk/cap122/s8">8(1)</ref> &amp; <ref href="/hk/cap122/s8">(2)</ref>, <ref href="/hk/cap122/s9">9(1)</ref>, <ref href="/hk/cap122/s13">13(1)</ref> &amp; <ref href="/hk/cap122/s18">18(1)</ref>]</note><heading>Accounts
+            and Funds subject to Audit by the Director</heading><text>
+            <table xmlns="http://www.w3.org/1999/xhtml" width="100%" class="repeat_header">
+                <col width="8%"></col>
+                <col width="27%"></col>
+                <col width="2%"></col>
+                <col width="24%"></col>
+                <col width="2%"></col>
+                <col width="37%"></col>
+                <thead>
+                    <tr>
+                        <th class="align_center valign_bottom"><span class="not_bold">Item</span></th>
+                        <th class="align_center valign_bottom"><span class="not_bold">Accounts/Funds</span></th>
+                        <th class="cellpadding_top_1"></th>
+                        <th class="align_center valign_bottom"><span class="not_bold">Responsible
+                                public officer</span></th>
+                        <th class="cellpadding_top_1"></th>
+                        <th class="align_center valign_bottom"><span class="not_bold">Statutory
+                                provisions under which the account or fund is kept or operated or in
+                                which the account or fund is referred to</span></th>
+                    </tr>
+                    <tr>
+                        <th class="align_center valign_bottom"></th>
+                        <th class="align_center valign_bottom"></th>
+                        <th class="cellpadding_top_1"></th>
+                        <th class="align_center valign_bottom"></th>
+                        <th class="cellpadding_top_1"></th>
+                        <th class="align_center valign_bottom"></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="cellpadding_top_3">
+                            <p class="cellpadding_top_2">1.</p>
+                        </td>
+                        <td class="cellpadding_top_3">
+                            <p class="cellpadding_top_2">High Court Suitors’ Funds</p>
+                        </td>
+                        <td>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                        <td class="cellpadding_top_3">
+                            <p class="cellpadding_top_2">Registrar of the High Court</p>
+                        </td>
+                        <td>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                        <td class="align_justified cellpadding_top_3">
+                            <p class="cellpadding_top_2"><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Rule 4</ref> of
+                                the High Court Suitors’ Funds Rules (<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap4B">Cap. 4 sub. leg. B</ref>).</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="left_indent_1 first_line_indent_0">2.</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="left_indent_2 first_line_indent_0">Official Receiver in
+                                Bankruptcy Account</p>
+                        </td>
+                        <td>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                        <td class="align_left">
+                            <p class="left_indent_2 first_line_indent_0">Official Receiver</p>
+                        </td>
+                        <td>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_justified left_indent_1 first_line_indent_0"><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Section
+                                    91(1)</ref> of the Bankruptcy Ordinance (<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap6">Cap. 6</ref>).</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="left_indent_1 first_line_indent_0">3.</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="left_indent_2 first_line_indent_0">Bankruptcy Estate
+                                Account</p>
+                        </td>
+                        <td>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                        <td class="align_left">
+                            <p class="left_indent_2 first_line_indent_0">Official Receiver</p>
+                        </td>
+                        <td>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_justified left_indent_1 first_line_indent_0"><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Section 128</ref>
+                                of the Bankruptcy Ordinance (<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap6">Cap. 6</ref>).</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="left_indent_1 first_line_indent_0">4.</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="left_indent_2 first_line_indent_0">Official Administrator’s
+                                Account </p>
+                        </td>
+                        <td>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                        <td class="align_left">
+                            <p class="left_indent_2 first_line_indent_0">Registrar of the High Court
+                                in his capacity as the Official Administrator</p>
+                        </td>
+                        <td>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_justified left_indent_1 first_line_indent_0"><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Section
+                                    23A(1)</ref> of the Probate and Administration Ordinance (<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap10">Cap. 10</ref>).</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="left_indent_1 first_line_indent_0">5.</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="left_indent_2 first_line_indent_0">Labour Tribunal Suitors’
+                                Funds </p>
+                        </td>
+                        <td>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                        <td class="align_left">
+                            <p class="left_indent_2 first_line_indent_0">Registrar of the Labour
+                                Tribunal</p>
+                        </td>
+                        <td>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_justified left_indent_1 first_line_indent_0"><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Rule 5</ref> of
+                                the Labour Tribunal (Suitors’ Funds) Rules (<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap25D">Cap. 25 sub. leg. D</ref>).</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="cellpadding_top_3">
+                            <p class="left_indent_1 first_line_indent_0">6.</p>
+                        </td>
+                        <td class="align_left cellpadding_top_3">
+                            <p class="left_indent_2 first_line_indent_0">Companies Liquidation
+                                Account </p>
+                        </td>
+                        <td>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                        <td class="align_left cellpadding_top_3">
+                            <p class="left_indent_2 first_line_indent_0">Official Receiver</p>
+                        </td>
+                        <td>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                        <td class="align_justified cellpadding_right_2 cellpadding_top_3">
+                            <p><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Section
+                                    293(1)</ref> of the Companies (Winding Up and Miscellaneous
+                                Provisions) Ordinance (<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap32">Cap. 32</ref>). <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Amended <ref href="/hk/2012/28">28 of 2012 ss.
+                                        912
+                                        &amp;
+                                        920</ref>)</sourceNote></p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="left_indent_1 first_line_indent_0">7.</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="left_indent_2 first_line_indent_0">Independent Commission
+                                Against Corruption Welfare Fund</p>
+                        </td>
+                        <td>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                        <td class="align_left">
+                            <p class="left_indent_2 first_line_indent_0">Commissioner of the
+                                Independent Commission Against Corruption</p>
+                        </td>
+                        <td>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_justified left_indent_1 first_line_indent_0"><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Section 17A</ref>
+                                of the Independent Commission Against Corruption Ordinance (<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap204">Cap. 204</ref>).</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="left_indent_1 first_line_indent_0">8.</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="left_indent_2 first_line_indent_0">District Court Suitors’
+                                Funds</p>
+                        </td>
+                        <td>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                        <td class="align_left">
+                            <p class="left_indent_2 first_line_indent_0">Registrar of the District
+                                Court</p>
+                        </td>
+                        <td>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_justified left_indent_1 first_line_indent_0"><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Rule 4</ref> of
+                                the District Court Suitors’ Funds Rules (<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap336E">Cap. 336 sub. leg. E</ref>).</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="left_indent_1 first_line_indent_0">9.</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="left_indent_2 first_line_indent_0">Small Claims Tribunal
+                                Suitors’ Funds</p>
+                        </td>
+                        <td>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                        <td class="align_left">
+                            <p class="left_indent_2 first_line_indent_0">Registrar of the District
+                                Court</p>
+                        </td>
+                        <td>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                        <td class="align_justified cellpadding_right_2">
+                            <p><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Rule 5</ref> of
+                                the Small Claims Tribunal (Suitors’ Funds) Rules (<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap338D">Cap. 338 sub. leg. D</ref>).</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="left_indent_1 first_line_indent_0">10.</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="left_indent_2 first_line_indent_0">Minor Employment Claims
+                                Adjudication Board Suitors’ Funds</p>
+                        </td>
+                        <td>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                        <td class="align_left">
+                            <p class="left_indent_2 first_line_indent_0">Registrar of the Minor
+                                Employment Claims Adjudication Board </p>
+                        </td>
+                        <td>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                        <td class="align_justified">
+                            <p><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Rule 8</ref> of
+                                the Minor Employment Claims Adjudication Board (Suitors’ Funds)
+                                Rules (<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap453C">Cap. 453 sub. leg. C</ref>).</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="cellpadding_top_3">
+                            <p class="left_indent_1 first_line_indent_0">11.</p>
+                        </td>
+                        <td class="align_left cellpadding_top_3 ">
+                            <p class="left_indent_2 first_line_indent_0">Master in Lunacy
+                                Account</p>
+                        </td>
+                        <td>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                        <td class="align_left cellpadding_top_3 ">
+                            <p class="left_indent_2 first_line_indent_0">Registrar of the High Court
+                                in his capacity as the Master in Lunacy</p>
+                        </td>
+                        <td>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                        <td class="align_left cellpadding_top_3">
+                            <p class="align_justified left_indent_1 first_line_indent_0">Not
+                                applicable.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="left_indent_1 first_line_indent_0">12.</p>
+                        </td>
+                        <td class="align_left" colspan="5"><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="/hk/2025/31">31 of 2025 s.
+                            57</ref>)</sourceNote></td>
+                        
+                        
+                        
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="left_indent_1 first_line_indent_0">13.</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="left_indent_2 first_line_indent_0">Official Receiver in
+                                Voluntary Arrangement Account</p>
+                        </td>
+                        <td>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                        <td class="align_left">
+                            <p class="left_indent_2 first_line_indent_0">Official Receiver</p>
+                        </td>
+                        <td>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                        <td class="align_justified cellpadding_right_2">
+                            <p><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Sections 2</ref>
+                                (definition of <term xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">nominee</term>) and 20H(1)(a)(ii) of the Bankruptcy Ordinance
+                                    (<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap6">Cap. 6</ref>) and <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">rules
+                                    122C(2)(i)</ref> and <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">122D(3)</ref> and
+                                (4) of the Bankruptcy Rules (<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap6A">Cap. 6 sub. leg. A</ref>). <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Added <ref href="/hk/2001/ln64">L.N. 64 of 2001</ref>)</sourceNote></p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="left_indent_1 first_line_indent_0">14.</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="left_indent_2 first_line_indent_0">Competition Tribunal
+                                Suitors’ Funds</p>
+                        </td>
+                        <td>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                        <td class="align_left">
+                            <p class="left_indent_2 first_line_indent_0">Registrar of the
+                                Competition Tribunal</p>
+                        </td>
+                        <td>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_justified left_indent_1 first_line_indent_0"><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Rule 5</ref> of
+                                the Competition Tribunal Suitors’ Funds Rules (<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap619F">Cap. 619 sub. leg. F</ref>). <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Added <ref href="hk/2018/ln60">L.N. 60 of 2018</ref>)</sourceNote></p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="left_indent_1 first_line_indent_0">15.</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="left_indent_2 first_line_indent_0">Hong Kong Court of Final
+                                Appeal Suitors’ Funds</p>
+                        </td>
+                        <td>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                        <td class="align_left">
+                            <p class="left_indent_2 first_line_indent_0">Registrar of the Hong Kong
+                                Court of Final Appeal</p>
+                        </td>
+                        <td>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_justified left_indent_1 first_line_indent_0"><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Rule 5</ref> of
+                                the Hong Kong Court of Final Appeal Suitors’ Funds Rules (<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap484C">Cap. 484 sub. leg. C</ref>). <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Added <ref href="hk/2018/ln60">L.N. 60 of 2018</ref>)</sourceNote></p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="cellpadding_top_3">
+                            <p class="left_indent_1 first_line_indent_0">16.</p>
+                        </td>
+                        <td class="align_left cellpadding_top_3 ">
+                            <p class="left_indent_2 first_line_indent_0">Lands Tribunal Suitors’
+                                Funds</p>
+                        </td>
+                        <td>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                        <td class="align_left cellpadding_top_3 ">
+                            <p class="left_indent_2 first_line_indent_0">Registrar of the Lands
+                                Tribunal</p>
+                        </td>
+                        <td>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                        <td class="align_left cellpadding_top_3">
+                            <p class="align_justified left_indent_1 first_line_indent_0"><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Rule 5</ref> of
+                                the Lands Tribunal (Suitors’ Funds) Rules (<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap17C">Cap. 17 sub. leg. C</ref>). <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Added <ref href="hk/2018/ln60">L.N. 60 of 2018</ref>)</sourceNote></p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </text><sourceNote>(<ref>Schedule
+                1</ref> added <ref href="/hk/2000/32">32 of 2000 s.
+        22</ref>)</sourceNote></schedule><schedule id="ID_1438402640952_001" name="sch2" reason="inEffect" startPeriod="2019-12-12" status="operational" temporalId="sch2"><num value="2">Schedule
+            2</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap122/s10">ss. 10(4)</ref> &amp; <ref href="/hk/cap122/s18">18(2)</ref>]</note><heading>Specified
+            Public Officer</heading><text>
+            
+            <table xmlns="http://www.w3.org/1999/xhtml" class="445">
+                
+                <col width="7%"></col>
+                
+                <col width="93%"></col>
+                <tr>
+                    <td>
+                        <p class="left_indent_1 first_line_indent_0">1.</p>
+                    </td>
+                    <td>
+                        <p class="left_indent_3 first_line_indent_0">Deputy Director of Audit</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p class="left_indent_1 first_line_indent_0">2.</p>
+                    </td>
+                    <td>
+                        <p class="left_indent_3 first_line_indent_0">Assistant Director of Audit</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p class="left_indent_1 first_line_indent_0">3.</p>
+                    </td>
+                    <td>
+                        <p class="left_indent_3 first_line_indent_0">Principal Auditor</p>
+                    </td>
+                </tr>
+            </table>
+        </text><sourceNote>(<ref>Schedule 2</ref> added <ref href="/hk/2000/32">32 of 2000 s.
+                22</ref>)</sourceNote></schedule></main></ordinance>

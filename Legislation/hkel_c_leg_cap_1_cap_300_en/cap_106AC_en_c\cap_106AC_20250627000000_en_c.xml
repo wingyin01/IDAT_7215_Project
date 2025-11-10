@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?><subLeg xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd" xml:lang="en"><meta><docName>Cap. 106 sub. leg. AC</docName><docType>cap</docType><docNumber>106AC</docNumber><docStatus>In effect</docStatus><dc:identifier>/hk/cap106AC!en</dc:identifier><dc:date>2025-06-27</dc:date><dc:subject>legislation</dc:subject><dc:language>en</dc:language><dc:publisher>DoJ</dc:publisher><dc:rights>the Government of the Hong Kong Special Administrative Region</dc:rights></meta><main xml:lang="en" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd"><docTitle id="ID_1438402550362_001" name="shortTitle" reason="inEffect" status="operational" temporalId="shortTitle" startPeriod="2015-01-29">Telecommunications (Determining Spectrum Utilization Fees by
+            Auction) Regulation</docTitle><enactingFormula role="empoweringSection">(<ref href="/hk/cap106/s32I">Cap. 106, section
+                32I</ref>)</enactingFormula><sourceNote>(Enacting provision omitted—<ref href="/hk/2012/er2">E.R. 2 of
+            2012</ref>)<marker role="blank-line"></marker><marker role="blank-line"></marker></sourceNote><commencementNote>[4 July 2008]</commencementNote><sourceNote>(Format changes—<ref href="/hk/2012/er2">E.R. 2 of 2012</ref>)</sourceNote><section id="ID_1438402550362_003" name="s1" reason="omittedAsSpent" startPeriod="2012-08-02" status="omitted" temporalId="s1"><num value="1">1.</num><sourceNote>(Omitted as spent—<ref href="/hk/2012/er2">E.R. 2 of 2012</ref>)</sourceNote></section><section id="ID_1438402550378_002" name="s2" reason="inEffect" startPeriod="2012-08-02" status="operational" temporalId="s2"><num value="2">2.</num><heading>Interpretation</heading><leadIn>In this Regulation, unless the context otherwise requires—</leadIn><def name="BaseStation"><term>base station</term> (<term xml:lang="zh-Hant-HK">基地電台</term>) means a transmitting and receiving station built on land for the provision of mobile telecommunications services;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2010/ln62">L.N. 62 of 2010</ref>)</sourceNote></def><def name="Bid"><term>bid</term> (<term xml:lang="zh-Hant-HK">出價</term>) includes an intention to bid specified in a written application to the Authority;</def><def name="Bidder"><term>bidder</term> (<term xml:lang="zh-Hant-HK">競投人</term>) includes a person who has, by written application to the Authority, expressed an intention to bid;</def><def name="EligibleBidder"><leadIn><term>eligible bidder</term> (<term xml:lang="zh-Hant-HK">合資格競投人</term>), in relation to the use of spectrum, means a bidder that—</leadIn><paragraph id="ID_1438410834785_040" name="a" temporalId="s2_a"><num value="a">(a)</num><content>has been determined under <ref>section 11(b)</ref> to be qualified to participate in an auction to be held under <ref>section 5</ref>; and</content></paragraph><paragraph id="ID_1438410834785_048" name="b" temporalId="s2_b"><num value="b">(b)</num><content>has not been determined under <ref>section 11(b)</ref> to be disqualified from participating in the auction;</content></paragraph></def><def name="RelevantPeriod"><term>relevant period</term> (<term xml:lang="zh-Hant-HK">有關期間</term>) means a period after which the Authority may not, according to the specified terms, accept written applications for the use of spectrum;</def><def name="SpecifiedTerms"><term>specified terms</term> (<term xml:lang="zh-Hant-HK">指明條款</term>) means the terms and conditions specified under <ref>section 11(c)</ref>;</def><def name="SpectrumCap"><term>spectrum cap</term> (<term xml:lang="zh-Hant-HK">頻譜上限</term>) means the maximum amount of spectrum specified by the Authority in the specified terms that may be assigned to a person or a group of persons who are connected bidders within the meaning of the specified terms.</def></section><section id="ID_1438402550409_001" name="s3" reason="inEffect" startPeriod="2025-06-27" status="operational" temporalId="s3"><num value="3">3.</num><heading>Method for determining spectrum utilization fee</heading><subsection id="ID_1517284120525_001" name="1A" temporalId="s3_1A"><num value="1A">(1A)</num><content>The fixed fee referred to in <ref>section 2(2)(a)</ref> of
+                the Telecommunications (Level of Spectrum Utilization Fees) (Second Generation
+                Mobile Services) Regulation (<ref href="/hk/cap106AA">Cap. 106 sub. leg. AA</ref>)
+                for the spectrum which falls within the frequency bands set out in <ref>Part
+                    2A</ref> of the <ref>Schedule</ref> to the Telecommunications (Designation of
+                Frequency Bands subject to Payment of Spectrum Utilization Fee) Order (<ref href="/hk/cap106Y">Cap. 106 sub. leg. Y</ref>) shall be determined by an auction
+                or a series of auctions to be held in accordance with this Regulation and the
+                specified terms.
+                <sourceNote>(<ref href="/hk/2009/ln22">L.N. 22 of
+                    2009</ref>)</sourceNote></content></subsection><subsection id="ID_1438410834832_004" name="1" temporalId="s3_1"><num value="1">(1)</num><content>Subject
+                to subsections
+                (1AAG),
+                (1AAH),
+                (1AAI), (1AAK) and
+                (1AAL),
+                the spectrum utilization fee for the use of the spectrum which
+                falls within the frequency bands set out in <ref>Part 4</ref>, <ref>4A</ref> or
+                    <ref>5</ref> of the <ref>Schedule</ref> to the Telecommunications (Designation
+                of Frequency Bands subject to Payment of Spectrum Utilization Fee) Order (<ref href="/hk/cap106Y">Cap. 106 sub. leg. Y</ref>) shall be determined by an auction
+                or a series of auctions to be held in accordance with this Regulation and the
+                specified terms.
+                <sourceNote>(<ref href="/hk/2009/ln22">L.N. 22 of 2009</ref>; <ref href="/hk/2012/ln161">L.N. 161 of
+                    2012</ref>; <ref href="/hk/2021/ln59">L.N. 59 of
+                    2021</ref>; <ref href="hk/2024/ln52">L.N. 52 of
+                    2024</ref>; <ref href="hk/2025/ln67">L.N. 67 of
+                    2025</ref>)</sourceNote></content></subsection><subsection id="ID_1517284120603_002" name="1AA" temporalId="s3_1AA"><num value="1AA">(1AA)</num><content>Subject
+                to
+                subsection (1AAJ) and
+                <ref>section 3A</ref>, the spectrum utilization
+                fee
+                for the use
+                of
+                the spectrum that falls within the frequency bands set out in <ref>Part 6</ref> of
+                the <ref>Schedule</ref> to the Telecommunications (Designation of Frequency Bands
+                subject to Payment of Spectrum Utilization Fee) Order (<ref href="/hk/cap106Y">Cap.
+                    106 sub. leg. Y</ref>) must be determined by an auction or a series of auctions
+                to be held in accordance with this Regulation and the specified terms.
+                <sourceNote>(<ref href="/hk/2010/ln62">L.N. 62 of
+                    2010</ref>; <ref href="/hk/2021/ln59">L.N. 59 of
+                    2021</ref>; <ref href="hk/2024/ln52">L.N. 52 of
+                    2024</ref>)</sourceNote></content></subsection><subsection id="ID_1517284120650_003" name="1AAB" temporalId="s3_1AAB"><num value="1AAB">(1AAB)</num><content>The spectrum utilization fee for the use of the spectrum that falls within the
+                frequency bands set out in
+                    <ref>Schedule
+                    1</ref>
+                for the period beginning on 22 October 2016 and ending on 21 October 2031 must be
+                determined by an auction or a series of auctions to be held in accordance with this
+                Regulation and the specified terms.
+                <sourceNote>(<ref href="/hk/2014/ln59">L.N. 59 of
+                    2014</ref>; <ref href="hk/2018/ln105">L.N. 105 of
+                    2018</ref>)</sourceNote></content></subsection><subsection id="ID_1517284120666_004" name="1AAC" temporalId="s3_1AAC"><num value="1AAC">(1AAC)</num><content>The spectrum utilization fee for the use of the remaining spectrum for the
+                period beginning on 22 October 2016 and ending on 21 October 2031 must be determined
+                by an auction or a series of auctions to be held in accordance with this Regulation
+                and the specified terms.
+                <sourceNote>(<ref href="/hk/2014/ln59">L.N. 59 of 2014</ref>)</sourceNote></content></subsection><subsection id="ID_1529640436776_001" name="1AAD" temporalId="s3_1AAD"><num value="1AAD">(1AAD)</num><content>Subject to <ref>section 3C</ref>, the spectrum utilization fee for the use of
+                the spectrum that falls within the frequency bands set out in <ref>Schedule 2</ref>
+                for the period beginning on 12 January 2021 and ending on 11 January 2036 must be
+                determined by an auction or a series of auctions to be held in accordance with this
+                Regulation and the specified terms. <sourceNote>(<ref href="hk/2018/ln105">L.N. 105
+                        of 2018</ref>)</sourceNote></content></subsection><subsection id="ID_1529640436792_002" name="1AAE" temporalId="s3_1AAE"><num value="1AAE">(1AAE)</num><content>Subject to <ref>sections 3B</ref> and <ref>3C</ref>, the spectrum utilization
+                fee for the use of the spectrum that falls within the frequency bands set out in
+                    <ref>Schedule 3</ref> for the period beginning on 30 September 2021 and ending
+                on 29 September 2036 must be determined by an auction or a series of auctions to be
+                held in accordance with this Regulation and the specified terms. <sourceNote>(<ref href="hk/2018/ln105">L.N. 105 of 2018</ref>)</sourceNote></content></subsection><subsection id="ID_1529640436792_003" name="1AAF" temporalId="s3_1AAF"><num value="1AAF">(1AAF)</num><content>Subject to <ref>section 3C</ref>, the spectrum utilization fee for the use of
+                the remaining spectrum for the period beginning on 30 September 2021 and ending on
+                29 September 2036 must be determined by an auction or a series of auctions to be
+                held in accordance with this Regulation and the specified terms. <sourceNote>(<ref href="hk/2018/ln105">L.N. 105 of 2018</ref>)</sourceNote></content></subsection><subsection id="ID_1621915986693_001" name="1AAG" temporalId="s3_1AAG"><num value="1AAG">(1AAG)</num><content>If the spectrum falls within the frequency bands set out in <ref>Schedule
+                    4</ref>, subsection (1) only applies in relation to the use of the spectrum on
+                or before 30 March 2024.
+                <sourceNote>(<ref href="/hk/2021/ln59">L.N. 59 of 2021</ref>)</sourceNote></content></subsection><subsection id="ID_1621915986724_002" name="1AAH" temporalId="s3_1AAH"><num value="1AAH">(1AAH)</num><content>If the spectrum falls within the frequency band 678–686 MHz, subsection (1)
+                only applies in relation to the use of the spectrum on or before 2 July 2021.
+                <sourceNote>(<ref href="/hk/2021/ln59">L.N. 59 of 2021</ref>)</sourceNote></content></subsection><subsection id="ID_1714373528165_001" name="1AAI" temporalId="s3_1AAI"><num value="1AAI">(1AAI)</num><content>If the spectrum falls within the frequency band 2300–2390 MHz, subsection (1)
+                only applies in relation to the use of the spectrum on or before 29 March 2027.
+                        <sourceNote>(<ref href="hk/2024/ln52">L.N. 52 of
+                2024</ref>)</sourceNote></content></subsection><subsection id="ID_1714373528168_002" name="1AAJ" temporalId="s3_1AAJ"><num value="1AAJ">(1AAJ)</num><leadIn>If the spectrum falls within—</leadIn><paragraph id="ID_1714373528169_003" name="a" temporalId="s3_1AAJ_a"><num value="a">(a)</num><content>the frequency bands 832.5–837.5 MHz and 877.5–882.5 MHz; or</content></paragraph><paragraph id="ID_1714373528169_004" name="b" temporalId="s3_1AAJ_b"><num value="b">(b)</num><content>the frequency bands 885–890 MHz and 930–935 MHz,</content></paragraph><continued>subsection (1AA) only applies in relation to the use of the spectrum on or
+                before 31 May 2026. <sourceNote>(<ref href="hk/2024/ln52">L.N. 52 of
+                    2024</ref>)</sourceNote></continued></subsection><subsection id="ID_1747188484228_001" name="1AAK" temporalId="s3_1AAK"><num value="1AAK">(1AAK)</num><content>If the spectrum falls within the frequency bands 2515–2535 MHz and 2635–2655
+                MHz, subsection (1) only applies in relation to the use of the spectrum on or before
+                31 May 2028. <sourceNote>(<ref href="hk/2025/ln67">L.N. 67 of
+                    2025</ref>)</sourceNote></content></subsection><subsection id="ID_1747188484259_002" name="1AAL" temporalId="s3_1AAL"><num value="1AAL">(1AAL)</num><leadIn>If the spectrum falls within the frequency bands 2535–2540 MHz and 2655–2660
+                MHz—</leadIn><paragraph id="ID_1747188484259_003" name="a" temporalId="s3_1AAL_a"><num value="a">(a)</num><content>subsection (1) only applies in relation to the use of the spectrum on or
+                    before 20 May 2028; and</content></paragraph><paragraph id="ID_1747188484275_004" name="b" temporalId="s3_1AAL_b"><num value="b">(b)</num><content>despite <ref>section 3</ref> of the Telecommunications (Method for
+                    Determining Spectrum Utilization Fee) (Spectrum for Auction) Regulation (<ref href="/hk/cap106AG">Cap. 106 sub. leg. AG</ref>), the spectrum utilization
+                    fee for the use of the spectrum during the period from 21 May 2028 to 31 May
+                    2028 (both dates inclusive) is $622,376. <sourceNote>(<ref href="hk/2025/ln67">L.N. 67 of 2025</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438410834847_025" name="2" temporalId="s3_2"><num value="2">(2)</num><content>An auction or a series of auctions to determine the spectrum utilization fee
+                for the use of spectrum may be held in relation to different frequency bands, and
+                the provisions of this Regulation shall have effect accordingly.
+                <sourceNote>(<ref href="/hk/2010/ln62">L.N. 62 of
+                    2010</ref>)</sourceNote></content></subsection><subsection id="ID_1529640436823_004" name="3" temporalId="s3_3"><num value="3">(3)</num><leadIn>In this section—</leadIn><def name="RemainingSpectrum">
+                <leadIn><term>remaining spectrum</term> (<term xml:lang="zh-Hant-HK">剩餘頻譜</term>)—</leadIn>
+                <paragraph id="ID_1529640436823_005" name="a" temporalId="s3_3_a"><num value="a">(a)</num><leadIn>for the purposes of subsection (1AAC), means any spectrum that—</leadIn><subparagraph id="ID_1529640436823_006" name="1" temporalId="s3_3_a_1"><num value="1">(i)</num><content>falls within the frequency bands set out in the Schedule to the
+                            Telecommunications (Method for Determining Spectrum Utilization Fee)
+                            (Administratively Assigned Spectrum in the 1.9–2.2 GHz Band) Regulation
+                                (<ref href="/hk/cap106AD">Cap. 106 sub. leg. AD</ref>);
+                            and</content></subparagraph><subparagraph id="ID_1529640436823_007" name="2" temporalId="s3_3_a_2"><num value="2">(ii)</num><content>is not assigned to any existing assignee as defined by <ref>section
+                                2(3)</ref> of that Regulation because the Authority’s offer to
+                            assign the spectrum as described in <ref>section 2</ref> of that
+                            Regulation has not been accepted;</content></subparagraph></paragraph>
+                <paragraph id="ID_1529640436838_008" name="b" temporalId="s3_3_b"><num value="b">(b)</num><leadIn>for the purposes of subsection (1AAF), means any spectrum that—</leadIn><subparagraph id="ID_1529640436838_009" name="1" temporalId="s3_3_b_1"><num value="1">(i)</num><content>falls within the frequency bands set out in the <ref>Schedule</ref>
+                            to the Telecommunications (Method for Determining Spectrum Utilization
+                            Fee) (Administratively Assigned Spectrum in the 1800 MHz Band)
+                            Regulation; and</content></subparagraph><subparagraph id="ID_1529640436838_010" name="2" temporalId="s3_3_b_2"><num value="2">(ii)</num><content> is not assigned to any existing assignee as defined by
+                                <ref>section 2</ref> of that Regulation because the Authority’s
+                            offer to assign the spectrum as described in <ref>section 3(a)</ref> of
+                            that Regulation has not been accepted. <sourceNote>(<ref href="hk/2018/ln105">L.N. 105 of
+                            2018</ref>)</sourceNote></content></subparagraph></paragraph>
+            </def></subsection><sourceNote>(<ref href="/hk/2015/er1">E.R. 1 of 2015</ref>)</sourceNote></section><section id="ID_1438402550425_002" name="s3A" reason="inEffect" startPeriod="2024-06-28" status="operational" temporalId="s3A"><num value="3A">3A.</num><heading>When spectrum utilization fee referred to in <ref>section 3(1AA)</ref> is not
+            payable</heading><subsection id="ID_1714373404670_001" name="1A" temporalId="s3A_1A"><num value="1A">(1A)</num><content>This section only applies in relation to the use of spectrum on or before 31
+                May 2026. <sourceNote>(<ref href="hk/2024/ln52">L.N. 52 of 2024</ref>)</sourceNote></content></subsection><subsection id="ID_1438410834910_004" name="1" temporalId="s3A_1"><num value="1">(1)</num><content>No spectrum utilization fee is payable for the use of the spectrum that falls
+                within the frequency bands 885–890 MHz and 930–935 MHz if the user of the spectrum
+                is authorized by the Authority to use the spectrum through a base station located in
+                a designated area for the sole purpose of providing mobile telecommunications
+                services within a designated area.</content></subsection><subsection id="ID_1438410834910_012" name="2" temporalId="s3A_2"><num value="2">(2)</num><content>No spectrum utilization fee is payable for the use of the spectrum that falls
+                within the frequency bands 885–889 MHz and 930–934 MHz if the user of the spectrum
+                is authorized by the Authority to use the spectrum for the sole purpose of
+                communication and control in relation to the operation of cross-border railways
+                between Hong Kong and any place outside Hong Kong.</content></subsection><subsection id="ID_1438410834925_005" name="3" temporalId="s3A_3"><num value="3">(3)</num><content>The Authority may specify an area to be a designated area for the purposes of
+                subsection (1).</content></subsection><subsection id="ID_1438410834925_013" name="4" temporalId="s3A_4"><num value="4">(4)</num><content>The Authority must publish the details of the specification of the designated
+                area in the Gazette.</content></subsection><sourceNote>(<ref href="/hk/2010/ln62">L.N. 62 of 2010</ref>)</sourceNote></section><section id="ID_1529477802460_001" name="s3B" temporalId="s3B" startPeriod="2018-07-13" status="operational" reason="inEffect"><num value="3B">3B.</num><heading>When spectrum
+            utilization fee referred to in <ref>section 3(1AAE)</ref> is not
+            payable</heading><subsection id="ID_1529640454110_001" name="1" temporalId="s3B_1"><num value="1">(1)</num><content>No spectrum utilization fee is payable for the use of the spectrum that falls
+                within the frequency bands 1780.1–1784.9 MHz and 1875.1–1879.9 MHz if the user of
+                the spectrum is authorized by the Authority to use the spectrum through a base
+                station located in a designated area for the sole purpose of providing mobile
+                telecommunications services within the designated area. </content></subsection><subsection id="ID_1529640454110_002" name="2" temporalId="s3B_2"><num value="2">(2)</num><content>The Authority may specify an area to be a designated area for the purposes of
+                subsection (1).</content></subsection><subsection id="ID_1529640454110_003" name="3" temporalId="s3B_3"><num value="3">(3)</num><content>The Authority must publish the details of the specification of the designated
+                area in the Gazette.</content></subsection><sourceNote>(<ref href="hk/2018/ln105">L.N. 105 of 2018</ref>)</sourceNote></section><section id="ID_1529477812382_001" name="s3C" temporalId="s3C" startPeriod="2018-07-13" status="operational" reason="inEffect"><num value="3C">3C.</num><heading>Payment of
+            spectrum utilization fee determined under <ref xmlns="">section 3(1AAD)</ref>,
+                <ref>(1AAE)</ref> or <ref>(1AAF)</ref></heading><subsection id="ID_1529640475207_001" name="1" temporalId="s3C_1"><num value="1">(1)</num><leadIn>The spectrum utilization fee determined under <ref>section 3(1AAD)</ref>,
+                    <ref>(1AAE)</ref> or <ref>(1AAF)</ref> must be paid—</leadIn><paragraph id="ID_1529640475207_002" name="a" temporalId="s3C_1_a"><num value="a">(a)</num><content>in a lump sum; or</content></paragraph><paragraph id="ID_1529640475207_003" name="b" temporalId="s3C_1_b"><num value="b">(b)</num><content>annually in 15 instalments in accordance with subsection (2).</content></paragraph></subsection><subsection id="ID_1529640475207_004" name="2" temporalId="s3C_2"><num value="2">(2)</num><leadIn>For subsection (1)(b), the spectrum utilization fee for each instalment is as
+                follows—</leadIn><paragraph id="ID_1529640475207_005" name="a" temporalId="s3C_2_a"><num value="a">(a)</num><content>for the first instalment—an amount equal to the lump sum referred to in
+                    subsection (1)(a) divided by 15;</content></paragraph><paragraph id="ID_1529640475207_006" name="b" temporalId="s3C_2_b"><num value="b">(b)</num><content>for each subsequent instalment—an amount equal to the spectrum utilization
+                    fee payable in the immediately preceding instalment increased by 2.5%.</content></paragraph></subsection><subsection id="ID_1529640475207_007" name="3" temporalId="s3C_3"><num value="3">(3)</num><content>The spectrum utilization fee is payable at the time and in the way required by
+                the Authority.</content></subsection><sourceNote>(<ref href="hk/2018/ln105">L.N. 105 of 2018</ref>)</sourceNote></section><section id="ID_1438402550440_001" name="s4" reason="inEffect" startPeriod="2012-08-02" status="operational" temporalId="s4"><num value="4">4.</num><heading>Division of frequency bands</heading><subsection id="ID_1438410834941_027" name="1" temporalId="s4_1"><num value="1">(1)</num><content>The Authority may further divide the frequency bands for the purpose of an auction held under this Regulation.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2009/ln22">L.N. 22 of 2009</ref>; <ref href="/hk/2010/ln62">L.N. 62 of 2010</ref>)</sourceNote></content></subsection><subsection id="ID_1438410834941_035" name="2" temporalId="s4_2"><num value="2">(2)</num><content>Any division of frequency bands under subsection (1) shall be specified in the specified terms.</content></subsection></section><section id="ID_1438402550456_002" name="s5" reason="inEffect" startPeriod="2012-08-02" status="operational" temporalId="s5"><num value="5">5.</num><heading>Spectrum utilization fee payable if there is more than one eligible bidder</heading><subsection id="ID_1438410834956_019" name="1" temporalId="s5_1"><num value="1">(1)</num><content>If, on the expiration of the relevant period, there is more than one eligible bidder for the use of spectrum, an auction is to be held to determine the spectrum utilization fee for the use of spectrum.</content></subsection><subsection id="ID_1438410834956_027" name="2" temporalId="s5_2"><num value="2">(2)</num><content>Only an eligible bidder for the use of spectrum may participate in an auction.</content></subsection><subsection id="ID_1438410834956_035" name="3" temporalId="s5_3"><num value="3">(3)</num><content>In an auction, the amount of a bid shall not be less than the minimum amount of the spectrum utilization fee specified under <ref>section 10</ref>.</content></subsection><subsection id="ID_1438410834972_005" name="4" temporalId="s5_4"><num value="4">(4)</num><content>Subject to subsection (5), <ref>section 7</ref> and <ref>section 9</ref>, the bidder who makes the highest bid for a particular frequency band in an auction is the successful bidder for the use of that frequency band, and the amount of that highest bid is the amount of the spectrum utilization fee payable by the bidder for the use of that frequency band.</content></subsection><subsection id="ID_1438410834972_013" name="5" temporalId="s5_5"><num value="5">(5)</num><content>If, before a particular frequency band is assigned to the bidder with the highest bid for that frequency band in an auction, the Authority determines, under <ref>section 11(b)</ref>, that the bidder is disqualified from participating in the auction, the bidder shall cease to be the successful bidder for the use of that frequency band and that highest bid shall not be taken as the spectrum utilization fee payable for the use of that frequency band.</content></subsection></section><section id="ID_1438402550471_002" name="s6" reason="inEffect" startPeriod="2012-08-02" status="operational" temporalId="s6"><num value="6">6.</num><heading>Spectrum utilization fee payable if there is only one eligible bidder</heading><subsection id="ID_1438410835003_012" name="1" temporalId="s6_1"><num value="1">(1)</num><leadIn>This section applies if there is only one eligible bidder—</leadIn><paragraph id="ID_1438410835003_020" name="a" temporalId="s6_1_a"><num value="a">(a)</num><content>on the expiration of the relevant period; or</content></paragraph><paragraph id="ID_1438410835003_028" name="b" temporalId="s6_1_b"><num value="b">(b)</num><content>immediately before the start of an auction to determine the spectrum utilization fee for the use of spectrum.</content></paragraph></subsection><subsection id="ID_1438410835003_035" name="2" temporalId="s6_2"><num value="2">(2)</num><content>No auction is to be held to determine the spectrum utilization fee for the use of spectrum.</content></subsection><subsection id="ID_1438410835003_043" name="3" temporalId="s6_3"><num value="3">(3)</num><content>Subject to subsection (4), the only eligible bidder is the successful bidder for the use of the frequency band it selects, and the minimum amount of the spectrum utilization fee specified under <ref>section 10</ref> is the amount of the spectrum utilization fee payable by the bidder for the use of that frequency band.</content></subsection><subsection id="ID_1438410835019_005" name="4" temporalId="s6_4"><num value="4">(4)</num><content>If, before that frequency band is assigned to the only eligible bidder, the Authority determines, under <ref>section 11(b)</ref>, that the bidder would be disqualified from participating in an auction to determine the spectrum utilization fee, subsection (3) is taken to have never operated in relation to that frequency band.</content></subsection></section><section id="ID_1438402550487_002" name="s7" reason="inEffect" startPeriod="2012-08-02" status="operational" temporalId="s7"><num value="7">7.</num><heading>Power to remove connected bidders</heading><leadIn>Where 2 or more successful bidders are connected bidders (as defined in the specified terms) and the total amount of spectrum for which such bidders are successful bidders exceeds the spectrum cap, the Authority may, in accordance with the specified terms—</leadIn><paragraph id="ID_1438410835081_005" name="a" temporalId="s7_a"><num value="a">(a)</num><content>require such bidders to make necessary arrangement so that such bidders cease to be connected within the meaning of the specified terms;</content></paragraph><paragraph id="ID_1438410835081_013" name="b" temporalId="s7_b"><num value="b">(b)</num><content>require such bidders to reach an agreement as to which of the bids of such bidders shall be withdrawn so that the total amount of spectrum assigned to the bidder or bidders who made the remaining bids, as may be appropriate, does not exceed the spectrum cap;</content></paragraph><paragraph id="ID_1438410835081_021" name="c" temporalId="s7_c"><num value="c">(c)</num><content>determine by drawing lot or by any other method of random selection as to which of such bidders shall be the remaining successful bidder or the remaining successful bidders, as may be appropriate, to the effect that the total amount of spectrum assigned to such remaining successful bidder or bidders does not exceed the spectrum cap;</content></paragraph><paragraph id="ID_1438410835081_029" name="d" temporalId="s7_d"><num value="d">(d)</num><leadIn>conduct an auction for such bidders in which—</leadIn><subparagraph id="ID_1438410835081_037" name="i" temporalId="s7_d_i"><num value="i">(i)</num><content>the amount of a bid shall not be less than the minimum amount of the spectrum utilization fee specified under <ref>section 10</ref>;</content></subparagraph><subparagraph id="ID_1438410835097_007" name="ii" temporalId="s7_d_ii"><num value="ii">(ii)</num><content>subject to <ref>section 9</ref>, the bidder whose bid produces the highest spectrum utilization fee by virtue of <ref>section 8</ref> shall be the remaining successful bidder whilst the other bidder or bidders shall cease to be a successful bidder or successful bidders, as may be appropriate; or</content></subparagraph></paragraph><paragraph id="ID_1438410835097_014" name="e" temporalId="s7_e"><num value="e">(e)</num><content>determine, by means of any combination of 2 or more of any of the means specified in paragraph (a), (b), (c), or (d), whether in whole or in part, as to which of such bidders shall be the remaining successful bidder or the remaining successful bidders, as may be appropriate, so that the total amount of spectrum assigned to such remaining successful bidder or bidders does not exceed the spectrum cap.</content></paragraph></section><section id="ID_1438402550518_001" name="s8" reason="inEffect" startPeriod="2012-08-02" status="operational" temporalId="s8"><num value="8">8.</num><heading>Spectrum utilization fee includes bids in auction under <ref>section 7(d)</ref></heading><content>The amount of a bid made by a bidder in an auction held under <ref>section 7(d)</ref> shall be added to, and form part of, the spectrum utilization fee payable by the bidder on the use of the frequency band concerned.</content></section><section id="ID_1438402550534_001" name="s9" reason="inEffect" startPeriod="2012-08-02" status="operational" temporalId="s9"><num value="9">9.</num><heading>Resolution of tied bids</heading><content>When two or more bids offered in an auction held under <ref>section 5(4)</ref> or <ref>7(d)</ref> are of the same amount, the Authority may determine, in accordance with the specified terms, which of the bids concerned shall prevail over other bid or bids, as may be appropriate.</content></section><section id="ID_1438402550549_001" name="s10" reason="inEffect" startPeriod="2019-04-11" status="operational" temporalId="s10"><num value="10">10.</num><heading>Secretary may specify minimum amount of spectrum utilization fee</heading><leadIn>The Secretary may specify the minimum amount of the spectrum utilization fee for the purposes of <ref>sections 5(3)</ref>, <ref>6(3)</ref> and <ref>7(d)</ref>—</leadIn><paragraph id="ID_1438410835159_005" name="a" temporalId="s10_a"><num value="a">(a)</num><content>by notice published in the Gazette or in any other manner; and</content></paragraph><paragraph id="ID_1438410835159_013" name="b" temporalId="s10_b"><num value="b">(b)</num><leadIn>by means of—</leadIn><subparagraph id="ID_1438410835159_021" name="i" temporalId="s10_b_i"><num value="i">(i)</num><content>a minimum fixed fee;</content></subparagraph><subparagraph id="ID_1438410835159_029" name="ii" temporalId="s10_b_ii"><num value="ii">(ii)</num><content>a minimum fee determined by reference to a formula or percentage or the occurrence of an event or series of events;</content></subparagraph><subparagraph id="ID_1438410835159_037" name="iii" temporalId="s10_b_iii"><num value="iii">(iii)</num><content>a series of 2 or more minimum fees in relation to the same spectrum utilization fee where the relevant minimum fee is determined by reference to the occurrence of an event or series of events;</content></subparagraph><subparagraph id="ID_1438410835159_045" name="iv" temporalId="s10_b_iv"><num value="iv">(iv)</num><content>a minimum fee the determination of which varies upon the occurrence of an event or series of events;</content></subparagraph><subparagraph id="ID_1438410835159_053" name="v" temporalId="s10_b_v"><num value="v">(v)</num><content>a minimum fee determined by reference to another minimum fee, or by reference to the means of determining another minimum fee, whether or not the other minimum fee is or will become payable;</content></subparagraph><subparagraph id="ID_1438410835159_061" name="vi" temporalId="s10_b_vi"><num value="vi">(vi)</num><content>a minimum fee the determination of which
+                    varies
+                    with, or is calculated by reference to, the period of validity
+                    of a licence or any part thereof; or
+                    <sourceNote>(<ref href="hk/2019/er1">E.R. 1 of
+                    2019</ref>)</sourceNote></content></subparagraph><subparagraph id="ID_1438410835159_069" name="vii" temporalId="s10_b_vii"><num value="vii">(vii)</num><content>any combination of 2 or more of any of the means specified in subparagraph (i), (ii), (iii), (iv), (v) or (vi), whether in whole or in part.</content></subparagraph></paragraph></section><section id="ID_1438402550549_003" name="s11" reason="inEffect" startPeriod="2012-08-02" status="operational" temporalId="s11"><num value="11">11.</num><heading>Authority may hold, etc. auction and specify terms and conditions of auction</heading><leadIn>The Authority may—</leadIn><paragraph id="ID_1438410835190_019" name="a" temporalId="s11_a"><num value="a">(a)</num><content>promote, hold, conduct, suspend, cancel or conclude an auction or a series of auctions to determine the spectrum utilization fee for the use of spectrum;</content></paragraph><paragraph id="ID_1438410835190_027" name="b" temporalId="s11_b"><num value="b">(b)</num><content>without limiting the generality of paragraph (a), determine whether a bidder is qualified to participate, or is disqualified from participating, in an auction; and</content></paragraph><paragraph id="ID_1438410835190_035" name="c" temporalId="s11_c"><num value="c">(c)</num><content>by notice published in the Gazette, specify the terms and conditions of an auction (including the terms and conditions relating to the payment of the spectrum utilization fee).</content></paragraph></section><schedule id="ID_1438402550565_002" name="sch1" reason="inEffect" startPeriod="2018-07-13" status="operational" temporalId="sch1"><num value="1">Schedule
+            1</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap106AC/s3">s.
+                3</ref>]</note><heading class="tied-tag-heading-center">Frequency
+            Bands<marker role="blank-line"></marker><marker role="blank-line"></marker></heading><text>
+            
+            <table xmlns="http://www.w3.org/1999/xhtml" width="100%">
+                
+                <col width="15%"></col>
+                
+                
+                <col width="25%"></col>
+                
+                <col width="20%"></col>
+                
+                
+                <col width="25%"></col>
+                
+                <col width="15%"></col>
+                
+                <tr>
+                    
+                    <td></td>
+                    
+                    <td>
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">MHz<br></br> </center>
+                    </td>
+                    
+                    <td></td>
+                    
+                    <td>
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">MHz</center>
+                    </td>
+                    
+                    <td></td>
+                    
+                </tr>
+                <tr>
+                    
+                    <td></td>
+                    
+                    <td>
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">1920.3–1925.3</center>
+                    </td>
+                    
+                    <td></td>
+                    
+                    <td>
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">2110.3–2115.3</center>
+                    </td>
+                    
+                    <td></td>
+                    
+                </tr>
+                <tr>
+                    
+                    <td></td>
+                    
+                    <td>
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">1925.3–1930.2</center>
+                    </td>
+                    
+                    <td></td>
+                    
+                    <td>
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">2115.3–2120.2</center>
+                    </td>
+                    
+                    <td></td>
+                    
+                </tr>
+                <tr>
+                    
+                    <td></td>
+                    
+                    <td>
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">1930.2–1935.1</center>
+                    </td>
+                    
+                    <td></td>
+                    
+                    <td>
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">2120.2–2125.1</center>
+                    </td>
+                    
+                    <td></td>
+                    
+                </tr>
+                <tr>
+                    
+                    <td></td>
+                    
+                    <td>
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">1960.0–1964.9</center>
+                    </td>
+                    
+                    <td></td>
+                    
+                    <td>
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">2150.0–2154.9</center>
+                    </td>
+                    
+                    <td></td>
+                    
+                </tr>
+                <tr>
+                    
+                    <td></td>
+                    
+                    <td>
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">1964.9–1969.8</center>
+                    </td>
+                    
+                    <td></td>
+                    
+                    <td>
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">2154.9–2159.8</center>
+                    </td>
+                    
+                    <td></td>
+                    
+                </tr>
+            </table>
+        </text><sourceNote>(<ref>Schedule</ref> added <ref href="/hk/2014/ln59">L.N. 59 of
+                2014</ref>. Amended <ref href="hk/2018/ln105">L.N. 105 of
+        2018</ref>)</sourceNote></schedule><schedule id="ID_1529478171646_001" name="sch2" temporalId="sch2" startPeriod="2018-07-13" status="operational" reason="inEffect"><num value="2">Schedule
+            2</num><note type="inline" class="align_right" role="crossReferences">[<ref>s.
+            3</ref>]</note><heading>Frequency
+            Bands<marker role="blank-line"></marker><marker role="blank-line"></marker></heading><text>
+            <table xmlns="http://www.w3.org/1999/xhtml" width="100%">
+                <col width="15%"></col>
+                <col width="25%"></col>
+                <col width="20%"></col>
+                <col width="25%"></col>
+                <col width="15%"></col>
+                <tr>
+                    <td></td>
+                    <td>
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">MHz<br></br> </center>
+                    </td>
+                    <td></td>
+                    <td>
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">MHz</center>
+                    </td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td>
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">890–895</center>
+                    </td>
+                    <td></td>
+                    <td>
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">935–940</center>
+                    </td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td>
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">895–900</center>
+                    </td>
+                    <td></td>
+                    <td>
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">940–945</center>
+                    </td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td>
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">900–905</center>
+                    </td>
+                    <td></td>
+                    <td>
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">945–950</center>
+                    </td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td>
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">905–910</center>
+                    </td>
+                    <td></td>
+                    <td>
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">950–955</center>
+                    </td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td>
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">910–915</center>
+                    </td>
+                    <td></td>
+                    <td>
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">955–960</center>
+                    </td>
+                    <td></td>
+                </tr>
+            </table>
+        </text><sourceNote>(<ref>Schedule 2</ref> added <ref href="hk/2018/ln105">L.N. 105 of 2018</ref>)</sourceNote></schedule><schedule id="ID_1529478181787_001" name="sch3" temporalId="sch3" startPeriod="2018-07-13" status="operational" reason="inEffect"><num value="3">Schedule
+            3</num><note type="inline" class="align_right" role="crossReferences">[<ref>s.
+            3</ref>]</note><heading>Frequency
+            Bands<marker role="blank-line"></marker><marker role="blank-line"></marker></heading><text>
+            <table xmlns="http://www.w3.org/1999/xhtml" width="100%">
+                <col width="15%"></col>
+                <col width="25%"></col>
+                <col width="20%"></col>
+                <col width="25%"></col>
+                <col width="15%"></col>
+                <tr>
+                    <td></td>
+                    <td>
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">MHz<br></br> </center>
+                    </td>
+                    <td></td>
+                    <td>
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">MHz</center>
+                    </td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td>
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">1710–1720</center>
+                    </td>
+                    <td></td>
+                    <td>
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">1805–1815</center>
+                    </td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td>
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">1730–1740</center>
+                    </td>
+                    <td></td>
+                    <td>
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">1825–1835</center>
+                    </td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td>
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">1770–1780</center>
+                    </td>
+                    <td></td>
+                    <td>
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">1865–1875</center>
+                    </td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td>
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">1780–1785</center>
+                    </td>
+                    <td></td>
+                    <td>
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">1875–1880</center>
+                    </td>
+                    <td></td>
+                </tr>
+            </table>
+        </text><sourceNote>(<ref>Schedule 3</ref> added <ref href="hk/2018/ln105">L.N. 105 of 2018</ref>)</sourceNote></schedule><schedule id="ID_1621843320025_001" name="sch4" temporalId="sch4" startPeriod="2021-07-02" status="operational" reason="inEffect"><num value="4">Schedule 4</num><note type="inline" class="align_right" role="crossReferences">[<ref href="/hk/cap106AC/s3">s. 3</ref>]</note><heading>Frequency
+            Bands<marker role="blank-line"></marker><marker role="blank-line"></marker></heading><text>
+            <table xmlns="http://www.w3.org/1999/xhtml" frame="void" width="445" class="repeat_header">
+                <col width="100%"></col>
+                <thead>
+                    <tr>
+                        <td>
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">MHz</center>
+                            <br></br>
+                        </td>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="align_center">
+                            <p>2500–2515</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_center">
+                            <p>2540–2570</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_center">
+                            <p>2620–2635</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_center">
+                            <p>2660–2690</p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </text><sourceNote>(<ref>Schedule 4</ref> added <ref href="hk/2021/ln59">L.N. 59 of
+                2021</ref>)</sourceNote></schedule></main></subLeg>

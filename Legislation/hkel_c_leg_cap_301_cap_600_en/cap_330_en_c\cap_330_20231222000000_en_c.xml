@@ -1,0 +1,876 @@
+<?xml version="1.0" encoding="UTF-8"?><ordinance xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd" xml:lang="en"><meta><docName>Cap. 330</docName><docType>cap</docType><docNumber>330</docNumber><docStatus>In effect</docStatus><dc:identifier>/hk/cap330!en</dc:identifier><dc:date>2023-12-22</dc:date><dc:subject>legislation</dc:subject><dc:language>en</dc:language><dc:publisher>DoJ</dc:publisher><dc:rights>the Government of the Hong Kong Special Administrative Region</dc:rights></meta><main xml:lang="en" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd"><longTitle id="ID_1438403016460_001" name="longTitle" reason="inEffect" status="operational" temporalId="longTitle" startPeriod="2021-01-21">
+            <content>To impose a tax to be paid on the first registration of certain motor vehicles
+                and to provide for matters connected with the purpose
+                aforesaid.<marker role="blank-line"></marker><marker role="blank-line"></marker></content>
+        </longTitle><commencementNote>[23 June 1961]</commencementNote><sourceNote>(Format changes—<ref href="hk/2020/er7">E.R. 7 of 2020</ref>)</sourceNote><section id="ID_1438403016460_003" name="s1" reason="inEffect" startPeriod="2021-01-21" status="operational" temporalId="s1"><num value="1">1.</num><heading>Short title</heading><content>This Ordinance may be cited as the <shortTitle>Motor Vehicles (First Registration Tax) Ordinance</shortTitle>.</content></section><section id="ID_1438403016476_002" name="s2" reason="inEffect" startPeriod="2023-12-22" status="operational" temporalId="s2"><num value="2">2.</num><heading>Interpretation</heading><subsection id="ID_1438411961434_004" name="1" temporalId="s2_1"><num value="1">(1)</num><leadIn>In this Ordinance unless the context otherwise requires—  <sourceNote>(Amended <ref href="/hk/1997/11">11 of 1997 s. 2</ref>)</sourceNote></leadIn><def name="Accessory">
+                <leadIn><term>accessory</term>
+                        (<term xml:lang="zh-Hant-HK">配件</term>), in relation to a motor vehicle,
+                    does not include—</leadIn>
+                <paragraph id="ID_1438411961434_019" name="a" temporalId="s2_1_a"><num value="a">(a)</num><content>without prejudice to the generality of subsection (2), any process
+                        involving the painting or rust-proofing or like treatment of the vehicle;
+                        or</content></paragraph>
+                <paragraph id="ID_1438411961434_027" name="b" temporalId="s2_1_b"><num value="b">(b)</num><content>any accessory, or any accessory belonging to a class of accessories,
+                        declared in a notice under subsection (2) to be an accessory, or a class of
+                        accessories, as the case may be, to which this Ordinance shall not
+                            apply;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1997/11">11 of 1997 s. 2</ref>)</sourceNote></content></paragraph>
+            </def><def name="AssociatedCorporation">
+                <leadIn><term>associated
+                        corporation</term>
+                        (<term xml:lang="zh-Hant-HK">相聯法團</term>), in relation to a person,
+                    means—</leadIn>
+                <paragraph id="ID_1438411961434_041" name="a" temporalId="s2_1_a"><num value="a">(a)</num><content>a corporation over which the person has control;</content></paragraph>
+                <paragraph id="ID_1438411961434_049" name="b" temporalId="s2_1_b"><num value="b">(b)</num><leadIn>if the person is a corporation—</leadIn><subparagraph id="ID_1438411961434_057" name="i" temporalId="s2_1_b_i"><num value="i">(i)</num><content>a corporation which has control over the person; or</content></subparagraph><subparagraph id="ID_1438411961450_007" name="ii" temporalId="s2_1_b_ii"><num value="ii">(ii)</num><content>a corporation which is under the same control as is the
+                            first-mentioned person;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1994/43">43 of 1994 s.
+                                    2</ref>)</sourceNote></content></subparagraph></paragraph>
+            </def><def name="AssociatedPerson">
+                <leadIn><term>associated
+                        person</term>
+                        (<term xml:lang="zh-Hant-HK">相聯繫的人</term>) includes—</leadIn>
+                <paragraph id="ID_1438411961450_020" name="a" temporalId="s2_1_a"><num value="a">(a)</num><leadIn>where the registered person is a natural person—</leadIn><subparagraph id="ID_1438411961450_028" name="i" temporalId="s2_1_a_i"><num value="i">(i)</num><content>a relative of the registered person;</content></subparagraph><subparagraph id="ID_1438411961450_036" name="ii" temporalId="s2_1_a_ii"><num value="ii">(ii)</num><content>a partner of the registered person and a relative of that
+                            partner;</content></subparagraph><subparagraph id="ID_1438411961450_044" name="iii" temporalId="s2_1_a_iii"><num value="iii">(iii)</num><content>a partnership in which the registered person is a
+                            partner;</content></subparagraph><subparagraph id="ID_1438411961450_052" name="iv" temporalId="s2_1_a_iv"><num value="iv">(iv)</num><content>a corporation controlled by the registered person, by a partner of
+                            the registered person or by a partnership in which the registered person
+                            is a partner;</content></subparagraph><subparagraph id="ID_1438411961450_060" name="v" temporalId="s2_1_a_v"><num value="v">(v)</num><content>a director or principal officer of a corporation referred to in
+                            subparagraph (iv);</content></subparagraph></paragraph>
+                <paragraph id="ID_1438411961450_067" name="b" temporalId="s2_1_b"><num value="b">(b)</num><leadIn>where the registered person is a corporation—</leadIn><subparagraph id="ID_1438411961450_075" name="i" temporalId="s2_1_b_i"><num value="i">(i)</num><content>an associated corporation;</content></subparagraph><subparagraph id="ID_1438411961450_083" name="ii" temporalId="s2_1_b_ii"><num value="ii">(ii)</num><content>a person who controls the corporation and where the person is a
+                            natural person, a relative of the person;</content></subparagraph><subparagraph id="ID_1438411961450_091" name="iii" temporalId="s2_1_b_iii"><num value="iii">(iii)</num><content>a partner of a person who controls the corporation and, where the
+                            person is a natural person, a relative of the person;</content></subparagraph><subparagraph id="ID_1438411961450_099" name="iv" temporalId="s2_1_b_iv"><num value="iv">(iv)</num><content>a director or principal officer of the corporation or an associated
+                            corporation and a relative of the director or principal
+                            officer;</content></subparagraph><subparagraph id="ID_1438411961466_007" name="v" temporalId="s2_1_b_v"><num value="v">(v)</num><content>a partner of the corporation and, where the partner is a natural
+                            person, a relative of the partner;</content></subparagraph></paragraph>
+                <paragraph id="ID_1438411961466_014" name="c" temporalId="s2_1_c"><num value="c">(c)</num><leadIn>where the registered person is a partnership—</leadIn><subparagraph id="ID_1438411961466_022" name="i" temporalId="s2_1_c_i"><num value="i">(i)</num><content>a partner of the partnership and, where the partner is a natural
+                            person, a relative of the partner;</content></subparagraph><subparagraph id="ID_1438411961466_030" name="ii" temporalId="s2_1_c_ii"><num value="ii">(ii)</num><content>a corporation controlled by the partnership, a partner in the
+                            partnership or where a partner is a natural person, a relative of the
+                            partner;</content></subparagraph><subparagraph id="ID_1438411961466_038" name="iii" temporalId="s2_1_c_iii"><num value="iii">(iii)</num><content>a corporation of which a partner is a director or principal
+                            officer;</content></subparagraph><subparagraph id="ID_1438411961466_046" name="iv" temporalId="s2_1_c_iv"><num value="iv">(iv)</num><content>a director or principal officer of a corporation referred to in
+                            subparagraph (iii);<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1994/43">43 of 1994 s.
+                            2</ref>)</sourceNote></content></subparagraph></paragraph>
+            </def><def name="Bus"><term>bus</term> (<term xml:lang="zh-Hant-HK">巴士</term>) has the same
+                meaning as in the Road Traffic Ordinance (<ref href="/hk/cap374">Cap. 374</ref>);
+                    <sourceNote>(Replaced <ref href="hk/2017/10">10 of 2017 s.
+                6</ref>)</sourceNote></def><def name="Commissioner"><term>Commissioner</term>
+                    (<term xml:lang="zh-Hant-HK">署長</term>) means the Commissioner for
+                    Transport;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1967/13">13 of 1967 s. 2</ref>. Amended <ref href="/hk/1967/30">30
+                        of 1967 </ref>Schedule)</sourceNote></def><def name="Control,AssociatedCorporation">
+                <leadIn><term>control</term>
+                        (<term xml:lang="zh-Hant-HK">控制</term>、<term xml:lang="zh-Hant-HK">控制權</term>) for the purposes of the definition of
+                        <term>associated
+                        corporation</term>
+                    means
+                    having a controlling interest in a corporation by way of—
+                    <sourceNote>(Amended <ref href="hk/2020/er7">E.R. 7 of
+                    2020</ref>)</sourceNote></leadIn>
+                <paragraph id="ID_1438411961466_073" name="a" temporalId="s2_1_a"><num value="a">(a)</num><content>a shareholding of more than 50% including an interest by way of trust;
+                        or</content></paragraph>
+                <paragraph id="ID_1438411961481_006" name="b" temporalId="s2_1_b"><num value="b">(b)</num><content>having the right to appoint a majority of the directors of the
+                            corporation;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1994/43">43 of 1994 s. 2</ref>)</sourceNote></content></paragraph>
+            </def><def name="DeclaredValue"><term>declared
+                    value</term>
+                    (<term xml:lang="zh-Hant-HK">聲明價值</term>) means the amount declared by a
+                registered distributor, an employee or agent authorized by a registered distributor
+                under <ref>section 4D(3)</ref> or other person applying for first registration of a
+                motor vehicle as the price paid for the motor vehicle under <ref>section
+                    4D(1)</ref>;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1994/43">43 of 1994 s. 2</ref>. Amended <ref href="hk/2003/ln59">L.N. 59 of 2003</ref> and <ref href="/hk/2003/22">22 of 2003 s. 2</ref>)</sourceNote></def><def name="DisabledPerson"><term>disabled
+                    person</term>
+                    (<term xml:lang="zh-Hant-HK">傷殘人士</term>) means a person who holds a certificate
+                signed by or on behalf of the Director of Health or the Hospital Authority
+                established under the Hospital Authority Ordinance (<ref href="/hk/cap113">Cap.
+                    113</ref>) stating that the person is suffering from a permanent disease or
+                physical disability that causes him considerable difficulty in walking and who is
+                able to satisfy the Commissioner that he is fit to drive a motor vehicle;<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/1996/29">29 of
+                        1996 s. 2</ref>)</sourceNote></def><def name="Distributor"><term>distributor</term>
+                    (<term xml:lang="zh-Hant-HK">分銷商</term>) means a distributor of motor vehicles
+                for use in Hong Kong and includes a retailer of motor vehicles for use in Hong
+                    Kong;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1994/43">43 of 1994 s. 2</ref>)</sourceNote></def><def name="DriverOperatedVillageVehicle"><term>driver
+                    operated village
+                vehicle</term>
+                    (<term xml:lang="zh-Hant-HK">司機操作的鄉村車輛</term>) means a motor vehicle having an
+                overall length not exceeding 3.2 m and an overall width not exceeding 1.2 m
+                constructed or adapted primarily for the carriage of goods on roads in rural areas
+                or areas inaccessible or closed to other motor vehicles, in addition to the carriage
+                of a driver only;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1986/31">31 of 1986 s. 8</ref>)</sourceNote></def><def name="Fee"><term>fee</term>
+                    (<term xml:lang="zh-Hant-HK">費用</term>) includes charge;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1997/11">11 of 1997 s.
+                    2</ref>)</sourceNote></def><def name="FirstRegistration"><term>first
+                    registration</term>
+                    (<term xml:lang="zh-Hant-HK">首次登記</term>) means first registration in accordance
+                with the provisions of the Road Traffic Ordinance (<ref href="/hk/cap374">Cap.
+                    374</ref>);<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1979/79">79 of 1979 s. 2</ref>)</sourceNote></def><def name="FirstRegistrationTax,Tax"><term>first
+                    registration
+                tax</term>
+                    (<term xml:lang="zh-Hant-HK">首次登記稅</term>) or
+                    <term>tax</term>
+                    (稅、<term xml:lang="zh-Hant-HK">稅款</term>) means the tax payable under this
+                Ordinance before a motor vehicle’s first registration or otherwise in accordance
+                with this Ordinance;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1994/43">43 of 1994 s. 2</ref>)</sourceNote></def><def name="GolfCart"><term>golf
+                    cart</term>
+                    (<term xml:lang="zh-Hant-HK">高爾夫球車</term>) means a motor vehicle having an
+                overall length not exceeding 3.2 m and an overall width not exceeding 1.2 m
+                constructed or intended for use for the carriage of passengers on golf courses, in
+                addition to the carriage of a driver;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1988/80">80 of 1988 s.
+                    17</ref>)</sourceNote></def><def name="GoodsVehicle">
+                <leadIn><term>goods
+                        vehicle</term>
+                        (<term xml:lang="zh-Hant-HK">貨車</term>) means a motor vehicle which is
+                    constructed or adapted for use primarily for the carriage of goods, but does not
+                    include—</leadIn>
+                <paragraph id="ID_1438411961497_047" name="a" temporalId="s2_1_a"><num value="a">(a)</num><content>a motor tricycle or a motor cycle with or without a sidecar attached
+                        thereto;</content></paragraph>
+                <paragraph id="ID_1438411961497_055" name="b" temporalId="s2_1_b"><num value="b">(b)</num><content>a driver operated village vehicle; or</content></paragraph>
+                <paragraph id="ID_1438411961512_006" name="c" temporalId="s2_1_c"><num value="c">(c)</num><content>a pedestrian controlled village vehicle;<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/1986/31">31 of 1986 s.
+                                8</ref>)</sourceNote></content></paragraph>
+            </def><def name="Importer"><term>importer</term>
+                    (<term xml:lang="zh-Hant-HK">進口者</term>) means an importer of motor vehicles for
+                use in Hong Kong;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1994/43">43 of 1994 s. 2</ref>. Amended <ref href="/hk/1997/11">11
+                        of 1997 s. 2</ref>)</sourceNote></def><def name="LandedValue"><term>landed
+                    value</term>
+                    (<term xml:lang="zh-Hant-HK">抵岸價值</term>) means the value of a motor vehicle
+                landed in Hong Kong calculated by reference to the cost of the motor vehicle plus
+                the insurance and freight paid;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1994/43">43 of 1994 s. 2</ref>)</sourceNote></def><def name="LightBus"><term>light bus</term> (<term xml:lang="zh-Hant-HK">小型巴士</term>)
+                has the same meaning as in the Road Traffic Ordinance (<ref href="/hk/cap374">Cap.
+                    374</ref>); <sourceNote>(Replaced <ref href="hk/2017/10">10 of 2017 s.
+                    6</ref>)</sourceNote></def><def name="LightGoodsVehicle"><term>light
+                    goods
+                vehicle</term>
+                    (<term xml:lang="zh-Hant-HK">輕型貨車</term>) means a goods vehicle having a
+                permitted gross vehicle weight not exceeding 5.5 tonnes;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1991/39">39 of 1991 s.
+                    2</ref>)</sourceNote></def><def name="LocallyAssembledVehicle"><term>locally
+                    assembled
+                vehicle</term>
+                    (<term xml:lang="zh-Hant-HK">本地裝配汽車</term>) means a motor vehicle that is a
+                goods vehicle, bus, light bus or special purpose vehicle assembled in Hong Kong by
+                adding specified additions to an imported chassis or to an imported cab and
+                    chassis;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1994/43">43 of 1994 s. 2</ref>)</sourceNote></def><def name="Manner"><term>manner</term>
+                    (<term xml:lang="zh-Hant-HK">方式</term>) includes format;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1997/11">11 of 1997 s.
+                    2</ref>)</sourceNote></def><def name="MarketValue"><term>market
+                    value</term>
+                    (<term xml:lang="zh-Hant-HK">市值</term>), in relation to any motor vehicle,
+                accessory or taxable warranty, means the price that the motor vehicle, accessory or
+                taxable warranty would fetch in the open market between a buyer and a seller
+                independent of each other, dealing at arm’s length;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1994/43">43 of 1994 s. 2</ref>. Amended <ref href="/hk/2003/ln59">L.N. 59 of 2003</ref> and <ref href="/hk/2003/22">22 of 2003 s. 2</ref>)</sourceNote></def><def name="Model"><term>model</term>
+                    (<term xml:lang="zh-Hant-HK">型號</term>) includes a specific motor vehicle
+                identified by the distributor, by reference to a chassis number or other identifying
+                feature acceptable to the Commissioner, that may be otherwise the same as other
+                motor vehicles;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1994/43">43 of 1994 s. 2</ref>)</sourceNote></def><def name="MotorCycle"><term>motor
+                    cycle</term>
+                    (<term xml:lang="zh-Hant-HK">電單車</term>) means a two-wheeled motor vehicle with
+                or without a sidecar;<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/1983/23">23 of 1983 s. 2</ref>)</sourceNote></def><def name="MotorTricycle">
+                <leadIn><term>motor
+                        tricycle</term>
+                        (<term xml:lang="zh-Hant-HK">機動三輪車</term>) means a three-wheeled motor
+                    vehicle other than—</leadIn>
+                <paragraph id="ID_1438411961528_026" name="a" temporalId="s2_1_a"><num value="a">(a)</num><content>a motor cycle with a sidecar;</content></paragraph>
+                <paragraph id="ID_1438411961528_034" name="b" temporalId="s2_1_b"><num value="b">(b)</num><content>a driver operated village vehicle;<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/1988/80">80 of 1988 s.
+                                17</ref>)</sourceNote></content></paragraph>
+                <paragraph id="ID_1438411961528_042" name="c" temporalId="s2_1_c"><num value="c">(c)</num><content>a pedestrian controlled village vehicle; and<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/1988/80">80 of 1988 s.
+                                17</ref>)</sourceNote></content></paragraph>
+                <paragraph id="ID_1438411961528_050" name="d" temporalId="s2_1_d"><num value="d">(d)</num><content>a golf cart;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1988/80">80 of 1988 s. 17</ref>)</sourceNote></content></paragraph>
+            </def><sourceNote>(Replaced <ref href="/hk/1986/31">31 of 1986 s. 8</ref>)</sourceNote><def name="MotorVehicle"><term>motor vehicle</term> (<term xml:lang="zh-Hant-HK">汽車</term>) means any mechanically propelled vehicle intended or adapted for use
+                on roads, and includes the chassis of such a vehicle but does not include any
+                conveyance for use solely on railways or tramways;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1994/43">43 of 1994 s.
+                    2</ref>)</sourceNote></def><def name="NewMotorVehicle"><term>new motor vehicle</term> (<term xml:lang="zh-Hant-HK">新汽車</term>) means a motor vehicle which has not been legally used on a road in
+                Hong Kong except by the manufacturer or by an importer, distributor or
+                    retailer;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1994/43">43 of 1994 s. 2</ref>)</sourceNote></def><def name="OptionalAccessory">
+                <leadIn><term>optional accessory</term> (<term xml:lang="zh-Hant-HK">自選配件</term>)
+                    means an accessory—</leadIn>
+                <paragraph id="ID_1438411961544_012" name="a" temporalId="s2_1_a"><num value="a">(a)</num><content>which is not fitted to a standard motor vehicle at the time when the
+                        vehicle is offered for sale; but</content></paragraph>
+                <paragraph id="ID_1438411961544_020" name="b" temporalId="s2_1_b"><num value="b">(b)</num><content>which may be fitted to the vehicle for an additional payment;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1997/11">11
+                                of 1997 s. 2</ref>)</sourceNote></content></paragraph>
+            </def><def name="Passenger"><term>passenger</term> (<term xml:lang="zh-Hant-HK">乘客</term>)
+                includes any person carried in a car except 1 driver;</def><def name="PedestrianControlledVillageVehicle"><term>pedestrian controlled village
+                    vehicle</term> (<term xml:lang="zh-Hant-HK">由徒步者控制的鄉村車輛</term>) means a motor
+                vehicle controlled by a pedestrian, having an overall length not exceeding 3.2 m and
+                an overall width not exceeding 1.2 m constructed or adapted primarily for the
+                carriage of goods on roads in rural areas or areas inaccessible or closed to other
+                motor vehicles, and not constructed or adapted for the carriage of a driver or any
+                    passenger;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1986/31">31 of 1986 s. 8</ref>)</sourceNote></def><def name="PersonApplyingForFirstRegistration">
+                <leadIn><term>person applying for first registration</term> (<term xml:lang="zh-Hant-HK">申請首次登記的人</term>) means—</leadIn>
+                <paragraph id="ID_1438411961544_048" name="a" temporalId="s2_1_a"><num value="a">(a)</num><content>the purchaser of a motor vehicle; or</content></paragraph>
+                <paragraph id="ID_1438411961544_056" name="b" temporalId="s2_1_b"><num value="b">(b)</num><content>the importer of a motor vehicle where he is not a registered
+                        importer,</content></paragraph>
+                <continued>and who applies for the first registration of the motor vehicle;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1994/43">43 of
+                            1994 s. 2</ref>)</sourceNote></continued>
+            </def><def name="PrivateBus">
+                <leadIn><term>private bus</term> (<term xml:lang="zh-Hant-HK">私家巴士</term>) means a
+                    bus used or intended for use—</leadIn>
+                <paragraph id="ID_1438411961544_077" name="a" temporalId="s2_1_a"><num value="a">(a)</num><content>otherwise than for hire or reward; or</content></paragraph>
+                <paragraph id="ID_1438411961559_006" name="b" temporalId="s2_1_b"><num value="b">(b)</num><leadIn>for the carriage of passengers who are exclusively—</leadIn><subparagraph id="ID_1438411961559_014" name="i" temporalId="s2_1_b_i"><num value="i">(i)</num><content>the students, teachers and employees of an educational institution;
+                            or</content></subparagraph><subparagraph id="ID_1438411961559_022" name="ii" temporalId="s2_1_b_ii"><num value="ii">(ii)</num><content>disabled persons and persons assisting them,</content></subparagraph><continued>whether or not for hire or reward;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1983/23">23 of 1983 s.
+                                2</ref>)</sourceNote></continued></paragraph>
+            </def><def name="PrivateCar"><term>private car</term> (<term xml:lang="zh-Hant-HK">私家車</term>)
+                means a motor vehicle constructed or adapted for use solely for the carriage of a
+                driver and not more than 7 passengers and their personal effects, but does not
+                include an invalid carriage, motor cycle, motor tricycle, golf cart or taxi;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1983/23">23 of 1983
+                        s. 2</ref>. Amended <ref href="/hk/1988/80">80 of 1988 s.
+                    17</ref>)</sourceNote></def><def name="PrivateLightBus">
+                <leadIn><term>private light bus</term> (<term xml:lang="zh-Hant-HK">私家小巴</term>)
+                    means a light bus used or intended for use—</leadIn>
+                <paragraph id="ID_1438411961559_049" name="a" temporalId="s2_1_a"><num value="a">(a)</num><content>otherwise than for hire or reward; or</content></paragraph>
+                <paragraph id="ID_1438411961559_057" name="b" temporalId="s2_1_b"><num value="b">(b)</num><leadIn>for the carriage of persons who are exclusively—</leadIn><subparagraph id="ID_1438411961559_065" name="i" temporalId="s2_1_b_i"><num value="i">(i)</num><content>the students, teachers and employees of an educational institution;
+                            or</content></subparagraph><subparagraph id="ID_1438411961559_073" name="ii" temporalId="s2_1_b_ii"><num value="ii">(ii)</num><content>disabled persons and persons assisting them,</content></subparagraph><continued>whether or not for hire or reward;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1983/23">23 of 1983 s.
+                                2</ref>)</sourceNote></continued></paragraph>
+            </def><def name="PublicBus"><term>public bus</term> (<term xml:lang="zh-Hant-HK">公共巴士</term>)
+                means a bus, other than a private bus, which is used or intended for use for hire or
+                    reward;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1983/23">23 of 1983 s. 2</ref>)</sourceNote></def><def name="PublicLightBus"><term>public light bus</term> (<term xml:lang="zh-Hant-HK">公共小巴</term>) means a light bus, other than a private light bus, which is used
+                or intended for use for hire or reward;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1983/23">23 of 1983 s.
+                    2</ref>)</sourceNote></def><def name="PublishedRetailPrice"><term>published retail price</term> (<term xml:lang="zh-Hant-HK">公布零售價</term>) means the retail price published for a motor
+                vehicle or any part of the published retail price relating to a part of the motor
+                vehicle under <ref>section 4A</ref>;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1994/43">43 of 1994 s.
+                    2</ref>)</sourceNote></def><def name="RegisteredDistributor"><term>registered distributor</term> (<term xml:lang="zh-Hant-HK">註冊分銷商</term>) means a person who has registered as a
+                distributor of motor vehicles with the Commissioner under <ref>section
+                    3A(2)</ref>;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1994/43">43 of 1994 s. 2</ref>. Amended <ref href="/hk/1997/11">11
+                        of 1997 s. 2</ref>)</sourceNote></def><def name="RegisteredImporter"><term>registered importer</term> (<term xml:lang="zh-Hant-HK">註冊進口者</term>) means a person who has registered as an
+                importer of motor vehicles with the Commissioner under <ref>section
+                    3A(1)</ref>;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1994/43">43 of 1994 s. 2</ref>. Amended <ref href="/hk/1997/11">11
+                        of 1997 s. 2</ref>)</sourceNote></def><def name="RegisteredPerson"><term>registered person</term> (<term xml:lang="zh-Hant-HK">註冊人</term>) means a person who is registered as an importer or distributor
+                under this Ordinance;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1994/43">43 of 1994 s. 2</ref>)</sourceNote></def><def name="Relative"><term>relative</term> (<term xml:lang="zh-Hant-HK">親屬</term>) means
+                the spouse, parent, child, brother or sister of the relevant person and, in
+                determining the relationship, an adopted person is regarded as the child of both the
+                natural parents and the adoptive parents and a step child is the child of both the
+                natural parents and any step parent;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1994/43">43 of 1994 s.
+                    2</ref>)</sourceNote></def><def name="Retailer"><term>retailer</term> (<term xml:lang="zh-Hant-HK">零售商</term>)
+                means a retailer of motor vehicles for use in Hong Kong;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1994/43">43 of 1994 s.
+                    2</ref>)</sourceNote></def><def name="Road"><term>road</term> (<term xml:lang="zh-Hant-HK">道路</term>) includes
+                every highway, thoroughfare, street, lane, alley, court, square, archway, passage,
+                path, way and place to which the public have access, either continuously or
+                intermittently and either of right or by licence, whether the same is the property
+                of the Government or otherwise, and a private road within the meaning of the Road
+                Traffic Ordinance (<ref href="/hk/cap374">Cap. 374</ref>);<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1988/80">80 of 1988 s. 17</ref>; <ref href="/hk/1998/29">29 of 1998 s. 105</ref>)</sourceNote></def><def name="SpecialPurposeVehicle"><term>special purpose vehicle</term> (<term xml:lang="zh-Hant-HK">特別用途車輛</term>) means a motor vehicle designed, constructed
+                or adapted primarily for a use other than the carriage on a road of goods, the
+                driver or passengers;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1988/78">78 of 1988 s. 2</ref>)</sourceNote></def><def name="SpecifiedAdditions"><term>specified additions</term> (<term xml:lang="zh-Hant-HK">指明附加物</term>) means additions of a class or type, as the
+                Commissioner specifies by regulation, that are added to the chassis or cab and
+                chassis to form a locally assembled vehicle;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1994/43">43 of 1994 s.
+                    2</ref>)</sourceNote></def><def name="StandardMotorVehicle"><term>standard motor vehicle</term> (<term xml:lang="zh-Hant-HK">標準汽車</term>) means a motor vehicle offered for sale at a
+                price published under <ref>section 4A(1)(a)</ref>;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1997/11">11 of 1997 s. 2</ref>. Amended <ref href="/hk/2003/ln59">L.N. 59 of 2003</ref> and <ref href="/hk/2003/22">22 of 2003 s. 2</ref>)</sourceNote></def><def name="TaxableValue"><term>taxable value</term> (<term xml:lang="zh-Hant-HK">應課稅價值</term>) means the amount calculated as the taxable value under
+                    <ref>section 4E</ref>;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1994/43">43 of 1994 s. 2</ref>)</sourceNote></def><def name="TaxableWarranty">
+                <leadIn><term>taxable warranty</term> (<term xml:lang="zh-Hant-HK">應課稅保證</term>)
+                    means a warranty provided by a person in respect of a motor vehicle—</leadIn>
+                <paragraph id="ID_1438411961606_005" name="a" temporalId="s2_1_a"><num value="a">(a)</num><content>which is not included in the retail price of the vehicle published
+                        under <ref>section 4A(1)(a)</ref>; and</content></paragraph>
+                <paragraph id="ID_1438411961606_013" name="b" temporalId="s2_1_b"><num value="b">(b)</num><leadIn>under which the person undertakes to provide, within a fixed period and
+                        whether subject to payment of a fee on each occasion the service is
+                        provided, any of the following services for the vehicle—</leadIn><subparagraph id="ID_1438411961606_021" name="i" temporalId="s2_1_b_i"><num value="i">(i)</num><content>checking the condition of the vehicle;</content></subparagraph><subparagraph id="ID_1438411961606_029" name="ii" temporalId="s2_1_b_ii"><num value="ii">(ii)</num><content>the maintenance of equipment, parts, components or
+                            accessories;</content></subparagraph><subparagraph id="ID_1438411961606_037" name="iii" temporalId="s2_1_b_iii"><num value="iii">(iii)</num><content>the repair or replacement of defective equipment, parts, components
+                            or accessories; or</content></subparagraph><subparagraph id="ID_1438411961606_045" name="iv" temporalId="s2_1_b_iv"><num value="iv">(iv)</num><content>remedying any defective process involving painting or rust-proofing
+                            or like treatment,</content></subparagraph></paragraph>
+                <continued> and includes a warranty provided by a registered distributor or an
+                    associated person the retail price of which is published under <ref>section
+                        4A(1)(c)</ref>;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/2003/ln59">L.N. 59 of 2003</ref> and <ref href="/hk/2003/22">22 of 2003 s. 2</ref>)</sourceNote></continued>
+            </def><def name="Taxi"><term>taxi</term> (<term xml:lang="zh-Hant-HK">的士</term>) means any
+                motor vehicle constructed or adapted for use as a taxi within the meaning of the
+                Road Traffic Ordinance (<ref href="/hk/cap374">Cap. 374</ref>); <sourceNote>(<ref href="/hk/2023/34">34 of 2023 s. 48</ref>)</sourceNote></def><def name="TransferOfAdditions"><term>transfer of additions</term> (<term xml:lang="zh-Hant-HK">轉換附加物</term>) means the transfer of additions that come
+                within classes or types of specified additions from the chassis or cab and chassis
+                of one locally assembled vehicle to another chassis or cab and chassis to form
+                another locally assembled vehicle;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1994/43">43 of 1994 s.
+                    2</ref>)</sourceNote></def><def name="VantypeLightGoodsVehicle"><term>van-type light goods vehicle</term> (<term xml:lang="zh-Hant-HK">客貨車</term>) means a light goods vehicle constructed with a
+                fully enclosed body which is an integral part of the vehicle.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1991/39">39 of 1991 s.
+                    2</ref>)</sourceNote></def><sourceNote class="left_indent_60">(Amended <ref href="/hk/1994/43">43 of 1994 s.
+                    2</ref>; <ref href="/hk/1997/11">11 of 1997 s. 2</ref>; <ref href="/hk/2003/ln59">L.N. 59 of 2003</ref> and <ref href="/hk/2003/22">22 of
+                    2003 s.
+                2</ref>; <ref href="/hk/2023/34">34 of 2023 s.
+                48</ref>)</sourceNote></subsection><subsection id="ID_1438411961622_025" name="2" temporalId="s2_2"><num value="2">(2)</num><content>The Commissioner may, by notice in the Gazette, and subject to such conditions,
+                if any, as are specified in the notice, declare an accessory, or a class of
+                accessories, including any process or modification relating to a motor vehicle, not
+                to be an accessory, or a class of accessories, as the case may be, for the purposes
+                of this Ordinance.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1997/11">11 of 1997 s. 2</ref>)</sourceNote></content></subsection><subsection id="ID_1438411961637_004" name="3" temporalId="s2_3"><num value="3">(3)</num><content>It is hereby declared that a notice under subsection (2) is subsidiary
+                    legislation.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1997/11">11 of 1997 s. 2</ref>)</sourceNote></content></subsection></section><section id="ID_1438403016507_002" name="s3" reason="repealed" startPeriod="1997-06-30" status="repealed" temporalId="s3"><num value="3">3.</num><sourceNote>(Repealed <ref href="/hk/1994/43">43 of 1994 s. 3</ref>)</sourceNote></section><section id="ID_1438403016522_001" name="s3A" reason="inEffect" startPeriod="2021-01-21" status="operational" temporalId="s3A"><num value="3A">3A.</num><heading>Registration of importers and distributors</heading><subsection id="ID_1438411961809_004" name="1" temporalId="s3A_1"><num value="1">(1)</num><content>A person who carries on business of importing motor vehicles for use in Hong Kong either on his own behalf or for a distributor for sale shall within 30 days of commencing to carry on that business register as an importer with the Commissioner.</content></subsection><subsection id="ID_1438411961809_012" name="2" temporalId="s3A_2"><num value="2">(2)</num><content>A person who carries on business of distributing motor vehicles by sale for use in Hong Kong either on his own behalf or to another distributor shall within 30 days of commencing to carry on that business register as a distributor with the Commissioner.</content></subsection><subsection id="ID_1438411961809_020" name="3...4" temporalId="s3A_3...4"><num value="3...4">(3)-(4)</num><sourceNote>(Repealed <ref href="/hk/1997/11">11 of 1997 s. 3</ref>)</sourceNote></subsection><subsection id="ID_1438411961824_005" name="5" temporalId="s3A_5"><num value="5">(5)</num><content>A person who applies for registration as an importer or distributor shall at the time of application pay the fee set by the Financial Secretary and published in the Gazette.</content></subsection><subsection id="ID_1438411961824_013" name="6" temporalId="s3A_6"><num value="6">(6)</num><content>Subsection (2) does not apply where the first registration tax is paid on the motor vehicles being distributed before the distributor buys or otherwise acquires an interest in the motor vehicles.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1997/11">11 of 1997 s. 3</ref>)</sourceNote></content></subsection><subsection id="ID_1438411961824_021" name="7" temporalId="s3A_7"><num value="7">(7)</num><leadIn>If a registered importer or a registered distributor—</leadIn><paragraph id="ID_1438411961824_029" name="a" temporalId="s3A_7_a"><num value="a">(a)</num><content>changes the place at which he carries on business;</content></paragraph><paragraph id="ID_1438411961824_037" name="b" temporalId="s3A_7_b"><num value="b">(b)</num><content>adds to or deletes the makes of motor vehicles he deals with; or</content></paragraph><paragraph id="ID_1438411961824_045" name="c" temporalId="s3A_7_c"><num value="c">(c)</num><content>ceases to carry on business,</content></paragraph><continued>he shall give notice of the change or cessation within 14 days of the change or cessation to the Commissioner.</continued></subsection><sourceNote>(Added <ref href="/hk/1994/43">43 of 1994 s. 3</ref>)</sourceNote></section><section id="ID_1438403016538_002" name="s3B" reason="inEffect" startPeriod="2021-01-21" status="operational" temporalId="s3B"><num value="3B">3B.</num><heading>Filing of returns on importation</heading><subsection id="ID_1438411961856_004" name="1" temporalId="s3B_1"><num value="1">(1)</num><leadIn>The importer of a motor vehicle for use in Hong Kong (whether for trade or other purposes) shall file a return with the Commissioner in the form approved by the Commissioner within 30 days (or such longer period as the Commissioner may permit in any particular case) of the importation of the motor vehicle, and not less than 5 working days before delivering that motor vehicle where that motor vehicle is imported for trade purposes, containing the following particulars of the motor vehicle—  <sourceNote>(Amended <ref href="/hk/1997/11">11 of 1997 s. 4</ref>)</sourceNote></leadIn><paragraph id="ID_1438411961856_012" name="a" temporalId="s3B_1_a"><num value="a">(a)</num><content>the make, model, engine number and chassis number;</content></paragraph><paragraph id="ID_1438411961856_020" name="b" temporalId="s3B_1_b"><num value="b">(b)</num><content>the landed value; and</content></paragraph><paragraph id="ID_1438411961856_028" name="c" temporalId="s3B_1_c"><num value="c">(c)</num><content>such other particulars relating to the previous ownership, purchase price, insurance and freight as the Commissioner may reasonably require to verify the value stated in paragraph (b).</content></paragraph></subsection><subsection id="ID_1438411961856_035" name="2" temporalId="s3B_2"><num value="2">(2)</num><leadIn>The importer of a motor vehicle shall give the cost element of the landed value of the motor vehicle as the highest of—</leadIn><paragraph id="ID_1438411961871_005" name="a" temporalId="s3B_2_a"><num value="a">(a)</num><content>the cost of purchase by the importer;</content></paragraph><paragraph id="ID_1438411961871_013" name="b" temporalId="s3B_2_b"><num value="b">(b)</num><content>the cost of purchase by an associated person within the 6 months prior to the importation of the motor vehicle; or</content></paragraph><paragraph id="ID_1438411961871_021" name="c" temporalId="s3B_2_c"><num value="c">(c)</num><content>the cost, calculated as the motor vehicle leaves the factory, to the importer who is the manufacturer of the motor vehicle or an associated person.</content></paragraph></subsection><subsection id="ID_1438411961871_028" name="3" temporalId="s3B_3"><num value="3">(3)</num><leadIn>The cost referred to in subsection <ref>(2)(a)</ref>, (b) and (c)—</leadIn><paragraph id="ID_1438411961871_036" name="a" temporalId="s3B_3_a"><num value="a">(a)</num><leadIn>includes, in addition to the declared value of the motor vehicle concerned, the cost of—</leadIn><subparagraph id="ID_1438411961871_044" name="i" temporalId="s3B_3_a_i"><num value="i">(i)</num><content>any repair or modification, or accessories fitted, to the motor vehicle before first registration;</content></subparagraph><subparagraph id="ID_1438411961871_052" name="ii" temporalId="s3B_3_a_ii"><num value="ii">(ii)</num><content>any process involving the painting or rust-proofing or like treatment of the motor vehicle before first registration;</content></subparagraph><subparagraph id="ID_1438411961871_060" name="iii" temporalId="s3B_3_a_iii"><num value="iii">(iii)</num><content>without prejudice to the generality of subsection (5), any brokerage or agency fee paid or payable in relation to the purchase and importation of the motor vehicle;</content></subparagraph><subparagraph id="ID_1438411961871_068" name="iv" temporalId="s3B_3_a_iv"><num value="iv">(iv)</num><content>any fee, or any fee belonging to a class of fees, declared in a notice under subsection (5) to be a fee, or a class of fees, as the case may be, for the purposes of this subparagraph;</content></subparagraph></paragraph><paragraph id="ID_1438411961887_006" name="b" temporalId="s3B_3_b"><num value="b">(b)</num><leadIn>does not include the cost of any tax or fee in respect of which it has been shown to the satisfaction of the Commissioner that the tax or fee, as the case may be, has been paid or is payable—</leadIn><subparagraph id="ID_1438411961887_014" name="i" temporalId="s3B_3_b_i"><num value="i">(i)</num><content>in relation to the exportation of the motor vehicle prior to the importation of the motor vehicle; and</content></subparagraph><subparagraph id="ID_1438411961887_022" name="ii" temporalId="s3B_3_b_ii"><num value="ii">(ii)</num><content>to the government of the place from which the motor vehicle is imported.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1997/11">11 of 1997 s. 4</ref>)</sourceNote></content></subparagraph></paragraph></subsection><subsection id="ID_1438411961887_028" name="4" temporalId="s3B_4"><num value="4">(4)</num><leadIn>If in any contract of sale, invoice or other document produced under subsection (2) the value of a motor vehicle is stated in any currency other than Hong Kong dollars, the Hong Kong dollars equivalent of such other currency shall be calculated at—</leadIn><paragraph id="ID_1438411961887_036" name="a" temporalId="s3B_4_a"><num value="a">(a)</num><content>the opening indicative counter exchange selling rate published by The Hong Kong Association of Banks on the day the motor vehicle is imported;</content></paragraph><paragraph id="ID_1438411961887_044" name="b" temporalId="s3B_4_b"><num value="b">(b)</num><content>where no such rate is published, at such rate of exchange as may be determined by the Commissioner after consulting the note-issuing banks.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1997/11">11 of 1997 s. 4</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438411961887_051" name="5" temporalId="s3B_5"><num value="5">(5)</num><content>The Commissioner may, by notice in the Gazette, and subject to such conditions,
+                if any, as are specified in the notice, declare a fee, or a class of fees, to be a
+                fee, or a class of fees, as the case may be, for the purposes of
+                subsection
+                    (3)(a)(iv).<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1997/11">11 of 1997
+                        s.
+                    4</ref>. Amended <ref href="/hk/2020/er7">E.R. 7 of
+                    2020</ref>)</sourceNote></content></subsection><subsection id="ID_1438411961902_005" name="6" temporalId="s3B_6"><num value="6">(6)</num><content>It is hereby declared that a notice under subsection (5) is subsidiary legislation.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1997/11">11 of 1997 s. 4</ref>)</sourceNote></content></subsection><subsection id="ID_1438411961902_013" name="7" temporalId="s3B_7"><num value="7">(7)</num><def name="UseInHongKong">In this section,
+                    <term>use
+                    in Hong
+                Kong</term>
+                    (<term xml:lang="zh-Hant-HK">在香港使用</term>), in relation to a motor vehicle,
+                means the use of the motor vehicle on a road within the meaning of <ref>section
+                    2</ref> of the Road Traffic Ordinance (<ref href="/hk/cap374">Cap.
+                    374</ref>).<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1997/11">11 of 1997 s. 4</ref>)</sourceNote></def></subsection><sourceNote>(Added <ref href="/hk/1994/43">43 of 1994 s. 3</ref>)</sourceNote></section><section id="ID_1438403016554_002" name="s4" reason="repealed" startPeriod="1997-06-30" status="repealed" temporalId="s4"><num value="4">4.</num><sourceNote>(Repealed <ref href="/hk/1994/43">43 of 1994 s. 3</ref>)</sourceNote></section><section id="ID_1438403016569_001" name="s4A" reason="inEffect" startPeriod="2021-01-21" status="operational" temporalId="s4A"><num value="4A">4A.</num><heading>Publication of retail price</heading><subsection id="ID_1438411961980_004" name="1" temporalId="s4A_1"><num value="1">(1)</num><leadIn>A registered distributor shall, before offering a motor vehicle for sale for use
+                in Hong Kong or distributing a motor vehicle for use in Hong Kong, publish in
+                writing, in such manner as the Commissioner requires, a retail price of each model
+                of the motor vehicle offered for sale or distributed by him containing—</leadIn><paragraph id="ID_1438411961980_012" name="a" temporalId="s4A_1_a"><num value="a">(a)</num><content>the retail price of the model of the motor vehicle including the
+                    manufacturer’s warranty and any other warranty that is mandatory (but excluding
+                    the first registration tax payable) with a description of what is included in
+                    the retail price;</content></paragraph><paragraph id="ID_1438411961980_020" name="b" temporalId="s4A_1_b"><num value="b">(b)</num><content>the retail price of optional accessories that are offered in addition to
+                    the standard motor vehicle, if any; and<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/2003/ln59">L.N. 59 of
+                            2003</ref> and <ref href="/hk/2003/22">22 of 2003 s.
+                        3</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411961996_006" name="c" temporalId="s4A_1_c"><num value="c">(c)</num><content>the retail price of warranties other than a manufacturer’s warranty and any
+                    other warranty that is mandatory that are offered in addition to the standard
+                    motor vehicle, if any.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/2003/ln59">L.N. 59 of 2003</ref> and <ref href="/hk/2003/22">22 of 2003 s. 3</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411961996_014" name="d" temporalId="s4A_1_d"><num value="d">(d)</num><sourceNote>(Repealed <ref href="/hk/2003/ln59">L.N. 59 of 2003</ref> and <ref href="/hk/2003/22">22 of 2003 s. 3</ref>)</sourceNote></paragraph></subsection><subsection id="ID_1438411961996_021" name="2" temporalId="s4A_2"><num value="2">(2)</num><content>A registered distributor shall publish the retail price of the motor vehicle as
+                assessed by the Commissioner, or if varied by the Administrative Appeals Board, as
+                so varied, under <ref>section 4B</ref> as the published retail price of the motor
+                vehicle.</content></subsection><subsection id="ID_1438411961996_029" name="3" temporalId="s4A_3"><num value="3">(3)</num><content>The retail price of a motor vehicle assessed by the Commissioner, or if varied
+                by the Administrative Appeals Board, as so varied, is taken as the published retail
+                price of the motor vehicle.</content></subsection><subsection id="ID_1438411961996_037" name="4" temporalId="s4A_4"><num value="4">(4)</num><content>A registered distributor shall deliver a copy of his retail price list intended
+                for publication to the Commissioner not less than 7 days before publication and
+                shall give the Commissioner not less than 5 working days’ notice of an intended
+                change in the published retail price of a model of a motor vehicle.</content></subsection><subsection id="ID_1438411962012_005" name="5" temporalId="s4A_5"><num value="5">(5)</num><content>A person shall not sell a new motor vehicle other than a locally assembled
+                vehicle at a price greater than the taxable value of the motor vehicle calculated
+                under <ref>section 4E(2)(a)(i)</ref>, (ii) and (iiia) without first obtaining the
+                consent of the Commissioner.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1996/29">29 of 1996 s. 3</ref>; <ref href="/hk/2003/ln59">L.N. 59 of 2003</ref> and <ref href="/hk/2003/22">22 of 2003 s.
+                    3</ref>)</sourceNote></content></subsection><subsection id="ID_1438411962012_013" name="6" temporalId="s4A_6"><num value="6">(6)</num><leadIn>A person shall not, without first obtaining the consent of the Commissioner,
+                sell a new locally assembled vehicle at a price greater than the aggregate
+                of—</leadIn><paragraph id="ID_1438411962012_021" name="a" temporalId="s4A_6_a"><num value="a">(a)</num><content>the taxable value calculated under <ref>section 4E(2)(b)(i)</ref>, (ii) and
+                    (iiia); and<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/2003/ln59">L.N. 59 of 2003</ref> and <ref href="/hk/2003/22">22 of 2003 s. 3</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411962012_029" name="b...c" temporalId="s4A_6_b...c"><num value="b...c">(b)-(c)</num><sourceNote>(Repealed <ref href="/hk/2003/ln59">L.N. 59 of 2003</ref> and <ref href="/hk/2003/22">22 of 2003 s. 3</ref>)</sourceNote></paragraph><paragraph id="ID_1438411962012_037" name="d" temporalId="s4A_6_d"><num value="d">(d)</num><content>the value of specified additions to the chassis or cab and
+                    chassis.</content></paragraph></subsection><subsection id="ID_1438411962012_044" name="7" temporalId="s4A_7"><num value="7">(7)</num><content>A person shall not sell a motor vehicle which is not a new motor vehicle or a
+                locally assembled vehicle at a price greater than the taxable value calculated under
+                    <ref>section 4E(2)(a)(i)</ref>, (ii) and (iiia) or (c) and the first
+                registration tax paid or payable on the motor vehicle without first obtaining the
+                consent of the Commissioner.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1996/29">29 of 1996 s. 3</ref>; <ref href="/hk/2003/ln59">L.N. 59 of 2003</ref> and <ref href="/hk/2003/22">22 of 2003 s.
+                    3</ref>)</sourceNote></content></subsection><subsection id="ID_1438411962027_005" name="8" temporalId="s4A_8"><num value="8">(8)</num><leadIn>A person shall not, without first obtaining the consent of the Commissioner,
+                sell a locally assembled vehicle (which is not a new motor vehicle) at a price
+                greater than the aggregate of—</leadIn><paragraph id="ID_1438411962027_013" name="a" temporalId="s4A_8_a"><num value="a">(a)</num><content>the taxable value calculated under <ref>section 4E(2)(b)(i)</ref>, (ii) and
+                        (iiia);<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/2003/ln59">L.N. 59 of 2003</ref> and <ref href="/hk/2003/22">22 of 2003 s. 3</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411962027_021" name="b...c" temporalId="s4A_8_b...c"><num value="b...c">(b)-(c)</num><sourceNote>(Repealed <ref href="/hk/2003/ln59">L.N. 59 of 2003</ref> and <ref href="/hk/2003/22">22 of 2003 s. 3</ref>)</sourceNote></paragraph><paragraph id="ID_1438411962027_029" name="d" temporalId="s4A_8_d"><num value="d">(d)</num><content>the value of specified additions to the chassis or cab and chassis;
+                    and</content></paragraph><paragraph id="ID_1438411962027_037" name="e" temporalId="s4A_8_e"><num value="e">(e)</num><content>the first registration tax paid or payable on the motor vehicle.</content></paragraph></subsection><subsection id="ID_1438411962027_044" name="9...11" temporalId="s4A_9...11"><num value="9...11">(9)-(11)</num><sourceNote>(Repealed <ref href="/hk/2003/ln59">L.N. 59 of 2003</ref> and <ref href="/hk/2003/22">22 of 2003 s. 3</ref>)</sourceNote></subsection><subsection id="ID_1438411962027_052" name="12" temporalId="s4A_12"><num value="12">(12)</num><content>The Commissioner shall not refuse to consent to a sale under subsection (5),
+                (6), (7) or (8) unless he is satisfied that the transaction is part of a scheme that
+                avoids payment of first registration tax.</content></subsection><subsection id="ID_1438411962043_005" name="13" temporalId="s4A_13"><num value="13">(13)</num><content>The Commissioner may impose as a condition to a consent under subsection (5),
+                (6), (7) or (8) a requirement for the registered owner, the person applying for
+                first registration or the person applying for change of ownership of a registered
+                motor vehicle, to pay additional first registration tax for the motor vehicle
+                calculated on any increased value reflected in the increase in the purchase price of
+                the motor vehicle.</content></subsection><subsection id="ID_1438411962043_013" name="14" temporalId="s4A_14"><num value="14">(14)</num><content>The Commissioner may make public a retail price list delivered to him under
+                this section in the manner he thinks fit.</content></subsection><subsection id="ID_1438411962043_021" name="15" temporalId="s4A_15"><num value="15">(15)</num><leadIn>Subsections (7) and (8) do not apply to a motor vehicle—</leadIn><paragraph id="ID_1438411962043_029" name="a" temporalId="s4A_15_a"><num value="a">(a)</num><content>sold under a written agreement with a non-refundable deposit paid;
+                    or</content></paragraph><paragraph id="ID_1438411962043_037" name="b" temporalId="s4A_15_b"><num value="b">(b)</num><content>registered,</content></paragraph><continued>before the
+                commencement*
+                of this section.</continued></subsection><sourceNote>(Added <ref href="/hk/1994/43">43 of 1994 s. 3</ref>. Amended <ref href="/hk/1997/11">11 of 1997 s. 5</ref>)</sourceNote><editorialNote type="footnote" id="ID_1606267747329_001">
+            <content>Editorial Note:</content>
+            <content><inline class="force_orig_font">*</inline> See <ref href="/hk/1994/ln389">L.N.
+                    389 of 1994</ref> and <ref href="/hk/1994/ln390">L.N. 390 of
+                1994</ref>.</content>
+        </editorialNote></section><section id="ID_1438403016585_001" name="s4B" reason="inEffect" startPeriod="2021-01-21" status="operational" temporalId="s4B"><num value="4B">4B.</num><heading>Commissioner may assess published retail price in certain circumstances</heading><subsection id="ID_1438411962105_004" name="1" temporalId="s4B_1"><num value="1">(1)</num><leadIn>Where the Commissioner is of the opinion that—</leadIn><paragraph id="ID_1438411962105_012" name="a" temporalId="s4B_1_a"><num value="a">(a)</num><content>the published retail price of an element of a motor vehicle does not reflect the market value of that element of the motor vehicle; or </content></paragraph><paragraph id="ID_1438411962105_020" name="b" temporalId="s4B_1_b"><num value="b">(b)</num><content>the values of the elements of the motor vehicle are constructed in a way to avoid the payment of first registration tax, </content></paragraph><continued>the Commissioner may reject the published retail price for the motor vehicle and may assess a retail price that would reflect the market value of the elements of the motor vehicle.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/2003/ln59">L.N. 59 of 2003</ref> and <ref href="/hk/2003/22">22 of 2003 s. 4</ref>)</sourceNote></continued></subsection><subsection id="ID_1438411962105_033" name="2" temporalId="s4B_2"><num value="2">(2)</num><content>The Commissioner shall give the registered distributor notice of his refusal to accept the published retail price immediately on his reaching his opinion.</content></subsection><subsection id="ID_1438411962105_041" name="3" temporalId="s4B_3"><num value="3">(3)</num><content>The Commissioner shall, after considering the representations of the registered distributor, give the registered distributor notice of the retail price that he considers reflects the market value of the elements of the motor vehicle, within 14 days of giving notice under subsection (2) or receipt of any representations from the registered distributor.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/2003/ln59">L.N. 59 of 2003</ref> and <ref href="/hk/2003/22">22 of 2003 s. 4</ref>)</sourceNote></content></subsection><subsection id="ID_1438411962121_005" name="4" temporalId="s4B_4"><num value="4">(4)</num><leadIn>The Commissioner shall give reasons for—</leadIn><paragraph id="ID_1438411962121_013" name="a" temporalId="s4B_4_a"><num value="a">(a)</num><content>his rejection of a published retail price; and</content></paragraph><paragraph id="ID_1438411962121_021" name="b" temporalId="s4B_4_b"><num value="b">(b)</num><content>his assessment of the retail price under this section,</content></paragraph><continued>to the registered distributor at the time of giving notice under subsection (3).</continued></subsection><subsection id="ID_1438411962121_034" name="5" temporalId="s4B_5"><num value="5">(5)</num><content>The Commissioner may register a motor vehicle where the full assessment of first registration tax is in dispute under this section if the tax is paid in full as assessed pending the outcome of an appeal to the Administrative Appeals Board.</content></subsection><subsection id="ID_1438411962121_042" name="6" temporalId="s4B_6"><num value="6">(6)</num><content>If the Administrative Appeals Board finds that the registered distributor or a purchaser has paid first registration tax in excess of that properly assessable, the Commissioner shall refund the excess of tax as soon as practicable after the decision of the Administrative Appeals Board is published.</content></subsection><sourceNote>(Added <ref href="/hk/1994/43">43 of 1994 s. 3</ref>)</sourceNote></section><section id="ID_1438403016585_003" name="s4C" reason="inEffect" startPeriod="2021-01-21" status="operational" temporalId="s4C"><num value="4C">4C.</num><heading>Commissioner may make regulation in respect of chassis or cab and chassis</heading><subsection id="ID_1438411962152_058" name="1" temporalId="s4C_1"><num value="1">(1)</num><leadIn>The Commissioner may by regulation—  <sourceNote>(Amended <ref href="/hk/1996/29">29 of 1996 s. 4</ref>)</sourceNote></leadIn><paragraph id="ID_1438411962168_005" name="a" temporalId="s4C_1_a"><num value="a">(a)</num><content>specify the classes or types of additions to the chassis or cab and chassis of locally assembled vehicles that will be taxable under this Ordinance and set the formula by, or specify the amounts at, which they will be valued for the purpose of calculating the taxable value of locally assembled vehicles;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1997/11">11 of 1997 s. 6</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411962168_013" name="b" temporalId="s4C_1_b"><num value="b">(b)</num><sourceNote>(Repealed <ref href="/hk/2003/ln59">L.N. 59 of 2003</ref> and <ref href="/hk/2003/22">22 of 2003 s. 5</ref>)</sourceNote></paragraph><paragraph id="ID_1438411962168_021" name="c" temporalId="s4C_1_c"><num value="c">(c)</num><content>prescribe the conditions under which previously taxed chassis, cabs and
+                    chassis and additions to the chassis or cabs and chassis of locally assembled
+                    vehicles are excluded from first registration tax on the transfer of
+                    additions.</content></paragraph></subsection><subsection id="ID_1438411962168_028" name="2" temporalId="s4C_2"><num value="2">(2)</num><sourceNote>(Repealed <ref href="/hk/2003/ln59">L.N. 59 of 2003</ref> and <ref href="/hk/2003/22">22 of 2003 s. 5</ref>)</sourceNote></subsection><sourceNote>(Added <ref href="/hk/1994/43">43 of 1994 s. 3</ref>)</sourceNote></section><section id="ID_1438403016600_002" name="s4D" reason="inEffect" startPeriod="2021-01-21" status="operational" temporalId="s4D"><num value="4D">4D.</num><heading>Declaration as to price paid</heading><subsection id="ID_1438411962183_049" name="1" temporalId="s4D_1"><num value="1">(1)</num><leadIn>A registered distributor, if any, and a person applying for first registration shall each sign a declaration, in the form approved by the Commissioner, stating the date and place of purchase of the motor vehicle and—</leadIn><paragraph id="ID_1438411962199_005" name="a" temporalId="s4D_1_a"><num value="a">(a)</num><leadIn>for a motor vehicle sold by a registered distributor—</leadIn><subparagraph id="ID_1438411962199_013" name="i" temporalId="s4D_1_a_i"><num value="i">(i)</num><content>the published retail price of the motor vehicle, if applicable;</content></subparagraph><subparagraph id="ID_1438411962199_021" name="ii" temporalId="s4D_1_a_ii"><num value="ii">(ii)</num><content>the published retail price of an optional accessory fitted or to be fitted to the motor vehicle within 6 months after the date of first registration by the registered distributor or an associated person, if any; and </content></subparagraph><subparagraph id="ID_1438411962199_029" name="iii" temporalId="s4D_1_a_iii"><num value="iii">(iii)</num><content>the published retail price of any warranty, other than a manufacturer’s
+                        warranty and any other warranty that is mandatory, attaching to the sale of
+                        the motor vehicle, irrespective of whether the warranty takes immediate
+                            effect;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1997/11">11 of 1997 s. 7</ref>)</sourceNote></content></subparagraph><subparagraph id="ID_1438411962199_037" name="iv" temporalId="s4D_1_a_iv"><num value="iv">(iv)</num><sourceNote>(Repealed <ref href="/hk/2003/ln59">L.N. 59 of 2003</ref> and <ref href="/hk/2003/22">22 of 2003 s. 6</ref>)</sourceNote></subparagraph></paragraph><paragraph id="ID_1438411962214_005" name="b" temporalId="s4D_1_b"><num value="b">(b)</num><leadIn>for a motor vehicle that is not sold by a registered distributor, the full price paid by the person applying for first registration for the purchase of the motor vehicle, including—</leadIn><subparagraph id="ID_1438411962214_013" name="i" temporalId="s4D_1_b_i"><num value="i">(i)</num><content>the cost of all materials and work necessary to put the vehicle into the state necessary to meet first registration requirements;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1997/11">11 of 1997 s. 7</ref>)</sourceNote></content></subparagraph><subparagraph id="ID_1438411962214_021" name="ii" temporalId="s4D_1_b_ii"><num value="ii">(ii)</num><content>the value of accessories included in the purchase of the motor vehicle;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1997/11">11 of 1997 s. 7</ref>)</sourceNote></content></subparagraph><subparagraph id="ID_1438411962214_029" name="iia" temporalId="s4D_1_b_iia"><num value="iia">(iia)</num><content>the value of any warranty, other than a manufacturer’s warranty and any other warranty that is mandatory, included in the purchase of the motor vehicle, irrespective of whether the warranty takes immediate effect;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/2003/ln59">L.N. 59 of 2003</ref> and <ref href="/hk/2003/22">22 of 2003 s. 6</ref>)</sourceNote></content></subparagraph><subparagraph id="ID_1438411962214_037" name="iii" temporalId="s4D_1_b_iii"><num value="iii">(iii)</num><content>any incidental insurance and freight fees relating to the vehicle (but excluding any tax or fee paid to the government of the place from which the vehicle is imported); and<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1997/11">11 of 1997 s. 7</ref>)</sourceNote></content></subparagraph><subparagraph id="ID_1438411962214_045" name="iv" temporalId="s4D_1_b_iv"><num value="iv">(iv)</num><content>the cost element of the landed value of the motor vehicle which the importer is required to give under <ref>section 3B(2)</ref>;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1997/11">11 of 1997 s. 7</ref>)</sourceNote></content></subparagraph></paragraph><paragraph id="ID_1438411962214_052" name="c" temporalId="s4D_1_c"><num value="c">(c)</num><content>where paragraph <ref>(b)(i)</ref>, (ii), (iia), (iii) or (iv) is applicable, attach to the declaration such documentary evidence as the Commissioner may reasonably require in support of that part of the full price to which that paragraph is applicable.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1997/11">11 of 1997 s. 7</ref>. Amended <ref href="/hk/2003/ln59">L.N. 59 of 2003</ref> and <ref href="/hk/2003/22">22 of 2003 s. 6</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438411962230_005" name="2" temporalId="s4D_2"><num value="2">(2)</num><leadIn>If a person fits an accessory to a motor vehicle within 6 months after the first registration of the vehicle and the accessory has not been declared in a declaration signed under subsection (1)—</leadIn><paragraph id="ID_1438411962230_013" name="a" temporalId="s4D_2_a"><num value="a">(a)</num><content>in the case where the accessory is fitted by a registered distributor or an associated person, the registered owner and the registered distributor; or</content></paragraph><paragraph id="ID_1438411962230_021" name="b" temporalId="s4D_2_b"><num value="b">(b)</num><content>in the case where the accessory is fitted by a person other than a registered distributor or an associated person, the registered owner,</content></paragraph><continued>shall, within 5 working days after the fitting of the accessory, make and deliver to the Commissioner a declaration, in the form approved by the Commissioner, setting out details, including the value, of the accessory and attaching such documentary evidence as the Commissioner may reasonably require in support of the declared value of the accessory.<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/2003/ln59">L.N. 59 of 2003</ref> and <ref href="/hk/2003/22">22 of 2003 s. 6</ref>)</sourceNote></continued></subsection><subsection id="ID_1438411962230_034" name="2A" temporalId="s4D_2A"><num value="2A">(2A)</num><content>Where an accessory declared in a declaration made under subsection (2)
+                        (<b><i>new
+                        accessory</i></b>)
+                is fitted to the motor vehicle to replace another accessory
+                        (<b><i>replaced
+                        accessory</i></b>),
+                the registered owner may, together with the registered distributor who fits the new
+                accessory (if the distributor so wishes), apply to the Commissioner to deduct the
+                value of the replaced accessory from the taxable value of the vehicle by setting out
+                in the declaration such details of the replaced accessory as the Commissioner may
+                reasonably require and attaching to the declaration such documentary evidence as the
+                Commissioner may reasonably require in support of the application.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/2003/ln59">L.N. 59
+                        of 2003</ref> and <ref href="/hk/2003/22">22 of 2003 s.
+                    6</ref>)</sourceNote></content></subsection><subsection id="ID_1438411962261_005" name="2B" temporalId="s4D_2B"><num value="2B">(2B)</num><leadIn>If the registered owner of a motor vehicle obtains a taxable warranty for the vehicle within 6 months after the first registration of the vehicle and the taxable warranty has not been declared in a declaration signed under subsection (1)—</leadIn><paragraph id="ID_1438411962261_013" name="a" temporalId="s4D_2B_a"><num value="a">(a)</num><content>in the case where the taxable warranty is provided by a registered distributor or an associated person, the registered owner and the registered distributor; or</content></paragraph><paragraph id="ID_1438411962261_021" name="b" temporalId="s4D_2B_b"><num value="b">(b)</num><content>in the case where the taxable warranty is provided by a person other than a registered distributor or an associated person, the registered owner,</content></paragraph><continued>shall, within 5 working days after the date on which the contract for the taxable warranty is entered into, make and deliver to the Commissioner a declaration, in the form approved by the Commissioner, setting out details, including the value, of the taxable warranty and attaching such documentary evidence as the Commissioner may reasonably require in support of the declared value of the taxable warranty.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/2003/ln59">L.N. 59 of 2003</ref> and <ref href="/hk/2003/22">22 of 2003 s. 6</ref>)</sourceNote></continued></subsection><subsection id="ID_1438411962261_034" name="3" temporalId="s4D_3"><num value="3">(3)</num><content>A registered distributor may authorize his employees and agents to make a declaration under this section and shall notify the Commissioner in writing as to the names of the persons authorized.</content></subsection><subsection id="ID_1438411962277_005" name="3A" temporalId="s4D_3A"><num value="3A">(3A)</num><content>Subject to subsection (3B), where a registered distributor has authorized a person under subsection (3), a reference to registered distributor in this section, in so far as it relates to an obligation to make a declaration, shall be deemed to be a reference to the person so authorized, and a reference to registered distributor in <ref>section 4I(1)(ea)</ref> shall be construed accordingly.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/2003/22">22 of 2003 s. 6</ref>)</sourceNote></content></subsection><subsection id="ID_1438411962277_013" name="3B" temporalId="s4D_3B"><num value="3B">(3B)</num><content>Subsection (3A) shall not apply in relation to a matter in respect of which the registered distributor has made a declaration under this section despite the authorization.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/2003/22">22 of 2003 s. 6</ref>)</sourceNote></content></subsection><subsection id="ID_1438411962292_005" name="4" temporalId="s4D_4"><num value="4">(4)</num><def name="FitsAnAccessory">In this section,
+                <term>fits
+                    an
+                accessory</term>
+                    (<term xml:lang="zh-Hant-HK">安裝任何配件</term>) includes commencing to fit an accessory.
+                <sourceNote>(Amended <ref href="hk/2020/er7">E.R. 7 of 2020</ref>)</sourceNote></def></subsection><sourceNote>(Added <ref href="/hk/1994/43">43 of 1994 s. 3</ref>)</sourceNote></section><section id="ID_1438403016616_002" name="s4E" reason="inEffect" startPeriod="2021-01-21" status="operational" temporalId="s4E"><num value="4E">4E.</num><heading>Calculation of first registration tax and taxable value</heading><subsection id="ID_1438411962355_004" name="1" temporalId="s4E_1"><num value="1">(1)</num><content>The Commissioner shall calculate the first registration tax for a motor vehicle as the amount equal to the percentage, specified in column 3 of the <ref>Schedule</ref>, of the taxable value of the motor vehicle for that class of motor vehicle as at the date of first registration of the motor vehicle or the date of registration of the transfer of the motor vehicle or such other date as may be provided for in this Ordinance.</content></subsection><subsection id="ID_1438411962370_005" name="2" temporalId="s4E_2"><num value="2">(2)</num><leadIn>The Commissioner shall calculate the taxable value of a motor vehicle as
+                follows—</leadIn><paragraph id="ID_1438411962370_013" name="a" temporalId="s4E_2_a"><num value="a">(a)</num><leadIn>for a new motor vehicle (other than a locally assembled vehicle), where
+                    there is a published retail price, the taxable value shall be the aggregate
+                    of—</leadIn><subparagraph id="ID_1438411962370_021" name="i" temporalId="s4E_2_a_i"><num value="i">(i)</num><content>the published retail price of the motor vehicle including any
+                        manufacturer’s warranty and any other warranty that is mandatory;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1997/11">11 of 1997 s. 8</ref>)</sourceNote></content></subparagraph><subparagraph id="ID_1438411962370_029" name="ii" temporalId="s4E_2_a_ii"><num value="ii">(ii)</num><content>the published retail price of any optional accessories fitted or to be
+                        fitted to the vehicle within 6 months after first registration;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1997/11">11 of 1997 s. 8</ref>)</sourceNote></content></subparagraph><subparagraph id="ID_1438411962370_037" name="iia" temporalId="s4E_2_a_iia"><num value="iia">(iia)</num><sourceNote>(Repealed <ref href="/hk/2003/ln59">L.N. 59 of 2003</ref> and <ref href="/hk/2003/22">22 of 2003 s. 7</ref>)</sourceNote></subparagraph><subparagraph id="ID_1438411962386_003" name="iii" temporalId="s4E_2_a_iii"><num value="iii">(iii)</num><sourceNote>(Repealed <ref href="/hk/2003/ln59">L.N. 59 of 2003</ref> and <ref href="/hk/2003/22">22 of 2003 s. 7</ref>)</sourceNote></subparagraph><subparagraph id="ID_1438411962386_011" name="iiia" temporalId="s4E_2_a_iiia"><num value="iiia">(iiia)</num><content>the published retail price of any warranty, other than a manufacturer’s
+                        warranty and any other warranty that is mandatory, attaching to the sale of
+                        the vehicle, irrespective of whether the warranty takes immediate
+                            effect;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/2003/ln59">L.N. 59 of 2003</ref> and <ref href="/hk/2003/22">22 of 2003 s. 7</ref>)</sourceNote></content></subparagraph><subparagraph id="ID_1438411962386_019" name="iv" temporalId="s4E_2_a_iv"><num value="iv">(iv)</num><content>without prejudice to the generality of subsection (3), any brokerage or
+                        agency fee paid or payable in relation to the purchase and importation of
+                        the motor vehicle; and<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1997/11">11 of 1997 s.
+                        8</ref>)</sourceNote></content></subparagraph><subparagraph id="ID_1438411962386_027" name="v" temporalId="s4E_2_a_v"><num value="v">(v)</num><content>any fee, or any fee belonging to a class of fees, declared in a notice
+                        under subsection (3) to be a fee, or a class of fees, as the case may be,
+                        for the purposes of this subparagraph;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1997/11">11 of 1997 s.
+                                8</ref>)</sourceNote></content></subparagraph></paragraph><paragraph id="ID_1438411962386_034" name="b" temporalId="s4E_2_b"><num value="b">(b)</num><leadIn>for a new motor vehicle which is a locally assembled vehicle, the taxable
+                    value shall be the aggregate of—</leadIn><subparagraph id="ID_1438411962386_042" name="i" temporalId="s4E_2_b_i"><num value="i">(i)</num><content>the published retail price of the chassis or cab and chassis, including
+                        any manufacturer’s warranty and any other warranty that is mandatory;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1997/11">11 of 1997 s. 8</ref>)</sourceNote></content></subparagraph><subparagraph id="ID_1438411962386_050" name="ii" temporalId="s4E_2_b_ii"><num value="ii">(ii)</num><content>the published retail price of any optional accessories fitted or to be
+                        fitted to the vehicle within 6 months after first registration;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/2003/ln59">L.N. 59 of 2003</ref> and <ref href="/hk/2003/22">22 of 2003 s.
+                                7</ref>)</sourceNote></content></subparagraph><subparagraph id="ID_1438411962402_007" name="iia" temporalId="s4E_2_b_iia"><num value="iia">(iia)</num><sourceNote>(Repealed <ref href="/hk/2003/ln59">L.N. 59 of 2003</ref> and <ref href="/hk/2003/22">22 of 2003 s. 7</ref>)</sourceNote></subparagraph><subparagraph id="ID_1438411962402_015" name="iii" temporalId="s4E_2_b_iii"><num value="iii">(iii)</num><sourceNote>(Repealed <ref href="/hk/2003/ln59">L.N. 59 of 2003</ref> and <ref href="/hk/2003/22">22 of 2003 s. 7</ref>)</sourceNote></subparagraph><subparagraph id="ID_1438411962402_023" name="iiia" temporalId="s4E_2_b_iiia"><num value="iiia">(iiia)</num><content>the published retail price of any warranty, other than a manufacturer’s
+                        warranty and any other warranty that is mandatory, attaching to the sale of
+                        the vehicle, irrespective of whether the warranty takes immediate
+                            effect;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/2003/ln59">L.N. 59 of 2003</ref> and <ref href="/hk/2003/22">22 of 2003 s. 7</ref>)</sourceNote></content></subparagraph><subparagraph id="ID_1438411962402_031" name="iv" temporalId="s4E_2_b_iv"><num value="iv">(iv)</num><content>the value of the specified additions to the chassis or cab and chassis
+                        as the Commissioner sets by
+                            regulation;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1997/11">11 of 1997 s.
+                        8</ref>)</sourceNote></content></subparagraph><subparagraph id="ID_1438411962402_039" name="v" temporalId="s4E_2_b_v"><num value="v">(v)</num><content>without prejudice to the generality of subsection (3), any brokerage or
+                        agency fee paid or payable in relation to the purchase and importation of
+                        the parts of the motor vehicle; and<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1997/11">11 of 1997 s.
+                                8</ref>)</sourceNote></content></subparagraph><subparagraph id="ID_1438411962402_047" name="vi" temporalId="s4E_2_b_vi"><num value="vi">(vi)</num><content>any fee, or any fee belonging to a class of fees, declared in a notice
+                        under subsection (3) to be a fee, or a class of fees, as the case may be,
+                        for the purposes of this subparagraph,<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1997/11">11 of 1997 s.
+                                8</ref>)</sourceNote></content></subparagraph><continued>except where, in the case of subparagraph (iv), it is shown to the
+                    satisfaction of the Commissioner that the additions to the motor vehicle were
+                    previously taxed and that the prescribed conditions for the transfer of
+                    additions are complied with, the value of the additions shall be excluded for
+                    the purpose of calculating the taxable value of the motor vehicle;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1997/11">11 of
+                            1997 s. 8</ref>)</sourceNote></continued></paragraph><paragraph id="ID_1438411962417_005" name="c" temporalId="s4E_2_c"><num value="c">(c)</num><leadIn>for a new motor vehicle imported into Hong Kong, where there is no published
+                    retail price, the taxable value shall be—</leadIn><subparagraph id="ID_1438411962417_013" name="i" temporalId="s4E_2_c_i"><num value="i">(i)</num><content>the declared value under <ref>section 4D</ref>; or</content></subparagraph><subparagraph id="ID_1438411962417_021" name="ii" temporalId="s4E_2_c_ii"><num value="ii">(ii)</num><content>where the Commissioner is not satisfied that the declared value under
+                            <ref>section 4D</ref> reflects the market value of the motor vehicle,
+                        including the incidental freight and insurance, such other value as the
+                        Commissioner may determine having regard to the age of the motor vehicle,
+                        the retail price in the place of origin of the motor vehicle, including the
+                        cost of all materials and work necessary to put the vehicle into the state
+                        necessary to meet first registration requirements; </content></subparagraph></paragraph><paragraph id="ID_1438411962433_006" name="ca" temporalId="s4E_2_ca"><num value="ca">(ca)</num><content>for a motor vehicle registered in the name of an importer in a place
+                    outside Hong Kong before its importation into Hong Kong, the taxable value shall
+                    be the declared value of the motor vehicle under <ref>section 4D</ref> less the
+                    depreciation allowed by the Commissioner under subsection (5);<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1997/11">11 of
+                            1997 s. 8</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411962448_006" name="d" temporalId="s4E_2_d"><num value="d">(d)</num><leadIn>for a motor vehicle which has been legally used on a road in Hong Kong other
+                    than by the manufacturer or by an importer, distributor or retailer or under a
+                    movement permit prior to first registration, being a vehicle which has become
+                    liable to first registration tax for the first time or additional first
+                    registration tax—</leadIn><subparagraph id="ID_1438411962448_014" name="i" temporalId="s4E_2_d_i"><num value="i">(i)</num><leadIn>the taxable value calculated under paragraph (a), (b) or (c), as the
+                        case may be, less—  <sourceNote>(Amended <ref href="/hk/2003/ln59">L.N. 59
+                                of 2003</ref> and <ref href="/hk/2003/22">22 of 2003 s.
+                            7</ref>)</sourceNote></leadIn><subparagraph id="ID_1438411962448_021" name="A" role="subSubParagraph" temporalId="s4E_2_d_i_A"><num value="A">(A)</num><content>depreciation at the prescribed rate, for the period from the date
+                            when the motor vehicle ceased to be a new motor vehicle until the date
+                            on which the motor vehicle became liable to first registration tax or
+                            additional first registration tax, excluding a part of a month of less
+                            than 15 days but counting a part of a month of 15 days or more as a
+                            whole month; and </content></subparagraph><subparagraph id="ID_1438411962464_007" name="B" role="subSubParagraph" temporalId="s4E_2_d_i_B"><num value="B">(B)</num><content>the value of any expired portion of a warranty, other than a
+                            manufacturer’s warranty and any other warranty that is mandatory,
+                            calculated on the basis of the published retail price or, where there is
+                            no published retail price, the declared value under <ref>section
+                                4D</ref>, of the warranty; or</content></subparagraph></subparagraph><subparagraph id="ID_1438411962464_015" name="ii" temporalId="s4E_2_d_ii"><num value="ii">(ii)</num><content>where the taxable value cannot be ascertained under paragraph (a), (b)
+                        or (c), such other value as the Commissioner may determine as the market
+                        value of the motor vehicle.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/2003/ln59">L.N. 59 of
+                                2003</ref> and <ref href="/hk/2003/22">22 of 2003 s.
+                            7</ref>)</sourceNote></content></subparagraph></paragraph></subsection><subsection id="ID_1438411962480_005" name="2A" temporalId="s4E_2A"><num value="2A">(2A)</num><content>After receiving a declaration made under <ref>section 4D(2)</ref> or (2B), the Commissioner shall revise the taxable value of the motor vehicle to which the declaration relates in the manner provided in subsection (2B) and, if applicable, subsection (2C) and calculate the additional first registration tax payable for the vehicle, if any, accordingly.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/2003/ln59">L.N. 59 of 2003</ref> and <ref href="/hk/2003/22">22 of 2003 s. 7</ref>)</sourceNote></content></subsection><subsection id="ID_1438411962480_013" name="2B" temporalId="s4E_2B"><num value="2B">(2B)</num><content>The Commissioner shall add the value of the accessory or taxable warranty as declared in the declaration or, if applicable, the market value of the accessory or taxable warranty as assessed under subsection (2E) to the existing taxable value of the motor vehicle.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/2003/ln59">L.N. 59 of 2003</ref> and <ref href="/hk/2003/22">22 of 2003 s. 7</ref>)</sourceNote></content></subsection><subsection id="ID_1438411962495_005" name="2C" temporalId="s4E_2C"><num value="2C">(2C)</num><leadIn>Where an application is made under <ref>section 4D(2A)</ref> to deduct the value of a replaced accessory from the taxable value of the motor vehicle, if the Commissioner is satisfied that—</leadIn><paragraph id="ID_1438411962495_013" name="a" temporalId="s4E_2C_a"><num value="a">(a)</num><content>the function of the new accessory is the same or substantially the same as that of the replaced accessory; and</content></paragraph><paragraph id="ID_1438411962495_021" name="b" temporalId="s4E_2C_b"><num value="b">(b)</num><content>the replaced accessory was fitted to the vehicle and has been removed,</content></paragraph><continued>the Commissioner shall deduct from the total taxable value of the vehicle as calculated under subsection (2B) the value of the replaced accessory as declared in the declaration or, if applicable, the market value of the replaced accessory as assessed under subsection (2E).<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/2003/ln59">L.N. 59 of 2003</ref> and <ref href="/hk/2003/22">22 of 2003 s. 7</ref>)</sourceNote></continued></subsection><subsection id="ID_1438411962495_034" name="2D" temporalId="s4E_2D"><num value="2D">(2D)</num><content>Where the revised taxable value of a motor vehicle is lower than its taxable value before the accessory declared in the declaration is fitted, any excess first registration tax paid shall not be refunded.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/2003/ln59">L.N. 59 of 2003</ref> and <ref href="/hk/2003/22">22 of 2003 s. 7</ref>)</sourceNote></content></subsection><subsection id="ID_1438411962495_042" name="2E" temporalId="s4E_2E"><num value="2E">(2E)</num><content>If the Commissioner is of the opinion that the declared value of an accessory,
+                including a replaced accessory, or a taxable warranty does not reflect the market
+                value of the accessory or taxable warranty, the Commissioner may assess the market
+                value of the accessory or taxable warranty for the purposes of subsection (2B) or
+                (2C), having regard to the declared value or the range of market values of any
+                similar accessory or taxable warranty.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/2003/ln59">L.N. 59 of 2003</ref> and <ref href="/hk/2003/22">22 of 2003 s.
+                7</ref>)</sourceNote><marker role="section-break"></marker></content></subsection><subsection id="ID_1438411962511_005" name="2F" temporalId="s4E_2F"><num value="2F">(2F)</num><content>The Commissioner shall give the registered owner and (if applicable) the
+                registered distributor notice of his refusal to accept the declared value of an
+                accessory or a taxable warranty immediately on reaching his opinion referred to in
+                subsection (2E) and inform the registered owner and (if applicable) the registered
+                distributor in the notice that written representation concerning the value of the
+                accessory or taxable warranty may be made to the Commissioner within 14 days after
+                the date of the notice.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/2003/ln59">L.N. 59 of 2003</ref> and <ref href="/hk/2003/22">22 of
+                        2003 s.
+                7</ref>)</sourceNote></content></subsection><subsection id="ID_1438411962526_005" name="2G" temporalId="s4E_2G"><num value="2G">(2G)</num><leadIn>The Commissioner shall consider any written representation made by the registered owner or (if applicable) the registered distributor and shall—</leadIn><paragraph id="ID_1438411962526_013" name="a" temporalId="s4E_2G_a"><num value="a">(a)</num><content>within 14 days after giving notice under subsection (2F); or</content></paragraph><paragraph id="ID_1438411962526_021" name="b" temporalId="s4E_2G_b"><num value="b">(b)</num><content>where any written representation is made to the Commissioner, within 14 days after receipt of the representation,</content></paragraph><continued>give the registered owner and (if applicable) the registered distributor notice of the market value of the accessory or taxable warranty as assessed by the Commissioner.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/2003/ln59">L.N. 59 of 2003</ref> and <ref href="/hk/2003/22">22 of 2003 s. 7</ref>)</sourceNote></continued></subsection><subsection id="ID_1438411962526_034" name="2H" temporalId="s4E_2H"><num value="2H">(2H)</num><leadIn>The Commissioner shall state in the notice given under subsection (2G) the reasons for—</leadIn><paragraph id="ID_1438411962526_042" name="a" temporalId="s4E_2H_a"><num value="a">(a)</num><content>his rejection of the declared value of the accessory or taxable warranty; and</content></paragraph><paragraph id="ID_1438411962526_050" name="b" temporalId="s4E_2H_b"><num value="b">(b)</num><content>his assessment of the market value of the accessory or taxable warranty under this section.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/2003/ln59">L.N. 59 of 2003</ref> and <ref href="/hk/2003/22">22 of 2003 s. 7</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438411962542_005" name="2I" temporalId="s4E_2I"><num value="2I">(2I)</num><content>If the Administrative Appeals Board finds that the amount of additional first registration tax paid exceeds the amount properly assessable, the Commissioner shall refund the excess as soon as practicable after the decision of the Administrative Appeals Board is published.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/2003/ln59">L.N. 59 of 2003</ref> and <ref href="/hk/2003/22">22 of 2003 s. 7</ref>)</sourceNote></content></subsection><subsection id="ID_1438411962542_013" name="3" temporalId="s4E_3"><num value="3">(3)</num><content>The Commissioner may, by notice in the Gazette, and subject to such conditions,
+                if any, as are specified in the notice, declare a fee, or a class of fees, to be a
+                fee, or a class of fees, as the case may be, for the purposes of
+                subsection
+                (2)(a)(v) or
+                    (b)(vi).<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1997/11">11 of 1997 s.
+                    8</ref>. Amended <ref href="/hk/2020/er7">E.R. 7 of
+                    2020</ref>)</sourceNote></content></subsection><subsection id="ID_1438411962542_021" name="4" temporalId="s4E_4"><num value="4">(4)</num><content>It is hereby declared that a notice under subsection (3) is subsidiary legislation.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1997/11">11 of 1997 s. 8</ref>)</sourceNote></content></subsection><subsection id="ID_1438411962542_029" name="5" temporalId="s4E_5"><num value="5">(5)</num><leadIn>The Commissioner may allow depreciation for the motor vehicle referred to in subsection <ref>(2)(ca)</ref>—</leadIn><paragraph id="ID_1438411962558_005" name="a" temporalId="s4E_5_a"><num value="a">(a)</num><content>at the rate of depreciation prescribed under the Motor Vehicles (First Registration Tax) (Depreciation) Regulations (<ref href="/hk/cap330A">Cap. 330 sub. leg. A</ref>); and</content></paragraph><paragraph id="ID_1438411962558_013" name="b" temporalId="s4E_5_b"><num value="b">(b)</num><content>from the date of its registration in a place outside Hong Kong to the date of its importation.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1997/11">11 of 1997 s. 8</ref>)</sourceNote></content></paragraph></subsection><sourceNote>(Added <ref href="/hk/1994/43">43 of 1994 s. 3</ref>)</sourceNote></section><section id="ID_1438403016647_002" name="s4F" reason="inEffect" startPeriod="2021-01-21" status="operational" temporalId="s4F"><num value="4F">4F.</num><heading>Payment of tax</heading><subsection id="ID_1438411962651_004" name="1" temporalId="s4F_1"><num value="1">(1)</num><leadIn>Subject to <ref>section 5</ref>, before the Commissioner first registers a motor vehicle under the Road Traffic Ordinance (<ref href="/hk/cap374">Cap. 374</ref>)—</leadIn><paragraph id="ID_1438411962651_012" name="a" temporalId="s4F_1_a"><num value="a">(a)</num><content>the registered distributor or registered importer who is selling the motor vehicle; or</content></paragraph><paragraph id="ID_1438411962651_020" name="b" temporalId="s4F_1_b"><num value="b">(b)</num><content>where the motor vehicle is imported other than by a registered importer, the person who is applying for first registration,</content></paragraph><continued>shall pay a tax calculated by the Commissioner under <ref>section 4E</ref>.</continued></subsection><subsection id="ID_1438411962651_033" name="2" temporalId="s4F_2"><num value="2">(2)</num><content>A registered distributor shall not deliver a motor vehicle to the purchaser until the first registration tax for the motor vehicle, if payable, is paid to the Commissioner.</content></subsection><subsection id="ID_1438411962651_041" name="3" temporalId="s4F_3"><num value="3">(3)</num><content>Where first registration tax is not payable under subsection (1) on the first registration of a motor vehicle and the motor vehicle is subsequently transferred, unless the transferee of the motor vehicle is exempted from paying first registration tax on the motor vehicle, the transferee shall pay first registration tax calculated under <ref>section 4E(2)(d)</ref> for the motor vehicle before the Commissioner registers the transfer of ownership.</content></subsection><subsection id="ID_1438411962667_005" name="4" temporalId="s4F_4"><num value="4">(4)</num><leadIn>If—</leadIn><paragraph id="ID_1438411962667_013" name="a" temporalId="s4F_4_a"><num value="a">(a)</num><content>the class of a motor vehicle is changed by reason of a change of use;</content></paragraph><paragraph id="ID_1438411962667_021" name="b" temporalId="s4F_4_b"><num value="b">(b)</num><content>the status of the registered owner of a motor vehicle is changed to remove an exemption; or</content></paragraph><paragraph id="ID_1438411962667_029" name="c" temporalId="s4F_4_c"><num value="c">(c)</num><content>the class of additions to the chassis or cab and chassis of a locally assembled vehicle is changed,</content></paragraph><continued>the registered owner of the motor vehicle, as from the date on which the change of class or status takes place, is liable to pay and shall immediately pay first registration tax calculated under <ref>section 4E(2)(d)</ref> less any first registration tax previously paid.</continued></subsection><subsection id="ID_1438411962667_042" name="4A" temporalId="s4F_4A"><num value="4A">(4A)</num><content>Any additional first registration tax attributable to the increase in total taxable value of a motor vehicle shall be paid at the time the declaration made under <ref>section 4D(2)</ref> or (2B) is delivered to the Commissioner.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/2003/ln59">L.N. 59 of 2003</ref> and <ref href="/hk/2003/22">22 of 2003 s. 8</ref>)</sourceNote></content></subsection><subsection id="ID_1438411962682_005" name="5" temporalId="s4F_5"><num value="5">(5)</num><content>A person convicted of an offence under <ref>section 4I(1)(a)</ref>, (b), (c), (d), (e), (ea) or (eb) shall, in addition to any other penalty, be liable to pay double the amount of tax that would have been payable by him under this Ordinance for that event.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/2003/ln59">L.N. 59 of 2003</ref> and <ref href="/hk/2003/22">22 of 2003 s. 8</ref>)</sourceNote></content></subsection><sourceNote>(Added <ref href="/hk/1994/43">43 of 1994 s. 3</ref>)</sourceNote></section><section id="ID_1438403016678_002" name="s4FA" reason="inEffect" startPeriod="2021-01-21" status="operational" temporalId="s4FA"><num value="4FA">4FA.</num><heading>Duty to keep records of sale and purchase of motor vehicles, accessories and taxable warranties</heading><subsection id="ID_1438411962714_041" name="1" temporalId="s4FA_1"><num value="1">(1)</num><content>A registered distributor and an associated person shall keep proper records in respect of the distribution or sale of any motor vehicle by the registered distributor or associated person, as the case may be, and the fitting of any accessory to, or the provision of any taxable warranty for, the vehicle within 6 months after the first registration of the vehicle.</content></subsection><subsection id="ID_1438411962729_005" name="2" temporalId="s4FA_2"><num value="2">(2)</num><content>The registered owner of a motor vehicle shall keep proper records in respect of the purchase of the vehicle and the fitting of any accessory to, or the obtaining of any taxable warranty for, the vehicle within 6 months after the first registration of the vehicle.</content></subsection><subsection id="ID_1438411962729_013" name="3" temporalId="s4FA_3"><num value="3">(3)</num><leadIn>A person shall not be regarded as having kept proper records under this section unless the person, in respect of each transaction for which record is required to be kept—</leadIn><paragraph id="ID_1438411962729_021" name="a" temporalId="s4FA_3_a"><num value="a">(a)</num><content>keeps all the invoices and agreements relating to the transaction; and</content></paragraph><paragraph id="ID_1438411962729_029" name="b" temporalId="s4FA_3_b"><num value="b">(b)</num><leadIn>records the particulars of—</leadIn><subparagraph id="ID_1438411962729_037" name="i" temporalId="s4FA_3_b_i"><num value="i">(i)</num><content>the names of the parties to the transaction;</content></subparagraph><subparagraph id="ID_1438411962729_045" name="ii" temporalId="s4FA_3_b_ii"><num value="ii">(ii)</num><content>the subject matter of the transaction, including in each case, the model and the registration mark or, where the registration mark is not available, the chassis number of the motor vehicle to which the transaction relates;</content></subparagraph><subparagraph id="ID_1438411962745_007" name="iii" temporalId="s4FA_3_b_iii"><num value="iii">(iii)</num><content>the date of the transaction; and</content></subparagraph><subparagraph id="ID_1438411962745_015" name="iv" temporalId="s4FA_3_b_iv"><num value="iv">(iv)</num><content>the value of the relevant motor vehicle, accessory or taxable warranty, as the case may be.</content></subparagraph></paragraph></subsection><subsection id="ID_1438411962745_021" name="4" temporalId="s4FA_4"><num value="4">(4)</num><content>A record which a person is required by this section to keep shall be retained for 30 months after the first registration of the vehicle to which the record relates.</content></subsection><subsection id="ID_1438411962745_029" name="5" temporalId="s4FA_5"><num value="5">(5)</num><content>Without prejudice to the generality of <ref>section 4H</ref>, an authorized person may, for the purpose of ascertaining whether <ref>section 4D(2)</ref> or (2B) has been complied with, require a person referred to in subsection (1) or (2) to produce any record kept by the person under this section for his inspection.</content></subsection><sourceNote>(Added <ref href="/hk/2003/ln59">L.N. 59 of 2003</ref> and <ref href="/hk/2003/22">22 of 2003 s. 9</ref>)</sourceNote></section><section id="ID_1438403016694_001" name="s4G" reason="inEffect" startPeriod="2021-01-21" status="operational" temporalId="s4G"><num value="4G">4G.</num><heading>Authorized persons</heading><content>The Commissioner may authorize in writing a public officer to exercise the powers or perform the duties conferred or imposed on an authorized person by this Ordinance.</content><sourceNote>(Added <ref href="/hk/1994/43">43 of 1994 s. 3</ref>)</sourceNote></section><section id="ID_1438403016694_003" name="s4H" reason="inEffect" startPeriod="2021-01-21" status="operational" temporalId="s4H"><num value="4H">4H.</num><heading>General powers of investigation</heading><subsection id="ID_1438411962792_018" name="1" temporalId="s4H_1"><num value="1">(1)</num><leadIn>An authorized person may, for the purposes of this Ordinance, on producing, if requested, the written authorization issued under <ref>section 4G</ref> and evidence of his identity without a warrant, at a reasonable time in a place or premises other than domestic premises where he has reason to believe that there is evidence of an offence under this Ordinance—</leadIn><paragraph id="ID_1438411962792_026" name="a" temporalId="s4H_1_a"><num value="a">(a)</num><content>enter and search a place or premises occupied by a person carrying on business as an importer or a distributor or at which a person carrying on business as an importer or a distributor has documents or other records relating to the importation, distribution or sale of motor vehicles;</content></paragraph><paragraph id="ID_1438411962807_006" name="b" temporalId="s4H_1_b"><num value="b">(b)</num><content>search for, examine, copy, remove and detain documents and other records relating to the importation, distribution or sale of motor vehicles;</content></paragraph><paragraph id="ID_1438411962807_014" name="c" temporalId="s4H_1_c"><num value="c">(c)</num><content>require a person in whose custody a motor vehicle is found to deliver the motor vehicle to a motor vehicle examination centre for inspection and, if the person refuses or neglects to deliver the motor vehicle as required, take all necessary steps to deliver the motor vehicle to the motor vehicle examination centre;</content></paragraph><paragraph id="ID_1438411962807_022" name="d" temporalId="s4H_1_d"><num value="d">(d)</num><content>inspect a motor vehicle reasonably believed to have been imported and not registered, or on which full first registration tax has not been accounted for.</content></paragraph></subsection><subsection id="ID_1438411962807_029" name="2" temporalId="s4H_2"><num value="2">(2)</num><leadIn>An authorized person may, for the purposes of this Ordinance, on the authority of a warrant issued under subsection (3)—</leadIn><paragraph id="ID_1438411962807_037" name="a" temporalId="s4H_2_a"><num value="a">(a)</num><content>enter and search a place or premises, including domestic premises, for documents or other records relating to the importation, distribution or sale of motor vehicles and may examine, copy, remove and detain those documents and other records;</content></paragraph><paragraph id="ID_1438411962823_006" name="b" temporalId="s4H_2_b"><num value="b">(b)</num><content>require a person in whose custody a motor vehicle is found to deliver the motor vehicle to a motor vehicle examination centre for inspection and, if the person refuses or neglects to deliver the motor vehicle as required, take all necessary steps to deliver the motor vehicle to the motor vehicle examination centre;</content></paragraph><paragraph id="ID_1438411962823_014" name="c" temporalId="s4H_2_c"><num value="c">(c)</num><content>inspect a motor vehicle reasonably believed to have been imported and not registered, or on which full first registration tax has not been accounted for.</content></paragraph></subsection><subsection id="ID_1438411962823_021" name="3" temporalId="s4H_3"><num value="3">(3)</num><leadIn>A magistrate may, if he is satisfied on oath that there is reasonable ground to believe that there is—</leadIn><paragraph id="ID_1438411962823_029" name="a" temporalId="s4H_3_a"><num value="a">(a)</num><content>in domestic premises a document or other record relating to the importation, distribution or sale of motor vehicles; or</content></paragraph><paragraph id="ID_1438411962823_037" name="b" temporalId="s4H_3_b"><num value="b">(b)</num><content>in another place or premises a document or other record relating to the importation, distribution or sale of motor vehicles; or</content></paragraph><paragraph id="ID_1438411962838_006" name="c" temporalId="s4H_3_c"><num value="c">(c)</num><content>in any place including domestic premises a motor vehicle reasonably believed to have been imported and not registered, or on which full first registration tax has not been accounted for,</content></paragraph><continued>and that in the place or premises there may be found evidence of an offence under this Ordinance, issue a warrant authorizing an authorized person to—</continued><paragraph id="ID_1438411962838_020" name="i" temporalId="s4H_3_i"><num value="i">(i)</num><content>enter and search the place or premises for documents or other records relating to the importation, distribution or sale of motor vehicles at any reasonable time and examine, copy, remove and detain those documents and other records;</content></paragraph><paragraph id="ID_1438411962838_028" name="ii" temporalId="s4H_3_ii"><num value="ii">(ii)</num><content>require a person in whose custody a motor vehicle is found to deliver the motor vehicle to a motor vehicle examination centre for inspection and, if the person refuses or neglects to deliver the motor vehicle as required, take all necessary steps to deliver the motor vehicle to the motor vehicle examination centre;</content></paragraph><paragraph id="ID_1438411962838_036" name="iii" temporalId="s4H_3_iii"><num value="iii">(iii)</num><content>inspect a motor vehicle reasonably believed to have been imported and not registered, or on which full first registration tax has not been accounted for.</content></paragraph></subsection><subsection id="ID_1438411962854_005" name="3A" temporalId="s4H_3A"><num value="3A">(3A)</num><content>An authorized person may, for the purpose of assessing the taxable value of a motor vehicle, on producing, if requested, the written authorization issued under <ref>section 4G</ref> and evidence of his identity without a warrant, at a reasonable time enter the premises (other than domestic premises) of a registered importer or registered distributor to inspect the motor vehicle.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1997/11">11 of 1997 s. 9</ref>)</sourceNote></content></subsection><subsection id="ID_1438411962854_013" name="4" temporalId="s4H_4"><num value="4">(4)</num><leadIn>An authorized person may use such force as is reasonably necessary to—</leadIn><paragraph id="ID_1438411962854_021" name="a" temporalId="s4H_4_a"><num value="a">(a)</num><content>enter a place or premises which he is authorized to enter and search;</content></paragraph><paragraph id="ID_1438411962854_029" name="b" temporalId="s4H_4_b"><num value="b">(b)</num><content>remove a person or thing obstructing him in the exercise of a power conferred on him by this Ordinance.</content></paragraph></subsection><sourceNote>(Added <ref href="/hk/1994/43">43 of 1994 s. 3</ref>)</sourceNote></section><section id="ID_1438403016710_002" name="s4I" reason="inEffect" startPeriod="2021-01-21" status="operational" temporalId="s4I"><num value="4I">4I.</num><heading>Offences</heading><subsection id="ID_1438411962901_026" name="1" temporalId="s4I_1"><num value="1">(1)</num><leadIn>A person who—</leadIn><paragraph id="ID_1438411962901_034" name="a" temporalId="s4I_1_a"><num value="a">(a)</num><content>being a registered distributor, delivers a motor vehicle to a purchaser before the first registration tax is paid for the motor vehicle;</content></paragraph><paragraph id="ID_1438411962901_042" name="b" temporalId="s4I_1_b"><num value="b">(b)</num><content>being a registered owner, fails to pay, immediately on change of use to which the motor vehicle is put, first registration tax or additional first registration tax;</content></paragraph><paragraph id="ID_1438411962916_006" name="c" temporalId="s4I_1_c"><num value="c">(c)</num><content>being a registered owner of a locally assembled vehicle, fails to pay, immediately on change of additions to the chassis or cab and chassis, additional first registration tax payable;</content></paragraph><paragraph id="ID_1438411962916_014" name="d" temporalId="s4I_1_d"><num value="d">(d)</num><content>being a registered owner to whom <ref>section 4F(4)(b)</ref> applies, fails immediately to pay any first registration tax for which he is liable;</content></paragraph><paragraph id="ID_1438411962916_022" name="e" temporalId="s4I_1_e"><num value="e">(e)</num><content>being a registered distributor, an employee or agent authorized by a registered distributor under <ref>section 4D(3)</ref>, registered owner or person applying for first registration, signs a false declaration or fails to include all of the particulars, or to attach to the declaration the documentary evidence, required within the time as required under <ref>section 4D(1)</ref>;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1997/11">11 of 1997 s. 10</ref>; <ref href="/hk/2003/ln59">L.N. 59 of 2003</ref> and <ref href="/hk/2003/22">22 of 2003 s. 10</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411962916_030" name="ea" temporalId="s4I_1_ea"><num value="ea">(ea)</num><content>being a registered distributor, an employee or agent authorized by a registered distributor under <ref>section 4D(3)</ref> or a registered owner, fails to deliver a declaration as required under <ref>section 4D(2)</ref> or (2B), or makes a false declaration in purported compliance with that section, or fails to include all of the particulars or to attach to the declaration the documentary evidence required within the time as required under that section;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/2003/ln59">L.N. 59 of 2003</ref> and <ref href="/hk/2003/22">22 of 2003 s. 10</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411962932_006" name="eb" temporalId="s4I_1_eb"><num value="eb">(eb)</num><content>being a registered owner, a registered distributor or an employee or agent authorized by a registered distributor under <ref>section 4D(3)</ref>, makes a false declaration in connection with an application made under <ref>section 4D(2A)</ref>;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/2003/22">22 of 2003 s. 10</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411962948_006" name="f" temporalId="s4I_1_f"><num value="f">(f)</num><content>sells a new motor vehicle (other than a locally assembled vehicle) at a price higher than the amount permitted under <ref>section 4A(5)</ref> without first obtaining the consent of the Commissioner;</content></paragraph><paragraph id="ID_1438411962948_014" name="g" temporalId="s4I_1_g"><num value="g">(g)</num><content>sells a new locally assembled vehicle at a price higher than the amount permitted under <ref>section 4A(6)</ref> without first obtaining the consent of the Commissioner;</content></paragraph><paragraph id="ID_1438411962948_022" name="h" temporalId="s4I_1_h"><num value="h">(h)</num><content>sells a motor vehicle which is not a new motor vehicle or a locally assembled vehicle at a price higher than the amount permitted under <ref>section 4A(7)</ref> without first obtaining the consent of the Commissioner;</content></paragraph><paragraph id="ID_1438411962948_030" name="i" temporalId="s4I_1_i"><num value="i">(i)</num><content>sells a locally assembled vehicle (which is not a new motor vehicle) at a price higher than the amount permitted under <ref>section 4A(8)</ref> without first obtaining the consent of the Commissioner;</content></paragraph><paragraph id="ID_1438411962948_038" name="j" temporalId="s4I_1_j"><num value="j">(j)</num><content>being the importer of a motor vehicle, fails to file the return as required under <ref>section 3B(1)</ref> with the Commissioner within 30 days (or such longer period as the Commissioner has permitted under that section in his case) of the importation of a motor vehicle into Hong Kong and not less than 5 working days before delivering that motor vehicle;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1997/11">11 of 1997 s. 10</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411962963_006" name="k" temporalId="s4I_1_k"><num value="k">(k)</num><content>being the importer of a motor vehicle, files a false or inaccurate return as required under <ref>section 3B(1)</ref> with the Commissioner;</content></paragraph><paragraph id="ID_1438411962963_014" name="l" temporalId="s4I_1_l"><num value="l">(l)</num><content>being an importer of motor vehicles, fails to register as an importer as required under <ref>section 3A(1)</ref> with the Commissioner within 30 days of commencing to carry on that business;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1997/11">11 of 1997 s. 10</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411962963_022" name="m" temporalId="s4I_1_m"><num value="m">(m)</num><content>being a distributor of motor vehicles, fails to register as a distributor as required under <ref>section 3A(2)</ref> with the Commissioner within 30 days of commencing to carry on that business;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1997/11">11 of 1997 s. 10</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411962963_030" name="n" temporalId="s4I_1_n"><num value="n">(n)</num><content>being a registered distributor, fails to publish in writing a retail price list as required under <ref>section 4A(1)</ref>;</content></paragraph><paragraph id="ID_1438411962979_005" name="o" temporalId="s4I_1_o"><num value="o">(o)</num><content>being a registered distributor, fails to publish in writing a retail price as required under <ref>section 4A(2)</ref>;</content></paragraph><paragraph id="ID_1438411962979_013" name="p" temporalId="s4I_1_p"><num value="p">(p)</num><content>being a registered distributor, fails to deliver a copy of his retail price list intended for publication as required under <ref>section 4A(4)</ref> to the Commissioner not less than 7 days before publication; or</content></paragraph><paragraph id="ID_1438411962979_021" name="q" temporalId="s4I_1_q"><num value="q">(q)</num><content>being a registered distributor, fails to give not less than 5 working days’ notice to the Commissioner of his intention to change the retail price of a model as required under <ref>section 4A(4)</ref>,</content></paragraph><continued>commits an offence and is liable on conviction to a fine of $500,000 and to imprisonment for 12 months.</continued></subsection><subsection id="ID_1438411962979_034" name="1A" temporalId="s4I_1A"><num value="1A">(1A)</num><content>A person who, being a registered distributor or an associated person or a registered owner, fails to keep any record as required under <ref>section 4FA</ref>, commits an offence and is liable on conviction to a fine at level 3 and to imprisonment for 6 months.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/2003/ln59">L.N. 59 of 2003</ref> and <ref href="/hk/2003/22">22 of 2003 s. 10</ref>)</sourceNote></content></subsection><subsection id="ID_1438411962979_042" name="2" temporalId="s4I_2"><num value="2">(2)</num><leadIn>A person who—</leadIn><paragraph id="ID_1438411962979_050" name="a" temporalId="s4I_2_a"><num value="a">(a)</num><content>obstructs an authorized person;</content></paragraph><paragraph id="ID_1438411962994_006" name="b" temporalId="s4I_2_b"><num value="b">(b)</num><content>fails to comply with a requirement, direction or demand given or made by an authorized person,</content></paragraph><continued>in the exercise of a power or the performance of a duty conferred or imposed by this Ordinance, commits an offence and is liable on conviction to a fine at level 3 and to imprisonment for 6 months.</continued></subsection><subsection id="ID_1438411962994_019" name="3" temporalId="s4I_3"><num value="3">(3)</num><leadIn>Any prosecution or other legal proceedings against any person in relation to an offence under this Ordinance shall be instituted within—</leadIn><paragraph id="ID_1438411962994_027" name="a" temporalId="s4I_3_a"><num value="a">(a)</num><content>2 years after the date on which the offence is committed; or</content></paragraph><paragraph id="ID_1438411962994_035" name="b" temporalId="s4I_3_b"><num value="b">(b)</num><content>6 months after the date on which the Commissioner first has knowledge that the offence has been committed,</content></paragraph><continued>whichever is the earlier.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1997/11">11 of 1997 s. 10</ref>)</sourceNote></continued></subsection><sourceNote>(Added <ref href="/hk/1994/43">43 of 1994 s. 3</ref>. Amended <ref href="/hk/2014/er2">E.R. 2 of 2014</ref>)</sourceNote></section><section id="ID_1438403016725_002" name="s4J" reason="inEffect" startPeriod="2021-01-21" status="operational" temporalId="s4J"><num value="4J">4J.</num><heading>Commissioner may cancel licence</heading><leadIn>Where the Commissioner is satisfied that for a motor vehicle registered under the Road Traffic Ordinance (<ref href="/hk/cap374">Cap. 374</ref>) there is first registration tax payable by any person, the Commissioner may—</leadIn><paragraph id="ID_1438411963057_012" name="a" temporalId="s4J_a"><num value="a">(a)</num><content>refuse to renew the licence of the motor vehicle under the Road Traffic (Registration and Licensing of Vehicles) Regulations (<ref href="/hk/cap374E">Cap. 374 sub. leg. E</ref>) until the outstanding first registration tax is paid; and</content></paragraph><paragraph id="ID_1438411963057_020" name="b" temporalId="s4J_b"><num value="b">(b)</num><content>cancel the existing licence of the motor vehicle under the Road Traffic (Registration and Licensing of Vehicles) Regulations (<ref href="/hk/cap374E">Cap. 374 sub. leg. E</ref>) if the registered owner fails to pay the outstanding first registration tax within 14 days of service of a notice requiring payment of the outstanding first registration tax.</content></paragraph><sourceNote>(Added <ref href="/hk/1994/43">43 of 1994 s. 3</ref>)</sourceNote></section><section id="ID_1438403016741_001" name="s4K" reason="inEffect" startPeriod="2021-01-21" status="operational" temporalId="s4K"><num value="4K">4K.</num><heading>Official secrecy</heading><subsection id="ID_1438411963072_033" name="1" temporalId="s4K_1"><num value="1">(1)</num><leadIn>A person who is employed in carrying out or assisting persons in carrying out the provisions of this Ordinance—</leadIn><paragraph id="ID_1438411963072_041" name="a" temporalId="s4K_1_a"><num value="a">(a)</num><content>shall preserve secrecy in all matters relating to the affairs of a person that may come to his knowledge in the performance of a duty under this Ordinance; and</content></paragraph><paragraph id="ID_1438411963088_006" name="b" temporalId="s4K_1_b"><num value="b">(b)</num><content>shall not communicate any matter relating to the affairs of a person that may come to his knowledge in the performance of a duty under this Ordinance,</content></paragraph><continued>other than in the performance of a duty under this Ordinance.</continued></subsection><subsection id="ID_1438411963088_019" name="2" temporalId="s4K_2"><num value="2">(2)</num><leadIn>The Commissioner or an authorized person is not required—</leadIn><paragraph id="ID_1438411963088_027" name="a" temporalId="s4K_2_a"><num value="a">(a)</num><content>to produce a return, document or assessment; or</content></paragraph><paragraph id="ID_1438411963088_035" name="b" temporalId="s4K_2_b"><num value="b">(b)</num><content>to divulge information coming to his notice in the performance of his duties under this Ordinance,</content></paragraph><continued>to a court or in proceedings before a magistrate or other tribunal except as may be necessary to carry out the provisions of this Ordinance.</continued></subsection><subsection id="ID_1438411963088_048" name="3" temporalId="s4K_3"><num value="3">(3)</num><leadIn>The Commissioner may disclose information, returns, documents and assessments—</leadIn><paragraph id="ID_1438411963088_056" name="a" temporalId="s4K_3_a"><num value="a">(a)</num><content>to the Financial Secretary;</content></paragraph><paragraph id="ID_1438411963088_064" name="b" temporalId="s4K_3_b"><num value="b">(b)</num><content>relevant to a prosecution or other legal proceedings taken in relation to activities of a person in making a declaration, filing a return or obtaining an assessment under this Ordinance, to the Secretary for Justice;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1997/ln362">L.N. 362 of 1997</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411963088_072" name="c" temporalId="s4K_3_c"><num value="c">(c)</num><content>to the Director of Audit or an officer of his department authorized to have access under this section as is necessary for the Director to carry out his official duties.</content></paragraph></subsection><subsection id="ID_1438411963104_005" name="4" temporalId="s4K_4"><num value="4">(4)</num><content>Nothing in this section shall prevent the Commissioner from making public a published retail price under <ref>section 4A(14)</ref>.</content></subsection><subsection id="ID_1438411963104_013" name="5" temporalId="s4K_5"><num value="5">(5)</num><content>A person who contravenes subsection (1) commits an offence and is liable on summary conviction to a fine at level 5.</content></subsection><sourceNote>(Added <ref href="/hk/1994/43">43 of 1994 s. 3</ref>. Amended <ref href="/hk/2014/er2">E.R. 2 of 2014</ref>)</sourceNote></section><section id="ID_1438403016756_001" name="s5" reason="inEffect" startPeriod="2021-01-21" status="operational" temporalId="s5"><num value="5">5.</num><heading>Tax not payable in respect of certain motor vehicles</heading><subsection id="ID_1438411963150_004" name="1" temporalId="s5_1"><num value="1">(1)</num><sourceNote>(Repealed <ref href="/hk/2012/2">2 of 2012 s. 3</ref>)</sourceNote></subsection><subsection id="ID_1438411963150_012" name="2" temporalId="s5_2"><num value="2">(2)</num><sourceNote>(Repealed <ref href="/hk/1994/43">43 of 1994 s. 4</ref>)</sourceNote></subsection><subsection id="ID_1438411963150_020" name="3" temporalId="s5_3"><num value="3">(3)</num><content>Tax shall not be payable in respect of any motor vehicle which is propelled solely by electric power and does not emit any exhaust gas.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1994/35">35 of 1994 s. 2</ref>)</sourceNote></content></subsection><subsection id="ID_1438411963150_028" name="4" temporalId="s5_4"><num value="4">(4)</num><content>Subsection (3) and this subsection shall expire at midnight on 31 March 1997 or such later date* as the Legislative Council may by resolution determine.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1994/35">35 of 1994 s. 2</ref>)</sourceNote></content></subsection><subsection id="ID_1438411963150_036" name="5" temporalId="s5_5"><num value="5">(5)</num><content>The Chief Executive may remit in whole or in part first registration tax payable and may attach conditions to any remission.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1994/43">43 of 1994 s. 4</ref>. Amended <ref href="/hk/1996/29">29 of 1996 s. 6</ref>; <ref href="/hk/1999/12">12 of 1999 s. 3</ref>)</sourceNote></content></subsection><subsection id="ID_1438411963150_044" name="5A" temporalId="s5_5A"><num value="5A">(5A)</num><content>A person who obtains a remission of first registration tax by submitting documents that the person knows to be false in a material regard, commits an offence and is liable on summary conviction to a fine of $500,000 and to imprisonment for 12 months.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1996/29">29 of 1996 s. 6</ref>)</sourceNote></content></subsection><subsection id="ID_1438411963166_004" name="5B" temporalId="s5_5B"><num value="5B">(5B)</num><leadIn>A person who obtains a remission of first registration tax—</leadIn><paragraph id="ID_1438411963166_012" name="a" temporalId="s5_5B_a"><num value="a">(a)</num><content>by submitting documents that are false; or</content></paragraph><paragraph id="ID_1438411963166_020" name="b" temporalId="s5_5B_b"><num value="b">(b)</num><content>contrary to the conditions attaching to the remission,</content></paragraph><continued>is required to pay the first registration tax remitted and which first registration tax is regarded as outstanding first registration tax for the purposes of <ref>section 4J(b)</ref>.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1996/29">29 of 1996 s. 6</ref>)</sourceNote></continued></subsection><subsection id="ID_1438411963166_033" name="6" temporalId="s5_6"><num value="6">(6)</num><content>A disabled person is not liable to pay first registration tax on the first $300,000 of the taxable value of a motor vehicle for which the disabled person is applying for first registration where the disabled person is able to satisfy the Commissioner that he is fit to drive that vehicle.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1994/43">43 of 1994 s. 4</ref>. Amended <ref href="/hk/1996/29">29 of 1996 s. 6</ref>)</sourceNote></content></subsection><subsection id="ID_1438411963166_041" name="7" temporalId="s5_7"><num value="7">(7)</num><content>If a disabled person claims the exemption under subsection (6) and the taxable value of the vehicle is in excess of $300,000, the Commissioner shall assess first registration tax on the balance of the taxable amount at the rate applicable to the full taxable value without the exemption deducted.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1994/43">43 of 1994 s. 4</ref>)</sourceNote></content></subsection><subsection id="ID_1438411963182_005" name="8" temporalId="s5_8"><num value="8">(8)</num><content>A disabled person is not entitled to register a motor vehicle subject to the exemption under this section if he has registered a motor vehicle subject to the exemption or without payment of tax within the previous 5 years unless the Commissioner, in his absolute discretion, is satisfied that there are special circumstances.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1994/43">43 of 1994 s. 4</ref>)</sourceNote></content></subsection><editorialNote type="footnote" id="ID_1559529261493_001">
+            <content>Editorial
+                    Note:<table xmlns="http://www.w3.org/1999/xhtml" frame="void" class="font_size_9">
+                    <col width="4%"></col>
+                    <col width="96%"></col>
+                    <tbody>
+                        <tr>
+                            <td><inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="force_orig_font">*</inline></td>
+                            <td class="align_justified">Expiry date: 31 March 2017
+                                (see
+                                    <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/1997/ln237">L.N. 237 of
+                                    1997</ref>; <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/2000/ln70">L.N. 70 of
+                                    2000</ref> and <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/2000/27">27 of 2000 s.
+                                    3</ref>; <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/2003/ln77">L.N. 77 of
+                                    2003</ref>; <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/2006/ln53">L.N. 53 of
+                                    2006</ref>; <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/2009/ln50">L.N. 50 of
+                                    2009</ref>; <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/2014/ln44">L.N. 44 of
+                                    2014</ref>).</td>
+                        </tr>
+                    </tbody>
+                </table></content>
+            
+        </editorialNote></section><section id="ID_1438403016756_003" name="s6" reason="inEffect" startPeriod="2021-01-21" status="operational" temporalId="s6"><num value="6">6.</num><heading>Refund of tax in certain cases</heading><subsection id="ID_1438411963228_011" name="1" temporalId="s6_1"><num value="1">(1)</num><content>Where the registration of a motor vehicle, being a vehicle which was brought
+                into and kept in Hong Kong for a period or periods not exceeding 3 months, is
+                cancelled on the ground that the vehicle has been sent permanently out of Hong Kong,
+                the Commissioner shall, on application, certify accordingly and thereupon the tax,
+                if any, paid in respect of that vehicle shall be refunded.</content></subsection><subsection id="ID_1438411963228_019" name="2" temporalId="s6_2"><num value="2">(2)</num><content>If any motor vehicle, in respect of which the tax has been refunded under
+                subsection (1), is brought back into Hong Kong, the re-registration thereof shall,
+                for the purposes of this Ordinance, be deemed to be the first registration
+                thereof.</content></subsection><subsection id="ID_1438411963244_005" name="3" temporalId="s6_3"><num value="3">(3)</num><content>The Chief Executive may refund in whole or in part first registration tax
+                    paid.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1994/43">43 of 1994 s. 5</ref>. Amended <ref href="/hk/1999/12">12
+                        of 1999 s. 3</ref>)</sourceNote></content></subsection><sourceNote>(Replaced <ref href="/hk/1967/13">13 of 1967 s. 4</ref>.<inline class="width_3"> </inline>Amended <ref href="/hk/1994/43">43 of 1994 s. 7</ref>)</sourceNote></section><section id="ID_1438403016772_002" name="s7" reason="inEffect" startPeriod="2021-01-21" status="operational" temporalId="s7"><num value="7">7.</num><heading>Power of Chief Secretary for Administration to waive tax in certain cases</heading><sourceNote>(Amended <ref href="/hk/1997/ln362">L.N. 362 of 1997</ref>)</sourceNote><text>The Chief Secretary for Administration may, in his absolute discretion, waive payment
+            of tax in respect of a motor vehicle, the property of a government other than the
+            Government of the Hong Kong Special Administrative Region, brought into Hong Kong for a
+            period not exceeding 3 months for the use of an officer of flag rank of the naval forces
+            of such government while it is so used.</text><sourceNote>(Amended <ref href="/hk/1994/43">43 of 1994 s. 7</ref>; <ref href="/hk/1997/ln362">L.N. 362 of 1997</ref>; <ref href="/hk/1998/23">23 of 1998 s.
+                2</ref>)</sourceNote></section><section id="ID_1438403016772_004" name="s8" reason="inEffect" startPeriod="2021-01-21" status="operational" temporalId="s8"><num value="8">8.</num><heading>Power of Legislative Council to vary rate of tax</heading><content>The Legislative Council may by resolution vary any rate at which tax is to be paid.</content></section><section id="ID_1438403016788_002" name="s8A" reason="repealed" startPeriod="2017-07-07" status="repealed" temporalId="s8A"><num value="8A">8A.</num><sourceNote>(Repealed <ref href="hk/2017/10">10 of 2017 s. 7</ref>)</sourceNote></section><section id="ID_1438403016803_001" name="s9" reason="inEffect" startPeriod="2021-01-21" status="operational" temporalId="s9"><num value="9">9.</num><heading>Regulations</heading><leadIn>The Chief Executive in Council may by regulation provide for—  <sourceNote>(Amended <ref href="/hk/1999/12">12 of 1999 s. 3</ref>)</sourceNote></leadIn><paragraph id="ID_1438411963306_019" name="a" temporalId="s9_a"><num value="a">(a)</num><content>the payment of tax;</content></paragraph><paragraph id="ID_1438411963322_005" name="b" temporalId="s9_b"><num value="b">(b)</num><content>anything which by virtue of the provisions of this Ordinance is to be or may be
+                    prescribed;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1967/13">13 of 1967 s. 6</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411963322_013" name="c" temporalId="s9_c"><num value="c">(c)</num><content>the better carrying out of the provisions of this Ordinance.</content></paragraph></section><section id="ID_1438403016803_003" name="s10" reason="inEffect" startPeriod="2021-01-21" status="operational" temporalId="s10"><num value="10">10.</num><heading>Retention of documents</heading><content>Any invoices or other documents produced to the Commissioner for the purpose of the assessment and calculation of the tax payable in respect of any vehicle may be retained by the Commissioner and disposed of as he may think fit.</content><sourceNote>(Added <ref href="/hk/1967/13">13 of 1967 s. 5</ref>)</sourceNote></section><section id="ID_1438403016819_002" name="s11" reason="inEffect" startPeriod="2021-01-21" status="operational" temporalId="s11"><num value="11">11.</num><heading>Appeals</heading><content>Any person who is aggrieved by any decision of the Commissioner made in respect of him under this Ordinance may, within 28 days from the date when he was informed of the decision, appeal to the Administrative Appeals Board.</content><sourceNote>(Replaced <ref href="/hk/1994/6">6 of 1994 s. 58</ref>)</sourceNote></section><section id="ID_1614147721768_001" name="s12" temporalId="s12" startPeriod="2021-02-24T11:00:00" status="operational" reason="inEffect"><num value="12">12.</num><heading>Transitional
+            provisions for Revenue (First Registration Tax and Licence Fees for Motor Vehicles)
+            Ordinance 2021</heading><subsection id="ID_1623910376671_001" name="1" temporalId="s12_1"><num value="1">(1)</num><leadIn>In this section—</leadIn><def name="CommencementTime"><term>commencement time</term> (<term xml:lang="zh-Hant-HK">生效時間</term>) means 11 a.m. on 24 February 2021.</def></subsection><subsection id="ID_1623910376671_002" name="2" temporalId="s12_2"><num value="2">(2)</num><leadIn>Subsection (4) applies if—</leadIn><paragraph id="ID_1623910376672_003" name="a" temporalId="s12_2_a"><num value="a">(a)</num><content>first registration tax for a private car is payable under <ref>section
+                        4F(1)(a)</ref> by the registered distributor or registered importer who is
+                    selling the private car; and</content></paragraph><paragraph id="ID_1623910376673_004" name="b" temporalId="s12_2_b"><num value="b">(b)</num><leadIn>the registered distributor or registered importer proves to the
+                    Commissioner’s satisfaction that before the commencement time—</leadIn><subparagraph id="ID_1623910376674_005" name="1" temporalId="s12_2_b_1"><num value="1">(i)</num><leadIn>a person—</leadIn><subparagraph id="ID_1623910376675_006" name="A" temporalId="s12_2_b_1_A"><num value="A">(A)</num><content>has entered into a contract with the registered distributor or
+                            registered importer for purchasing the private car; or</content></subparagraph><subparagraph id="ID_1623910376676_007" name="B" temporalId="s12_2_b_1_B"><num value="B">(B)</num><content>has made an offer to the registered distributor or registered
+                            importer for purchasing the private car; and</content></subparagraph></subparagraph><subparagraph id="ID_1623910376676_008" name="2" temporalId="s12_2_b_2"><num value="2">(ii)</num><content>the person has paid in whole or in part the price of the private car to
+                        the registered distributor or registered importer.</content></subparagraph></paragraph></subsection><subsection id="ID_1623910376677_009" name="3" temporalId="s12_3"><num value="3">(3)</num><leadIn>Subsection (4) also applies if—</leadIn><paragraph id="ID_1623910376678_010" name="a" temporalId="s12_3_a"><num value="a">(a)</num><content>first registration tax for a private car is payable under <ref>section
+                        4F(1)(b)</ref> by the person who is applying for first registration;
+                    and</content></paragraph><paragraph id="ID_1623910376679_011" name="b" temporalId="s12_3_b"><num value="b">(b)</num><content>the person proves to the Commissioner’s satisfaction that before the
+                    commencement time, the person has made an arrangement for the shipment for
+                    importing the private car into Hong
+                    Kong.</content></paragraph></subsection><subsection id="ID_1623910376680_012" name="4" temporalId="s12_4"><num value="4">(4)</num><content>For the purpose of calculating the first registration tax for the private car,
+                the Schedule as in force immediately before the commencement time continues to apply
+                as if the Revenue (First Registration Tax and Licence Fees for Motor Vehicles)
+                Ordinance 2021 (<ref href="/hk/2021/15">15 of 2021</ref>) had not been
+                enacted.</content></subsection><subsection id="ID_1623910376681_013" name="5" temporalId="s12_5"><num value="5">(5)</num><leadIn>A person who proves a matter under subsection <ref>(2)(b)</ref> or
+                    <ref>(3)(b)</ref> must—</leadIn><paragraph id="ID_1623910376683_014" name="a" temporalId="s12_5_a"><num value="a">(a)</num><content>make and deliver to the Commissioner a declaration, in the form approved by
+                    the Commissioner, as to that matter; and</content></paragraph><paragraph id="ID_1623910376684_015" name="b" temporalId="s12_5_b"><num value="b">(b)</num><content>attach to the declaration documentary evidence that the Commissioner may
+                    reasonably require to support the proof of that matter.</content></paragraph></subsection><sourceNote>(Added <ref href="hk/2021/ln31">L.N. 31 of 2021</ref> and <ref href="hk/2021/15">15 of 2021 s. 3</ref>)</sourceNote></section><schedule id="ID_1438403016819_004" name="sch0" reason="inEffect" startPeriod="2021-02-24T11:00:00" status="operational" temporalId="sch0"><num value="0">Schedule</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap330/s4E">ss.
+                4E</ref> &amp;
+                <ref href="/hk/cap330/s12">12</ref>]</note><sourceNote>(Replaced <ref href="hk/2021/ln31">L.N. 31 of 2021</ref> and <ref href="hk/2021/15">15 of 2021 s. 4</ref>)</sourceNote><heading>Classes
+            of Motor Vehicles and Rate of
+            Tax</heading><text>
+            
+            <table xmlns="http://www.w3.org/1999/xhtml" class="repeat_header">
+                
+                <col width="9%"></col>
+                
+                <col width="6%"></col>
+                
+                <col width="7%"></col>
+                <col width="62%"></col>
+                
+                
+                <col width="16%"></col>
+                
+                <thead>
+                    <tr>
+                        <td>Item</td>
+                        <td colspan="3" class="align_center">Class of motor vehicle</td>
+                        <td class="align_center">Rate of tax </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td colspan="3"></td>
+                        <td class="align_center">% </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td colspan="3">
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                        <td> </td>
+                    </tr>
+                </thead>
+                
+                
+                <tr>
+                    <td>1.</td>
+                    <td colspan="3">Private
+                        cars—</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    
+                    
+                    <td>(a)</td>
+                    <td colspan="2" class="align_justified leaders_.">on the first $150,000 </td>
+                    
+                    
+                    <td class="align_center">46</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    
+                    
+                    <td>(b)</td>
+                    <td colspan="2" class="align_justified leaders_.">on the next $150,000 </td>
+                    
+                    
+                    <td class="align_center">86</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    
+                    
+                    <td>(c)</td>
+                    <td colspan="2" class="align_justified leaders_.">on the next $200,000 </td>
+                    
+                    
+                    <td class="align_center">115</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    
+                    
+                    <td>(d)</td>
+                    <td colspan="2" class="align_justified leaders_.">on the remainder </td>
+                    
+                    
+                    <td class="align_center">132</td>
+                </tr>
+                <tr>
+                    
+                    <td colspan="5" class="align_right cellpadding_right_4"><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Amended <ref href="/hk/2011/ln33">L.N. 33 of 2011</ref> and <ref href="/hk/2011/11">11 of 2011 s.
+                            3</ref>; <ref href="hk/2021/ln31">L.N. 31 of 2021</ref> and <ref href="hk/2021/15">15 of 2021 s.
+                            4</ref>)</sourceNote></td>
+                </tr>
+                
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td colspan="2">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td></td>
+                </tr>
+                
+                <tr>
+                    <td>2.</td>
+                    
+                    <td colspan="3" class="align_justified leaders_.">Taxis
+                        </td>
+                    
+                    <td class="align_center">3.7</td>
+                </tr>
+                
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td colspan="2">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td></td>
+                </tr>
+                
+                <tr>
+                    <td>3.</td>
+                    
+                    <td colspan="3" class="align_justify leaders_.">Public
+                        light buses and private light buses
+                        </td>
+                    
+                    <td class="align_center">3.7</td>
+                </tr>
+                
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td colspan="2">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td></td>
+                </tr>
+                
+                <tr>
+                    <td>4.</td>
+                    
+                    <td colspan="3" class="align_justified">Public
+                        buses, except buses which are to be used solely in connection with operating
+                        a public bus service— <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Amended <ref href="/hk/2007/11">11 of 2007 s.
+                        36</ref>)</sourceNote></td>
+                    <td></td>
+                </tr>
+                
+                <tr>
+                    <td></td>
+                    <td>(a)</td>
+                    <td colspan="2" class="align_justified"> under the Public Bus Services Ordinance
+                            (<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap230">Cap. 230</ref>);</td>
+                    <td></td>
+                </tr>
+                
+                <tr>
+                    <td></td>
+                    <td>(b)</td>
+                    
+                    <td colspan="2" class="align_justified">under the Kowloon-Canton Railway
+                        Corporation Ordinance (<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap372">Cap. 372</ref>) within the North-west Transit Service
+                        Area within the meaning of <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">section 2(1)</ref> of
+                        that Ordinance; or</td>
+                    
+                    <td></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td>(c)
+                        </td>
+                    
+                    
+                    <td colspan="2" class="align_justified leaders_.">by
+                        the MTR Corporation Limited within the North-west Transit Service Area
+                        referred to in paragraph (b) during the Concession Period within the meaning
+                        of <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">section 2(1)</ref> of
+                        the Mass Transit Railway Ordinance (<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap556">Cap.
+                            556</ref>)<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_3"> </inline><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Amended <ref href="/hk/2007/11">11 of 2007 s. 36</ref>)</sourceNote>
+                        </td>
+                    
+                    
+                    <td class="valign_bottom align_center">3.7</td>
+                </tr>
+                
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td colspan="2">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td></td>
+                </tr>
+                
+                <tr>
+                    <td>5.</td>
+                    
+                    <td colspan="3" class="align_justified">Private
+                        buses, except buses which are to be used solely in connection with the
+                        training of drivers for the purposes of operating a public bus
+                            service—  <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Amended <ref href="/hk/2007/11">11 of 2007 s.
+                        36</ref>)</sourceNote></td>
+                    <td></td>
+                </tr>
+                
+                <tr>
+                    <td></td>
+                    <td>(a)</td>
+                    <td colspan="2" class="align_justified">under the Public Bus Services Ordinance
+                            (<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap230">Cap. 230</ref>);</td>
+                    <td></td>
+                </tr>
+                
+                <tr>
+                    <td></td>
+                    <td>(b)</td>
+                    
+                    <td colspan="2" class="align_justified">under the Kowloon-Canton Railway
+                        Corporation Ordinance (<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap372">Cap. 372</ref>) within the North-west Transit Service
+                        Area referred to in item 4(b); or</td>
+                    
+                    <td></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td>(c)
+                        </td>
+                    
+                    <td colspan="2" class="align_justified leaders_.">by the MTR Corporation Limited
+                        within the North-west Transit Service Area referred to in item 4(b) during
+                        the Concession Period referred to in item 4(c) <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Amended <ref href="/hk/2007/11">11 of 2007 s. 36</ref>)</sourceNote>
+                    </td>
+                    
+                    
+                    <td class="valign_bottom align_center">3.7</td>
+                </tr>
+                
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td colspan="2">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td></td>
+                </tr>
+                
+                <tr>
+                    <td>6.</td>
+                    
+                    <td colspan="3" class="align_justified leaders_.">Motor
+                        cycles
+                        </td>
+                    
+                    <td class="align_center">35</td>
+                </tr>
+                
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td colspan="2">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td></td>
+                </tr>
+                
+                <tr>
+                    <td>7.</td>
+                    
+                    <td colspan="3" class="align_justified leaders_.">Motor
+                        tricycles
+                        </td>
+                    
+                    <td class="align_center">35</td>
+                </tr>
+                
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td colspan="2">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td></td>
+                </tr>
+                
+                <tr>
+                    <td>8.</td>
+                    
+                    
+                    <td>(a)</td>
+                    <td colspan="2" class="align_justified leaders_.">Goods vehicles, other than
+                        van-type light goods vehicles</td>
+                    
+                    
+                    <td class="valign_bottom align_center">15</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td>(b)</td>
+                    
+                    <td colspan="2" class="align_justified">Van-type light goods vehicle not
+                        exceeding 1.9 tonnes permitted gross vehicle weight—</td>
+                    
+                    <td></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    
+                    <td class="cellpadding_right_7 align_right">(i)</td>
+                    <td class="align_justified leaders_.">on the first $150,000 </td>
+                    
+                    
+                    <td class="align_center">35</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    
+                    <td class="cellpadding_right_7 align_right">(ii)</td>
+                    <td class="align_justified leaders_.">on the next $150,000 </td>
+                    
+                    
+                    <td class="align_center">65</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    
+                    <td class="cellpadding_right_7 align_right">(iii)</td>
+                    <td class="align_justified leaders_.">on the remainder </td>
+                    
+                    
+                    <td class="align_center">85</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td>(c)</td>
+                    
+                    <td colspan="2" class="align_justified leaders_.">Van-type light goods vehicle
+                        exceeding 1.9 tonnes permitted gross vehicle weight </td>
+                    
+                    
+                    <td class="valign_bottom align_center">17</td>
+                </tr>
+                
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td colspan="2">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td></td>
+                </tr>
+                
+                <tr>
+                    <td>9.</td>
+                    
+                    <td colspan="3" class="align_justified leaders_.">Special
+                        purpose vehicles
+                        </td>
+                    
+                    <td class="align_center">3.7</td>
+                </tr>
+            </table>
+        </text><sourceNote>(<ref>Schedule</ref> replaced <ref href="/hk/2003/ln59">L.N. 59 of
+                2003</ref> and <ref href="/hk/2003/22">22 of 2003 s.
+        11</ref>)</sourceNote></schedule></main></ordinance>

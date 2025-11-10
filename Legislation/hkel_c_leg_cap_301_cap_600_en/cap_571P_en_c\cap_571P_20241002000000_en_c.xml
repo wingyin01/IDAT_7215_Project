@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><subLeg xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd" xml:lang="en"><meta><docName>Cap. 571 sub. leg. P</docName><docType>cap</docType><docNumber>571P</docNumber><docStatus>In effect</docStatus><dc:identifier>/hk/cap571P!en</dc:identifier><dc:date>2024-10-02</dc:date><dc:subject>legislation</dc:subject><dc:language>en</dc:language><dc:publisher>DoJ</dc:publisher><dc:rights>the Government of the Hong Kong Special Administrative Region</dc:rights></meta><main xml:lang="en" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd"><docTitle id="ID_1438403476611_002" name="shortTitle" reason="inEffect" status="operational" temporalId="shortTitle" startPeriod="2018-12-13">Securities
+            and
+            Futures (Accounts and Audit) Rules</docTitle><enactingFormula role="empoweringSection">(<ref href="/hk/cap571/s397">Cap. 571, section
+                397(1)</ref>)</enactingFormula><sourceNote>(Enacting provision omitted—<ref href="/hk/2018/er5">E.R. 5 of
+            2018</ref>)<marker role="blank-line"></marker><marker role="blank-line"></marker></sourceNote><commencementNote>[1 April 2003]<sourceNote><inline class="width_3"> </inline><ref href="/hk/2003/ln12">L.N. 12 of 2003</ref></sourceNote></commencementNote><sourceNote>(Format changes—<ref href="/hk/2018/er5">E.R. 5 of 2018</ref>)</sourceNote><section id="ID_1438403476611_004" name="s1" reason="omittedAsSpent" startPeriod="2018-12-13" status="omitted" temporalId="s1"><num value="1">1.</num><sourceNote>(Omitted as spent—<ref href="/hk/2018/er5">E.R. 5 of 2018</ref>)</sourceNote></section><section id="ID_1438403476626_001" name="s2" reason="inEffect" startPeriod="2024-10-02" status="operational" temporalId="s2"><num value="2">2.</num><heading>Interpretation</heading><leadIn>In these Rules, unless the context otherwise requires—</leadIn><def name="DealingInSecurities"><term>dealing
+                in
+            securities</term>
+                (<term xml:lang="zh-Hant-HK">證券交易</term>) has the meaning assigned to it by
+                <ref>Part 2 of Schedule 5</ref> to the Ordinance;</def><def name="MarginClient">
+            <leadIn><term>margin
+                    client</term>
+                    (<term xml:lang="zh-Hant-HK">保證金客戶</term>) means—</leadIn>
+            <paragraph id="ID_1438413494335_026" name="a" temporalId="s2_a"><num value="a">(a)</num><content>in relation to a corporation licensed for dealing in securities, a client
+                    to whom the corporation provides securities margin financing; or</content></paragraph>
+            <paragraph id="ID_1438413494335_034" name="b" temporalId="s2_b"><num value="b">(b)</num><content>a client of a corporation licensed for securities margin
+                    financing;</content></paragraph>
+        </def><def name="RelevantCIS"><term>relevant CIS</term> (<term xml:lang="zh-Hant-HK">相關集體投資計劃</term>) has the meaning
+            given by <ref>Part 2 of Schedule 5</ref> to the Ordinance; <sourceNote>(<ref href="hk/2023/ln58">L.N. 58 of 2023</ref>)</sourceNote></def><def name="RelevantCISProperty"><term> relevant CIS property</term> (<term xml:lang="zh-Hant-HK">相關集體投資計劃財產</term>) has
+            the meaning given by <ref>Part 2 of Schedule 5</ref> to the Ordinance;
+                <sourceNote>(<ref href="hk/2023/ln58">L.N. 58 of 2023</ref>)</sourceNote></def><def name="MarginClient">
+            <leadIn><term>scheme assets</term> (<term xml:lang="zh-Hant-HK">計劃資產</term>)
+                means—</leadIn>
+            <paragraph name="a" temporalId="s2_a" id="ID_1724834276426_001"><num value="a">(a)</num><content>scheme money; and</content></paragraph>
+            <paragraph name="b" temporalId="s2_b" id="ID_1724834276426_002"><num value="b">(b)</num><content>scheme securities; <sourceNote>(<ref href="hk/2023/ln58">L.N. 58 of 2023</ref>)</sourceNote></content></paragraph>
+        </def><def name="SchemeMoney"><term>scheme money</term> (<term xml:lang="zh-Hant-HK">計劃款項</term>),
+            in relation to an intermediary, means any client money—<paragraph id="ID_1724834276426_003" name="a" temporalId="s2_a"><num value="a">(a)</num><content>received or held by the intermediary in the course of the conduct of Type
+                    13 regulated activity; or</content></paragraph><paragraph id="ID_1724834276426_004" name="b" temporalId="s2_b"><num value="b">(b)</num><content>received or held by any corporation which is in a controlling entity
+                    relationship with the intermediary, in relation to such conduct of Type 13
+                    regulated activity,</content></paragraph><continued>that constitutes relevant CIS property in respect of a relevant
+                CIS, and includes any accretions to it whether as capital or income;
+                    <sourceNote>(<ref href="hk/2023/ln58">L.N. 58 of 2023</ref>)</sourceNote></continued></def><def name="SchemeSecurities"><term>scheme securities</term> (<term xml:lang="zh-Hant-HK">計劃證券</term>), in relation to an intermediary, means any client securities—<paragraph id="ID_1724834276426_005" name="a" temporalId="s2_a"><num value="a">(a)</num><content>received or held by the intermediary in the course of the conduct of Type
+                    13 regulated activity; or</content></paragraph><paragraph id="ID_1724834276426_006" name="b" temporalId="s2_b"><num value="b">(b)</num><content>received or held by any corporation which is in a controlling entity
+                    relationship with the intermediary, in relation to such conduct of Type 13
+                    regulated activity,</content></paragraph><continued>that constitute relevant CIS property in respect of a relevant
+                CIS; <sourceNote>(<ref href="hk/2023/ln58">L.N. 58 of 2023</ref>)</sourceNote></continued></def><def name="SystemsOfControl"><term>systems
+                of
+            control</term>
+                (<term xml:lang="zh-Hant-HK">監控系統</term>), in relation to a licensed corporation or
+            an associated entity of an intermediary, means in so far as applicable the internal
+            controls and trading, accounting,
+            settlement,
+            stock holding systems
+            and holding systems
+            for scheme securities it has implemented to ensure its compliance with
+            the provisions specified in <ref>section 4(1)(e)</ref>.
+            <sourceNote>(<ref href="hk/2023/ln58">L.N. 58 of 2023</ref>)</sourceNote></def></section><section id="ID_1438403476626_003" name="s3" reason="inEffect" startPeriod="2024-10-02" status="operational" temporalId="s3"><num value="3">3.</num><heading>Financial statements and other documents to be prepared by licensed corporations
+            and associated entities of intermediaries</heading><subsection id="ID_1438413494366_011" name="1" temporalId="s3_1"><num value="1">(1)</num><leadIn>For the purposes of <ref>section 156(1)(a)</ref> of the Ordinance, the financial
+                statements and other documents that a licensed corporation shall prepare, in respect
+                of each financial year, are—</leadIn><paragraph id="ID_1438413494366_019" name="a" temporalId="s3_1_a"><num value="a">(a)</num><leadIn>a set of accounts consisting of each of the following, prepared in
+                    accordance with generally accepted accounting principles—</leadIn><subparagraph id="ID_1438413494366_027" name="i" temporalId="s3_1_a_i"><num value="i">(i)</num><content>a
+                        statement
+                        of profit or loss and other comprehensive
+                        income;</content></subparagraph><subparagraph id="ID_1438413494382_008" name="ii" temporalId="s3_1_a_ii"><num value="ii">(ii)</num><content>a
+                        statement
+                        of financial position; and</content></subparagraph><subparagraph id="ID_1438413494382_016" name="iii" temporalId="s3_1_a_iii"><num value="iii">(iii)</num><content>notes to the accounts;</content></subparagraph></paragraph><paragraph id="ID_1438413494382_023" name="b" temporalId="s3_1_b"><num value="b">(b)</num><leadIn>in so far as applicable, the following returns as referred to in
+                        <ref>section 56</ref> of the Securities and Futures (Financial Resources)
+                    Rules (<ref href="/hk/cap571N">Cap. 571 sub. leg. N</ref>), each made up to the
+                    last day of the financial year—</leadIn><subparagraph id="ID_1438413494382_031" name="i" temporalId="s3_1_b_i"><num value="i">(i)</num><content>a liquid capital computation;</content></subparagraph><subparagraph id="ID_1438413494382_039" name="ii" temporalId="s3_1_b_ii"><num value="ii">(ii)</num><content>a required liquid capital computation;</content></subparagraph><subparagraph id="ID_1438413494382_047" name="iii" temporalId="s3_1_b_iii"><num value="iii">(iii)</num><content>a summary of bank loans, advances, credit facilities and other
+                        financial accommodation available to it;</content></subparagraph><subparagraph id="ID_1438413494382_055" name="iv" temporalId="s3_1_b_iv"><num value="iv">(iv)</num><content>an analysis of its margin clients;</content></subparagraph><subparagraph id="ID_1438413494382_063" name="v" temporalId="s3_1_b_v"><num value="v">(v)</num><content>an analysis of collateral received from margin clients;</content></subparagraph><subparagraph id="ID_1438413494382_071" name="vi" temporalId="s3_1_b_vi"><num value="vi">(vi)</num><content>an analysis of its rolling balance cash clients;</content></subparagraph><subparagraph id="ID_1438413494382_079" name="vii" temporalId="s3_1_b_vii"><num value="vii">(vii)</num><content>other
+                        than a licensed corporation licensed for Type 13 regulated activity in
+                        relation to the carrying on by it of Type 13 regulated activity, an analysis
+                        of its client assets;</content></subparagraph><subparagraph id="ID_1438413494382_087" name="viii" temporalId="s3_1_b_viii"><num value="viii">(viii)</num><content>an analysis of its proprietary derivative positions; and</content></subparagraph><subparagraph id="ID_1728281991122_001" name="9" temporalId="s3_1_b_9"><num value="9">(ix)</num><content>where it is licensed for Type 13 regulated activity, an analysis of
+                        relevant CIS property received or held by it for any relevant CIS arising
+                        from the carrying on of Type 13 regulated activity; and <sourceNote>(<ref href="hk/2023/ln58">L.N. 58 of 2023</ref>)</sourceNote></content></subparagraph></paragraph><paragraph id="ID_1438413494398_006" name="c" temporalId="s3_1_c"><num value="c">(c)</num><content>a business and risk management questionnaire.</content></paragraph></subsection><subsection id="ID_1438413494398_013" name="2" temporalId="s3_2"><num value="2">(2)</num><leadIn>For the purposes of <ref>section 156(2)(a)</ref> of the Ordinance, the financial
+                statements and other documents required to be prepared by a licensed corporation
+                that ceases carrying on all of the regulated activities for which it is licensed
+                are—</leadIn><paragraph id="ID_1438413494398_021" name="a" temporalId="s3_2_a"><num value="a">(a)</num><content>a set of accounts as referred to in subsection <ref>(1)(a)</ref>;
+                    and</content></paragraph><paragraph id="ID_1438413494398_029" name="b" temporalId="s3_2_b"><num value="b">(b)</num><content>a liquid capital computation as referred to in subsection
+                        <ref>(1)(b)(i)</ref>.</content></paragraph></subsection><subsection id="ID_1438413494398_036" name="3" temporalId="s3_3"><num value="3">(3)</num><leadIn>For the purposes of <ref>section 156(1)(a)</ref> of the Ordinance, the financial
+                statements and other documents that an associated entity of an intermediary shall
+                prepare, in respect of each financial year, are—</leadIn><paragraph id="ID_1438413494398_044" name="a" temporalId="s3_3_a"><num value="a">(a)</num><leadIn>a set of accounts consisting of each of the following, prepared in
+                    accordance with generally accepted accounting principles—</leadIn><subparagraph id="ID_1438413494398_052" name="i" temporalId="s3_3_a_i"><num value="i">(i)</num><content>a
+                        statement
+                        of profit or loss and other comprehensive
+                        income;</content></subparagraph><subparagraph id="ID_1438413494398_060" name="ii" temporalId="s3_3_a_ii"><num value="ii">(ii)</num><content>a
+                        statement
+                        of financial position; and</content></subparagraph><subparagraph id="ID_1438413494398_068" name="iii" temporalId="s3_3_a_iii"><num value="iii">(iii)</num><content>notes to the accounts;</content></subparagraph></paragraph><paragraph id="ID_1438413494398_075" name="b" temporalId="s3_3_b"><num value="b">(b)</num><content>other
+                    than an associated entity of an intermediary licensed or registered for Type 13
+                    regulated activity in relation to the carrying on by the intermediary of Type 13
+                    regulated activity, an analysis of client assets as at the end of the financial
+                    year;</content></paragraph><paragraph id="ID_1728281991138_002" name="ba" temporalId="s3_3_ba"><num value="ba">(ba)</num><content>where it is an associated entity of an intermediary licensed or registered
+                    for Type 13 regulated activity in relation to the carrying on by the
+                    intermediary of Type 13 regulated activity, an analysis of scheme assets at the
+                    end of the financial year; and <sourceNote>(<ref href="hk/2023/ln58">L.N. 58 of 2023</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438413494413_007" name="c" temporalId="s3_3_c"><num value="c">(c)</num><content>a business and risk management questionnaire.</content></paragraph></subsection><subsection id="ID_1438413494413_014" name="4" temporalId="s3_4"><num value="4">(4)</num><leadIn>For the purposes of <ref>section 156(2)(a)</ref> of the Ordinance, the financial
+                statements and other documents required to be prepared by an associated entity of an
+                intermediary that ceases to be such an associated entity are—</leadIn><paragraph id="ID_1438413494413_022" name="a" temporalId="s3_4_a"><num value="a">(a)</num><content>a set of accounts as referred to in subsection
+                    <ref>(3)(a)</ref>;</content></paragraph><paragraph id="ID_1438413494413_030" name="b" temporalId="s3_4_b"><num value="b">(b)</num><content>other
+                    than an associated entity of an intermediary licensed or registered for Type 13
+                    regulated activity in relation to the carrying on by the intermediary of Type 13
+                    regulated activity, an analysis of client assets as referred to in subsection
+                        <ref>(3)(b)</ref>; and</content></paragraph><paragraph id="ID_1728281991138_003" name="c" temporalId="s3_4_c"><num value="c">(c)</num><content>where it is an associated entity of an intermediary licensed or registered
+                    for Type 13 regulated activity in relation to the carrying on by the
+                    intermediary of Type 13 regulated activity, an analysis of scheme assets as
+                    referred to in subsection <ref>(3)(ba)</ref>. <sourceNote>(<ref href="hk/2023/ln58">L.N. 58 of 2023</ref>)</sourceNote></content></paragraph></subsection><sourceNote>(<ref href="hk/2023/ln58">L.N. 58 of 2023</ref>)</sourceNote></section><section id="ID_1438403476626_005" name="s4" reason="inEffect" startPeriod="2024-10-02" status="operational" temporalId="s4"><num value="4">4.</num><heading>Auditor’s report</heading><subsection id="ID_1438413494476_004" name="1" temporalId="s4_1"><num value="1">(1)</num><leadIn>For the purposes of <ref>section 156(1)(b)</ref> or (2)(b) of the Ordinance, an auditor’s report required to be submitted by a licensed corporation or an associated entity of an intermediary shall contain a statement by the auditor as to whether, in the auditor’s opinion—</leadIn><paragraph id="ID_1438413494476_012" name="a" temporalId="s4_1_a"><num value="a">(a)</num><content>the
+                    statement
+                    of profit or loss and other comprehensive income and the statement of financial
+                    position are in accordance with the records kept by the
+                    licensed corporation or the associated entity (as the case may be) under the
+                    Securities and Futures (Keeping of Records) Rules (<ref href="/hk/cap571O">Cap.
+                        571 sub. leg. O</ref>) and satisfy the requirements of these
+                    Rules;</content></paragraph><paragraph id="ID_1438413494476_020" name="b" temporalId="s4_1_b"><num value="b">(b)</num><content>the
+                    statement
+                    of financial position gives a true and fair view of the state
+                    of affairs of the licensed corporation or the associated entity (as the case may
+                    be) as at the end of the financial year to which it relates;</content></paragraph><paragraph id="ID_1438413494491_006" name="c" temporalId="s4_1_c"><num value="c">(c)</num><content>the
+                    statement
+                    of profit or loss and other comprehensive income gives a true
+                    and fair view of the profit or loss of the licensed corporation or the
+                    associated entity (as the case may be) for the financial year to which it
+                    relates;</content></paragraph><paragraph id="ID_1438413494491_014" name="d" temporalId="s4_1_d"><num value="d">(d)</num><content>in the case of a licensed corporation, each of the returns as referred to in <ref>section 3(1)(b)</ref> or (2)(b) (as the case may be) is correctly compiled from the records of the licensed corporation or, if not correctly compiled, the nature and extent of the incorrectness;</content></paragraph><paragraph id="ID_1438413494491_022" name="e" temporalId="s4_1_e"><num value="e">(e)</num><leadIn>in so far as applicable, during the financial year in question, the licensed corporation or the associated entity (as the case may be) had systems of control in place that were adequate to ensure compliance with—</leadIn><subparagraph id="ID_1438413494507_006" name="i" temporalId="s4_1_e_i"><num value="i">(i)</num><content><ref>sections 4</ref>, <ref>5</ref>, <ref>6</ref>, <ref>8(4)</ref>,
+                            <ref>10</ref>,
+                            <ref>10B</ref>, <ref>10C</ref>, <ref>10D</ref> and
+                            <ref>11</ref> of the Securities and Futures (Client Money) Rules (<ref href="/hk/cap571I">Cap. 571 sub. leg. I</ref>); and</content></subparagraph><subparagraph id="ID_1438413494507_014" name="ii" temporalId="s4_1_e_ii"><num value="ii">(ii)</num><content><ref>sections 4(4)</ref>, <ref>5</ref>,
+                            <ref>9B</ref>,
+                            <ref>10(1)</ref>,
+                            <ref>10A(1)</ref> and <ref>12</ref> of the Securities
+                        and Futures (Client Securities) Rules (<ref href="/hk/cap571H">Cap. 571 sub.
+                            leg. H</ref>);</content></subparagraph></paragraph><paragraph id="ID_1438413494507_021" name="f" temporalId="s4_1_f"><num value="f">(f)</num><leadIn>in so far as applicable, during the financial year in question, the licensed corporation or the associated entity (as the case may be) has complied with—</leadIn><subparagraph id="ID_1438413494507_029" name="i" temporalId="s4_1_f_i"><num value="i">(i)</num><content><ref>sections
+                        3</ref>,
+                            <ref>3A</ref>, <ref>4</ref> and
+                            <ref>4A</ref>
+                        of the Securities and Futures (Keeping of Records) Rules (<ref href="/hk/cap571O">Cap. 571 sub. leg. O</ref>);</content></subparagraph><subparagraph id="ID_1438413494507_037" name="ii" temporalId="s4_1_f_ii"><num value="ii">(ii)</num><content><ref>sections 4</ref>, <ref>5</ref>, <ref>6</ref>, <ref>8(4)</ref>,
+                            <ref>10</ref>,
+                            <ref>10B</ref>, <ref>10C</ref>, <ref>10D</ref> and
+                            <ref>11</ref> of the Securities and Futures (Client Money) Rules (<ref href="/hk/cap571I">Cap. 571 sub. leg. I</ref>); and</content></subparagraph><subparagraph id="ID_1438413494522_007" name="iii" temporalId="s4_1_f_iii"><num value="iii">(iii)</num><content><ref>sections 4(4)</ref>, <ref>5</ref>,
+                            <ref>9B</ref>,
+                            <ref>10(1)</ref>,
+                            <ref>10A(1)</ref> and <ref>12</ref> of the Securities
+                        and Futures (Client Securities) Rules (<ref href="/hk/cap571H">Cap. 571 sub.
+                            leg. H</ref>); and</content></subparagraph></paragraph><paragraph id="ID_1438413494522_014" name="g" temporalId="s4_1_g"><num value="g">(g)</num><content>in the case of a licensed corporation, there appears to have been any
+                    contravention of the Securities and Futures (Financial Resources) Rules (<ref href="/hk/cap571N">Cap. 571 sub. leg. N</ref>) by the licensed corporation
+                    during the financial year in question.
+                    <sourceNote>(<ref href="hk/2023/ln58">L.N. 58 of 2023</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438413494522_021" name="2" temporalId="s4_2"><num value="2">(2)</num><content>A licensed corporation or an associated entity of an intermediary (as the case may be) may submit 2 separate auditor’s reports in respect of a financial year, one containing a statement by the auditor concerning the matters referred to in subsection <ref>(1)(a)</ref>, (b) and (c) and the other containing a statement by the auditor concerning the matters referred to in subsection <ref>(1)(d)</ref>, (e), (f) and (g).</content></subsection></section><section id="ID_1438403476642_002" name="s5" reason="inEffect" startPeriod="2024-10-02" status="operational" temporalId="s5"><num value="5">5.</num><heading>Matters reportable by auditors under <ref>section 157</ref> of the
+                        Ordinance</heading><leadIn>The following provisions are prescribed requirements for the purposes of the
+                        definition of
+                                        <b><i>prescribed
+                                        requirement</i></b>
+                        in <ref>section 157(3)</ref> of the Ordinance—</leadIn><paragraph id="ID_1438413494585_012" name="a" temporalId="s5_a"><num value="a">(a)</num><content><ref>sections
+                                3</ref>,
+                                3A, 4 and
+                                        <ref>4A</ref>
+                                of the Securities and Futures (Keeping of Records) Rules (<ref href="/hk/cap571O">Cap. 571 sub. leg. O</ref>);</content></paragraph><paragraph id="ID_1438413494585_020" name="b" temporalId="s5_b"><num value="b">(b)</num><content><ref>sections 4</ref>, <ref>5</ref>, <ref>6</ref>, <ref>8(4)</ref>,
+                                        <ref>10</ref>,
+                                        <ref>10B</ref>, <ref>10C</ref>,
+                                <ref>10D</ref> and <ref>11</ref> of the Securities
+                                and Futures (Client Money) Rules (<ref href="/hk/cap571I">Cap. 571
+                                        sub. leg. I</ref>);</content></paragraph><paragraph id="ID_1438413494600_006" name="c" temporalId="s5_c"><num value="c">(c)</num><content><ref>sections 4(4)</ref>, <ref>5</ref>,
+                                        <ref>9B</ref>,
+                                        <ref>10(1)</ref>, <ref>10A(1)</ref> and
+                                        <ref>12</ref> of the Securities and Futures (Client
+                                Securities) Rules (<ref href="/hk/cap571H">Cap. 571 sub. leg.
+                                        H</ref>).</content></paragraph><sourceNote>(<ref href="hk/2023/ln58">L.N. 58 of 2023</ref>)</sourceNote></section></main></subLeg>

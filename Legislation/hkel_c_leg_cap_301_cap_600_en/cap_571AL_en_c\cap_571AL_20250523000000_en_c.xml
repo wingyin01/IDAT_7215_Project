@@ -1,0 +1,855 @@
+<?xml version="1.0" encoding="UTF-8"?><subLeg xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd" xml:lang="en"><meta><docName>Cap. 571 sub. leg. AL</docName><docType>cap</docType><docNumber>571AL</docNumber><docStatus>In effect</docStatus><dc:identifier>/hk/cap571AL!en</dc:identifier><dc:date>2025-05-23</dc:date><dc:subject>legislation</dc:subject><dc:language>en</dc:language><dc:publisher>DoJ</dc:publisher><dc:rights>the Government of the Hong Kong Special Administrative Region</dc:rights></meta><main xml:lang="en" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd"><docTitle id="ID_1438403474520_004" name="shortTitle" reason="inEffect" status="operational" temporalId="shortTitle" startPeriod="2015-11-12">Securities and Futures (OTC Derivative Transactions—Reporting
+            and Record Keeping Obligations) Rules</docTitle><enactingFormula>(<ref href="/hk/cap571">Cap. 571, </ref>
+            <ref href="/hk/cap571/s101L">sections 101L</ref>
+            and
+                <ref href="/hk/cap571/s101P">101P </ref>
+            )</enactingFormula><sourceNote>(Enacting provision omitted—<ref href="hk/2015/er3">E.R. 3 of 2015</ref>)</sourceNote><commencementNote>[10 July 2015]</commencementNote><part id="ID_1438403474536_001" name="P1" reason="inEffect" startPeriod="2015-07-10" status="operational" temporalId="P1"><num value="1">Part 1</num><heading>Preliminary</heading><section id="ID_1438403474536_003" name="s1" reason="omittedAsSpent" role="rule" startPeriod="2016-10-20" status="omitted" temporalId="s1"><num value="1">1.</num><heading><sourceNote>(Omitted as spent—<ref href="hk/2016/er1">E.R. 1 of
+                        2016</ref>)</sourceNote></heading><subsection id="ID_1438413479000_004" name="1" temporalId="s1_1"><num value="1">(1)</num><sourceNote>(Omitted as spent—<ref href="hk/2015/er3">E.R.
+                                        3
+                                        of 2015</ref>)</sourceNote></subsection><subsection id="ID_1438413479000_012" name="2" temporalId="s1_2"><num value="2">(2)</num><sourceNote>(Omitted as spent—<ref href="hk/2016/er1">E.R. 1 of
+                                2016</ref>)</sourceNote></subsection></section><section name="s2" reason="inEffect" role="rule" startPeriod="2025-05-23" status="operational" temporalId="s2" id="ID_1438403474536_005"><num value="2">2.</num><heading>Interpretation</heading><leadIn>In these Rules—</leadIn><def name="Affiliate"><term>affiliate</term> (<term xml:lang="zh-Hant-HK">聯屬公司</term>), in
+            relation to a prescribed person that is a licensed corporation, an authorized financial
+            institution or an approved money broker, means a corporation that is in the same group
+            of companies as the person, except a corporation that is a collective investment
+            scheme;</def><def name="ATSCCP">
+            <leadIn><term>ATS-CCP</term> (<term xml:lang="zh-Hant-HK">自動化交易服務中央對手方</term>) means a
+                person authorized under <ref>section 95(2)</ref> of the Ordinance to provide
+                automated trading services, but only when the person is—</leadIn>
+            <paragraph name="a" temporalId="s2_a" id="ID_1490259956785_001"><num value="a">(a)</num><content>providing services that it is authorized to provide; and</content></paragraph>
+            <paragraph name="b" temporalId="s2_b" id="ID_1490259956785_002"><num value="b">(b)</num><content>acting in its capacity as a central counterparty;</content></paragraph>
+        </def><def name="AuthorizedFinancialInstitutionIncorporatedInHongKong"><term>authorized financial
+                institution incorporated in Hong Kong</term> (<term xml:lang="zh-Hant-HK">在香港成立為法團的認可財務機構</term>) means an authorized institution incorporated in Hong Kong
+            as defined by <ref>section 2(1)</ref> of the Banking Ordinance (<ref href="/hk/cap155">Cap. 155</ref>); <sourceNote>(<ref href="hk/2025/14">14 of 2025 s.
+                256</ref>)</sourceNote></def><def name="AuthorizedFinancialInstitutionIncorporatedOutsideHongKong"><term>authorized
+                financial institution incorporated outside Hong Kong</term> (<term xml:lang="zh-Hant-HK">在香港以外地方成立為法團的認可財務機構</term>) means an authorized institution
+            incorporated outside Hong Kong as defined by <ref>section 2(1)</ref> of the Banking
+            Ordinance (<ref href="/hk/cap155">Cap. 155</ref>); <sourceNote>(<ref href="hk/2025/14">14 of 2025 s. 256</ref>)</sourceNote></def><def name="ElectronicReportingSystem"><term>electronic reporting system</term> (<term xml:lang="zh-Hant-HK">電子匯報系統</term>) means the electronic system operated by or on
+            behalf of the Monetary Authority for submitting and receiving reports on specified OTC
+            derivative transactions for the purposes of these Rules and <ref>section 101B</ref> of
+            the Ordinance;</def><def name="ATSCCP">
+            <leadIn><term>excluded currency contract</term> (<term xml:lang="zh-Hant-HK">豁除貨幣合約</term>) means an OTC derivative product that is a forward contract for
+                the sale or purchase of a currency which—</leadIn>
+            <paragraph name="a" temporalId="s2_a" id="ID_1490259956785_003"><num value="a">(a)</num><content>is entered into for the purpose of settling a sale or purchase of
+                    securities denominated in that currency; and</content></paragraph>
+            <paragraph name="b" temporalId="s2_b" id="ID_1490259956785_004"><num value="b">(b)</num><leadIn>is intended to be settled by the actual delivery of that currency, by the
+                    earlier of the following days—</leadIn><subparagraph name="1" temporalId="s2_b_1" id="ID_1490259956785_005"><num value="1">(i)</num><content>the last day of the customary settlement period for the securities
+                        referred to in <ref>paragraph (a)</ref>;</content></subparagraph><subparagraph name="2" temporalId="s2_b_2" id="ID_1490259956785_006"><num value="2">(ii)</num><content>the seventh business day after the day on which the forward contract is executed;
+                        <sourceNote>(<ref href="hk/2016/ln30">L.N. 30 of 2016</ref>)</sourceNote></content></subparagraph></paragraph>
+        </def><def name="ExemptPerson"><term>exempt person</term> (<term xml:lang="zh-Hant-HK">獲豁免人士</term>) has the meaning given by <ref>rule 3</ref>;</def><def name="Affiliate"><term>grace period</term> (<term xml:lang="zh-Hant-HK">寬限期</term>), in
+            relation to a prescribed person, means the period of 3 months beginning on the starting
+            day; <sourceNote>(<ref href="hk/2016/ln30">L.N. 30 of 2016</ref>)</sourceNote></def><def name="LocalBranch"><term>local branch</term> (<term xml:lang="zh-Hant-HK">本地分行</term>),
+            in relation to a prescribed person that is an authorized financial institution
+            incorporated outside Hong Kong, has the meaning given by <ref>section 2(1)</ref> of the
+            Banking Ordinance (<ref href="/hk/cap155">Cap. 155</ref>) except that it includes its
+            principal place of business in Hong Kong;</def><def name="Outstanding"><term>outstanding</term> (<term xml:lang="zh-Hant-HK">未完結</term>),
+            in relation to an OTC derivative transaction on a particular day, means the transaction
+            has not, as at that day, matured or been terminated;</def><def name="Affiliate"><term>previous Rules</term> (<term xml:lang="zh-Hant-HK">先前的規則</term>)
+            means the Securities and Futures (OTC Derivative Transactions—Reporting and Record
+            Keeping Obligations) Rules as in force immediately before the specification day;
+                    <sourceNote>(<ref href="hk/2016/ln30">L.N. 30 of 2016</ref>)</sourceNote></def><def name="RCH"><term>RCH</term> (<term xml:lang="zh-Hant-HK">認可結算所</term>) means a person
+            that is a recognized clearing house, but only when the person is acting in its capacity
+            as a central counterparty;</def><def name="relevant CIS"><term>relevant CIS</term> (<term xml:lang="zh-Hant-HK">相關集體投資計劃</term>) has the meaning given by Part 2 of Schedule 5 to the Ordinance;
+                    <sourceNote>(<ref href="hk/2023/ln61">L.N. 61 of 2023</ref>)</sourceNote></def><def name="Affiliate"><term>specification day</term> (<term xml:lang="zh-Hant-HK">指明日期</term>)
+            means <ref>1 July 2017</ref>; <sourceNote>(<ref href="hk/2016/ln30">L.N. 30 of
+                    2016</ref>)</sourceNote></def><def name="SpecifiedOTCDerivativeTransaction"><term>specified OTC derivative
+                transaction</term> (<term xml:lang="zh-Hant-HK">指明場外衍生工具交易</term>) has the meaning
+            given by <ref>section 101A</ref> of the Ordinance;</def><def name="StartingDay">
+            <leadIn><term>starting day</term> (<term xml:lang="zh-Hant-HK">開始日期</term>),
+                in
+                relation to a prescribed person, means the later of—</leadIn>
+            <paragraph name="a" temporalId="s2_a" id="ID_1490259956910_007"><num value="a">(a)</num><content>the
+                    specification day;</content></paragraph>
+            <paragraph name="b" temporalId="s2_b" id="ID_1490259956910_008"><num value="b">(b)</num><content>the
+                    day on which the person becomes a prescribed person;
+                    and</content></paragraph>
+            
+            <paragraph name="c" temporalId="s2_c" id="ID_1490259956910_009"><num value="c">(c)</num><content>if applicable, the day on which the person ceases to be regarded as an
+                    exempt person; <sourceNote>(<ref href="hk/2016/ln30">L.N. 30 of
+                        2016</ref>)</sourceNote></content></paragraph>
+            
+        </def><def name="SubsequentEvent"><term>subsequent event</term> (<term xml:lang="zh-Hant-HK">其後事件</term>), in relation to a specified OTC derivative transaction, means an event
+            that occurs after the transaction was entered into, and which affects the terms and
+            conditions on which the transaction was entered into or the persons involved in entering
+            into the transaction;</def><def name="Terminated"><term>terminated</term> (<term xml:lang="zh-Hant-HK">被終止</term>), in
+            relation to an OTC derivative transaction, means the transaction is terminated in
+            accordance with the terms and conditions of the transaction or by agreement between the
+            counterparties to the transaction, before the transaction matures;</def><def name="TransactionInformation"><term>transaction information</term> (<term xml:lang="zh-Hant-HK">交易資料</term>),
+            in
+            relation to a specified OTC derivative transaction, has the meaning given by <ref>rule
+                2A</ref>; <sourceNote>(<ref href="hk/2016/ln30">L.N. 30 of
+            2016</ref>)</sourceNote></def><def name="Type13Intermediary"><term>Type 13 intermediary</term> (<term xml:lang="zh-Hant-HK">第13類中介人</term>), in relation to a prescribed person, means a
+            licensed corporation or an authorized financial institution that is licensed or
+            registered for Type 13 regulated activity; <sourceNote>(<ref href="hk/2023/ln61">L.N. 61
+                    of 2023</ref>)</sourceNote></def><def name="Affiliate"><term>valuation transaction information</term> (<term xml:lang="zh-Hant-HK">交易估值資料</term>), in relation to a specified OTC derivative
+            transaction, means the information and particulars which are within the category of
+            information and particulars specified in <ref>item 11</ref> of <ref>Schedule 1</ref>,
+            and which satisfy the requirement referred to in <ref>paragraph (b)(ii)</ref> of the
+            definition of<b><i> transaction information</i></b> in <ref>rule 2A(1)</ref>.
+                    <sourceNote>(<ref href="hk/2016/ln30">L.N. 30 of 2016</ref>)</sourceNote></def></section><sourceNote class="align_right">(<ref href="hk/2016/ln30">L.N. 30 of 2016</ref>)</sourceNote><section name="s2A" temporalId="s2A" startPeriod="2017-07-01" id="ID_1487925512899_001" status="operational" reason="inEffect"><num value="2A">2A.</num><heading>Meaning of <i>transaction information</i></heading><subsection name="1" temporalId="s2A_1" id="ID_1490260727910_001"><num value="1">(1)</num><leadIn>In these Rules—</leadIn><def name="TransactionInformation">
+                <leadIn><term>transaction information</term> (<term xml:lang="zh-Hant-HK">交易資料</term>), in relation to a specified OTC derivative transaction, means the information and particulars relating to the transaction (including information and particulars relating to a subsequent event and valuation transaction information), and to the persons involved in the transaction, which—</leadIn>
+                <paragraph name="a" temporalId="s2A_1_a" id="ID_1490260727926_002"><num value="a">(a)</num><content>must be submitted to the Monetary Authority for complying with the reporting obligation; and</content></paragraph>
+                <paragraph name="b" temporalId="s2A_1_b" id="ID_1490260727926_003"><num value="b">(b)</num><leadIn>are—</leadIn><subparagraph name="1" temporalId="s2A_1_b_1" id="ID_1490260727926_004"><num value="1">(i)</num><content>within a category of information and particulars specified in <ref>column 2</ref> of <ref>Schedule 1</ref>; and</content></subparagraph><subparagraph id="ID_14879285" name="2" temporalId="s2A_1_b_2"><num value="2">(ii)</num><content>required for completing a data field that is specified by the Monetary Authority in accordance with <ref>subrule (2)</ref> in relation to the class or description of specified OTC derivative transactions to which the transaction belongs.</content></subparagraph></paragraph>
+            </def></subsection><subsection name="2" temporalId="s2A_2" id="ID_1490260727926_005"><num value="2">(2)</num><content>For the purposes of <ref>paragraph (b)(ii)</ref> of the definition of <b><i>transaction information</i></b> in <ref>subrule (1)</ref>, the Monetary Authority may, after consultation with the Commission and by notice published in the Gazette, specify in relation to a class or description of specified OTC derivative transactions, the data fields that must be completed by a prescribed person in relation to a specified OTC derivative transaction for complying with the reporting obligation.</content></subsection><subsection name="3" temporalId="s2A_3" id="ID_1490260727926_006"><num value="3">(3)</num><content>A notice published under <ref>subrule (2)</ref> is not subsidiary legislation.</content></subsection></section><sourceNote class="align_right">(<ref href="hk/2016/ln30">L.N. 30 of 2016</ref>)</sourceNote><section name="s3" reason="inEffect" role="rule" startPeriod="2017-07-01" status="operational" temporalId="s3" id="ID_1438403474552_002"><num value="3">3.</num><heading>When prescribed person to be regarded as exempt person</heading><subsection id="ID_1438413479156_004" name="1" temporalId="s3_1"><num value="1">(1)</num><content>Subject to subrule (4), for the purposes of <ref>rules 10(1)(a)</ref>, <ref>11(1)(a)</ref>, <ref>12(1)(a)</ref> and <ref>13(1)(a)</ref>, a prescribed person that is a licensed corporation, an authorized financial institution or an approved money broker is to be regarded as an exempt person
+                if the person satisfies the requirements in subrule (2).
+                <sourceNote>(<ref href="hk/2016/ln30">L.N. 30 of 2016</ref>)</sourceNote></content></subsection><subsection id="ID_1438413479172_005" name="2" temporalId="s3_2"><num value="2">(2)</num><leadIn>The requirements are that, on or at any time after the specification day—
+                <sourceNote>(<ref href="hk/2016/ln30">L.N. 30 of 2016</ref>)</sourceNote></leadIn><paragraph id="ID_1438413479172_013" name="a" temporalId="s3_2_a"><num value="a">(a)</num><content>the sum of the notional amounts of all outstanding specified OTC derivative transactions
+                    to which the prescribed person is a counterparty does not exceed US$30 million;</content></paragraph><paragraph id="ID_1438413479172_021" name="b" temporalId="s3_2_b"><num value="b">(b)</num><content><ref>rule 10(1)(b)</ref>, <ref>11(1)(b)</ref>, <ref>12(1)(c)</ref> or <ref>13(1)(b)</ref> (as applicable) does not apply to the prescribed person in relation to any specified OTC derivative transaction; and
+                    </content></paragraph><paragraph id="ID_1438413479172_029" name="c" temporalId="s3_2_c"><num value="c">(c)</num><content>if the prescribed person is an authorized financial institution incorporated outside Hong Kong, <ref>rule 12(1)(b)</ref> does not apply to the person in relation to any specified OTC derivative transaction. <sourceNote>(<ref href="hk/2016/ln30">L.N. 30 of 2016</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438413479188_005" name="3" temporalId="s3_3"><num value="3">(3)</num><content>For the purposes of subrule <ref>(2)(a)</ref>, a prescribed person that is an authorized financial institution incorporated outside Hong Kong is to be regarded as a counterparty to an OTC derivative transaction if the person is a counterparty to the transaction and the transaction is recorded in the form of an entry in the books of a local branch of the person.</content></subsection><subsection id="ID_1438413479188_013" name="4" temporalId="s3_4"><num value="4">(4)</num><content>Despite <ref>subrule (1)</ref>, the prescribed persons referred to in <ref>subrule (4A)</ref> are not eligible to be regarded as exempt persons for the purposes of <ref>rule 10(1)(a)</ref>, <ref>11(1)(a)</ref>, <ref>12(1)(a)</ref> or <ref>13(1)(a)</ref> (as applicable).
+                
+                <sourceNote>(<ref href="hk/2016/ln30">L.N. 30 of 2016</ref>)</sourceNote></content></subsection><subsection name="4A" temporalId="s3_4A" id="ID_1490260813914_001"><num value="4A">(4A)</num><leadIn>The prescribed persons are persons that, under the previous Rules—</leadIn><paragraph name="a" temporalId="s3_4A_a" id="ID_1490260813914_002"><num value="a">(a)</num><content>reported a specified OTC derivative transaction to the Monetary Authority;</content></paragraph><paragraph name="b" temporalId="s3_4A_b" id="ID_1490260813914_003"><num value="b">(b)</num><content>under <ref>rule 17(1)</ref> or <ref>18(1)</ref>, were taken to have reported a specified OTC derivative transaction to the Monetary Authority; or</content></paragraph><paragraph name="c" temporalId="s3_4A_c" id="ID_1490260813914_004"><num value="c">(c)</num><content>were required to report a specified OTC derivative transaction to the Monetary Authority but had not reported the transaction to the Monetary Authority before the specification day (whether because the time for reporting was not reached before the specification day, or otherwise). <sourceNote>(<ref href="hk/2016/ln30">L.N. 30 of 2016</ref>)</sourceNote></content></paragraph></subsection><subsection name="5" temporalId="s3_5" id="ID_1490260813914_005"><num value="5">(5)</num><leadIn>A prescribed person that ceases to satisfy a requirement in subrule (2)—</leadIn><paragraph name="a" temporalId="s3_5_a" id="ID_1490260813929_006"><num value="a">(a)</num><content> is not eligible to again be regarded as an exempt person; and <sourceNote>(<ref href="hk/2016/ln30">L.N. 30 of 2016</ref>)</sourceNote></content></paragraph><paragraph name="b" temporalId="s3_5_b" id="ID_1490260813929_007"><num value="b">(b)</num><content> ceases to be regarded as an exempt person on the day on which the person ceases to satisfy the requirement. <sourceNote>(<ref href="hk/2016/ln30">L.N. 30 of 2016</ref>)</sourceNote></content></paragraph></subsection></section><section id="ID_1438403474552_004" name="s4" reason="inEffect" role="rule" startPeriod="2015-07-10" status="operational" temporalId="s4"><num value="4">4.</num><heading>When prescribed person to be regarded as having conducted transaction in Hong Kong on behalf of affiliate</heading><subsection id="ID_1438413479266_004" name="1" temporalId="s4_1"><num value="1">(1)</num><leadIn>For the purposes of <ref>rules 10(1)(b)</ref>, <ref>11(1)(b)</ref>, <ref>12(1)(c)</ref> and <ref>13(1)(b)</ref>, a prescribed person is to be regarded as having conducted a specified OTC derivative transaction in Hong Kong on behalf of an affiliate of the person if—</leadIn><paragraph id="ID_1438413479266_012" name="a" temporalId="s4_1_a"><num value="a">(a)</num><content>the affiliate is a counterparty to the transaction; and</content></paragraph><paragraph id="ID_1438413479266_020" name="b" temporalId="s4_1_b"><num value="b">(b)</num><leadIn>one of the individuals who made the decision for the affiliate to enter into the transaction—</leadIn><subparagraph id="ID_1438413479266_028" name="i" temporalId="s4_1_b_i"><num value="i">(i)</num><content>acted in his or her capacity as a trader; and</content></subparagraph><subparagraph id="ID_1438413479266_036" name="ii" temporalId="s4_1_b_ii"><num value="ii">(ii)</num><content>was employed or engaged by the person to perform his or her duties predominantly in Hong Kong.</content></subparagraph></paragraph></subsection><subsection id="ID_1438413479266_042" name="2" temporalId="s4_2"><num value="2">(2)</num><content>Subrule (1) applies to a prescribed person in relation to a specified OTC derivative transaction even if the transaction was conducted wholly or partially outside Hong Kong.</content></subsection></section><section id="ID_1438403474567_002" name="s5" reason="inEffect" role="rule" startPeriod="2015-07-10" status="operational" temporalId="s5"><num value="5">5.</num><heading>Persons specified as prescribed persons for reporting obligation</heading><leadIn>For the purposes of paragraph <ref>(a)(iv)</ref> of the definition of <term>prescribed
+                    person</term> in <ref>section 101A</ref> of the Ordinance, the following persons
+                are specified as being subject to the reporting obligation—</leadIn><paragraph id="ID_1438413479312_004" name="a" temporalId="s5_a"><num value="a">(a)</num><content>an RCH;</content></paragraph><paragraph id="ID_1438413479312_012" name="b" temporalId="s5_b"><num value="b">(b)</num><content>an ATS-CCP.</content></paragraph></section><section id="ID_1438403474567_004" name="s6" reason="inEffect" role="rule" startPeriod="2015-07-10" status="operational" temporalId="s6"><num value="6">6.</num><heading>Persons specified as prescribed persons for record keeping obligation</heading><content name="PrescribedPerson">For the purposes of paragraph <ref>(d)(iv)</ref> of the definition
+            of <term>prescribed person</term> in <ref>section 101A</ref> of the Ordinance, the
+            persons specified as being subject to the record keeping obligation are the persons
+            specified under <ref>rule 5</ref> as being subject to the reporting
+            obligation.</content></section><section name="s7" reason="inEffect" role="rule" startPeriod="2017-07-01" status="operational" temporalId="s7" id="ID_1438403474583_001"><num value="7">7.</num><heading>Transactions that are specified OTC derivative transactions for purposes of
+            reporting obligation</heading><content name="SpecifiedOTCDerivativeTransaction">For the purposes of paragraph (a) of the
+            definition of <term>specified OTC derivative transaction</term> in <ref>section
+                101A</ref> of the Ordinance, an OTC derivative transaction
+            (except
+            a transaction in an excluded currency contract) is specified for the
+            purposes of the reporting obligation.
+            </content><sourceNote>(<ref href="hk/2016/ln30">L.N. 30 of 2016</ref>)</sourceNote></section><section name="s8" reason="inEffect" role="rule" startPeriod="2017-07-01" status="operational" temporalId="s8" id="ID_1438403474583_003"><num value="8">8.</num><heading>Transactions that are specified OTC derivative transactions for purposes of record
+            keeping obligation</heading><content name="SpecifiedOTCDerivativeTransaction">For the purposes of paragraph (d) of the
+            definition of <term>specified OTC derivative transaction</term> in <ref>section
+                101A</ref> of the Ordinance, an OTC derivative transaction
+            (except a
+            transaction in an excluded currency
+            contract)
+            is specified for the purposes of the record keeping obligation.
+            </content><sourceNote>(<ref href="hk/2016/ln30">L.N. 30 of 2016</ref>)</sourceNote></section></part><part id="ID_1438403474583_005" name="P2" reason="inEffect" startPeriod="2015-07-10" status="operational" temporalId="P2"><num value="2">Part 2</num><heading>Reporting Obligation</heading><division id="ID_1438403474598_001" name="D1" reason="inEffect" startPeriod="2015-07-10" status="operational" temporalId="P2_D1"><num value="1">Division 1</num><heading>Reporting by Prescribed Persons</heading><section id="ID_1438403474598_003" name="s9" reason="inEffect" role="rule" startPeriod="2015-07-10" status="operational" temporalId="s9"><num value="9">9.</num><heading>When reporting obligation arises</heading><subsection id="ID_1438413479422_004" name="1" temporalId="s9_1"><num value="1">(1)</num><content>A prescribed person that is required by <ref>rule 10</ref>, <ref>11</ref>, <ref>12</ref>, <ref>13</ref>, <ref>14</ref> or <ref>15</ref> to report a specified OTC derivative transaction to the Monetary Authority must report the transaction to the Monetary Authority in accordance with <ref>rule 20</ref> in the circumstances specified in subrule (2).</content></subsection><subsection id="ID_1438413479422_012" name="2" temporalId="s9_2"><num value="2">(2)</num><leadIn>The circumstances are—</leadIn><paragraph id="ID_1438413479422_020" name="a" temporalId="s9_2_a"><num value="a">(a)</num><content>when <ref>rule 10</ref>, <ref>11</ref>, <ref>12</ref>, <ref>13</ref>, <ref>14</ref> or <ref>15</ref> first begins to apply to the prescribed person in relation to the specified OTC derivative transaction; and</content></paragraph><paragraph id="ID_1438413479437_006" name="b" temporalId="s9_2_b"><num value="b">(b)</num><content>if applicable, each time a subsequent event occurs while the transaction is still outstanding.</content></paragraph></subsection></section><section name="s10" reason="inEffect" role="rule" startPeriod="2024-10-02" status="operational" temporalId="s10" id="ID_1438403474598_005"><num value="10">10.</num><heading>Reporting by licensed corporations</heading><subsection name="1" temporalId="s10_1" id="ID_1490261356895_001"><num value="1">(1)</num><leadIn>A prescribed person that is a licensed corporation must report a specified OTC
+                derivative transaction to the Monetary Authority if the person—</leadIn><paragraph name="a" temporalId="s10_1_a" id="ID_1490261356895_002"><num value="a">(a)</num><content>subject to subrule (3), is a counterparty to the transaction; or</content></paragraph><paragraph name="b" temporalId="s10_1_b" id="ID_1490261356895_003"><num value="b">(b)</num><content>conducted the transaction in Hong Kong on behalf of an affiliate of the
+                    person within the meaning of <ref>rule 4(1)</ref>.</content></paragraph></subsection><subsection name="2" temporalId="s10_2" id="ID_1490261356911_004"><num value="2">(2)</num><content>The transaction referred to in subrule <ref>(1)(a)</ref> includes a transaction
+                that is still outstanding on the starting day.</content></subsection><subsection name="2A" temporalId="s10_2A" id="ID_1490261356911_005"><num value="2A">(2A)</num><leadIn>The transaction referred to in subrule <ref>(1)(b)</ref> includes a transaction
+                that is still outstanding on the specification day and which, under the previous
+                Rules—</leadIn><paragraph name="a" temporalId="s10_2A_a" id="ID_1490261356911_006"><num value="a">(a)</num><content>was reported to the Monetary Authority by the prescribed person or by the
+                    affiliate of the person on whose behalf the person conducted the transaction in
+                    Hong Kong; or</content></paragraph><paragraph name="a" temporalId="s10_2A_a" id="ID_1490261356911_007"><num value="a">(b)</num><content>the person was required to report to the Monetary Authority but the person
+                    had not reported to the Monetary Authority before the specification day (whether
+                    because the time for reporting was not reached before the specification day, or
+                    otherwise). <sourceNote>(<ref href="hk/2016/ln30">L.N. 30 of
+                        2016</ref>)</sourceNote></content></paragraph></subsection><subsection name="3" temporalId="s10_3" id="ID_1490261356942_008"><num value="3">(3)</num><leadIn>Subrule <ref>(1)(a)</ref> does not apply to a prescribed person that
+                is—</leadIn><paragraph name="a" temporalId="s10_3_a" id="ID_1728012264761_001"><num value="a">(a)</num><content>an exempt person; or</content></paragraph><paragraph name="b" temporalId="s10_3_b" id="ID_1728012264761_002"><num value="b">(b)</num><content>a Type 13 intermediary that is a counterparty to the transaction in its
+                    capacity as a trustee of a relevant CIS. <sourceNote>(<ref href="hk/2023/ln61">L.N. 61 of 2023</ref>)</sourceNote></content></paragraph></subsection></section><section name="s11" reason="inEffect" role="rule" startPeriod="2024-10-02" status="operational" temporalId="s11" id="ID_1438403474614_002"><num value="11">11.</num><heading>Reporting by authorized financial institutions incorporated in Hong Kong</heading><subsection name="1" temporalId="s11_1" id="ID_1490319124422_001"><num value="1">(1)</num><leadIn>A prescribed person that is an authorized financial institution incorporated in
+                Hong Kong must report a specified OTC derivative transaction to the Monetary
+                Authority if the person—</leadIn><paragraph name="a" temporalId="s11_1_a" id="ID_1490319124422_002"><num value="a">(a)</num><content>subject to subrule (3), is a counterparty to the transaction; or</content></paragraph><paragraph name="b" temporalId="s11_1_b" id="ID_1490319124422_003"><num value="b">(b)</num><content>conducted the transaction in Hong Kong on behalf of an affiliate of the
+                    person within the meaning of <ref>rule 4(1)</ref>.</content></paragraph></subsection><subsection name="2" temporalId="s11_2" id="ID_1490319124437_004"><num value="2">(2)</num><content>The transaction referred to in subrule <ref>(1)(a)</ref> includes a transaction
+                that is still outstanding on the starting day.</content></subsection><subsection name="2A" temporalId="s11_2A" id="ID_1490319124437_005"><num value="2A">(2A)</num><leadIn>The transaction referred to in subrule (1)(b) includes a transaction that is
+                still outstanding on the specification day and which, under the previous
+                Rules—</leadIn><paragraph name="a" temporalId="s11_2A_a" id="ID_1490319124437_006"><num value="a">(a)</num><content>was reported to the Monetary Authority by the prescribed person or by the
+                    affiliate of the person on whose behalf the person conducted the transaction in
+                    Hong Kong; or</content></paragraph><paragraph name="a" temporalId="s11_2A_a" id="ID_1490319124437_007"><num value="a">(b)</num><content>the person was required to report to the Monetary Authority but the person
+                    had not reported to the Monetary Authority before the specification day (whether
+                    because the time for reporting was not reached before the specification day, or
+                    otherwise). <sourceNote>(<ref href="hk/2016/ln30">L.N. 30 of
+                        2016</ref>)</sourceNote></content></paragraph></subsection><subsection name="3" temporalId="s11_3" id="ID_1490319124482_008"><num value="3">(3)</num><leadIn>Subrule <ref>(1)(a)</ref> does not apply to a prescribed person that
+                is—</leadIn><paragraph name="a" temporalId="s11_3_a" id="ID_1728012611363_001"><num value="a">(a)</num><content>an exempt person; or</content></paragraph><paragraph name="b" temporalId="s11_3_b" id="ID_1728012611363_002"><num value="b">(b)</num><content>a Type 13 intermediary that is a counterparty to the transaction in its
+                    capacity as a trustee of a relevant CIS. <sourceNote>(<ref href="hk/2023/ln61">L.N. 61 of 2023</ref>)</sourceNote></content></paragraph></subsection></section><section name="s12" reason="inEffect" role="rule" startPeriod="2024-10-02" status="operational" temporalId="s12" id="ID_1438403474614_004"><num value="12">12.</num><heading>Reporting by authorized financial institutions incorporated outside Hong
+            Kong</heading><subsection name="1" temporalId="s12_1" id="ID_1490319897487_001"><num value="1">(1)</num><leadIn>A prescribed person that is an authorized financial institution incorporated
+                outside Hong Kong must report a specified OTC derivative transaction to the Monetary
+                Authority if the person—</leadIn><paragraph name="a" temporalId="s12_1_a" id="ID_1490319897487_002"><num value="a">(a)</num><content>subject to subrule (3), is a counterparty to the transaction and the
+                    transaction is recorded in the form of an entry in the books of a local branch
+                    of the person;</content></paragraph><paragraph name="b" temporalId="s12_1_b" id="ID_1490319897487_003"><num value="b">(b)</num><leadIn>is a counterparty to the transaction and—</leadIn><subparagraph name="i" temporalId="s12_1_b_i" id="ID_1490319897487_004"><num value="i">(i)</num><leadIn>the transaction is recorded in the form of an entry in the books
+                        of—</leadIn><subparagraph name="A" role="subSubParagraph" temporalId="s12_1_b_i_A" id="ID_1490319897487_005"><num value="A">(A)</num><content>the principal place of business outside Hong Kong of the person;
+                            or</content></subparagraph><subparagraph name="B" role="subSubParagraph" temporalId="s12_1_b_i_B" id="ID_1490319897487_006"><num value="B">(B)</num><content>a branch (other than a local branch) of the person; and</content></subparagraph></subparagraph><subparagraph name="ii" temporalId="s12_1_b_ii" id="ID_1490319897487_007"><num value="ii">(ii)</num><leadIn>one of the individuals who made the decision for the person to enter
+                        into the transaction—</leadIn><subparagraph name="A" role="subSubParagraph" temporalId="s12_1_b_ii_A" id="ID_1490319897487_008"><num value="A">(A)</num><content>acted in his or her capacity as a trader; and</content></subparagraph><subparagraph name="B" role="subSubParagraph" temporalId="s12_1_b_ii_B" id="ID_1490319897487_009"><num value="B">(B)</num><content>was employed or engaged by the person to perform his or her duties
+                            predominantly in Hong Kong; or</content></subparagraph></subparagraph></paragraph><paragraph name="c" temporalId="s12_1_c" id="ID_1490319897487_010"><num value="c">(c)</num><content>conducted the transaction in Hong Kong on behalf of an affiliate of the
+                    person within the meaning of <ref>rule 4(1)</ref>.</content></paragraph></subsection><subsection name="2" temporalId="s12_2" id="ID_1490319897487_011"><num value="2">(2)</num><content>The transaction referred to in subrule <ref>(1)(a)</ref> includes a transaction
+                that is still outstanding on the starting day.</content></subsection><subsection name="2A" temporalId="s12_2A" id="ID_1490319897503_012"><num value="2A">(2A)</num><leadIn>The transaction referred to in subrule (1)(b) or (c) includes a transaction that
+                is still outstanding on the specification day and which, under the previous
+                Rules—</leadIn><paragraph name="a" temporalId="s12_2A_a" id="ID_1490319897503_013"><num value="a">(a)</num><content>was reported to the Monetary Authority by the prescribed person or by the
+                    affiliate of the person on whose behalf the person conducted the transaction in
+                    Hong Kong; or</content></paragraph><paragraph name="a" temporalId="s12_2A_a" id="ID_1490319897503_014"><num value="a">(b)</num><content>the person was required to report to the Monetary Authority but the person
+                    had not reported to the Monetary Authority before the specification day (whether
+                    because the time for reporting was not reached before the specification day, or
+                    otherwise). <sourceNote>(<ref href="hk/2016/ln30">L.N. 30 of
+                        2016</ref>)</sourceNote></content></paragraph></subsection><subsection name="3" temporalId="s12_3" id="ID_1490319897565_015"><num value="3">(3)</num><leadIn>Subrule <ref>(1)(a)</ref> does not apply to a prescribed person that
+                is—</leadIn><paragraph name="a" temporalId="s12_3_a" id="ID_1728022898619_001"><num value="a">(a)</num><content>an exempt person; or</content></paragraph><paragraph name="b" temporalId="s12_3_b" id="ID_1728022898619_002"><num value="b">(b)</num><content>a Type 13 intermediary that is a counterparty to the transaction in its
+                    capacity as a trustee of a relevant CIS. <sourceNote>(<ref href="hk/2023/ln61">L.N. 61 of 2023</ref>)</sourceNote></content></paragraph></subsection></section><section name="s13" reason="inEffect" role="rule" startPeriod="2017-07-01" status="operational" temporalId="s13" id="ID_1438403474630_001"><num value="13">13.</num><heading>Reporting by approved money brokers</heading><subsection name="1" temporalId="s13_1" id="ID_1490320631100_001"><num value="1">(1)</num><leadIn>A prescribed person that is an approved money broker must report a specified OTC
+                derivative transaction to the Monetary Authority if the person—</leadIn><paragraph name="a" temporalId="s13_1_a" id="ID_1490320631100_002"><num value="a">(a)</num><content>subject to subrule (3), is a counterparty to the transaction; or</content></paragraph><paragraph name="b" temporalId="s13_1_b" id="ID_1490320631100_003"><num value="b">(b)</num><content>conducted the transaction in Hong Kong on behalf of an affiliate of the
+                    person within the meaning of <ref>rule 4(1)</ref>.</content></paragraph></subsection><subsection name="2" temporalId="s13_2" id="ID_1490320631100_004"><num value="2">(2)</num><content>The transaction referred to in subrule <ref>(1)(a)</ref> includes a transaction
+                that is still outstanding on the starting day.</content></subsection><subsection name="2A" temporalId="s13_2A" id="ID_1490320631100_005"><num value="1">(2A)</num><leadIn> The transaction referred to in subrule<ref> (1)(b)</ref> includes a transaction
+                that is still outstanding on the specification day and which, under the previous
+                Rules—</leadIn><paragraph name="a" temporalId="s13_2A_a" id="ID_1490320631116_006"><num value="a">(a)</num><content>was reported to the Monetary Authority by the prescribed person or by the
+                    affiliate of the person on whose behalf the person conducted the transaction in
+                    Hong Kong; or </content></paragraph><paragraph name="b" temporalId="s13_2A_b" id="ID_1490320631116_007"><num value="b">(b)</num><content>the person was required to report to the Monetary Authority but the person
+                    had not reported to the Monetary Authority before the specification day (whether
+                    because the time for reporting was not reached before the specification day, or
+                    otherwise). <sourceNote>(<ref href="hk/2016/ln30">L.N. 30 of
+                        2016</ref>)</sourceNote></content></paragraph></subsection><subsection name="3" temporalId="s13_3" id="ID_1490320631132_008"><num value="3">(3)</num><content>Subrule <ref>(1)(a)</ref> does not apply to a prescribed person that is an
+                exempt person.
+                <sourceNote>(<ref href="hk/2016/ln30">L.N. 30 of
+                2016</ref>)</sourceNote></content></subsection></section><section id="ID_1438403474630_003" name="s14" reason="inEffect" role="rule" startPeriod="2015-07-10" status="operational" temporalId="s14"><num value="14">14.</num><heading>Reporting by RCHs</heading><subsection id="ID_1438413479624_035" name="1" temporalId="s14_1"><num value="1">(1)</num><content>A prescribed person that is an RCH must report a specified OTC derivative transaction to the Monetary Authority if the person is a counterparty to the transaction.</content></subsection><subsection id="ID_1438413479640_005" name="2" temporalId="s14_2"><num value="2">(2)</num><content>The transaction referred to in subrule (1) includes a transaction that is still outstanding on the starting day.</content></subsection></section><section id="ID_1438403474630_005" name="s15" reason="inEffect" role="rule" status="operational" temporalId="s15" startPeriod="2016-09-01"><num value="15">15.</num><heading>Reporting by ATS-CCPs</heading><subsection id="ID_1438413479656_019" name="1" temporalId="s15_1"><num value="1">(1)</num><content>A prescribed person that is an ATS-CCP must report a specified OTC derivative
+                transaction to the Monetary Authority if the person is a counterparty to the
+                transaction and the other counterparty to the transaction is a company.</content></subsection><subsection id="ID_1438413479656_027" name="2" temporalId="s15_2"><num value="2">(2)</num><content>The transaction referred to in subrule (1) includes a transaction that is still
+                outstanding on the starting day.</content></subsection></section><section name="s16" reason="inEffect" role="rule" startPeriod="2017-07-01" status="operational" temporalId="s16" id="ID_1438403474645_002"><num value="16">16.</num><heading>Reporting obligation applies even if
+            counterparty is, or
+            transaction was entered into, outside Hong
+            Kong</heading><sourceNote class="align_right">(<ref href="hk/2016/ln30">L.N. 30 of
+            2016</ref>)</sourceNote><leadIn>For the purposes of this Division, a prescribed person must report a specified OTC
+            derivative transaction to the Monetary Authority even if—</leadIn><paragraph name="a" temporalId="s16_a" id="ID_1490321036647_001"><num value="a">(a)</num><content>a counterparty, or more than one counterparty, to the transaction is a person
+                outside Hong Kong; or</content></paragraph><paragraph name="b" temporalId="s16_b" id="ID_1490321036647_002"><num value="b">(b)</num><content>the transaction was entered into wholly or partially outside Hong
+                Kong.</content></paragraph></section></division><division id="ID_1438403474645_004" name="D2" reason="inEffect" startPeriod="2015-07-10" status="operational" temporalId="P2_D2"><num value="2">Division 2</num><heading>Circumstances in which Reporting Obligation is Taken to have been Complied with</heading><section id="ID_1438403474645_006" name="s17" reason="inEffect" role="rule" startPeriod="2015-07-10" status="operational" temporalId="s17"><num value="17">17.</num><heading>Licensed corporations, authorized financial institutions or approved money brokers taken to have reported entering into of transaction if affiliate has reported</heading><subsection id="ID_1438413479718_004" name="1" temporalId="s17_1"><num value="1">(1)</num><content>If a prescribed person that is a licensed corporation, an authorized financial institution or an approved money broker is required by <ref>rule 10(1)(b)</ref>, <ref>11(1)(b)</ref>, <ref>12(1)(c)</ref> or <ref>13(1)(b)</ref> to report a specified OTC derivative transaction to the Monetary Authority in a circumstance specified in <ref>rule 9(2)(a)</ref>, the person is taken to have complied with the reporting obligation in that circumstance if the person satisfies the requirement in subrule (2).</content></subsection><subsection id="ID_1438413479734_005" name="2" temporalId="s17_2"><num value="2">(2)</num><content>The requirement is that the prescribed person has received, in good faith, a written confirmation from the affiliate of the person on whose behalf the person conducted the specified OTC derivative transaction in Hong Kong that the affiliate has reported the entering into of the transaction to the Monetary Authority (whether directly or indirectly) in accordance with <ref>rule 20</ref> (as that rule applies to the person in relation to the circumstance).</content></subsection></section><section id="ID_1438403474661_002" name="s18" reason="inEffect" role="rule" startPeriod="2015-07-10" status="operational" temporalId="s18"><num value="18">18.</num><heading>Licensed corporations, authorized financial institutions or approved money brokers taken to have reported subsequent event if affiliate has reported</heading><subsection id="ID_1438413479780_004" name="1" temporalId="s18_1"><num value="1">(1)</num><content>If a prescribed person that is a licensed corporation, an authorized financial institution or an approved money broker is required by <ref>rule 10(1)(b)</ref>, <ref>11(1)(b)</ref>, <ref>12(1)(c)</ref> or <ref>13(1)(b)</ref> to report a specified OTC derivative transaction to the Monetary Authority in a circumstance specified in <ref>rule 9(2)(b)</ref>, the person is taken to have complied with the reporting obligation in that circumstance if the person satisfies the requirement in subrule (2).</content></subsection><subsection id="ID_1438413479796_005" name="2" temporalId="s18_2"><num value="2">(2)</num><content>The requirement is that the prescribed person has received, in good faith, a written confirmation from the affiliate of the person on whose behalf the person conducted the specified OTC derivative transaction in Hong Kong that the affiliate has reported the subsequent event to the Monetary Authority (whether directly or indirectly) in accordance with <ref>rule 20</ref> (as that rule applies to the person in relation to the circumstance).</content></subsection></section></division><division id="ID_1438403474661_004" name="D3" reason="inEffect" startPeriod="2015-07-10" status="operational" temporalId="P2_D3"><num value="3">Division 3</num><heading>Reporting to Monetary Authority</heading><section id="ID_1438403474676_001" name="s19" reason="repealed" role="rule" startPeriod="2017-07-01" status="repealed" temporalId="s19"><num value="19">19.</num><sourceNote>(Repealed <ref href="hk/2016/ln30">L.N. 30 of 2016</ref>)</sourceNote></section><section id="ID_1438403474676_003" name="s20" reason="inEffect" role="rule" startPeriod="2015-07-10" status="operational" temporalId="s20"><num value="20">20.</num><heading>Transaction information to be submitted to Monetary Authority in accordance with this Division</heading><content>A prescribed person that is required by <ref>rule 9(1)</ref> to report a specified OTC derivative transaction to the Monetary Authority must submit the transaction information for the transaction to the Monetary Authority in accordance with this Division.</content></section><section id="ID_1438403474676_005" name="s21" reason="inEffect" role="rule" startPeriod="2015-07-10" status="operational" temporalId="s21"><num value="21">21.</num><heading>Reporting by means of electronic reporting system</heading><subsection id="ID_1438413479921_011" name="1" temporalId="s21_1"><num value="1">(1)</num><leadIn>The transaction information for a specified OTC derivative transaction that is required to be submitted to the Monetary Authority under these Rules is to be regarded as duly submitted only if it is submitted—</leadIn><paragraph id="ID_1438413479921_019" name="a" temporalId="s21_1_a"><num value="a">(a)</num><content>by means of the electronic reporting system; and</content></paragraph><paragraph id="ID_1438413479936_006" name="b" temporalId="s21_1_b"><num value="b">(b)</num><content>in accordance with the directions and instructions referred to in subrule (2)</content></paragraph></subsection><subsection id="ID_1438413479936_013" name="2" temporalId="s21_2"><num value="2">(2)</num><content>The Monetary Authority must publish, in the manner the Monetary Authority considers appropriate, directions and instructions for the use of the electronic reporting system and the submission of the transaction information for a specified OTC derivative transaction by means of the system.</content></subsection></section><section id="ID_1438403474692_002" name="s22" reason="repealed" role="rule" startPeriod="2017-07-01" status="repealed" temporalId="s22"><num value="22">22.</num><sourceNote>(Repealed <ref href="hk/2016/ln30">L.N. 30 of 2016</ref>)</sourceNote></section><section name="s23" reason="inEffect" role="rule" startPeriod="2017-07-01" status="operational" temporalId="s23" id="ID_1438403474692_004"><num value="23">23.</num><heading>Reporting outstanding
+            transactions</heading><sourceNote class="align_right">(<ref href="hk/2016/ln30">L.N. 30 of
+            2016</ref>)</sourceNote><subsection name="1" temporalId="s23_1" id="ID_1490321751296_001"><num value="1">(1)</num><content>Subject to subrule <ref>(5)</ref> and <ref>rule 25B</ref>, a prescribed person  to which the requirement in subrule (3) applies must submit the transaction information for a specified OTC derivative transaction to the Monetary Authority no later than the last day of the grace period.
+                <sourceNote>(<ref href="hk/2016/ln30">L.N. 30 of 2016</ref>)</sourceNote></content></subsection><subsection name="2" temporalId="s23_2" id="ID_1490321751328_002"><num value="2">(2)</num><sourceNote>(Repealed <ref href="hk/2016/ln30">L.N. 30 of 2016</ref>)</sourceNote></subsection><subsection name="3" temporalId="s23_3" id="ID_1490321751359_003"><num value="3">(3)</num><content>The requirement referred to in subrule (1) is a requirement to report to the
+                Monetary Authority a specified OTC derivative transaction that is still outstanding
+                on the first day of the grace period.</content></subsection><subsection name="4" temporalId="s23_4" id="ID_1490321751359_004"><num value="4">(4)</num><leadIn>The transaction information for a specified OTC derivative transaction referred
+                to in subrule (1) is the transaction information comprising—</leadIn><paragraph name="a" temporalId="s23_4_a" id="ID_1490321751359_005"><num value="a">(a)</num><content>the transaction information as at the first day of the grace period,
+                    reflecting the net effect of all subsequent events that have occurred since the
+                    transaction was entered into; and</content></paragraph><paragraph name="b" temporalId="s23_4_b" id="ID_1490321751359_006"><num value="b">(b)</num><content>in chronological order, the transaction information for each subsequent
+                    event that has occurred since the first day of the grace period until a day
+                    which is not earlier than 2 business days before the day on which the
+                    transaction information is submitted.</content></paragraph></subsection><subsection id="ID_1" name="5" temporalId="s23_5"><num value="5">(5)</num><content>A prescribed person is not required to submit the transaction information for a specified OTC derivative transaction that has matured or been terminated before the end of the grace period to the Monetary Authority.</content></subsection></section><section name="s24" reason="inEffect" role="rule" startPeriod="2017-07-01" status="operational" temporalId="s24" id="ID_1438403474708_002"><num value="24">24.</num><heading>Reporting transactions entered into on or after starting day</heading><sourceNote>(<ref href="hk/2016/ln30">L.N. 30 of 2016</ref>)</sourceNote><subsection name="1" temporalId="s24_1" id="ID_1490322203056_001"><num value="1">(1)</num><content>A prescribed person to which the requirement in subrule (3) applies must submit the transaction information for a specified OTC derivative transaction to the Monetary Authority within 2 business days after the transaction is entered into.</content></subsection><subsection name="2" temporalId="s24_2" id="ID_1490322203056_002"><num value="2">(2)</num><sourceNote>(Repealed <ref href="hk/2016/ln30">L.N. 30 of 2016</ref>)</sourceNote></subsection><subsection name="3" temporalId="s24_3" id="ID_1490322203118_003"><num value="3">(3)</num><content>The requirement referred to in subrule (1) is a requirement to report to the Monetary Authority a specified OTC derivative transaction that is entered into on or after the starting day.</content></subsection><sourceNote>(<ref href="hk/2016/ln30">L.N. 30 of 2016</ref>)</sourceNote></section><section name="s25" reason="inEffect" role="rule" startPeriod="2017-07-01" status="operational" temporalId="s25" id="ID_1438403474708_004"><num value="25">25.</num><heading>Reporting subsequent events</heading><subsection name="1" temporalId="s25_1" id="ID_1490322395699_001"><num value="1">(1)</num><content>Subject to <ref>subrules (2)</ref> and <ref>(3)</ref> and <ref>rule 25B</ref>, a prescribed person referred to in <ref>subrule (1A)</ref>
+                must submit the transaction information for a subsequent event to the Monetary Authority within 2 business days after the event occurs.
+                <sourceNote>(<ref href="hk/2016/ln30">L.N. 30 of 2016</ref>)</sourceNote></content></subsection><subsection name="1A" temporalId="s25_1A" id="ID_1490322395699_002"><num value="2A">(1A)</num><leadIn>Subrule (1) applies to a prescribed person that, in relation to a specified OTC derivative transaction—</leadIn><paragraph name="a" temporalId="s25_1A_a" id="ID_1490322395699_003"><num value="a">(a)</num><content>has submitted the transaction information for the transaction to the Monetary Authority in accordance with <ref>rule 23</ref> or <ref>24</ref> (including a prescribed person that has submitted the transaction information for the transaction to the Monetary Authority despite <ref>rule 23(5)</ref>); or</content></paragraph><paragraph name="b" temporalId="s25_1A_b" id="ID_1490322395699_004"><num value="a">(b)</num><content>was required to submit the transaction information for the transaction to the Monetary Authority in accordance with <ref>rule 23</ref> or <ref>24</ref>, but failed to do so. <sourceNote>(<ref href="hk/2016/ln30">L.N. 30 of 2016</ref>)</sourceNote></content></paragraph></subsection><subsection name="2" temporalId="s25_2" id="ID_1490322395715_005"><num value="2">(2)</num><content>If a prescribed person submitted the transaction information for one, or more than one, subsequent event to the Monetary Authority under rule
+                <ref>23(4)</ref>, subrule (1) applies to the person only in relation to a subsequent event that occurs after the last subsequent event that was included in the submission.
+                <sourceNote>(<ref href="hk/2016/ln30">L.N. 30 of 2016</ref>)</sourceNote></content></subsection><subsection name="3" temporalId="s25_3" id="ID_1490322395715_006"><num value="3">(3)</num><content>If a prescribed person is required to submit the transaction information for a subsequent event to the Monetary Authority under subrule (1), and more than one subsequent event occurs on the same day, the person is only required to submit the transaction information once for that day provided that the transaction information submitted incorporates all of the subsequent events that occurred on that day.</content></subsection><subsection name="4" temporalId="s25_4" id="ID_1490322395715_007"><num value="4">(4)</num><content>Subrule (1) does not require a person to submit the transaction information for a subsequent event that has occurred after the day on which the person ceases to be a prescribed person.</content></subsection></section><section name="s25A" temporalId="s25A" startPeriod="2017-07-01" id="ID_1488262422580_001" status="operational" reason="inEffect"><num value="25A">25A.</num><heading>Submitting valuation transaction information</heading><subsection id="ID_1438413480186_004" name="1" temporalId="s25A_1"><num value="1">(1)</num><content>Subject to <ref>rule 25B</ref>, a prescribed person referred to in <ref>subrule (2)</ref> must submit the valuation transaction information for a specified OTC derivative transaction to the Monetary Authority for every day on which the transaction is still outstanding, within 2 business days after the day to which the valuation transaction information relates.</content></subsection><subsection id="ID_1488187362760_001" name="2" temporalId="s25A_2"><num value="2A">(2)</num><leadIn><ref>Subrule (1)</ref> applies to a prescribed person that, in relation to a specified OTC derivative transaction—</leadIn><paragraph name="a" temporalId="s25A_2_a" id="ID_1488187362760_002"><num value="a">(a)</num><content>has submitted the transaction information for the transaction to the Monetary Authority in accordance with <ref>rule 23</ref> or <ref>24</ref> (including a prescribed person that has submitted the transaction information for the transaction to the Monetary Authority despite <ref>rule 23(5)</ref>); or</content></paragraph><paragraph name="b" temporalId="s25A_2_b" id="ID_1488187362760_003"><num value="a">(b)</num><content>was required to submit the transaction information for the transaction to the Monetary Authority in accordance with <ref>rule 23</ref> or <ref>24</ref>, but failed to do so.</content></paragraph></subsection><sourceNote class="align_right">(<ref href="hk/2016/ln30">L.N. 30 of 2016</ref>)</sourceNote></section><section name="s25B" temporalId="s25B" startPeriod="2017-07-01" id="ID_1488263938931_001" status="operational" reason="inEffect"><num value="25B">25B.</num><heading>Modified requirements for transactions reported to Monetary Authority under previous Rules</heading><subsection name="1" temporalId="s25B_1" id="ID_1490324223201_001"><num value="1">(1)</num><content><ref>Rules 23</ref>, <ref>25</ref> and <ref>25A</ref> apply to a prescribed person in relation to a specified OTC derivative transaction referred to in <ref>subrule (2)</ref> subject to the modifications specified in <ref>subrule (3)</ref>, <ref>(5)</ref> or <ref>(7) </ref>(as applicable).</content></subsection><subsection name="2" temporalId="s25B_2" id="ID_1490324223217_002"><num value="2A">(2)</num><leadIn>The specified OTC derivative transaction is a transaction—</leadIn><paragraph name="a" temporalId="s25B_2_a" id="ID_1490324223217_003"><num value="a">(a)</num><content>that is still outstanding on the specification day; and</content></paragraph><paragraph name="b" temporalId="s25B_2_b" id="ID_1490324223217_004"><num value="a">(b)</num><content>for which previous transaction information was, before the specification day and under the previous Rules, submitted to the Monetary Authority by the prescribed person or by the affiliate of the person on whose behalf the person conducted the transaction in Hong Kong.</content></paragraph></subsection><subsection name="3" temporalId="s25B_3" id="ID_1490324223217_005"><num value="2A">(3)</num><leadIn>If, on the specification day, the transaction has a maturity day that is before 1 July 2018, subject to subrule (7)—</leadIn><paragraph name="a" temporalId="s25B_3_a" id="ID_1490324223217_006"><num value="a">(a)</num><content><ref>rule 23(1)</ref> applies to the prescribed person in relation to the transaction as if it required the person to submit the previous transaction information to the Monetary Authority on the specification day;</content></paragraph><paragraph name="b" temporalId="s25B_3_b" id="ID_1490324223217_007"><num value="a">(b)</num><leadIn><ref>rule 25(1)</ref>—</leadIn><subparagraph name="1" temporalId="s25B_3_b_1" id="ID_1490324223217_008"><num value="1">(i)</num><content>is to be construed in relation to the prescribed person as if it applied to a prescribed person that has submitted the previous transaction information for the transaction to the Monetary Authority on the specification day; and</content></subparagraph><subparagraph name="2" temporalId="s25B_3_b_2" id="ID_1490324223217_009"><num value="2">(ii)</num><content>applies until the maturity day to the prescribed person in relation to a subsequent event that occurs on or after the specification day as if the transaction information required to be submitted to the Monetary Authority for the subsequent event is the previous transaction information; </content></subparagraph></paragraph><paragraph name="c" temporalId="s25B_3_c" id="ID_1490324223217_010"><num value="a">(c)</num><content><ref>rule 25A(1)</ref> is to be construed in relation to the prescribed person as if it applied to a prescribed person that has submitted the previous transaction information for the transaction to the Monetary Authority on the specification day.</content></paragraph></subsection><subsection name="4" temporalId="s25B_4" id="ID_1490324223232_011"><num value="1">(4)</num><content>For the purposes of <ref>subrule (3)(a)</ref>, <ref>(b)(i)</ref> and <ref>(c)</ref>, the prescribed person is taken to have submitted the previous transaction information referred to in <ref>subrule (2)(b)</ref> to the Monetary Authority on the specification day.</content></subsection><subsection name="5" temporalId="s25B_5" id="ID_1490324223232_012"><num value="2A">(5)</num><leadIn>If, on the specification day, the transaction has a maturity day that is on or after 1 July 2018—</leadIn><paragraph name="a" temporalId="s25B_5_a" id="ID_1490324223232_013"><num value="a">(a)</num><leadIn><ref>rule 23(1)</ref> applies to the prescribed person in relation to the transaction as if it required the person to submit to the Monetary Authority—</leadIn><subparagraph name="1" temporalId="s25B_5_a_1" id="ID_1490324223232_014"><num value="1">(i)</num><content>on the specification day, the previous transaction information; and</content></subparagraph><subparagraph name="2" temporalId="s25B_5_a_2" id="ID_1490324223232_015"><num value="2">(ii)</num><content>by no later than the last day of the grace period, the additional transaction information as at a day (<b><i>reporting day</i></b>) which is not earlier than 2 business days before the day on which the additional transaction information is submitted, reflecting the net effect of all subsequent events that have occurred since the transaction was entered into;</content></subparagraph></paragraph><paragraph name="b" temporalId="s25B_5_b" id="ID_1490324223232_016"><num value="a">(b)</num><leadIn><ref>rule 25(1)</ref>—</leadIn><subparagraph name="1" temporalId="s25B_5_b_1" id="ID_1490324223232_017"><num value="1">(i)</num><content>is to be construed in relation to the prescribed person as if it applied to a prescribed person that has submitted the previous transaction information for the transaction to the Monetary Authority on the specification day; and</content></subparagraph><subparagraph name="2" temporalId="s25B_5_b_2" id="ID_1490324223232_018"><num value="2">(ii)</num><content>applies until the reporting day to the prescribed person in relation to a subsequent event that occurs on or after the specification day as if the transaction information required to be submitted to the Monetary Authority for the subsequent event is the previous transaction information;</content></subparagraph></paragraph><paragraph name="c" temporalId="s25B_5_c" id="ID_1490324223232_019"><num value="a">(c)</num><content><ref>rule 25A(1)</ref> is to be construed in relation to the prescribed person as if it applied to a prescribed person that has submitted the previous transaction information for the transaction to the Monetary Authority on the specification day.</content></paragraph></subsection><subsection name="6" temporalId="s25B_6" id="ID_1490324223232_020"><num value="1">(6)</num><content>For the purposes of <ref>subrule (5)(a)(i)</ref>, <ref>(b)(i)</ref> and <ref>(c)</ref>, the prescribed person is taken to have submitted the previous transaction information referred to in <ref>subrule (2)(b)</ref> to the Monetary Authority on the specification day.</content></subsection><subsection name="7" temporalId="s25B_7" id="ID_1490324223232_021"><num value="2A">(7)</num><leadIn>If, in relation to a transaction referred to in <ref>subrule (3)</ref>, on or after the specification day and before 1 July 2018, a subsequent event occurs that has the effect of extending the maturity day of the transaction to a day that is on or after 1 July 2018 (<b><i>extending event</i></b>), then—</leadIn><paragraph name="a" temporalId="s25B_7_a" id="ID_1490324223248_022"><num value="a">(a)</num><content>on and from the day on which the extending event occurs, <ref>subrule (3)</ref> ceases to apply to the prescribed person in relation to the transaction and, subject to paragraph (b), <ref>subrule (5)</ref> applies to the person in relation to the transaction; and</content></paragraph><paragraph name="b" temporalId="s25B_7_b" id="ID_1490324223248_023"><num value="a">(b)</num><content>if the extending event occurs on or after the last day of the grace period, <ref>subrule (5)(a)(ii)</ref> is to be construed as if the reference to the last day of the grace period is a reference to a day that is no later than 2 business days after the day on which the extending event occurs.</content></paragraph></subsection><subsection name="8" temporalId="s25B_8" id="ID_1490324223248_024"><num value="8">(8)</num><leadIn>In this rule—</leadIn><def xml:lang="zh-Hant-HK" name="AdditionalTransactionInformation"><term>additional transaction information</term> (<term xml:lang="zh-Hant-HK">額外的交易資料</term>) means transaction information that is not previous transaction information;</def><def xml:lang="zh-Hant-HK" name="PreviousTransactionInformation"><term>previous transaction information</term> (<term xml:lang="zh-Hant-HK">先前的交易資料</term>) means information and particulars that constituted the transaction information within the meaning of the previous Rules.</def></subsection><sourceNote class="align_right">(<ref href="hk/2016/ln30">L.N. 30 of 2016</ref>)<marker role="blank-line"></marker></sourceNote></section><section name="s26" reason="inEffect" role="rule" startPeriod="2017-07-01" status="operational" temporalId="s26" id="ID_1438403474723_001"><num value="26">26.</num><heading>Submitting counterparty identifying particulars in certain circumstances</heading><subsection name="1" temporalId="s26_1" id="ID_1490325415922_001"><num value="1">(1)</num><leadIn>A prescribed person that submits the transaction information for a specified OTC
+                derivative transaction to the Monetary Authority in accordance with
+                    <ref>rule
+                    23</ref>
+                or <ref>24</ref> (including a prescribed person that submits the transaction
+                information for a specified OTC derivative transaction to the Monetary Authority
+                despite
+                    <ref>rule
+                    23(5)</ref>) may submit counterparty masking particulars
+                instead of counterparty identifying particulars in relation to a counterparty to the
+                transaction (other than the person) if—
+                <sourceNote>(<ref href="hk/2016/ln30">L.N. 30 of
+                2016</ref>)</sourceNote></leadIn><paragraph name="a" temporalId="s26_1_a" id="ID_1490325415984_002"><num value="a">(a)</num><leadIn>both of the following requirements are satisfied—</leadIn><subparagraph name="1" temporalId="s26_1_a_1" id="ID_1490325416000_003"><num value="i">(i)</num><content>the submission of the counterparty identifying particulars is
+                        prohibited under the laws of, or by an authority or regulatory organization
+                        in, a jurisdiction;</content></subparagraph><subparagraph name="2" temporalId="s26_1_a_2" id="ID_1490325416000_004"><num value="ii">(ii)</num><content>the jurisdiction referred to in subparagraph (i) is a jurisdiction
+                        designated by the Commission in accordance with subrule (3); or</content></subparagraph></paragraph><paragraph name="b" temporalId="s26_1_b" id="ID_1490325416000_005"><num value="b">(b)</num><leadIn>both of the following requirements are satisfied—</leadIn><subparagraph name="1" temporalId="s26_1_b_1" id="ID_1490325416000_006"><num value="i">(i)</num><content>the transaction is entered into
+                        before
+                        10 January 2016; <sourceNote>(<ref href="hk/2016/ln30">L.N. 30 of
+                            2016</ref>)</sourceNote></content></subparagraph><subparagraph name="2" temporalId="s26_1_b_2" id="ID_1490325416015_007"><num value="ii">(ii)</num><content>the counterparty consent limitation applies to the person in relation
+                        to the transaction.</content></subparagraph></paragraph></subsection><subsection name="2" temporalId="s26_2" id="ID_1490325416015_008"><num value="2">(2)</num><leadIn>A prescribed person that has submitted counterparty masking particulars under
+                subrule (1) must submit counterparty identifying particulars in relation to the
+                counterparty to the transaction within the following period, unless the transaction
+                has matured or been terminated by the last day of the period—</leadIn><paragraph name="a" temporalId="s26_2_a" id="ID_1490325416015_009"><num value="a">(a)</num><leadIn>if the person submitted the counterparty masking particulars under subrule
+                        <ref>(1)(a)</ref> and the prohibition referred to in subrule
+                        <ref>(1)(a)(i)</ref> ceases to apply to the transaction—</leadIn><subparagraph name="1" temporalId="s26_2_a_1" id="ID_1490325416031_010"><num value="i">(i)</num><content>unless subparagraph (ii) applies, 3 months after the day on which the
+                        Commission revokes the designation of the jurisdiction under subrule (4);
+                        or</content></subparagraph><subparagraph name="2" temporalId="s26_2_a_2" id="ID_1490325416031_011"><num value="ii">(ii)</num><content>if the counterparty consent limitation applies to the person in
+                        relation to the transaction on the last day of the period referred to in
+                        subparagraph (i), 1 month after the day on which the counterparty consent
+                        limitation ceases to apply to the person in relation to the
+                        transaction;</content></subparagraph></paragraph><paragraph name="b" temporalId="s26_2_b" id="ID_1490325416031_012"><num value="b">(b)</num><content>if the person submitted the counterparty masking particulars under subrule
+                        <ref>(1)(b)</ref>, 1 month after the day on which the counterparty consent
+                    limitation ceases to apply to the person in relation to the
+                    transaction.</content></paragraph></subsection><subsection name="3" temporalId="s26_3" id="ID_1490325416031_013"><num value="3">(3)</num><content>For the purposes of subrule <ref>(1)(a)(ii)</ref>, the Commission may, with the consent of the Monetary Authority and by notice published in the Gazette, designate any jurisdiction outside Hong Kong if the Commission is satisfied that it is likely that the laws of, or an authority or regulatory organization in, that jurisdiction would prohibit the submission of the counterparty identifying particulars in relation to a counterparty to a specified OTC derivative transaction.</content></subsection><subsection name="4" temporalId="s26_4" id="ID_1490325416031_014"><num value="4">(4)</num><content>The Commission may, with the consent of the Monetary Authority and by notice published in the Gazette, revoke the designation of a jurisdiction made under subrule (3).<marker role="section-break"></marker></content></subsection><subsection name="5" temporalId="s26_5" id="ID_1490325416031_015"><num value="5">(5)</num><content>A notice published in the Gazette by the Commission under subrule (3) or (4) is not subsidiary legislation.</content></subsection><subsection name="6" temporalId="s26_6" id="ID_1490325416031_016"><num value="6">(6)</num><leadIn>In this rule—</leadIn><def name="CounterpartyConsentLimitation"><term>counterparty consent limitation</term>
+                    (<term xml:lang="zh-Hant-HK">對手方的同意限制</term>), in relation to a prescribed
+                person, means the person cannot submit counterparty identifying particulars for a
+                specified OTC derivative transaction because the person is required to obtain
+                consent from a counterparty to the transaction (other than the person) to the
+                submission of the particulars and, despite reasonable efforts, the person has been
+                unable to obtain consent from the counterparty;</def><def name="CounterpartyIdentifyingParticulars">
+                
+                <leadIn><term>counterparty identifying particulars</term> (<term xml:lang="zh-Hant-HK">識別對手方身分的詳情</term>) means the following transaction
+                    information—</leadIn>
+                <paragraph name="a" temporalId="s26_6_a" id="ID_1490325416031_017"><num value="a">(a)</num><content>the name of a counterparty to a specified OTC derivative
+                        transaction;</content></paragraph>
+                <paragraph name="b" temporalId="s26_6_b" id="ID_1490325416031_018"><num value="b">(b)</num><content>any identifying reference of, or assigned to, a counterparty to a
+                        specified OTC derivative transaction, and the type of the identifying
+                        reference; <sourceNote>(<ref href="hk/2016/ln30">L.N. 30 of
+                            2016</ref>)</sourceNote></content></paragraph>
+                
+                
+            </def><def name="CounterpartyMaskingParticulars"><term>counterparty masking particulars</term>
+                    (<term xml:lang="zh-Hant-HK">掩蓋對手方身分的詳情</term>) means the particulars of a
+                counterparty to a specified OTC derivative transaction which describe the
+                counterparty in a way which prevents the ascertainment of the identity of the
+                counterparty.</def></subsection></section></division></part><part id="ID_1438403474723_003" name="P3" reason="inEffect" startPeriod="2015-07-10" status="operational" temporalId="P3"><num value="3">Part 3</num><heading>Record Keeping Obligation</heading><section id="ID_1438403474739_001" name="s27" reason="inEffect" role="rule" startPeriod="2015-07-10" status="operational" temporalId="s27"><num value="27">27.</num><heading>Prescribed persons to keep records in relation to transactions</heading><content>A prescribed person must, in relation to a specified OTC derivative transaction, keep the records specified in <ref>rule 29(1)</ref> in the manner specified in <ref>rule 30</ref> until no earlier than 5 years after the transaction has matured or been terminated.</content></section><section name="s28" reason="inEffect" role="rule" startPeriod="2017-07-01" status="operational" temporalId="s28" id="ID_1438403474739_003"><num value="28">28.</num><heading>Prescribed persons to keep records even if
+            counterparty
+            is, or transaction was entered into or conducted, outside Hong Kong
+            </heading><sourceNote>(<ref href="hk/2016/ln30">L.N. 30 of 2016</ref>)</sourceNote><leadIn><ref>Rule 27</ref> applies to a specified OTC derivative transaction even
+            if—</leadIn><paragraph name="a" temporalId="s28_a" id="ID_1490325632802_001"><num value="a">(a)</num><content>a counterparty, or more than one counterparty, to the transaction is a person
+                outside Hong Kong; or</content></paragraph><paragraph name="b" temporalId="s28_b" id="ID_1490325632802_002"><num value="b">(b)</num><content>the transaction was entered into or conducted wholly or partially outside Hong
+                Kong.</content></paragraph></section><section name="s29" reason="inEffect" role="rule" startPeriod="2024-10-02" status="operational" temporalId="s29" id="ID_1438403474739_005"><num value="29">29.</num><heading>Records to be kept by prescribed persons</heading><subsection name="1" temporalId="s29_1" id="ID_1490325784036_001"><num value="1">(1)</num><leadIn>The records that a prescribed person must keep in relation to a specified OTC
+                derivative transaction are—</leadIn><paragraph name="a" temporalId="s29_1_a" id="ID_1490325784036_002"><num value="a">(a)</num><content>records sufficient to demonstrate that the person has complied with
+                        <ref>rule 9</ref>;</content></paragraph><paragraph name="b" temporalId="s29_1_b" id="ID_1490325784036_003"><num value="b">(b)</num><leadIn>without limiting paragraph (a)—</leadIn><subparagraph name="i" temporalId="s29_1_b_i" id="ID_1490325784036_004"><num value="i">(i)</num><content>the records specified in <ref>Schedule 2</ref> relating to the
+                        transaction; and</content></subparagraph><subparagraph name="ii" temporalId="s29_1_b_ii" id="ID_1490325784036_005"><num value="ii">(ii)</num><leadIn>if the person engaged an agent to report the transaction to the Monetary
+                        Authority on its behalf—</leadIn><subparagraph name="A" role="subSubParagraph" temporalId="s29_1_b_ii_A" id="ID_1490325784036_006"><num value="A">(A)</num><content>records relating to the agreement between the person and the agent;
+                            and</content></subparagraph><subparagraph name="B" role="subSubParagraph" temporalId="s29_1_b_ii_B" id="ID_1490325784036_007"><num value="B">(B)</num><content>records sufficient to demonstrate that the person monitored the
+                            reporting by the agent;</content></subparagraph></subparagraph></paragraph><paragraph name="c" temporalId="s29_1_c" id="ID_1490325784036_008"><num value="c">(c)</num><leadIn>if <ref>rule 10</ref>, <ref>11</ref>, <ref>12</ref> or <ref>13</ref> (as
+                    applicable) does not apply to the person in relation to the transaction because
+                    the person is an exempt person—
+                    <sourceNote>(<ref href="hk/2016/ln30">L.N. 30 of
+                    2016</ref>)</sourceNote></leadIn><subparagraph name="i" temporalId="s29_1_c_i" id="ID_1490325784083_009"><num value="i">(i)</num><content>the records specified in <ref>Schedule 2</ref> relating to the
+                        transaction; and</content></subparagraph><subparagraph name="ii" temporalId="s29_1_c_ii" id="ID_1490325784083_010"><num value="ii">(ii)</num><content>records sufficient to demonstrate that the person satisfied the
+                        requirements in <ref>rule 3(2)</ref> at the time the person would, but for
+                            <ref>rule 3</ref>, have been required to report the transaction to the
+                        Monetary Authority, including records of any calculation performed for the
+                        purpose of ascertaining whether the person satisfied the requirement in
+                            <ref>rule 3(2)(a)</ref>;</content></subparagraph></paragraph><paragraph name="ca" temporalId="s29_1_ca" id="ID_1724905304545_001"><num value="ca">(ca)</num><leadIn>if <ref>rule 10</ref>, <ref>11</ref> or <ref>12</ref> (as applicable) does
+                    not apply to the person in relation to the transaction by virtue of <ref>rule
+                        10(3)(b)</ref>, <ref>11(3)(b)</ref> or <ref>12(3)(b)</ref>—</leadIn><subparagraph name="i" temporalId="s29_1_ca_i" id="ID_1724905304561_002"><num value="i">(i)</num><content>the records specified in Schedule 2 relating to the transaction;
+                        and</content></subparagraph><subparagraph name="i" temporalId="s29_1_ca_i" id="ID_1724905304561_003"><num value="i">(ii)</num><content>records sufficient to demonstrate that the person is a counterparty to
+                        the transaction in the person&apos;s capacity as a trustee of a relevant CIS;
+                                <sourceNote>(<ref href="hk/2023/ln61">L.N. 61 of
+                            2023</ref>)</sourceNote></content></subparagraph></paragraph><paragraph name="d" temporalId="s29_1_d" id="ID_1490325784083_011"><num value="d">(d)</num><content>if <ref>rule 17</ref> or <ref>18</ref> applies to the person in relation to
+                    the transaction (the affiliate of the person has reported the entering into of
+                    the transaction or the subsequent event to the Monetary Authority), the
+                    confirmation received from the affiliate; and</content></paragraph><paragraph name="e" temporalId="s29_1_e" id="ID_1490325784083_012"><num value="e">(e)</num><content>if rule
+                    <ref>23(5)</ref> applies to the person in relation to the transaction (the
+                    transaction has matured or been terminated before the end of the grace period),
+                    the records specified in <ref>Schedule 2</ref> relating to the transaction.
+                    <sourceNote>(<ref href="hk/2016/ln30">L.N. 30 of
+                    2016</ref>)</sourceNote></content></paragraph></subsection><subsection name="2" temporalId="s29_2" id="ID_1490325784098_013"><num value="2">(2)</num><sourceNote>(Repealed <ref href="hk/2016/ln30">L.N. 30 of 2016</ref>)</sourceNote></subsection></section><section id="ID_1438403474754_002" name="s30" reason="inEffect" role="rule" startPeriod="2015-07-10" status="operational" temporalId="s30"><num value="30">30.</num><heading>Manner in which records to be kept</heading><content>A prescribed person must, in relation to a specified OTC derivative transaction, keep the records specified in <ref>rule 29(1)</ref> in a manner that enables the records to be readily accessible.</content></section></part><part id="ID_1438403474754_004" name="P4" reason="inEffect" startPeriod="2015-07-10" status="operational" temporalId="P4"><num value="4">Part 4</num><heading>Subsidiaries Specified by Monetary Authority under <ref>Section 101B(5)</ref> or <ref>101E(5)</ref> of Ordinance—Reporting and Record Keeping Obligations</heading><section id="ID_1438403474754_006" name="s31" reason="inEffect" role="rule" startPeriod="2015-07-10" status="operational" temporalId="s31"><num value="31">31.</num><heading>Interpretation of <ref>Part 4</ref></heading><leadIn>In this Part—</leadIn><def name="CessationDay"><term>cessation day</term> (<term xml:lang="zh-Hant-HK">終止日期</term>), in relation to a specified subsidiary, means the day notified by the Monetary Authority to the authorized financial institution incorporated in Hong Kong of which it is a subsidiary as the day on which the specification of the subsidiary is to cease to have effect for the purposes of <ref>section 101B(3)</ref> or <ref>101E(3)</ref> (as applicable) of the Ordinance;</def><def name="EffectiveDay"><leadIn><term>effective day</term> (<term xml:lang="zh-Hant-HK">生效日期</term>), in relation to a specified subsidiary, means the later of—</leadIn><paragraph id="ID_1438413480576_026" name="a" temporalId="s31_a"><num value="a">(a)</num><content>the day on which the Monetary Authority’s written notice under <ref>section 101B(5)</ref> or <ref>101E(5)</ref> (as applicable) of the Ordinance is given to the authorized financial institution incorporated in Hong Kong of which it is a subsidiary; and</content></paragraph><paragraph id="ID_1438413480592_006" name="b" temporalId="s31_b"><num value="b">(b)</num><content>the day specified in the notice referred to in paragraph (a) as the day on which the specification of the subsidiary is to take effect for the purposes of <ref>section 101B(3)</ref> or <ref>101E(3)</ref> (as applicable) of the Ordinance;</content></paragraph></def><def name="SpecifiedSubsidiary"><leadIn><term>specified subsidiary</term> (<term xml:lang="zh-Hant-HK">指明附屬公司</term>), in relation to a prescribed person that is an authorized financial institution incorporated in Hong Kong, means—</leadIn><paragraph id="ID_1438413480592_020" name="a" temporalId="s31_a-1"><num value="a">(a)</num><content>in relation to the reporting obligation, a subsidiary specified by the Monetary Authority under <ref>section 101B(5)</ref> of the Ordinance for the purposes of <ref>section 101B(3)</ref> of the Ordinance; and</content></paragraph><paragraph id="ID_1438413480592_028" name="b" temporalId="s31_b-1"><num value="b">(b)</num><content>in relation to the record keeping obligation, a subsidiary specified by the Monetary Authority under <ref>section 101E(5)</ref> of the Ordinance for the purposes of <ref>section 101E(3)</ref> of the Ordinance.</content></paragraph></def></section><section name="s32" reason="inEffect" role="rule" startPeriod="2017-07-01" status="operational" temporalId="s32" id="ID_1438403474770_002"><num value="32">32.</num><heading>Reporting and record keeping obligations applicable to authorized financial
+            institutions incorporated in Hong Kong in respect of specified subsidiaries</heading><subsection name="1" temporalId="s32_1" id="ID_1490326011286_001"><num value="1">(1)</num><content>Subject to subrule (6), for the purposes of <ref>section 101B(3)</ref> of the
+                Ordinance, a prescribed person that is an authorized financial institution
+                incorporated in Hong Kong must ensure that a specified subsidiary of the institution
+                complies with the requirement in subrule (2).</content></subsection><subsection name="2" temporalId="s32_2" id="ID_1490326011286_002"><num value="2">(2)</num><content>The requirement referred to in subrule (1) is that, subject to the
+                modifications specified in subrule (5), the specified subsidiary complies with
+                    <ref>rules 9</ref> and <ref>11</ref> in relation to a specified OTC derivative
+                transaction to which it is a counterparty, as if it were an authorized financial
+                institution incorporated in Hong Kong to which <ref>rule 11(1)(a)</ref>
+                applies.</content></subsection><subsection name="3" temporalId="s32_3" id="ID_1490326011286_003"><num value="3">(3)</num><content>For the purposes of <ref>section 101E(3)</ref> of the Ordinance, a prescribed
+                person that is an authorized financial institution incorporated in Hong Kong must
+                ensure that a specified subsidiary of the institution complies with the requirement
+                in subrule (4).</content></subsection><subsection name="4" temporalId="s32_4" id="ID_1490326011286_004"><num value="4">(4)</num><content>The requirement referred to in subrule (3) is that, subject to the
+                modifications specified in subrule (5), the specified subsidiary complies with
+                    <ref>rule 27</ref> in relation to a specified OTC derivative transaction to
+                which it is a counterparty, as if it were an authorized financial institution
+                incorporated in Hong Kong to which that rule applies.</content></subsection><subsection name="5" temporalId="s32_5" id="ID_1490326011301_005"><num value="5">(5)</num><leadIn>The modifications referred to in subrules (2) and (4) are—</leadIn><paragraph name="a" temporalId="s32_5_a" id="ID_1490326011301_006"><num value="a">(a)</num><content>a
+                    reference to a prescribed person, or to a prescribed person that is an
+                    authorized financial institution incorporated in Hong Kong (other than an
+                    institution that is an exempt person), is to be construed as a reference to a
+                    specified subsidiary;
+                    <sourceNote>(<ref href="hk/2016/ln30">L.N. 30 of
+                    2016</ref>)</sourceNote></content></paragraph><paragraph name="b" temporalId="s32_5_b" id="ID_1490326011364_007"><num value="b">(b)</num><content>a
+                    reference to the starting day in relation to a prescribed person is to be
+                    construed, in relation to a specified subsidiary, as a reference to the
+                    effective day; and <sourceNote>(<ref href="hk/2016/ln30">L.N. 30 of
+                        2016</ref>)</sourceNote></content></paragraph><paragraph name="c" temporalId="s32_5_c" id="ID_1490326011395_008"><num value="c">(c)</num><content>a reference to a day on which a person ceases to be a prescribed person is
+                    to be construed in relation to a specified subsidiary as a reference to the
+                    cessation day.</content></paragraph></subsection><subsection name="6" temporalId="s32_6" id="ID_1490326011395_009"><num value="6">(6)</num><content>This rule is not to be construed as requiring an authorized financial
+                institution incorporated in Hong Kong to ensure that a specified subsidiary of the
+                institution complies with <ref>rule 9</ref> in relation to a specified OTC
+                derivative transaction to which the subsidiary is a counterparty, if <ref>rule
+                    11(1)(b)</ref> requires the institution to report the same transaction to the
+                Monetary Authority.</content></subsection></section><section name="s33" temporalId="s33" startPeriod="2017-07-01" id="ID_1489473176980_001" status="operational" reason="inEffect"><num value="33">33.</num><heading>Transitional
+            arrangements for specification of subsidiary made before specification
+            day</heading><subsection name="1" temporalId="s33_1" id="ID_1490326087177_001"><num value="1">(1)</num><content>A specification of a subsidiary by the Monetary Authority under <ref>section
+                    101B(5)</ref> of the Ordinance for the purposes of <ref>section 101B(3)</ref> of
+                the Ordinance, that was in force immediately before the specification day continues
+                to have effect on and after the specification day as if the specification was made
+                on the specification day.</content></subsection><subsection name="2" temporalId="s33_2" id="ID_1490326087193_002"><num value="2">(2)</num><content>A specification of a subsidiary by the Monetary Authority under <ref>section
+                    101E(5)</ref> of the Ordinance for the purposes of section <ref>101E(3)</ref> of
+                the Ordinance, that was in force immediately before the specification day continues
+                to have effect on and after the specification day as if the specification was made
+                on the specification day.</content></subsection><sourceNote>(<ref href="hk/2016/ln30">L.N. 30 of 2016</ref>)</sourceNote></section></part><schedule id="ID_1438403474786_001" name="sch1" reason="inEffect" startPeriod="2017-07-01" status="operational" temporalId="sch1"><num value="1">Schedule 1</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap571AL/s2">rr. 2</ref> &amp; <ref href="/hk/cap571AL/s2A">2A</ref>]</note><heading>Transaction Information to be Submitted to Monetary Authority<marker role="blank-line"></marker><marker role="blank-line"></marker></heading><text>
+            
+            <table xmlns="http://www.w3.org/1999/xhtml" frame="void" class="repeat_header">
+                <col width="20%"></col>
+                <col width="12%"></col>
+                <col width="68%"></col>
+                <thead>
+                    <tr>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">Column 1<marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                        <td colspan="2" class="align_left cellpadding_left_5 cellpadding_right_5">
+                            
+                            
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Column 2</center>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    
+                    
+                    <tr>
+                        <td class="align_left valign_bottom cellpadding_left_5 cellpadding_right_5">
+                            <p>Item<marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></p>
+                        </td>
+                        <td colspan="2" class="align_left valign_bottom cellpadding_left_5 cellpadding_right_5">
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Category of information and particulars relating to specified OTC derivative transaction, and to persons involved in transaction<marker role="blank-line"></marker></center>
+                        </td>
+                    </tr>
+                    
+                    
+                </thead>
+                <tbody>
+                    
+                    
+                    
+                    <tr>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5" rowspan="5">
+                            <p class="align_justified first_line_indent_0">1.</p>
+                            
+                            
+                            
+                        </td>
+                        <td colspan="2" class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>Information and particulars relating to the Monetary Authority’s administration of the reporting of the transaction, including information and particulars identifying—</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        
+                        
+                        <td class="align_right cellpadding_left_5 cellpadding_right_5">
+                            <p class="right_indent_0">(a)</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>the nature of the report;</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        
+                        
+                        <td class="align_right cellpadding_left_5 cellpadding_right_5">
+                            <p class="right_indent_0">(b)</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>the person submitting the report;</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        
+                        
+                        <td class="align_right cellpadding_left_5 cellpadding_right_5">
+                            <p class="right_indent_0">(c)</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>the person that is required to comply with the reporting obligation; and</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_right cellpadding_left_5 cellpadding_right_5">
+                            <p class="right_indent_0">(d)</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>if the person that is required to comply with the reporting obligation is regarded as having conducted the transaction in Hong Kong on behalf of an affiliate of the person, the affiliate.<marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></p>
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_justified first_line_indent_0">2.</p>
+                        </td>
+                        <td colspan="2" class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>Information and particulars relating to the class or type of product to which the transaction belongs.<marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></p>
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5" rowspan="6">
+                            <p class="align_justified first_line_indent_0">3.</p>
+                            
+                            
+                            
+                        </td>
+                        <td colspan="2" class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>Days and periods relating to the transaction, including—</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        
+                        
+                        <td class="align_right cellpadding_left_5 cellpadding_right_5">
+                            <p class="right_indent_0">(a)</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>the day on which the transaction was entered into or on which a subsequent event is agreed;</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        
+                        
+                        <td class="align_right cellpadding_left_5 cellpadding_right_5">
+                            <p class="right_indent_0">(b)</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>the day on which the transaction or a subsequent event becomes effective;</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        
+                        
+                        <td class="align_right cellpadding_left_5 cellpadding_right_5">
+                            <p class="right_indent_0">(c)</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>the day on which the transaction matures or terminates;</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        
+                        
+                        <td class="align_right cellpadding_left_5 cellpadding_right_5">
+                            <p class="right_indent_0">(d)</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>dates or periods relating to a feature of the class or type of product to which the transaction belongs; and</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_right cellpadding_left_5 cellpadding_right_5">
+                            <p class="right_indent_0">(e)</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>dates or periods relating to the reporting of a transaction that is outstanding as at a particular time.<marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></p>
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_justified first_line_indent_0">4.</p>
+                        </td>
+                        <td colspan="2" class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>Information and particulars relating to the counterparties to the transaction, including names, places of incorporation or residence, identifying references, and rights and obligations arising under, or relating to, the transaction.</p>
+                            
+                            
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5" rowspan="6">
+                            <p class="align_justified first_line_indent_0">5.</p>
+                            
+                            
+                            
+                        </td>
+                        <td colspan="2" class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>Information and particulars relating to pricing of the transaction (other than valuation transaction information), including—</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        
+                        
+                        <td class="align_right cellpadding_left_5 cellpadding_right_5">
+                            <p class="right_indent_0">(a)</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>notional amounts and schedules;</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        
+                        
+                        <td class="align_right cellpadding_left_5 cellpadding_right_5">
+                            <p class="right_indent_0">(b)</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>reference and settlement currencies;</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        
+                        
+                        <td class="align_right cellpadding_left_5 cellpadding_right_5">
+                            <p class="right_indent_0">(c)</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>agreed prices, rates or indices;</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        
+                        
+                        <td class="align_right cellpadding_left_5 cellpadding_right_5">
+                            <p class="right_indent_0">(d)</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>settlement details; and</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_right cellpadding_left_5 cellpadding_right_5">
+                            <p class="right_indent_0">(e)</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>other features or details specific to the class or type of product to which the transaction belongs that may affect the value of the transaction.</p>
+                            
+                            
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_justified first_line_indent_0">6.</p>
+                        </td>
+                        
+                        <td colspan="2" class="align_left cellpadding_left_5 cellpadding_right_5">
+                            
+                            
+                            <p>Information and particulars relating to the confirmation of the transaction, including the platform through which, and the manner in which, the transaction was confirmed and any identifying reference assigned to the transaction by the confirmation platform.<marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></p>
+                            
+                            
+                            
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5" rowspan="5">
+                            <p class="align_justified first_line_indent_0">7.</p>
+                            
+                            
+                            
+                        </td>
+                        <td colspan="2" class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>Information and particulars relating to the execution of the transaction, including—</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        
+                        
+                        <td class="align_right cellpadding_left_5 cellpadding_right_5">
+                            <p class="right_indent_0">(a)</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>the platform through which, and the manner in which, the transaction was executed;</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        
+                        
+                        <td class="align_right cellpadding_left_5 cellpadding_right_5">
+                            <p class="right_indent_0">(b)</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>any identifying reference assigned to the transaction by the execution platform;</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        
+                        
+                        <td class="align_right cellpadding_left_5 cellpadding_right_5">
+                            <p class="right_indent_0">(c)</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>the day on which, and the time at which, the transaction was executed; and</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_right cellpadding_left_5 cellpadding_right_5">
+                            <p class="right_indent_0">(d)</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>any agent involved in the execution of the transaction.<marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5" rowspan="4">
+                            <p class="align_justified first_line_indent_0">8.</p>
+                            
+                            
+                            
+                        </td>
+                        <td colspan="2" class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>Information and particulars relating to the clearing of the transaction, including—</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        
+                        
+                        <td class="align_right cellpadding_left_5 cellpadding_right_5">
+                            <p class="right_indent_0">(a)</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>whether the transaction was, or is intended to be, cleared through a central counterparty;</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        
+                        
+                        <td class="align_right cellpadding_left_5 cellpadding_right_5">
+                            <p class="right_indent_0">(b)</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>if applicable, the central counterparty through which the transaction was, or is intended to be, cleared;</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        
+                        
+                        <td class="align_right cellpadding_left_5 cellpadding_right_5">
+                            <p class="right_indent_0">(c)</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>identifying references assigned to the original transaction before it is cleared, and the 2 new transactions resulting from the clearing process;</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        
+                        
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5" rowspan="2"></td>
+                        
+                        
+                        <td class="align_right cellpadding_left_5 cellpadding_right_5">
+                            <p class="right_indent_0">(d)</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>the client clearing services provider (if any) involved in, or intended to be involved in, clearing the transaction; and</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        
+                        
+                        <td class="align_right cellpadding_left_5 cellpadding_right_5">
+                            <p class="right_indent_0">(e)</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>whether or not the clearing obligation applies to the transaction.<marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></p>
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_justified first_line_indent_0">9.</p>
+                        </td>
+                        <td colspan="2" class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>Information and particulars relating to whether and how the transaction arises from, or is amended as a result of, a portfolio compression exercise.<marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></p>
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_justified first_line_indent_0">10.</p>
+                        </td>
+                        <td colspan="2" class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>Particulars of any identifying reference assigned to the transaction (being types of references that may be accepted by the Monetary Authority, as specified by the Monetary Authority in the directions and instructions published under rule 21(2)).<marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></p>
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5" rowspan="5">
+                            <p class="align_justified first_line_indent_0">11.</p>
+                            
+                            
+                            <p></p>
+                            
+                            
+                            <p></p>
+                            
+                            
+                            <p></p>
+                            
+                            
+                            <p></p>
+                            
+                            
+                        </td>
+                        <td colspan="2" class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>Information and particulars relating to the valuation of the transaction, including—</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        
+                        
+                        <td class="align_right cellpadding_left_5 cellpadding_right_5">
+                            <p class="right_indent_0">(a)</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>the basis of the valuation;</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        
+                        
+                        <td class="align_right cellpadding_left_5 cellpadding_right_5">
+                            <p class="right_indent_0">(b)</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>the day on which, and the time at which, the valuation was calculated;</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        
+                        
+                        <td class="align_right cellpadding_left_5 cellpadding_right_5">
+                            <p class="right_indent_0">(c)</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>the value of the transaction; and</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_right cellpadding_left_5 cellpadding_right_5">
+                            <p class="right_indent_0">(d)</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>the currency in which the value is denominated.<marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></p>
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5" rowspan="4">
+                            <p class="align_justified first_line_indent_0">12.</p>
+                            
+                            
+                            
+                        </td>
+                        <td colspan="2" class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>Information and particulars relating to a subsequent event, including—</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        
+                        
+                        <td class="align_right cellpadding_left_5 cellpadding_right_5">
+                            <p class="right_indent_0">(a)</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>the day on which the event occurred;</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_right cellpadding_left_5 cellpadding_right_5">
+                            <p class="right_indent_0">(b)</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>the type of the event; and</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_right cellpadding_left_5 cellpadding_right_5">
+                            <p class="right_indent_0">(c)</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>the changes resulting from the event to information or particulars submitted to the Monetary Authority.<marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></p>
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_justified first_line_indent_0">13.</p>
+                        </td>
+                        <td colspan="2" class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p>Other information and particulars relating to the transaction, or to the persons involved in the transaction.</p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </text><sourceNote>(<ref>Schedule 1</ref> replaced <ref href="hk/2016/ln30">L.N. 30 of 2016</ref>)</sourceNote></schedule><schedule id="ID_1438403474786_003" name="sch2" reason="inEffect" startPeriod="2015-07-10" status="operational" temporalId="sch2"><num value="2">Schedule 2</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap571AL/s29">rule 29</ref>]</note><heading>Records to be Kept by Prescribed Persons</heading><section id="ID_1438413481044_012" name="1" temporalId="sch2_1" class="no_header"><num value="1">1.</num><content>Records evidencing the existence and
+                                                  purpose of the specified OTC derivative
+                                                  transaction, including all agreements relating to
+                                                  the
+                                                  transaction.</content></section><section id="ID_1438413481060_004" name="2" temporalId="sch2_2" class="no_header"><num value="2">2.</num><content>Records showing particulars of the
+                                                  execution of the specified OTC derivative
+                                                  transaction, including orders, ledgers and
+                                                  confirmations of the
+                                                  transaction.</content></section><section id="ID_1438413481060_012" name="3" temporalId="sch2_3" class="no_header"><num value="3">3.</num><content>Records showing particulars of the terms
+                                                  and conditions of the specified OTC derivative
+                                                  transaction, including particulars relating to all
+                                                  payments and margin requirements relating to the
+                                                  transaction.</content></section><section id="ID_1438413481060_020" name="4" temporalId="sch2_4" class="no_header"><num value="4">4.</num><content>Records sufficient to demonstrate that the
+                                                  transaction information submitted to the Monetary
+                                                  Authority under <ref>Division 3 of Part 2</ref>
+                                                  was accurate.</content></section></schedule></main></subLeg>

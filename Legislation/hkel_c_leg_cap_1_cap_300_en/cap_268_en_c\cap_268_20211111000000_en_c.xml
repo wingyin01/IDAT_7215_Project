@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?><ordinance xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd" xml:lang="en"><meta><docName>Cap. 268</docName><docType>cap</docType><docNumber>268</docNumber><docStatus>In effect</docStatus><dc:identifier>/hk/cap268!en</dc:identifier><dc:date>2021-11-11</dc:date><dc:subject>legislation</dc:subject><dc:language>en</dc:language><dc:publisher>DoJ</dc:publisher><dc:rights>the Government of the Hong Kong Special Administrative Region</dc:rights></meta><main xml:lang="en" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd"><longTitle id="ID_1438402912018_002" name="longTitle" reason="inEffect" status="operational" temporalId="longTitle" startPeriod="2021-11-11">
+            <content>To provide for the registration of local newspapers and news agencies and the
+                licensing of newspaper distributors and for matters connected therewith.</content>
+        </longTitle><sourceNote>(Replaced <ref href="/hk/1987/15">15 of 1987 s.
+            2</ref>)<marker role="blank-line"></marker><marker role="blank-line"></marker></sourceNote><commencementNote>[1 July 1951]<sourceNote><inline class="width_3"> </inline><ref href="/hk/1951/gna114">G.N.A. 114 of 1951</ref></sourceNote></commencementNote><sourceNote>(Format changes—<ref href="hk/2021/er5">E.R. 5 of 2021</ref>)</sourceNote><section id="ID_1438402912033_002" name="s1" reason="inEffect" startPeriod="2021-11-11" status="operational" temporalId="s1"><num value="1">1.</num><heading>Short title</heading><content>This Ordinance may be cited as the <shortTitle>Registration of Local Newspapers Ordinance</shortTitle>.</content><sourceNote>(Amended <ref href="/hk/1987/15">15 of 1987 s. 3</ref>)</sourceNote></section><section id="ID_1438402912049_001" name="s2" reason="inEffect" startPeriod="2021-11-11" status="operational" temporalId="s2"><num value="2">2.</num><heading>Interpretation</heading><leadIn>In this Ordinance, unless the context otherwise requires—</leadIn><def name="Address"><term>address</term>
+                (<term xml:lang="zh-Hant-HK">地址</term>) in the case of an individual means his
+            residence or usual place of business, and in the case of a corporation means the head
+            office of such corporation within Hong Kong;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1987/15">15 of 1987 s.
+                4</ref>)</sourceNote></def><def name="Contravene"><term>contravene</term>
+                (<term xml:lang="zh-Hant-HK">違反</term>) includes a failure to comply;</def><def name="Editor"><term>editor</term>
+                (<term xml:lang="zh-Hant-HK">編輯</term>) means the chief editor if there are more
+            editors than one, and includes any person acting as chief editor or performing any of
+            the usual functions of a chief editor;</def><def name="LocalNewspaper"><term>local
+                newspaper</term>
+                (<term xml:lang="zh-Hant-HK">本地報刊</term>) means a newspaper printed or produced in
+            Hong Kong;<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/1987/15">15 of 1987 s. 4</ref>)</sourceNote></def><def name="Newspaper">
+            <leadIn><term>newspaper</term>
+                    (<term xml:lang="zh-Hant-HK">報刊</term>) means any paper or other publication and
+                any supplement thereto available to the general public which—</leadIn>
+            <paragraph id="ID_1438411708605_054" name="a" temporalId="s2_a"><num value="a">(a)</num><content>contains news, intelligence, occurrences or any remarks, observations or
+                    comments in relation to such news, intelligence, or occurrences or to any other
+                    matter of public interest; and</content></paragraph>
+            <paragraph id="ID_1438411708620_006" name="b" temporalId="s2_b"><num value="b">(b)</num><content>is printed or produced for sale or free distribution and published either
+                    periodically (whether half-yearly, quarterly, monthly, fortnightly, weekly,
+                    daily or otherwise) or in parts or numbers at intervals not exceeding 6 months;
+                    and</content></paragraph>
+            <paragraph id="ID_1438411708620_014" name="c" temporalId="s2_c"><num value="c">(c)</num><content>does not comprise exclusively any item or items specified in the
+                        <ref>Schedule</ref>;<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/1987/15">15 of 1987 s. 4</ref>)</sourceNote></content></paragraph>
+        </def><def name="PrintedDocument">
+            <leadIn><term>printed
+                    document</term>
+                    (<term xml:lang="zh-Hant-HK">印刷文件</term>) includes every piece of paper, cloth
+                or other similar material, bearing any words, pictures or signs which were or appear
+                to have been wholly or partly produced by any mechanical, electrical or other
+                copying process in Hong Kong and the collection of such pieces of paper, cloth or
+                other material in any bound or other permanent form but does not include—</leadIn>
+            <paragraph id="ID_1438411708620_028" name="a" temporalId="s2_a"><num value="a">(a)</num><content>any document solely intended and solely used for a bona fide and ordinary
+                    commercial, professional, social or administrative purpose; or</content></paragraph>
+            <paragraph id="ID_1438411708620_036" name="b" temporalId="s2_b"><num value="b">(b)</num><content>any other document issued or used by any public body;<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/1987/15">15
+                            of 1987 s. 4</ref>. Amended <ref href="/hk/1988/51">51 of 1988 s.
+                            2</ref>)</sourceNote></content></paragraph>
+        </def><def name="Proprietor"><term>proprietor</term>
+                (<term xml:lang="zh-Hant-HK">東主</term>) includes lessee;</def><def name="PublicBody"><term>public
+                body</term>
+                (<term xml:lang="zh-Hant-HK">公共機構</term>) has the same meaning as it has in the
+            Prevention of Bribery Ordinance (<ref href="/hk/cap201">Cap. 201</ref>);<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1988/51">51 of 1988 s.
+                    2</ref>)</sourceNote></def><def name="Registrar"><term>Registrar</term>
+                (<term xml:lang="zh-Hant-HK">註冊主任</term>) means such officer as may be appointed by
+            the Chief Executive to act as registrar of newspapers, and includes any person appointed
+            by the Chief Executive to act as deputy registrar of newspapers.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1999/34">34 of 1999 s.
+                3</ref>)</sourceNote></def></section><section id="ID_1438402912065_001" name="s3" reason="repealed" startPeriod="1997-06-30" status="repealed" temporalId="s3"><num value="3">3.</num><sourceNote>(Repealed <ref href="/hk/1987/15">15 of 1987 s. 5</ref>)</sourceNote></section><section id="ID_1438402912065_003" name="s4" reason="repealed" startPeriod="1997-06-30" status="repealed" temporalId="s4"><num value="4">4.</num><sourceNote>(Repealed <ref href="/hk/1987/15">15 of 1987 s. 5</ref>)</sourceNote></section><section id="ID_1438402912080_001" name="s5" reason="repealed" startPeriod="1997-06-30" status="repealed" temporalId="s5"><num value="5">5.</num><sourceNote>(Repealed <ref href="/hk/1987/15">15 of 1987 s. 5</ref>)</sourceNote></section><section id="ID_1438402912080_003" name="s6" reason="repealed" startPeriod="1997-06-30" status="repealed" temporalId="s6"><num value="6">6.</num><sourceNote>(Repealed <ref href="/hk/1987/15">15 of 1987 s. 5</ref>)</sourceNote></section><section id="ID_1438402912096_002" name="s7" reason="inEffect" startPeriod="2021-11-11" status="operational" temporalId="s7"><num value="7">7.</num><heading>Registration of local newspapers</heading><subsection id="ID_1438411708698_004" name="1" temporalId="s7_1"><num value="1">(1)</num><content>Every local newspaper shall be registered in accordance with regulations made under <ref>section 18</ref>.</content></subsection><subsection id="ID_1438411708698_012" name="1A" temporalId="s7_1A"><num value="1A">(1A)</num><content>No local newspaper shall be registered under subsection (1) by a name which is identical with the name by which another local newspaper is already registered.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1988/51">51 of 1988 s. 3</ref>)</sourceNote></content></subsection><subsection id="ID_1438411708698_020" name="2" temporalId="s7_2"><num value="2">(2)</num><content>The proprietor of any local newspaper may at any time give notice to the Registrar that he desires the registration of that local newspaper to cease and the Registrar shall, on the receipt of such notice, cancel the registration of that local newspaper which shall cease to be registered from the date of such cancellation.</content></subsection><sourceNote>(Replaced <ref href="/hk/1987/15">15 of 1987 s. 6</ref>)</sourceNote></section><section id="ID_1438402912096_004" name="s8" reason="repealed" startPeriod="1997-06-30" status="repealed" temporalId="s8"><num value="8">8.</num><sourceNote>(Repealed <ref href="/hk/1987/15">15 of 1987 s. 7</ref>)</sourceNote></section><section id="ID_1438402912111_002" name="s9" reason="repealed" startPeriod="1997-06-30" status="repealed" temporalId="s9"><num value="9">9.</num><sourceNote>(Repealed <ref href="/hk/1987/15">15 of 1987 s. 7</ref>)</sourceNote></section><section id="ID_1438402912111_004" name="s10" reason="repealed" startPeriod="1997-06-30" status="repealed" temporalId="s10"><num value="10">10.</num><sourceNote>(Repealed <ref href="/hk/1987/15">15 of 1987 s. 7</ref>)</sourceNote></section><section id="ID_1438402912127_002" name="s11" reason="inEffect" startPeriod="2021-11-11" status="operational" temporalId="s11"><num value="11">11.</num><heading>Unlawful to furnish incorrect particulars</heading><leadIn>Where any particular is by this Ordinance or by any regulation made thereunder required to be furnished and any particular furnished by way of compliance with such requirement is incorrect, the person who certified the correctness of such particular shall be deemed to have committed an offence against this Ordinance unless he proves—</leadIn><paragraph id="ID_1438411708776_012" name="a" temporalId="s11_a"><num value="a">(a)</num><content>that he believed that the particular furnished was correct; and</content></paragraph><paragraph id="ID_1438411708776_020" name="b" temporalId="s11_b"><num value="b">(b)</num><content>that he could not with the exercise of reasonable diligence have discovered its incorrectness.</content></paragraph></section><section id="ID_1438402912127_004" name="s12" reason="inEffect" startPeriod="2021-11-11" status="operational" temporalId="s12"><num value="12">12.</num><heading>Certified extract from local newspaper register to be admissible in evidence</heading><leadIn>In any proceedings whatsoever against the proprietor, printer, publisher or editor of any local newspaper, it shall be lawful for the complainant or plaintiff to put in any entry in or certified extract from any register of local newspapers kept by the Registrar in accordance with regulations made under <ref>section 18</ref>, either—  <sourceNote>(Amended <ref href="/hk/1987/15">15 of 1987 s. 8</ref>)</sourceNote></leadIn><paragraph id="ID_1438411708792_012" name="a" temporalId="s12_a"><num value="a">(a)</num><content>as evidence of the truth of the matters stated in such entry or extract; or</content></paragraph><paragraph id="ID_1438411708792_020" name="b" temporalId="s12_b"><num value="b">(b)</num><content>as evidence that the particulars appearing in such entry or extract were furnished and certified by the informant by whom they purport to have been furnished and certified.</content></paragraph></section><section id="ID_1438402912143_002" name="s13" reason="inEffect" startPeriod="2021-11-11" status="operational" temporalId="s13"><num value="13">13.</num><heading>Presumption as to printer</heading><content>In any proceedings whatsoever it shall, unless the contrary is proved, be presumed that the person whose name appears in any local newspaper or other document as the printer of that local newspaper or other document is in fact the printer.</content><sourceNote>(Replaced <ref href="/hk/1987/15">15 of 1987 s. 9</ref>)</sourceNote></section><section id="ID_1438402912143_004" name="s14" reason="repealed" startPeriod="1997-06-30" status="repealed" temporalId="s14"><num value="14">14.</num><sourceNote>(Repealed <ref href="/hk/1987/15">15 of 1987 s. 10</ref>)</sourceNote></section><section id="ID_1438402912158_002" name="s15" reason="inEffect" startPeriod="2021-11-11" status="operational" temporalId="s15"><num value="15">15.</num><heading>Vicarious responsibility of proprietor, printer, publisher and editor</heading><content>On the trial of the proprietor, printer, publisher or editor of any local newspaper, or the printer of any other document, for any offence in which an ingredient is the publication of matter contained in any issue of such local newspaper or in such document, the accused person shall be presumed to have published all matter contained in such issue or in such document, as the case may be, unless he proves that the publication was made without his authority, consent or knowledge, and that the publication did not arise from want of the due care or caution on his part.</content><sourceNote>(Replaced <ref href="/hk/1955/57">57 of 1955 s. 3</ref>. Amended <ref href="/hk/1987/15">15 of 1987 s. 11</ref>)</sourceNote></section><section id="ID_1438402912158_004" name="s16" reason="inEffect" startPeriod="2021-11-11" status="operational" temporalId="s16"><num value="16">16.</num><heading>Service of process</heading><content>Without prejudice to any other method of service, any process whatsoever, civil or criminal, addressed to the proprietor, printer, publisher or editor of any local newspaper shall for all purposes be deemed to be duly served if left with some adult at or sent by registered post to the registered address of the office of the local newspaper.</content><sourceNote>(Amended <ref href="/hk/1987/15">15 of 1987 s. 12</ref>)</sourceNote></section><section id="ID_1438402912174_002" name="s17" reason="inEffect" startPeriod="2021-11-11" status="operational" temporalId="s17"><num value="17">17.</num><heading>Copies of local newspapers to be delivered to Registrar</heading><subsection id="ID_1438411708886_004" name="1" temporalId="s17_1"><num value="1">(1)</num><content>The publisher or, failing him, the printer of every local newspaper shall, on every day on which that local newspaper is published or on the day next following (other than a holiday), deliver or cause to be delivered to the Registrar a copy of that local newspaper and of every published second or other varied edition or impression thereof.</content></subsection><subsection id="ID_1438411708886_012" name="2" temporalId="s17_2"><num value="2">(2)</num><content>The copy of every local newspaper delivered to the Registrar under subsection (1) shall bear the signature, full name and address of the printer or publisher thereof or the signature, full name and address of some other person appointed and authorized by that printer or publisher for that purpose and whose appointment and authority have been lodged with the Registrar.</content></subsection><subsection id="ID_1438411708886_020" name="3" temporalId="s17_3"><num value="3">(3)</num><content>The Registrar shall keep in his possession the copy of every local newspaper delivered to him under subsection (1) for a period of not less than 6 months after which time he may destroy or otherwise dispose of that copy.</content></subsection><sourceNote>(Replaced <ref href="/hk/1987/15">15 of 1987 s. 13</ref>)</sourceNote></section><section id="ID_1438402912189_001" name="s17A" reason="inEffect" startPeriod="2021-11-11" status="operational" temporalId="s17A"><num value="17A">17A.</num><heading>Evidence for civil or criminal proceedings</heading><subsection id="ID_1438411708917_011" name="1" temporalId="s17A_1"><num value="1">(1)</num><content>Where any person requires a copy of a local newspaper delivered to the Registrar under <ref>section 17(1)</ref> to be produced in evidence in any civil or criminal proceedings, the Registrar shall cause the copy of that local newspaper to be produced in court at the expense of the person applying for it, or shall deliver the copy to that person taking reasonable security for its return.</content></subsection><subsection id="ID_1438411708917_019" name="2" temporalId="s17A_2"><num value="2">(2)</num><content>A copy of a local newspaper produced or delivered under subsection (1) shall be sufficient evidence of any matter or thing contained therein.</content></subsection><subsection id="ID_1438411708932_005" name="3" temporalId="s17A_3"><num value="3">(3)</num><content>Every proprietor, printer, publisher or editor of a copy of a local newspaper produced or delivered under subsection (1) shall be deemed to be the proprietor, printer, publisher or editor respectively of all local newspapers which are of the same title, purport or effect as the copy of the local newspaper so produced or delivered (any minor variations being disregarded) unless the proprietor, printer, publisher or editor proves that those local newspapers were not printed, published or editor by him or with his knowledge or consent.</content></subsection><sourceNote>(Added <ref href="/hk/1987/15">15 of 1987 s. 13</ref>)</sourceNote></section><section id="ID_1438402912189_003" name="s18" reason="inEffect" startPeriod="2021-11-11" status="operational" temporalId="s18"><num value="18">18.</num><heading>Regulations</heading><leadIn>The Chief Executive in Council may by regulation provide for—  <sourceNote>(Amended <ref href="/hk/1999/34">34 of 1999 s. 3</ref>)</sourceNote></leadIn><paragraph id="ID_1438411708964_019" name="a" temporalId="s18_a"><num value="a">(a)</num><content>the registration of local newspapers and news agencies and their proprietors,
+                printers, publishers and editors and the keeping of registers for that
+                    purpose;<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/1987/15">15 of 1987 s. 14</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411708964_027" name="b" temporalId="s18_b"><num value="b">(b)</num><content>the licensing of newspaper distributors upon such conditions as may be
+                prescribed by regulation;</content></paragraph><paragraph id="ID_1438411708964_035" name="c" temporalId="s18_c"><num value="c">(c)</num><content>the prohibition of the distribution of newspapers except by newspaper
+                distributors licensed for that purpose;</content></paragraph><paragraph id="ID_1438411708964_043" name="d" temporalId="s18_d"><num value="d">(d)</num><content>the regulation of the distribution with or in newspapers of documents not
+                forming an integral part thereof;</content></paragraph><paragraph id="ID_1438411708964_051" name="e" temporalId="s18_e"><num value="e">(e)</num><content>the supply by newspaper distributors to the Registrar of a copy of newspapers
+                printed or produced outside Hong Kong;</content></paragraph><paragraph id="ID_1438411708979_006" name="f" temporalId="s18_f"><num value="f">(f)</num><sourceNote>(Repealed <ref href="/hk/1987/15">15 of 1987 s. 14</ref>)</sourceNote></paragraph><paragraph id="ID_1438411708979_014" name="g" temporalId="s18_g"><num value="g">(g)</num><content>the particulars to be furnished in
+                connexion
+                with registration or licensing, notification of any change in the required
+                particulars and the manner in which and the conditions upon which effect may be
+                given or refused to be given, to any such change;</content></paragraph><paragraph id="ID_1438411708979_022" name="h" temporalId="s18_h"><num value="h">(h)</num><content>the manner in which the identity of the printer of any local newspaper or other
+                printed document and the time of printing or publication shall be established, and
+                in particular for the printing of the printer’s name and address on local newspapers
+                and other printed documents;</content></paragraph><paragraph id="ID_1438411708979_030" name="i" temporalId="s18_i"><num value="i">(i)</num><content>the prohibition of the editing, printing, publication, possession and
+                distribution of local newspapers and other printed documents which do not comply
+                with the requirements of any regulations made pursuant to this section;</content></paragraph><paragraph id="ID_1438411708979_038" name="j" temporalId="s18_j"><num value="j">(j)</num><content>the retention by the printer of copies of local newspapers and other printed
+                documents, the particulars to be inscribed on such retained copies and the
+                production of retained copies to such persons as may be prescribed;</content></paragraph><paragraph id="ID_1438411708995_006" name="k" temporalId="s18_k"><num value="k">(k)</num><sourceNote>(Repealed <ref href="/hk/1987/15">15 of 1987 s. 14</ref>)</sourceNote></paragraph><paragraph id="ID_1438411708995_014" name="l" temporalId="s18_l"><num value="l">(l)</num><content>granting exemption from all or any of the provisions of this Ordinance or of
+                any of the regulations made thereunder;</content></paragraph><paragraph id="ID_1438411708995_022" name="m" temporalId="s18_m"><num value="m">(m)</num><content>fees;</content></paragraph><paragraph id="ID_1438411708995_030" name="n" temporalId="s18_n"><num value="n">(n)</num><content>forms;</content></paragraph><paragraph id="ID_1438411708995_038" name="o" temporalId="s18_o"><num value="o">(o)</num><content>anything which is by this Ordinance to be provided by regulation.</content></paragraph><sourceNote>(Replaced <ref href="/hk/1955/57">57 of 1955 s. 4</ref>. Amended <ref href="/hk/1987/15">15 of 1987 s. 14</ref>)</sourceNote></section><section id="ID_1438402912205_002" name="s19" reason="inEffect" startPeriod="2021-11-11" status="operational" temporalId="s19"><num value="19">19.</num><heading>Cessation of publication, etc.</heading><content>If any local newspaper ceases publication, or any news agency ceases to issue bulletins, for a consecutive period of not less than 6 months, the registration thereof under any regulations for the time being in force shall be deemed to have lapsed.</content><sourceNote>(Added <ref href="/hk/1955/57">57 of 1955 s. 5</ref>. Amended <ref href="/hk/1987/15">15 of 1987 s. 15</ref>)</sourceNote></section><section id="ID_1438402912221_001" name="s20" reason="inEffect" startPeriod="2021-11-11" status="operational" temporalId="s20"><num value="20">20.</num><heading>Penalties</heading><subsection id="ID_1438411709057_032" name="1" temporalId="s20_1"><num value="1">(1)</num><leadIn>Any person who commits an offence against this Ordinance shall be
+                liable—</leadIn><paragraph id="ID_1438411709057_040" name="a" temporalId="s20_1_a"><num value="a">(a)</num><content>on summary conviction to a fine
+                    at
+                    level 2 and to imprisonment for 1 year; and</content></paragraph><paragraph id="ID_1438411709073_006" name="b" temporalId="s20_1_b"><num value="b">(b)</num><content>upon conviction on indictment to a fine
+                    at
+                    level 4 and to imprisonment for 3 years.</content></paragraph></subsection><subsection id="ID_1438411709073_013" name="2" temporalId="s20_2"><num value="2">(2)</num><content>Every printer or publisher of a local newspaper who contravenes the provisions
+                of <ref>section 17</ref> as to the delivery of copies of such local newspaper at the
+                office of the Registrar shall be liable on summary conviction to a fine
+                at
+                level 1.</content></subsection><sourceNote>(Amended <ref href="/hk/1987/15">15 of 1987 s.
+            16</ref>; <ref href="hk/2021/er5">E.R. 5 of 2021</ref>)</sourceNote></section><section id="ID_1438402912221_003" name="s21" reason="inEffect" startPeriod="2021-11-11" status="operational" temporalId="s21"><num value="21">21.</num><heading>Amendment of <ref>Schedule</ref></heading><text>The Chief Executive in Council may, by notice published in the Gazette, amend the
+                <ref>Schedule</ref>.</text><sourceNote>(Added <ref href="/hk/1987/15">15 of 1987 s. 17</ref>. Amended <ref href="/hk/1999/34">34 of 1999 s. 3</ref>)</sourceNote></section><schedule id="ID_1438402912236_001" name="sch0" reason="inEffect" startPeriod="2021-11-11" status="operational" temporalId="sch0"><num value="0">Schedule</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap268/s2">ss.
+                2</ref> &amp; <ref href="/hk/cap268/s21">21</ref>]</note><heading>Publications
+            excluded from Definition of
+            <b><i>Newspaper</i></b></heading><text>
+            <table xmlns="http://www.w3.org/1999/xhtml" class="repeat_header">
+                <col width="10%"></col>
+                
+                
+                <col width="7%"></col>
+                
+                
+                
+                <col width="83%"></col>
+                <thead>
+                    <tr>
+                        <th class="align_right cellpadding_right_10">
+                            <p><span class="not_bold">Item</span></p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </th>
+                        
+                        
+                        
+                        <th class="align_center" colspan="2">
+                            <p><span class="not_bold">Description</span></p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </th>
+                    </tr>
+                </thead>
+                <tr>
+                    <td class="align_right cellpadding_right_10">
+                        <p>1.</p>
+                    </td>
+                    
+                    
+                    <td></td>
+                    
+                    
+                    <td>
+                        <p>Academic
+                            journals</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="align_right cellpadding_right_10">
+                        <p>2.</p>
+                    </td>
+                    
+                    
+                    <td></td>
+                    
+                    
+                    <td>
+                        <p>Almanacs</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="align_right cellpadding_right_10">
+                        <p>3.</p>
+                    </td>
+                    
+                    
+                    <td></td>
+                    
+                    
+                    <td>
+                        <p>Cartoons and comic
+                            strips</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="align_right cellpadding_right_10">
+                        <p>4.</p>
+                    </td>
+                    
+                    
+                    <td></td>
+                    
+                    
+                    <td>
+                        <p>Collections of photographic images (with or without
+                            captions)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="align_right cellpadding_right_10">
+                        <p>5.</p>
+                    </td>
+                    
+                    
+                    <td></td>
+                    
+                    
+                    <td>
+                        <p>Commercial advertisements and commercial advertising circulars and
+                            brochures</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="align_right cellpadding_right_10">
+                        <p>6.</p>
+                    </td>
+                    
+                    
+                    <td></td>
+                    
+                    
+                    <td>
+                        <p>Commercial
+                            circulars</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="align_right cellpadding_right_10">
+                        <p>7.</p>
+                    </td>
+                    
+                    
+                    <td></td>
+                    
+                    
+                    <td>
+                        <p>Company and partnership reports and company
+                            prospectuses</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="align_right cellpadding_right_10">
+                        <p>8.</p>
+                    </td>
+                    
+                    
+                    <td></td>
+                    
+                    
+                    <td>
+                        <p>Consumer information and
+                            reports</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="align_right cellpadding_right_10">
+                        <p>9.</p>
+                    </td>
+                    
+                    
+                    <td></td>
+                    
+                    
+                    <td>
+                        <p>Election pamphlets and
+                            posters</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="align_right cellpadding_right_10">
+                        <p>10.</p>
+                    </td>
+                    
+                    
+                    <td></td>
+                    
+                    
+                    <td>
+                        <p>Financial, economic and statistical
+                            reports</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="align_right cellpadding_right_10">
+                        <p>11.</p>
+                    </td>
+                    
+                    
+                    <td></td>
+                    
+                    
+                    <td>
+                        <p>Information sheets and newsletters relating to clubs, educational
+                            institutions, professional associations, societies, trade unions and
+                            other
+                            organizations</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="align_right cellpadding_right_10">
+                        <p>12.</p>
+                    </td>
+                    
+                    
+                    <td></td>
+                    
+                    
+                    <td>
+                        <p>Maps, charts and
+                            tables</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="align_right cellpadding_right_10">
+                        <p>13.</p>
+                    </td>
+                    
+                    
+                    <td></td>
+                    
+                    
+                    <td>
+                        <p>Price
+                            lists</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="align_right cellpadding_right_10">
+                        <p>14.</p>
+                    </td>
+                    
+                    
+                    <td></td>
+                    
+                    
+                    <td>
+                        <p>Public speeches and
+                            statements</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="align_right cellpadding_right_10">
+                        <p>15.</p>
+                    </td>
+                    
+                    
+                    <td></td>
+                    
+                    
+                    <td>
+                        <p>Racing tips, racing form reports and other related
+                            materials</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="align_right cellpadding_right_10">
+                        <p>16.</p>
+                    </td>
+                    
+                    
+                    <td></td>
+                    
+                    
+                    <td>
+                        <p>Religious
+                            materials</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="align_right cellpadding_right_10">
+                        <p>17.</p>
+                    </td>
+                    
+                    
+                    <td></td>
+                    
+                    
+                    <td>
+                        <p>Sales
+                            catalogues</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="align_right cellpadding_right_10">
+                        <p>18.</p>
+                    </td>
+                    
+                    
+                    <td></td>
+                    
+                    
+                    <td>
+                        <p>Sheet
+                            music</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="align_right cellpadding_right_10">
+                        <p>19.</p>
+                    </td>
+                    
+                    
+                    <td></td>
+                    
+                    
+                    <td>
+                        <p>Trade catalogues and
+                            journals</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="align_right cellpadding_right_10">
+                        <p>20.</p>
+                    </td>
+                    
+                    
+                    <td></td>
+                    
+                    
+                    <td>
+                        <p>Travel
+                            brochures</p>
+                    </td>
+                </tr>
+            </table>
+        </text><sourceNote>(Replaced <ref href="/hk/1987/15">15 of 1987 s.
+            18</ref>. Amended <ref href="hk/2021/er5">E.R. 5 of
+            2021</ref>)</sourceNote></schedule></main></ordinance>

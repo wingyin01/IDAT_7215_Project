@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?><subLeg xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd" xml:lang="en"><meta><docName>Cap. 571 sub. leg. B</docName><docType>cap</docType><docNumber>571B</docNumber><docStatus>In effect</docStatus><dc:identifier>/hk/cap571B!en</dc:identifier><dc:date>2018-12-13</dc:date><dc:subject>legislation</dc:subject><dc:language>en</dc:language><dc:publisher>DoJ</dc:publisher><dc:rights>the Government of the Hong Kong Special Administrative Region</dc:rights></meta><main xml:lang="en" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd"><docTitle id="ID_1438403474832_002" name="shortTitle" reason="inEffect" status="operational" temporalId="shortTitle" startPeriod="2018-12-13">Securities
+            and Futures (Recognized Counterparty) Rules</docTitle><enactingFormula role="empoweringSection">(<ref href="/hk/cap571/s397">Cap. 571, section
+                397(1)</ref>)<marker role="blank-line"></marker><marker role="blank-line"></marker></enactingFormula><sourceNote>(Enacting provision omitted—<ref href="/hk/2018/er5">E.R. 5 of 2018
+            </ref>)<marker role="blank-line"></marker><marker role="blank-line"></marker></sourceNote><commencementNote>[1 April 2003]<sourceNote><inline class="width_3"> </inline><ref href="/hk/2003/ln12">L.N. 12 of 2003</ref></sourceNote></commencementNote><sourceNote>(Format changes—<ref href="/hk/2018/er5">E.R. 5 of 2018</ref>)</sourceNote><section id="ID_1438403474848_002" name="s1" reason="omittedAsSpent" startPeriod="2018-12-13" status="omitted" temporalId="s1"><num value="1">1.</num><sourceNote>(Omitted as spent—<ref href="/hk/2018/er5">E.R. 5 of 2018</ref>)</sourceNote></section><section id="ID_1438403474848_004" name="s2" reason="inEffect" startPeriod="2018-12-13" status="operational" temporalId="s2"><num value="2">2.</num><heading>Interpretation</heading><leadIn>In these Rules, unless the context otherwise requires—</leadIn><def name="CurrencyFuturesContract"><term>currency futures contract</term> (<term xml:lang="zh-Hant-HK">貨幣期貨合約</term>) means a futures contract in respect of any currency;</def><def name="DealingInFuturesContracts"><term>dealing in futures contracts</term> (<term xml:lang="zh-Hant-HK">期貨合約交易</term>) has the meaning assigned to it by <ref>Part 2 of Schedule 5</ref> to the Ordinance;</def><def name="EquivalentCorporation">
+            <leadIn><term>equivalent corporation</term> (<term xml:lang="zh-Hant-HK">等同法團</term>) means a corporation that—</leadIn>
+            <paragraph id="ID_1438413481746_033" name="a" temporalId="s2_a"><num value="a">(a)</num><content>carries on a business in a specified jurisdiction in an activity which, if carried on in Hong Kong, would constitute dealing in futures contracts, under an authorization (however described) by an authority or regulatory organization in that jurisdiction; and</content></paragraph>
+            <paragraph id="ID_1438413481746_041" name="b" temporalId="s2_b"><num value="b">(b)</num><leadIn>has and maintains shareholders’ funds of not less than $30,000,000 or its equivalent in any foreign currency as calculated by—</leadIn><subparagraph id="ID_1438413481762_006" name="i" temporalId="s2_b_i"><num value="i">(i)</num><leadIn>adding together the corporation’s—</leadIn><subparagraph id="ID_1438413481762_013" name="A" role="subSubParagraph" temporalId="s2_b_i_A"><num value="A">(A)</num><content>issued and paid-up share capital; and</content></subparagraph><subparagraph id="ID_1438413481762_021" name="B" role="subSubParagraph" temporalId="s2_b_i_B"><num value="B">(B)</num><content>retained profits and reserves with aggregate net credit balances; and</content></subparagraph></subparagraph><subparagraph id="ID_1438413481762_029" name="ii" temporalId="s2_b_ii"><num value="ii">(ii)</num><content>subtracting from the sum calculated under subparagraph (i) the corporation’s accumulated losses and reserves with aggregate net debit balances;</content></subparagraph></paragraph>
+        </def><def name="SpecifiedBankRegulator">
+            <leadIn><term>specified bank regulator</term> (<term xml:lang="zh-Hant-HK">指明銀行規管當局</term>) means—</leadIn>
+            <paragraph id="ID_1438413481762_042" name="a" temporalId="s2_a"><num value="a">(a)</num><content>an authority specified in column 3 of <ref>Schedule 1</ref> as an authority in a specified jurisdiction set out opposite to it in column 2 of <ref>Schedule 1</ref> with responsibility for regulating banks in that jurisdiction; or</content></paragraph>
+            <paragraph id="ID_1438413481762_050" name="b" temporalId="s2_b"><num value="b">(b)</num><content>any successor of such authority;</content></paragraph>
+        </def><def name="SpecifiedJurisdiction"><term>specified jurisdiction</term> (<term xml:lang="zh-Hant-HK">指明司法管轄區</term>) means a jurisdiction specified in column 2 of <ref>Schedule 1</ref>.</def></section><section id="ID_1438403474864_002" name="s3" reason="inEffect" startPeriod="2018-12-13" status="operational" temporalId="s3"><num value="3">3.</num><heading>Institutions that are recognized counterparties</heading><leadIn>For the purposes of paragraph (c) of the definition of
+                    <b><i>recognized
+                    counterparty</i></b>
+            in <ref>section 1 of Part 1 of Schedule 1</ref> to the Ordinance, the following
+            institutions are recognized counterparties—</leadIn><paragraph id="ID_1438413481840_012" name="a" temporalId="s3_a"><num value="a">(a)</num><content>a corporation licensed for dealing in futures contracts that deals in currency futures contracts on any specified futures exchange;</content></paragraph><paragraph id="ID_1438413481840_020" name="b" temporalId="s3_b"><num value="b">(b)</num><content>an equivalent corporation that deals in currency futures contracts on any specified futures exchange, except where such corporation ceases to be authorized to carry out such dealing as a result of the action of the authority or regulatory organization that regulates it in the specified jurisdiction in which it is incorporated and regulated;</content></paragraph><paragraph id="ID_1438413481840_028" name="c" temporalId="s3_c"><num value="c">(c)</num><content>a bank that is incorporated in a specified jurisdiction and regulated by a specified bank regulator in that jurisdiction, except where the bank ceases to be authorized to operate as a bank as a result of the action of the specified bank regulator;</content></paragraph><paragraph id="ID_1438413481855_006" name="d" temporalId="s3_d"><num value="d">(d)</num><content>a corporation that has issued debt instruments which continue to attract a qualifying credit rating; and</content></paragraph><paragraph id="ID_1438413481855_014" name="e" temporalId="s3_e"><num value="e">(e)</num><leadIn>an institution—</leadIn><subparagraph id="ID_1438413481855_022" name="i" temporalId="s3_e_i"><num value="i">(i)</num><leadIn>in respect of which the Commission is satisfied that recognition as a counterparty—</leadIn><subparagraph id="ID_1438413481855_029" name="A" role="subSubParagraph" temporalId="s3_e_i_A"><num value="A">(A)</num><content>is appropriate; and</content></subparagraph><subparagraph id="ID_1438413481855_037" name="B" role="subSubParagraph" temporalId="s3_e_i_B"><num value="B">(B)</num><content>would not prejudice the interest of the investing public; and</content></subparagraph></subparagraph><subparagraph id="ID_1438413481855_045" name="ii" temporalId="s3_e_ii"><num value="ii">(ii)</num><content>which is specified in <ref>Schedule 2</ref>.</content></subparagraph></paragraph></section><schedule id="ID_1438403474864_004" name="sch1" reason="inEffect" startPeriod="2018-12-13" status="operational" temporalId="sch1"><num value="1">Schedule
+                                                  1</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap571B/s2">s. 2</ref>]</note><heading>Specified Jurisdictions and Specified Bank Regulators</heading><text>
+                                                  
+                                                  <table xmlns="http://www.w3.org/1999/xhtml">
+                
+                <col width="6%"></col>
+                
+                <col width="47%"></col>
+                
+                
+                <col width="4%"></col>
+                
+                
+                <col width="54%"></col>
+                <tr>
+                    <td>
+                        <p class="first_line_indent_0">Item</p>
+                    </td>
+                    <td>
+                        
+                        <p class="align_center">Specified jurisdiction</p>
+                    </td>
+                    
+                    <td></td>
+                    
+                    <td>
+                        
+                        <p class="align_center">Specified bank regulator</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p class="first_line_indent_0">1.</p>
+                    </td>
+                    <td>
+                        
+                        <p class="left_indent_12">Australia</p>
+                    </td>
+                    
+                    <td></td>
+                    
+                    <td>
+                        
+                        <p class="align_left">Australian Prudential Regulation Authority</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p class="first_line_indent_0">2. </p>
+                    </td>
+                    <td>
+                        
+                        <p class="left_indent_12">Canada</p>
+                    </td>
+                    
+                    <td></td>
+                    
+                    <td>
+                        
+                        <p class="align_left">Office of the Superintendent of Financial Institutions</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p class="first_line_indent_0">3. </p>
+                    </td>
+                    <td>
+                        
+                        <p class="left_indent_12 align_left">The Federal Republic of Germany</p>
+                    </td>
+                    
+                    <td></td>
+                    
+                    <td>
+                        
+                        <p class="align_left">Bundesaufsichtsamt für das Kreditwesen</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p class="first_line_indent_0">4.</p>
+                    </td>
+                    <td>
+                        
+                        <p class="left_indent_12">The French Republic</p>
+                    </td>
+                    
+                    <td></td>
+                    
+                    <td>
+                        
+                        <p class="align_left">La Commission Bancaire</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p class="first_line_indent_0">5.</p>
+                    </td>
+                    <td>
+                        
+                        <p class="left_indent_12">Japan</p>
+                    </td>
+                    
+                    <td></td>
+                    
+                    <td>
+                        
+                        <p class="align_left">Financial Services Agency</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p class="first_line_indent_0">6.</p>
+                    </td>
+                    <td>
+                        
+                        <p class="left_indent_12">The Swiss Confederation</p>
+                    </td>
+                    
+                    <td></td>
+                    
+                    <td>
+                        
+                        <p class="align_left">Eidgenössische Bankenkommission</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p class="first_line_indent_0">7. </p>
+                    </td>
+                    <td>
+                        
+                        <p class="left_indent_12">The United Kingdom of Great Britain and Northern Ireland</p>
+                    </td>
+                    
+                    <td></td>
+                    
+                    <td>
+                        
+                        <p class="align_left">Financial Services Authority</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p class="first_line_indent_0">8.</p>
+                    </td>
+                    <td>
+                        
+                        <p class="left_indent_12">The United States of America</p>
+                    </td>
+                    
+                    <td></td>
+                    
+                    <td>
+                        
+                        <p class="align_left">Board of Governors of the Federal Reserve System</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    
+                    <td></td>
+                    
+                    <td>
+                        
+                        <p class="first_linalign_left">The Office of the Comptroller of the Currency</p>
+                    </td>
+                </tr>
+            </table>
+                                                  <marker role="blank-line"></marker>
+                                                  <marker role="blank-line"></marker>
+                                                  </text></schedule><schedule id="ID_1438403474879_002" name="sch2" reason="inEffect" startPeriod="2018-12-13" status="operational" temporalId="sch2"><num value="2">Schedule 2</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap571B/s3">s. 3</ref>]</note><heading>Specified Institutions that are Recognized Counterparties<marker role="blank-line"></marker></heading><text id="ID_1438413481933_012" name="1" temporalId="sch2_1">1.<fillIn class="width_12"> </fillIn>Bear Stearns Forex Inc.</text><text id="ID_1438413481933_021" name="2" temporalId="sch2_2">2.<fillIn class="width_12"> </fillIn>HSBC Broking Securities (Asia) Ltd.</text></schedule></main></subLeg>

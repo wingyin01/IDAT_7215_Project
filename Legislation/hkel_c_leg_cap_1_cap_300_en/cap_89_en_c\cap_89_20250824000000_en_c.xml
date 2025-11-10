@@ -1,0 +1,959 @@
+<?xml version="1.0" encoding="UTF-8"?><ordinance xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd" xml:lang="en"><meta><docName>Cap. 89</docName><docType>cap</docType><docNumber>89</docNumber><docStatus>In effect</docStatus><dc:identifier>/hk/cap89!en</dc:identifier><dc:date>2025-08-24</dc:date><dc:subject>legislation</dc:subject><dc:language>en</dc:language><dc:publisher>DoJ</dc:publisher><dc:rights>the Government of the Hong Kong Special Administrative Region</dc:rights></meta><main xml:lang="en" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd"><longTitle id="ID_1438403568432_001" name="longTitle" reason="inEffect" status="operational" temporalId="longTitle" startPeriod="2020-12-10">
+            <content>To consolidate and amend the law regulating the granting of pensions,
+                gratuities and other allowances in respect of public
+                service.<marker role="blank-line"></marker><marker role="blank-line"></marker></content>
+        </longTitle><commencementNote>[9 December 1949]</commencementNote><sourceNote>(Format changes—<ref href="hk/2020/er7">E.R. 7 of 2020</ref>)</sourceNote><section id="ID_1438403568432_003" name="s1" reason="inEffect" startPeriod="2020-12-10" status="operational" temporalId="s1"><num value="1">1.</num><heading>Short title</heading><content>This Ordinance may be cited as the <shortTitle>Pensions Ordinance</shortTitle>.</content></section><section id="ID_1438403568448_002" name="s2" reason="inEffect" startPeriod="2020-12-10" status="operational" temporalId="s2"><num value="2">2.</num><heading>Interpretation</heading><subsection id="ID_1438414069908_011" name="1" temporalId="s2_1"><num value="1">(1)</num><leadIn>In this Ordinance, unless the context otherwise requires—</leadIn><def name="AuthorizedIncrease"><term>authorized
+                    increase</term>
+                    (<term xml:lang="zh-Hant-HK">特准增加額</term>) has the same meaning as in the
+                Pensions (Increase) Ordinance (<ref href="/hk/cap305">Cap. 305</ref>);<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1987/36">36 of 1987
+                        s. 36</ref>)</sourceNote></def><def name="CompensationScheme"><term>compensation
+                    scheme</term>
+                    (<term xml:lang="zh-Hant-HK">補償計劃</term>) means a compensation scheme approved
+                under <ref>section 6A</ref>;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1987/36">36 of 1987 s. 36</ref>)</sourceNote></def><def name="EstablishedOffice">
+                <leadIn><term>established
+                        office</term>
+                        (<term xml:lang="zh-Hant-HK">設定職位</term>) means—</leadIn>
+                <paragraph id="ID_1438414069908_040" name="a" temporalId="s2_1_a"><num value="a">(a)</num><leadIn>in respect of service under the Government an office which—</leadIn><subparagraph id="ID_1438414069908_048" name="i" temporalId="s2_1_a_i"><num value="i">(i)</num><content>by virtue of provision for the time being in force in an Order made
+                            by the Chief Executive and published in the Gazette, is declared to be
+                            an established office; and any such Order may specify a date prior to
+                            such Order from which the office is deemed to be an established office;
+                            and any such Order may from time to time be amended, added to, or
+                            revoked by an Order so made and published; but where by virtue of any
+                            such amendment or revocation any office ceases to be an established
+                            office, then so long as any person holding that office at the time of
+                            the amendment or revocation continues therein, the office shall, as
+                            respects that person, continue to be an established office; or</content></subparagraph><subparagraph id="ID_1438414069939_007" name="ii" temporalId="s2_1_a_ii"><num value="ii">(ii)</num><content>immediately preceding the
+                                commencement<sup>#</sup>
+                            of this Ordinance was pensionable whether to holders of such office
+                            generally or to a particular holder; and such office shall be an
+                            established office until it is no longer an established office by virtue
+                            of an Order made by the Chief Executive and published in the Gazette;
+                            and such Order shall have the like effect as an Order made under
+                            subparagraph (i) hereof revoking an Order made under this Ordinance:
+                            Provided that no declaration that any office is an established office
+                            shall be deemed to imply that any holder thereof who is not on the
+                            permanent establishment under the Government at the date of his
+                            retirement shall be the holder of an established office; or</content></subparagraph><subparagraph id="ID_1438414069971_007" name="iii" temporalId="s2_1_a_iii"><num value="iii">(iii)</num><content>by virtue of an Order made by the Chief Executive and published in
+                            the Gazette is declared to be deemed to have been an established office;
+                            and any such Order may specify the period during which the office is
+                            deemed to have been an established office;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1952/27">27 of 1952
+                                    s. 2</ref>; <ref href="/hk/1973/72">72 of 1973 s. 2</ref>; <ref href="/hk/1987/36">36 of 1987 s. 36</ref>; <ref href="/hk/1999/63">63 of 1999 s.
+                            3</ref>)</sourceNote></content></subparagraph></paragraph>
+                <paragraph id="ID_1438414069971_014" name="b" temporalId="s2_1_b"><num value="b">(b)</num><content>in respect of other public service an office which is for the time
+                        being a pensionable office under the law or regulations in force in such
+                            service;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1987/36">36 of 1987 s. 36</ref>)</sourceNote></content></paragraph>
+            </def><def name="ExpatriationPay"><term>expatriation
+                    pay</term>
+                    (<term xml:lang="zh-Hant-HK">外地僱員津貼</term>) means a special addition to salary
+                granted in accordance with the provisions of the administrative rules known as the
+                Government Regulations and of any other administrative rules or instruments
+                regulating the public service which govern such pay;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1987/36">36 of 1987 s. 36</ref>; <ref href="/hk/1999/63">63 of 1999 s. 3</ref>)</sourceNote></def><def name="HighestPensionableEmoluments"><term>highest
+                    pensionable
+                emoluments</term>
+                    (<term xml:lang="zh-Hant-HK">最高可供計算退休金的薪酬</term>) means the highest pensionable
+                emoluments determined in accordance with the regulations made under this
+                    Ordinance;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1987/36">36 of 1987 s. 36</ref>)</sourceNote></def><def name="JudicialOfficersRecommendationCommission"><term>Judicial
+                    Officers Recommendation
+                Commission</term>
+                    (<term xml:lang="zh-Hant-HK">司法人員推薦委員會</term>) means the Judicial Officers
+                Recommendation Commission established by the Judicial Officers Recommendation
+                Commission Ordinance (<ref href="/hk/cap92">Cap. 92</ref>);<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1987/36">36 of 1987 s. 36</ref>. Amended <ref href="/hk/1995/79">79 of 1995 s. 50</ref>)</sourceNote></def><def name="NonestablishedOffice"><term>non-established
+                    office</term>
+                    (<term xml:lang="zh-Hant-HK">非設定職位</term>) means an office in the public service
+                which is not an established office;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1987/36">36 of 1987 s.
+                    36</ref>)</sourceNote></def><def name="NotionalHighestPensionableEmoluments"><term>notional
+                    highest pensionable
+                emoluments</term>
+                    (<term xml:lang="zh-Hant-HK">理論上最高可供計算退休金的薪酬</term>) means the highest
+                pensionable emoluments enjoyed or drawn by an officer during his service which are
+                deemed for the purposes of this Ordinance to be increased in value by the same
+                percentage as the authorized increase since the date when he left the service up to
+                the date he attains the age of 55 years or the date of his death, whichever is the
+                    earlier;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1987/36">36 of 1987 s. 36</ref>)</sourceNote></def><def name="OfficerWhoHasElected"><term>officer
+                    who has
+                elected</term>
+                    (<term xml:lang="zh-Hant-HK">已作出選擇的人員</term>) means an officer who, being
+                eligible under Establishment Circular Number 2/67 dated 5 January 1967 and published
+                as Legal Notice Number <ref href="/hk/1967/3">3 of 1967 </ref>in the Gazette so to
+                elect, has elected under and in accordance with the terms and conditions of the said
+                Establishment Circular that 90% only of substantive salary and 50% only of
+                expatriation pay shall be taken in computing the pension, gratuity or other
+                allowance which may be granted to him under this Ordinance;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1967/5">5 of 1967 s.
+                    2</ref>)</sourceNote></def><def name="OtherPublicService"><term>other
+                    public
+                service</term>
+                    (<term xml:lang="zh-Hant-HK">其他公職</term>、<term xml:lang="zh-Hant-HK">其他公職服務</term>) means public service not under the Government;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1987/36">36 of
+                        1987 s. 36</ref>)</sourceNote></def><def name="PensionableEmoluments">
+                <leadIn><term>pensionable
+                        emoluments</term>
+                        (<term xml:lang="zh-Hant-HK">可供計算退休金的薪酬</term>) means—</leadIn>
+                <paragraph id="ID_1438414070002_020" name="a" temporalId="s2_1_a"><num value="a">(a)</num><leadIn>in respect of service under the Government after 31 March 1965—</leadIn><subparagraph id="ID_1438414070017_006" name="i" temporalId="s2_1_a_i"><num value="i">(i)</num><content>substantive salary or, in the case of an officer who has elected,
+                            90% of substantive salary;</content></subparagraph><subparagraph id="ID_1438414070017_014" name="ii" temporalId="s2_1_a_ii"><num value="ii">(ii)</num><content>expatriation pay or, in the case of an officer who has elected, 50%
+                            of expiration pay;</content></subparagraph><subparagraph id="ID_1438414070017_022" name="iii" temporalId="s2_1_a_iii"><num value="iii">(iii)</num><content>personal allowance;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1993/4">4 of 1993 s.
+                                    4</ref>)</sourceNote></content></subparagraph><subparagraph id="ID_1438414070017_030" name="iv" temporalId="s2_1_a_iv"><num value="iv">(iv)</num><content>special allowance or, in the case of an officer who has elected,
+                            90% of special allowance; and<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1970/19">19 of 1970 s.
+                                    2</ref>. Amended <ref href="/hk/1993/4">4 of 1993 s.
+                            4</ref>)</sourceNote></content></subparagraph><subparagraph id="ID_1438414070017_038" name="v" temporalId="s2_1_a_v"><num value="v">(v)</num><content>an allowance to be taken as a pensionable emolument under
+                            subsection (3),<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1993/4">4 of 1993 s. 4</ref>)</sourceNote></content></subparagraph><continued>but does not include any other emoluments whatever;<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/1967/5">5
+                                of 1967 s. 2</ref>. Amended <ref href="/hk/1987/36">36 of 1987 s.
+                                36</ref>)</sourceNote></continued></paragraph>
+                <paragraph id="ID_1438414070017_051" name="b" temporalId="s2_1_b"><num value="b">(b)</num><content>in respect of other public service emoluments which count for pension
+                        in accordance with the law or regulations in force in such
+                        service;</content></paragraph>
+            </def><def name="PensionableEmolumentsEnjoyed"><term>pensionable
+                    emoluments
+                enjoyed</term>
+                    (<term xml:lang="zh-Hant-HK">享有的可供計算退休金的薪酬</term>) in relation to an officer on
+                leave without salary includes the pensionable emoluments that he would have enjoyed
+                if he had been on duty on full pensionable emoluments;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1982/26">26 of 1982 s.
+                    2</ref>)</sourceNote></def><def name="PensionableService"><term>pensionable
+                    service</term>
+                    (<term xml:lang="zh-Hant-HK">可供計算退休金的服務期</term>、可供計算退休金的服務) means service which
+                may be taken into account in computing pension;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1982/26">26 of 1982 s.
+                    2</ref>)</sourceNote></def><def name="PersonalAllowance"><term>personal
+                    allowance</term>
+                    (<term xml:lang="zh-Hant-HK">個人津貼</term>) means a special addition to salary
+                granted personally to the holder for the time being of the office, but does not
+                include such an addition if it is granted subject to the condition that it shall not
+                be pensionable;</def><def name="PublicService">
+                <leadIn><term>public
+                        service</term>
+                        (<term xml:lang="zh-Hant-HK">公職</term>、<term xml:lang="zh-Hant-HK">公職服務</term>) means—</leadIn>
+                <paragraph id="ID_1438414070033_026" name="a" temporalId="s2_1_a"><num value="a">(a)</num><content>service in a civil capacity under the Government or any country or
+                        territory in the Commonwealth;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1987/36">36 of 1987 s.
+                                36</ref>; <ref href="/hk/1999/63">63 of 1999 s.
+                            3</ref>)</sourceNote></content></paragraph>
+                <paragraph id="ID_1438414070033_034" name="b" temporalId="s2_1_b"><num value="b">(b)</num><content>service under the East Africa High Commission, the East African Common
+                        Services Organization, the East African Posts and Telecommunications
+                        Administration, the East African Railways and Harbours Administration, the
+                        East African Community, the East African Harbours Corporation, the East
+                        African Posts and Telecommunications Corporation, the East African Railways
+                        Corporation or any of their successor authorities;<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/1970/34">34 of 1970 s.
+                                2</ref>. Amended <ref href="/hk/1987/36">36 of 1987 s.
+                            36</ref>)</sourceNote></content></paragraph>
+                <paragraph id="ID_1438414070049_006" name="c" temporalId="s2_1_c"><num value="c">(c)</num><leadIn>service which is pensionable—</leadIn><subparagraph id="ID_1438414070049_014" name="i" temporalId="s2_1_c_i"><num value="i">(i)</num><content>under the Oversea Superannuation Scheme;</content></subparagraph><subparagraph id="ID_1438414070049_022" name="ii" temporalId="s2_1_c_ii"><num value="ii">(ii)</num><content>under any Acts relating to the superannuation of teachers in the
+                            United Kingdom;</content></subparagraph><subparagraph id="ID_1438414070049_030" name="iii" temporalId="s2_1_c_iii"><num value="iii">(iii)</num><content>under a local authority in the United Kingdom;
+                            or</content></subparagraph><subparagraph name="iii" temporalId="s2_1_c_iii" id="ID_1546503577473_002"><num value="iii">(iv)</num><content>under the National Health Service of the United Kingdom;</content></subparagraph></paragraph>
+                <paragraph id="ID_1438414070049_037" name="d" temporalId="s2_1_d"><num value="d">(d)</num><content>any other service that the Governor has determined to be public service
+                        for the purposes of this Ordinance;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1987/36">36 of 1987 s.
+                                36</ref>)</sourceNote></content></paragraph>
+                <paragraph id="ID_1438414070064_006" name="e" temporalId="s2_1_e"><num value="e">(e)</num><content>except for the purposes of computation of a pension or gratuity and of
+                            <ref>section 9</ref>, service in respect of which a pension may be
+                        granted under the Governor’s Pensions Act 1957 (1957 c. 62 U.K.) or the
+                        Governors’ Pension Scheme 1979 or any Act or Scheme amending or replacing
+                        that Act or Scheme;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1987/36">36 of 1987 s.
+                        36</ref>)</sourceNote></content></paragraph>
+                <paragraph id="ID_1438414070064_014" name="f" temporalId="s2_1_f"><num value="f">(f)</num><content>service as the holder of the office of President, Vice-President,
+                        Justice of Appeal, Registrar, officer or servant of the Court of Appeal for
+                        Eastern Africa or the Court of Appeal for East Africa;<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/1970/34">34 of 1970 s. 2</ref>)</sourceNote></content></paragraph>
+                <paragraph id="ID_1438414070064_022" name="g" temporalId="s2_1_g"><num value="g">(g)</num><content>service in the service of the Interim Commission for the West
+                            Indies;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1966/13">13 of 1966 </ref>Schedule)</sourceNote></content></paragraph>
+                <paragraph id="ID_1438414070064_030" name="h" temporalId="s2_1_h"><num value="h">(h)</num><content>pensionable service with the British Telecommunication and the Post
+                        Office, United Kingdom of Great Britain and Northern Ireland;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1970/34">34
+                                of 1970 s. 2</ref>. Amended <ref href="/hk/1987/36">36 of 1987 s.
+                                36</ref>)</sourceNote></content></paragraph>
+            </def><def name="PublicServiceCommission"><term>Public
+                    Service
+                Commission</term>
+                    (<term xml:lang="zh-Hant-HK">公務員敍用委員會</term>) means the Public Service
+                Commission established by the Public Service Commission Ordinance (<ref href="/hk/cap93">Cap. 93</ref>);<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1970/78">78 of 1970 s. 2</ref>. Amended <ref href="/hk/1979/15">15 of 1979 s. 8</ref>)</sourceNote></def><def name="PublicServiceInACivilCapacityUnderTheGovernment">
+                <leadIn><term>public
+                        service in a civil capacity under the
+                    Government</term>
+                        (<term xml:lang="zh-Hant-HK">以文職身分任職於政府的公職服務</term>) shall be deemed to
+                    include, as service in a non-established office—</leadIn>
+                <paragraph id="ID_1438414070080_019" name="a" temporalId="s2_1_a"><num value="a">(a)</num><content>service, other than service as a doctor, in a Chinese Public Dispensary
+                        administered by the Chinese Public Dispensaries Committee under the then
+                        Secretary for Home Affairs, and</content></paragraph>
+                <paragraph id="ID_1438414070080_027" name="b" temporalId="s2_1_b"><num value="b">(b)</num><content>service under the District Watch Force administered by the District
+                        Watch Committee under the then Secretary for Home Affairs,</content></paragraph>
+                <continued>when such service has been followed without a break by service under the
+                    Government; and the period from 25 December 1941 to 31 March 1947 shall be
+                    subject to the provisions of <ref>section 20</ref> as though such service prior
+                    to 25 December 1941 as is included in paragraphs (a) and (b), was service under
+                    the Government;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1969/ln22">L.N. 22 of 1969</ref>; <ref href="/hk/1987/36">36
+                            of 1987 s. 36</ref>)</sourceNote></continued>
+            </def><def name="QualifyingService"><term>qualifying
+                    service</term>
+                    (<term xml:lang="zh-Hant-HK">符合領取退休金資格的服務期</term>) means service which may be
+                taken into account in determining whether an officer is eligible by length of
+                service for pension, gratuity or other allowance;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1982/26">26 of 1982 s.
+                    2</ref>)</sourceNote></def><def name="Salary"><term>salary</term>
+                    (<term xml:lang="zh-Hant-HK">薪金</term>) means the salary attached to an
+                established office or, where provision is made for taking service in a
+                non-established office into account as pensionable service, the salary attached to
+                that office;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1987/36">36 of 1987 s. 36</ref>)</sourceNote></def><def name="Secretary"><term>Secretary</term>
+                    (<term xml:lang="zh-Hant-HK">公務員事務局局長</term>) means the Secretary for the Civil
+                    Service;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1992/3">3 of 1992 s. 26</ref>. Amended <ref href="/hk/1997/ln362">L.N. 362 of 1997</ref>)</sourceNote></def><def name="SpecialAllowance"><term>special
+                    allowance</term>
+                    (<term xml:lang="zh-Hant-HK">特別津貼</term>) means a special addition to salary
+                declared to be pensionable as a special allowance by a resolution of the Legislative
+                Council under <ref>section
+                    2A</ref>;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1970/19">19 of 1970
+                        s. 2</ref>)</sourceNote></def><def name="Spouse">
+                <leadIn><term>spouse</term>
+                        (<term xml:lang="zh-Hant-HK">配偶</term>) in relation to an officer—</leadIn>
+                <paragraph id="ID_1438414070095_040" name="a" temporalId="s2_1_a"><num value="a">(a)</num><content>(where the officer contracts a marriage and by reason of the form of
+                        the marriage he is precluded from being married to another person at the
+                        same time) means the person to whom the officer is lawfully
+                        married;</content></paragraph>
+                <paragraph id="ID_1438414070111_006" name="b" temporalId="s2_1_b"><num value="b">(b)</num><content>(where the officer contracts a marriage and by reason of the form of
+                        the marriage he is or becomes lawfully married to more than one person at
+                        the same time) means, subject to <ref>section 18(3)(a)</ref>, the person
+                        whom the officer first married;</content></paragraph>
+                <paragraph id="ID_1438414070111_014" name="c" temporalId="s2_1_c"><num value="c">(c)</num><content>(where the officer contracts a lawful Chinese customary marriage) means
+                        the kit fat or tin fong wife;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1993/3">3 of 1993 s.
+                                26</ref>)</sourceNote></content></paragraph>
+            </def><def name="SurvivingSpouse"><term>surviving
+                    spouse</term>
+                    (<term xml:lang="zh-Hant-HK">尚存配偶</term>) in relation to an officer means the
+                person who is the spouse of the officer at the time of his death.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1993/3">3 of 1993 s.
+                        26</ref>)</sourceNote></def></subsection><subsection id="ID_1438414070111_027" name="2" temporalId="s2_2"><num value="2">(2)</num><content>For the avoidance of doubts it is hereby declared that, where an officer has
+                been confirmed in an established office and is thereafter appointed to another
+                established office, then, unless the terms of such appointment otherwise require,
+                such last mentioned office is, for the purposes of this Ordinance, an office in
+                which he has been confirmed.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1987/36">36 of 1987 s. 36</ref>)</sourceNote></content></subsection><subsection id="ID_1438414070127_005" name="3" temporalId="s2_3"><num value="3">(3)</num><content>Where the Chief Executive considers that it is appropriate to do so, he may
+                direct that any allowance received by an officer in respect of an acting appointment
+                shall be taken as pensionable emoluments.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1993/4">4 of 1993 s. 4</ref>. Amended <ref href="/hk/1999/63">63 of 1999 s. 3</ref>)</sourceNote></content></subsection><editorialNote type="footnote" id="ID_1602661735278_001">
+            <content>Editorial Note:</content>
+            <content><sup>#</sup> Commencement date: 9 December 1949.</content>
+        </editorialNote></section><section id="ID_1438403568464_002" name="s2A" reason="inEffect" startPeriod="2020-12-10" status="operational" temporalId="s2A"><num value="2A">2A.</num><heading>Power of Legislative Council to declare a special allowance pensionable</heading><subsection id="ID_1438414070298_004" name="1" temporalId="s2A_1"><num value="1">(1)</num><content>The Legislative Council may by resolution declare a special addition to salary to be pensionable as a special allowance for the purposes of this Ordinance.</content></subsection><subsection id="ID_1438414070298_012" name="2" temporalId="s2A_2"><num value="2">(2)</num><content>A resolution under subsection (1) shall specify the date from which it shall have effect and such date may be before the date on which the resolution is passed but shall not be before 1 November 1967.</content></subsection><sourceNote>(Added <ref href="/hk/1970/19">19 of 1970 s. 3</ref>)</sourceNote></section><section id="ID_1438403568479_001" name="s2B" reason="inEffect" startPeriod="2020-12-10" status="operational" temporalId="s2B"><num value="2B">2B.</num><heading>Delegation of powers by the Chief Executive</heading><content name="EstablishedOffice">The Chief Executive may delegate the
+                                    Secretary for the Civil Service or a Deputy Secretary for the
+                                    Civil Service to exercise the power to make orders in respect of
+                                    an established office conferred on him by the definition of
+                                                <term>established
+                                                office</term>
+                                    in <ref>section 2</ref>; and thereupon, or from the date
+                                    specified by the Chief Executive, the person delegated shall
+                                    have and may exercise such power.</content><sourceNote>(Added <ref href="/hk/1979/73">73 of 1979 s. 2</ref>. Amended <ref href="/hk/1987/36">36 of 1987 s. 36</ref>; <ref href="/hk/1999/63">63 of 1999 s.
+                                    3</ref>)</sourceNote></section><section id="ID_1438403568479_003" name="s2C" reason="inEffect" startPeriod="2020-12-10" status="operational" temporalId="s2C"><num value="2C">2C.</num><heading>Application</heading><subsection id="ID_1438414070392_004" name="1" temporalId="s2C_1"><num value="1">(1)</num><content>Subject to subsection (2), this Ordinance applies to every officer who is
+                appointed or re-appointed to service under the Government before the date of
+                commencement*
+                of the Pension Benefits Ordinance (<ref href="/hk/cap99">Cap. 99</ref>), whether on
+                transfer from other public service or otherwise, on terms which attract pension,
+                gratuity or other allowance.</content></subsection><subsection id="ID_1438414070392_012" name="2" temporalId="s2C_2"><num value="2">(2)</num><content>This Ordinance shall not apply to a serving officer within the meaning of the
+                Pension Benefits Ordinance (<ref href="/hk/cap99">Cap. 99</ref>) to whom that
+                Ordinance applies by virtue of <ref>section 4(1)(b)</ref> or (c) of that
+                Ordinance.</content></subsection><subsection id="ID_1438414070407_005" name="3" temporalId="s2C_3"><num value="3">(3)</num><content>This Ordinance does not apply to an officer to whom the Pension Benefits
+                (Judicial Officers) Ordinance (<ref href="/hk/cap401">Cap. 401</ref>) applies by
+                virtue of <ref>section 3(1)(b)</ref>, (c) or (d) of that Ordinance.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1988/85">85 of 1988
+                        s. 45</ref>)</sourceNote></content></subsection><sourceNote>(Added <ref href="/hk/1987/36">36 of 1987 s. 36</ref>)</sourceNote><editorialNote type="footnote" id="ID_1602731628153_001">
+            <content>Editorial Note:</content>
+            <content><inline class="force_orig_font">*</inline> Commencement date: 1 July
+                1987.</content>
+        </editorialNote></section><section id="ID_1438403568495_002" name="s3" reason="inEffect" startPeriod="2020-12-10" status="operational" temporalId="s3"><num value="3">3.</num><heading>Pension regulations</heading><subsection id="ID_1438414070439_011" name="1" temporalId="s3_1"><num value="1">(1)</num><content>
+                <leadIn>Pensions, gratuities and other allowances shall be granted by the Chief
+                    Executive in accordance with the regulations under this Ordinance to officers
+                    who have been in the service under the Government and to the dependants of such
+                    persons where such service is terminated by death:</leadIn>
+                <proviso name="proviso" temporalId="s3_1_proviso">Provided that where a pension,
+                    gratuity or other allowance is expressed to be grantable by the Chief Executive
+                    in Council such pension, gratuity or other allowance shall be granted only by
+                    the Chief Executive in Council.</proviso>
+            </content><content>The said regulations may from time to time be amended, added to, or revoked by
+                regulations made by the Chief Executive in Council, and all regulations so made
+                shall be published in the Gazette and laid before the Legislative Council.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1987/36">36 of
+                        1987 s. 36</ref>; <ref href="/hk/1999/63">63 of 1999 s.
+                    3</ref>)</sourceNote></content></subsection><subsection id="ID_1438414070454_004" name="2" temporalId="s3_2"><num value="2">(2)</num><def name="ThisOrdinance">The expression
+                    <term>this
+                    Ordinance</term>
+                    (<term xml:lang="zh-Hant-HK">本條例</term>) shall, wherever it occurs in this
+                Ordinance, be construed as including a reference to the regulations made
+                thereunder.</def></subsection><subsection id="ID_1438414070454_011" name="3" temporalId="s3_3"><num value="3">(3)</num><content>
+                <leadIn>Whenever the Chief Executive in Council is satisfied that it is equitable
+                    that any regulation made under this section should have retrospective effect in
+                    order to confer a benefit upon or remove a disability attaching to any person
+                    that regulation may be given retrospective effect for that purpose:<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1999/63">63 of
+                            1999 s. 3</ref>)</sourceNote></leadIn>
+                <proviso name="proviso" temporalId="s3_3_proviso">Provided that no such regulation
+                    shall have retrospective effect unless it has received the prior approval of the
+                    Legislative Council signified by resolution.</proviso>
+            </content></subsection><subsection id="ID_1438414070454_025" name="4" temporalId="s3_4"><num value="4">(4)</num><content>Any pension, additional pension, gratuity or ex gratia payment granted to an
+                officer under this Ordinance shall be computed in accordance with the provisions
+                relating to such officer which are in force at the actual date of his retirement,
+                death or injury, as the case may be.<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/1994/98">98 of 1994 s.
+                    4</ref>)</sourceNote></content></subsection><subsection id="ID_1438414070470_004" name="5" temporalId="s3_5"><num value="5">(5)</num><content>Subsection (4), as enacted by <ref>section 4</ref> of the Pensions Ordinances
+                (Miscellaneous Amendments) Ordinance 1994 (<ref href="/hk/1994/98">98 of
+                1994</ref>), is deemed to have come into operation on 1 February 1993.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1994/98">98 of 1994
+                        s. 4</ref>)</sourceNote></content></subsection></section><section id="ID_1438403568495_004" name="s4" reason="inEffect" startPeriod="2020-12-10" status="operational" temporalId="s4"><num value="4">4.</num><heading>Pensions, etc., to be charged on general revenue</heading><content>There shall be charged on and paid out of the general revenue all such sums of money as may from time to time be granted by way of pension, gratuity or other allowance in pursuance of this Ordinance.</content><sourceNote>(Amended <ref href="/hk/1987/36">36 of 1987 s. 36</ref>)</sourceNote></section><section id="ID_1438403568510_001" name="s5" reason="inEffect" startPeriod="2020-12-10" status="operational" temporalId="s5"><num value="5">5.</num><heading>Pensions, etc. to be of right</heading><content>Except as otherwise provided in this Ordinance, the entitlement to pension, gratuity or other allowance under this Ordinance shall be a right.</content><sourceNote>(Replaced <ref href="/hk/1987/36">36 of 1987 s. 36</ref>)</sourceNote></section><section id="ID_1438403568526_001" name="s6" reason="inEffect" startPeriod="2020-12-10" status="operational" temporalId="s6"><num value="6">6.</num><heading>Circumstances in which pension may be granted</heading><subsection id="ID_1438414070563_011" name="1" temporalId="s6_1"><num value="1">(1)</num><leadIn>Subject to subsection (2), unless otherwise provided under this Ordinance or
+                regulations made thereunder no pension, gratuity or other allowance shall be granted
+                under this Ordinance to any officer holding an established office except on his
+                retirement from the public service in one of the following
+                    cases—  <sourceNote>(Amended <ref href="/hk/1987/36">36 of 1987 s.
+                    36</ref>)</sourceNote></leadIn><paragraph id="ID_1438414070563_019" name="a" temporalId="s6_1_a"><num value="a">(a)</num><leadIn>in the case of a judge or a district judge—</leadIn><subparagraph id="ID_1438414070579_006" name="i" temporalId="s6_1_a_i"><num value="i">(i)</num><content>on or after attaining the age of 55 years; or</content></subparagraph><subparagraph id="ID_1438414070579_014" name="ii" temporalId="s6_1_a_ii"><num value="ii">(ii)</num><content>on or after attaining the age of 45 years when such retirement is with
+                        the approval of the Chief Executive;<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/1970/34">34 of 1970 s.
+                                3</ref>. Amended <ref href="/hk/1976/2">2 of 1976 s. 3</ref>; <ref href="/hk/1987/36">36 of 1987 s. 36</ref>)</sourceNote></content></subparagraph></paragraph><paragraph id="ID_1438414070579_021" name="aa" temporalId="s6_1_aa"><num value="aa">(aa)</num><content>in the case of an officer other than a judge or a district judge, on or
+                    after attaining the normal age of retirement, as provided in <ref>section
+                        8</ref>, or the age of 45 years when such retirement is with the approval of
+                    the Chief Executive;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1970/34">34 of 1970 s. 3</ref>. Amended <ref href="/hk/1976/2">2 of 1976 s. 3</ref>; <ref href="/hk/1987/36">36 of 1987 s.
+                        36</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438414070579_029" name="b" temporalId="s6_1_b"><num value="b">(b)</num><leadIn>in the case of transfer to other public service—</leadIn><subparagraph id="ID_1438414070579_037" name="i" temporalId="s6_1_b_i"><num value="i">(i)</num><content>on his retirement on or after attaining the age at which he is
+                        permitted by the law or regulations of the service in which he is last
+                        employed to retire on pension; or</content></subparagraph><subparagraph id="ID_1438414070579_045" name="ii" temporalId="s6_1_b_ii"><num value="ii">(ii)</num><content>on his retirement in any other circumstances in which he is permitted
+                        by the law or regulations of the service in which he is last employed to
+                        retire on pension or gratuity,</content></subparagraph><continued>but subparagraph (ii) shall not apply in the case of a female officer who
+                    retires for the reason that she has or is about to be married;<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/1987/36">36
+                            of 1987 s. 36</ref>)</sourceNote></continued></paragraph><paragraph id="ID_1438414070595_012" name="c" temporalId="s6_1_c"><num value="c">(c)</num><content>on the abolition of his office;</content></paragraph><paragraph id="ID_1438414070595_020" name="d" temporalId="s6_1_d"><num value="d">(d)</num><content>on compulsory retirement for the purpose of facilitating improvement in the
+                    organization of the department to which he belongs, by which greater efficiency
+                    or economy may be effected;</content></paragraph><paragraph id="ID_1438414070595_028" name="e" temporalId="s6_1_e"><num value="e">(e)</num><content>on medical evidence to the satisfaction of the Chief Executive that he is
+                    incapable by reason of any infirmity of mind or body of discharging the duties
+                    of his office and that such infirmity is likely to be permanent;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1987/36">36 of
+                            1987 s. 36</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438414070595_036" name="f" temporalId="s6_1_f"><num value="f">(f)</num><sourceNote>(Repealed <ref href="/hk/1987/36">36 of 1987 s. 36</ref>)</sourceNote></paragraph><paragraph id="ID_1438414070595_044" name="g" temporalId="s6_1_g"><num value="g">(g)</num><content>on retirement in circumstances, not mentioned in the preceding paragraphs
+                    of this section, rendering him eligible for a pension under the Pensions
+                    (Governors of Dominions, &amp;c.) Acts 1911 to 1947 (1947 c. 12 U.K.);</content></paragraph><paragraph id="ID_1438414070610_006" name="h" temporalId="s6_1_h"><num value="h">(h)</num><content>on retirement in accordance with any compensation scheme;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1987/36">36 of
+                            1987 s. 36</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438414070610_014" name="i" temporalId="s6_1_i"><num value="i">(i)</num><content>subject to subsection (2), on retirement in the public interest;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1987/36">36 of
+                            1987 s. 36</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438414070610_022" name="j" temporalId="s6_1_j"><num value="j">(j)</num><content>
+                    <leadIn>subject to subsection (2), on compulsory retirement in exercise of
+                        disciplinary powers of punishment by the Government:<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1987/36">36 of 1987 s.
+                                36</ref>)</sourceNote></leadIn>
+                    <proviso name="proviso" temporalId="s6_1_j_proviso">Provided that a gratuity may
+                        be granted to a female officer, in accordance with the provisions of this
+                        Ordinance, who retires for the reason that she has married or is about to
+                        marry, notwithstanding that she is not otherwise eligible under this section
+                        for the grant of any pension, gratuity or other allowance.</proviso>
+                </content></paragraph></subsection><subsection id="ID_1438414070610_035" name="2" temporalId="s6_2"><num value="2">(2)</num><content>Unless otherwise directed by the Chief Executive, pension, gratuity or other
+                allowance granted to an officer to whom subsection <ref>(1)(i)</ref> or (j) applies
+                shall not be payable until the officer attains the age of 55 years.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1987/36">36 of 1987
+                        s. 36</ref>)</sourceNote></content></subsection><subsection id="ID_1438414070626_005" name="3" temporalId="s6_3"><num value="3">(3)</num><content>A pension shall be paid in monthly instalments, or less frequently if so
+                requested by the recipient.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1993/4">4 of 1993 s. 5</ref>)</sourceNote></content></subsection><sourceNote>(Amended <ref href="/hk/1999/63">63 of 1999 s. 3</ref>)</sourceNote></section><section id="ID_1438403568526_003" name="s6A" reason="inEffect" startPeriod="2020-12-10" status="operational" temporalId="s6A"><num value="6A">6A.</num><heading>Compensation scheme</heading><leadIn>For the purposes of <ref>section 6(1)(h)</ref> the Chief Executive in Council may,
+            from time to time, approve a compensation scheme which—  <sourceNote>(Amended <ref href="/hk/1993/4">4 of 1993 s. 6</ref>; <ref href="/hk/1999/63">63 of 1999 s.
+                    3</ref>)</sourceNote></leadIn><paragraph id="ID_1438414070719_019" name="a" temporalId="s6A_a"><num value="a">(a)</num><content>shall apply to such officers as are specified in the scheme;</content></paragraph><paragraph id="ID_1438414070719_027" name="b" temporalId="s6A_b"><num value="b">(b)</num><content>may provide for the payment of compensation, pension, gratuity or other
+                allowance and additional benefits to officers on their retirement, the commutation
+                of pension, gratuity or other allowance, the payment of death gratuities to
+                dependants of officers, and for other matters relating thereto, other than in
+                accordance with this Ordinance; and</content></paragraph><paragraph id="ID_1438414070735_006" name="c" temporalId="s6A_c"><num value="c">(c)</num><content>shall provide for the circumstances under which compensation and other benefits
+                are payable under the scheme.</content></paragraph><sourceNote>(Added <ref href="/hk/1987/36">36 of 1987 s. 36</ref>)</sourceNote></section><section id="ID_1438403568542_002" name="s7" reason="inEffect" startPeriod="2020-12-10" status="operational" temporalId="s7"><num value="7">7.</num><heading>Discretionary power to grant ex gratia payment where officer leaves the public
+            service</heading><text>Where an officer leaves the public service and a pension or gratuity cannot, except by
+            the application of <ref>section 20A</ref>, be granted to him under this Ordinance, the
+            Chief Executive may, if he thinks fit, grant such ex gratia payment to the officer as he
+            thinks just and proper.</text><sourceNote>(Replaced <ref href="/hk/1987/36">36 of 1987 s. 36</ref>. Amended <ref href="/hk/1993/4">4 of 1993 s. 7</ref>; <ref href="/hk/1999/63">63 of 1999 s.
+                3</ref>)</sourceNote></section><section id="ID_1438403568542_004" name="s7A" reason="inEffect" startPeriod="2020-12-10" status="operational" temporalId="s7A"><num value="7A">7A.</num><heading>Removal of judge or district judge from office</heading><text>If a judge or a district judge is removed from office by the Chief Executive by
+            instrument under the Public Seal, the Chief Executive may, if he thinks fit, grant to
+            him such pension, gratuity or other allowance as he thinks just and proper.</text><sourceNote>(Added <ref href="/hk/1976/2">2 of 1976 s. 4</ref>. Amended <ref href="/hk/1999/63">63 of 1999 s. 3</ref>)</sourceNote></section><section id="ID_1438403568557_002" name="s8" reason="inEffect" startPeriod="2020-12-10" status="operational" temporalId="s8"><num value="8">8.</num><heading>Compulsory retirement</heading><subsection id="ID_1438414070844_011" name="1" temporalId="s8_1"><num value="1">(1)</num><content>
+                <leadIn>The normal age of retirement of an officer, other than a judge or a district
+                    judge, holding an established office shall be on attaining the age of 55
+                    years:</leadIn>
+                <proviso name="proviso" temporalId="s8_1_proviso">
+                    <leadIn>Provided that—</leadIn>
+                    <paragraph id="ID_1438414070844_026" name="a" temporalId="s8_1_a"><num value="a">(a)</num><content>the Chief Executive may approve any such officer’s continued
+                            service after attaining such age;</content></paragraph>
+                    <paragraph id="ID_1438414070844_034" name="b" temporalId="s8_1_b"><num value="b">(b)</num><content>a female who held an established office on 1 April 1957 may elect
+                            to retire on attaining the age of 50 years by giving to the Chief
+                            Executive notice in writing of such election on or before attaining the
+                            age of 49 years and such election shall be irrevocable.<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/1970/34">34 of 1970 s. 4</ref>. Amended <ref href="/hk/1976/2">2 of 1976 s. 5</ref>; <ref href="/hk/1987/36">36 of 1987 s. 36</ref>; <ref href="/hk/1999/63">63 of 1999 s.
+                                    3</ref>)</sourceNote></content></paragraph>
+                </proviso>
+            </content></subsection><subsection id="ID_1438414070860_005" name="2...3" temporalId="s8_2...3"><num value="2...3">(2)-(3)</num><sourceNote>(Repealed <ref href="/hk/1987/36">36 of 1987 s. 36</ref>)</sourceNote></subsection></section><section id="ID_1438403568557_004" name="s9" reason="inEffect" startPeriod="2020-12-10" status="operational" temporalId="s9"><num value="9">9.</num><heading>Maximum pension</heading><subsection id="ID_1438414070891_004" name="1" temporalId="s9_1"><num value="1">(1)</num><leadIn>Except in cases referred to in subsection (2), a pension (or in the case of more than one pension, the total of the pensions) granted to an officer under this Ordinance shall not exceed two-thirds of—</leadIn><paragraph id="ID_1438414070891_012" name="a" temporalId="s9_1_a"><num value="a">(a)</num><content>the highest pensionable emoluments enjoyed or drawn by him; or</content></paragraph><paragraph id="ID_1438414070891_020" name="b" temporalId="s9_1_b"><num value="b">(b)</num><content>the notional highest pensionable emoluments deemed to have been enjoyed or drawn by him in the course of his service under the Government,</content></paragraph><continued>whichever is the greater.<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/1987/36">36 of 1987 s. 36</ref>)</sourceNote></continued></subsection><subsection id="ID_1438414070891_033" name="2" temporalId="s9_2"><num value="2">(2)</num><content><leadIn>An officer who shall have been granted a pension in respect of other public service shall not at any time draw from the general revenue an amount of pension which, when added to the amount of any pension or pensions drawn in respect of other public service, exceeds two-thirds of the highest pensionable emoluments enjoyed or drawn by him at any time in the course of his public service:<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1982/26">26 of 1982 s. 4</ref>; <ref href="/hk/1987/36">36 of 1987 s. 36</ref>)</sourceNote></leadIn><proviso name="proviso" temporalId="s9_2_proviso"><leadIn>Provided that where an officer receives in respect of some period of public service both a gratuity and a pension, the amount of such pension shall be deemed for the purpose of this subsection to be—</leadIn><paragraph id="ID_1438414070907_012" name="a" temporalId="s9_2_proviso_a"><num value="a">(a)</num><content>where the right to commute any part of a pension in return for payment of a gratuity has been exercised, the amount if that right had not been exercised; or</content></paragraph><paragraph id="ID_1438414070907_020" name="b" temporalId="s9_2_proviso_b"><num value="b">(b)</num><content>in all other cases, four-thirds of its actual amount.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1962/13">13 of 1962 s. 4</ref>)</sourceNote></content></paragraph></proviso></content></subsection><subsection id="ID_1438414070907_027" name="3" temporalId="s9_3"><num value="3">(3)</num><content>Where the limitation prescribed by subsection (2) operates, the amount of the pensions to be drawn from the general revenue shall be subject to the approval of the Chief Executive and determined with due regard to the amount of any pension or pensions to be drawn in respect of other public service.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1987/36">36 of 1987 s. 36</ref>; <ref href="/hk/1999/63">63 of 1999 s. 3</ref>)</sourceNote></content></subsection><subsection id="ID_1438414070922_005" name="4" temporalId="s9_4"><num value="4">(4)</num><leadIn>An additional pension granted to an officer under <ref>regulation 31</ref> of the Pensions Regulations (<ref href="/hk/cap89A">Cap. 89 sub. leg. A</ref>) in respect of injury shall not be taken into account for the purpose of subsections (1), (2) and (3); but where the officer is granted any such additional pension, the amount thereof together with any authorized increase on the additional pension from the date of the injury to the date when the additional pension is paid for the first time and any other pension or pensions granted to him shall not exceed five-sixths of—</leadIn><paragraph id="ID_1438414070922_013" name="a" temporalId="s9_4_a"><num value="a">(a)</num><content>the highest pensionable emoluments enjoyed or drawn by him; or</content></paragraph><paragraph id="ID_1438414070922_021" name="b" temporalId="s9_4_b"><num value="b">(b)</num><content>the notional highest pensionable emoluments deemed to have been enjoyed or drawn by him in the course of his service,</content></paragraph><continued>whichever is the greater.<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/1987/36">36 of 1987 s. 36</ref>)</sourceNote></continued></subsection><subsection id="ID_1438414070922_034" name="5" temporalId="s9_5"><num value="5">(5)</num><leadIn>For the purposes of subsections (1), (2) and (4), in determining the highest pensionable emoluments enjoyed by an officer in respect of a period of absence from duty on leave without salary, regard shall only be had to the pensionable emoluments that an officer would have enjoyed if he had been on duty on full pensionable emoluments where—</leadIn><paragraph id="ID_1438414070938_005" name="i" temporalId="s9_5_i"><num value="i">(i)</num><content>the officer has since expiration of that period of absence, (taking the earliest period first if there is more than one) completed an equal period of service on duty or leave with salary (other than leave immediately preceding retirement); or</content></paragraph><paragraph id="ID_1438414070938_013" name="ii" temporalId="s9_5_ii"><num value="ii">(ii)</num><content>the officer retires in one of the cases referred to <ref>section 6(1)(c)</ref>, (d) or (e); or <sourceNote>(Amended <ref href="/hk/1997/80">80 of 1997 s. 102</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438414070938_021" name="iii" temporalId="s9_5_iii"><num value="iii">(iii)</num><content>the Chief Executive in any case so directs.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1982/26">26 of 1982 s. 4</ref>. Amended <ref href="/hk/1999/63">63 of 1999 s. 3</ref>)</sourceNote></content></paragraph></subsection><sourceNote>(Amended <ref href="/hk/2015/er1">E.R. 1 of 2015</ref>)</sourceNote></section><section id="ID_1438403568573_002" name="s10" reason="repealed" startPeriod="1997-06-30" status="repealed" temporalId="s10"><num value="10">10.</num><sourceNote>(Repealed <ref href="/hk/1987/36">36 of 1987 s. 36</ref>)</sourceNote></section><section id="ID_1438403568573_004" name="s11" reason="inEffect" startPeriod="2020-12-10" status="operational" temporalId="s11"><num value="11">11.</num><heading>Suspension of pension on reappointment, etc.</heading><text>If a person to whom a pension has been granted under this Ordinance is reappointed to
+            the public service, or appointed to service in a subvented organization which is for the
+            purposes of this section determined to be public service by the Chief Executive by
+            notice in the Gazette, payment of the pension may, with the person’s consent, be
+            suspended during the period of his service in the public service or the organization, as
+            the case may be.</text><sourceNote>(Replaced <ref href="/hk/1993/4">4 of 1993 s. 8</ref>. Amended <ref href="/hk/1999/63">63 of 1999 s. 3</ref>)</sourceNote></section><section id="ID_1438403568588_002" name="s12" reason="inEffect" startPeriod="2020-12-10" status="operational" temporalId="s12"><num value="12">12.</num><heading>Pensions etc. not to be assignable</heading><subsection id="ID_1438414071047_025" name="1" temporalId="s12_1"><num value="1">(1)</num><leadIn>Save as otherwise provided by the Public Officers (Assignment of Emoluments)
+                Ordinance (<ref href="/hk/cap363">Cap. 363</ref>), a pension (including a deferred
+                pension), gratuity or other allowance granted under this Ordinance shall not be
+                assignable or transferable except for the purpose of—</leadIn><paragraph id="ID_1438414071063_005" name="a" temporalId="s12_1_a"><num value="a">(a)</num><content>satisfying (either in whole or in part) a debt due to the Government;
+                    or</content></paragraph><paragraph id="ID_1438414071063_013" name="b" temporalId="s12_1_b"><num value="b">(b)</num><content>satisfying an order of any court for the payment of money towards the
+                    maintenance of the spouse or former spouse or minor child of the officer to whom
+                    such pension gratuity or other allowance was granted,</content></paragraph><continued>and no such pension, gratuity or other allowance shall be liable to be
+                attached, sequestered or levied upon for or in respect of any claim or debt other
+                than a debt due to the Government.</continued></subsection><subsection id="ID_1438414071063_026" name="2" temporalId="s12_2"><num value="2">(2)</num><paragraph id="ID_1438414071063_030" name="a" temporalId="s12_2_a"><num value="a">(a)</num><content>Where any person to whom a<inline class="width_3"> </inline>pension
+                    (including a deferred pension), gratuity or other allowance is granted under
+                    this Ordinance owes a debt to the Government, subject to paragraph (b), the
+                    Director of Accounting Services may apply that pension, gratuity or other
+                    allowance, either in whole or in part, for the satisfaction, or partial
+                    satisfaction, of the debt.</content></paragraph><paragraph id="ID_1438414071078_006" name="b" temporalId="s12_2_b"><num value="b">(b)</num><leadIn>Where—</leadIn><subparagraph id="ID_1438414071078_014" name="i" temporalId="s12_2_b_i"><num value="i">(i)</num><content>a person owes a debt to the Government arising otherwise than on
+                        account of tax payable under the Inland Revenue Ordinance (<ref href="/hk/cap112">Cap. 112</ref>); and</content></subparagraph><subparagraph id="ID_1438414071078_022" name="ii" temporalId="s12_2_b_ii"><num value="ii">(ii)</num><content>the person has not consented to the exercise, in relation to a pension
+                        (including a deferred pension), gratuity
+                        or
+                        other allowance so granted to him, of the power conferred on the Director of
+                        Accounting Services by this subsection,</content></subparagraph><continued>the amount applied in such exercise shall not, as regards a particular
+                    such pension, gratuity or other allowance, exceed an amount equal to 25%
+                    thereof.</continued></paragraph></subsection><subsection id="ID_1438414071078_034" name="3" temporalId="s12_3"><num value="3">(3)</num><content>Each of the references in this section either to a deferred or other pension or
+                to an allowance (other than a gratuity) shall be construed as including a reference
+                to any increase in the pension or allowance which is for the time being authorized
+                under <ref>section 4</ref> of the Pension (Increase) Ordinance (<ref href="/hk/cap305">Cap. 305</ref>).</content></subsection><sourceNote>(Replaced <ref href="/hk/1988/61">61 of 1988 s. 8</ref>(1))</sourceNote></section><section id="ID_1438403568588_004" name="s12A" reason="inEffect" startPeriod="2020-12-10" status="operational" temporalId="s12A"><num value="12A">12A.</num><heading>Operation of <ref>section 12</ref></heading><content><ref>Section 12</ref>, as enacted by <ref>section 8(1)</ref> of the Pension Benefits (Miscellaneous Amendments) Ordinance 1988 (<ref href="/hk/1988/61">61 of 1988</ref>), shall be deemed to have come into operation on 1 July 1987.</content><sourceNote>(<ref href="/hk/1988/61">61 of 1988 s. 8</ref>(2) incorporated)</sourceNote></section><section id="ID_1438403568604_002" name="s13" reason="inEffect" startPeriod="2020-12-10" status="operational" temporalId="s13"><num value="13">13.</num><heading>Pensions, etc., to cease on bankruptcy</heading><subsection id="ID_1438414071156_025" name="1" temporalId="s13_1"><num value="1">(1)</num><content>If any person to whom a pension or other allowance has been granted under this
+                Ordinance is adjudicated bankrupt or is declared insolvent by judgment of any
+                competent court, then such pension or allowance shall forthwith cease.</content></subsection><subsection id="ID_1438414071172_005" name="2" temporalId="s13_2"><num value="2">(2)</num><leadIn>If any person is adjudicated bankrupt or declared insolvent as aforesaid
+                either—</leadIn><paragraph id="ID_1438414071172_013" name="a" temporalId="s13_2_a"><num value="a">(a)</num><content>after retirement in circumstances in which he is eligible for pension or
+                    allowance under this Ordinance but before the pension or allowance is granted;
+                    or</content></paragraph><paragraph id="ID_1438414071172_021" name="b" temporalId="s13_2_b"><num value="b">(b)</num><content>before such retirement, and he shall not have obtained his discharge from
+                    bankruptcy or insolvency at the date of retirement,</content></paragraph><continued>then, in the former case any pension or allowance eventually granted to him
+                shall cease as from the date of adjudication or declaration as the case may be and,
+                in the latter case, the pension or allowance may be granted, but shall cease
+                forthwith and not become payable.</continued></subsection><subsection id="ID_1438414071172_034" name="3" temporalId="s13_3"><num value="3">(3)</num><content>Where a pension or allowance ceases by reason of this section, it shall be
+                lawful for the Chief Executive, from time to time during the remainder of such
+                person’s life, or during such shorter period or periods, either continuous or
+                discontinuous, as the Chief Executive shall think fit, to direct all or any part of
+                the moneys to which such person would have been entitled by way of pension or
+                allowance, had he not become bankrupt or insolvent, to be paid to, or applied for
+                the maintenance or benefit of all or any to the exclusion of the other or others, of
+                the following, that is to say, such person and any spouse, child or children of such
+                person, or such other of his dependants as the Chief Executive may determine, in
+                such proportions and manner as the Chief Executive thinks proper, and such moneys
+                shall be paid or applied accordingly.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1972/55">55 of 1972 s. 4</ref>; <ref href="/hk/1987/36">36 of 1987 s. 36</ref>; <ref href="/hk/1999/63">63
+                        of 1999 s. 3</ref>)</sourceNote></content></subsection><subsection id="ID_1438414071219_005" name="4" temporalId="s13_4"><num value="4">(4)</num><content>Moneys applied for the discharge of the debts of the person whose pension or
+                allowance has so ceased shall, for the purposes of this section, be regarded as
+                applied for his benefit.</content></subsection><subsection id="ID_1438414071219_013" name="5" temporalId="s13_5"><num value="5">(5)</num><content>Where, by reason of subsection (1) or (2), payment to a person of a pension or
+                other allowance granted to him is not being made and the person obtains his
+                discharge from bankruptcy or insolvency, as the case may be, payment of the pension,
+                allowance or pension and allowance, as may be appropriate, shall be restored to him
+                as from the date on which he is so discharged.<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/1987/36">36 of 1987 s.
+                    36</ref>)</sourceNote></content></subsection></section><section id="ID_1438403568604_004" name="s14" reason="inEffect" startPeriod="2020-12-10" status="operational" temporalId="s14"><num value="14">14.</num><heading>Power not to grant, or to cancel or reduce, pension or allowance</heading><subsection id="ID_1438414071312_004" name="1" temporalId="s14_1"><num value="1">(1)</num><leadIn>Subject to subsection (5) and to <ref>section 15A</ref>, a designated officer may—</leadIn><paragraph id="ID_1438414071312_012" name="a" temporalId="s14_1_a"><num value="a">(a)</num><content>refuse to grant a pension or allowance to a person if it be shown to the designated officer that the person wilfully suppressed facts that are material to the grant of a pension or allowance; or</content></paragraph><paragraph id="ID_1438414071312_020" name="b" temporalId="s14_1_b"><num value="b">(b)</num><content>cancel or reduce a pension or allowance granted to a person if it be shown to the designated officer that the pension or allowance was obtained by the wilful suppression by the person of facts, or that it was granted in ignorance of facts, which were such that had they been known before the retirement of the person, the pension or allowance would not have been granted or would only have been granted in part.</content></paragraph></subsection><subsection id="ID_1438414071328_005" name="2" temporalId="s14_2"><num value="2">(2)</num><leadIn>Subject to subsection (6) and to <ref>section 15A</ref>, a designated officer may—</leadIn><paragraph id="ID_1438414071328_013" name="a" temporalId="s14_2_a"><num value="a">(a)</num><content>refuse to grant a pension or allowance; or</content></paragraph><paragraph id="ID_1438414071328_021" name="b" temporalId="s14_2_b"><num value="b">(b)</num><content>cancel or reduce a pension or allowance granted,</content></paragraph><continued>to an officer to whom <ref>section 6(1)(a)</ref> or (aa) or <ref>regulation
+                    26(4)(b)</ref> or (bb) of the Pensions Regulations (<ref href="/hk/cap89A">Cap.
+                    89 sub.
+                    leg.
+                    A</ref>) applies, if it be shown to the designated officer
+                    that—  <sourceNote>(Amended <ref href="/hk/1993/4">4 of 1993 s.
+                    9</ref>; <ref href="hk/2020/er7">E.R. 7 of
+                2020</ref>)</sourceNote></continued><paragraph id="ID_1438414071328_035" name="i" temporalId="s14_2_i"><num value="i">(i)</num><content>the officer retired during any disciplinary proceedings brought against him by the Government; and</content></paragraph><paragraph id="ID_1438414071328_043" name="ii" temporalId="s14_2_ii"><num value="ii">(ii)</num><content>had such proceedings been completed or taken place they would, in the opinion of the Public Service Commission, have led to the dismissal of the officer from the service or compulsory retirement in the exercise of disciplinary powers of punishment by the Government with a reduction of the pension or allowance granted to him.</content></paragraph></subsection><subsection id="ID_1438414071343_005" name="3" temporalId="s14_3"><num value="3">(3)</num><content>A cancellation or reduction of pension or allowance made by a designated officer under subsection (1) or (2) shall be effective as from such date as the designated officer shall determine, and in the case of a reduction of pension or allowance the reduction shall be by such amount, not exceeding 25% of the pension or allowance, as the designated officer shall determine.</content></subsection><subsection id="ID_1438414071343_013" name="4" temporalId="s14_4"><num value="4">(4)</num><content>Where, under this section, a designated officer refuses to grant a pension or allowance to a person or officer, a pension or allowance, as the case may be, shall accordingly not be granted to that person or officer.</content></subsection><subsection id="ID_1438414071359_005" name="5" temporalId="s14_5"><num value="5">(5)</num><leadIn>Before a designated officer, acting under subsection
+                    (1)—<inline class="width_3"> </inline><sourceNote>(Amended <ref href="hk/2020/er7">E.R. 7 of
+                        2020</ref>)</sourceNote></leadIn><paragraph id="ID_1438414071359_013" name="a" temporalId="s14_5_a"><num value="a">(a)</num><content>refuses to grant a pension or allowance; or</content></paragraph><paragraph id="ID_1438414071359_021" name="b" temporalId="s14_5_b"><num value="b">(b)</num><content>cancels or reduces a pension or allowance granted,</content></paragraph><continued>to a person who holds or who, immediately before leaving the public service,
+                held—</continued><paragraph id="ID_1438414071359_035" name="i" temporalId="s14_5_i"><num value="i">(i)</num><content>a judicial office, as defined in the Public Service Commission Ordinance
+                        (<ref href="/hk/cap93">Cap. 93</ref>), he shall take into consideration the
+                    advice of the Judicial Officers Recommendation Commission;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1995/79">79 of
+                            1995 s. 50</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438414071359_043" name="ii" temporalId="s14_5_ii"><num value="ii">(ii)</num><content>an office in the public service other than an office specified in
+                        <ref>section 6(2)</ref> of, or the <ref>First Schedule</ref> to, the Public
+                    Service Commission Ordinance (<ref href="/hk/cap93">Cap. 93</ref>), he shall
+                    take into consideration the advice of the Public Service Commission.</content></paragraph></subsection><subsection id="ID_1438414071375_005" name="6" temporalId="s14_6"><num value="6">(6)</num><leadIn>As regards the exercise of any power under subsection (2) to—</leadIn><paragraph id="ID_1438414071375_013" name="a" temporalId="s14_6_a"><num value="a">(a)</num><content>refuse to grant a pension or allowance; or</content></paragraph><paragraph id="ID_1438414071375_021" name="b" temporalId="s14_6_b"><num value="b">(b)</num><content>cancel or reduce a pension or allowance granted,</content></paragraph><continued>to an officer who holds or who, immediately before leaving the public service, held—</continued><paragraph id="ID_1438414071375_035" name="i" temporalId="s14_6_i"><num value="i">(i)</num><content>a judicial office, as defined in the Public Service Commission Ordinance (<ref href="/hk/cap93">Cap. 93</ref>), a designated officer shall, before exercising the power, take into consideration the advice of the Judicial Officers Recommendation Commission;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1995/79">79 of 1995 s. 50</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438414071390_005" name="ii" temporalId="s14_6_ii"><num value="ii">(ii)</num><content>an office in the public service other than an office specified in <ref>section 6(2)</ref> of, or the <ref>First Schedule</ref> to, the Public Service Commission Ordinance (<ref href="/hk/cap93">Cap. 93</ref>), a designated officer shall, before exercising the power, take into consideration the advice of the Public Service Commission.</content></paragraph></subsection><subsection id="ID_1438414071390_012" name="7" temporalId="s14_7"><num value="7">(7)</num><paragraph id="ID_1438414071390_016" name="a" temporalId="s14_7_a"><num value="a">(a)</num><def name="DesignatedOfficer">In this section and <ref>sections 15</ref> and
+                        <ref>15A</ref>
+                    <term>designated
+                        officer</term>
+                        (<term xml:lang="zh-Hant-HK">指定人員</term>) has the meaning assigned to it by
+                        <ref>section 2(1)</ref> of the Pension Benefits Ordinance (<ref href="/hk/cap99">Cap. 99</ref>).</def></paragraph><paragraph id="ID_1438414071390_021" name="b" temporalId="s14_7_b"><num value="b">(b)</num><leadIn>For the purpose of giving effect to this section and <ref>sections 15</ref>
+                    and <ref>15A</ref>—</leadIn><subparagraph id="ID_1438414071390_029" name="i" temporalId="s14_7_b_i"><num value="i">(i)</num><content><ref>section 29A(1)</ref> of the Pension Benefits Ordinance (<ref href="/hk/cap99">Cap. 99</ref>), shall be construed and have effect as
+                        if “the Pensions Ordinance” were substituted for “this Ordinance”;
+                        and</content></subparagraph><subparagraph id="ID_1438414071406_007" name="ii" temporalId="s14_7_b_ii"><num value="ii">(ii)</num><content>the reference in <ref>section 29B</ref> of the Pension Benefits
+                        Ordinance (<ref href="/hk/cap99">Cap. 99</ref>) to a requirement under
+                            <ref>section 29A(7)</ref> of that Ordinance shall be construed as
+                        including a reference to a requirement under <ref>section
+                        15A(6)</ref>.</content></subparagraph></paragraph></subsection><sourceNote>(Replaced <ref href="/hk/1988/86">86 of 1988 s. 6</ref>)</sourceNote></section><section id="ID_1438403568620_002" name="s15" reason="inEffect" startPeriod="2024-03-23" status="operational" temporalId="s15"><num value="15">15.</num><heading>Pension, gratuity or allowance may be cancelled, suspended or reduced on
+            conviction, etc.</heading><subsection id="ID_1438414071499_011" name="1" temporalId="s15_1"><num value="1">(1)</num><leadIn>Where—</leadIn><paragraph id="ID_1438414071499_019" name="a" temporalId="s15_1_a"><num value="a">(a)</num><leadIn>an officer to whom a pension or allowance has been
+                        granted—  <sourceNote>(Amended <ref href="/hk/1992/ln63">L.N. 63 of
+                            1992</ref>)</sourceNote></leadIn><subparagraph id="ID_1438414071499_027" name="i" temporalId="s15_1_a_i"><num value="i">(i)</num><content>is convicted of any offence in connection with the public service under
+                        the Government, being an offence which is certified by the Chief Executive
+                        to have been gravely injurious to Hong Kong or to be liable to lead to
+                        serious loss of confidence in the public service;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1999/63">63 of 1999 s.
+                                3</ref>)</sourceNote></content></subparagraph><subparagraph id="ID_1438414071515_007" name="ii" temporalId="s15_1_a_ii"><num value="ii">(ii)</num><content>is convicted of any offence under Part II of the Prevention of Bribery
+                        Ordinance (<ref href="/hk/cap201">Cap. 201</ref>), being an offence related
+                        to the person’s previous public service under the Government; or</content></subparagraph><subparagraph id="ID_1438414071515_015" name="iii" temporalId="s15_1_a_iii"><num value="iii">(iii)</num><content>is convicted of
+                        any
+                        offence endangering national security; or
+                        <sourceNote>(Amended <ref href="/hk/2024/6">6 of 2024 s.
+                            131</ref>)</sourceNote></content></subparagraph></paragraph><paragraph id="ID_1438414071515_022" name="b" temporalId="s15_1_b"><num value="b">(b)</num><content>an officer is compulsorily retired in the exercise of disciplinary powers
+                    of punishment by the Government following a conviction of any offence referred
+                    to in paragraph (a),</content></paragraph><continued>the pension or allowance which has been granted to him may be cancelled,
+                suspended or reduced, or he may not be granted a pension, gratuity or allowance, as
+                the case may be.</continued></subsection><subsection id="ID_1438414071515_035" name="2" temporalId="s15_2"><num value="2">(2)</num><content>If after the retirement of an officer in circumstances in which he is eligible
+                for a pension, gratuity or allowance but before the pension, gratuity or allowance
+                is granted he is convicted and sentenced as specified in subsection
+                    <ref>(1)(a)</ref>, any pension, gratuity or allowance eventually granted to him
+                may be cancelled, suspended or reduced.</content></subsection><subsection id="ID_1438414071531_005" name="3" temporalId="s15_3"><num value="3">(3)</num><content>Subject to <ref>section 15A</ref>, the power under subsection (1) or (2) to
+                cancel, suspend, reduce or refuse to grant a pension, allowance or gratuity shall be
+                exercisable by a designated officer.<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/1988/86">86 of 1988 s.
+                    7</ref>)</sourceNote></content></subsection><subsection id="ID_1438414071531_013" name="4" temporalId="s15_4"><num value="4">(4)</num><content>Where, under this section, a designated officer refuses to grant a pension,
+                allowance or gratuity to an officer or person, a pension, allowance or gratuity, as
+                the case may be, shall accordingly not be granted to that officer or person.<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/1988/86">86 of
+                        1988 s. 7</ref>)</sourceNote></content></subsection><subsection id="ID_1438414071546_005" name="5...7" temporalId="s15_5...7"><num value="5...7">(5)-(7)</num><sourceNote>(Repealed <ref href="/hk/1988/86">86 of 1988 s. 7</ref>)</sourceNote></subsection><sourceNote>(Replaced <ref href="/hk/1987/36">36 of 1987 s. 36</ref>)</sourceNote></section><section id="ID_1438403568635_001" name="s15A" reason="inEffect" startPeriod="2020-12-10" status="operational" temporalId="s15A"><num value="15A">15A.</num><heading>Provisions supplementary to <ref>sections 14</ref> and <ref>15</ref></heading><subsection id="ID_1438414071593_011" name="1" temporalId="s15A_1"><num value="1">(1)</num><leadIn>For the purposes of <ref>section 15(1)</ref> and (2), a designated officer may
+                determine—</leadIn><paragraph id="ID_1438414071593_019" name="a" temporalId="s15A_1_a"><num value="a">(a)</num><content>whether a pension, gratuity or allowance shall be cancelled, suspended or
+                    reduced, or shall not be granted, as the case may be;</content></paragraph><paragraph id="ID_1438414071593_027" name="b" temporalId="s15A_1_b"><num value="b">(b)</num><content>the date from which, subject to subsection (11), a pension, gratuity or
+                    allowance shall be cancelled, suspended or reduced; and</content></paragraph><paragraph id="ID_1438414071593_035" name="c" temporalId="s15A_1_c"><num value="c">(c)</num><content>in the case of a reduction in a pension, gratuity or allowance, the amount
+                    of the reduction not exceeding 25% of the pension, gratuity or
+                    allowance.</content></paragraph></subsection><subsection id="ID_1438414071593_042" name="2" temporalId="s15A_2"><num value="2">(2)</num><paragraph id="ID_1438414071609_001" name="a" temporalId="s15A_2_a"><num value="a">(a)</num><content>Before a designated officer exercises a power conferred on him by
+                        <ref>section 14</ref> or <ref>15</ref>, he shall by a communication in
+                    writing addressed to the officer or other person concerned inform him that
+                    exercise of such a power in relation to him is being considered and why such
+                    exercise is being considered.</content></paragraph><paragraph id="ID_1438414071609_007" name="b" temporalId="s15A_2_b"><num value="b">(b)</num><content>The communication referred to in paragraph (a) shall state that, within a
+                    period specified in the communication (being a period ending not earlier than 30
+                    days after the date of the communication) or such longer period as the
+                    designated officer may allow, the officer or other person to whom it is
+                    addressed may make representations to the designated officer as regards the
+                    exercise in relation to him of a power conferred on the designated officer by
+                        <ref>section 14</ref> or <ref>15</ref>.</content></paragraph><paragraph id="ID_1438414071624_006" name="c" temporalId="s15A_2_c"><num value="c">(c)</num><content>A person to whom a communication referred to in paragraph (a) is addressed
+                    shall notify in writing the designated officer of an intention of his to make
+                    representations referred to in paragraph (b).</content></paragraph><paragraph id="ID_1438414071624_014" name="d" temporalId="s15A_2_d"><num value="d">(d)</num><content>The officer or other person to whom a communication referred to in
+                    paragraph (a) is addressed shall, within the period specified in the
+                    communication (or such longer period as the designated officer may allow), be
+                    afforded an opportunity of stating in writing, or having so stated on his
+                    behalf, why any of the powers conferred by <ref>section 14</ref> or
+                        <ref>15</ref> on a designated officer should not be exercised in relation to
+                    him.</content></paragraph><paragraph id="ID_1438414071640_006" name="e" temporalId="s15A_2_e"><num value="e">(e)</num><leadIn>Where—</leadIn><subparagraph id="ID_1438414071640_014" name="i" temporalId="s15A_2_e_i"><num value="i">(i)</num><content>a communication referred to in paragraph (a) is issued; and</content></subparagraph><subparagraph id="ID_1438414071640_022" name="ii" temporalId="s15A_2_e_ii"><num value="ii">(ii)</num><content>the period specified in the communication has expired; and</content></subparagraph><subparagraph id="ID_1438414071640_030" name="iii" temporalId="s15A_2_e_iii"><num value="iii">(iii)</num><content>a notification referred to in paragraph (c) is not received by the
+                        designated officer from the person to whom the communication is addressed;
+                        and</content></subparagraph><subparagraph id="ID_1438414071640_038" name="iv" temporalId="s15A_2_e_iv"><num value="iv">(iv)</num><content>an application to extend the period specified in the communication is
+                        not so received, or where such an application is so received, it is
+                        disallowed,</content></subparagraph><continued>notwithstanding the absence of representations referred to in paragraph
+                    (b), the designated officer may exercise in relation to such person a power
+                    conferred on such officer by <ref>section 14</ref> or <ref>15</ref>.</continued></paragraph></subsection><subsection id="ID_1438414071655_011" name="3" temporalId="s15A_3"><num value="3">(3)</num><content>A designated officer shall not exercise a
+                power
+                conferred on him by <ref>section 14</ref> or <ref>15</ref> without having had regard
+                to the submission (if any) made to him or on behalf of the officer or other person
+                concerned pursuant to this section.</content></subsection><subsection id="ID_1438414071655_019" name="4" temporalId="s15A_4"><num value="4">(4)</num><content>Where a designated officer exercises a power conferred on him by <ref>section
+                    14</ref> or <ref>15</ref>, he shall forthwith notify in writing the officer or
+                other person concerned.</content></subsection><subsection id="ID_1438414071655_027" name="5" temporalId="s15A_5"><num value="5">(5)</num><content>A person who is aggrieved by a decision of a designated officer made in the
+                exercise of a power under <ref>section 14</ref> or <ref>15</ref> may, within the
+                period of 30 days beginning on the date of the notification of the decision, or such
+                longer period as the Chief Executive may permit, petition the Chief Executive
+                against the decision.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1999/63">63 of 1999 s. 3</ref>)</sourceNote></content></subsection><subsection id="ID_1438414071671_005" name="6" temporalId="s15A_6"><num value="6">(6)</num><leadIn>Where the Chief Executive receives a petition under subsection (5), he may, by a
+                letter addressed to a member of the panel established by <ref>section 29B</ref> of
+                the Pension Benefits Ordinance (<ref href="/hk/cap99">Cap. 99</ref>) (in this
+                section referred to as
+                        <b><i>the
+                        Panel</i></b>),
+                require the Panel to consider and report to him on the petition, and where the Chief
+                Executive makes such a requirement—</leadIn><paragraph id="ID_1438414071671_013" name="a" temporalId="s15A_6_a"><num value="a">(a)</num><content>the Panel shall comply with the requirement; and</content></paragraph><paragraph id="ID_1438414071687_005" name="b" temporalId="s15A_6_b"><num value="b">(b)</num><content>before he determines the petition, the Chief Executive shall have regard to
+                    the report of the Panel.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1999/63">63 of 1999 s. 3</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438414071687_012" name="7" temporalId="s15A_7"><num value="7">(7)</num><content>In determining a petition under subsection (6) the Chief Executive may, as he
+                thinks fit, confirm, vary or reverse the decision to which the petition
+                    relates.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1999/63">63 of 1999 s. 3</ref>)</sourceNote></content></subsection><subsection id="ID_1438414071687_020" name="8" temporalId="s15A_8"><num value="8">(8)</num><content>Where a pension, gratuity or allowance is cancelled or suspended in accordance
+                with a determination under subsection (1), the Chief Executive may direct that all
+                or any part of the moneys to which the officer or other person concerned would have
+                been entitled by way of pension, gratuity or allowance had he not been convicted and
+                sentenced as specified in <ref>section 15(1)(a)</ref> or retired as specified in
+                    <ref>section 15(1)(b)</ref> be paid or applied in the same manner and in all
+                respects as is provided for in <ref>section 13(3)</ref>, and where the Chief
+                Executive so directs the moneys to which the direction relates shall be paid or
+                applied in accordance with the direction.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1999/63">63 of 1999 s.
+                    3</ref>)</sourceNote></content></subsection><subsection id="ID_1438414071718_005" name="9" temporalId="s15A_9"><num value="9">(9)</num><content>Where a person whose pension or allowance has been cancelled or suspended, or
+                has been reduced, in accordance with a determination under subsection (1) receives a
+                free pardon, the pension or allowance to which such person would have been entitled
+                had he not been convicted and sentenced as specified in <ref>section 15(1)</ref>
+                shall be restored to him with retrospective effect as from the date of cancellation,
+                suspension or reduction; but in determining whether any arrears of such pension or
+                allowance are payable to such person and in computing the amount thereof account
+                shall be taken of all moneys paid or applied under subsection (8) or, where a
+                pension or allowance has been reduced, paid as a reduced pension or
+                allowance.</content></subsection><subsection id="ID_1438414071733_005" name="10" temporalId="s15A_10"><num value="10">(10)</num><content>Where a person whose pension or allowance has been cancelled or suspended, or
+                has been reduced, in accordance with a determination under subsection (1), has
+                served any sentence of imprisonment imposed on conviction, the Chief Executive may
+                direct that the pension or allowance to which such person would have been entitled
+                had he not been convicted and sentenced as specified in <ref>section 15(1)</ref>
+                shall be restored to him as from the date on which he completes serving the sentence
+                of imprisonment or any later date as the Chief Executive shall specify in the
+                direction, and where the Chief Executive so directs, the pension or allowance to
+                which the direction relates shall be restored in accordance with the
+                    direction.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1999/63">63 of 1999 s. 3</ref>)</sourceNote></content></subsection><subsection id="ID_1438414071765_005" name="11" temporalId="s15A_11"><num value="11">(11)</num><leadIn>Where a designated officer exercises a power conferred on him by <ref>section
+                    14</ref> or <ref>15</ref>, the relevant cancellation, suspension or reduction,
+                as the case may be, shall not come into operation—</leadIn><paragraph id="ID_1438414071780_005" name="a" temporalId="s15A_11_a"><num value="a">(a)</num><content>in case no petition is brought under subsection (5) as regards the
+                    exercise, until the time for bringing such petition has expired; or</content></paragraph><paragraph id="ID_1438414071780_013" name="b" temporalId="s15A_11_b"><num value="b">(b)</num><content>in case such a petition is brought, before the petition is either
+                    determined or withdrawn.</content></paragraph></subsection><sourceNote>(Added <ref href="/hk/1988/86">86 of 1988 s. 8</ref>)</sourceNote></section><section id="ID_1438403568635_003" name="s16" reason="inEffect" startPeriod="2020-12-10" status="operational" temporalId="s16"><num value="16">16.</num><heading>Pension or allowance may be suspended on certain post-retirement employment</heading><subsection id="ID_1438414071905_004" name="1" temporalId="s16_1"><num value="1">(1)</num><leadIn>The Chief Executive may direct that any pension or allowance granted to a person shall be suspended as from such date as the Chief Executive shall specify if such person has, within 2 years after his retirement and without the prior permission in writing of the Chief Executive—</leadIn><paragraph id="ID_1438414071905_012" name="a" temporalId="s16_1_a"><num value="a">(a)</num><content>entered business on his own account;</content></paragraph><paragraph id="ID_1438414071905_020" name="b" temporalId="s16_1_b"><num value="b">(b)</num><content>become a partner in a partnership;</content></paragraph><paragraph id="ID_1438414071905_028" name="c" temporalId="s16_1_c"><num value="c">(c)</num><content>become a director of a company; or</content></paragraph><paragraph id="ID_1438414071905_036" name="d" temporalId="s16_1_d"><num value="d">(d)</num><content>become an employee,</content></paragraph><continued>if the principal part of such business or the business of such partnership or company or of his employment is, in the opinion of the Chief Executive, carried on in Hong Kong, and such direction shall be forthwith notified in writing by the Secretary to the person concerned.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/2005/10">10 of 2005 s. 194</ref>)</sourceNote></continued></subsection><subsection id="ID_1438414071921_011" name="2" temporalId="s16_2"><num value="2">(2)</num><content>The Chief Executive may specify a period of more than 2 years for the purposes of subsection (1) where he thinks fit, and such specification shall be forthwith notified in writing by the Secretary to the person concerned.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/2005/10">10 of 2005 s. 194</ref>)</sourceNote></content></subsection><subsection id="ID_1438414071921_019" name="3" temporalId="s16_3"><num value="3">(3)</num><content>A person who is aggrieved by any direction under subsection (1) or any specification under subsection (2) may, within 30 days of the notification to him of the direction or specification or such longer period as the Chief Executive may in any particular case permit, petition the Chief Executive against the direction or specification and the Chief Executive may confirm, vary or reverse the direction or specification as he thinks fit.</content></subsection><subsection id="ID_1438414071936_005" name="4" temporalId="s16_4"><num value="4">(4)</num><content>Where a person whose pension or allowance has been suspended under subsection (1) ceases to be engaged in any of the capacities specified in that subsection, the Chief Executive may, if he is satisfied that the person has so ceased to be engaged, direct that the pension or allowance shall be restored to him with retrospective effect as from the date of cesser of the engagement or any later date as the Chief Executive shall specify, and the pension or allowance shall be restored accordingly.</content></subsection><sourceNote>(Replaced <ref href="/hk/1987/36">36 of 1987 s. 36</ref>. Amended <ref href="/hk/1999/63">63 of 1999 s. 3</ref>)</sourceNote></section><section id="ID_1438403568651_002" name="s17" reason="inEffect" startPeriod="2020-12-10" status="operational" temporalId="s17"><num value="17">17.</num><heading>Death gratuity or ex gratia payment</heading><subsection id="ID_1438414071999_004" name="1" temporalId="s17_1"><num value="1">(1)</num><leadIn>Subject to subsection (8), where an officer, who is not on agreement and who has
+                completed not less than 2 years’ qualifying service, dies while in service under the
+                Government, there shall be paid a death gratuity
+                of
+                an amount not exceeding—</leadIn><paragraph id="ID_1438414071999_012" name="a" temporalId="s17_1_a"><num value="a">(a)</num><content>his annual pensionable emoluments; or</content></paragraph><paragraph id="ID_1438414071999_020" name="b" temporalId="s17_1_b"><num value="b">(b)</num><content>the commuted pension gratuity which he would have received had he retired
+                    at the date of his death and opted for reduction of his pension by 25% under
+                        <ref>regulation 23</ref> of the Pensions Regulations (<ref href="/hk/cap89A">Cap. 89 sub. leg. A</ref>),</content></paragraph><continued> whichever is the greater.</continued></subsection><subsection id="ID_1438414072014_011" name="1A" temporalId="s17_1A"><num value="1A">(1A)</num><leadIn>Where an officer who is not on agreement and who has completed less than 2 years’ qualifying service dies while in service under the Government, there shall be paid an ex gratia payment of an amount equal to—</leadIn><paragraph id="ID_1438414072014_019" name="a" temporalId="s17_1A_a"><num value="a">(a)</num><content>where the officer has completed less than 1 year’s qualifying service, one fourth of his annual pensionable emoluments; or</content></paragraph><paragraph id="ID_1438414072014_027" name="b" temporalId="s17_1A_b"><num value="b">(b)</num><content>where the officer has completed not less than 1 year’s qualifying service, half of his annual pensionable emoluments.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1993/3">3 of 1993 s. 27</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438414072014_034" name="2" temporalId="s17_2"><num value="2">(2)</num><content>In computing a commuted pension gratuity for the purposes of subsection (1), the officer’s service shall be deemed to include any period of untaken vacation leave for which an ex gratia payment corresponding to the salary for that period has been granted.</content></subsection><subsection id="ID_1438414072030_005" name="3" temporalId="s17_3"><num value="3">(3)</num><leadIn>Where a pensioner dies after retirement from service under the Government, there
+                shall be paid a death gratuity
+                of
+                an amount equal to—</leadIn><paragraph id="ID_1438414072030_013" name="a" temporalId="s17_3_a"><num value="a">(a)</num><leadIn>in case any pension and gratuity are already paid to him—</leadIn><subparagraph id="ID_1438414072030_021" name="i" temporalId="s17_3_a_i"><num value="i">(i)</num><content>his annual pensionable emoluments; or</content></subparagraph><subparagraph id="ID_1438414072030_029" name="ii" temporalId="s17_3_a_ii"><num value="ii">(ii)</num><content>the commuted pension gratuity which he would have received on
+                        retirement had he opted for reduction of his pension by 25% under
+                            <ref>regulation 23</ref> of the Pensions Regulations (<ref href="/hk/cap89A">Cap. 89 sub. leg. A</ref>),</content></subparagraph><continued>whichever is the greater, less the pension and gratuity already so paid,
+                    but excluding any additional pension granted under <ref>regulation 31</ref> of
+                    the Pensions Regulations (<ref href="/hk/cap89A">Cap. 89 sub. leg. A</ref>);
+                    <sourceNote>(Amended <ref href="/hk/2021/er1">E.R. 7 of
+                    2020</ref>)</sourceNote></continued></paragraph><paragraph id="ID_1438414072030_042" name="b" temporalId="s17_3_b"><num value="b">(b)</num><leadIn>in case neither a pension nor a gratuity is so paid—</leadIn><subparagraph id="ID_1438414072030_050" name="i" temporalId="s17_3_b_i"><num value="i">(i)</num><content>his annual pensionable emoluments; or</content></subparagraph><subparagraph id="ID_1438414072045_007" name="ii" temporalId="s17_3_b_ii"><num value="ii">(ii)</num><content>the commuted pension gratuity which he would have received on
+                        retirement had he opted for the maximum reduction of his pension under the
+                        said <ref>regulation 23</ref>, plus any increase which would have fallen to
+                        be paid had <ref>section 4(2)</ref> of the Pensions (Increase) Ordinance
+                            (<ref href="/hk/cap305">Cap. 305</ref>) applied to the gratuity as it
+                        applies to a commuted pension gratuity within the meaning of the Pension
+                        Benefits Ordinance (<ref href="/hk/cap99">Cap. 99</ref>),</content></subparagraph><continued>whichever is the greater.</continued></paragraph></subsection><subsection id="ID_1438414072045_019" name="4" temporalId="s17_4"><num value="4">(4)</num><leadIn>Subject to subsection (5), in the case of an officer who dies and whose period of qualifying service under the Government is—</leadIn><paragraph id="ID_1438414072061_005" name="a" temporalId="s17_4_a"><num value="a">(a)</num><content>not less than 5 nor more than 20 years; or</content></paragraph><paragraph id="ID_1438414072061_013" name="b" temporalId="s17_4_b"><num value="b">(b)</num><content>more than 20 years but whose pensionable service is less than 20 years,</content></paragraph><continued>the pensionable service which may be taken into account for the computation of death
+                gratuity
+                may
+                be supplemented by deeming his pensionable service to be—</continued><paragraph id="ID_1438414072061_027" name="i" temporalId="s17_4_i"><num value="i">(i)</num><content>twice the actual period of his pensionable service (subject to a maximum of 20 years); or</content></paragraph><paragraph id="ID_1438414072061_035" name="ii" temporalId="s17_4_ii"><num value="ii">(ii)</num><content>the period of pensionable service that he would have completed if he had served until attaining his retirement age,</content></paragraph><continued>whichever is the lesser.</continued></subsection><subsection id="ID_1438414072061_048" name="5" temporalId="s17_5"><num value="5">(5)</num><leadIn>In the case of an officer who is re-appointed to service under the Government, the deemed increase of pensionable service under subsection (4) in respect of the final period of service of the officer may not exceed—</leadIn><paragraph id="ID_1438414072077_005" name="a" temporalId="s17_5_a"><num value="a">(a)</num><content>the deemed increase of pensionable service for which the officer would have been eligible under subsection (4) had his total period of service been continuous; or</content></paragraph><paragraph id="ID_1438414072077_013" name="b" temporalId="s17_5_b"><num value="b">(b)</num><content>the actual period of his service after his re-appointment,</content></paragraph><continued>whichever is the lesser, and any officer who has been granted a deemed increase of pensionable service under subsection (4) in respect of his previous period of service shall only be eligible for a further deemed increase of pensionable service for any subsequent period of service to the extent that the total deemed increase of pensionable service does not exceed the maximum deemed increase of pensionable service specified in subsection (4).</continued></subsection><subsection id="ID_1438414072077_026" name="6" temporalId="s17_6"><num value="6">(6)</num><content>In respect of an officer who has more than one period of continuous service,
+                there shall be paid a death gratuity
+                in
+                respect of each period of continuous service under this section; but the total sum
+                of the death gratuities payable in respect of more than one period of continuous
+                service shall not exceed the sum of the death gratuity
+                that
+                would have been payable had the officer’s whole period of service been continuous
+                and had his highest pensionable emoluments or notional highest pensionable
+                emoluments, whichever is the greater, been taken for the calculation of the death
+                gratuity,
+                less
+                any pension, gratuity or allowance already paid or payable to him but excluding any
+                additional pension granted under <ref>regulation 31</ref> of the Pensions
+                Regulations (<ref href="/hk/cap89A">Cap. 89 sub. leg. A</ref>).</content></subsection><subsection id="ID_1438414072123_005" name="7" temporalId="s17_7"><num value="7">(7)</num><leadIn>Every death gratuity or ex gratia payment payable under this section shall be paid as soon as possible after the death of the officer or pensioner to—</leadIn><paragraph id="ID_1438414072123_013" name="a" temporalId="s17_7_a"><num value="a">(a)</num><content>where he had not made a nomination under subsection (7A), his legal personal representative and shall form part of the estate of the officer or pensioner for the purposes of distribution but no estate duty shall be payable in respect of the death gratuity or ex gratia payment and its addition to the principal value of the estate shall not be taken into consideration for the purpose of increasing the rate at which estate duty on the remainder of the estate may be payable; or</content></paragraph><paragraph id="ID_1438414072139_006" name="aa" temporalId="s17_7_aa"><num value="aa">(aa)</num><content>where he had made a nomination under subsection (7A), to his spouse; or<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1993/3">3 of 1993 s. 27</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438414072139_014" name="b" temporalId="s17_7_b"><num value="b">(b)</num><content>where the death gratuity or ex gratia payment does not exceed such amount as may be determined by the Chief Executive, a person named by the Chief Executive to be the recipient.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1993/3">3 of 1993 s. 27</ref>; <ref href="/hk/1999/63">63 of 1999 s. 3</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438414072139_021" name="7A" temporalId="s17_7A"><num value="7A">(7A)</num><content>An officer may by a notice in writing to the Secretary nominate his spouse to be the recipient of the death gratuity or ex gratia payment payable under this section in respect of his death.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1993/3">3 of 1993 s. 27</ref>)</sourceNote></content></subsection><subsection id="ID_1438414072139_029" name="7B" temporalId="s17_7B"><num value="7B">(7B)</num><content>An officer who makes a nomination under subsection (7A) may at any time revoke the nomination by a notice in writing to the Secretary.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1993/3">3 of 1993 s. 27</ref>)</sourceNote></content></subsection><subsection id="ID_1438414072155_005" name="8" temporalId="s17_8"><num value="8">(8)</num><content>For the purposes of subsection (1), an officer who dies in the circumstances mentioned in <ref>section 18(1)(a)</ref>, (b) and (c) shall be deemed to have not less than 2 years’ qualifying service.</content></subsection><subsection id="ID_1438414072155_013" name="9" temporalId="s17_9"><num value="9">(9)</num><content>This section shall not apply in the case of a death of an officer or pensioner
+                where benefits corresponding to a death gratuity
+                under
+                this section are paid or payable under the Oversea Superannuation Scheme in respect
+                of the death.</content></subsection><sourceNote>(Replaced <ref href="/hk/1987/36">36 of 1987 s. 36</ref>. Amended <ref href="/hk/2015/er1">E.R. 1 of 2015</ref>)</sourceNote></section><section id="ID_1438403568666_002" name="s18" reason="inEffect" startPeriod="2020-12-10" status="operational" temporalId="s18"><num value="18">18.</num><heading>Pensions to dependants when an officer dies on
+            duty</heading><sourceNote>(Amended <ref href="/hk/1997/20">20 of 1997 s. 2</ref>)</sourceNote><subsection id="ID_1438414072342_011" name="1" temporalId="s18_1"><num value="1">(1)</num><leadIn>Where any officer dies as a result of injuries received—</leadIn><paragraph id="ID_1438414072342_019" name="a" temporalId="s18_1_a"><num value="a">(a)</num><content>in the actual discharge of his duty; and</content></paragraph><paragraph id="ID_1438414072342_027" name="b" temporalId="s18_1_b"><num value="b">(b)</num><content>not due to his own serious and wilful misconduct; and<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/1993/3">3 of
+                            1993 s. 28</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438414072342_035" name="c" temporalId="s18_1_c"><num value="c">(c)</num><content>on account of circumstances specifically attributable to the nature of his
+                    duty,</content></paragraph><continued>while in the service of the Government it shall be lawful for the Chief
+                Executive to grant, in addition to the grant, if any, of a
+                    gratuity—  <sourceNote>(Amended <ref href="/hk/1960/37">37 of 1960 s. 3</ref>; <ref href="/hk/1987/36">36 of 1987 s. 36</ref>; <ref href="/hk/1999/63">63
+                        of 1999 s. 3</ref>)</sourceNote></continued><paragraph id="ID_1438414072342_049" name="i" temporalId="s18_1_i"><num value="i">(i)</num><content>
+                    <leadIn>if the deceased officer dies after 31 March 1965 leaving a surviving
+                        spouse, a pension to the spouse at a rate of one-sixth of the officer’s
+                        annual pensionable emoluments at the date of the injury or $12,000 a year,
+                        whichever is the greater:<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1987/36">36 of 1987 s.
+                                36</ref>; <ref href="/hk/1993/3">3 of 1993 s. 28</ref>; <ref href="/hk/1993/4">4 of 1993 s. 10</ref>)</sourceNote></leadIn>
+                    <proviso name="proviso" temporalId="s18_1_i_proviso">Provided that the Chief
+                        Executive may, in his discretion, grant a pension at a rate not exceeding
+                        one-fourth of such emoluments;<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/1970/34">34 of 1970 s.
+                                6</ref>. Amended <ref href="/hk/1999/63">63 of 1999 s.
+                            3</ref>)</sourceNote></proviso>
+                </content></paragraph><paragraph id="ID_1438414072357_012" name="ii" temporalId="s18_1_ii"><num value="ii">(ii)</num><content>if the deceased officer leaves a surviving spouse to whom a pension is
+                    granted under paragraph (i) and a child or children, a pension in respect of
+                    each child of an amount of one-eighth of the pension prescribed under paragraph
+                        (i);<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1993/4">4 of
+                            1993 s. 10</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438414072357_020" name="iii" temporalId="s18_1_iii"><num value="iii">(iii)</num><content>
+                    <leadIn>if the deceased officer leaves a child or children but does not leave a
+                        surviving spouse or no pension is granted to the surviving spouse, a pension
+                        in respect of each child of double the amount prescribed by paragraph
+                        (ii):</leadIn>
+                    <proviso name="proviso" temporalId="s18_1_iii_proviso">Provided that the pension
+                        granted to a child or children under this paragraph shall be not less than
+                        $6,000 a year where no other pension is granted under this section;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1987/36">36
+                                of 1987 s. 36</ref>)</sourceNote></proviso>
+                </content></paragraph><paragraph id="ID_1438414072357_034" name="iv" temporalId="s18_1_iv"><num value="iv">(iv)</num><content>
+                    <leadIn>if the deceased officer leaves a child or children and a surviving
+                        spouse to whom a pension is granted under paragraph (i), and the surviving
+                        spouse subsequently dies, a pension in respect of each child as from the
+                        date of the death of the surviving spouse of double the amount prescribed in
+                        paragraph (ii):<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1954/22">22 of 1954 s. 5</ref>; <ref href="/hk/1993/3">3
+                                of 1993 s. 28</ref>)</sourceNote></leadIn>
+                    <proviso name="proviso" temporalId="s18_1_iv_proviso">Provided that the pension
+                        granted to a child or children under this paragraph shall be not less than
+                        $6,000 a year where no other pension is granted under this section;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1987/36">36
+                                of 1987 s. 36</ref>)</sourceNote></proviso>
+                </content></paragraph><paragraph id="ID_1438414072373_012" name="v" temporalId="s18_1_v"><num value="v">(v)</num><leadIn>if the deceased officer does not leave a surviving spouse, or if no pension
+                    is granted to the surviving spouse, and if—</leadIn><subparagraph id="ID_1438414072373_020" name="A" temporalId="s18_1_v_A"><num value="A">(A)</num><content>his mother or father was wholly or mainly dependent on him financially,
+                        a pension to the mother or father, while she or he is without adequate means
+                        of support, of an amount not exceeding the pension which might have been
+                        granted to his surviving spouse;</content></subparagraph><subparagraph id="ID_1438414072373_028" name="B" temporalId="s18_1_v_B"><num value="B">(B)</num><content>both his mother and father were wholly or mainly dependent on him
+                        financially, a pension to each of them, while she or (where appropriate) he
+                        is without adequate means of support, of an amount not exceeding half of the
+                        pension which might have been granted to his surviving
+                            spouse:<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/1993/3">3
+                                of 1993 s. 28</ref>)</sourceNote></content></subparagraph></paragraph><paragraph id="ID_1438414072389_006" name="vi" temporalId="s18_1_vi"><num value="vi">(vi)</num><sourceNote>(Repealed <ref href="/hk/1993/3">3 of 1993 s. 28</ref>)</sourceNote></paragraph><proviso name="proviso" temporalId="s18_1_vi_proviso">
+                <leadIn>Provided that—</leadIn>
+                <paragraph id="ID_1438414072389_020" name="a" temporalId="s18_1_vi_a"><num value="a">(a)</num><content>pensions shall not be payable under this subsection at any time in
+                        respect of more than 6 children, whether or not such children are the first
+                        6 children of the officer; <sourceNote>(Amended <ref href="/hk/1993/3">3 of
+                                1993 s. 28</ref>)</sourceNote></content></paragraph>
+                <paragraph id="ID_1438414072389_028" name="b" temporalId="s18_1_vi_b"><num value="b">(b)</num><content>in the case of a pension granted under paragraph (v), if it appears to
+                        the Chief Executive that the mother or father is adequately provided with
+                        other means of support, such pension granted to her or (where appropriate)
+                        him shall cease as from such date as the Chief Executive may determine;
+                            <sourceNote>(Replaced <ref href="/hk/1993/3">3 of 1993 s. 28</ref>. Amended <ref href="/hk/1999/63">63 of 1999 s.
+                        3</ref>)</sourceNote></content></paragraph>
+                <paragraph id="ID_1438414072404_006" name="bb" temporalId="s18_1_vi_bb"><num value="bb">(bb)</num><sourceNote>(Repealed <ref href="/hk/1993/3">3 of 1993 s. 28</ref>)</sourceNote></paragraph>
+                <paragraph id="ID_1438414072404_014" name="c" temporalId="s18_1_vi_c"><num value="c">(c)</num><content>a pension granted to a child under this section shall cease at the
+                        appropriate time provided in subsection (1A) or (1AA). <sourceNote>(Replaced <ref href="/hk/1980/30">30 of 1980 s.
+                            4</ref>; <ref href="/hk/1993/3">3 of 1993 s. 28</ref>)</sourceNote></content></paragraph>
+            </proviso></subsection><sourceNote>(Amended <ref href="/hk/1972/55">55 of 1972 s. 5</ref>)</sourceNote><subsection id="ID_1438414072404_027" name="1A" temporalId="s18_1A"><num value="1A">(1A)</num><leadIn>A pension granted under this section to a child of an officer appointed or
+                reappointed to service under the Government before the day appointed under
+                subsection (1AA) shall, subject to subsection (1AB), cease—  <sourceNote>(Amended <ref href="/hk/1993/3">3 of 1993 s. 28</ref>)</sourceNote></leadIn><paragraph id="ID_1438414072404_035" name="a" temporalId="s18_1A_a"><num value="a">(a)</num><leadIn>in the case of a male—</leadIn><subparagraph id="ID_1438414072420_006" name="i" temporalId="s18_1A_a_i"><num value="i">(i)</num><content>at the age of 18 years unless at the time he attains that age he is
+                        receiving full-time education in any university, college, school or other
+                        educational establishment; or</content></subparagraph><subparagraph id="ID_1438414072420_014" name="ii" temporalId="s18_1A_a_ii"><num value="ii">(ii)</num><content>
+                        <leadIn>at the time at which he has since attaining the age of 18 years
+                            ceased to receive continuous full-time education at any university,
+                            college, school or other educational establishment:<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1987/36">36 of 1987 s. 36</ref>)</sourceNote></leadIn>
+                        <proviso name="proviso" temporalId="s18_1A_a_ii_proviso">Provided that a
+                            pension that has ceased under this subparagraph may be paid again during
+                            the period when such full-time education is resumed; or<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1987/36">36 of 1987 s. 36</ref>)</sourceNote></proviso>
+                    </content></subparagraph><subparagraph id="ID_1438414072420_028" name="iii" temporalId="s18_1A_a_iii"><num value="iii">(iii)</num><content>at the age of 23 years,</content></subparagraph><continued>whichever first occurs;</continued></paragraph><paragraph id="ID_1438414072420_041" name="b" temporalId="s18_1A_b"><num value="b">(b)</num><leadIn>in the case of a female—</leadIn><subparagraph id="ID_1438414072420_049" name="i" temporalId="s18_1A_b_i"><num value="i">(i)</num><content>(where she is married) at the age of 18 years unless at the time she
+                        attains that age, she is receiving full-time education at any university,
+                        college, school or other educational establishment; or<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/1993/3">3
+                                of 1993 s. 28</ref>)</sourceNote></content></subparagraph><subparagraph id="ID_1438414072420_057" name="ii" temporalId="s18_1A_b_ii"><num value="ii">(ii)</num><content>(where she is not married) at the age of 21 years unless at the time
+                        she attains that age, she is receiving full-time education at any
+                        university, college, school or other educational establishment; or<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/1993/3">3
+                                of 1993 s. 28</ref>)</sourceNote></content></subparagraph><subparagraph id="ID_1438414072435_007" name="iii" temporalId="s18_1A_b_iii"><num value="iii">(iii)</num><content>
+                        <leadIn>at the time at which she has since attaining the age of 18 years
+                            (where she is married) or 21 years (where she is not married) ceased to
+                            receive continuous full-time education at any university, college,
+                            school or other educational establishment:<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1987/36">36 of 1987
+                                    s. 36</ref>; <ref href="/hk/1994/98">98 of 1994 s.
+                                5</ref>)</sourceNote></leadIn>
+                        <proviso name="proviso" temporalId="s18_1A_b_iii_proviso">Provided that a
+                            pension that has ceased under this
+                            subparagraph
+                            may be paid again during the period when such full-time education is
+                            resumed; or<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1987/36">36 of 1987 s.
+                            36</ref>)</sourceNote></proviso>
+                    </content></subparagraph><subparagraph id="ID_1438414072435_021" name="iv" temporalId="s18_1A_b_iv"><num value="iv">(iv)</num><content>at the age of 23 years,</content></subparagraph><continued>whichever first occurs.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1980/30">30 of 1980 s.
+                        4</ref>)</sourceNote></continued></paragraph></subsection><subsection id="ID_1438414072435_033" name="1AA" temporalId="s18_1AA"><num value="1AA">(1AA)</num><leadIn>A pension granted under this section to a child of an officer appointed or
+                reappointed to service under the Government on or after a day appointed* by the
+                Secretary for the purposes of this subsection by notice in the Gazette shall,
+                subject to subsection (1AB), cease—</leadIn><paragraph id="ID_1438414072435_041" name="a" temporalId="s18_1AA_a"><num value="a">(a)</num><content>at the age of 18 years unless at the time he attains that age he is
+                    receiving full-time education at any university, college, school or other
+                    educational establishment; or</content></paragraph><paragraph id="ID_1438414072451_006" name="b" temporalId="s18_1AA_b"><num value="b">(b)</num><content>
+                    <leadIn>at the time at which he has since attaining the age of 18 years ceased
+                        to receive continuous full-time education at any university, college, school
+                        or other educational establishment:</leadIn>
+                    <proviso name="proviso" temporalId="s18_1AA_b_proviso">Provided that a pension
+                        that has ceased under this paragraph may be paid again during the period
+                        when such full-time education is resumed; or</proviso>
+                </content></paragraph><paragraph id="ID_1438414072451_020" name="c" temporalId="s18_1AA_c"><num value="c">(c)</num><content>at the age of 23 years,</content></paragraph><continued>whichever first occurs.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1993/3">3 of 1993 s. 28</ref>)</sourceNote></continued></subsection><subsection id="ID_1438414072451_033" name="1AB" temporalId="s18_1AB"><num value="1AB">(1AB)</num><content>Where a child of an officer is accepted by the Secretary as mentally or
+                physically disabled to such extent that he cannot reasonably be expected to be
+                financially independent, a pension granted under this section to the child shall
+                continue to be payable so long as he remains so disabled.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1993/3">3 of 1993 s.
+                    28</ref>)</sourceNote></content></subsection><subsection id="ID_1438414072467_005" name="1B" temporalId="s18_1B"><num value="1B">(1B)</num><paragraph id="ID_1438414072467_009" name="a" temporalId="s18_1B_a"><num value="a">(a)</num><content>For the purposes of subsection (1A) or (1AA), a child on normal university,
+                    college, school or other educational establishment holidays or awaiting for
+                        a<inline class="width_3"> </inline>normal period admission to a<inline class="width_3"> </inline>university, college, school or other educational
+                    establishment is receiving full-time education.</content></paragraph><paragraph id="ID_1438414072467_015" name="b" temporalId="s18_1B_b"><num value="b">(b)</num><content>In subsection (1A) or (1AA), university, college, school or other
+                    educational establishment means a university, college, school or other
+                    educational establishment recognized as such by the Permanent Secretary for
+                        Education.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1980/30">30 of 1980 s. 4</ref>. Amended <ref href="/hk/1993/3">3 of 1993 s. 28</ref>; <ref href="/hk/2003/3">3 of 2003 s. 41</ref>; <ref href="/hk/2007/ln130">L.N. 130 of
+                    2007</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438414072482_004" name="1C" temporalId="s18_1C"><num value="1C">(1C)</num><content>A pension granted under this section shall be paid in monthly instalments, or
+                less frequently if so requested by the recipient.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1993/4">4 of 1993 s.
+                    10</ref>)</sourceNote></content></subsection><subsection id="ID_1438414072482_012" name="2" temporalId="s18_2"><num value="2">(2)</num><def name="PensionableEmoluments">In the case of an officer not holding an established
+                office, the expression
+                    <term>pensionable
+                    emoluments</term>
+                    (<term xml:lang="zh-Hant-HK">可供計算退休金的薪酬</term>) in subsection (1) means the
+                emoluments enjoyed by him which would have been pensionable emoluments if the office
+                held by him had been an established office.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1987/36">36 of 1987 s.
+                    36</ref>)</sourceNote></def></subsection><subsection id="ID_1438414072482_019" name="3" temporalId="s18_3"><num value="3">(3)</num><leadIn>For the purposes of this section—</leadIn><paragraph id="ID_1438414072482_027" name="a" temporalId="s18_3_a"><num value="a">(a)</num><leadIn>where any spouse of an officer eligible for a pension under this Ordinance
+                    ceases to be so eligible and at the time of such cessation the officer was
+                    married to another spouse or other spouses, the officer shall be deemed for the
+                    purposes of this Ordinance—</leadIn><subparagraph id="ID_1438414072482_035" name="i" temporalId="s18_3_a_i"><num value="i">(i)</num><content>to have become a widower at such time; and</content></subparagraph><subparagraph id="ID_1438414072482_043" name="ii" temporalId="s18_3_a_ii"><num value="ii">(ii)</num><content>to have married simultaneously the person who at such time was his
+                        spouse and whom he married first after his marriage to the spouse who has
+                        ceased to be eligible as aforesaid;<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/1993/3">3 of 1993 s.
+                                28</ref>)</sourceNote></content></subparagraph></paragraph><paragraph id="ID_1438414072498_006" name="b" temporalId="s18_3_b"><num value="b">(b)</num><def name="Spouse"><term>spouse</term>
+                        (<term xml:lang="zh-Hant-HK">配偶</term>) includes any person who can prove to
+                    the satisfaction of the Secretary that she co-habits with an officer as the
+                    spouse of him;<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/1993/3">3 of 1993 s. 28</ref>)</sourceNote></def></paragraph><paragraph id="ID_1438414072498_013" name="c...d" temporalId="s18_3_c...d"><num value="c...d">(c)-(d)</num><sourceNote>(Repealed <ref href="/hk/1993/3">3 of 1993 s. 28</ref>)</sourceNote></paragraph><paragraph id="ID_1438414072498_021" name="e" temporalId="s18_3_e"><num value="e">(e)</num><def name="Child">
+                    <leadIn><term>child</term>
+                            (<term xml:lang="zh-Hant-HK">子女</term>) means—</leadIn>
+                    <subparagraph id="ID_1438414072498_029" name="i" temporalId="s18_3_e_i"><num value="i">(i)</num><content>any child of an officer, but (subject to subparagraph (ia)) does
+                            not include a child of an officer adopted by another person;<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/1993/3">3 of 1993 s. 28</ref>. Amended <ref href="/hk/2004/28">28 of 2004 s.
+                            35</ref>)</sourceNote></content></subparagraph>
+                    <subparagraph id="ID_1438414072498_037" name="ia" temporalId="s18_3_e_ia"><num value="ia">(ia)</num><content>any child of the officer adopted by another person under an
+                            adoption order granted under paragraph (c) of <ref>section 5(1)</ref> of
+                            the Adoption Ordinance (<ref href="/hk/cap290">Cap. 290</ref>) where the
+                            officer is the parent referred to in that paragraph; and<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/2004/28">28 of 2004 s. 35</ref>)</sourceNote></content></subparagraph>
+                    <subparagraph id="ID_1438414072513_007" name="ii" temporalId="s18_3_e_ii"><num value="ii">(ii)</num><content>a person wholly or mainly dependent upon the deceased officer for
+                            support, adopted as a child by such officer before the date of injury in
+                            a manner recognized by the Chief Executive.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1999/63">63 of 1999
+                                    s. 3</ref>)</sourceNote></content></subparagraph>
+                </def></paragraph></subsection><subsection id="ID_1438414072513_013" name="4" temporalId="s18_4"><num value="4">(4)</num><sourceNote>(Repealed <ref href="/hk/1987/36">36 of 1987 s. 36</ref>)</sourceNote></subsection><subsection id="ID_1438414072513_021" name="5" temporalId="s18_5"><num value="5">(5)</num><content>An officer who dies as a result of injuries received while travelling by any
+                means in pursuance of official instructions or in the course of his duties shall be
+                deemed to have died in the circumstances detailed in subsection <ref>(1)(a)</ref>
+                and (c).<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1987/36">36 of 1987 s. 36</ref>; <ref href="/hk/1993/3">3 of 1993
+                        s. 28</ref>)</sourceNote></content></subsection><subsection id="ID_1438414072513_029" name="5A" temporalId="s18_5A"><num value="5A">(5A)</num><content>Where a pension is granted under this section in respect of an injury which was
+                caused in circumstances creating a legal liability in a person other than the
+                Government, the Government may take proceedings against the person to recover an
+                amount not exceeding the commuted lump sum determined in accordance with
+                    <ref>section 18A</ref>.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1994/98">98 of 1994 s. 5</ref>)</sourceNote></content></subsection><subsection id="ID_1438414072529_005" name="6" temporalId="s18_6"><num value="6">(6)</num><content>This section shall not apply in the case of the death of any officer if his
+                members of the family, as defined in <ref>section 3</ref> of the Employees’
+                Compensation Ordinance (<ref href="/hk/cap282">Cap. 282</ref>) or <ref>section
+                    2</ref> of the Pneumoconiosis and Mesothelioma (Compensation) Ordinance (<ref href="/hk/cap360">Cap. 360</ref>), are entitled to and have received
+                compensation under the provisions of those Ordinances in respect of such
+                    death.<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/1960/37">37 of 1960 s. 5</ref>. Amended <ref href="/hk/1980/51">51
+                        of 1980 s. 48</ref>; <ref href="/hk/2000/52">52 of 2000 s. 29</ref>; <ref href="/hk/2008/6">6 of 2008 s. 38</ref>)</sourceNote></content></subsection><subsection id="ID_1438414072545_005" name="7" temporalId="s18_7"><num value="7">(7)</num><content>
+                <leadIn>The Legislative Council may, by resolution, vary in respect of officers
+                    dying after such date as may be specified in such a resolution, the sum of
+                    $12,000 specified in subsection <ref>(1)(i)</ref> and the sum of $6,000
+                    specified in subsection <ref>(1)(iii)</ref> and (iv):<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1987/36">36 of 1987 s.
+                            36</ref>)</sourceNote></leadIn>
+                <proviso name="proviso" temporalId="s18_7_proviso">Provided that no such resolution
+                    may provide for a decrease in the minimum pension in respect of officers dying
+                    before the date of the resolution.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1970/34">34 of 1970 s.
+                        6</ref>)</sourceNote></proviso>
+            </content></subsection><editorialNote type="footnote" id="ID_1602664226888_001">
+            <content>Editorial Note:</content>
+            <content><inline class="force_orig_font">*</inline> Appointed day: 5 March
+                1993—see
+                    <ref href="/hk/1993/ln73">L.N. 73 of 1993</ref>.</content>
+            
+        </editorialNote></section><section id="ID_1438403568682_001" name="s18A" reason="inEffect" startPeriod="2020-12-10" status="operational" temporalId="s18A"><num value="18A">18A.</num><heading>Commutation of pensions payable under <ref>section 18</ref></heading><subsection id="ID_1438414072716_011" name="1" temporalId="s18A_1"><num value="1">(1)</num><content>A person to whom a pension is payable under <ref>section 18</ref> may within 3
+                months after the commencement of the payment of the pension or such longer period as
+                the Secretary may approve apply in writing to the Secretary to commute the pension
+                into a lump sum.</content></subsection><subsection id="ID_1438414072732_004" name="2" temporalId="s18A_2"><num value="2">(2)</num><content>A lump sum referred to in subsection (1) shall be computed in accordance with
+                an actuarial table prepared from time to time by an actuary appointed by the Chief
+                    Executive.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1999/63">63 of 1999 s. 3</ref>)</sourceNote></content></subsection><subsection id="ID_1438414072732_012" name="3" temporalId="s18A_3"><num value="3">(3)</num><content>Where an application is made under subsection (1) in respect of a deceased
+                officer, any pension granted in respect of him before the computation of the lump
+                sum shall be deducted from the lump sum.</content></subsection><subsection id="ID_1438414072732_020" name="4" temporalId="s18A_4"><num value="4">(4)</num><content>A lump sum referred to in subsection (1) may for the purposes of payment be
+                divided into such number of parts as the Secretary may think fit.</content></subsection><sourceNote>(Added <ref href="/hk/1993/3">3 of 1993 s. 29</ref>)</sourceNote></section><section id="ID_1438403568682_003" name="s19" reason="inEffect" startPeriod="2020-12-10" status="operational" temporalId="s19"><num value="19">19.</num><heading>Grant of benefits in respect of service while on abnormal duty</heading><subsection id="ID_1438414072779_026" name="1" temporalId="s19_1"><num value="1">(1)</num><leadIn>Where an officer is serving—</leadIn><paragraph id="ID_1438414072794_005" name="a" temporalId="s19_1_a"><num value="a">(a)</num><sourceNote>(Repealed <ref href="/hk/1997/20">20 of 1997 s. 25</ref>)</sourceNote></paragraph><paragraph id="ID_1438414072794_013" name="b" temporalId="s19_1_b"><num value="b">(b)</num><content>as a member of the Hong Kong Auxiliary Police Force under the Hong Kong
+                    Auxiliary Police Force Ordinance (<ref href="/hk/cap233">Cap. 233</ref>);<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1997/ln362">L.N. 362 of 1997</ref>; <ref href="/hk/1999/76">76 of 1999 s.
+                        3</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438414072794_021" name="c" temporalId="s19_1_c"><num value="c">(c)</num><content>as an auxiliary member of the Government Flying Service under the
+                    Government Flying Service Ordinance (<ref href="/hk/cap322">Cap.
+                        322</ref>);<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/1992/54">54 of 1992 s. 19</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438414072794_029" name="d" temporalId="s19_1_d"><num value="d">(d)</num><content>as a member of the Essential Services Corps under the Essential Services
+                    Corps Ordinance (<ref href="/hk/cap197">Cap. 197</ref>);</content></paragraph><paragraph id="ID_1438414072794_037" name="e" temporalId="s19_1_e"><num value="e">(e)</num><content>as a member of the Auxiliary Medical Service under the Auxiliary Medical
+                    Service Ordinance (<ref href="/hk/cap517">Cap. 517</ref>); or<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1997/57">57 of
+                            1997 s. 34</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438414072794_045" name="f" temporalId="s19_1_f"><num value="f">(f)</num><content>as a member of the Civil Aid Service under the Civil Aid Service Ordinance
+                        (<ref href="/hk/cap518">Cap. 518</ref>),<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1997/58">58 of 1997 s.
+                        34</ref>)</sourceNote></content></paragraph><continued>and is injured in circumstances in which a pension, gratuity or other award
+                is grantable in respect of that service, a pension, gratuity or other award may at
+                the option of the officer be granted—</continued><paragraph id="ID_1438414072810_005" name="i" temporalId="s19_1_i"><num value="i">(i)</num><content>under <ref>regulation 31</ref> of the Pensions Regulations (<ref href="/hk/cap89A">Cap. 89 sub. leg. A</ref>), unless <ref>regulation
+                        31(6)</ref> applies, in like manner as if his service had been public
+                    service under the Government and as if he had been injured in the like
+                    circumstances while in service; or</content></paragraph><paragraph id="ID_1438414072810_013" name="ii" temporalId="s19_1_ii"><num value="ii">(ii)</num><content>under any Ordinance mentioned in paragraph (b), (c), (d), (e) or (f) that
+                    is applicable if he is injured before the date of the
+                        commencement<inline class="force_orig_font">*</inline>
+                    of the Auxiliary Forces Pensions (Miscellaneous Amendments) Ordinance 1997 (<ref href="/hk/1997/20">20 of 1997</ref>) or under the Auxiliary Forces Pay and
+                    Allowances Ordinance (<ref href="/hk/cap254">Cap. 254</ref>) if he is injured on
+                    or after the date of the
+                    commencement
+                    of the Auxiliary Forces Pensions (Miscellaneous Amendments) Ordinance 1997 (<ref href="/hk/1997/20">20 of 1997</ref>).</content></paragraph></subsection><subsection id="ID_1438414072825_005" name="2" temporalId="s19_2"><num value="2">(2)</num><leadIn>Where an officer is serving—</leadIn><paragraph id="ID_1438414072825_013" name="a" temporalId="s19_2_a"><num value="a">(a)</num><sourceNote>(Repealed <ref href="/hk/1997/20">20 of 1997 s. 25</ref>)</sourceNote></paragraph><paragraph id="ID_1438414072825_021" name="b" temporalId="s19_2_b"><num value="b">(b)</num><content>as a member of the Hong Kong Auxiliary Police Force under the Hong Kong
+                    Auxiliary Police Force Ordinance (<ref href="/hk/cap233">Cap. 233</ref>);<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1997/ln362">L.N. 362 of 1997</ref>; <ref href="/hk/1999/76">76 of 1999 s.
+                        3</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438414072841_006" name="c" temporalId="s19_2_c"><num value="c">(c)</num><content>as an auxiliary member of the Government Flying Service under the
+                    Government Flying Service Ordinance (<ref href="/hk/cap322">Cap.
+                        322</ref>);<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/1992/54">54 of 1992 s. 19</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438414072841_014" name="d" temporalId="s19_2_d"><num value="d">(d)</num><content>as a member of the Essential Services Corps under the Essential Services
+                    Corps Ordinance (<ref href="/hk/cap197">Cap. 197</ref>);</content></paragraph><paragraph id="ID_1438414072841_022" name="e" temporalId="s19_2_e"><num value="e">(e)</num><content>as a member of the Auxiliary Medical Service under the Auxiliary Medical
+                    Service Ordinance (<ref href="/hk/cap517">Cap. 517</ref>); or<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1997/57">57 of
+                            1997 s. 34</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438414072841_030" name="f" temporalId="s19_2_f"><num value="f">(f)</num><content>as a member of the Civil Aid Service under the Civil Aid Service Ordinance
+                        (<ref href="/hk/cap518">Cap. 518</ref>),<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1997/58">58 of 1997 s.
+                        34</ref>)</sourceNote></content></paragraph><continued>and dies in circumstances in which a pension, gratuity or other award is
+                grantable in respect of that service, his beneficiaries shall be granted a pension,
+                gratuity or other award—</continued><paragraph id="ID_1438414072841_044" name="i" temporalId="s19_2_i"><num value="i">(i)</num><content>under <ref>section 18</ref>, unless <ref>section 18(6)</ref> applies, in
+                    like manner as if his service had been public service under the Government and
+                    as if he had died in the like circumstances while in service; or</content></paragraph><paragraph id="ID_1438414072857_006" name="ii" temporalId="s19_2_ii"><num value="ii">(ii)</num><content>under any Ordinance mentioned in paragraph (b), (c), (d), (e) or (f) that
+                    is applicable if he is injured before the date of the
+                        commencement<inline class="force_orig_font">*</inline>
+                    of the Auxiliary Forces Pensions (Miscellaneous Amendments) Ordinance 1997 (<ref href="/hk/1997/20">20 of 1997</ref>) or under the Auxiliary Forces Pay and
+                    Allowances Ordinance (<ref href="/hk/cap254">Cap. 254</ref>) if he is injured on
+                    or after the date of the
+                    commencement
+                    of the Auxiliary Forces Pensions (Miscellaneous Amendments) Ordinance 1997 (<ref href="/hk/1997/20">20 of 1997</ref>),</content></paragraph><continued>as directed by the Director of Accounting Services on the basis of his
+                judgment as to which of
+                paragraph
+                (i) or (ii) is more beneficial to the beneficiaries as a whole.
+                <sourceNote>(Amended <ref href="/hk/2020/er7">E.R. 7 of
+                2020</ref>)</sourceNote></continued></subsection><subsection id="ID_1438414072872_011" name="3" temporalId="s19_3"><num value="3">(3)</num><def name="Service">If under the appropriate Ordinance applicable to the Hong Kong
+                Auxiliary Police Force, the Government Flying Service, the Essential Services Corps,
+                the Auxiliary Medical Service or the Civil Aid Service a pension, gratuity or other
+                award may be granted in respect of injury or death during training or instruction or
+                other form of service, then the expression
+                    <term>service</term>
+                    (<term xml:lang="zh-Hant-HK">服務</term>) in subsections (1) and (2) includes
+                training, instruction or other form of service in the Force, Service or Corps, as
+                the case may be.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1992/54">54 of 1992 s. 19</ref>; <ref href="/hk/1997/ln362">L.N.
+                        362 of 1997</ref>)</sourceNote></def><sourceNote>(Replaced <ref href="/hk/1993/4">4 of 1993 s. 11</ref>. Amended <ref href="/hk/1997/20">20 of 1997 ss. 3</ref> &amp; 25; <ref href="/hk/1997/57">57
+                    of 1997 s. 34</ref>; <ref href="/hk/1997/58">58 of 1997 s.
+                34</ref>)</sourceNote></subsection><editorialNote type="footnote" id="ID_1605163107010_001">
+            <content>Editorial
+                    Note:<table xmlns="http://www.w3.org/1999/xhtml" class="font_size_9" width="100%">
+                    <colgroup>
+                        
+                        <col width="5%"></col>
+                        
+                        <col width="5%"></col>
+                        <col width="90%"></col>
+                    </colgroup>
+                    <tbody>
+                        <tr>
+                            <td colspan="3" class="align_justified">The operation of this provision
+                                is affected by the following savings provisions—</td>
+                        </tr>
+                        <tr>
+                            <td>(1)</td>
+                            <td colspan="2"><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">section
+                                    23(2)</ref> of <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/1997/20">20 of 1997</ref>;
+                                and</td>
+                        </tr>
+                        <tr>
+                            <td>(2)</td>
+                            <td colspan="2"><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">section
+                                    33(2)</ref> of <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap517">Cap. 517</ref> and <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap518">Cap.
+                                518</ref>.</td>
+                            
+                            
+                        </tr>
+                        <tr>
+                            <td><inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="force_orig_font">*</inline></td>
+                            <td colspan="2" class="align_justified">Commencement date: 9 May
+                                1997.</td>
+                            
+                            
+                        </tr>
+                    </tbody>
+                </table></content>
+        </editorialNote></section><section id="ID_1438403568698_002" name="s19A" reason="repealed" startPeriod="1997-06-30" status="repealed" temporalId="s19A"><num value="19A">19A.</num><sourceNote>(Repealed <ref href="/hk/1993/3">3 of 1993 s. 30</ref>)</sourceNote></section><section id="ID_1438403568698_004" name="s20" reason="inEffect" startPeriod="2020-12-10" status="operational" temporalId="s20"><num value="20">20.</num><heading>Effect of enemy occupation</heading><leadIn>For the purpose of calculating a pension, allowance or gratuity under this Ordinance
+            an officer’s service may with the approval of the Chief Executive be deemed to be
+            unbroken notwithstanding that he ceased to be employed in the service under the
+            Government after 25 December 1941, if such officer resumed such service not later than
+            31 March 1947, and in such case such period of cessation of service which occurred
+            before 15 March 1946, or any part thereof may, with the approval of the Chief Executive,
+            be deemed to be service which may be counted for the purpose of calculating a pension,
+            allowance or gratuity grantable under this Ordinance:<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1987/36">36 of 1987 s.
+                36</ref>)</sourceNote></leadIn><proviso name="proviso" temporalId="s20_proviso">Provided that an officer who did not resume
+            duty and who died not later than 31 March 1947 shall nevertheless be deemed to have
+            resumed duty, for the purpose of this section, on the date of his death.</proviso><sourceNote>(Amended <ref href="/hk/1966/13">13 of 1966 </ref>Schedule; <ref href="/hk/1999/63">63 of 1999 s. 3</ref>)</sourceNote></section><section id="ID_1438403568713_002" name="s20A" reason="inEffect" startPeriod="2020-12-10" status="operational" temporalId="s20A"><num value="20A">20A.</num><heading>Chief Executive’s power to exempt or modify</heading><subsection id="ID_1438414073059_018" name="1" temporalId="s20A_1"><num value="1">(1)</num><content>The Chief Executive may exempt any officer and his dependants from the
+                application of any provisions of this Ordinance and the regulations made thereunder
+                in any particular case, or may modify the application of any such provisions in any
+                such case in the manner specified by him, where inequity results from the
+                application of such provisions; but any such exemption or modification shall not be
+                detrimental to the officer or his dependants and shall be in keeping with the spirit
+                of this Ordinance.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1999/63">63 of 1999 s. 3</ref>)</sourceNote></content></subsection><subsection id="ID_1438414073075_005" name="2" temporalId="s20A_2"><num value="2">(2)</num><content>No exemption or modification shall be made under subsection (1) unless a draft
+                of it has been laid before and approved by resolution of the Legislative Council,
+                and <ref>section 34</ref> of the Interpretation and General Clauses Ordinance (<ref href="/hk/cap1">Cap. 1</ref>) does not apply in relation to the exemption or
+                    modification.<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/1993/4">4 of 1993 s. 13</ref>)</sourceNote></content></subsection><sourceNote>(Added <ref href="/hk/1987/36">36 of 1987 s. 36</ref>)</sourceNote></section><section id="ID_1438403568729_001" name="s21" reason="inEffect" startPeriod="2020-12-10" status="operational" temporalId="s21"><num value="21">21.</num><heading>Commencement and application of the Ordinance and recomputation of
+                        benefits</heading><subsection id="ID_1438414073122_011" name="1" temporalId="s21_1"><num value="1">(1)</num><content>
+                                <leadIn>Subject to express provisions to the contrary in this
+                                        Ordinance or the regulations made thereunder, this Ordinance
+                                        and such regulations shall be deemed to have had effect from
+                                        1 January 1947 and the provisions thereof shall except as
+                                        otherwise provided apply to all officers in the service
+                                        under the Government on or after the said date:</leadIn>
+                                <proviso name="proviso" temporalId="s21_1_proviso">Provided that no
+                                        pension or gratuity shall be grantable under this Ordinance
+                                        in respect of service by an officer terminating between 1
+                                        January 1947 and the enactment of this Ordinance when no
+                                        pension or gratuity would have been grantable, if this
+                                        Ordinance had effect on the date of enactment, by reason of
+                                        the age at which such officer left the service under the
+                                                Government.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1987/36">36 of 1987 s.
+                                                36</ref>)</sourceNote></proviso>
+                        </content></subsection><subsection id="ID_1438414073122_025" name="2" temporalId="s21_2"><num value="2">(2)</num><content>Any pension, gratuity or other allowance granted under the
+                                provisions of an Ordinance or regulation repealed by this Ordinance
+                                other than Pension Regulations C made under the Pensions Ordinance
+                                1932 (<ref href="/hk/1932/21">21 of 1932</ref>), in respect of
+                                service under the Government by an officer who was in receipt of
+                                salary according to a scale of pay operative in Hong
+                                Kong
+                                in consequence of the Salaries Revision, 1947, shall be recomputed
+                                according to the provisions of this Ordinance. Such recomputed
+                                pension, gratuity or other allowance shall be granted in
+                                substitution of the former award except that where it is to the
+                                advantage of the recipient such former award shall be deemed to have
+                                been validly made under this Ordinance.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1987/36">36
+                                                of 1987 s. 36</ref>)</sourceNote></content></subsection><subsection id="ID_1438414073153_005" name="3" temporalId="s21_3"><num value="3">(3)</num><content>
+                                <leadIn>A pension, gratuity or other allowance in respect of service
+                                        of an officer who is not or has not been in receipt of
+                                        salary based upon a scale of pay operative in Hong Kong in
+                                        consequence of the Salaries Revision, 1947, shall be
+                                        grantable hereunder according to the provisions relating to
+                                        the grant of pension, gratuity or other allowance in respect
+                                        of such officer’s service applicable prior to 1 January
+                                        1947, except in respect of service which would necessitate
+                                        the application thereto of the provisions of Pension
+                                        Regulations C made under the Pensions Ordinance
+                                        1932,
+                                        in which case the provisions of Part V of the regulations
+                                        hereunder shall be applied in respect of the service to
+                                        which the said Pension Regulations C would have been
+                                        applicable:</leadIn>
+                                <proviso name="proviso" temporalId="s21_3_proviso">Provided that if
+                                        such an officer rejoins or an officer is appointed to the
+                                        service under the Government after the enactment of this
+                                        Ordinance the provisions of this Ordinance other than this
+                                        subsection shall apply in respect of the grant of any
+                                        pension, gratuity or other allowance granted after so
+                                        rejoining or being so appointed.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1987/36">36 of 1987 s.
+                                                36</ref>)</sourceNote></proviso>
+                        </content></subsection><subsection id="ID_1438414073169_004" name="4" temporalId="s21_4"><num value="4">(4)</num><def name="SalariesRevision1947"><term>Salaries
+                                        Revision,
+                                1947</term>
+                                        (<term xml:lang="zh-Hant-HK">1947年薪酬調整</term>) means for the
+                                purposes of this section, the revision of salaries initiated by the
+                                report of the Commissioners appointed on 20 March 1947 by virtue of
+                                        <ref>section 2</ref> of the repealed Commissioners Powers
+                                Ordinance
+                                (Cap.
+                                86,
+                                1964 Ed.).</def></subsection><subsection id="ID_1438414073169_011" name="5" temporalId="s21_5"><num value="5">(5)</num><content>If any question arises as to whether any salary is according to a
+                                scale of pay operative in Hong Kong in consequence of the Salaries
+                                Revision, 1947, the decision thereon of the Chief Executive shall be
+                                        final.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1960/37">37 of 1960 s. 3</ref>; <ref href="/hk/1987/36">36 of 1987 s. 36</ref>; <ref href="/hk/1999/63">63 of 1999 s.
+                                        3</ref>)</sourceNote></content></subsection></section><section id="ID_1438403568729_003" name="s22" reason="inEffect" startPeriod="2020-12-10" status="operational" temporalId="s22"><num value="22">22.</num><heading>Provisions for officers transferred to Government from the service of the Government of Palestine</heading><content>For the purposes of this Ordinance, any person holding office in the service of the Government of Palestine immediately before 15 May 1948 shall be deemed to continue in his office until either he is appointed to public service elsewhere, or, if he is not so appointed, he retires or is removed from his office.</content></section><section id="ID_1438403568744_001" name="s23" reason="inEffect" startPeriod="2020-12-10" status="operational" temporalId="s23"><num value="23">23.</num><heading>Transitional</heading><content>Nothing in the Employees’ Compensation (Amendment) (No. 2) Ordinance 2000 (<ref href="/hk/2000/52">52 of 2000</ref>)
+          (<b><i>the
+          amending
+      Ordinance</i></b>)
+      shall apply to claims for compensation in respect of accidents occurring before the
+      commencement* of the amending Ordinance, and the provisions in force immediately before the
+      commencement of the
+      amending Ordinance shall continue to apply to such claims as if they had not been amended by
+      the amending Ordinance.</content><sourceNote>(Added <ref href="/hk/2000/52">52 of 2000 s. 30</ref>)</sourceNote><editorialNote type="footnote" id="ID_1602665059330_001"><content>Editorial Note:</content><content><inline class="force_orig_font">*</inline> Commencement date:
+                                                  1
+                                                  August 2000.</content></editorialNote></section></main></ordinance>

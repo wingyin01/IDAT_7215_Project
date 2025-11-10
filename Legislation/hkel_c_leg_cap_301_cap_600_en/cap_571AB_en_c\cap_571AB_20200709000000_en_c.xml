@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?><subLeg xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd" xml:lang="en"><meta><docName>Cap. 571 sub. leg. AB</docName><docType>cap</docType><docNumber>571AB</docNumber><docStatus>In effect</docStatus><dc:identifier>/hk/cap571AB!en</dc:identifier><dc:date>2020-07-09</dc:date><dc:subject>legislation</dc:subject><dc:language>en</dc:language><dc:publisher>DoJ</dc:publisher><dc:rights>the Government of the Hong Kong Special Administrative Region</dc:rights></meta><main xml:lang="en" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd"><docTitle id="ID_1438403473553_001" name="shortTitle" reason="inEffect" status="operational" temporalId="shortTitle" startPeriod="2017-06-29">Securities and Futures (Investor Compensation—Levy) Rules</docTitle><enactingFormula role="empoweringSection">(<ref href="/hk/cap571/s244">Cap. 571,
+                                section
+                        244(1)</ref>)</enactingFormula><sourceNote>(Enacting provision omitted—<ref href="/hk/2017/er3">E.R. 3 of
+                                2017</ref>)<marker role="blank-line"></marker><marker role="blank-line"></marker></sourceNote><commencementNote>[1 April 2003]<sourceNote><inline class="width_3"> </inline><ref href="/hk/2003/ln12">L.N. 12 of
+                        2003</ref></sourceNote></commencementNote><sourceNote>(Format changes—<ref href="/hk/2017/er3">E.R. 3 of
+                        2017</ref>)</sourceNote><part id="ID_1438403473569_002" name="P1" reason="inEffect" startPeriod="2017-06-29" status="operational" temporalId="P1"><num value="1">Part
+            1</num><heading>Preliminary</heading><section id="ID_1438403473569_004" name="s1" reason="omittedAsSpent" startPeriod="2017-11-16" status="omitted" temporalId="s1"><num value="1">1.</num><sourceNote>(Omitted as spent—<ref href="hk/2017/er4">E.R. 4 of 2017</ref>)</sourceNote></section><section id="ID_1438403473584_001" name="s2" reason="inEffect" startPeriod="2020-01-01" status="operational" temporalId="s2"><num value="2">2.</num><heading>Interpretation</heading><leadIn>In these Rules, unless the context otherwise requires—</leadIn><def name="ClaimsRules"><term>Claims Rules</term> (<term xml:lang="zh-Hant-HK">《申索規則》</term>) means the Securities and Futures (Investor Compensation—Claims) Rules
+                (<ref href="/hk/cap571T">Cap. 571 sub. leg. T</ref>); <sourceNote>(<ref href="/hk/2019/ln131">L.N. 131 of 2019</ref>)</sourceNote></def><def name="ExchangeCompany">
+            <leadIn><term>Exchange
+                    Company</term>
+                    (<term xml:lang="zh-Hant-HK">交易所</term>)—</leadIn>
+            <paragraph id="ID_1438413473883_019" name="a" temporalId="s2_a"><num value="a">(a)</num><content>in relation to a levy payable under <ref>Part 2</ref>, means the Stock
+                    Exchange Company;</content></paragraph>
+            <paragraph id="ID_1438413473899_006" name="b" temporalId="s2_b"><num value="b">(b)</num><content>in relation to a levy payable under <ref>Part 3</ref>, means the Futures
+                    Exchange Company;</content></paragraph>
+        </def><def name="ExemptionNotice"><term>exemption
+                notice</term>
+                (<term xml:lang="zh-Hant-HK">豁免付款公告</term>) means a notice published under
+                <ref>section 25(1)</ref>;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2005/ln108">L.N. 108 of 2005</ref>)</sourceNote></def><def name="HongKongSecurities"><term>Hong Kong securities</term> (<term xml:lang="zh-Hant-HK">香港證券</term>) means any securities that are listed or traded,
+            or to be listed or traded, on a recognized stock market; <sourceNote>(<ref href="/hk/2019/ln131">L.N. 131 of 2019</ref>)</sourceNote></def><def name="Levy"><term>levy</term>
+                (<term xml:lang="zh-Hant-HK">徵費</term>) means a levy payable under <ref>Part 2</ref>
+            or <ref>Part 3</ref>;</def><def name="MiniHangSengChinaEnterprisesIndexFuturesContract"><term>Mini-Hang
+                Seng China Enterprises Index Futures
+            Contract</term>
+                (<term xml:lang="zh-Hant-HK">小型恒生中國企業指數期貨合約</term>) means a futures contract
+            entitled “Mini-Hang Seng China Enterprises Index Futures Contract” for which the
+            contract specifications are set out in the rules of the Futures Exchange Company;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2008/ln122">L.N. 122 of
+                    2008</ref>)</sourceNote></def><def name="MiniHangSengIndexFuturesContract"><term>Mini-Hang
+                Seng Index Futures
+            Contract</term>
+                (<term xml:lang="zh-Hant-HK">小型恒生指數期貨合約</term>) means a futures contract entitled
+            “Mini-Hang Seng Index Futures Contract” for which the contract specifications are set
+            out in the rules of the Futures Exchange Company;</def><def name="MiniHangSengIndexOptionsContract"><term>Mini-Hang
+                Seng Index Options
+            Contract</term>
+                (<term xml:lang="zh-Hant-HK">小型恒生指數期權合約</term>) means a futures contract entitled
+            “Mini-Hang Seng Index Options Contract” for which the contract specifications are set
+            out in the rules of the Futures Exchange Company;</def><def name="NetAssetValue"><term>net
+                asset
+            value</term>
+                (<term xml:lang="zh-Hant-HK">淨資產值</term>), in relation to the compensation fund,
+            means the balance after deducting the total liabilities of the compensation fund from
+            its total assets and, for the purposes of this definition, net asset value may be a
+            negative figure;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2005/ln108">L.N. 108 of 2005</ref>)</sourceNote></def><def name="NorthboundLink"><term>northbound link</term> (<term xml:lang="zh-Hant-HK">北向通</term>) has the meaning given by <ref>section 2</ref> of the Claims Rules;
+                    <sourceNote>(<ref href="/hk/2019/ln131">L.N. 131 of
+            2019</ref>)</sourceNote></def><def name="Remittance"><term>remittance</term>
+                (<term xml:lang="zh-Hant-HK">轉付</term>) means a payment, by way of remittance, by
+            the Exchange Company to the Commission under <ref>section 13</ref>;</def><def name="SecuritiesMarketMakerPermit"><term>securities
+                market maker
+            permit</term>
+                (<term xml:lang="zh-Hant-HK">證券莊家執照</term>) means a permit which is issued to an
+            exchange participant by the Stock Exchange Company in accordance with the rules of the
+            Stock Exchange Company to carry out market making activities in respect of certain
+                securities;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2008/ln122">L.N. 122 of 2008</ref>)</sourceNote></def><def name="SouthboundLink">
+            <leadIn><term>southbound link</term> (<term xml:lang="zh-Hant-HK">南向通</term>), in
+                relation to a Stock Connect arrangement, means the facilities provided or arranged
+                by the operator of the relevant Stock Connect market under the arrangement—</leadIn>
+            <paragraph id="ID_1571821797303_001" name="a" temporalId="s2_a"><num value="a">(a)</num><content>for routing orders for the sale or purchase of securities for execution on
+                    a recognized stock market operated by the Stock Exchange Company; and</content></paragraph>
+            <paragraph id="ID_1571821797303_002" name="b" temporalId="s2_b"><num value="b">(b)</num><content>for handling matters relating to those securities; <sourceNote>(<ref href="/hk/2019/ln131">L.N. 131 of 2019</ref>)</sourceNote></content></paragraph>
+        </def><def name="StockConnectArrangement"><term>Stock Connect arrangement</term> (<term xml:lang="zh-Hant-HK">互聯互通安排</term>) has the meaning given by <ref>section 2</ref>
+            of the Claims Rules; <sourceNote>(<ref href="/hk/2019/ln131">L.N. 131 of
+                2019</ref>)</sourceNote></def><def name="StockConnectMarket"><term>Stock Connect market</term> (<term xml:lang="zh-Hant-HK">互聯互通市場</term>) has the meaning given by <ref>section 2</ref>
+            of the Claims Rules; <sourceNote>(<ref href="/hk/2019/ln131">L.N. 131 of
+                2019</ref>)</sourceNote></def><def name="StockConnectSecurities"><term>Stock Connect securities</term> (<term xml:lang="zh-Hant-HK">互聯互通證券</term>) has the meaning given by <ref>section 2</ref>
+            of the Claims Rules; <sourceNote>(<ref href="/hk/2019/ln131">L.N. 131 of
+                2019</ref>)</sourceNote></def><def name="StockFuturesContract"><term>stock
+                futures
+            contract</term>
+                (<term xml:lang="zh-Hant-HK">股票期貨合約</term>) means a futures contract entitled “Stock
+            Futures Contract” for which the contract specifications are set out in the rules of the
+            Futures Exchange Company;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2005/ln108">L.N. 108 of 2005</ref>)</sourceNote></def><def name="TerminationOfExemptionNotice"><term>termination
+                of exemption
+            notice</term>
+                (<term xml:lang="zh-Hant-HK">終止豁免公告</term>) means a notice published under
+                <ref>section 26(1)</ref>.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2005/ln108">L.N. 108 of 2005</ref>)</sourceNote></def><sourceNote>(<ref href="/hk/2008/ln122">L.N. 122 of 2008</ref>)</sourceNote></section><section id="ID_1458270185880_001" name="s2A" temporalId="s2A" startPeriod="2017-06-29" status="operational" reason="inEffect"><num value="2A">2A.</num><heading>Rounding of
+            levy amounts</heading><content>If, in accordance with any other provision of these Rules, the amount of a levy
+            would, but for this section, include a fraction of a cent, the amount is to be rounded
+            to the nearest cent.</content><sourceNote>(<ref href="/hk/2015/19">19 of 2015 s. 32</ref>)</sourceNote></section></part><part id="ID_1438403473584_003" name="P2" reason="inEffect" startPeriod="2020-01-01" status="operational" temporalId="P2"><num value="2">Part
+            2</num><heading>Levy Payable
+            in
+            respect
+            of Sale
+            or Purchase
+            of
+            Securities</heading><sourceNote>(<ref href="/hk/2019/ln131">L.N. 131 of 2019</ref>)</sourceNote><section id="ID_1438403473600_002" name="s3" reason="inEffect" startPeriod="2020-01-01" status="operational" temporalId="s3"><num value="3">3.</num><heading>Application of <ref>Part 2</ref></heading><subsection id="ID_1571823150335_001" name="1" temporalId="s3_1"><num value="1">(1)</num><leadIn>This Part applies only to—</leadIn><paragraph id="ID_1571823150335_002" name="a" temporalId="s3_1_a"><num value="a">(a)</num><leadIn>a sale or purchase of Hong Kong securities—</leadIn><subparagraph id="ID_1571823150335_003" name="1" temporalId="s3_1_a_1"><num value="1">(i)</num><content>that is recorded on a recognized stock market or notified to a
+                        recognized exchange company under its rules; and</content></subparagraph><subparagraph id="ID_1571823150335_004" name="2" temporalId="s3_1_a_2"><num value="2">(ii)</num><content>the order for which is not routed through the southbound link of a
+                        Stock Connect arrangement; and</content></subparagraph></paragraph><paragraph id="ID_1571823150335_005" name="b" temporalId="s3_1_b"><num value="b">(b)</num><content>a sale or purchase of Stock Connect securities, the order for which is
+                    routed through the northbound link of a Stock Connect arrangement.
+                            <sourceNote>(<ref href="/hk/2019/ln131">L.N. 131 of
+                        2019</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438413473977_012" name="2" temporalId="s3_2"><num value="2">(2)</num><content>This Part is subject to the provisions in <ref>Part 5</ref>.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2005/ln108">L.N. 108 of
+                        2005</ref>)</sourceNote></content></subsection></section><section id="ID_1438403473600_004" name="s4" reason="inEffect" startPeriod="2020-01-01" status="operational" temporalId="s4"><num value="4">4.</num><heading>Securities</heading><leadIn>Subject to <ref>sections 5</ref> and <ref>7A</ref>, for the purposes of the
+            compensation fund, a
+            levy
+            is payable to the Commission—  <sourceNote>(<ref href="/hk/2008/ln122">L.N. 122 of
+                2008</ref>; <ref href="/hk/2019/ln131">L.N. 131 of
+            2019</ref>)</sourceNote></leadIn><paragraph id="ID_1571823372828_001" name="a" temporalId="s4_a"><num value="a">(a)</num><content>for a sale of securities—by the seller at the rate of 0.002% of the
+                consideration for the sale; and</content></paragraph><paragraph id="ID_1571823372828_002" name="b" temporalId="s4_b"><num value="b">(b)</num><content>for a purchase of securities—by the purchaser at the rate of 0.002% of the
+                consideration for the purchase.</content></paragraph><sourceNote>(<ref href="/hk/2019/ln131">L.N. 131 of 2019</ref>)</sourceNote></section><section id="ID_1438403473600_006" name="s5" reason="inEffect" startPeriod="2020-01-01" status="operational" temporalId="s5"><num value="5">5.</num><heading>No levy on stock options</heading><content>For the purposes of the compensation fund, no levy for a
+            sale
+            or purchase of a stock option is payable to the Commission.</content><sourceNote>(<ref href="/hk/2019/ln131">L.N. 131 of 2019</ref>)</sourceNote></section><section id="ID_1438403473616_002" name="s6" reason="repealed" startPeriod="2008-07-12" status="repealed" temporalId="s6"><num value="6">6.</num><sourceNote>(Repealed <ref href="/hk/2008/ln122">L.N. 122 of 2008</ref>)</sourceNote></section><section id="ID_1438403473616_004" name="s7" reason="repealed" startPeriod="2008-07-12" status="repealed" temporalId="s7"><num value="7">7.</num><sourceNote>(Repealed <ref href="/hk/2008/ln122">L.N. 122 of 2008</ref>)</sourceNote></section><section id="ID_1438403473631_001" name="s7A" reason="inEffect" startPeriod="2020-01-01" status="operational" temporalId="s7A"><num value="7A">7A.</num><heading>No levy on sale
+            or
+            purchase of securities by securities market maker permit holders</heading><sourceNote>(<ref href="/hk/2019/ln131">L.N. 131 of 2019</ref>)</sourceNote><leadIn>For the purposes of the compensation fund, no levy
+            is
+            payable to the Commission for the sale or purchase of securities by an exchange
+            participant, if the exchange participant—
+            <sourceNote>(<ref href="/hk/2019/ln131">L.N. 131 of
+            2019</ref>)</sourceNote></leadIn><paragraph id="ID_1438413474071_012" name="a" temporalId="s7A_a"><num value="a">(a)</num><content>holds a securities market maker permit in respect of the securities that is in
+                force at the time of the sale or purchase; and</content></paragraph><paragraph id="ID_1438413474086_002" name="b" temporalId="s7A_b"><num value="b">(b)</num><content>makes the sale or purchase in the course of making a market for the
+                securities.</content></paragraph><sourceNote>(<ref href="/hk/2008/ln122">L.N. 122 of 2008</ref>)</sourceNote></section></part><part id="ID_1438403473631_003" name="P3" reason="inEffect" startPeriod="2017-06-29" status="operational" temporalId="P3"><num value="3">Part
+            3</num><heading>Levy Payable
+            in
+            respect
+            of Sale
+            and Purchase
+            of
+            Futures
+            Contracts</heading><section id="ID_1438403473647_002" name="s8" reason="inEffect" startPeriod="2017-06-29" status="operational" temporalId="s8"><num value="8">8.</num><heading>Application of <ref>Part 3</ref></heading><subsection id="ID_1438413474133_004" name="1" temporalId="s8_1"><num value="1">(1)</num><content>This Part does not apply in relation to a sale and purchase of a futures contract unless it is traded on a recognized futures market.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2005/ln108">L.N. 108 of 2005</ref>)</sourceNote></content></subsection><subsection id="ID_1438413474133_012" name="2" temporalId="s8_2"><num value="2">(2)</num><content>This Part is subject to the provisions in <ref>Part 5</ref>.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2005/ln108">L.N. 108 of 2005</ref>)</sourceNote></content></subsection></section><section id="ID_1438403473662_001" name="s9" reason="inEffect" startPeriod="2017-06-29" status="operational" temporalId="s9"><num value="9">9.</num><heading>Futures contracts</heading><leadIn>Subject to <ref>sections 10</ref> and <ref>11</ref>, for the purposes of the compensation fund, a levy for a sale and purchase of a futures contract shall be payable to the Commission—</leadIn><paragraph id="ID_1438413474149_025" name="a" temporalId="s9_a"><num value="a">(a)</num><content>by the seller in the amount of
+                $0.50;
+                and</content></paragraph><paragraph id="ID_1438413474164_006" name="b" temporalId="s9_b"><num value="b">(b)</num><content>by the purchaser in the amount of
+                $0.50.</content></paragraph></section><section id="ID_1438403473662_003" name="s10" reason="inEffect" startPeriod="2017-06-29" status="operational" temporalId="s10"><num value="10">10.</num><heading>Mini-Hang Seng Index Futures Contracts, Mini-Hang Seng Index Options Contracts and
+            Mini-Hang Seng China Enterprises Index Futures
+            Contracts</heading><sourceNote>(<ref href="/hk/2008/ln122">L.N. 122 of 2008</ref>)</sourceNote><leadIn>For the purposes of the compensation fund, the levy payable to the Commission for a
+            sale and purchase of a Mini-Hang Seng Index Futures Contract, a Mini-Hang Seng Index
+            Options Contract or a Mini-Hang Seng China Enterprises Index Futures Contract
+                    is—  <sourceNote>(<ref href="/hk/2008/ln122">L.N. 122 of
+                2008</ref>)</sourceNote></leadIn><paragraph id="ID_1438413474180_012" name="a" temporalId="s10_a"><num value="a">(a)</num><content>in the case of the seller, in the amount of
+                $0.10;
+                or</content></paragraph><paragraph id="ID_1438413474180_020" name="b" temporalId="s10_b"><num value="b">(b)</num><content>in the case of the purchaser, in the amount of
+                $0.10.</content></paragraph></section><section id="ID_1438403473678_001" name="s11" reason="inEffect" startPeriod="2017-06-29" status="operational" temporalId="s11"><num value="11">11.</num><heading>Stock futures contracts</heading><leadIn>For the purposes of the compensation fund, the levy payable to the Commission for a sale and purchase of a stock futures contract or an option on such a contract is—</leadIn><paragraph id="ID_1438413474211_019" name="a" temporalId="s11_a"><num value="a">(a)</num><content>in the case of the seller, in the amount of
+                $0.10;
+                or</content></paragraph><paragraph id="ID_1438413474211_027" name="b" temporalId="s11_b"><num value="b">(b)</num><content>in the case of the purchaser, in the amount of
+                $0.10.</content></paragraph></section></part><part id="ID_1438403473678_003" name="P4" reason="inEffect" startPeriod="2017-06-29" status="operational" temporalId="P4"><num value="4">Part
+            4</num><heading>Manner
+            of Payment
+            and
+            Incidental
+            Matters</heading><section id="ID_1438403473678_005" name="s12" reason="inEffect" startPeriod="2017-06-29" status="operational" temporalId="s12"><num value="12">12.</num><heading>Payment of levies</heading><subsection id="ID_1438413474242_004" name="1" temporalId="s12_1"><num value="1">(1)</num><content>A person who is liable to pay a levy under these Rules shall pay the levy to the Exchange Company on behalf of the Commission in such manner as may be specified from time to time in the rules of the Exchange Company.</content></subsection><subsection id="ID_1438413474258_005" name="2" temporalId="s12_2"><num value="2">(2)</num><content>The amount of any levy payable under this section is recoverable as a civil debt due to the Commission.</content></subsection></section><section id="ID_1438403473694_001" name="s13" reason="inEffect" startPeriod="2017-06-29" status="operational" temporalId="s13"><num value="13">13.</num><heading>Exchange Company to collect and remit levy</heading><leadIn>The Exchange Company shall—</leadIn><paragraph id="ID_1438413474273_020" name="a" temporalId="s13_a"><num value="a">(a)</num><content>collect any levy paid to it under <ref>section 12</ref>; and</content></paragraph><paragraph id="ID_1438413474273_028" name="b" temporalId="s13_b"><num value="b">(b)</num><content>subject to <ref>section 21</ref>, pay the levy by way of remittance to the Commission by paying it into such bank account as may be specified by the Commission, on the 15th day of the month following the month of the collection of the levy, or where the 15th day is not a business day, on the next business day.</content></paragraph></section><section id="ID_1438403473694_003" name="s14" reason="inEffect" startPeriod="2017-06-29" status="operational" temporalId="s14"><num value="14">14.</num><heading>Exchange Company to deposit levies in bank pending remittance</heading><leadIn>Pending remittance to the Commission of any levy in accordance with <ref>section 13</ref>, the Exchange Company shall—</leadIn><paragraph id="ID_1438413474305_020" name="a" temporalId="s14_a"><num value="a">(a)</num><content>hold the levy on behalf of the Commission; and</content></paragraph><paragraph id="ID_1438413474305_028" name="b" temporalId="s14_b"><num value="b">(b)</num><content>deposit the levy in a bank within the meaning of the Banking Ordinance (<ref href="/hk/cap155">Cap. 155</ref>) as soon as reasonably practicable after collection of the levy.</content></paragraph></section><section id="ID_1438403473709_002" name="s15" reason="inEffect" startPeriod="2017-06-29" status="operational" temporalId="s15"><num value="15">15.</num><heading>Returns relating to remittance</heading><subsection id="ID_1438413474336_004" name="1" temporalId="s15_1"><num value="1">(1)</num><content>Within 7 days after the date of each remittance, the Exchange Company shall furnish to the Commission a return relating to the remittance.</content></subsection><subsection id="ID_1438413474336_012" name="2" temporalId="s15_2"><num value="2">(2)</num><leadIn>A return furnished under subsection (1) shall—</leadIn><paragraph id="ID_1438413474336_020" name="a" temporalId="s15_2_a"><num value="a">(a)</num><content>be in such form as may be specified by the Commission;</content></paragraph><paragraph id="ID_1438413474336_028" name="b" temporalId="s15_2_b"><num value="b">(b)</num><content>be signed by a director of the Exchange Company authorized by the Exchange Company either generally or specifically for that purpose; and</content></paragraph><paragraph id="ID_1438413474336_036" name="c" temporalId="s15_2_c"><num value="c">(c)</num><content>contain such information as may be specified by the Commission.</content></paragraph></subsection></section><section id="ID_1438403473818_002" name="s16" reason="inEffect" startPeriod="2017-06-29" status="operational" temporalId="s16"><num value="16">16.</num><heading>Adjustment of remittance and returns</heading><content>A return or the amount of remittance to which it relates may be adjusted by the Exchange Company to reflect any error in a previous return or remittance (as the case may be).</content></section><section id="ID_1438403473850_001" name="s17" reason="inEffect" startPeriod="2017-06-29" status="operational" temporalId="s17"><num value="17">17.</num><heading>Late remittance charge</heading><subsection id="ID_1438413474398_011" name="1" temporalId="s17_1"><num value="1">(1)</num><content>If the Exchange Company fails to remit any levy when required under these Rules, it shall pay to the Commission a late remittance charge of 2% above the average of the best lending rate respectively quoted by each note-issuing bank within the meaning of <ref>section 2</ref> of the Legal Tender Notes Issue Ordinance (<ref href="/hk/cap65">Cap. 65</ref>), on the amount of the levy, calculated on a daily basis commencing on the date of default until the remittance of the levy is made.</content></subsection><subsection id="ID_1438413474414_005" name="2" temporalId="s17_2"><num value="2">(2)</num><content>The late remittance charge payable under subsection (1) and the amount of the levy referred to in subsection (1) are recoverable as a civil debt due to the Commission.</content></subsection><subsection id="ID_1438413474429_005" name="3" temporalId="s17_3"><num value="3">(3)</num><content>The Commission shall pay the late remittance charge paid to it under subsection (1) into the compensation fund.</content></subsection></section><section id="ID_1438403473850_003" name="s18" reason="inEffect" startPeriod="2017-06-29" status="operational" temporalId="s18"><num value="18">18.</num><heading>Accounts</heading><content>The Exchange Company shall keep proper accounts in respect of all transactions relating to the collection and remittance of levies.</content></section><section id="ID_1438403473865_002" name="s19" reason="inEffect" startPeriod="2017-06-29" status="operational" temporalId="s19"><num value="19">19.</num><heading>Inspection of accounts</heading><content>For the purpose of ascertaining whether the Exchange Company is complying or has complied with any provision of these Rules, a person authorized in writing by the Commission may at any reasonable time, upon production of a copy of the authorization, inspect and make copies of the accounts kept under <ref>section 18</ref>.</content></section><section id="ID_1438403473865_004" name="s20" reason="inEffect" startPeriod="2017-06-29" status="operational" temporalId="s20"><num value="20">20.</num><heading>Report</heading><subsection id="ID_1438413474507_004" name="1" temporalId="s20_1"><num value="1">(1)</num><content>Subject to subsection (3), the Exchange Company shall, within one month after 31 March in each year or such longer period as may be specified by the Commission either generally or in a particular case, furnish to the Commission a report certifying that the returns furnished under <ref>section 15</ref> and relating to all remittances made in the 12 months ending on 31 March in that year are correct and comply with these Rules, and that the levies to which the remittances relate have been paid in accordance with these Rules.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2005/ln108">L.N. 108 of 2005</ref>)</sourceNote></content></subsection><subsection id="ID_1438413474523_005" name="2" temporalId="s20_2"><num value="2">(2)</num><leadIn>The report furnished under subsection (1) shall be—</leadIn><paragraph id="ID_1438413474523_013" name="a" temporalId="s20_2_a"><num value="a">(a)</num><content>in such form as may be specified by the Commission; and</content></paragraph><paragraph id="ID_1438413474523_021" name="b" temporalId="s20_2_b"><num value="b">(b)</num><content>prepared and certified, at the expense of the Exchange Company, by an
+                    auditor appointed by the Exchange Company under the Companies Ordinance (<ref href="/hk/cap622">Cap. 622</ref>) or the relevant Ordinance.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/2012/28">28 of 2012 ss.
+                            912
+                            &amp;
+                        920</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438413474539_005" name="3" temporalId="s20_3"><num value="3">(3)</num><leadIn>The Exchange Company is not required to furnish a report under subsection (1) in respect of any 12 month period specified in that subsection if—</leadIn><paragraph id="ID_1438413474539_013" name="a" temporalId="s20_3_a"><num value="a">(a)</num><content>no person is required to pay any levy under these Rules during that period; and</content></paragraph><paragraph id="ID_1438413474554_006" name="b" temporalId="s20_3_b"><num value="b">(b)</num><content>no refund, adjustment, collection or remittance of levy was made or has fallen due under these Rules during that period.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2005/ln108">L.N. 108 of 2005</ref>)</sourceNote></content></paragraph></subsection></section><section id="ID_1438403473881_002" name="s21" reason="inEffect" startPeriod="2017-06-29" status="operational" temporalId="s21"><num value="21">21.</num><heading>Refund of levy</heading><subsection id="ID_1438413474601_004" name="1" temporalId="s21_1"><num value="1">(1)</num><leadIn>Where a person has paid a levy, he may apply to the Commission for the refund of such levy on the ground that—</leadIn><paragraph id="ID_1438413474601_012" name="a" temporalId="s21_1_a"><num value="a">(a)</num><content>he was in fact not liable to pay the levy; or</content></paragraph><paragraph id="ID_1438413474601_020" name="b" temporalId="s21_1_b"><num value="b">(b)</num><content>he subsequently became not liable to pay the levy.</content></paragraph></subsection><subsection id="ID_1438413474601_027" name="2" temporalId="s21_2"><num value="2">(2)</num><leadIn>An application under subsection (1) shall be—</leadIn><paragraph id="ID_1438413474601_035" name="a" temporalId="s21_2_a"><num value="a">(a)</num><content>in writing; and</content></paragraph><paragraph id="ID_1438413474601_043" name="b" temporalId="s21_2_b"><num value="b">(b)</num><content>accompanied by all relevant information.</content></paragraph></subsection><subsection id="ID_1438413474601_050" name="3" temporalId="s21_3"><num value="3">(3)</num><content>If the Commission is satisfied that an applicant was or became not liable to pay a levy paid by him, it shall refund the levy to the applicant.</content></subsection></section><section id="ID_1438403473881_004" name="s22" reason="inEffect" startPeriod="2017-06-29" status="operational" temporalId="s22"><num value="22">22.</num><heading>Notification of failure to pay levy</heading><content>Where the Exchange Company is aware that any person has failed to pay a levy payable by him, it shall as soon as reasonably practicable notify the Commission in writing of the failure.</content></section><section id="ID_1438403473896_002" name="s23" reason="inEffect" startPeriod="2017-06-29" status="operational" temporalId="s23"><num value="23">23.</num><heading>Provision of information</heading><subsection id="ID_1438413474663_004" name="1" temporalId="s23_1"><num value="1">(1)</num><content>The Commission may by notice in writing require the Exchange Company to provide information specified in the notice relating to the collection, deposit and remittance of levies.</content></subsection><subsection id="ID_1438413474663_012" name="2" temporalId="s23_2"><num value="2">(2)</num><content>Where a notice is given under subsection (1), the Exchange Company shall as soon as reasonably practicable provide the information specified in the notice.</content></subsection></section></part><part id="ID_1438403473896_004" name="P5" reason="inEffect" startPeriod="2017-06-29" status="operational" temporalId="P5"><num value="5">Part
+            5</num><heading>No Payment
+            of Levy
+            under
+            Exemption
+            Notice</heading><sourceNote>(<ref>Part 5</ref> added <ref href="/hk/2005/ln108">L.N. 108 of
+            2005</ref>)</sourceNote><section id="ID_1438403473912_002" name="s24" reason="inEffect" startPeriod="2020-01-01" status="operational" temporalId="s24"><num value="24">24.</num><heading>Commission to cause financial statement to be audited</heading><subsection id="ID_1438413474726_004" name="1" temporalId="s24_1"><num value="1">(1)</num><content>Subject to subsection (3), where the latest unaudited financial statement
+                prepared in respect of the accounts of the compensation fund and made up to (and
+                including) the last day of any month shows that the net asset value of the
+                compensation fund exceeds
+                $3
+                billion as at that day, the Commission must as soon as reasonably
+                practicable appoint an auditor to audit, and prepare an auditor’s report in respect
+                of, the financial statement and to submit the report to the Commission.
+                <sourceNote>(<ref href="/hk/2019/ln131">L.N. 131 of
+                2019</ref>)</sourceNote></content></subsection><subsection id="ID_1438413474741_005" name="2" temporalId="s24_2"><num value="2">(2)</num><content>Subject to subsection (4), where the latest unaudited financial statement
+                prepared in respect of the accounts of the compensation fund and made up to (and
+                including) the last day of any month shows that the net asset value of the
+                compensation fund is below
+                $2
+                billion as at that day, the Commission must as soon as reasonably
+                practicable appoint an auditor to audit, and prepare an auditor’s report in respect
+                of, the financial statement and to submit the report to the Commission.
+                <sourceNote>(<ref href="/hk/2019/ln131">L.N. 131 of
+                2019</ref>)</sourceNote></content></subsection><subsection id="ID_1438413474757_005" name="3" temporalId="s24_3"><num value="3">(3)</num><leadIn>Subsection (1) does not apply if at the date of receiving the latest unaudited
+                financial statement—</leadIn><paragraph id="ID_1438413474757_013" name="a" temporalId="s24_3_a"><num value="a">(a)</num><content>the Commission has published an exemption notice under <ref>section
+                        25(1)</ref> but has not published a termination of exemption notice relating
+                    to it under <ref>section 26(1)</ref>;</content></paragraph><paragraph id="ID_1438413474757_021" name="b" temporalId="s24_3_b"><num value="b">(b)</num><content>the Commission has received an auditor’s report prepared in respect of a
+                    previous unaudited financial statement and, as a result, the Commission is
+                    required to publish an exemption notice under <ref>section
+                    25(1)</ref>;</content></paragraph><paragraph id="ID_1438413474757_029" name="c" temporalId="s24_3_c"><num value="c">(c)</num><content>the Commission has appointed an auditor, and is awaiting receipt of an
+                    auditor’s report to be prepared under subsection (1) in respect of a previous
+                    unaudited financial statement; or</content></paragraph><paragraph id="ID_1438413474773_006" name="d" temporalId="s24_3_d"><num value="d">(d)</num><content>an unaudited financial statement made up to (and including) the last day of
+                    the month referred to in subsection (1) is required to be audited, and an
+                    auditor’s report in respect of the financial statement is required to be
+                    prepared, under <ref>section 240</ref> of the Ordinance.</content></paragraph></subsection><subsection id="ID_1438413474773_013" name="4" temporalId="s24_4"><num value="4">(4)</num><leadIn>Subsection (2) does not apply if at the date of receiving the latest unaudited
+                financial statement—</leadIn><paragraph id="ID_1438413474773_021" name="a" temporalId="s24_4_a"><num value="a">(a)</num><content>the Commission has not published an exemption notice under <ref>section
+                        25(1)</ref>;</content></paragraph><paragraph id="ID_1438413474773_029" name="b" temporalId="s24_4_b"><num value="b">(b)</num><content>the Commission has published an exemption notice under <ref>section
+                        25(1)</ref> and has published a termination of exemption notice relating to
+                    it under <ref>section 26(1)</ref>;</content></paragraph><paragraph id="ID_1438413474773_037" name="c" temporalId="s24_4_c"><num value="c">(c)</num><content>the Commission has received an auditor’s report prepared in respect of a
+                    previous unaudited financial statement and, as a result, the Commission is
+                    required to publish a termination of exemption notice under <ref>section
+                        26(1)</ref>;</content></paragraph><paragraph id="ID_1438413474788_006" name="d" temporalId="s24_4_d"><num value="d">(d)</num><content>the Commission has appointed an auditor, and is awaiting receipt of an
+                    auditor’s report to be prepared under subsection (2) in respect of a previous
+                    unaudited financial statement; or</content></paragraph><paragraph id="ID_1438413474788_014" name="e" temporalId="s24_4_e"><num value="e">(e)</num><content>an unaudited financial statement made up to (and including) the last day of
+                    the month referred to in subsection (2) is required to be audited, and an
+                    auditor’s report in respect of the financial statement is required to be
+                    prepared, under <ref>section 240</ref> of the Ordinance.</content></paragraph></subsection></section><section id="ID_1438403473912_004" name="s25" reason="inEffect" startPeriod="2020-01-01" status="operational" temporalId="s25"><num value="25">25.</num><heading>Commission to publish exemption notice</heading><subsection id="ID_1438413474882_027" name="1" temporalId="s25_1"><num value="1">(1)</num><leadIn>Subject to subsections (3) and (4), where the auditor’s report prepared under
+                    <ref>section 240</ref> of the Ordinance or <ref>section 24(1)</ref> confirms
+                (whether expressly or impliedly and whether by reference to any financial statement
+                attached to it or otherwise) that the net asset value of the compensation fund
+                exceeds
+                $3
+                billion, the Commission must by an exemption notice published in
+                the Gazette declare that no person is required to pay any levy under <ref>Part
+                    2</ref> or <ref>3</ref> in respect of a
+                sale
+                or purchase of securities or futures contract that takes place at
+                any time—</leadIn><paragraph id="ID_1438413474897_005" name="a" temporalId="s25_1_a"><num value="a">(a)</num><content>on or after the date specified in the exemption notice, which date
+                    may
+                    not be earlier than one month after the date of publication of the exemption
+                    notice in the Gazette; and</content></paragraph><paragraph id="ID_1438413474897_013" name="b" temporalId="s25_1_b"><num value="b">(b)</num><content>before the date to be specified by a termination of exemption notice
+                    published under <ref>section 26(1)</ref>.</content></paragraph></subsection><subsection id="ID_1438413474913_005" name="2" temporalId="s25_2"><num value="2">(2)</num><content>Notwithstanding anything in these Rules, where an exemption notice is published
+                in the Gazette, no person
+                may
+                be required to pay the levy as declared to be not payable by the exemption
+                notice.</content></subsection><subsection id="ID_1438413474913_013" name="3" temporalId="s25_3"><num value="3">(3)</num><content>No further exemption notice
+                may
+                be published if a previous exemption notice has been published by the Commission
+                under subsection (1) but a termination of exemption notice relating to it has not
+                been published under <ref>section 26(1)</ref>.</content></subsection><subsection id="ID_1438413474913_021" name="4" temporalId="s25_4"><num value="4">(4)</num><content>Subject to subsection (5), the Commission may, after consultation with the
+                Financial Secretary, refrain from publishing an exemption notice under subsection
+                (1) if it has reason to believe that the net asset value of the compensation fund
+                will fall below
+                $2
+                billion within 6 months from the date of receiving the auditor’s
+                report.</content></subsection><subsection id="ID_1438413474929_005" name="5" temporalId="s25_5"><num value="5">(5)</num><content>The Commission having refrained from publishing an exemption notice is required
+                to ascertain the net asset value of the compensation fund and if the Commission
+                subsequently reasonably considers that the net asset value of the compensation fund
+                will not fall below
+                $2
+                billion within the 6 month period, it
+                must
+                proceed to publish the exemption notice.</content></subsection><subsection id="ID_1438413474929_013" name="6" temporalId="s25_6"><num value="6">(6)</num><content>An exemption notice is not subsidiary legislation.</content></subsection><sourceNote>(<ref href="/hk/2019/ln131">L.N. 131 of 2019</ref>)</sourceNote></section><section id="ID_1438403473928_002" name="s26" reason="inEffect" startPeriod="2020-01-01" status="operational" temporalId="s26"><num value="26">26.</num><heading>Commission to publish termination of exemption notice</heading><subsection id="ID_1438413474991_004" name="1" temporalId="s26_1"><num value="1">(1)</num><leadIn>Subject to subsection (3), where—</leadIn><paragraph id="ID_1438413474991_012" name="a" temporalId="s26_1_a"><num value="a">(a)</num><content>the auditor’s report prepared under <ref>section 240</ref> of the Ordinance
+                    or <ref>section 24(2)</ref> confirms (whether expressly or impliedly and whether
+                    by reference to any financial statement attached to it or otherwise) that the
+                    net asset value of the compensation fund is below
+                    $2
+                    billion; and</content></paragraph><paragraph id="ID_1438413474991_020" name="b" temporalId="s26_1_b"><num value="b">(b)</num><content>the Commission has published an exemption notice under <ref>section
+                        25(1)</ref> but has not published a termination of exemption notice relating
+                    to it under this subsection,</content></paragraph><continued>the
+                Commission
+                must by a termination of exemption notice published in the Gazette
+                specify a termination date for the exemption notice, which
+                date
+                may not be earlier than 2 months after the date of publication of
+                the termination of exemption notice in the Gazette.</continued></subsection><subsection id="ID_1438413475007_004" name="2" temporalId="s26_2"><num value="2">(2)</num><content>The publication of a termination of exemption notice
+                does
+                not revive the obligation to pay any levy which has been declared to be not payable
+                by the exemption notice relating to it.</content></subsection><subsection id="ID_1438413475007_012" name="3" temporalId="s26_3"><num value="3">(3)</num><content>Subject to subsection (4), the Commission may, after consultation with the
+                Financial Secretary, refrain from publishing a termination of exemption notice under
+                subsection (1) if it has reason to believe that the net asset value of the
+                compensation fund will exceed
+                $3
+                billion within 6 months from the date of receiving the auditor’s
+                report.</content></subsection><subsection id="ID_1438413475022_003" name="4" temporalId="s26_4"><num value="4">(4)</num><content>The Commission having refrained from publishing a termination of exemption
+                notice is required to ascertain the net asset value of the compensation fund and if
+                the Commission subsequently reasonably considers that the net asset value of the
+                compensation fund will not exceed
+                $3
+                billion within the 6 month period, it
+                must
+                proceed to publish the termination of exemption notice.</content></subsection><subsection id="ID_1438413475022_011" name="5" temporalId="s26_5"><num value="5">(5)</num><content>A termination of exemption notice is not subsidiary legislation.</content></subsection><sourceNote>(<ref href="/hk/2019/ln131">L.N. 131 of 2019</ref>)</sourceNote></section><section id="ID_1571824353446_001" name="s27" temporalId="s27" startPeriod="2020-07-09" status="operational" reason="inEffect"><num value="27">27.</num><heading>Exemption notice
+            published on 11 November 2005</heading><subsection id="ID_1571824601705_001" name="1" temporalId="s27_1"><num value="1">(1)</num><content>The Commission’s declaration that no person is required to pay any levy under
+                    <ref>Part 2</ref> or <ref>3</ref>, by the exemption notice published on 11
+                November 2005 under <ref>section 25(1)</ref>, continues to have effect until the
+                date to be specified for the exemption notice by a termination of exemption notice
+                published under <ref>section 26(1)</ref>.</content></subsection><subsection id="ID_1571824601705_002" name="2" temporalId="s27_2"><num value="2">(2)</num><leadIn>To avoid doubt, subsection (1) applies—</leadIn><paragraph id="ID_1571824601705_003" name="a" temporalId="s27_2_a"><num value="a">(a)</num><content>despite the amendments made to this Part by <ref>sections 9</ref>,
+                        <ref>10</ref> and <ref>11</ref> of the Securities and Futures (Investor
+                    Compensation—Levy) (Amendment)
+                    Rules
+                    2019
+                        (<ref href="/hk/2019/ln131">L.N. 131 of
+                    2019</ref>); and
+                    <sourceNote>(<ref href="hk/2020/er4">E.R. 4 of 2020</ref>)</sourceNote></content></paragraph><paragraph id="ID_1571824601705_004" name="b" temporalId="s27_2_b"><num value="b">(b)</num><content>regardless of the net asset value of the compensation fund on 1 January
+                    2020.</content></paragraph></subsection><sourceNote>(<ref href="/hk/2019/ln131">L.N. 131 of 2019</ref>)</sourceNote></section></part></main></subLeg>

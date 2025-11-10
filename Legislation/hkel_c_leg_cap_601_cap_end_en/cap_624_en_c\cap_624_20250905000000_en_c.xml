@@ -1,0 +1,906 @@
+<?xml version="1.0" encoding="UTF-8"?><ordinance xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcterms="http://purl.org/dc/terms/" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd" xml:lang="en"><meta><docName>Cap. 624</docName><docType>cap</docType><docNumber>624</docNumber><docStatus>In effect</docStatus><dc:identifier>/hk/cap624!en</dc:identifier><dc:date>2025-09-05</dc:date><dc:subject>legislation</dc:subject><dc:language>en</dc:language><dc:publisher>DoJ</dc:publisher><dc:rights>the Government of the Hong Kong Special Administrative Region</dc:rights></meta><main xml:lang="en" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd"><longTitle id="ID_1438403552973_005" name="longTitle" reason="inEffect" status="operational" temporalId="longTitle" startPeriod="2015-07-07">
+            
+            <content>An Ordinance to provide for
+                matters relating to district cooling services provided by the Government, including
+                the imposition of charges for the services; and to provide for other related
+                matters. <marker role="blank-line"></marker><marker role="blank-line"></marker></content>
+        </longTitle><commencementNote>[27 March 2015]</commencementNote><enactingFormula><content><sourceNote>(Enacting provision omitted—<ref href="/hk/2015/er2">E.R. 2 of
+            2015</ref>)<marker role="blank-line"></marker><marker role="blank-line"></marker></sourceNote></content></enactingFormula><part id="ID_1438403552988_002" name="P1" reason="inEffect" startPeriod="2015-03-27" status="operational" temporalId="P1"><num value="1">Part 1</num><heading>Preliminary</heading><section id="ID_1438403552988_004" name="s1" reason="inEffect" startPeriod="2015-03-27" status="operational" temporalId="s1"><num value="1">1.</num><heading>Short title</heading><content>This Ordinance may be cited as the <shortTitle>District Cooling Services Ordinance</shortTitle>. </content></section><section id="ID_1438403553004_001" name="s2" reason="inEffect" startPeriod="2022-07-01" status="operational" temporalId="s2"><num value="2">2.</num><heading>Interpretation</heading><leadIn>In this Ordinance—</leadIn><def name="ActualCoolingCapacity"><term>actual cooling capacity</term> (<term xml:lang="zh-Hant-HK">實際製冷量</term>), in relation to a building to which district cooling services are provided by a district cooling system, means the rate of heat removal, in the unit of kilowatt refrigeration (kWr), that is actually demanded by the building for the system to generate the chilled water supplied to the building for the services; </def><def name="ActualCoolingEnergyConsumption"><term>actual cooling energy consumption</term> (<term xml:lang="zh-Hant-HK">實際耗冷量</term>), in relation to a building to which district cooling services are provided by a district cooling system, means the cooling energy, in the unit of kilowatt-hour refrigeration (kWrh), that is actually used by the building for the system to generate the chilled water supplied to the building for the services; </def><def name="AgreedStartingDate"><term>agreed starting date</term> (<term xml:lang="zh-Hant-HK">協定開始日期</term>), in relation to a building for which a person is an approved consumer, means the intended starting date for the provision of district cooling services to the building as agreed by the Director under <ref>section 4(4)(b)(ii)</ref> when approving the person as the consumer under <ref>section 4(4)</ref>; </def><def name="AppealBoard"><term>appeal board</term> (<term xml:lang="zh-Hant-HK">上訴委員會</term>) means a District Cooling Services Appeal Board appointed under <ref>section 25</ref>; </def><def name="AppealBoardPanel"><term>appeal board panel</term> (<term xml:lang="zh-Hant-HK">上訴委員團</term>) means the appeal board panel referred to in <ref>section 24</ref>; </def><def name="ApprovedConsumer"><term>approved consumer</term> (<term xml:lang="zh-Hant-HK">獲准用户</term>), in relation to a building, means a person who is approved under <ref>section 4(4)</ref> as the consumer of district cooling services for the building; </def><def name="AuthorizedOfficer"><term>authorized officer</term> (<term xml:lang="zh-Hant-HK">獲授權人員</term>) means a public officer authorized under <ref>section 19</ref>; </def><def name="Building"><term>building</term> (<term xml:lang="zh-Hant-HK">建築物</term>) includes part of a building; </def><def name="CapacityCharge"><term>capacity charge</term> (<term xml:lang="zh-Hant-HK">製冷量收費</term>) means the capacity charge referred to in <ref>section 10(1)(a)</ref>; </def><def name="CapacityOverrunCharge"><term>capacity overrun charge</term> (<term xml:lang="zh-Hant-HK">超額製冷量收費</term>) means the capacity overrun charge referred to in <ref>section 10(1)(b)</ref>; </def><def name="Charge"><term>charge</term> (<term xml:lang="zh-Hant-HK">收費</term>) means a primary charge, surcharge or further surcharge; </def><def name="ConsumptionCharge"><term>consumption charge</term> (<term xml:lang="zh-Hant-HK">耗冷量收費</term>) means the consumption charge referred to in <ref>section 10(1)(c)</ref>; </def><def name="ContractCoolingCapacity"><term>contract cooling capacity</term> (<term xml:lang="zh-Hant-HK">合約製冷量</term>), in relation to a building, means the contract cooling capacity as provided or revised under <ref>section 5</ref> for the building;</def><def name="Deposit"><term>deposit</term> (<term xml:lang="zh-Hant-HK">按金</term>) means a deposit payable under <ref>section 13</ref>; </def><def name="Director"><term>Director</term> (<term xml:lang="zh-Hant-HK">署長</term>) means the Director of Electrical and Mechanical Services; </def><def name="DistrictCoolingServices"><term>district cooling services</term> (<term xml:lang="zh-Hant-HK">區域供冷服務</term>) means the supply of chilled water for air-conditioning purposes by a district cooling system owned by the Government, and other related services; </def><def name="DistrictCoolingSystem"><term>district cooling system</term> (<term xml:lang="zh-Hant-HK">區域供冷系統</term>) means a system in which chilled water is supplied from one or more central chiller plants to user buildings within the area served by the system through a network of pipes for air-conditioning in the buildings; </def><def name="DueDate"><term>due date</term> (<term xml:lang="zh-Hant-HK">到期日</term>)—see <ref>section 14</ref>; </def><def name="EstimatedMaximumCoolingCapacity"><term>estimated maximum cooling capacity</term> (<term xml:lang="zh-Hant-HK">估計最高製冷量</term>), in relation to a building to which district cooling services are intended to be provided by a district cooling system, means an estimation of the maximum rate of heat removal, in the unit of kilowatt refrigeration (kWr), that would be demanded by the building for the system to generate the chilled water to be supplied to the building for the services; </def><def name="Fee"><term>fee</term> (<term xml:lang="zh-Hant-HK">費用</term>) means the fee for testing referred to in <ref>section 12(4)</ref>; </def><def name="Function"><term>function</term> (<term xml:lang="zh-Hant-HK">職能</term>) includes a power and a duty; </def><def name="FurtherSurcharge"><term>further surcharge</term> (<term xml:lang="zh-Hant-HK">額外附加費</term>) means the further surcharge referred to in <ref>section 10(2)(b)</ref>; </def><def name="ImprovementNotice"><term>improvement notice</term> (<term xml:lang="zh-Hant-HK">敦促改善通知書</term>) means an improvement notice issued or amended under <ref>section 18</ref>; </def><def name="PrimaryCharge"><term>primary charge</term> (<term xml:lang="zh-Hant-HK">基本收費</term>) means a capacity charge, a capacity overrun charge or a consumption charge; </def><def name="Secretary"><term>Secretary</term> (<term xml:lang="zh-Hant-HK">局長</term>) means the
+            Secretary
+            for Environment and Ecology;
+                <sourceNote>(Amended <ref href="/hk/2022/ln144">L.N. 144 of
+            2022</ref>)</sourceNote></def><def name="SpecifiedForm"><term>specified form</term> (<term xml:lang="zh-Hant-HK">指明表格</term>) means a form specified by the Director under <ref>section 33</ref>;</def><def name="Surcharge"><term>surcharge</term> (<term xml:lang="zh-Hant-HK">附加費</term>) means the surcharge referred to in <ref>section 10(2)(a)</ref>. </def></section><section id="ID_1438403553004_003" name="s3" reason="inEffect" startPeriod="2015-03-27" status="operational" temporalId="s3"><num value="3">3.</num><heading>District cooling system in relation to which this Ordinance applies</heading><content>This Ordinance applies in relation to a district cooling system specified in <ref>Schedule 1</ref>.</content></section></part><part id="ID_1438403553020_002" name="P2" reason="inEffect" startPeriod="2015-03-27" status="operational" temporalId="P2"><num value="2">Part 2</num><heading>Provision of District Cooling Services</heading><section id="ID_1438403553020_004" name="s4" reason="inEffect" startPeriod="2015-03-27" status="operational" temporalId="s4"><num value="4">4.</num><heading>Approval of consumer of district cooling services</heading><subsection id="ID_1438413994810_004" name="1" temporalId="s4_1"><num value="1">(1)</num><leadIn>Any of the following persons may apply to the Director in a specified form for approval as the consumer of district cooling services for a building—</leadIn><paragraph id="ID_1438413994810_012" name="a" temporalId="s4_1_a"><num value="a">(a)</num><content>an owner or occupier of the building; </content></paragraph><paragraph id="ID_1438413994810_020" name="b" temporalId="s4_1_b"><num value="b">(b)</num><content>a person responsible for the management of the building. </content></paragraph></subsection><subsection id="ID_1438413994810_027" name="2" temporalId="s4_2"><num value="2">(2)</num><leadIn>The applicant must include in the specified form—</leadIn><paragraph id="ID_1438413994825_005" name="a" temporalId="s4_2_a"><num value="a">(a)</num><content>the estimated maximum cooling capacity of the building; </content></paragraph><paragraph id="ID_1438413994825_013" name="b" temporalId="s4_2_b"><num value="b">(b)</num><content>the intended starting date for the provision of district cooling services to the building; and </content></paragraph><paragraph id="ID_1438413994825_021" name="c" temporalId="s4_2_c"><num value="c">(c)</num><content>an undertaking given by the applicant in accordance with subsection (3). </content></paragraph></subsection><subsection id="ID_1438413994825_028" name="3" temporalId="s4_3"><num value="3">(3)</num><leadIn>The undertaking to be given by the applicant under subsection <ref>(2)(c)</ref> is an undertaking—</leadIn><paragraph id="ID_1438413994825_036" name="a" temporalId="s4_3_a"><num value="a">(a)</num><content>to pay any charge, fee or deposit payable in respect of the district cooling services provided to the building in accordance with this Ordinance; </content></paragraph><paragraph id="ID_1438413994825_044" name="b" temporalId="s4_3_b"><num value="b">(b)</num><content>to be responsible for, and to bear the cost of, the design, provision, construction, installation and maintenance of the facilities for the building to receive district cooling services as specified by the Director; and </content></paragraph><paragraph id="ID_1438413994825_052" name="c" temporalId="s4_3_c"><num value="c">(c)</num><content>to comply with any other conditions imposed by the Director relating to the provision or use of district cooling services. </content></paragraph></subsection><subsection id="ID_1438413994841_005" name="4" temporalId="s4_4"><num value="4">(4)</num><leadIn>The Director may approve the applicant as the consumer of district cooling services for a building if—</leadIn><paragraph id="ID_1438413994841_013" name="a" temporalId="s4_4_a"><num value="a">(a)</num><content>the application complies with subsections (1) and (2); and </content></paragraph><paragraph id="ID_1438413994841_021" name="b" temporalId="s4_4_b"><num value="b">(b)</num><leadIn>the Director agrees to—</leadIn><subparagraph id="ID_1438413994841_029" name="i" temporalId="s4_4_b_i"><num value="i">(i)</num><content>the estimated maximum cooling capacity provided under subsection <ref>(2)(a)</ref> or otherwise by the applicant; and </content></subparagraph><subparagraph id="ID_1438413994841_037" name="ii" temporalId="s4_4_b_ii"><num value="ii">(ii)</num><content>the intended starting date provided under subsection <ref>(2)(b)</ref> or otherwise by the applicant. </content></subparagraph></paragraph></subsection><subsection id="ID_1438413994841_043" name="5" temporalId="s4_5"><num value="5">(5)</num><content>If the Director approves the applicant as the consumer of district cooling services for a building under subsection (4), the applicant becomes, or is taken to have become, the approved consumer for the building on the agreed starting date. </content></subsection><subsection id="ID_1438413994841_051" name="6" temporalId="s4_6"><num value="6">(6)</num><content>If the Director decides not to approve the applicant as the consumer of district cooling services for a building under subsection (4), the Director must notify the applicant of the decision and the reasons for the decision. </content></subsection></section><section id="ID_1438403553035_002" name="s5" reason="inEffect" startPeriod="2015-03-27" status="operational" temporalId="s5"><num value="5">5.</num><heading>Contract cooling capacity</heading><subsection id="ID_1438413994903_004" name="1" temporalId="s5_1"><num value="1">(1)</num><content>If the Director approves a person as the consumer of district cooling services for a building under <ref>section 4(4)</ref>, the estimated maximum cooling capacity agreed by the Director under <ref>section 4(4)(b)(i)</ref> becomes, or is taken to have become, the contract cooling capacity of the building on the agreed starting date. </content></subsection><subsection id="ID_1438413994903_012" name="2" temporalId="s5_2"><num value="2">(2)</num><content>The approved consumer for a building may revise the contract cooling capacity of the building only if the Director has agreed to the revision.</content></subsection></section><section id="ID_1438403553035_004" name="s6" reason="inEffect" startPeriod="2015-03-27" status="operational" temporalId="s6"><num value="6">6.</num><heading>Provision of district cooling services</heading><subsection id="ID_1438413994934_004" name="1" temporalId="s6_1"><num value="1">(1)</num><leadIn>If the Director approves a person as the consumer of district cooling services for a building under <ref>section 4(4)</ref>, the Director may provide district cooling services to the building from—</leadIn><paragraph id="ID_1438413994934_012" name="a" temporalId="s6_1_a"><num value="a">(a)</num><content>the agreed starting date; or </content></paragraph><paragraph id="ID_1438413994934_020" name="b" temporalId="s6_1_b"><num value="b">(b)</num><content>a later date as proposed by the approved consumer and agreed by the Director. </content></paragraph></subsection><subsection id="ID_1438413994934_027" name="2" temporalId="s6_2"><num value="2">(2)</num><content>Nevertheless, the Director may refuse to provide district cooling services to a building from the date specified in subsection (1) if the approved consumer for the building fails to fulfil, or is in breach of, the undertaking given by the approved consumer under <ref>section 4(2)(c)</ref> in respect of the building. </content></subsection><subsection id="ID_1438413994950_005" name="3" temporalId="s6_3"><num value="3">(3)</num><content>If the Director decides to refuse to provide district cooling services to a building under subsection (2), the Director must notify the approved consumer for the building of the decision and the reasons for the decision. </content></subsection></section><section id="ID_1438403553051_002" name="s7" reason="inEffect" startPeriod="2015-03-27" status="operational" temporalId="s7"><num value="7">7.</num><heading>Suspension or termination of district cooling services</heading><subsection id="ID_1438413994981_004" name="1" temporalId="s7_1"><num value="1">(1)</num><leadIn>The Director may suspend or terminate district cooling services to a building if—</leadIn><paragraph id="ID_1438413994981_012" name="a" temporalId="s7_1_a"><num value="a">(a)</num><content>there is no approved consumer for the building; </content></paragraph><paragraph id="ID_1438413994981_020" name="b" temporalId="s7_1_b"><num value="b">(b)</num><content>the approved consumer for the building fails to fulfil, or is in breach of, the undertaking given by the approved consumer under <ref>section 4(2)(c)</ref> in respect of the building; </content></paragraph><paragraph id="ID_1438413994997_006" name="c" temporalId="s7_1_c"><num value="c">(c)</num><content>the approved consumer for the building fails to comply with a direction contained in an improvement notice;</content></paragraph><paragraph id="ID_1438413994997_014" name="d" temporalId="s7_1_d"><num value="d">(d)</num><content>in the Director’s opinion, work is required to be carried out for the installation, inspection, testing, operation, maintenance, regulating, alteration, repair, replacement or removal of any part of the district cooling system; </content></paragraph><paragraph id="ID_1438413994997_022" name="e" temporalId="s7_1_e"><num value="e">(e)</num><content>in the Director’s opinion, work is required to be carried out in the event of an operational emergency arising from a fault in the district cooling system; </content></paragraph><paragraph id="ID_1438413994997_030" name="f" temporalId="s7_1_f"><num value="f">(f)</num><content>in the Director’s opinion, it is necessary to do so to protect life or property; or </content></paragraph><paragraph id="ID_1438413994997_038" name="g" temporalId="s7_1_g"><num value="g">(g)</num><content>in the Director’s opinion, the behaviour of, or an installation of the building by, the approved consumer for the building is jeopardizing or will jeopardize the operation or reliability of the district cooling services. </content></paragraph></subsection><subsection id="ID_1438413995012_005" name="2" temporalId="s7_2"><num value="2">(2)</num><content>If the Director decides to suspend or terminate district cooling services to a building under subsection <ref>(1)(b)</ref>, (c), (d), (e), (f) or (g), the Director must notify the approved consumer for the building of the decision and the reasons for the decision. </content></subsection></section><section id="ID_1438403553051_004" name="s8" reason="inEffect" startPeriod="2015-03-27" status="operational" temporalId="s8"><num value="8">8.</num><heading>Application for resumption of suspended district cooling services</heading><subsection id="ID_1438413995044_004" name="1" temporalId="s8_1"><num value="1">(1)</num><content>If the Director has suspended district cooling services to a building under <ref>section 7(1)(b)</ref>, (c), (d), (e), (f) or (g), the approved consumer for the building may apply to the Director for the services to be resumed. </content></subsection><subsection id="ID_1438413995044_012" name="2" temporalId="s8_2"><num value="2">(2)</num><content>On an application under subsection (1), the Director may resume district cooling services to the building if the approved consumer demonstrates to the satisfaction of the Director that the ground on which the services were suspended no longer exists.</content></subsection><subsection id="ID_1438413995059_005" name="3" temporalId="s8_3"><num value="3">(3)</num><content>If the Director decides not to resume district cooling services to a building under subsection (2), the Director must notify the approved consumer for the building of the decision and the reasons for the decision.</content></subsection></section><section id="ID_1438403553066_001" name="s9" reason="inEffect" startPeriod="2015-03-27" status="operational" temporalId="s9"><num value="9">9.</num><heading>Ceasing to be approved as consumer of district cooling services</heading><subsection id="ID_1438413995090_004" name="1" temporalId="s9_1"><num value="1">(1)</num><content>A person who is the approved consumer for a building may apply to the Director for the cessation of the approval. </content></subsection><subsection id="ID_1438413995090_012" name="2" temporalId="s9_2"><num value="2">(2)</num><leadIn>The application must—</leadIn><paragraph id="ID_1438413995090_020" name="a" temporalId="s9_2_a"><num value="a">(a)</num><content>state the intended date of the cessation; and </content></paragraph><paragraph id="ID_1438413995106_005" name="b" temporalId="s9_2_b"><num value="b">(b)</num><content>be made at least 1 month before that date. </content></paragraph></subsection><subsection id="ID_1438413995106_012" name="3" temporalId="s9_3"><num value="3">(3)</num><leadIn>The Director must allow the application if—</leadIn><paragraph id="ID_1438413995106_020" name="a" temporalId="s9_3_a"><num value="a">(a)</num><content>the application complies with subsection (2); and </content></paragraph><paragraph id="ID_1438413995106_028" name="b" temporalId="s9_3_b"><num value="b">(b)</num><content>all outstanding charges and fees payable by the approved consumer in respect of the district cooling services provided to the building have been settled before the intended date of the cessation. </content></paragraph></subsection><subsection id="ID_1438413995106_035" name="4" temporalId="s9_4"><num value="4">(4)</num><leadIn>If the Director allows the application, then, on the intended date of the cessation—</leadIn><paragraph id="ID_1438413995106_043" name="a" temporalId="s9_4_a"><num value="a">(a)</num><content>the person ceases to be approved as the consumer of district cooling services for the building; and </content></paragraph><paragraph id="ID_1438413995106_051" name="b" temporalId="s9_4_b"><num value="b">(b)</num><content>the undertaking given by the person under <ref>section 4(2)(c)</ref> in respect of the building ceases to be in force. </content></paragraph></subsection><subsection id="ID_1438413995106_058" name="5" temporalId="s9_5"><num value="5">(5)</num><content>If the Director decides to refuse the application, the Director must notify the person of the decision and the reasons for the decision.</content></subsection></section></part><part id="ID_1438403553066_003" name="P3" reason="inEffect" startPeriod="2015-03-27" status="operational" temporalId="P3"><num value="3">Part 3</num><heading>Charges for District Cooling Services</heading><section id="ID_1438403553082_001" name="s10" reason="inEffect" startPeriod="2015-03-27" status="operational" temporalId="s10"><num value="10">10.</num><heading>Charges for district cooling services</heading><subsection id="ID_1438413995168_004" name="1" temporalId="s10_1"><num value="1">(1)</num><leadIn>The approved consumer for a building must pay to the Government the following charges for the district cooling services provided to the building during a month—</leadIn><paragraph id="ID_1438413995168_012" name="a" temporalId="s10_1_a"><num value="a">(a)</num><content>a capacity charge for the month, calculated according to <ref>section 2(1)</ref> and (3) of <ref>Schedule 2</ref>;</content></paragraph><paragraph id="ID_1438413995168_020" name="b" temporalId="s10_1_b"><num value="b">(b)</num><content>if the highest actual cooling capacity of the building in the month exceeds the contract cooling capacity of the building—a capacity overrun charge for the month, calculated according to <ref>section 2(2)</ref> and (3) of <ref>Schedule 2</ref>; and </content></paragraph><paragraph id="ID_1438413995168_028" name="c" temporalId="s10_1_c"><num value="c">(c)</num><content>a consumption charge for the month, calculated according to <ref>section 3 of Schedule 2</ref>. </content></paragraph></subsection><subsection id="ID_1438413995168_035" name="2" temporalId="s10_2"><num value="2">(2)</num><leadIn>The approved consumer for a building must also pay to the Government the following charges for an outstanding charge or fee—</leadIn><paragraph id="ID_1438413995184_005" name="a" temporalId="s10_2_a"><num value="a">(a)</num><content>if a part of a primary charge or fee payable in respect of the building is not paid on or before its due date—a surcharge for the unpaid primary charge or fee, calculated according to <ref>section 4(1) of Schedule 2</ref>; and </content></paragraph><paragraph id="ID_1438413995184_013" name="b" temporalId="s10_2_b"><num value="b">(b)</num><content>if a part of a primary charge, fee or surcharge payable in respect of the building remains unpaid as at the expiry of the period of 6 months beginning on the day after its due date—a further surcharge for the unpaid primary charge, fee or surcharge, calculated according to <ref>section 4(2) of Schedule 2</ref>. </content></paragraph></subsection><subsection id="ID_1438413995184_020" name="3" temporalId="s10_3"><num value="3">(3)</num><content>The Director must inform the approved consumer for a building, by notice in writing, of the rates of primary charge applicable to the building for each subject period.</content></subsection><subsection id="ID_1438413995200_005" name="4" temporalId="s10_4"><num value="4">(4)</num><leadIn>In addition, the Director must publicize the rates of primary charge applicable for each subject period by—</leadIn><paragraph id="ID_1438413995200_013" name="a" temporalId="s10_4_a"><num value="a">(a)</num><content>publishing a notice that is accessible through the Internet; or </content></paragraph><paragraph id="ID_1438413995200_021" name="b" temporalId="s10_4_b"><num value="b">(b)</num><content>placing a notice in any daily newspaper in circulation in Hong Kong. </content></paragraph></subsection><subsection id="ID_1438413995200_028" name="5" temporalId="s10_5"><num value="5">(5)</num><leadIn>In this section—</leadIn><def name="RatesOfPrimaryCharge"><term>rates of primary charge</term> (<term xml:lang="zh-Hant-HK">基本收費額</term>) means the capacity charge rate and consumption charge rate within the meaning of <ref>section 5 of Schedule 2</ref>; </def><def name="SubjectPeriod"><term>subject period</term> (<term xml:lang="zh-Hant-HK">收費計算期</term>) has the meaning given by <ref>section 5(2) of Schedule 2</ref>. </def></subsection></section><section id="ID_1438403553082_003" name="s11" reason="inEffect" startPeriod="2015-03-27" status="operational" temporalId="s11"><num value="11">11.</num><heading>Determination of actual cooling capacity and actual cooling energy consumption</heading><subsection id="ID_1438413995246_004" name="1" temporalId="s11_1"><num value="1">(1)</num><content>The actual cooling capacity and actual cooling energy consumption of a building are to be measured by a meter owned by the Government and maintained by the Director in the building. </content></subsection><subsection id="ID_1438413995246_012" name="2" temporalId="s11_2"><num value="2">(2)</num><content>However, if the Director is of the opinion that it is impracticable or inappropriate to rely on a measurement under subsection (1) for a period, the actual cooling capacity and actual cooling energy consumption of the building for that period may be determined in the manner the Director thinks fit. </content></subsection></section><section id="ID_1438403553098_001" name="s12" reason="inEffect" startPeriod="2015-03-27" status="operational" temporalId="s12"><num value="12">12.</num><heading>Testing of meter</heading><subsection id="ID_1438413995293_004" name="1" temporalId="s12_1"><num value="1">(1)</num><content>An approved consumer for a building who doubts the accuracy of a meter that measures the actual cooling capacity and actual cooling energy consumption of the building may apply to the Director in a specified form to have the meter tested.</content></subsection><subsection id="ID_1438413995293_012" name="2" temporalId="s12_2"><num value="2">(2)</num><content>After receiving the application, the Director must arrange for the meter to be tested in the manner the Director thinks fit. </content></subsection><subsection id="ID_1438413995309_005" name="3" temporalId="s12_3"><num value="3">(3)</num><content>A meter is regarded as registering correctly despite any inaccuracy found in its measurement if the inaccuracy does not exceed 3% above or below the correct amount. </content></subsection><subsection id="ID_1438413995309_013" name="4" temporalId="s12_4"><num value="4">(4)</num><content>If the result of the test is that the meter is registering correctly, the approved consumer must pay to the Director a fee for testing in an amount equivalent to the cost involved in testing the meter. </content></subsection><subsection id="ID_1438413995309_021" name="5" temporalId="s12_5"><num value="5">(5)</num><content>However, if the result is that the meter is not registering correctly, no fee for testing is payable by the approved consumer. <marker role="blank-line"></marker><marker role="blank-line"></marker></content></subsection></section><section id="ID_1438403553098_003" name="s13" reason="inEffect" startPeriod="2015-03-27" status="operational" temporalId="s13"><num value="13">13.</num><heading>Deposit</heading><subsection id="ID_1438413995340_004" name="1" temporalId="s13_1"><num value="1">(1)</num><content>The Director may require the approved consumer for a building to pay a deposit, in the amount and by the date specified in a demand note issued to the approved consumer, to cover any charge or fee that is or may be payable in respect of the building. </content></subsection><subsection id="ID_1438413995340_012" name="2" temporalId="s13_2"><num value="2">(2)</num><content>Without limiting any other power under this Ordinance, the Director may apply a deposit paid in respect of a building to the payment of a charge or fee payable in respect of the building. </content></subsection><subsection id="ID_1438413995356_005" name="3" temporalId="s13_3"><num value="3">(3)</num><leadIn>A deposit paid under this section—</leadIn><paragraph id="ID_1438413995356_013" name="a" temporalId="s13_3_a"><num value="a">(a)</num><content>does not bear interest; and </content></paragraph><paragraph id="ID_1438413995356_021" name="b" temporalId="s13_3_b"><num value="b">(b)</num><content>is not transferable. </content></paragraph></subsection><subsection id="ID_1438413995371_005" name="4" temporalId="s13_4"><num value="4">(4)</num><leadIn>Subject to subsection (2), a deposit paid by a person as the approved consumer for a building must be refunded to the person if—</leadIn><paragraph id="ID_1438413995371_013" name="a" temporalId="s13_4_a"><num value="a">(a)</num><content>the person has ceased to be approved as the consumer of district cooling services for the building; and</content></paragraph><paragraph id="ID_1438413995371_021" name="b" temporalId="s13_4_b"><num value="b">(b)</num><content>the Director is of the opinion that the deposit is no longer required for satisfying any liability owed by the person as the approved consumer to the Government in connection with the services. </content></paragraph></subsection></section><section id="ID_1438403553098_005" name="s14" reason="inEffect" startPeriod="2015-03-27" status="operational" temporalId="s14"><num value="14">14.</num><heading>Due date for charge, fee and deposit</heading><subsection id="ID_1438413995402_004" name="1" temporalId="s14_1"><num value="1">(1)</num><leadIn>The due date for a charge or fee is—</leadIn><paragraph id="ID_1438413995402_012" name="a" temporalId="s14_1_a"><num value="a">(a)</num><content>for a primary charge or fee—the date by which the charge or fee must be paid as specified in a demand note issued by the Director for the charge or fee; </content></paragraph><paragraph id="ID_1438413995402_020" name="b" temporalId="s14_1_b"><num value="b">(b)</num><content>for a surcharge payable in respect of a primary charge or fee—the due date of the primary charge or fee; and </content></paragraph><paragraph id="ID_1438413995418_006" name="c" temporalId="s14_1_c"><num value="c">(c)</num><content>for a further surcharge payable in respect of a primary charge, fee or surcharge—the date on which the period of 6 months beginning on the day after the due date of the primary charge, fee or surcharge expires. </content></paragraph></subsection><subsection id="ID_1438413995418_013" name="2" temporalId="s14_2"><num value="2">(2)</num><content>The due date for a deposit is the date by which the deposit must be paid as specified in a demand note issued for the deposit under <ref>section 13(1)</ref>. </content></subsection><subsection id="ID_1438413995418_021" name="3" temporalId="s14_3"><num value="3">(3)</num><leadIn>A charge, fee or deposit must be paid—</leadIn><paragraph id="ID_1438413995418_029" name="a" temporalId="s14_3_a"><num value="a">(a)</num><content>for a primary charge, fee or deposit—on or before the due date; or </content></paragraph><paragraph id="ID_1438413995418_037" name="b" temporalId="s14_3_b"><num value="b">(b)</num><content>for a surcharge or further surcharge—immediately after the due date. </content></paragraph></subsection></section><section id="ID_1438403553113_002" name="s15" reason="inEffect" startPeriod="2015-03-27" status="operational" temporalId="s15"><num value="15">15.</num><heading>Reduction etc. of charge, fee and deposit</heading><subsection id="ID_1438413995449_026" name="1" temporalId="s15_1"><num value="1">(1)</num><content>The Director may, in a particular case, reduce, waive or refund, in whole or in part, a charge or fee payable or paid under this Ordinance.</content></subsection><subsection id="ID_1438413995449_034" name="2" temporalId="s15_2"><num value="2">(2)</num><content>The Director may, on the application by the approved consumer for a building in a particular case, reduce, waive or refund, in whole or in part, a deposit payable or paid in respect of the building. </content></subsection></section><section id="ID_1438403553129_001" name="s16" reason="inEffect" startPeriod="2015-03-27" status="operational" temporalId="s16"><num value="16">16.</num><heading>Recovery of charge and fee</heading><content>A charge or fee payable under this Ordinance is recoverable as a civil debt due to the Government. </content></section><section id="ID_1438403553129_003" name="s17" reason="inEffect" startPeriod="2015-03-27" status="operational" temporalId="s17"><num value="17">17.</num><heading>Application of charge and fee received etc.</heading><subsection id="ID_1452821697018_001" name="1" temporalId="s17_1"><num value="1">(1)</num><content>Subject
+                to the approval of the Financial Secretary, those parts of the charges and fees
+                received by the Government under this Ordinance that are required for either of the
+                purposes specified in subsection (2) do not form part of the general revenue and may
+                be applied for those purposes. </content></subsection><subsection id="ID_1452821697018_002" name="2" temporalId="s17_2"><num value="2">(2)</num><leadIn>The purposes are—</leadIn><paragraph id="ID_1452821697034_003" name="a" temporalId="s17_2_a"><num value="a">(a)</num><content>settling a payment that a person who has entered into an agreement with the
+                    Government for the management, operation and maintenance of a district cooling
+                    system is entitled to receive under the agreement; and </content></paragraph><paragraph id="ID_1452821697034_004" name="b" temporalId="s17_2_b"><num value="b">(b)</num><content>settling any other expenses arising from or in connection with the
+                    provision of district cooling services.</content></paragraph></subsection></section></part><part id="ID_1438403553144_002" name="P4" reason="inEffect" startPeriod="2015-03-27" status="operational" temporalId="P4"><num value="4">Part 4</num><heading>Administration of District Cooling Services</heading><section id="ID_1438403553160_001" name="s18" reason="inEffect" startPeriod="2015-03-27" status="operational" temporalId="s18"><num value="18">18.</num><heading>Improvement notice</heading><subsection id="ID_1438413995543_004" name="1" temporalId="s18_1"><num value="1">(1)</num><content>The Director may issue an improvement notice to the approved consumer for a building if the Director is of the opinion that the behaviour of, or an installation of the building by, the approved consumer is jeopardizing or will jeopardize the operation or reliability of district cooling services. </content></subsection><subsection id="ID_1438413995543_012" name="2" temporalId="s18_2"><num value="2">(2)</num><leadIn>An improvement notice issued to an approved consumer must—</leadIn><paragraph id="ID_1438413995558_005" name="a" temporalId="s18_2_a"><num value="a">(a)</num><content>state the Director’s opinion referred to in subsection (1); </content></paragraph><paragraph id="ID_1438413995558_013" name="b" temporalId="s18_2_b"><num value="b">(b)</num><content>specify the approved consumer’s behaviour or installation that is jeopardizing or will jeopardize the operation or reliability of district cooling services; and </content></paragraph><paragraph id="ID_1438413995558_021" name="c" temporalId="s18_2_c"><num value="c">(c)</num><content>direct the approved consumer to remedy the behaviour or installation within the period specified in the notice. </content></paragraph></subsection><subsection id="ID_1438413995558_028" name="3" temporalId="s18_3"><num value="3">(3)</num><content>The Director may amend or withdraw an improvement notice by issuing a notice to the approved consumer. </content></subsection><subsection id="ID_1438413995558_036" name="4" temporalId="s18_4"><num value="4">(4)</num><content>An improvement notice issued to a person as the approved consumer for a building ceases to have effect if the person is no longer the approved consumer for the building. </content></subsection><subsection id="ID_1438413995558_044" name="5" temporalId="s18_5"><num value="5">(5)</num><content>Subsection (4) applies regardless of whether the person has complied with the direction contained in the improvement notice. </content></subsection></section><section id="ID_1438403553160_003" name="s19" reason="inEffect" startPeriod="2015-03-27" status="operational" temporalId="s19"><num value="19">19.</num><heading>Authorized officers</heading><subsection id="ID_1438413995605_004" name="1" temporalId="s19_1"><num value="1">(1)</num><content>The Director may, in writing, authorize a public officer attached to the Electrical and Mechanical Services Department to be an authorized officer for the purposes of this Ordinance.</content></subsection><subsection id="ID_1438413995605_012" name="2" temporalId="s19_2"><num value="2">(2)</num><content>An authorized officer must, if so requested, produce written proof of that officer’s authorization before performing a function under this Ordinance. </content></subsection></section><section id="ID_1438403553160_005" name="s20" reason="inEffect" startPeriod="2015-03-27" status="operational" temporalId="s20"><num value="20">20.</num><heading>Access for inspection and maintenance</heading><subsection id="ID_1438413995621_019" name="1" temporalId="s20_1"><num value="1">(1)</num><leadIn>An authorized officer may, at all reasonable times, enter a building to do any or all of the following—</leadIn><paragraph id="ID_1438413995621_027" name="a" temporalId="s20_1_a"><num value="a">(a)</num><content>to inspect the building for the purposes of verifying information that is needed in determining a charge payable in respect of the building; </content></paragraph><paragraph id="ID_1438413995636_006" name="b" temporalId="s20_1_b"><num value="b">(b)</num><content>to install, inspect, test, operate, maintain, regulate, alter, repair, replace or remove any part of the district cooling system in the building; </content></paragraph><paragraph id="ID_1438413995636_014" name="c" temporalId="s20_1_c"><num value="c">(c)</num><content>to suspend or terminate district cooling services to the building. </content></paragraph></subsection><subsection id="ID_1438413995636_021" name="2" temporalId="s20_2"><num value="2">(2)</num><content>Subsection (1) does not empower an authorized officer to enter a part of the building that is for residential use without the consent of the occupier of that part. </content></subsection><subsection id="ID_1438413995636_029" name="3" temporalId="s20_3"><num value="3">(3)</num><content>An authorized officer may exercise any power under this section with the assistance of any other person the officer thinks fit. </content></subsection></section><section id="ID_1438403553176_002" name="s21" reason="inEffect" startPeriod="2015-03-27" status="operational" temporalId="s21"><num value="21">21.</num><heading>Offences</heading><subsection id="ID_1438413995668_004" name="1" temporalId="s21_1"><num value="1">(1)</num><leadIn>A person commits an offence if the person—</leadIn><paragraph id="ID_1438413995668_012" name="a" temporalId="s21_1_a"><num value="a">(a)</num><content>obstructs an authorized officer, or a person assisting the officer under <ref>section 20(3)</ref>, in the officer’s performance of a function under this Ordinance; or </content></paragraph><paragraph id="ID_1438413995668_020" name="b" temporalId="s21_1_b"><num value="b">(b)</num><content>tampers with a facility owned and maintained by the Government for any purpose relating to the provision of district cooling services. </content></paragraph></subsection><subsection id="ID_1438413995683_005" name="2" temporalId="s21_2"><num value="2">(2)</num><content>A person who commits an offence under subsection (1) is liable on conviction to a fine at level 3 and to imprisonment for 6 months.</content></subsection></section></part><part id="ID_1438403553176_004" name="P5" reason="inEffect" startPeriod="2015-03-27" status="operational" temporalId="P5"><num value="5">Part 5</num><heading>Appeal</heading><section id="ID_1438403553191_002" name="s22" reason="inEffect" startPeriod="2015-03-27" status="operational" temporalId="s22"><num value="22">22.</num><heading>Appeal to appeal board</heading><subsection id="ID_1438413995714_004" name="1" temporalId="s22_1"><num value="1">(1)</num><leadIn>A person who is aggrieved by any of the following decisions and direction made in respect of the person may appeal to an appeal board against the decision or direction—</leadIn><paragraph id="ID_1438413995714_012" name="a" temporalId="s22_1_a"><num value="a">(a)</num><content>a decision not to approve a person as the consumer of district cooling services for a building under <ref>section 4(4)</ref>; </content></paragraph><paragraph id="ID_1438413995730_006" name="b" temporalId="s22_1_b"><num value="b">(b)</num><content>a decision to refuse to provide district cooling services to a building under <ref>section 6(2)</ref>; </content></paragraph><paragraph id="ID_1438413995730_014" name="c" temporalId="s22_1_c"><num value="c">(c)</num><content>a decision to suspend or terminate district cooling services to a building under <ref>section 7(1)(b)</ref>, (c), (d), (e), (f) or (g); </content></paragraph><paragraph id="ID_1438413995730_022" name="d" temporalId="s22_1_d"><num value="d">(d)</num><content>a decision not to resume district cooling services to a building under <ref>section 8(2)</ref> where the services were suspended under <ref>section 7(1)(b)</ref>, (c), (d), (e), (f) or (g); </content></paragraph><paragraph id="ID_1438413995730_030" name="e" temporalId="s22_1_e"><num value="e">(e)</num><content>a decision to refuse an application for the cessation of the approval of a person as the consumer of district cooling services for a building under <ref>section 9</ref>; </content></paragraph><paragraph id="ID_1438413995730_038" name="f" temporalId="s22_1_f"><num value="f">(f)</num><content>a decision to issue or amend an improvement notice under <ref>section 18</ref>; </content></paragraph><paragraph id="ID_1438413995730_046" name="g" temporalId="s22_1_g"><num value="g">(g)</num><content>a direction contained in an improvement notice. </content></paragraph></subsection><subsection id="ID_1438413995730_053" name="2" temporalId="s22_2"><num value="2">(2)</num><content>An appeal under subsection (1) against a decision or direction does not suspend the decision or direction unless the Director decides otherwise.</content></subsection></section><section id="ID_1438403553191_004" name="s23" reason="inEffect" startPeriod="2015-03-27" status="operational" temporalId="s23"><num value="23">23.</num><heading>How to lodge an appeal</heading><subsection id="ID_1438413995777_004" name="1" temporalId="s23_1"><num value="1">(1)</num><content>A person may lodge an appeal under <ref>section 22(1)</ref> by giving a notice of appeal to the Director. </content></subsection><subsection id="ID_1438413995777_012" name="2" temporalId="s23_2"><num value="2">(2)</num><leadIn>A notice of appeal must be given within—</leadIn><paragraph id="ID_1438413995777_020" name="a" temporalId="s23_2_a"><num value="a">(a)</num><content>14 days after the date on which the person is notified of the decision or direction appealed against; or </content></paragraph><paragraph id="ID_1438413995777_028" name="b" temporalId="s23_2_b"><num value="b">(b)</num><content>a longer period that the Director may allow. </content></paragraph></subsection><subsection id="ID_1438413995777_035" name="3" temporalId="s23_3"><num value="3">(3)</num><leadIn>A notice of appeal must—</leadIn><paragraph id="ID_1438413995777_043" name="a" temporalId="s23_3_a"><num value="a">(a)</num><content>be in a specified form; </content></paragraph><paragraph id="ID_1438413995792_005" name="b" temporalId="s23_3_b"><num value="b">(b)</num><content>be accompanied by a copy of any document on which the person intends to rely; and </content></paragraph><paragraph id="ID_1438413995792_013" name="c" temporalId="s23_3_c"><num value="c">(c)</num><content>contain the particulars of any witness that the person intends to call at the hearing of the appeal. </content></paragraph></subsection><subsection id="ID_1438413995792_020" name="4" temporalId="s23_4"><num value="4">(4)</num><content>As soon as reasonably practicable after receiving a notice of appeal, the Director must deliver it to the Secretary. </content></subsection></section><section id="ID_1438403553207_002" name="s24" reason="inEffect" startPeriod="2015-03-27" status="operational" temporalId="s24"><num value="24">24.</num><heading>Appeal board panel</heading><subsection id="ID_1438413995824_004" name="1" temporalId="s24_1"><num value="1">(1)</num><leadIn>The Secretary is to appoint members to an appeal board panel consisting of the following numbers and categories of members—</leadIn><paragraph id="ID_1438413995824_012" name="a" temporalId="s24_1_a"><num value="a">(a)</num><leadIn>not more than 4 members, each of whom is—</leadIn><subparagraph id="ID_1438413995824_020" name="i" temporalId="s24_1_a_i"><num value="i">(i)</num><content>a barrister qualified to practise as such under the Legal Practitioners Ordinance (<ref href="/hk/cap159">Cap. 159</ref>); or </content></subparagraph><subparagraph id="ID_1438413995824_028" name="ii" temporalId="s24_1_a_ii"><num value="ii">(ii)</num><content>a solicitor qualified to act as such under that Ordinance; </content></subparagraph></paragraph><paragraph id="ID_1438413995824_035" name="b" temporalId="s24_1_b"><num value="b">(b)</num><content>not more than 4 members, each of whom is a corporate member of The Hong Kong Institution of Engineers in one or more of the electrical, mechanical and building services disciplines;</content></paragraph><paragraph id="ID_1438413995839_006" name="c" temporalId="s24_1_c"><num value="c">(c)</num><content>not more than 4 members, each of whom is a corporate member of The Hong Kong Institution of Engineers in a discipline other than those mentioned in paragraph (b); and </content></paragraph><paragraph id="ID_1438413995839_014" name="d" temporalId="s24_1_d"><num value="d">(d)</num><content>not more than 4 members, each of whom is not, in the Secretary’s opinion, from the engineering profession. </content></paragraph></subsection><subsection id="ID_1438413995839_021" name="2" temporalId="s24_2"><num value="2">(2)</num><leadIn>For an appointment under subsection <ref>(1)(b)</ref> or (c)—</leadIn><paragraph id="ID_1438413995839_029" name="a" temporalId="s24_2_a"><num value="a">(a)</num><content>a person is ineligible if the person has less than 10 years’ experience of practice in the engineering profession in Hong Kong; and</content></paragraph><paragraph id="ID_1438413995839_037" name="b" temporalId="s24_2_b"><num value="b">(b)</num><content>if a person is a corporate member of The Hong Kong Institution of Engineers in more than one discipline, the person’s membership is, for the purposes of subsections (1) and <ref>(6)(d)</ref>, to be regarded as being only in the discipline designated by the Secretary for the appointment. </content></paragraph></subsection><subsection id="ID_1438413995855_005" name="3" temporalId="s24_3"><num value="3">(3)</num><content>A public officer is ineligible for an appointment under subsection (1). </content></subsection><subsection id="ID_1438413995855_013" name="4" temporalId="s24_4"><num value="4">(4)</num><content>A member of the appeal board panel is to be appointed for a term of 3 years and may be reappointed where each reappointment is for a term of 3 years. </content></subsection><subsection id="ID_1438413995855_021" name="5" temporalId="s24_5"><num value="5">(5)</num><content>A member of the appeal board panel may, at any time, resign from his or her office by issuing a notice in writing to the Secretary. </content></subsection><subsection id="ID_1438413995855_029" name="6" temporalId="s24_6"><num value="6">(6)</num><leadIn>The Secretary may terminate the office of a member of the appeal board panel if the Secretary is satisfied that the member—</leadIn><paragraph id="ID_1438413995855_037" name="a" temporalId="s24_6_a"><num value="a">(a)</num><content>has become a public officer; </content></paragraph><paragraph id="ID_1438413995855_045" name="b" temporalId="s24_6_b"><num value="b">(b)</num><content>has become bankrupt or has entered into a voluntary arrangement within the meaning of <ref>section 2</ref> of the Bankruptcy Ordinance (<ref href="/hk/cap6">Cap. 6</ref>) with the member’s creditors;</content></paragraph><paragraph id="ID_1438413995855_053" name="c" temporalId="s24_6_c"><num value="c">(c)</num><content>is incapacitated by physical or mental illness; </content></paragraph><paragraph id="ID_1438413995870_006" name="d" temporalId="s24_6_d"><num value="d">(d)</num><content>has ceased to be of the capacity by virtue of which the member was appointed; or </content></paragraph><paragraph id="ID_1438413995870_014" name="e" temporalId="s24_6_e"><num value="e">(e)</num><content>is otherwise unable or unfit to perform the functions of a member of the appeal board panel. </content></paragraph></subsection><subsection id="ID_1438413995870_021" name="7" temporalId="s24_7"><num value="7">(7)</num><content>The Secretary must give notice in the Gazette of any appointment, reappointment, resignation or termination of office under this section. </content></subsection></section><section id="ID_1438403553207_004" name="s25" reason="inEffect" startPeriod="2015-03-27" status="operational" temporalId="s25"><num value="25">25.</num><heading>Appeal board</heading><subsection id="ID_1438413995917_004" name="1" temporalId="s25_1"><num value="1">(1)</num><content>Within 21 days after receiving a notice of appeal delivered under <ref>section 23(4)</ref>, the Secretary must appoint from among the members of the appeal board panel a District Cooling Services Appeal Board to hear the appeal. </content></subsection><subsection id="ID_1438413995933_005" name="2" temporalId="s25_2"><num value="2">(2)</num><leadIn>An appeal board is to consist of 5 members—</leadIn><paragraph id="ID_1438413995933_013" name="a" temporalId="s25_2_a"><num value="a">(a)</num><content>one of whom is the Chairperson of the board, who must be appointed from the category of members specified in <ref>section 24(1)(a)</ref>; and </content></paragraph><paragraph id="ID_1438413995933_021" name="b" temporalId="s25_2_b"><num value="b">(b)</num><content>the remaining 4 members must be appointed from all of the 3 categories of members specified in <ref>section 24(1)(b)</ref>, (c) and (d). </content></paragraph></subsection><subsection id="ID_1438413995933_028" name="3" temporalId="s25_3"><num value="3">(3)</num><content>If a vacancy occurs in an appeal board before the hearing of the appeal begins, the Secretary must, as soon as reasonably practicable, make an appointment from among the members of the appeal board panel to fill the vacancy so that the board is composed in accordance with subsection (2). </content></subsection><subsection id="ID_1438413995948_005" name="4" temporalId="s25_4"><num value="4">(4)</num><content>The members of an appeal board may be paid out of the general revenue any remuneration the Financial Secretary determines.</content></subsection></section><section id="ID_1438403553222_001" name="s26" reason="inEffect" startPeriod="2015-03-27" status="operational" temporalId="s26"><num value="26">26.</num><heading>Proceedings of appeal board</heading><subsection id="ID_1438413995980_004" name="1" temporalId="s26_1"><num value="1">(1)</num><content>The quorum for a meeting of an appeal board is 3 members, one of whom must be the Chairperson of the board. </content></subsection><subsection id="ID_1438413995980_012" name="2" temporalId="s26_2"><num value="2">(2)</num><content>A question before an appeal board must be determined by a majority of those members present at the meeting at which the question is to be determined. </content></subsection><subsection id="ID_1438413995980_020" name="3" temporalId="s26_3"><num value="3">(3)</num><content>If there is an equality of votes in respect of a question before an appeal board, the Chairperson of the board has a casting vote in addition to his or her original vote. </content></subsection><subsection id="ID_1438413995980_028" name="4" temporalId="s26_4"><num value="4">(4)</num><leadIn>An appeal board may perform any of its functions, and its proceedings are valid, despite—</leadIn><paragraph id="ID_1438413995980_036" name="a" temporalId="s26_4_a"><num value="a">(a)</num><content>subject to <ref>section 28</ref>, a vacancy in the board; or </content></paragraph><paragraph id="ID_1438413995995_006" name="b" temporalId="s26_4_b"><num value="b">(b)</num><content>a defect in the appointment or qualification of a person purporting to be a member of the board. </content></paragraph></subsection><subsection id="ID_1438413995995_013" name="5" temporalId="s26_5"><num value="5">(5)</num><content>In performing their functions under this Ordinance, the members of an appeal board have the same privileges and immunities as a judge of the Court of First Instance has in civil proceedings in that Court. </content></subsection><subsection id="ID_1438413995995_021" name="6" temporalId="s26_6"><num value="6">(6)</num><content>A person appearing before an appeal board as a witness, a party to an appeal or a representative of a party to an appeal is entitled to the same privileges and immunities as he or she would have in civil proceedings in the Court of First Instance. </content></subsection><subsection id="ID_1438413995995_029" name="7" temporalId="s26_7"><num value="7">(7)</num><content>Subject to this Part, an appeal board may determine its own procedure. </content></subsection><subsection id="ID_1438413995995_037" name="8" temporalId="s26_8"><num value="8">(8)</num><leadIn>In this section—</leadIn><def name="Meeting"><term>meeting</term> (<term xml:lang="zh-Hant-HK">會議</term>) includes a meeting to hear an appeal.</def></subsection></section><section id="ID_1438403553222_003" name="s27" reason="inEffect" startPeriod="2015-03-27" status="operational" temporalId="s27"><num value="27">27.</num><heading>Hearing of appeal</heading><subsection id="ID_1438413996042_004" name="1" temporalId="s27_1"><num value="1">(1)</num><content>The Chairperson of an appeal board must notify the appellant and the Director of the date, time and place of the hearing of the appeal at least 14 days before the hearing. </content></subsection><subsection id="ID_1438413996042_012" name="2" temporalId="s27_2"><num value="2">(2)</num><leadIn>At the hearing of an appeal—</leadIn><paragraph id="ID_1438413996042_020" name="a" temporalId="s27_2_a"><num value="a">(a)</num><leadIn>the appellant may be represented by—</leadIn><subparagraph id="ID_1438413996042_028" name="i" temporalId="s27_2_a_i"><num value="i">(i)</num><content>a barrister or solicitor; or </content></subparagraph><subparagraph id="ID_1438413996042_036" name="ii" temporalId="s27_2_a_ii"><num value="ii">(ii)</num><content>(if the appellant is a body corporate) an individual authorized by the appellant; and </content></subparagraph></paragraph><paragraph id="ID_1438413996058_006" name="b" temporalId="s27_2_b"><num value="b">(b)</num><leadIn>the Director may be represented by—</leadIn><subparagraph id="ID_1438413996058_014" name="i" temporalId="s27_2_b_i"><num value="i">(i)</num><content>a barrister or solicitor; or </content></subparagraph><subparagraph id="ID_1438413996058_022" name="ii" temporalId="s27_2_b_ii"><num value="ii">(ii)</num><content>a public officer. </content></subparagraph></paragraph></subsection><subsection id="ID_1438413996058_028" name="3" temporalId="s27_3"><num value="3">(3)</num><content>An appeal board may engage a barrister or solicitor to attend the hearing of an appeal to advise it on any matter relating to the appeal. </content></subsection><subsection id="ID_1438413996058_036" name="4" temporalId="s27_4"><num value="4">(4)</num><content>The hearing of an appeal must be open to the public unless the appeal board determines that there is a good reason for it to be held in camera. </content></subsection><subsection id="ID_1438413996058_044" name="5" temporalId="s27_5"><num value="5">(5)</num><leadIn>An appeal board may, by a notice signed by the Chairperson of the board and issued to a person—</leadIn><paragraph id="ID_1438413996058_052" name="a" temporalId="s27_5_a"><num value="a">(a)</num><content>direct the person to attend before the board and to give evidence; or </content></paragraph><paragraph id="ID_1438413996058_060" name="b" temporalId="s27_5_b"><num value="b">(b)</num><content>direct the person to produce documents. </content></paragraph></subsection><subsection id="ID_1438413996058_067" name="6" temporalId="s27_6"><num value="6">(6)</num><content>No person to whom a direction is given under subsection (5) is required to give any evidence, or produce any document, that tends to incriminate the person. </content></subsection><subsection id="ID_1438413996073_005" name="7" temporalId="s27_7"><num value="7">(7)</num><content>A person who fails to comply with a direction under subsection (5) commits an offence and is liable on conviction to a fine at level 3.</content></subsection></section><section id="ID_1438403553238_001" name="s28" reason="inEffect" startPeriod="2015-03-27" status="operational" temporalId="s28"><num value="28">28.</num><heading>Reappointment of appeal board in case of certain vacancies</heading><subsection id="ID_1438413996104_028" name="1" temporalId="s28_1"><num value="1">(1)</num><leadIn>Subsection (2) applies if, after the hearing of an appeal has begun, a vacancy occurs in an appeal board and—</leadIn><paragraph id="ID_1438413996120_005" name="a" temporalId="s28_1_a"><num value="a">(a)</num><content>as a result, fewer than 3 members of the board remain in office; or </content></paragraph><paragraph id="ID_1438413996120_013" name="b" temporalId="s28_1_b"><num value="b">(b)</num><content>the vacancy is that of the Chairperson of the board. </content></paragraph></subsection><subsection id="ID_1438413996120_020" name="2" temporalId="s28_2"><num value="2">(2)</num><leadIn>On the occurrence of the vacancy—</leadIn><paragraph id="ID_1438413996120_028" name="a" temporalId="s28_2_a"><num value="a">(a)</num><content>the appeal board is dissolved; and </content></paragraph><paragraph id="ID_1438413996120_036" name="b" temporalId="s28_2_b"><num value="b">(b)</num><content>the Secretary must appoint an appeal board under <ref>section 25(1)</ref> as if the Secretary had received, on the date on which the vacancy occurred, the notice of appeal delivered under <ref>section 23(4)</ref> in relation to the subject matter of the appeal again. </content></paragraph></subsection></section><section id="ID_1438403553238_003" name="s29" reason="inEffect" startPeriod="2015-03-27" status="operational" temporalId="s29"><num value="29">29.</num><heading>Appeal board may authorize inspection of installation etc.</heading><subsection id="ID_1438413996151_004" name="1" temporalId="s29_1"><num value="1">(1)</num><leadIn>If an appeal board reasonably believes that an installation or facility is relevant to the determination of an appeal, the board may, by an authorization signed by the Chairperson of the board—</leadIn><paragraph id="ID_1438413996151_012" name="a" temporalId="s29_1_a"><num value="a">(a)</num><content>authorize a person to inspect the installation or facility; and </content></paragraph><paragraph id="ID_1438413996151_020" name="b" temporalId="s29_1_b"><num value="b">(b)</num><content>authorize the person to enter a building, except a part of the building that is for residential use, for the purposes of the inspection. </content></paragraph></subsection><subsection id="ID_1438413996167_005" name="2" temporalId="s29_2"><num value="2">(2)</num><content>A person who obstructs a person authorized under subsection (1) in the inspection commits an offence and is liable on conviction to a fine at level 3 and to imprisonment for 6 months. </content></subsection></section><section id="ID_1438403553254_001" name="s30" reason="inEffect" startPeriod="2015-03-27" status="operational" temporalId="s30"><num value="30">30.</num><heading>Determination of appeal</heading><subsection id="ID_1438413996182_020" name="1" temporalId="s30_1"><num value="1">(1)</num><leadIn>An appeal board may—</leadIn><paragraph id="ID_1438413996182_028" name="a" temporalId="s30_1_a"><num value="a">(a)</num><content>confirm, vary or revoke the decision or direction appealed against; or </content></paragraph><paragraph id="ID_1438413996198_006" name="b" temporalId="s30_1_b"><num value="b">(b)</num><content>substitute its own decision or direction for the decision or direction appealed against. </content></paragraph></subsection><subsection id="ID_1438413996198_013" name="2" temporalId="s30_2"><num value="2">(2)</num><leadIn>An appeal board may make any order that it thinks fit with regard to the payment of—</leadIn><paragraph id="ID_1438413996198_021" name="a" temporalId="s30_2_a"><num value="a">(a)</num><content>costs and expenses of the appeal proceedings; or </content></paragraph><paragraph id="ID_1438413996198_029" name="b" temporalId="s30_2_b"><num value="b">(b)</num><content>costs and expenses of the Director or any other person in the proceedings. </content></paragraph></subsection><subsection id="ID_1438413996198_036" name="3" temporalId="s30_3"><num value="3">(3)</num><content>The costs and expenses ordered to be paid under subsection (2) are recoverable as a civil debt. </content></subsection><subsection id="ID_1438413996198_044" name="4" temporalId="s30_4"><num value="4">(4)</num><content>An appeal board must issue to the appellant and the Director a notice of its determination and the reasons for the determination.</content></subsection></section></part><part id="ID_1438403553254_003" name="P6" reason="inEffect" startPeriod="2015-03-27" status="operational" temporalId="P6"><num value="6">Part 6</num><heading>Miscellaneous Matters</heading><section id="ID_1438403553254_005" name="s31" reason="inEffect" startPeriod="2015-03-27" status="operational" temporalId="s31"><num value="31">31.</num><heading>Presumptions and evidence in writing</heading><subsection id="ID_1438413996245_004" name="1" temporalId="s31_1"><num value="1">(1)</num><content>In any civil proceedings for the recovery of an unpaid charge or fee payable under this Ordinance, a document to which this subsection applies is admissible in evidence on production without further proof. </content></subsection><subsection id="ID_1438413996245_012" name="2" temporalId="s31_2"><num value="2">(2)</num><leadIn>Subsection (1) applies to a document that—</leadIn><paragraph id="ID_1438413996245_020" name="a" temporalId="s31_2_a"><num value="a">(a)</num><content>purports to be signed by the Director or an authorized officer; and </content></paragraph><paragraph id="ID_1438413996245_028" name="b" temporalId="s31_2_b"><num value="b">(b)</num><leadIn>states—</leadIn><subparagraph id="ID_1438413996260_006" name="i" temporalId="s31_2_b_i"><num value="i">(i)</num><content>the name of the person liable to pay the charge or fee; </content></subparagraph><subparagraph id="ID_1438413996260_014" name="ii" temporalId="s31_2_b_ii"><num value="ii">(ii)</num><content>the amount of the charge or fee; </content></subparagraph><subparagraph id="ID_1438413996260_022" name="iii" temporalId="s31_2_b_iii"><num value="iii">(iii)</num><content>the nature and other particulars of the charge or fee; and </content></subparagraph><subparagraph id="ID_1438413996260_030" name="iv" temporalId="s31_2_b_iv"><num value="iv">(iv)</num><content>that the charge or fee remains unpaid. </content></subparagraph></paragraph></subsection><subsection id="ID_1438413996260_036" name="3" temporalId="s31_3"><num value="3">(3)</num><leadIn>If a document is admitted in evidence under subsection (1)—</leadIn><paragraph id="ID_1438413996260_044" name="a" temporalId="s31_3_a"><num value="a">(a)</num><leadIn>the court must, in the absence of evidence to the contrary, presume—</leadIn><subparagraph id="ID_1438413996260_052" name="i" temporalId="s31_3_a_i"><num value="i">(i)</num><content>that it was signed by the Director or the authorized officer as stated in the document; </content></subparagraph><subparagraph id="ID_1438413996260_060" name="ii" temporalId="s31_3_a_ii"><num value="ii">(ii)</num><content>that the facts referred to in subsection <ref>(2)(b)</ref> as stated in the document are true; and </content></subparagraph><subparagraph id="ID_1438413996260_068" name="iii" temporalId="s31_3_a_iii"><num value="iii">(iii)</num><content>that the record of the facts stated in the document was made and compiled at the time stated in it; and</content></subparagraph></paragraph><paragraph id="ID_1438413996260_075" name="b" temporalId="s31_3_b"><num value="b">(b)</num><content>the document is evidence of all other matters contained in it. </content></paragraph></subsection><subsection id="ID_1438413996260_082" name="4" temporalId="s31_4"><num value="4">(4)</num><leadIn>If a document is admitted in evidence under subsection (1), the court may, if it thinks fit, on its own motion or on the application of a party to the proceedings—</leadIn><paragraph id="ID_1438413996276_005" name="a" temporalId="s31_4_a"><num value="a">(a)</num><content>summon the person who signed the document; and </content></paragraph><paragraph id="ID_1438413996276_013" name="b" temporalId="s31_4_b"><num value="b">(b)</num><content>examine that person as to the subject matter of the document. </content></paragraph></subsection></section><section id="ID_1438403553269_002" name="s32" reason="inEffect" startPeriod="2015-03-27" status="operational" temporalId="s32"><num value="32">32.</num><heading>Delegation by Director</heading><content>The Director may, in writing, delegate any of his or her functions under this Ordinance to a public officer attached to the Electrical and Mechanical Services Department. </content></section><section id="ID_1438403553269_004" name="s33" reason="inEffect" startPeriod="2015-03-27" status="operational" temporalId="s33"><num value="33">33.</num><heading>Director may specify forms</heading><subsection id="ID_1438413996370_004" name="1" temporalId="s33_1"><num value="1">(1)</num><content>The Director may specify a form to be used for the purposes of any provision of this Ordinance. </content></subsection><subsection id="ID_1438413996370_012" name="2" temporalId="s33_2"><num value="2">(2)</num><leadIn>If the Director specifies a form under subsection (1), the Director must make copies of the form available—</leadIn><paragraph id="ID_1438413996370_020" name="a" temporalId="s33_2_a"><num value="a">(a)</num><content>at the office of the Electrical and Mechanical Services Department during normal office hours; and </content></paragraph><paragraph id="ID_1438413996370_028" name="b" temporalId="s33_2_b"><num value="b">(b)</num><content>in any other manner the Director thinks fit. </content></paragraph></subsection></section><section id="ID_1438403553285_002" name="s34" reason="inEffect" startPeriod="2015-03-27" status="operational" temporalId="s34"><num value="34">34.</num><heading>Secretary may amend <ref>Schedules</ref></heading><content>The Secretary may, by notice published in the Gazette, amend <ref>Schedule 1</ref> or <ref>2</ref>.</content></section></part><schedule id="ID_1438403553285_004" name="sch1" reason="inEffect" startPeriod="2025-09-05" status="operational" temporalId="sch1"><num value="1">Schedule 1</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap624/s3">ss.
+                3</ref> &amp; <ref href="/hk/cap624/s34">34</ref> &amp; <ref href="/hk/cap624/sch2">Sch. 2</ref>]</note><heading>District
+            Cooling
+            Systems
+            in relation to which this Ordinance
+            Applies</heading><sourceNote>(<ref>Schedule 1</ref> replaced <ref href="hk/2025/ln134">L.N. 134 of
+            2025</ref>)</sourceNote><section id="ID_1438413996416_012" name="s1" temporalId="sch1_s1" class="no_header"><num value="1">1.</num><content>Kai Tak
+                District Cooling System, which serves the area that is delineated and edged red on
+                Plan No. KM9180a signed by the Director of Lands on 26 May 2025 and deposited in the
+                office of the Director of Electrical and Mechanical
+                Services.</content></section><section class="no_header" id="ID_1758159274279_001" name="s2" temporalId="sch1_s2"><num value="2">2.</num><content>Kwu Tung North District Cooling System, which serves the area that is
+                delineated and edged red on Plan No. DNM5386 signed by the Director of Lands on 26
+                May 2025 and deposited in the office of the Director of Electrical and Mechanical
+                Services.</content></section><section class="no_header" id="ID_1758159274279_002" name="s3" temporalId="sch1_s3"><num value="3">3.</num><content>Tung Chung East District Cooling System, which serves the area that is
+                delineated and edged red on Plan No. ISM3626a signed by the Director of Lands on 26
+                May 2025 and deposited in the office of the Director of Electrical and Mechanical
+                Services.</content></section></schedule><schedule id="ID_1438403553300_001" name="sch2" reason="inEffect" startPeriod="2025-09-05" status="operational" temporalId="sch2"><num value="2">Schedule 2</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap624/s10">ss. 10</ref> &amp; <ref href="/hk/cap624/s34">34</ref>]</note><heading>Charges for District Cooling Services</heading><section id="ID_1438413996432_020" name="s1" temporalId="sch2_s1"><num value="1">1.</num><heading>Calculation of charges for district cooling services </heading><subsection id="ID_1438413996432_029" name="1" temporalId="sch2_s1_1"><num value="1">(1)</num><leadIn>This <ref>Schedule</ref> applies to the calculation of the following charges
+                    for a district cooling system—</leadIn><paragraph id="ID_1438413996448_006" name="a" temporalId="sch2_s1_1_a"><num value="a">(a)</num><content>capacity charge and capacity overrun charge (see <ref>section 2</ref>
+                        of this <ref>Schedule</ref>); </content></paragraph><paragraph id="ID_1438413996448_015" name="b" temporalId="sch2_s1_1_b"><num value="b">(b)</num><content>consumption charge (see <ref>section 3</ref> of this
+                            <ref>Schedule</ref>); </content></paragraph><paragraph id="ID_1438413996448_024" name="c" temporalId="sch2_s1_1_c"><num value="c">(c)</num><content>surcharge and further surcharge (see <ref>section 4</ref> of this
+                            <ref>Schedule</ref>). </content></paragraph></subsection><subsection id="ID_1438413996448_032" name="2" temporalId="sch2_s1_2"><num value="2">(2)</num><leadIn><ref>Section 5</ref> of this <ref>Schedule</ref> sets out the following
+                    rates that are applicable to a building to which district cooling services are
+                    provided by a district cooling system referred to in that section—</leadIn><paragraph id="ID_1438413996448_041" name="a" temporalId="sch2_s1_2_a"><num value="a">(a)</num><content>capacity charge rate; </content></paragraph><paragraph id="ID_1438413996448_050" name="b" temporalId="sch2_s1_2_b"><num value="b">(b)</num><content>consumption charge rate.
+                        <marker role="blank-line"></marker><marker role="blank-line"></marker></content></paragraph></subsection></section><section id="ID_1438413996448_056" name="s2" temporalId="sch2_s2"><num value="2">2.</num><heading>Capacity charge and capacity overrun charge </heading><subsection id="ID_1438413996463_005" name="1" temporalId="sch2_s2_1"><num value="1">(1)</num><content>The amount of capacity charge payable under <ref>section 10(1)(a)</ref> in
+                    respect of a building for a month is to be calculated according to the following
+                    formula—<marker role="blank-line"></marker><marker role="blank-line"></marker></content><content class="align_center"><b>capacity charge </b>= C × CR
+                    <marker role="blank-line"></marker><marker role="blank-line"></marker></content><content>where—<table xmlns="http://www.w3.org/1999/xhtml" frame="void" class="left_indent_60" width="436">
+                        <col width="11.5%"></col>
+                        <col width="9.25%"></col>
+                        <col width="79.25%"></col>
+                        
+                        
+                        
+                        <tbody>
+                            <tr>
+                                <td>C</td>
+                                <td>=</td>
+                                <td class="align_justified">contract cooling capacity of the
+                                    building; and </td>
+                            </tr>
+                            <tr>
+                                <td>CR</td>
+                                <td>=</td>
+                                <td>capacity charge rate applicable to the building.</td>
+                            </tr>
+                        </tbody>
+                    </table></content></subsection><subsection id="ID_1438413996463_045" name="2" temporalId="sch2_s2_2"><num value="2">(2)</num><content>The amount of capacity overrun charge, if payable under <ref>section
+                        10(1)(b)</ref> in respect of a building for a month, is to be calculated
+                    according to the following
+                    formula—<marker role="blank-line"></marker><marker role="blank-line"></marker></content><content class="align_center"><b>capacity overrun charge </b>= (AC – C) × CR × 110%
+                    <marker role="blank-line"></marker><marker role="blank-line"></marker></content><content>where—<table xmlns="http://www.w3.org/1999/xhtml" frame="void" class="left_indent_60">
+                        <col width="11.5%"></col>
+                        <col width="9.25%"></col>
+                        <col width="79.25%"></col>
+                        
+                        
+                        
+                        <tbody>
+                            <tr>
+                                <td>AC</td>
+                                <td>=</td>
+                                <td>highest actual cooling capacity of the building in the month;
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>C</td>
+                                <td>=</td>
+                                <td> contract cooling capacity of the building; and </td>
+                            </tr>
+                            <tr>
+                                <td>CR</td>
+                                <td>=</td>
+                                <td>capacity charge rate applicable to the building. </td>
+                            </tr>
+                        </tbody>
+                    </table></content></subsection><subsection id="ID_1438413996463_093" name="3" temporalId="sch2_s2_3"><num value="3">(3)</num><content>If district cooling services are provided to a building in a month for a
+                    period of less than 1 month, the amount of capacity charge, and that of any
+                    capacity overrun charge, payable for that month are to be calculated on a
+                    pro-rata basis according to the number of days for which the services are
+                    provided to the building in that month.
+                    <marker role="blank-line"></marker><marker role="blank-line"></marker></content></subsection></section><section id="ID_1438413996479_004" name="s3" temporalId="sch2_s3"><num value="3">3.</num><heading>Consumption charge </heading><content> The amount of consumption charge payable under <ref>section 10(1)(c)</ref> in
+                respect of a building for a month is to be calculated according to the following
+                formula—<marker role="blank-line"></marker><marker role="blank-line"></marker></content><content class="align_center"><b>consumption charge </b>= AE × ER
+                <marker role="blank-line"></marker><marker role="blank-line"></marker></content><content class="left_indent_36">where—<table xmlns="http://www.w3.org/1999/xhtml" frame="void" class="left_indent_36">
+                    <col width="10.5%"></col>
+                    <col width="8.25%"></col>
+                    <col width="81.25%"></col>
+                    
+                    
+                    
+                    <tbody>
+                        <tr>
+                            <td>AE</td>
+                            <td>=</td>
+                            
+                            <td class="align_justified">actual cooling energy consumption of the
+                                building in the month; and </td>
+                        </tr>
+                        <tr>
+                            <td>ER</td>
+                            <td>=</td>
+                            
+                            <td class="align_justified">consumption charge rate applicable to the
+                                building. </td>
+                        </tr>
+                    </tbody>
+                </table><marker role="blank-line"></marker><marker role="blank-line"></marker></content></section><section id="ID_1438413996479_052" name="s4" temporalId="sch2_s4"><num value="4">4.</num><heading>Surcharge and further surcharge </heading><subsection id="ID_1438413996479_061" name="1" temporalId="sch2_s4_1"><num value="1">(1)</num><content>The amount of surcharge, if payable under <ref>section 10(2)(a)</ref> in
+                    respect of a primary charge or fee, is to be calculated according to the
+                    following
+                    formula—<marker role="blank-line"></marker><marker role="blank-line"></marker></content><content class="align_center"><b>surcharge </b>= (PC – PCP) × 5%
+                    <marker role="blank-line"></marker><marker role="blank-line"></marker></content><content>where—<table xmlns="http://www.w3.org/1999/xhtml" frame="void" class="left_indent_60">
+                        <col width="11.5%"></col>
+                        <col width="8.25%"></col>
+                        <col width="80.25%"></col>
+                        
+                        
+                        
+                        <tbody>
+                            <tr>
+                                <td>PC</td>
+                                <td>=</td>
+                                
+                                <td class="align_justified">the primary charge or fee that is
+                                    payable as at the due date; and </td>
+                            </tr>
+                            <tr>
+                                <td>PCP</td>
+                                <td>=</td>
+                                
+                                <td class="align_justified">the part of the primary charge or fee
+                                    that has been paid, if any, as at the end of the due date. </td>
+                            </tr>
+                        </tbody>
+                    </table></content></subsection><subsection id="ID_1438413996494_030" name="2" temporalId="sch2_s4_2"><num value="2">(2)</num><content>The amount of further surcharge, if payable under <ref>section
+                        10(2)(b)</ref> in respect of a primary charge, fee or surcharge, is to be
+                    calculated according to the following
+                    formula—<marker role="blank-line"></marker><marker role="blank-line"></marker></content><content class="align_center"><b>further surcharge </b>= (PCS – PCSP) × 10%
+                    <marker role="blank-line"></marker><marker role="blank-line"></marker></content><content>where—<table xmlns="http://www.w3.org/1999/xhtml" frame="void" class="left_indent_60">
+                        <col width="11.5%"></col>
+                        <col width="8.25%"></col>
+                        <col width="80.25%"></col>
+                        
+                        
+                        
+                        <tbody>
+                            <tr>
+                                <td>PCS</td>
+                                <td>=</td>
+                                
+                                <td class="align_justified">the primary charge, fee or surcharge
+                                    that is payable as at the due date; and </td>
+                            </tr>
+                            <tr>
+                                <td>PCSP</td>
+                                <td>=</td>
+                                
+                                <td class="align_justified">the part of the primary charge, fee or
+                                    surcharge that has been paid, if any, as at the expiry of the
+                                    period of 6 months beginning on the day after the due date.
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table><marker role="blank-line"></marker></content></subsection></section><section id="ID_1438413996494_069" name="s5" temporalId="sch2_s5"><num value="5">5.</num><heading>Capacity charge rate and consumption charge rate </heading><subsection id="ID_1438413996510_005" name="1" temporalId="sch2_s5_1"><num value="1">(1)</num><leadIn>For a building to which district cooling services are provided by a district
+                    cooling system specified in column 1 of the following table—</leadIn><paragraph id="ID_1438413996510_014" name="a" temporalId="sch2_s5_1_a"><num value="a">(a)</num><content>the capacity charge rate applicable is specified in paragraph (a) in
+                        column 2 opposite that system; and </content></paragraph><paragraph id="ID_1438413996510_023" name="b" temporalId="sch2_s5_1_b"><num value="b">(b)</num><content>the consumption charge rate applicable is specified in paragraph (b) in
+                        column 2 opposite that
+                        system.<marker role="blank-line"></marker><marker role="blank-line"></marker></content><content class="align_center"><b>Table</b><marker role="blank-line"></marker><marker role="blank-line"></marker></content><content>
+                        
+                        <table xmlns="http://www.w3.org/1999/xhtml" width="100%" class="left_indent_60 repeat_header">
+                            
+                            <col width="7%"></col>
+                            
+                            <col width="16.9028%"></col>
+                            
+                            <col width="6.6%"></col>
+                            
+                            <col width="8%"></col>
+                            
+                            
+                            <col width="12.4%"></col>
+                            <col width="5%"></col>
+                            
+                            
+                            <col width="44.0972%"></col>
+                            <thead>
+                                <tr>
+                                    <td colspan="2">
+                                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Column 1 </center>
+                                        
+                                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                                        
+                                    </td>
+                                    <td></td>
+                                    <td></td>
+                                    
+                                    <td colspan="3">
+                                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Column 2 </center>
+                                    </td>
+                                    
+                                    
+                                </tr>
+                                <tr>
+                                    
+                                    <td colspan="2">
+                                        
+                                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">District cooling system </center>
+                                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                                        
+                                    </td>
+                                    
+                                    <td></td>
+                                    <td></td>
+                                    
+                                    <td colspan="3" class="valign_bottom">
+                                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Rate
+                                            of charge </center>
+                                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                                    </td>
+                                    
+                                    
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>1. </td>
+                                    <td rowspan="3">Kai
+                                        Tak<br></br>District<br></br>Cooling<br></br>System
+                                        </td>
+                                    <td>(a)</td>
+                                    
+                                    <td colspan="4" class="align_left cellpadding_left_4">
+                                        <p class="align_justified"><b>Capacity charge rate
+                                                  (</b><i><b>CR</b></i><b>)—</b></p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td></td>
+                                    <td></td>
+                                    
+                                    <td class="align_right cellpadding_right_8">(i) </td>
+                                    
+                                    <td colspan="3">
+                                        <p class="align_justified">for the initial period—</p>
+                                    </td>
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td>CR</td>
+                                    <td>= </td>
+                                    <td>
+                                        <p class="align_justified">$112.11 per kilowatt
+                                            refrigeration (kWr); </p>
+                                    </td>
+                                </tr>
+                                
+                                <tr>
+                                    <td></td>
+                                    <td>
+                                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                                    </td>
+                                    <td></td>
+                                    
+                                    <td class="align_right cellpadding_right_8">(ii) </td>
+                                    
+                                    <td colspan="3">
+                                        <p class="align_justified">for each subject period—</p>
+                                    </td>
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td>CR</td>
+                                    <td>= </td>
+                                    <td>
+                                        <p class="align_justified">CR<sub><i>n-1</i></sub><i> </i>×
+                                            (1 + CCPI<sub><i>r</i></sub>) </p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td colspan="3">
+                                        <p class="align_justified">where—</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td>CR<sub><i>n-1</i></sub><i> </i>
+                                    </td>
+                                    <td>=</td>
+                                    <td>
+                                        <p class="align_justified">capacity charge rate applicable
+                                            immediately before the subject period; and </p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td>CCPI<sub><i>r</i></sub></td>
+                                    <td>=</td>
+                                    <td>
+                                        <p class="align_justified">rate of change in CCPI applicable
+                                            for the subject period. </p>
+                                    </td>
+                                </tr>
+                                
+                                <tr>
+                                    <td></td>
+                                    <td>
+                                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                                    </td>
+                                    <td>(b) </td>
+                                    
+                                    <td colspan="4" class="align_left cellpadding_left_4">
+                                        <p class="align_justified"><b>Consumption charge rate
+                                                  (</b><i><b>ER</b></i><b>)—</b></p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    
+                                    <td class="align_right cellpadding_right_8">(i) </td>
+                                    
+                                    <td colspan="3">
+                                        <p class="align_justified">for the initial period—</p>
+                                    </td>
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td>ER</td>
+                                    <td>=</td>
+                                    <td>
+                                        <p class="align_justified">$0.19 per kilowatt-hour
+                                            refrigeration (kWrh);</p>
+                                    </td>
+                                </tr>
+                                
+                                <tr>
+                                    <td></td>
+                                    <td>
+                                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                                    </td>
+                                    <td></td>
+                                    
+                                    <td class="align_right cellpadding_right_8">(ii) </td>
+                                    
+                                    <td colspan="3">
+                                        <p class="align_justified">for each subject period—</p>
+                                    </td>
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td>ER</td>
+                                    <td>=</td>
+                                    <td>
+                                        <p class="align_justified">ER<sub><i>n-1</i></sub><i> </i>×
+                                            (1 + ET<sub><i>r</i></sub>) </p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td colspan="3">
+                                        <p class="align_justified">where—</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td>ER<sub><i>n-1</i></sub><i> </i></td>
+                                    <td>=</td>
+                                    <td>
+                                        <p class="align_justified">consumption charge rate
+                                            applicable immediately before the subject period;
+                                            and</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td>ET<sub><i>r</i></sub><i> </i>
+                                    </td>
+                                    <td>=</td>
+                                    <td>
+                                        <p class="align_justified">rate of change in electricity
+                                            tariff applicable for the subject period. </p>
+                                    </td>
+                                </tr>
+                                
+                                
+                                <tr>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td>2. </td>
+                                    <td rowspan="5">Kwu<br></br>Tung<br></br>North<br></br>District<br></br>Cooling<br></br>System</td>
+                                    <td>(a)</td>
+                                    <td colspan="4" class="align_left cellpadding_left_4">
+                                        <p class="align_justified"><b>Capacity charge rate
+                                                  (</b><i><b>CR</b></i><b>)—</b></p>
+                                    </td>
+                                    <td></td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td></td>
+                                    <td></td>
+                                    <td class="align_right cellpadding_right_8">(i) </td>
+                                    <td colspan="3">
+                                        <p class="align_justified">for the initial period—</p>
+                                    </td>
+                                    <td></td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td>CR</td>
+                                    <td>= </td>
+                                    <td>
+                                        <p class="align_justified">$146.13 per kilowatt
+                                            refrigeration (kWr); </p>
+                                    </td>
+                                    <td></td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td></td>
+                                    <td></td>
+                                    <td class="align_right cellpadding_right_8">(ii) </td>
+                                    <td colspan="3">
+                                        <p class="align_justified">for each subject period—</p>
+                                    </td>
+                                    <td></td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td>CR</td>
+                                    <td>= </td>
+                                    <td>
+                                        <p class="align_justified">CR<sub><i>n-1</i></sub><i> </i>×
+                                            (1 + CCPI<sub><i>r</i></sub>) </p>
+                                    </td>
+                                    <td></td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td colspan="3">
+                                        <p class="align_justified">where—</p>
+                                    </td>
+                                    <td></td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td>CR<sub><i>n-1</i></sub><i> </i>
+                                    </td>
+                                    <td>=</td>
+                                    <td>
+                                        <p class="align_justified">capacity charge rate applicable
+                                            immediately before the subject period; and </p>
+                                    </td>
+                                    <td></td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td>CCPI<sub><i>r</i></sub></td>
+                                    <td>=</td>
+                                    <td>
+                                        <p class="align_justified">rate of change in CCPI applicable
+                                            for the subject period. </p>
+                                    </td>
+                                    <td></td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td></td>
+                                    <td>
+                                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                                    </td>
+                                    <td>(b) </td>
+                                    <td colspan="4" class="align_left cellpadding_left_4">
+                                        <p class="align_justified"><b>Consumption charge rate
+                                                  (</b><i><b>ER</b></i><b>)—</b></p>
+                                    </td>
+                                    <td></td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td class="align_right cellpadding_right_8">(i) </td>
+                                    <td colspan="3">
+                                        <p class="align_justified">for the initial period—</p>
+                                    </td>
+                                    <td></td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td>ER</td>
+                                    <td>=</td>
+                                    <td>
+                                        <p class="align_justified">$0.2546 per kilowatt-hour
+                                            refrigeration (kWrh);</p>
+                                    </td>
+                                    <td></td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td></td>
+                                    <td>
+                                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                                    </td>
+                                    <td></td>
+                                    <td class="align_right cellpadding_right_8">(ii) </td>
+                                    <td colspan="3">
+                                        <p class="align_justified">for each subject period—</p>
+                                    </td>
+                                    <td></td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td>ER</td>
+                                    <td>=</td>
+                                    <td>
+                                        <p class="align_justified">ER<sub><i>n-1</i></sub><i> </i>×
+                                            (1 + ET<sub><i>r</i></sub>) </p>
+                                    </td>
+                                    <td></td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td colspan="3">
+                                        <p class="align_justified">where—</p>
+                                    </td>
+                                    <td></td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td>ER<sub><i>n-1</i></sub><i> </i></td>
+                                    <td>=</td>
+                                    <td>
+                                        <p class="align_justified">consumption charge rate
+                                            applicable immediately before the subject period;
+                                            and</p>
+                                    </td>
+                                    <td></td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td>ET<sub><i>r</i></sub><i> </i>
+                                    </td>
+                                    <td>=</td>
+                                    <td>
+                                        <p class="align_justified">rate of change in electricity
+                                            tariff applicable for the subject period. <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Added <ref href="hk/2025/ln134">L.N. 134 of
+                                                  2025</ref>)</sourceNote></p>
+                                    </td>
+                                    <td></td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td>3. </td>
+                                    <td rowspan="5">Tung<br></br>Chung<br></br>East<br></br>District<br></br>Cooling<br></br>System</td>
+                                    <td>(a)</td>
+                                    <td colspan="4" class="align_left cellpadding_left_4">
+                                        <p class="align_justified"><b>Capacity charge rate
+                                                  (</b><i><b>CR</b></i><b>)—</b></p>
+                                    </td>
+                                    <td></td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td></td>
+                                    <td></td>
+                                    <td class="align_right cellpadding_right_8">(i) </td>
+                                    <td colspan="3">
+                                        <p class="align_justified">for the initial period—</p>
+                                    </td>
+                                    <td></td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td>CR</td>
+                                    <td>= </td>
+                                    <td>
+                                        <p class="align_justified">$145.15 per kilowatt
+                                            refrigeration (kWr); </p>
+                                    </td>
+                                    <td></td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td></td>
+                                    <td></td>
+                                    <td class="align_right cellpadding_right_8">(ii) </td>
+                                    <td colspan="3">
+                                        <p class="align_justified">for each subject period—</p>
+                                    </td>
+                                    <td></td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td>CR</td>
+                                    <td>= </td>
+                                    <td>
+                                        <p class="align_justified">CR<sub><i>n-1</i></sub><i> </i>×
+                                            (1 + CCPI<sub><i>r</i></sub>) </p>
+                                    </td>
+                                    <td></td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td colspan="3">
+                                        <p class="align_justified">where—</p>
+                                    </td>
+                                    <td></td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td>CR<sub><i>n-1</i></sub><i> </i>
+                                    </td>
+                                    <td>=</td>
+                                    <td>
+                                        <p class="align_justified">capacity charge rate applicable
+                                            immediately before the subject period; and </p>
+                                    </td>
+                                    <td></td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td>CCPI<sub><i>r</i></sub></td>
+                                    <td>=</td>
+                                    <td>
+                                        <p class="align_justified">rate of change in CCPI applicable
+                                            for the subject period. </p>
+                                    </td>
+                                    <td></td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td></td>
+                                    <td>
+                                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                                    </td>
+                                    <td>(b) </td>
+                                    <td colspan="4" class="align_left cellpadding_left_4">
+                                        <p class="align_justified"><b>Consumption charge rate
+                                                  (</b><i><b>ER</b></i><b>)—</b></p>
+                                    </td>
+                                    <td></td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td class="align_right cellpadding_right_8">(i) </td>
+                                    <td colspan="3">
+                                        <p class="align_justified">for the initial period—</p>
+                                    </td>
+                                    <td></td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td>ER</td>
+                                    <td>=</td>
+                                    <td>
+                                        <p class="align_justified">$0.2451 per kilowatt-hour
+                                            refrigeration (kWrh);</p>
+                                    </td>
+                                    <td></td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td></td>
+                                    <td>
+                                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                                    </td>
+                                    <td></td>
+                                    <td class="align_right cellpadding_right_8">(ii) </td>
+                                    <td colspan="3">
+                                        <p class="align_justified">for each subject period—</p>
+                                    </td>
+                                    <td></td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td>ER</td>
+                                    <td>=</td>
+                                    <td>
+                                        <p class="align_justified">ER<sub><i>n-1</i></sub><i> </i>×
+                                            (1 + ET<sub><i>r</i></sub>) </p>
+                                    </td>
+                                    <td></td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td colspan="3">
+                                        <p class="align_justified">where—</p>
+                                    </td>
+                                    <td></td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td>ER<sub><i>n-1</i></sub><i> </i></td>
+                                    <td>=</td>
+                                    <td>
+                                        <p class="align_justified">consumption charge rate
+                                            applicable immediately before the subject period;
+                                            and</p>
+                                    </td>
+                                    <td></td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td>ET<sub><i>r</i></sub><i> </i>
+                                    </td>
+                                    <td>=</td>
+                                    <td>
+                                        <p class="align_justified">rate of change in electricity
+                                            tariff applicable for the subject period. <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Added <ref href="hk/2025/ln134">L.N. 134 of
+                                                  2025</ref>)</sourceNote></p>
+                                    </td>
+                                    <td></td>
+                                    <td></td>
+                                </tr>
+                                
+                                
+                            </tbody>
+                            
+                        </table>
+                        
+                        <marker role="blank-line"></marker>
+                        
+                        
+                    </content></paragraph></subsection><subsection id="ID_1438413996526_005" name="2" temporalId="sch2_s5_2"><num value="2">(2)</num><leadIn>In this section—</leadIn><def name="InitialPeriod">
+                    <leadIn><term>initial period</term> (<term xml:lang="zh-Hant-HK">初始期間</term>)
+                        means—</leadIn>
+                    <subsection id="ID_1758162334374_001" name="a" temporalId="sch2_s5_2_a"><num value="a">(a)</num><content>for the Kai Tak District Cooling System—the period beginning on 27
+                            March 2015 up to and including the first 31 March that follows;
+                            or</content></subsection>
+                    <subsection id="ID_1758162334374_002" name="b" temporalId="sch2_s5_2_b"><num value="b">(b)</num><content>for the Kwu Tung North District Cooling System and Tung Chung East
+                            District Cooling System—the period beginning on 5 September 2025 up to
+                            and including the first 31 March that follows; <sourceNote>(Replaced <ref href="hk/2025/ln134">L.N. 134 of
+                            2025</ref>)</sourceNote></content></subsection>
+                </def><def name="RateOfChangeInCCPI"><term>rate of change in CCPI</term> (<term xml:lang="zh-Hant-HK">物價指數變動率</term>), in relation to a subject period
+                    beginning in a year, means the annual rate of change in the Composite Consumer
+                    Price Index recorded for the preceding year, after removing the effects of all
+                    one-off relief measures of the Government, if any, as compiled and published by
+                    the Commissioner for Census and Statistics; </def><def name="RateOfChangeInElectricityTariff"><term>rate of change in electricity
+                        tariff</term> (<term xml:lang="zh-Hant-HK">電費變動率</term>), in relation to a
+                    subject period beginning in a year, means the annual rate of change in
+                    electricity tariff applied to the year, as announced by the supplier of
+                    electricity to the district cooling system and publicized through the Internet
+                    by the Director;</def><def name="SubjectPeriod"><term>subject period</term> (<term xml:lang="zh-Hant-HK">收費計算期</term>), in relation to a district cooling system specified in
+                    Schedule 1, means any 12-month period beginning on 1 April of a year up to and
+                    including 31 March in the following year that is after the initial period
+                    applicable to the system. <sourceNote>(Replaced <ref href="hk/2025/ln134">L.N.
+                            134 of 2025</ref>)</sourceNote></def></subsection></section></schedule></main></ordinance>

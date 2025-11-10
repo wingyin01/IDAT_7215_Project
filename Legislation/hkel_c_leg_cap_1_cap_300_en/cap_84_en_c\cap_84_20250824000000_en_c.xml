@@ -1,0 +1,1362 @@
+<?xml version="1.0" encoding="UTF-8"?><ordinance xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd" xml:lang="en"><meta><docName>Cap. 84</docName><docType>cap</docType><docNumber>84</docNumber><docStatus>In effect</docStatus><dc:identifier>/hk/cap84!en</dc:identifier><dc:date>2025-08-24</dc:date><dc:subject>legislation</dc:subject><dc:language>en</dc:language><dc:publisher>DoJ</dc:publisher><dc:rights>the Government of the Hong Kong Special Administrative Region</dc:rights></meta><main xml:lang="en" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd"><longTitle id="ID_1438403567075_004" name="longTitle" reason="inEffect" status="operational" temporalId="longTitle" startPeriod="2014-04-10">
+            <content>To establish the Pilotage Authority, to regulate and control pilotage in Hong
+                Kong and to provide for matters connected
+                therewith.<marker role="blank-line"></marker><marker role="blank-line"></marker></content>
+        </longTitle><commencementNote>[20 October 1972]<sourceNote><inline class="width_3"> </inline><ref href="/hk/1972/ln215">L.N. 215 of 1972</ref></sourceNote></commencementNote><sourceNote>(Format changes—<ref href="/hk/2014/er2">E.R. 2 of 2014</ref>)</sourceNote><part id="ID_1438403567091_002" name="P1" reason="inEffect" startPeriod="2014-04-10" status="operational" temporalId="P1"><num value="1">Part 1</num><heading>Preliminary</heading><section id="ID_1438403567091_004" name="s1" reason="inEffect" startPeriod="2014-04-10" status="operational" temporalId="s1"><num value="1">1.</num><heading>Short title</heading><content>This Ordinance may be cited as the <shortTitle>Pilotage Ordinance</shortTitle>.</content></section><section id="ID_1438403567106_001" name="s2" reason="inEffect" startPeriod="2022-12-02" status="operational" temporalId="s2"><num value="2">2.</num><heading>Interpretation</heading><leadIn>In this Ordinance, unless the context otherwise requires—</leadIn><def name="Authority"><term>Authority</term> (<term xml:lang="zh-Hant-HK">監督</term>) means
+            the Pilotage Authority established under <ref>section 3</ref>;</def><def name="BoardOfDiscipline"><term>board of discipline</term> (<term xml:lang="zh-Hant-HK">紀律委員會</term>) means a board of discipline appointed under <ref>section 18</ref> or
+                <ref>19(1A)</ref>;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1993/36">36 of 1993 s. 2</ref>)</sourceNote></def><def name="BoardOfInvestigation"><term>board of investigation</term> (<term xml:lang="zh-Hant-HK">調查委員會</term>) means a board of investigation appointed under
+                <ref>section 18B(2)(b)</ref> or <ref>19(1)</ref>;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1993/36">36 of 1993 s.
+                2</ref>)</sourceNote></def><def name="Committee"><term>Committee</term> (<term xml:lang="zh-Hant-HK">諮詢委員會</term>)
+            means the Pilotage Advisory Committee established under <ref>section 4</ref>;</def><def name="Junk,Lorcha,Launch"><term>junk</term> (<term xml:lang="zh-Hant-HK">中式帆船</term>),
+                <term>lorcha</term> (<term xml:lang="zh-Hant-HK">西式中國帆船</term>) and
+                <term>launch</term> (<term xml:lang="zh-Hant-HK">小輪</term>) have the meanings
+            assigned to them by the Merchant Shipping Ordinance
+            (<ref href="/hk/cap281">Cap. 281</ref>);</def><def name="Licence,LicensedPilot"><term>licence</term> (<term xml:lang="zh-Hant-HK">執照</term>) means a licence issued under <ref>section 8(1)</ref>, <ref>9A</ref> or
+                <ref>25(2A)</ref> or renewed under <ref>section 9(2)</ref> or <ref>9A</ref> and
+                <term>licensed pilot</term> (<term xml:lang="zh-Hant-HK">持有執照的領港員</term>) shall be
+            construed accordingly;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1993/36">36 of 1993 s. 2</ref>)</sourceNote></def><def name="Pilot">
+            <leadIn><term>pilot</term> (<term xml:lang="zh-Hant-HK">領港員</term>、領港) means—</leadIn>
+            <paragraph id="ID_1438414063824_040" name="a" temporalId="s2_a"><num value="a">(a)</num><content>a person who controls, or is in charge of, the navigation of a ship of
+                    which he is not the master; and</content></paragraph>
+            <paragraph id="ID_1438414063824_048" name="b" temporalId="s2_b"><num value="b">(b)</num><content>when used as a verb, to control, or be in charge of, the navigation of a
+                    ship;</content></paragraph>
+        </def><def name="Register"><term>register</term> (<term xml:lang="zh-Hant-HK">登記冊</term>) means
+            the register of licensed pilots kept in accordance with <ref>section 8(4)</ref>;</def><def name="RegisteredMedicalPractitioner"><term>registered medical practitioner</term>
+                (<term xml:lang="zh-Hant-HK">註冊醫生</term>) has the meaning given by <ref>section
+                2(1)</ref> of the Medical Registration Ordinance (<ref href="/hk/cap161">Cap.
+                161</ref>); <sourceNote>(Added <ref href="hk/2022/12">12 of 2022 s. 3</ref>)</sourceNote></def><def name="Ship">
+            <leadIn><term>ship</term> (<term xml:lang="zh-Hant-HK">船</term>、<term xml:lang="zh-Hant-HK">船舶</term>) means any description of vessel used in
+                navigation other than—</leadIn>
+            <paragraph id="ID_1438414063840_012" name="a" temporalId="s2_a"><num value="a">(a)</num><content>a vessel propelled by oars; and</content></paragraph>
+            <paragraph id="ID_1438414063840_020" name="b" temporalId="s2_b"><num value="b">(b)</num><content>a junk, lorcha or launch, whether or not mechanically propelled;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1985/29">29 of
+                            1985 s. 2</ref>)</sourceNote></content></paragraph>
+        </def><def name="TerminalOperator"><term>terminal operator</term> (<term xml:lang="zh-Hant-HK">終點碼頭經營人</term>) means the operator of
+            wharf or
+            terminal specified in <ref>Schedule 1</ref> to the Pilotage Order (<ref href="/hk/cap84C">Cap. 84 sub. leg. C</ref>);<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1987/42">42 of 1987 s.
+                2</ref>)</sourceNote>
+        </def><def name="WatersOfHongKong"><term>waters of Hong Kong</term> (<term xml:lang="zh-Hant-HK">香港水域</term>) has the same meaning as it has in the Shipping and Port Control
+            Ordinance (<ref href="/hk/cap313">Cap. 313</ref>).<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1985/29">29 of 1985 s.
+                2</ref>)</sourceNote></def><sourceNote>(Amended <ref href="/hk/2014/er2">E.R. 2 of 2014</ref>)</sourceNote></section></part><part id="ID_1438403567106_003" name="P2" reason="inEffect" startPeriod="2014-04-10" status="operational" temporalId="P2"><num value="2">Part 2</num><heading>Establishment of Pilotage Authority and Pilotage Advisory Committee</heading><section id="ID_1438403567122_001" name="s3" reason="inEffect" startPeriod="2014-04-10" status="operational" temporalId="s3"><num value="3">3.</num><heading>Establishment of the Pilotage Authority</heading><subsection id="ID_1438414063902_004" name="1" temporalId="s3_1"><num value="1">(1)</num><content>There is hereby established a Pilotage Authority.</content></subsection><subsection id="ID_1438414063902_012" name="2" temporalId="s3_2"><num value="2">(2)</num><content>The Director of Marine shall be the Pilotage Authority.</content></subsection><subsection id="ID_1438414063902_020" name="3" temporalId="s3_3"><num value="3">(3)</num><leadIn>The Authority may—</leadIn><paragraph id="ID_1438414063902_028" name="a" temporalId="s3_3_a"><num value="a">(a)</num><content>delegate any of his powers, functions and duties to any Deputy or Assistant Director of Marine; and</content></paragraph><paragraph id="ID_1438414063918_006" name="b" temporalId="s3_3_b"><num value="b">(b)</num><content>authorize in writing any officer of the Marine Department to exercise such of the powers and perform such of the duties conferred or imposed on the Authority by this Ordinance as the Authority may specify.</content></paragraph></subsection></section><section id="ID_1438403567122_003" name="s4" reason="inEffect" startPeriod="2014-04-10" status="operational" temporalId="s4"><num value="4">4.</num><heading>Establishment of Pilotage Advisory Committee</heading><subsection id="ID_1438414063965_004" name="1" temporalId="s4_1"><num value="1">(1)</num><content>There is hereby established a committee to be known as the Pilotage Advisory Committee.</content></subsection><subsection id="ID_1438414063965_012" name="2" temporalId="s4_2"><num value="2">(2)</num><leadIn>The Committee shall consist of—</leadIn><paragraph id="ID_1438414063965_020" name="a" temporalId="s4_2_a"><num value="a">(a)</num><content>the Authority, who shall be the chairman; and</content></paragraph><paragraph id="ID_1438414063965_028" name="b" temporalId="s4_2_b"><num value="b">(b)</num><content>the members specified in subsection (3), each of whom shall be appointed by the Chief Executive.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1999/64">64 of 1999 s. 3</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438414063965_035" name="3" temporalId="s4_3"><num value="3">(3)</num><leadIn>The members of the Committee appointed by the Chief Executive shall be—</leadIn><paragraph id="ID_1438414063965_043" name="a" temporalId="s4_3_a"><num value="a">(a)</num><content>a person who, in the opinion of the Chief Executive, represents the interests of the Hong Kong Shipowners Association;</content></paragraph><paragraph id="ID_1438414063965_051" name="b" temporalId="s4_3_b"><num value="b">(b)</num><content>a person who, in the opinion of the Chief Executive, represents the interests of the Hong Kong Liner Shipping Association;</content></paragraph><paragraph id="ID_1438414063965_059" name="ba" temporalId="s4_3_ba"><num value="ba">(ba)</num><content>a person who, in the opinion of the Chief Executive, represents the interests of the shipping agencies;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/2013/2">2 of 2013 s. 3</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438414063980_006" name="c" temporalId="s4_3_c"><num value="c">(c)</num><content>a person who, in the opinion of the Chief Executive, represents the interests of the container terminal operators;</content></paragraph><paragraph id="ID_1438414063980_014" name="d" temporalId="s4_3_d"><num value="d">(d)</num><content>a person who, in the opinion of the Chief Executive, represents the interests of the dry bulk cargo terminal operators;</content></paragraph><paragraph id="ID_1438414063980_022" name="e" temporalId="s4_3_e"><num value="e">(e)</num><content>a person who, in the opinion of the Chief Executive, represents the interests of the break bulk cargo operators;</content></paragraph><paragraph id="ID_1438414063980_030" name="f" temporalId="s4_3_f"><num value="f">(f)</num><content>a person who, in the opinion of the Chief Executive, represents the interests of the oil terminal operators;</content></paragraph><paragraph id="ID_1438414063980_038" name="g" temporalId="s4_3_g"><num value="g">(g)</num><content>a person who, in the opinion of the Chief Executive, represents the interests of the dockyard industry;</content></paragraph><paragraph id="ID_1438414063980_046" name="h" temporalId="s4_3_h"><num value="h">(h)</num><content>a person who, in the opinion of the Chief Executive, represents the interests of the tug operators;</content></paragraph><paragraph id="ID_1438414063980_054" name="i" temporalId="s4_3_i"><num value="i">(i)</num><leadIn>the following persons nominated by the Authority—</leadIn><subparagraph id="ID_1438414063980_062" name="i" temporalId="s4_3_i_i"><num value="i">(i)</num><content>a master mariner who holds a Certificate of Competency (Deck Officer) Class 1 (Master Mariner) issued or deemed to be issued under the relevant regulation made under the Merchant Shipping (Seafarers) Ordinance (<ref href="/hk/cap478">Cap. 478</ref>) or a certificate which is under that regulation to be treated as equivalent to such a certificate of competency, and who has had experience in command of ships on long international voyages;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1995/44">44 of 1995 s. 143</ref>)</sourceNote></content></subparagraph><subparagraph id="ID_1438414063996_007" name="ii" temporalId="s4_3_i_ii"><num value="ii">(ii)</num><content>a master mariner who holds a Certificate of Competency (Deck Officer) Class 1 (Master Mariner) issued or deemed to be issued under the relevant regulation made under the Merchant Shipping (Seafarers) Ordinance (<ref href="/hk/cap478">Cap. 478</ref>) or a certificate which is under that regulation to be treated as equivalent to such a certificate of competency, and who has had experience in berthing and unberthing ships at buoys, wharves or piers in Hong Kong;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1995/44">44 of 1995 s. 143</ref>)</sourceNote></content></subparagraph><subparagraph id="ID_1438414064011_007" name="iii" temporalId="s4_3_i_iii"><num value="iii">(iii)</num><content>a master mariner who holds a Certificate of Competency (Deck Officer) Class 1 (Master Mariner) issued or deemed to be issued under the relevant regulation made under the Merchant Shipping (Seafarers) Ordinance (<ref href="/hk/cap478">Cap. 478</ref>) or a certificate which is under that regulation to be treated as equivalent to such a certificate of competency, and who has had experience in the shipping industry in Hong Kong;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1995/44">44 of 1995 s. 143</ref>)</sourceNote></content></subparagraph><subparagraph id="ID_1438414064027_007" name="iv" temporalId="s4_3_i_iv"><num value="iv">(iv)</num><content>2 licensed pilots; and</content></subparagraph><subparagraph id="ID_1438414064027_015" name="v" temporalId="s4_3_i_v"><num value="v">(v)</num><content>3 officers of the Marine Department.<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/1993/36">36 of 1993 s. 3</ref>. Amended <ref href="/hk/1999/64">64 of 1999 s. 3</ref>; <ref href="/hk/2013/2">2 of 2013 s. 3</ref>)</sourceNote></content></subparagraph></paragraph></subsection><subsection id="ID_1438414064027_021" name="4" temporalId="s4_4"><num value="4">(4)</num><content>The members of the Committee, other than those members who are public officers, shall be appointed for a period of 2 years or for such lesser period as the Chief Executive may in any particular case determine and shall be eligible for reappointment.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1999/64">64 of 1999 s. 3</ref>)</sourceNote></content></subsection><subsection id="ID_1438414064027_029" name="5" temporalId="s4_5"><num value="5">(5)</num><content>Any member of the Committee who is not a public officer may at any time by notice in writing to the Chief Executive resign from the Committee.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1999/64">64 of 1999 s. 3</ref>)</sourceNote></content></subsection><subsection id="ID_1438414064043_005" name="6" temporalId="s4_6"><num value="6">(6)</num><content>7 members of the Committee shall form a quorum at any meeting of the Committee.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1987/42">42 of 1987 s. 3</ref>)</sourceNote></content></subsection><subsection id="ID_1438414064043_013" name="7" temporalId="s4_7"><num value="7">(7)</num><content><leadIn>The chairman of the Committee shall preside at all meetings of the Committee:</leadIn><proviso name="proviso" temporalId="s4_7_proviso">Provided that, if the chairman is absent from any meeting or any part thereof, he may nominate a member to preside in his absence as chairman at the meeting or part thereof.</proviso></content></subsection><subsection id="ID_1438414064043_027" name="8" temporalId="s4_8"><num value="8">(8)</num><content>The chairman of the Committee or any member presiding in his absence shall have a vote on all matters coming before the Committee; and in the case of an equality of votes he shall also have a casting vote.</content></subsection><subsection id="ID_1438414064043_035" name="9" temporalId="s4_9"><num value="9">(9)</num><content>The Director of Marine shall appoint an officer of the Marine Department to be the secretary of the Committee.</content></subsection><subsection id="ID_1438414064058_005" name="10" temporalId="s4_10"><num value="10">(10)</num><content>The secretary of the Committee shall furnish to the Authority a record in writing of every meeting of the Committee.</content></subsection><subsection id="ID_1438414064058_013" name="11" temporalId="s4_11"><num value="11">(11)</num><content>Subject to the provisions of this Ordinance, the Authority may make rules regulating the procedure at meetings of the Committee.</content></subsection></section><section id="ID_1438403567138_001" name="s5" reason="inEffect" startPeriod="2014-04-10" status="operational" temporalId="s5"><num value="5">5.</num><heading>Functions of the Committee</heading><subsection id="ID_1438414064136_004" name="1" temporalId="s5_1"><num value="1">(1)</num><leadIn>Without prejudice to any other provision of this Ordinance, the Authority may seek the advice of the Committee on any matter which is connected with or incidental to—</leadIn><paragraph id="ID_1438414064136_012" name="a" temporalId="s5_1_a"><num value="a">(a)</num><content>the exercise of his powers, or the performance of his duties, under this Ordinance; or</content></paragraph><paragraph id="ID_1438414064136_020" name="b" temporalId="s5_1_b"><num value="b">(b)</num><content>the general regulation or control of pilotage in Hong Kong.</content></paragraph></subsection><subsection id="ID_1438414064136_027" name="2" temporalId="s5_2"><num value="2">(2)</num><content>The Committee shall advise the Authority on any matter referred to it under subsection (1).</content></subsection></section></part><part id="ID_1438403567138_003" name="P3" reason="inEffect" startPeriod="2014-04-10" status="operational" temporalId="P3"><num value="3">Part 3</num><heading>Issue of Licences, Classification of Pilots and Periodic Examination of Pilots</heading><section id="ID_1438403567153_001" name="s6" reason="inEffect" startPeriod="2014-04-10" status="operational" temporalId="s6"><num value="6">6.</num><heading>Application for licence</heading><subsection id="ID_1438414064183_004" name="1" temporalId="s6_1"><num value="1">(1)</num><leadIn>Any person who—</leadIn><paragraph id="ID_1438414064183_012" name="a" temporalId="s6_1_a"><num value="a">(a)</num><content>is a permanent resident of the Hong Kong Special Administrative Region or has the permission of the Chief Executive under subsection (2);<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1982/80">80 of 1982 s. 2</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438414064183_020" name="b" temporalId="s6_1_b"><num value="b">(b)</num><content>has the prescribed qualifications; and</content></paragraph><paragraph id="ID_1438414064183_028" name="c" temporalId="s6_1_c"><num value="c">(c)</num><content>unless he has the permission of the Authority under subsection (3), has the prescribed experience,</content></paragraph><continued>may apply for a licence.</continued></subsection><subsection id="ID_1438414064183_041" name="2" temporalId="s6_2"><num value="2">(2)</num><content>The Chief Executive may permit a person to apply for a licence notwithstanding that he is not a permanent resident of the Hong Kong Special Administrative Region.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1982/80">80 of 1982 s. 2</ref>)</sourceNote></content></subsection><subsection id="ID_1438414064199_005" name="3" temporalId="s6_3"><num value="3">(3)</num><content>The Authority may permit a person to apply for a licence notwithstanding that he does not have the prescribed experience.</content></subsection><sourceNote>(Amended <ref href="/hk/1998/28">28 of 1998 s. 2</ref>; <ref href="/hk/1999/64">64 of 1999 s. 3</ref>)</sourceNote></section><section id="ID_1438403567153_003" name="s7" reason="inEffect" startPeriod="2022-12-02" status="operational" temporalId="s7"><num value="7">7.</num><heading>Examination of applicants</heading><subsection id="ID_1670207198371_001" name="1" temporalId="s7_1"><num value="1">(1)</num><content>The Authority must, on application in the prescribed manner and on payment of
+                the prescribed fee, cause an applicant for a licence to be examined, as to the
+                applicant’s competence to pilot ships, by a board of examiners consisting of those
+                members of the Committee appointed by the Authority.</content></subsection><subsection id="ID_1670207198372_002" name="2" temporalId="s7_2"><num value="2">(2)</num><content>The Committee must notify the Authority of the results of an examination under
+                subsection (1).</content></subsection><subsection id="ID_1670207198372_003" name="3" temporalId="s7_3"><num value="3">(3)</num><content>Subject to subsection (4), an applicant for a licence must as soon as
+                reasonably practicable after making the application submit to an examination, as to
+                the applicant’s physical and mental fitness and eyesight, by a registered medical
+                practitioner.</content></subsection><subsection id="ID_1670207198373_004" name="4" temporalId="s7_4"><num value="4">(4)</num><leadIn>The Authority may exempt an applicant from an examination under subsection (3)
+                        (<b><i>medical examination</i></b>) if—</leadIn><paragraph id="ID_1670207198374_005" name="a" temporalId="s7_4_a"><num value="a">(a)</num><content>the Authority is satisfied that the applicant has, within the period of 12
+                    months immediately before the date on which the application is made, submitted
+                    to another examination (whether or not carried out in Hong Kong) that is, in the
+                    Authority’s opinion, similar in nature, and comparable in assessment standard,
+                    to a medical examination; and</content></paragraph><paragraph id="ID_1670207198374_006" name="b" temporalId="s7_4_b"><num value="b">(b)</num><content>the Authority is satisfied as to the applicant’s physical and mental
+                    fitness and eyesight.</content></paragraph></subsection><subsection id="ID_1670207198375_007" name="5" temporalId="s7_5"><num value="5">(5)</num><leadIn>An applicant must attain the standards of—</leadIn><paragraph id="ID_1670207198376_008" name="a" temporalId="s7_5_a"><num value="a">(a)</num><content>competence to pilot ships;</content></paragraph><paragraph id="ID_1670207198376_009" name="b" temporalId="s7_5_b"><num value="b">(b)</num><content>physical and mental fitness; and</content></paragraph><paragraph id="ID_1670207198377_010" name="c" temporalId="s7_5_c"><num value="c">(c)</num><content>eyesight,</content></paragraph><continued>that are determined by the Authority.</continued></subsection><sourceNote>(Replaced <ref href="hk/2022/12">12 of 2022 s. 4</ref>)</sourceNote></section><section id="ID_1438403567169_001" name="s8" reason="inEffect" startPeriod="2014-04-10" status="operational" temporalId="s8"><num value="8">8.</num><heading>Issue of licences, and classification of pilots</heading><subsection id="ID_1438414064292_003" name="1" temporalId="s8_1"><num value="1">(1)</num><content>The Authority may, if he is satisfied as to the competence, physical and mental fitness and eyesight of an applicant who has been examined in accordance with <ref>section 7</ref>, issue to him, on payment of the prescribed fee, a licence to act as a pilot and shall specify in such licence the prescribed class of pilotage which in his opinion the holder may undertake.</content></subsection><subsection id="ID_1438414064292_011" name="2" temporalId="s8_2"><num value="2">(2)</num><leadIn>If—</leadIn><paragraph id="ID_1438414064292_019" name="a" temporalId="s8_2_a"><num value="a">(a)</num><content>a licensed pilot has such experience, and has passed such examination, as may be prescribed; and</content></paragraph><paragraph id="ID_1438414064292_027" name="b" temporalId="s8_2_b"><num value="b">(b)</num><content>the Authority is satisfied that the licensed pilot is qualified to undertake a prescribed class of pilotage higher than that specified in his licence,</content></paragraph><continued>the Authority may amend the licence accordingly.</continued></subsection><subsection id="ID_1438414064308_011" name="3" temporalId="s8_3"><num value="3">(3)</num><content>Subject to any conditions of the licence, a licence shall entitle the holder thereof to undertake the prescribed class of pilotage specified therein.</content></subsection><subsection id="ID_1438414064308_019" name="4" temporalId="s8_4"><num value="4">(4)</num><content>The Authority shall maintain a register of licensed pilots, containing such particulars as he thinks fit.</content></subsection></section><section id="ID_1438403567169_003" name="s9" reason="inEffect" startPeriod="2014-04-10" status="operational" temporalId="s9"><num value="9">9.</num><heading>General provisions relating to licences</heading><subsection id="ID_1438414064339_004" name="1" temporalId="s9_1"><num value="1">(1)</num><leadIn>A licence shall—</leadIn><paragraph id="ID_1438414064339_012" name="a" temporalId="s9_1_a"><num value="a">(a)</num><content>be in such form as the Authority may determine; and</content></paragraph><paragraph id="ID_1438414064339_020" name="b" temporalId="s9_1_b"><num value="b">(b)</num><content>subject to this Ordinance, be valid until 31 December next following the day on which it was issued.</content></paragraph></subsection><subsection id="ID_1438414064339_027" name="2" temporalId="s9_2"><num value="2">(2)</num><leadIn>On—</leadIn><paragraph id="ID_1438414064339_035" name="a" temporalId="s9_2_a"><num value="a">(a)</num><content>application by a licensed pilot in the prescribed manner, not later than 14 days after the expiry of his licence; and</content></paragraph><paragraph id="ID_1438414064339_043" name="b" temporalId="s9_2_b"><num value="b">(b)</num><content>payment of the prescribed fee,</content></paragraph><continued>the Authority shall renew the licence—</continued><paragraph id="ID_1438414064355_005" name="i" temporalId="s9_2_i"><num value="i">(i)</num><content>(where the licensed pilot is under the age of 64 years) for 1 year with effect from its expiry; or</content></paragraph><paragraph id="ID_1438414064355_013" name="ii" temporalId="s9_2_ii"><num value="ii">(ii)</num><content>(where the licensed pilot has attained the age of 64 years) for a period ending on the day immediately before the licensed pilot attains the age of 65 years.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1993/36">36 of 1993 s. 4</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438414064355_020" name="3" temporalId="s9_3"><num value="3">(3)</num><content>If a licence is lost, destroyed or defaced, the Authority may, on application by the licensed pilot and payment of the prescribed fee, issue a copy of the licence.</content></subsection><subsection id="ID_1438414064355_028" name="4" temporalId="s9_4"><num value="4">(4)</num><content>A licence relating to a pilot who has died shall be deposited forthwith with the Authority by any person into whose possession it comes.</content></subsection><subsection id="ID_1438414064355_036" name="5" temporalId="s9_5"><num value="5">(5)</num><content>Any person who contravenes subsection (4) shall be guilty of an offence and shall be liable on conviction to a fine at level 1.</content></subsection><sourceNote>(Amended <ref href="/hk/2014/er2">E.R. 2 of 2014</ref>)</sourceNote></section><section id="ID_1438403567184_001" name="s9A" reason="inEffect" startPeriod="2014-04-10" status="operational" temporalId="s9A"><num value="9A">9A.</num><heading>Extension of service beyond the age of 65</heading><subsection id="ID_1438414064401_004" name="1" temporalId="s9A_1"><num value="1">(1)</num><content>A licensed pilot who is about to attain the age of 65 years or who has attained the age of 65 years but has not attained the age of 68 years may, not later than 14 days after the expiry of his licence, apply to the Authority in the prescribed manner for permission to work as a pilot beyond the age of 65 years for any period not exceeding 1 year.</content></subsection><subsection id="ID_1438414064401_012" name="2" temporalId="s9A_2"><num value="2">(2)</num><content>Where the Authority is satisfied as to the physical and mental fitness and eyesight of an applicant under subsection (1) who has been re-examined in accordance with <ref>section 10</ref>, the Authority may, subject to subsection (3) and on payment of the prescribed fee, permit the applicant to work as a pilot beyond the age of 65 years and renew the applicant’s licence for any period not exceeding 1 year.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/2013/2">2 of 2013 s. 4</ref>)</sourceNote></content></subsection><subsection id="ID_1438414064417_005" name="3" temporalId="s9A_3"><num value="3">(3)</num><content>A licensed pilot shall not be permitted to work beyond the time when he attains the age of 68 years.</content></subsection><sourceNote>(Added <ref href="/hk/1993/36">36 of 1993 s. 5</ref>)</sourceNote></section><section id="ID_1438403567184_003" name="s10" reason="inEffect" startPeriod="2022-12-02" status="operational" temporalId="s10"><num value="10">10.</num><heading>Re-examination of licensed pilots</heading><subsection id="ID_1438414064448_004" name="1" temporalId="s10_1"><num value="1">(1)</num><leadIn>Subject
+                to subsection (2A), a licensed pilot shall submit to an
+                examination as to his physical and mental fitness and his eyesight—
+                <sourceNote>(Amended <ref href="hk/2022/12">12 of 2022 s. 5</ref>)</sourceNote></leadIn><paragraph id="ID_1438414064448_012" name="a" temporalId="s10_1_a"><num value="a">(a)</num><content>at least once in every 2 years, where he has not attained the age of 65
+                        years;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1993/36">36 of 1993 s. 6</ref>)</sourceNote></content></paragraph><paragraph id="ID_1523525178245_001" name="aa" temporalId="s10_1_aa"><num value="aa">(aa)</num><content> at least once every year, where he has attained the age
+                    of 65 years; and<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1993/36">36 of 1993 s. 6</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438414064464_005" name="b" temporalId="s10_1_b"><num value="b">(b)</num><content>at such other times as the Authority may require.</content></paragraph></subsection><subsection id="ID_1670207546907_001" name="2" temporalId="s10_2"><num value="2">(2)</num><content>An examination under subsection (1) (<b><i>medical examination</i></b>) must be
+                carried out by a registered medical practitioner. <sourceNote>(Replaced <ref href="hk/2022/12">12 of 2022 s. 5</ref>)</sourceNote></content></subsection><subsection id="ID_1670207546910_002" name="2A" temporalId="s10_2A"><num value="2A">(2A)</num><leadIn>The Authority may exempt a licensed pilot from a medical examination
+                if—</leadIn><paragraph id="ID_1670207546910_003" name="a" temporalId="s10_2A_a"><num value="a">(a)</num><content>the Authority is satisfied that the pilot has, within the period of 12
+                    months immediately before the date on which the pilot last made an application
+                    under <ref>section 9(2)</ref>, submitted to another examination (whether or not
+                    carried out in Hong Kong) that is, in the Authority’s opinion, similar in
+                    nature, and comparable in assessment standard, to a medical examination;
+                    and</content></paragraph><paragraph id="ID_1670207546912_004" name="b" temporalId="s10_2A_b"><num value="b">(b)</num><content>the Authority is satisfied as to the pilot’s physical and mental fitness
+                    and eyesight. <sourceNote>(Added <ref href="hk/2022/12">12 of 2022 s. 5</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438414064464_020" name="3" temporalId="s10_3"><num value="3">(3)</num><sourceNote>(Repealed <ref href="hk/2022/12">12 of 2022 s. 5</ref>)</sourceNote></subsection><subsection id="ID_1438414064464_028" name="4" temporalId="s10_4"><num value="4">(4)</num><content>A licensed pilot who is required under subsection <ref>(1)(b)</ref> to submit
+                to an examination shall forthwith deposit his licence with the Authority.</content></subsection><subsection id="ID_1438414064479_005" name="5" temporalId="s10_5"><num value="5">(5)</num><leadIn>If—</leadIn><paragraph id="ID_1438414064479_013" name="a" temporalId="s10_5_a"><num value="a">(a)</num><content>a licensed pilot contravenes subsection <ref>(1)(a)</ref> or (aa) or does
+                    not submit to an examination in accordance with a requirement under subsection
+                        <ref>(1)(b)</ref> within 14 days after he receives notice in writing of such
+                    requirement; or<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1993/36">36 of 1993 s. 6</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438414064479_021" name="b" temporalId="s10_5_b"><num value="b">(b)</num><content>the Authority is not satisfied as to the physical and mental fitness and
+                    eyesight of a licensed pilot who has been examined in accordance with this
+                    section,</content></paragraph><continued>the Authority may cancel the licence of the licensed pilot or suspend it for
+                such period as he thinks fit.</continued></subsection></section></part><part id="ID_1438403567200_001" name="P3A" reason="inEffect" startPeriod="2014-04-10" status="operational" temporalId="P3A"><num value="3A">Part 3A</num><heading>Compulsory Pilotage</heading><sourceNote>(<ref>Part 3A</ref> added <ref href="/hk/1985/29">29 of 1985 s. 3</ref>)</sourceNote><section id="ID_1438403567200_003" name="s10A" reason="inEffect" startPeriod="2014-04-10" status="operational" temporalId="s10A"><num value="10A">10A.</num><heading>Interpretation</heading><leadIn>In this Part, unless the context otherwise requires—</leadIn><def name="CompulsoryPilotage"><term>compulsory pilotage</term> (<term xml:lang="zh-Hant-HK">強制領港</term>) means compulsory pilotage of a ship as required by <ref>section 10C(1)</ref>;</def><def name="DynamicallySupportedCraft"><term>dynamically supported craft</term> (<term xml:lang="zh-Hant-HK">動力承托的航行器</term>) has the same meaning as it has in the Shipping and Port Control Ordinance (<ref href="/hk/cap313">Cap. 313</ref>);</def><def name="ExemptedShip"><term>exempted ship</term> (<term xml:lang="zh-Hant-HK">豁免船舶</term>) means any ship referred to in <ref>section 10D(1)</ref> or exempted under <ref>section 10D(2)</ref> or (3) or in respect of which a waiver of the requirement of compulsory pilotage is made under <ref>section 10F(c)</ref> and (d);</def><def name="PilotBoardingStation"><term>pilot boarding station</term> (<term xml:lang="zh-Hant-HK">領港員登船區</term>) means an area of the waters of Hong Kong specified as such in <ref>Schedule 2</ref> or designated as such under <ref>section 10F(b)</ref>;</def><def name="PilotageArea"><term>pilotage area</term> (<term xml:lang="zh-Hant-HK">領港區</term>) means the pilotage area referred to in <ref>section 10B</ref>;</def><def name="RiverTradeLimits"><term>river trade limits</term> (<term xml:lang="zh-Hant-HK">內河航限</term>) has the same meaning as it has in the Shipping and Port Control Ordinance (<ref href="/hk/cap313">Cap. 313</ref>);</def><def name="SpecifiedAnchorage"><term>specified anchorage</term> (<term xml:lang="zh-Hant-HK">指明碇泊處</term>) means an area of the waters of Hong Kong specified as such in <ref>Schedule 3</ref>;</def><def name="VHF"><term>V.H.F.</term> (<term xml:lang="zh-Hant-HK">甚高頻</term>) means very high frequency.</def></section><section id="ID_1438403567216_001" name="s10B" reason="inEffect" startPeriod="2014-04-10" status="operational" temporalId="s10B"><num value="10B">10B.</num><heading>Pilotage area</heading><content>The waters of Hong Kong shall be a pilotage area.</content></section><section id="ID_1438403567216_003" name="s10C" reason="inEffect" startPeriod="2014-04-10" status="operational" temporalId="s10C"><num value="10C">10C.</num><heading>Compulsory pilotage</heading><subsection id="ID_1438414064635_004" name="1" temporalId="s10C_1"><num value="1">(1)</num><content>Subject to subsection (2), every ship specified in <ref>Schedule 1</ref>, other than an exempted ship, while navigating in the pilotage area shall be under the pilotage of a licensed pilot or pilots, whose number shall be determined by the Authority under <ref>section 10E(3)</ref>.</content></subsection><subsection id="ID_1438414064635_012" name="2" temporalId="s10C_2"><num value="2">(2)</num><leadIn>A ship required to be under compulsory pilotage may navigate in the pilotage area without a licensed pilot—</leadIn><paragraph id="ID_1438414064635_020" name="a" temporalId="s10C_2_a"><num value="a">(a)</num><content>if it is on its inward voyage and its master has reported to the Authority under <ref>section 10E(1)</ref>, from the time it enters the pilotage area to the time it arrives at a pilot boarding station or specified anchorage, so long as it is directly proceeding to a pilot boarding station or specified anchorage;</content></paragraph><paragraph id="ID_1438414064651_006" name="b" temporalId="s10C_2_b"><num value="b">(b)</num><content>if it is on its outward voyage under the pilotage of a licensed pilot, from the time the licensed pilot disembarks to the time it leaves the pilotage area, so long as it is directly leaving the pilotage area;</content></paragraph><paragraph id="ID_1438414064651_014" name="c" temporalId="s10C_2_c"><num value="c">(c)</num><content>if through stress of weather it is seeking shelter within the waters of Hong Kong; or</content></paragraph><paragraph id="ID_1438414064651_022" name="d" temporalId="s10C_2_d"><num value="d">(d)</num><content>within a dockyards approach area specified in <ref>Schedule 4</ref> for the purpose of berthing, changing berths or docking at dockyards in the waters of Hong Kong.<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/1993/36">36 of 1993 s. 7</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438414064651_029" name="3" temporalId="s10C_3"><num value="3">(3)</num><content>If a ship is not under pilotage as required by subsection (1), the master of the ship commits an offence and is liable to a fine at level 3 or double the amount of the pilotage dues which would have been payable in respect of the ship if it had been under pilotage, whichever is the greater.</content></subsection><subsection id="ID_1438414064667_005" name="4" temporalId="s10C_4"><num value="4">(4)</num><content>It shall be a defence in proceedings for an offence under subsection (3) to prove that on the occasion to which the charge relates the ship was being navigated in the pilotage area only so far as was necessary to avoid serious danger to the ship or to any other ship or property.</content></subsection><subsection id="ID_1438414064667_013" name="5" temporalId="s10C_5"><num value="5">(5)</num><content>The Chief Executive in Council may, by order published in the Gazette, amend <ref>Schedule 1</ref>.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1999/64">64 of 1999 s. 3</ref>)</sourceNote></content></subsection><sourceNote>(Amended <ref href="/hk/2014/er2">E.R. 2 of 2014</ref>)</sourceNote></section><section id="ID_1438403567231_001" name="s10D" reason="inEffect" startPeriod="2025-08-24" status="operational" temporalId="s10D"><num value="10D">10D.</num><heading>Exemption from compulsory pilotage</heading><subsection id="ID_1438414064713_011" name="1" temporalId="s10D_1"><num value="1">(1)</num><leadIn>The following ships shall be exempted from compulsory pilotage—</leadIn><paragraph id="ID_1438414064713_019" name="a" temporalId="s10D_1_a"><num value="a">(a)</num><content>ships belonging to the Chinese People’s Liberation Army or ships belonging to the Central People’s Government;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/2012/2">2 of 2012 s. 3</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438414064729_006" name="b" temporalId="s10D_1_b"><num value="b">(b)</num><content>ships for the time being used by the Government;</content></paragraph><paragraph id="ID_1438414064729_014" name="c" temporalId="s10D_1_c"><num value="c">(c)</num><leadIn>local vessels within the meaning of the Merchant Shipping (Local Vessels) Ordinance (<ref href="/hk/cap548">Cap. 548</ref>) other than—</leadIn><subparagraph id="ID_1438414064729_022" name="i" temporalId="s10D_1_c_i"><num value="i">(i)</num><content>vessels regularly employed in trading to or from Hong Kong;</content></subparagraph><subparagraph id="ID_1438414064729_030" name="ii" temporalId="s10D_1_c_ii"><num value="ii">(ii)</num><content>any vessel referred to in paragraph (e) of the definition of <i><b>local vessel</b></i> in <ref>section 2</ref> of that Ordinance.<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/1999/43">43 of 1999 s. 91</ref>)</sourceNote></content></subparagraph></paragraph></subsection><subsection id="ID_1438414064729_036" name="2" temporalId="s10D_2"><num value="2">(2)</num><leadIn>The following ships, whether individually or as a class, may be exempted from compulsory pilotage by the Authority on application in writing to him—</leadIn><paragraph id="ID_1438414064729_044" name="a" temporalId="s10D_2_a"><num value="a">(a)</num><content>vessels and dynamically supported craft engaged on ferry services for the
+                    conveyance of passengers (whether or not goods are also conveyed) between Hong
+                    Kong,
+                    Macao
+                    and other Chinese ports within river trade limits; and<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1999/64">64 of 1999 s.
+                            3</ref>; <ref href="/hk/2025/31">31 of 2025 s.
+                        20</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438414064729_052" name="b" temporalId="s10D_2_b"><num value="b">(b)</num><content>ships engaged in salvage or cable laying operations.</content></paragraph></subsection><subsection id="ID_1438414064745_005" name="3" temporalId="s10D_3"><num value="3">(3)</num><leadIn>The Authority may exempt a ship other than one referred to in subsection (1) or
+                (2) from compulsory pilotage if
+                    satisfied— <sourceNote>(Amended <ref href="/hk/2013/2">2 of 2013<inline class="width_3"> </inline>s.
+                    5</ref>)</sourceNote></leadIn><paragraph id="ID_1438414064745_013" name="a" temporalId="s10D_3_a"><num value="a">(a)</num><content>that no licensed pilot is available to pilot the ship; or</content></paragraph><paragraph id="ID_1438414064745_021" name="b" temporalId="s10D_3_b"><num value="b">(b)</num><content>that compliance with the requirement of compulsory pilotage is unnecessary
+                    in the circumstances of the case.</content></paragraph></subsection><subsection id="ID_1438414064745_028" name="4" temporalId="s10D_4"><num value="4">(4)</num><content>Notwithstanding subsections (1), (2) and (3), an exempted ship under this section other than one referred to in subsection <ref>(2)(a)</ref> or to which the Merchant Shipping (Local Vessels) Ordinance (<ref href="/hk/cap548">Cap. 548</ref>) applies, shall be subject to compulsory pilotage if it is a ship specified in item 5 of <ref>Schedule 1</ref>.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1987/42">42 of 1987 s. 6</ref>; <ref href="/hk/1999/43">43 of 1999 s. 91</ref>)</sourceNote></content></subsection><subsection id="ID_1438414064760_005" name="5" temporalId="s10D_5"><num value="5">(5)</num><content>If an officer of the Marine Department, on application for an exemption to be granted under subsection (2) or (3), has visited a ship or other site for assisting the Authority in considering whether or not to grant the exemption, the applicant for the exemption must pay the prescribed fee for the visit to the Authority.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/2013/2">2 of 2013 s. 5</ref>)</sourceNote></content></subsection></section><section id="ID_1438403567231_003" name="s10E" reason="inEffect" startPeriod="2014-04-10" status="operational" temporalId="s10E"><num value="10E">10E.</num><heading>Duty to report to Authority</heading><subsection id="ID_1438414064807_004" name="1" temporalId="s10E_1"><num value="1">(1)</num><leadIn>No ship to which compulsory pilotage applies and which is on its inward voyage shall enter the pilotage area unless the master of the ship has in writing or over a V.H.F. radiotelephone reported to the Authority—</leadIn><paragraph id="ID_1438414064807_012" name="a" temporalId="s10E_1_a"><num value="a">(a)</num><leadIn>not less than 12 hours before such entry—</leadIn><subparagraph id="ID_1438414064807_020" name="i" temporalId="s10E_1_a_i"><num value="i">(i)</num><content>the name and nationality of the ship;</content></subparagraph><subparagraph id="ID_1438414064807_028" name="ii" temporalId="s10E_1_a_ii"><num value="ii">(ii)</num><content>the type and gross tonnage of the ship;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/2013/2">2 of 2013 s. 6</ref>)</sourceNote></content></subparagraph><subparagraph id="ID_1438414064823_006" name="iii" temporalId="s10E_1_a_iii"><num value="iii">(iii)</num><content>the overall length and the maximum draft of the ship;</content></subparagraph><subparagraph id="ID_1438414064823_014" name="iv" temporalId="s10E_1_a_iv"><num value="iv">(iv)</num><content>the operational status of the machinery and steering equipment of the ship;</content></subparagraph><subparagraph id="ID_1438414064823_022" name="v" temporalId="s10E_1_a_v"><num value="v">(v)</num><content>the requirement of pilotage services;</content></subparagraph><subparagraph id="ID_1438414064823_030" name="vi" temporalId="s10E_1_a_vi"><num value="vi">(vi)</num><content>the estimated time of arrival at a pilot boarding station or specified anchorage; and</content></subparagraph><subparagraph id="ID_1438414064823_038" name="vii" temporalId="s10E_1_a_vii"><num value="vii">(vii)</num><content>any other information as may be required by the Authority; and</content></subparagraph></paragraph><paragraph id="ID_1438414064823_045" name="b" temporalId="s10E_1_b"><num value="b">(b)</num><content>not less than 4 hours before such entry, any change in or the confirmation of the estimated time of arrival reported under paragraph <ref>(a)(vi)</ref>.</content></paragraph></subsection><subsection id="ID_1438414064823_052" name="2" temporalId="s10E_2"><num value="2">(2)</num><leadIn>Not less than 3 hours before a ship to which compulsory pilotage applies proceeds to sea on its outward voyage or navigates within the pilotage area, the master of the ship shall report in writing or over a V.H.F. radiotelephone to the Authority—</leadIn><paragraph id="ID_1438414064823_060" name="a" temporalId="s10E_2_a"><num value="a">(a)</num><content>the name and nationality of the ship;</content></paragraph><paragraph id="ID_1438414064823_068" name="b" temporalId="s10E_2_b"><num value="b">(b)</num><content>the type and gross tonnage of the ship;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/2013/2">2 of 2013 s. 6</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438414064838_006" name="c" temporalId="s10E_2_c"><num value="c">(c)</num><content>the overall length and the maximum draft of the ship;</content></paragraph><paragraph id="ID_1438414064838_014" name="d" temporalId="s10E_2_d"><num value="d">(d)</num><content>the operational status of the machinery and steering equipment of the ship;</content></paragraph><paragraph id="ID_1438414064838_022" name="e" temporalId="s10E_2_e"><num value="e">(e)</num><content>the requirement of pilotage services;</content></paragraph><paragraph id="ID_1438414064838_030" name="f" temporalId="s10E_2_f"><num value="f">(f)</num><content>the estimated time of departure on its outward voyage or commencement of navigation within the pilotage area; and</content></paragraph><paragraph id="ID_1438414064838_038" name="g" temporalId="s10E_2_g"><num value="g">(g)</num><content>any other information as may be required by the Authority.</content></paragraph></subsection><subsection id="ID_1438414064838_045" name="3" temporalId="s10E_3"><num value="3">(3)</num><content>The Authority, after considering a report under subsection (1) or (2), shall determine the number of licensed pilots required to pilot the ship.</content></subsection><subsection id="ID_1438414064838_053" name="4" temporalId="s10E_4"><num value="4">(4)</num><content>A master who without reasonable excuse contravenes subsection (1) or (2) commits an offence and is liable to a fine at level 3.</content></subsection><sourceNote>(Amended <ref href="/hk/2014/er2">E.R. 2 of 2014</ref>)</sourceNote></section><section id="ID_1438403567247_001" name="s10F" reason="inEffect" startPeriod="2014-04-10" status="operational" temporalId="s10F"><num value="10F">10F.</num><heading>Powers of the Authority</heading><leadIn>The Authority—</leadIn><paragraph id="ID_1438414064901_012" name="a" temporalId="s10F_a"><num value="a">(a)</num><content>may by notice in the Gazette amend <ref>Schedules 2</ref>, <ref>3</ref> and <ref>4</ref>;</content></paragraph><paragraph id="ID_1438414064901_020" name="b" temporalId="s10F_b"><num value="b">(b)</num><content>may designate over the V.H.F. radiotelephone or by any other means of communication any area within the waters of Hong Kong, other than that specified in <ref>Schedule 2</ref>, to be a pilot boarding station;</content></paragraph><paragraph id="ID_1438414064901_028" name="c" temporalId="s10F_c"><num value="c">(c)</num><content>may waive the requirement of compulsory pilotage in respect of a ship navigating in the pilotage area if there exists any condition which in the opinion of the Authority may cause danger to a licensed pilot; and</content></paragraph><paragraph id="ID_1438414064901_036" name="d" temporalId="s10F_d"><num value="d">(d)</num><content>immediately before, or during the continuance of, the issue of a tropical cyclone warning signal, may by announcement made over the V.H.F. radiotelephone or by any other means of communication waive the requirement of compulsory pilotage in respect of ships navigating in the pilotage area.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/2012/ln80">L.N. 80 of 2012</ref>)</sourceNote></content></paragraph></section></part><part id="ID_1438403567247_003" name="P4" reason="inEffect" startPeriod="2014-04-10" status="operational" temporalId="P4"><num value="4">Part 4</num><heading>Restriction on Performance of Pilotage and Payment of Pilotage Dues etc.</heading><section id="ID_1438403567262_001" name="s11" reason="inEffect" startPeriod="2014-04-10" status="operational" temporalId="s11"><num value="11">11.</num><heading>Restrictions on pilotage</heading><subsection id="ID_1438414064947_004" name="1" temporalId="s11_1"><num value="1">(1)</num><content>A person shall not pilot a ship unless he is a licensed pilot or the master of the ship.</content></subsection><subsection id="ID_1438414064947_012" name="2" temporalId="s11_2"><num value="2">(2)</num><content>A licensed pilot shall not pilot a ship unless his licence is of the appropriate class.</content></subsection><subsection id="ID_1438414064947_020" name="3" temporalId="s11_3"><num value="3">(3)</num><content>A person shall not engage or permit another person to pilot a ship unless such other person is a licensed pilot whose licence is of the appropriate class or is the master of the ship.</content></subsection><subsection id="ID_1438414064963_005" name="4" temporalId="s11_4"><num value="4">(4)</num><content>A licence is of the appropriate class for the purposes of this section only if there is specified therein such prescribed class of pilotage as entitles the licensed pilot to undertake the pilotage which he undertakes in relation to the ship concerned.</content></subsection><subsection id="ID_1438414064963_013" name="5" temporalId="s11_5"><num value="5">(5)</num><content>Any person who contravenes subsection (1), (2) or (3) shall be guilty of an offence and shall be liable on conviction to a fine at level 2 and to imprisonment for 1 year.</content></subsection><sourceNote>(Amended <ref href="/hk/2014/er2">E.R. 2 of 2014</ref>)</sourceNote></section><section id="ID_1438403567262_003" name="s12" reason="inEffect" startPeriod="2014-04-10" status="operational" temporalId="s12"><num value="12">12.</num><heading>Information and assistance to pilot</heading><subsection id="ID_1438414064994_011" name="1" temporalId="s12_1"><num value="1">(1)</num><leadIn>The master of a ship shall—</leadIn><paragraph id="ID_1438414064994_019" name="a" temporalId="s12_1_a"><num value="a">(a)</num><content>on request by a licensed pilot who is piloting the ship, inform him of its draught of water, gross tonnage, length and beam, and provide him with such other information relating to the ship or its cargo as the pilot requires to enable him to carry out his duties as the pilot of the ship;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/2013/2">2 of 2013 s. 7</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438414065010_006" name="b" temporalId="s12_1_b"><num value="b">(b)</num><content>bring to the notice of every licensed pilot who is piloting the ship any defects in, and any matter peculiar to, the ship and its machinery and equipment of which the master knows and which might affect materially the navigation of the ship; and</content></paragraph><paragraph id="ID_1438414065010_014" name="c" temporalId="s12_1_c"><num value="c">(c)</num><content>render all reasonable assistance to the licensed pilot who is piloting the ship.</content></paragraph></subsection><subsection id="ID_1438414065010_021" name="2" temporalId="s12_2"><num value="2">(2)</num><leadIn>The master of a ship who—</leadIn><paragraph id="ID_1438414065010_029" name="a" temporalId="s12_2_a"><num value="a">(a)</num><content>refuses to comply with a request made to him pursuant to subsection <ref>(1)(a)</ref>;</content></paragraph><paragraph id="ID_1438414065010_037" name="b" temporalId="s12_2_b"><num value="b">(b)</num><content>makes a statement which he knows is false, or recklessly makes a statement which is false, in response to such a request or is privy to the making by another person in response to such a request of a statement which the master knows is false; or</content></paragraph><paragraph id="ID_1438414065025_006" name="c" temporalId="s12_2_c"><num value="c">(c)</num><content>fails without reasonable excuse to perform any duty imposed on him by subsection <ref>(1)(b)</ref> or (c),</content></paragraph><continued>commits an offence and is liable to a fine at level 3 and to imprisonment for 1 year.</continued></subsection><sourceNote>(Replaced <ref href="/hk/1985/29">29 of 1985 s. 4</ref>. Amended <ref href="/hk/2014/er2">E.R. 2 of 2014</ref>)</sourceNote></section><section id="ID_1438403567262_005" name="s13" reason="inEffect" startPeriod="2014-04-10" status="operational" temporalId="s13"><num value="13">13.</num><heading>Pilotage dues to be paid for pilotage service</heading><subsection id="ID_1438414065057_004" name="1" temporalId="s13_1"><num value="1">(1)</num><content>The prescribed pilotage dues shall be paid for any pilotage service rendered by a licensed pilot.</content></subsection><subsection id="ID_1438414065057_012" name="2" temporalId="s13_2"><num value="2">(2)</num><content>The master of the ship and the person who engaged the licensed pilot shall be liable for the payment of the prescribed pilotage dues.</content></subsection><subsection id="ID_1438414065072_005" name="3" temporalId="s13_3"><num value="3">(3)</num><content>The Director of Marine may refuse to grant clearance to a ship until all pilotage dues payable in respect of pilotage services rendered for that ship have been paid.</content></subsection></section><section id="ID_1438403567278_002" name="s14" reason="inEffect" startPeriod="2014-04-10" status="operational" temporalId="s14"><num value="14">14.</num><heading>No payment other than prescribed pilotage dues to be made for pilotage service</heading><subsection id="ID_1438414065088_012" name="1" temporalId="s14_1"><num value="1">(1)</num><content>No person shall demand or receive any fee or other payment for any pilotage service other than the prescribed pilotage dues.</content></subsection><subsection id="ID_1438414065088_020" name="2" temporalId="s14_2"><num value="2">(2)</num><content>No person shall pay or offer to pay to any licensed pilot or other person any fee or other payment for any pilotage service other than the prescribed pilotage dues.</content></subsection><subsection id="ID_1438414065103_005" name="3" temporalId="s14_3"><num value="3">(3)</num><content>Any person who contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine at level 2 and to imprisonment for 1 year.</content></subsection><sourceNote>(Amended <ref href="/hk/2014/er2">E.R. 2 of 2014</ref>)</sourceNote></section><section id="ID_1438403567278_004" name="s15" reason="inEffect" startPeriod="2022-12-02" status="operational" temporalId="s15"><num value="15">15.</num><heading>Licensed pilot to carry licence
+            when
+            on duty</heading><sourceNote>(Amended <ref href="hk/2022/12">12 of 2022 s. 6</ref>)</sourceNote><subsection id="ID_1438414065119_028" name="1" temporalId="s15_1"><num value="1">(1)</num><leadIn>A licensed pilot shall—</leadIn><paragraph id="ID_1438414065135_005" name="a" temporalId="s15_1_a"><num value="a">(a)</num><content>keep his licence in his possession at all times when he is acting as a
+                    pilot; and</content></paragraph><paragraph id="ID_1438414065135_013" name="b" temporalId="s15_1_b"><num value="b">(b)</num><content>produce it for inspection whenever he is required to do so by the
+                    Authority, any officer of the Marine Department not below the rank of
+                    Marine
+                    Inspector or any person who has engaged, or intends to engage,
+                    him to pilot a ship.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1985/29">29 of 1985 s.
+                        5</ref>; <ref href="hk/2022/12">12 of 2022 s. 6</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438414065135_020" name="2" temporalId="s15_2"><num value="2">(2)</num><content>A licensed pilot who fails or refuses without reasonable excuse to produce his
+                licence when required to do so under subsection <ref>(1)(b)</ref> commits an offence
+                and is liable to a fine at level 2.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1985/29">29 of 1985 s.
+                    5</ref>)</sourceNote></content></subsection><sourceNote>(Amended <ref href="/hk/2014/er2">E.R. 2 of 2014</ref>)</sourceNote></section><section id="ID_1438403567294_002" name="s16" reason="inEffect" startPeriod="2014-04-10" status="operational" temporalId="s16"><num value="16">16.</num><heading>Accidents to ships under pilotage to be reported</heading><subsection id="ID_1438414065166_004" name="1" temporalId="s16_1"><num value="1">(1)</num><content>A licensed pilot shall, when an accident occurs while a ship is being piloted by him, report the accident to the Authority, orally forthwith and in writing within 24 hours.</content></subsection><subsection id="ID_1438414065166_012" name="2" temporalId="s16_2"><num value="2">(2)</num><content>Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine at level 1.</content></subsection><sourceNote>(Amended <ref href="/hk/2014/er2">E.R. 2 of 2014</ref>)</sourceNote></section></part><part id="ID_1438403567294_004" name="P5" reason="inEffect" startPeriod="2014-04-10" status="operational" temporalId="P5"><num value="5">Part 5</num><heading>Disciplinary Proceedings Against Licensed Pilots</heading><section id="ID_1438403567309_001" name="s17" reason="inEffect" startPeriod="2022-12-02" status="operational" temporalId="s17"><num value="17">17.</num><heading>Complaints in respect of misconduct, etc. of licensed pilots</heading><subsection id="ID_1438414065213_004" name="1" temporalId="s17_1"><num value="1">(1)</num><leadIn>Any person who has reasonable grounds for believing that a licensed
+                pilot—</leadIn><paragraph id="ID_1438414065213_012" name="a" temporalId="s17_1_a"><num value="a">(a)</num><content>has been guilty of misconduct as a pilot;</content></paragraph><paragraph id="ID_1438414065213_020" name="b" temporalId="s17_1_b"><num value="b">(b)</num><content>has otherwise failed in, or neglected without reasonable excuse, his duties
+                    as a pilot; or</content></paragraph><paragraph id="ID_1438414065213_028" name="c" temporalId="s17_1_c"><num value="c">(c)</num><content>is otherwise not a fit and proper person to act as a pilot,</content></paragraph><continued>may report the matter in writing to the Authority.</continued></subsection><subsection id="ID_1438414065213_041" name="2" temporalId="s17_2"><num value="2">(2)</num><content>The Authority may refuse to take any action on a report under subsection <ref>(1)(a)</ref> or (b) unless it is made in writing within a reasonable time after the occurrence of the matter to which it relates.</content></subsection><subsection id="ID_1438414065228_005" name="3" temporalId="s17_3"><num value="3">(3)</num><leadIn>For the purposes of this Ordinance, any licensed pilot who—</leadIn><paragraph id="ID_1438414065228_013" name="a" temporalId="s17_3_a"><num value="a">(a)</num><content>without reasonable excuse, refuses to pilot a ship if he is engaged to do
+                    so, or is directed to do so by the Authority;</content></paragraph><paragraph id="ID_1438414065228_021" name="b" temporalId="s17_3_b"><num value="b">(b)</num><content>without reasonable excuse, delays in piloting a ship which he is engaged to
+                    pilot;</content></paragraph><paragraph id="ID_1670224924603_001" name="ba" temporalId="s17_3_ba"><num value="ba">(ba)</num><content>without reasonable excuse, refuses to, when piloting a ship, be accompanied
+                    by a registered apprentice pilot (as defined by <ref>paragraph 2</ref> of the
+                    Pilotage Order (<ref href="/hk/cap84C">Cap. 84 sub. leg. C</ref>)) for, or in
+                    connection with, the apprenticeship concerned; <sourceNote>(Added <ref href="hk/2022/12">12 of 2022 s. 7</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438414065228_029" name="c" temporalId="s17_3_c"><num value="c">(c)</num><content>refuses to navigate a ship, which he is piloting, to any port or place
+                    within the waters of Hong Kong when directed to do so by the Authority, or
+                    requested to do so by the master or owner of the ship, unless he has reasonable
+                    grounds for believing that to do so would endanger the ship;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1985/29">29 of
+                            1985 s. 6</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438414065228_037" name="d" temporalId="s17_3_d"><num value="d">(d)</num><leadIn>leaves a ship which he is piloting—</leadIn><subparagraph id="ID_1438414065228_045" name="i" temporalId="s17_3_d_i"><num value="i">(i)</num><content>without the consent of the master of the ship before completing the
+                        pilotage service for which he was engaged; or</content></subparagraph><subparagraph id="ID_1438414065244_007" name="ii" temporalId="s17_3_d_ii"><num value="ii">(ii)</num><content>if he is piloting the ship on the direction of the Authority, without
+                        the consent of the Authority;</content></subparagraph></paragraph><paragraph id="ID_1438414065244_014" name="e" temporalId="s17_3_e"><num value="e">(e)</num><content>pilots a ship when he is under the influence of alcohol or drugs;</content></paragraph><paragraph id="ID_1438414065244_022" name="f" temporalId="s17_3_f"><num value="f">(f)</num><content>pilots a ship while his licence is suspended;</content></paragraph><paragraph id="ID_1438414065244_030" name="g" temporalId="s17_3_g"><num value="g">(g)</num><content>gives his licence to any other person for such other person’s use, whether
+                    on loan or otherwise; or</content></paragraph><paragraph id="ID_1438414065244_038" name="h" temporalId="s17_3_h"><num value="h">(h)</num><content>unnecessarily cuts or slips, or causes to be cut or slipped, any cable
+                    which forms part of the equipment of any ship,</content></paragraph><continued>shall be guilty of misconduct as a pilot.</continued></subsection></section><section id="ID_1438403567309_003" name="s18" reason="inEffect" startPeriod="2014-04-10" status="operational" temporalId="s18"><num value="18">18.</num><heading>Referral to board of discipline or holding of preliminary inquiry</heading><leadIn>Where—</leadIn><paragraph id="ID_1438414065291_012" name="a" temporalId="s18_a"><num value="a">(a)</num><content>any matter is reported to the Authority under <ref>section 17(1)</ref>; or</content></paragraph><paragraph id="ID_1438414065291_020" name="b" temporalId="s18_b"><num value="b">(b)</num><content>any accident occurs while a ship is being piloted by a licensed pilot,</content></paragraph><continued>the Authority may, where he thinks it necessary or expedient so to do,—</continued><paragraph id="ID_1438414065291_034" name="i" temporalId="s18_i"><num value="i">(i)</num><content>in case the matter or accident is, in his opinion, of a minor nature, appoint a board of discipline to examine the matter or accident, as the case may be; or</content></paragraph><paragraph id="ID_1438414065291_042" name="ii" temporalId="s18_ii"><num value="ii">(ii)</num><content>in case the matter or accident is, in his opinion, of a serious nature, appoint an officer of the Marine Department to hold a preliminary inquiry into the matter or accident, as the case may be.</content></paragraph><sourceNote>(Replaced <ref href="/hk/1993/36">36 of 1993 s. 8</ref>)</sourceNote></section><section id="ID_1438403567325_001" name="s18A" reason="inEffect" startPeriod="2014-04-10" status="operational" temporalId="s18A"><num value="18A">18A.</num><heading>Preliminary inquiry</heading><subsection id="ID_1438414065337_003" name="1" temporalId="s18A_1"><num value="1">(1)</num><content>The officer appointed under <ref>section 18</ref> or <ref>18B(2)(a)</ref> to hold a preliminary inquiry shall have the powers under <ref>section 115</ref> of the Merchant Shipping (Safety) Ordinance (<ref href="/hk/cap369">Cap. 369</ref>).</content></subsection><subsection id="ID_1438414065337_011" name="2" temporalId="s18A_2"><num value="2">(2)</num><content><ref>Section 116</ref> of the Merchant Shipping (Safety) Ordinance (<ref href="/hk/cap369">Cap. 369</ref>) shall apply to a preliminary inquiry held under <ref>section 18</ref> or <ref>18B(2)(a)</ref>.</content></subsection><subsection id="ID_1438414065337_019" name="3" temporalId="s18A_3"><num value="3">(3)</num><content>On completion of a preliminary inquiry, the officer who held the inquiry shall submit a written report thereof to the Authority.</content></subsection><sourceNote>(Added <ref href="/hk/1993/36">36 of 1993 s. 8</ref>)</sourceNote></section><section id="ID_1438403567325_003" name="s18B" reason="inEffect" startPeriod="2014-04-10" status="operational" temporalId="s18B"><num value="18B">18B.</num><heading>Board of discipline</heading><subsection id="ID_1438414065369_004" name="1" temporalId="s18B_1"><num value="1">(1)</num><leadIn>If, after considering the information referred to it by the Authority further to an appointment under <ref>section 18</ref>, a board of discipline considers that the matter or accident should be the subject of inquiry by a board of investigation, it may decide not to commence an examination and request the Authority to consider, in respect of such matter or accident, if—</leadIn><paragraph id="ID_1438414065369_012" name="a" temporalId="s18B_1_a"><num value="a">(a)</num><content>a preliminary inquiry, instead of an examination by a board of discipline, should be conducted; or</content></paragraph><paragraph id="ID_1438414065384_006" name="b" temporalId="s18B_1_b"><num value="b">(b)</num><content>a board of investigation should be appointed without going through a preliminary inquiry; or</content></paragraph><paragraph id="ID_1438414065384_014" name="c" temporalId="s18B_1_c"><num value="c">(c)</num><content>the board of discipline should proceed with an examination.</content></paragraph></subsection><subsection id="ID_1438414065384_021" name="2" temporalId="s18B_2"><num value="2">(2)</num><leadIn>Upon a request by a board of discipline under subsection (1)—</leadIn><paragraph id="ID_1438414065384_029" name="a" temporalId="s18B_2_a"><num value="a">(a)</num><content>where the Authority considers that the matter or accident should be the subject of a preliminary inquiry, the Authority shall direct that the board of discipline shall not commence an examination and shall appoint an officer to hold a preliminary inquiry into the matter or accident, as the case may be; or</content></paragraph><paragraph id="ID_1438414065384_037" name="b" temporalId="s18B_2_b"><num value="b">(b)</num><content>where the Authority considers that the matter or accident should be investigated by a board of investigation direct without first holding a preliminary inquiry, appoint a board of investigation in accordance with this Ordinance; or</content></paragraph><paragraph id="ID_1438414065400_006" name="c" temporalId="s18B_2_c"><num value="c">(c)</num><content>where the Authority considers that the matter or accident should be examined and processed by a board of discipline, the Authority shall direct that the board of discipline should proceed with the examination.</content></paragraph></subsection><subsection id="ID_1438414065400_013" name="3" temporalId="s18B_3"><num value="3">(3)</num><leadIn>If, after due examination following an appointment under <ref>section 18</ref> or <ref>19(1A)</ref> or a direction under subsection <ref>(2)(c)</ref>, a board of discipline is satisfied that a licensed pilot—</leadIn><paragraph id="ID_1438414065400_021" name="a" temporalId="s18B_3_a"><num value="a">(a)</num><content>has been guilty of misconduct as a pilot;</content></paragraph><paragraph id="ID_1438414065400_029" name="b" temporalId="s18B_3_b"><num value="b">(b)</num><content>has otherwise failed in, or neglected without reasonable excuse, his duties as a pilot; or</content></paragraph><paragraph id="ID_1438414065400_037" name="c" temporalId="s18B_3_c"><num value="c">(c)</num><content>is otherwise not a fit and proper person to be a licensed pilot of his present class or of the next higher class, as the case may be,</content></paragraph><continued>the board shall, after referring to the pilot’s record, recommend to the Authority that the Authority should—</continued><paragraph id="ID_1438414065415_005" name="i" temporalId="s18B_3_i"><num value="i">(i)</num><content>issue a pilot with a caution in writing; or</content></paragraph><paragraph id="ID_1438414065415_013" name="ii" temporalId="s18B_3_ii"><num value="ii">(ii)</num><content>issue a pilot with a warning in writing which shall be entered in his record but shall be removed 12 months after its entry; or</content></paragraph><paragraph id="ID_1438414065415_021" name="iii" temporalId="s18B_3_iii"><num value="iii">(iii)</num><content>issue a pilot with a reprimand in writing which shall be entered in his record permanently; or</content></paragraph><paragraph id="ID_1438414065415_029" name="iv" temporalId="s18B_3_iv"><num value="iv">(iv)</num><content>downgrade a pilot or defer his upgrading for a period as proposed by the board which period shall not exceed 12 months; or</content></paragraph><paragraph id="ID_1438414065415_037" name="v" temporalId="s18B_3_v"><num value="v">(v)</num><content>take any other action or no further action,</content></paragraph><continued>and the Authority may, on consideration of the recommendation of the board, take any action in accordance with paragraph (i), (ii), (iii), (iv) or (v) at his discretion.</continued></subsection><sourceNote>(Added <ref href="/hk/1993/36">36 of 1993 s. 8</ref>)</sourceNote></section><section id="ID_1438403567340_001" name="s19" reason="inEffect" startPeriod="2014-04-10" status="operational" temporalId="s19"><num value="19">19.</num><heading>Cancellation or suspension of licence after inquiry by board of investigation</heading><subsection id="ID_1438414065478_004" name="1" temporalId="s19_1"><num value="1">(1)</num><leadIn>If, on consideration of—</leadIn><paragraph id="ID_1438414065478_012" name="a" temporalId="s19_1_a"><num value="a">(a)</num><content>the report of the officer who held a preliminary inquiry under <ref>section
+                        18</ref> or <ref>18B(2)(a)</ref>;
+                    or</content></paragraph><paragraph id="ID_1438414065478_020" name="b" temporalId="s19_1_b"><num value="b">(b)</num><content>the report made after a preliminary inquiry under <ref>section 51</ref> of
+                    the Merchant Shipping Ordinance (<ref href="/hk/cap281">Cap.
+                        281</ref>),</content></paragraph><continued>the Authority considers that—</continued><paragraph id="ID_1438414065478_034" name="i" temporalId="s19_1_i"><num value="i">(i)</num><content>any matter reported to the Authority under <ref>section 17(1)</ref>; or</content></paragraph><paragraph id="ID_1438414065478_042" name="ii" temporalId="s19_1_ii"><num value="ii">(ii)</num><content>any accident which occurred while a ship was being piloted by a licensed pilot,</content></paragraph><continued>should be further investigated, the Authority shall appoint a board of investigation in accordance with this Ordinance.</continued></subsection><subsection id="ID_1438414065478_055" name="1A" temporalId="s19_1A"><num value="1A">(1A)</num><leadIn>If, on consideration of—</leadIn><paragraph id="ID_1438414065493_005" name="a" temporalId="s19_1A_a"><num value="a">(a)</num><content>the report of the officer who held a preliminary inquiry under <ref>section 18</ref> or <ref>18B(2)(a)</ref>; or</content></paragraph><paragraph id="ID_1438414065493_013" name="b" temporalId="s19_1A_b"><num value="b">(b)</num><content>the report made after a preliminary inquiry under <ref>section 51</ref> of the Merchant Shipping Ordinance (<ref href="/hk/cap281">Cap. 281</ref>),</content></paragraph><continued>the Authority considers that the matter or accident is in fact of a minor nature, the Authority may appoint a board of discipline to examine the matter of accident.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1993/36">36 of 1993 s. 9</ref>)</sourceNote></continued></subsection><subsection id="ID_1438414065493_026" name="2" temporalId="s19_2"><num value="2">(2)</num><leadIn>If, after due inquiry, a board of investigation appointed under subsection (1) or <ref>section 18B(2)(b)</ref> is satisfied that a licensed pilot—</leadIn><paragraph id="ID_1438414065493_034" name="a" temporalId="s19_2_a"><num value="a">(a)</num><content>has been guilty of misconduct as a pilot;</content></paragraph><paragraph id="ID_1438414065493_042" name="b" temporalId="s19_2_b"><num value="b">(b)</num><content>has otherwise failed in, or neglected without reasonable excuse, his duties as a pilot; or</content></paragraph><paragraph id="ID_1438414065493_050" name="c" temporalId="s19_2_c"><num value="c">(c)</num><content>is otherwise not a fit and proper person to be a licensed pilot,</content></paragraph><continued>the board shall, after referring to the pilot’s record, recommend to the Authority that the licence of that licensed pilot be cancelled or suspended, and the Authority may, on consideration of the recommendation of the board, cancel the licence or suspend the same for such period as he thinks fit.</continued></subsection><sourceNote>(Amended <ref href="/hk/1993/36">36 of 1993 s. 9</ref>)</sourceNote></section><section id="ID_1438403567356_002" name="s19A" reason="inEffect" startPeriod="2022-07-01" status="operational" temporalId="s19A"><num value="19A">19A.</num><heading>Remuneration of member of board of investigation</heading><subsection id="ID_1438414065540_041" name="1" temporalId="s19A_1"><num value="1">(1)</num><content>A member of a board of investigation is to be remunerated at a rate that takes account of the amount of work done and time spent by the member on the business of the board.</content></subsection><subsection id="ID_1438414065556_005" name="2" temporalId="s19A_2"><num value="2">(2)</num><content>The remuneration is to be determined by the
+                Secretary
+                for Transport and Logistics either generally from time to time or
+                specifically in a particular
+                    case.<inline class="width_3"></inline><sourceNote>(Amended <ref href="/hk/2022/ln144">L.N. 144 of
+                        2022</ref>)</sourceNote></content></subsection><subsection id="ID_1438414065556_013" name="3" temporalId="s19A_3"><num value="3">(3)</num><content>Nothing in this section authorizes the payment of remuneration to any person employed full time in any office of emolument under the Government.</content></subsection><sourceNote>(Added <ref href="/hk/2013/2">2 of 2013 s. 8</ref>)</sourceNote></section><section id="ID_1438403567356_004" name="s20" reason="inEffect" startPeriod="2022-12-02" status="operational" temporalId="s20"><num value="20">20.</num><heading>Appeal against
+            certain
+            decisions under <ref>section 18B </ref>or<ref>
+                19</ref></heading><sourceNote>(Amended <ref href="hk/2022/12">12 of 2022 s. 8</ref>)</sourceNote><subsection id="ID_1438414065587_004" name="1" temporalId="s20_1"><num value="1">(1)</num><leadIn>A licensed pilot—</leadIn><paragraph id="ID_1438414065587_012" name="a" temporalId="s20_1_a"><num value="a">(a)</num><content>who has been issued a caution, warning, reprimand or whose licence has been
+                    downgraded, or the upgrading of such licence has been deferred under
+                        <ref>section 18B(3)</ref>; or</content></paragraph><paragraph id="ID_1438414065587_020" name="b" temporalId="s20_1_b"><num value="b">(b)</num><content>whose licence has been cancelled or suspended under <ref>section
+                        19(2)</ref>,</content></paragraph><continued>may appeal against the caution, warning, reprimand, downgrading, deferred
+                upgrading, cancellation or suspension, as the case may be, to a judge by lodging a
+                notice in writing with the Registrar of the High Court within 14 days after he was
+                notified of the caution, warning, reprimand, downgrading, deferred upgrading,
+                cancellation or suspension (as the case may be).<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/1993/36">36 of 1993 s. 10</ref>. Amended <ref href="/hk/1998/25">25 of 1998 s. 2</ref>)</sourceNote></continued></subsection><subsection id="ID_1438414065587_033" name="2" temporalId="s20_2"><num value="2">(2)</num><content>On an appeal under subsection (1), the judge may confirm, reverse or vary the
+                decision of the Authority or may make such other order as he thinks fit, including
+                an order that the case be referred for further consideration by the board of
+                discipline or board of investigation.<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/1993/36">36 of 1993 s.
+                    10</ref>)</sourceNote></content></subsection><subsection id="ID_1438414065603_005" name="3" temporalId="s20_3"><num value="3">(3)</num><content>The Chief Justice may make rules regulating the practice and procedure on any
+                such appeal.</content></subsection><subsection id="ID_1438414065603_013" name="4" temporalId="s20_4"><num value="4">(4)</num><content>Subject to any rules made under subsection (3), the practice and procedure on
+                any such appeal shall be such as the judge may determine.</content></subsection></section></part><part id="ID_1438403567372_001" name="P6" reason="inEffect" startPeriod="2014-04-10" status="operational" temporalId="P6"><num value="6">Part 6</num><heading>Supplementary and Miscellaneous</heading><section id="ID_1438403567372_003" name="s21" reason="inEffect" startPeriod="2014-04-10" status="operational" temporalId="s21"><num value="21">21.</num><heading>Power of Chief Executive in Council to make regulations</heading><leadIn>The Chief Executive in Council may make regulations providing for all or any of the following matters—  <sourceNote>(Amended <ref href="/hk/1999/64">64 of 1999 s. 3</ref>)</sourceNote></leadIn><paragraph id="ID_1438414065665_012" name="a" temporalId="s21_a"><num value="a">(a)</num><content>the conduct and duties of licensed pilots;</content></paragraph><paragraph id="ID_1438414065665_020" name="b" temporalId="s21_b"><num value="b">(b)</num><content>empowering the Authority to give directions to licensed pilots;</content></paragraph><paragraph id="ID_1438414065665_028" name="c" temporalId="s21_c"><num value="c">(c)</num><content>the general supervision of pilotage and pilots in Hong Kong by the Authority;</content></paragraph><paragraph id="ID_1438414065665_036" name="d" temporalId="s21_d"><num value="d">(d)</num><content>the registration of apprentice pilots;</content></paragraph><paragraph id="ID_1438414065665_044" name="e" temporalId="s21_e"><num value="e">(e)</num><content>the manner in which applications for licences and the renewal thereof shall be made;</content></paragraph><paragraph id="ID_1438414065665_052" name="f" temporalId="s21_f"><num value="f">(f)</num><content>the composition and powers of boards of discipline;<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/1993/36">36 of 1993 s. 11</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438414065665_060" name="g" temporalId="s21_g"><num value="g">(g)</num><content>the composition of boards of investigation;</content></paragraph><paragraph id="ID_1438414065665_068" name="h" temporalId="s21_h"><num value="h">(h)</num><content>the powers of boards of investigation and the procedure on an investigation by a board of investigation;</content></paragraph><paragraph id="ID_1438414065681_006" name="i" temporalId="s21_i"><num value="i">(i)</num><content>anything which is to be or may be prescribed;</content></paragraph><paragraph id="ID_1438414065681_014" name="j" temporalId="s21_j"><num value="j">(j)</num><content>the better carrying out of this Ordinance.</content></paragraph></section><section id="ID_1438403567387_002" name="s22" reason="inEffect" startPeriod="2014-04-10" status="operational" temporalId="s22"><num value="22">22.</num><heading>Power of Authority to make orders</heading><leadIn>The Authority may, after consultation with the Committee, by order published in the Gazette provide for—</leadIn><paragraph id="ID_1438414065712_012" name="a" temporalId="s22_a"><num value="a">(a)</num><content>the amount of pilotage dues;</content></paragraph><paragraph id="ID_1438414065712_020" name="b" temporalId="s22_b"><num value="b">(b)</num><content>the fees and expenses payable to, and the maintenance of, licensed pilots carried outside Hong Kong;</content></paragraph><paragraph id="ID_1438414065712_028" name="c" temporalId="s22_c"><num value="c">(c)</num><content>the registration of apprentice pilots and the qualifications and experience of applicants for registration;</content></paragraph><paragraph id="ID_1438414065712_036" name="d" temporalId="s22_d"><num value="d">(d)</num><content>the remuneration of apprentice pilots and liability for payment thereof;</content></paragraph><paragraph id="ID_1438414065712_044" name="e" temporalId="s22_e"><num value="e">(e)</num><content>the training and examination of apprentice pilots;</content></paragraph><paragraph id="ID_1438414065712_052" name="f" temporalId="s22_f"><num value="f">(f)</num><content>requiring apprentice pilots to keep a record of training;</content></paragraph><paragraph id="ID_1438414065727_006" name="g" temporalId="s22_g"><num value="g">(g)</num><content>the qualifications and experience of applicants for a licence;</content></paragraph><paragraph id="ID_1438414065727_014" name="h" temporalId="s22_h"><num value="h">(h)</num><content>the classes of pilotage;</content></paragraph><paragraph id="ID_1438414065727_022" name="i" temporalId="s22_i"><num value="i">(i)</num><content>the training and examination for each class of pilotage;</content></paragraph><paragraph id="ID_1438414065727_030" name="j" temporalId="s22_j"><num value="j">(j)</num><content>standards of competency for each class of pilotage;</content></paragraph><paragraph id="ID_1438414065727_038" name="k" temporalId="s22_k"><num value="k">(k)</num><content>the pilotage services which may be carried out by each class of pilotage.</content></paragraph></section><section id="ID_1438403567387_004" name="s23" reason="inEffect" startPeriod="2014-04-10" status="operational" temporalId="s23"><num value="23">23.</num><heading>Exemption of Authority and Government from liability for pilot</heading><content>Neither the Authority nor the Government shall be liable for any death, injury, loss or damage caused by or arising out of any act or omission of a licensed pilot.</content></section><section id="ID_1438403567403_001" name="s24" reason="inEffect" startPeriod="2014-04-10" status="operational" temporalId="s24"><num value="24">24.</num><heading>Liability of owner or master in the case of a vessel under pilotage</heading><content>The owner or master of a vessel navigating under circumstances in which pilotage is compulsory shall be answerable for any loss or damage caused by the vessel or by any fault of the navigation of the vessel in the same manner as he would if pilotage were not compulsory.</content></section><section id="ID_1438403567403_003" name="s24A" reason="inEffect" startPeriod="2014-04-10" status="operational" temporalId="s24A"><num value="24A">24A.</num><heading>Liability of licensed pilot for neglect or want of skill</heading><content>A licensed pilot shall not be liable in damages for neglect or want of skill on his part while piloting a ship for any amount exceeding in the aggregate the sum of $1,000 and the amount of pilotage dues payable in respect of pilotage services rendered by him for that ship.</content><sourceNote>(Added <ref href="/hk/1982/55">55 of 1982 s. 2</ref>)</sourceNote></section><section id="ID_1438403567403_005" name="s25" reason="inEffect" startPeriod="2014-04-10" status="operational" temporalId="s25"><num value="25">25.</num><heading>Pilot to be notified of cancellation or suspension of licence, etc.</heading><subsection id="ID_1438414065852_004" name="1" temporalId="s25_1"><num value="1">(1)</num><leadIn>If the licence of a licensed pilot is cancelled, suspended or downgraded or the
+                upgrading of such licence is deferred, the Authority shall—</leadIn><paragraph id="ID_1438414065852_012" name="a" temporalId="s25_1_a"><num value="a">(a)</num><content>inform the pilot thereof in writing; and</content></paragraph><paragraph id="ID_1438414065852_020" name="b" temporalId="s25_1_b"><num value="b">(b)</num><content>record the cancellation, suspension or downgrading in the register.<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/1993/36">36
+                            of 1993 s. 12</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438414065852_027" name="2" temporalId="s25_2"><num value="2">(2)</num><content>A pilot whose licence is cancelled, suspended or downgraded shall deposit his
+                licence with the Authority within 3 days after he is notified of the cancellation,
+                suspension or downgrading under subsection <ref>(1)(a)</ref>, unless the licence has
+                been so deposited in accordance with <ref>section 10(4)</ref>.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1993/36">36 of
+                        1993 s. 12</ref>)</sourceNote>
+                </content></subsection><subsection id="ID_1524103354993_001" name="2A" temporalId="s25_2A"><num value="2A">(2A)</num><content>After a licensed pilot whose licence is downgraded has deposited his licence
+                with the Authority under subsection (2), the Authority shall, as soon as it is
+                practicable issue him with a new licence of the appropriate class of pilotage to
+                expire on the date on which his original licence would expire.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1993/36">36 of 1993
+                        s. 12</ref>)</sourceNote></content></subsection><subsection id="ID_1438414065868_012" name="3" temporalId="s25_3"><num value="3">(3)</num><content>Any person who contravenes subsection (2) shall be guilty of an offence and
+                shall be liable on conviction to a fine at level 1.</content></subsection><sourceNote>(Amended <ref href="/hk/2014/er2">E.R. 2 of 2014</ref>)</sourceNote></section></part><schedule id="ID_1438403567418_002" name="sch1" reason="inEffect" startPeriod="2022-03-31" status="operational" temporalId="sch1"><num value="1">Schedule 1</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap84/s10C">ss. 10C</ref> &amp; <ref href="/hk/cap84/s10D">10D</ref>]</note><heading>Ships subject to Compulsory Pilotage</heading><section id="ID_1438414065899_026" name="s1" temporalId="sch1_s1" class="no_header"><num value="1">1.</num><content>A ship of 3
+                000 gross tonnage or over.</content></section><section id="ID_1438414065899_034" name="s2" temporalId="sch1_s2" class="no_header"><num value="2">2.</num><content>A ship of 1
+                000 gross tonnage or over proceeding to or from any wharf
+                specified in Part
+                1
+                of <ref>Schedule 1</ref> to the Dangerous Goods (Shipping) Regulation 2012 (<ref href="/hk/cap295F">Cap. 295 sub. leg. F</ref>). <sourceNote>(Amended <ref href="hk/2021/29">29 of 2021 s. 17</ref>)</sourceNote></content></section><section id="ID_1438414065915_004" name="s3" temporalId="sch1_s3" class="no_header"><num value="3">3.</num><leadIn>A ship of 1
+                000 gross tonnage or over carrying—
+                <sourceNote>(Amended <ref href="/hk/2005/10">10 of 2005 s. 208</ref>; <ref href="hk/2021/29">29 of 2021 s.
+                17</ref>)</sourceNote></leadIn><subsection id="ID_1643171435252_001" name="a" temporalId="sch1_s3_a"><num value="a">(a)</num><content>Class 1 dangerous goods;</content></subsection><subsection id="ID_1643171435252_002" name="b" temporalId="sch1_s3_b"><num value="b">(b)</num><content>Class 2 dangerous goods;</content></subsection><subsection id="ID_1643171435252_003" name="c" temporalId="sch1_s3_c"><num value="c">(c)</num><content>Class 3 dangerous goods; or</content></subsection><subsection id="ID_1643171435252_004" name="d" temporalId="sch1_s3_d"><num value="d">(d)</num><content>Class 3A dangerous goods,</content></subsection><continued>as defined by <ref>section 2</ref> of the Dangerous Goods (Shipping)
+                Regulation 2012 (<ref href="/hk/cap295F">Cap. 295 sub. leg. F</ref>).
+                    <sourceNote>(Amended <ref href="hk/2021/29">29 of 2021 s. 17</ref>)</sourceNote></continued></section><section id="ID_1438414065915_012" name="s4" temporalId="sch1_s4" class="no_header"><num value="4">4.</num><content>A ship of 1
+                000 gross tonnage or over proceeding to or from a Government
+                mooring buoy.</content></section><section id="ID_1438414065915_020" name="s5" temporalId="sch1_s5" class="no_header"><num value="5">5.</num><leadIn>A ship of 300 gross tonnage or over which—
+                <sourceNote>(Amended <ref href="/hk/2013/2">2 of 2013 s.
+                9</ref>)</sourceNote></leadIn><subsection id="ID_1438414065915_030" name="a" temporalId="sch1_s5_a"><num value="a">(a)</num><content>is, for any reason, unable to proceed under its own power, manoeuvre with
+                    its own steering gear, or work with its own anchors;</content></subsection><subsection id="ID_1438414065930_001" name="b" temporalId="sch1_s5_b"><num value="b">(b)</num><content>has any part of the hull structure removed, or under repair, which may
+                    affect the water-tight integrity of the ship; or</content></subsection><subsection id="ID_1438414065930_010" name="c" temporalId="sch1_s5_c"><num value="c">(c)</num><content>is at risk of causing injury to persons or damage to property, any other
+                    ship or the environment by virtue of the condition of the ship or the nature or
+                    condition of its
+                    cargo.</content></subsection></section><section id="ID_1438414065930_016" name="s6" temporalId="sch1_s6" class="no_header"><num value="6">6.</num><content>A gas carrier as defined in <ref>regulation 2</ref> of the Merchant Shipping
+                (Safety) (Gas Carriers) Regulations (<ref href="/hk/cap369Z">Cap. 369 sub. leg.
+                    Z</ref>).<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1995/ln160">L.N. 160 of 1995</ref>)</sourceNote></content><sourceNote>(<ref>Schedule 1</ref> added <ref href="/hk/1985/29">29 of 1985 s. 7</ref>. Amended <ref href="/hk/1987/ln163">L.N. 163 of 1987</ref>; <ref href="/hk/1995/ln160">L.N. 160 of 1995</ref>; <ref href="/hk/2013/2">2 of 2013
+                    s. 9</ref>)</sourceNote></section></schedule><schedule id="ID_1438403567434_001" name="sch2" reason="inEffect" startPeriod="2025-03-21" status="operational" temporalId="sch2"><num value="2">Schedule
+            2</num><note role="crossReferences" type="inline">[<ref href="/hk/cap84/s10A">ss. 10A</ref> &amp;
+                <ref href="/hk/cap84/s10F">10F</ref>]</note><heading>Pilot Boarding
+            Stations</heading><content><table xmlns="http://www.w3.org/1999/xhtml" width="100%" class="repeat_header">
+                <colgroup>
+                    <col width="19.6%"></col>
+                    <col width="21.6%"></col>
+                    <col width="16.6%"></col>
+                    <col width="19.8%"></col>
+                    <col width="22.4%"></col>
+                </colgroup>
+                <thead>
+                    <tr class="break_rows">
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="below_space_between_line_12">Column 1</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center below_space_between_line_12">Column 2</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5" colspan="3">
+                            <p class="left_indent_3 align_center below_space_between_line_12">Column
+                                3</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="below_space_between_line_12">Item</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_center below_space_between_line_12">Description</p>
+                        </td>
+                        <td class="align_left cellpadding_left_5 cellpadding_right_5" colspan="3">
+                            <p class="left_indent_3 align_center below_space_between_line_8">Position</p>
+                        </td>
+                    </tr>
+                </thead>
+                <tr class="break_rows">
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5" rowspan="3">
+                        <p>1.</p>
+                    </td>
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5" rowspan="3">
+                        <p>Ha Mei Wan, west of Lamma Island</p>
+                    </td>
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5" colspan="3">
+                        <p class="left_indent_3 align_justified">An area of 0.5 nautical mile radius
+                            centred by position</p>
+                    </td>
+                </tr>
+                <tr class="break_rows">
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                        <p class="left_indent_3">latitude</p>
+                    </td>
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                        <p class="align_right">22°11.908΄</p>
+                    </td>
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                        <p class="left_indent_3">north,</p>
+                    </td>
+                </tr>
+                <tr class="break_rows">
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                        <p class="left_indent_3">longitude</p>
+                    </td>
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                        <p class="align_right">114°05.447΄</p>
+                    </td>
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                        <p class="left_indent_3">east.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                        <p></p>
+                    </td>
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                        <p></p>
+                    </td>
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5" colspan="3">
+                        <p></p>
+                    </td>
+                </tr>
+                <tr class="break_rows">
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5" rowspan="3">
+                        <p>2.</p>
+                    </td>
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5" rowspan="3">
+                        <p>Turning buoy in the Tathong Channel</p>
+                    </td>
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5" colspan="3">
+                        <p class="left_indent_3 align_justified">An area of 0.4 nautical mile radius
+                            centred by position</p>
+                    </td>
+                </tr>
+                <tr class="break_rows">
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                        <p class="left_indent_3">latitude</p>
+                    </td>
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                        <p class="align_right">22°15.908΄</p>
+                    </td>
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                        <p class="left_indent_3">north,</p>
+                    </td>
+                </tr>
+                <tr class="break_rows">
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                        <p class="left_indent_3">longitude</p>
+                    </td>
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                        <p class="align_right">114°15.814΄</p>
+                    </td>
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                        <p class="left_indent_3">east.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                        <p></p>
+                    </td>
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                        <p></p>
+                    </td>
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5" colspan="3">
+                        <p></p>
+                    </td>
+                </tr>
+                <tr class="break_rows">
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5" rowspan="3">
+                        <p>3.</p>
+                    </td>
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5" rowspan="3">
+                        <p>Lam Kok Tsui (Black Point) in Urmston Road</p>
+                    </td>
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5" colspan="3">
+                        <p class="left_indent_3 align_justified">An area of
+                            1.0
+                            nautical mile radius centred by position</p>
+                    </td>
+                </tr>
+                <tr class="break_rows">
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                        <p class="left_indent_3">latitude</p>
+                    </td>
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                        <p class="align_right">22°24.925΄</p>
+                    </td>
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                        <p class="left_indent_3">north,</p>
+                    </td>
+                </tr>
+                <tr class="break_rows">
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                        <p class="left_indent_3">longitude</p>
+                    </td>
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                        <p class="align_right">113°53.347΄</p>
+                    </td>
+                    
+                    <td class="align_left cellpadding_left_5">
+                        <p class="left_indent_3">east.
+                            <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Amended</sourceNote></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                        <p></p>
+                    </td>
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                        <p></p>
+                    </td>
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5" colspan="3">
+                        
+                        
+                        <p class="left_indent_3"><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/2025/ln2"><i>L.N. 2 of 2025</i></ref><i>)</i></p>
+                        
+                        
+                    </td>
+                </tr>
+                <tr class="break_rows">
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5" rowspan="3">
+                        <p>4.</p>
+                    </td>
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5" rowspan="3">
+                        <p>Entrance to Tolo Channel</p>
+                    </td>
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5" colspan="3">
+                        <p class="left_indent_3 align_justified">An area of 0.5 nautical mile radius
+                            centred by position</p>
+                    </td>
+                </tr>
+                <tr class="break_rows">
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                        <p class="left_indent_3">latitude</p>
+                    </td>
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                        <p class="align_right">22°29.508΄</p>
+                    </td>
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                        <p class="left_indent_3">north,</p>
+                    </td>
+                </tr>
+                <tr class="break_rows">
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                        <p class="left_indent_3">longitude</p>
+                    </td>
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                        <p class="align_right">114°19.848΄</p>
+                    </td>
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                        <p class="left_indent_3">east.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                        <p></p>
+                    </td>
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                        <p></p>
+                    </td>
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5" colspan="3">
+                        <p></p>
+                    </td>
+                </tr>
+                <tr class="break_rows">
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5" rowspan="3">
+                        <p>5.</p>
+                    </td>
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5" rowspan="3">
+                        <p>Ngan Chau in East Lamma Channel</p>
+                    </td>
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5" colspan="3">
+                        <p class="left_indent_3 align_justified">An area of 0.5 nautical mile radius
+                            centred by position</p>
+                    </td>
+                </tr>
+                <tr class="break_rows">
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                        <p class="left_indent_3">latitude</p>
+                    </td>
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                        <p class="align_right">22°12.958΄</p>
+                    </td>
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                        <p class="left_indent_3">north,</p>
+                    </td>
+                </tr>
+                <tr class="break_rows">
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                        <p class="left_indent_3">longitude</p>
+                    </td>
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                        <p class="align_right">114°09.847΄</p>
+                    </td>
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                        <p class="left_indent_3">east.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                        <p></p>
+                    </td>
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                        <p></p>
+                    </td>
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5" colspan="3">
+                        <p></p>
+                    </td>
+                </tr>
+                <tr class="break_rows">
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5" rowspan="3">
+                        <p>6.</p>
+                    </td>
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5" rowspan="3">
+                        <p>Ping Chau in Mirs Bay</p>
+                    </td>
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5" colspan="3">
+                        <p class="left_indent_3 align_justified">An area of 0.5 nautical mile radius
+                            centred by position</p>
+                    </td>
+                </tr>
+                <tr class="break_rows">
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                        <p class="left_indent_3">latitude</p>
+                    </td>
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                        <p class="align_right">22°32.800΄</p>
+                    </td>
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                        <p class="left_indent_3">north,</p>
+                    </td>
+                </tr>
+                <tr class="break_rows">
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                        <p class="left_indent_3">longitude</p>
+                    </td>
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                        <p class="align_right">114°23.600΄</p>
+                    </td>
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                        <p class="left_indent_3">east.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                        <p></p>
+                    </td>
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                        <p></p>
+                    </td>
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5" colspan="3">
+                        <p></p>
+                    </td>
+                </tr>
+                <tr class="break_rows">
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5" rowspan="3">
+                        <p>7.</p>
+                    </td>
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5" rowspan="3">
+                        <p>Crooked Island in Mirs Bay</p>
+                    </td>
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5" colspan="3">
+                        <p class="left_indent_3 align_justified">An area of 0.5 nautical mile radius
+                            centred by position</p>
+                    </td>
+                </tr>
+                <tr class="break_rows">
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                        <p class="left_indent_3">latitude</p>
+                    </td>
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                        <p class="align_right">22°33.500΄</p>
+                    </td>
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                        <p class="left_indent_3">north,</p>
+                    </td>
+                </tr>
+                <tr class="break_rows">
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                        <p class="left_indent_3">longitude</p>
+                    </td>
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                        <p class="align_right">114°20.200΄</p>
+                    </td>
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                        <p class="left_indent_3">east.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                        <p></p>
+                    </td>
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                        <p></p>
+                    </td>
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5" colspan="3">
+                        <p></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                        <p></p>
+                    </td>
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                        <p></p>
+                    </td>
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5" colspan="3">
+                        <p></p>
+                    </td>
+                </tr>
+                <tr class="break_rows">
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5" rowspan="3">
+                        <p class="align_justified">8.</p>
+                    </td>
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5" rowspan="3">
+                        <p>Shek Ngau Chau in Mirs Bay</p>
+                    </td>
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5" colspan="3">
+                        <p class="left_indent_3 align_justified">An area of 0.5 nautical mile radius
+                            centred by position</p>
+                    </td>
+                </tr>
+                <tr class="break_rows">
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                        <p class="left_indent_3">latitude</p>
+                    </td>
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                        <p class="align_right">22°29.700΄</p>
+                    </td>
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                        <p class="left_indent_3">north,</p>
+                    </td>
+                </tr>
+                <tr class="break_rows">
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                        <p class="left_indent_3">longitude</p>
+                    </td>
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                        <p class="align_right">114°26.540΄</p>
+                    </td>
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                        <p class="left_indent_3 below_space_between_line_12">east.</p>
+                    </td>
+                </tr>
+                
+                
+                <tr class="break_rows">
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5" rowspan="3">
+                        <p class="align_justified">9.</p>
+                    </td>
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5" rowspan="3">
+                        <p>South of Cheung Chau Island</p>
+                    </td>
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5" colspan="3">
+                        <p class="left_indent_3 align_justified">An area of 0.7 nautical mile radius
+                            centred by position</p>
+                    </td>
+                </tr>
+                <tr class="break_rows">
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                        <p class="left_indent_3">latitude</p>
+                    </td>
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                        <p class="align_right">22°09.663΄</p>
+                    </td>
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                        <p class="left_indent_3">north,</p>
+                    </td>
+                </tr>
+                <tr class="break_rows">
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                        <p class="left_indent_3">longitude</p>
+                    </td>
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                        <p class="align_right">114°03.055΄</p>
+                    </td>
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                        <p class="left_indent_3 ">east. <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Added </sourceNote></p>
+                    </td>
+                </tr>
+                <tr class="break_rows">
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5"></td>
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5"></td>
+                    <td class="align_left cellpadding_left_5 cellpadding_right_5" colspan="3">
+                        <p class="left_indent_3"><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/2023/ln27"><i>L.N. 27 of
+                                    2023</i></ref><i>)</i></p>
+                    </td>
+                </tr>
+                
+                
+            </table><note class="align_justified left_indent_40 first_line_indent_-34">Note:<inline class="width_7"> </inline>In this Schedule, the geographical co-ordinates of a
+                position are based on the World Geodetic System 1984 (WGS 84).</note></content><sourceNote>(<ref>Schedule 2</ref> replaced <ref href="hk/2022/12">12 of 2022 s.
+        9</ref>)</sourceNote></schedule><schedule id="ID_1438403567450_001" name="sch3" reason="inEffect" startPeriod="2024-12-06" status="operational" temporalId="sch3"><num value="3">Schedule 3</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap84/s10A">ss.
+                10A</ref> &amp; <ref href="/hk/cap84/s10F">10F</ref>]</note><heading>Specified
+            Anchorages</heading><section id="ID_1438414066039_012" name="s1" temporalId="sch3_s1" class="no_header"><num value="1">1.</num><content>Urmston Road Anchorage </content><content>The area of the waters of Hong Kong bounded by straight lines joining the
+                following
+                    positions—<table xmlns="http://www.w3.org/1999/xhtml" class="left_indent_56" width="100%">
+                    <colgroup>
+                        <col width="10%"></col>
+                        <col width="18%"></col>
+                        <col width="25%"></col>
+                        <col width="47%"></col>
+                    </colgroup>
+                    <tbody>
+                        <tr>
+                            <td class="align_right cellpadding_right_9">(i)</td>
+                            <td>
+                                <p class="align_justified left_indent_2 first_line_indent_0">latitude</p>
+                                <p class="align_justified left_indent_2 first_line_indent_0">longitude</p>
+                            </td>
+                            <td>
+                                <p class="align_right">22°24.909´</p>
+                                <p class="align_right">113°52.647´</p>
+                            </td>
+                            <td>
+                                <p class="align_justified left_indent_13 first_line_indent_0">north,</p>
+                                <p class="align_justified left_indent_13 first_line_indent_0">east;</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="align_right cellpadding_right_9">(ii)</td>
+                            <td>
+                                <p class="align_justified left_indent_2 first_line_indent_0">latitude</p>
+                                <p class="align_justified left_indent_2 first_line_indent_0">longitude</p>
+                            </td>
+                            <td>
+                                <p class="align_right">22°24.909´</p>
+                                <p class="align_right">113°53.147´</p>
+                            </td>
+                            <td>
+                                <p class="align_justified left_indent_13 first_line_indent_0">north,</p>
+                                <p class="align_justified left_indent_13 first_line_indent_0">east;</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="align_right cellpadding_right_9">(iii)</td>
+                            <td>
+                                <p class="align_justified left_indent_2 first_line_indent_0">latitude</p>
+                                <p class="align_justified left_indent_2 first_line_indent_0">longitude</p>
+                            </td>
+                            <td>
+                                <p class="align_right">22°23.709´</p>
+                                <p class="align_right">113°53.447´</p>
+                            </td>
+                            <td>
+                                <p class="align_justified left_indent_13 first_line_indent_0">north,</p>
+                                <p class="align_justified left_indent_13 first_line_indent_0">east;</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="align_right cellpadding_right_9">(iv)</td>
+                            <td>
+                                <p class="align_justified left_indent_2 first_line_indent_0">latitude</p>
+                                <p class="align_justified left_indent_2 first_line_indent_0">longitude</p>
+                            </td>
+                            <td>
+                                <p class="align_right">22°23.709´</p>
+                                <p class="align_right">113°52.947´</p>
+                            </td>
+                            <td>
+                                <p class="align_justified left_indent_13 first_line_indent_0">north,</p>
+                                <p class="align_justified left_indent_13 first_line_indent_0">east.</p>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table></content></section><section id="ID_1438414066055_012" name="s2" temporalId="sch3_s2" class="no_header"><num value="2">2.</num><content>South-east Lamma Anchorage</content><content>The area of the waters of Hong Kong bounded by straight lines joining the
+                following
+                    positions—<table xmlns="http://www.w3.org/1999/xhtml" class="left_indent_56" width="100%">
+                    <colgroup>
+                        <col width="10%"></col>
+                        <col width="18%"></col>
+                        <col width="25%"></col>
+                        <col width="47%"></col>
+                    </colgroup>
+                    <tbody>
+                        <tr>
+                            <td class="align_right cellpadding_right_9">(i)</td>
+                            <td>
+                                <p class="align_justified left_indent_2 first_line_indent_0">latitude</p>
+                                <p class="align_justified left_indent_2 first_line_indent_0">longitude</p>
+                            </td>
+                            <td>
+                                <p class="align_right">22°10.308´</p>
+                                <p class="align_right">114°10.147´</p>
+                            </td>
+                            <td>
+                                <p class="align_justified left_indent_13 first_line_indent_0">north,</p>
+                                <p class="align_justified left_indent_13 first_line_indent_0">east;</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="align_right cellpadding_right_9">(ii)</td>
+                            <td>
+                                <p class="align_justified left_indent_2 first_line_indent_0">latitude</p>
+                                <p class="align_justified left_indent_2 first_line_indent_0">longitude</p>
+                            </td>
+                            <td>
+                                <p class="align_right">22°09.408´</p>
+                                <p class="align_right">114°10.147´</p>
+                            </td>
+                            <td>
+                                <p class="align_justified left_indent_13 first_line_indent_0">north,</p>
+                                <p class="align_justified left_indent_13 first_line_indent_0">east;</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="align_right cellpadding_right_9">(iii)</td>
+                            <td>
+                                <p class="align_justified left_indent_2 first_line_indent_0">latitude</p>
+                                <p class="align_justified left_indent_2 first_line_indent_0">longitude</p>
+                            </td>
+                            <td>
+                                <p class="align_right">22°09.408´</p>
+                                <p class="align_right">114°09.147´</p>
+                            </td>
+                            <td>
+                                <p class="align_justified left_indent_13 first_line_indent_0">north,</p>
+                                <p class="align_justified left_indent_13 first_line_indent_0">east;</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="align_right cellpadding_right_9">(iv)</td>
+                            <td>
+                                <p class="align_justified left_indent_2 first_line_indent_0">latitude</p>
+                                <p class="align_justified left_indent_2 first_line_indent_0">longitude</p>
+                            </td>
+                            <td>
+                                <p class="align_right">22°10.308´</p>
+                                <p class="align_right">114°09.147´</p>
+                            </td>
+                            <td>
+                                <p class="align_justified left_indent_13 first_line_indent_0">north,</p>
+                                <p class="align_justified left_indent_13 first_line_indent_0">east.</p>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table></content></section><section id="ID_1438414066055_028" name="s3" temporalId="sch3_s3" class="no_header"><num value="3">3.</num><content>South Lamma Dangerous Goods Anchorage</content><content>The area of the waters of Hong Kong bounded by straight lines joining the
+                following
+                    positions—<table xmlns="http://www.w3.org/1999/xhtml" class="left_indent_56" width="100%">
+                    <colgroup>
+                        <col width="10%"></col>
+                        <col width="18%"></col>
+                        <col width="25%"></col>
+                        <col width="47%"></col>
+                    </colgroup>
+                    <tbody>
+                        <tr>
+                            <td class="align_right cellpadding_right_9">(i)</td>
+                            <td>
+                                <p class="align_justified left_indent_2 first_line_indent_0">latitude</p>
+                                <p class="align_justified left_indent_2 first_line_indent_0">longitude</p>
+                            </td>
+                            <td>
+                                <p class="align_right">22°10.308´</p>
+                                <p class="align_right">114°08.947´</p>
+                            </td>
+                            <td>
+                                <p class="align_justified left_indent_13 first_line_indent_0">north,</p>
+                                <p class="align_justified left_indent_13 first_line_indent_0">east;</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="align_right cellpadding_right_9">(ii)</td>
+                            <td>
+                                <p class="align_justified left_indent_2 first_line_indent_0">latitude</p>
+                                <p class="align_justified left_indent_2 first_line_indent_0">longitude</p>
+                            </td>
+                            <td>
+                                <p class="align_right">22°09.408´</p>
+                                <p class="align_right">114°08.947´</p>
+                            </td>
+                            <td>
+                                <p class="align_justified left_indent_13 first_line_indent_0">north,</p>
+                                <p class="align_justified left_indent_13 first_line_indent_0">east;</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="align_right cellpadding_right_9">(iii)</td>
+                            <td>
+                                <p class="align_justified left_indent_2 first_line_indent_0">latitude</p>
+                                <p class="align_justified left_indent_2 first_line_indent_0">longitude</p>
+                            </td>
+                            <td>
+                                <p class="align_right">22°09.408´</p>
+                                <p class="align_right">114°08.147´</p>
+                            </td>
+                            <td>
+                                <p class="align_justified left_indent_13 first_line_indent_0">north,</p>
+                                <p class="align_justified left_indent_13 first_line_indent_0">east;</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="align_right cellpadding_right_9">(iv)</td>
+                            <td>
+                                <p class="align_justified left_indent_2 first_line_indent_0">latitude</p>
+                                <p class="align_justified left_indent_2 first_line_indent_0">longitude</p>
+                            </td>
+                            <td>
+                                <p class="align_right">22°10.308´</p>
+                                <p class="align_right">114°08.147´</p>
+                            </td>
+                            <td>
+                                <p class="align_justified left_indent_13 first_line_indent_0">north,</p>
+                                <p class="align_justified left_indent_13 first_line_indent_0">east.</p>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table></content></section><section id="ID_1438414066071_012" name="s4" temporalId="sch3_s4" class="no_header"><num value="4">4.</num><content>South-west Lamma Anchorage</content><content>The area of the waters of Hong Kong bounded by straight lines joining the
+                following
+                    positions—<table xmlns="http://www.w3.org/1999/xhtml" class="left_indent_56" width="100%">
+                    <colgroup>
+                        <col width="10%"></col>
+                        <col width="18%"></col>
+                        <col width="25%"></col>
+                        <col width="47%"></col>
+                    </colgroup>
+                    <tbody>
+                        <tr>
+                            <td class="align_right cellpadding_right_9">(i)</td>
+                            <td>
+                                <p class="align_justified left_indent_2 first_line_indent_0">latitude</p>
+                                <p class="align_justified left_indent_2 first_line_indent_0">longitude</p>
+                            </td>
+                            <td>
+                                <p class="align_right">22°10.308´</p>
+                                <p class="align_right">114°07.947´</p>
+                            </td>
+                            <td>
+                                <p class="align_justified left_indent_13 first_line_indent_0">north,</p>
+                                <p class="align_justified left_indent_13 first_line_indent_0">east;</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="align_right cellpadding_right_9">(ii)</td>
+                            <td>
+                                <p class="align_justified left_indent_2 first_line_indent_0">latitude</p>
+                                <p class="align_justified left_indent_2 first_line_indent_0">longitude</p>
+                            </td>
+                            <td>
+                                <p class="align_right">22°09.408´</p>
+                                <p class="align_right">114°07.947´</p>
+                            </td>
+                            <td>
+                                <p class="align_justified left_indent_13 first_line_indent_0">north,</p>
+                                <p class="align_justified left_indent_13 first_line_indent_0">east;</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="align_right cellpadding_right_9">(iii)</td>
+                            <td>
+                                <p class="align_justified left_indent_2 first_line_indent_0">latitude</p>
+                                <p class="align_justified left_indent_2 first_line_indent_0">longitude</p>
+                            </td>
+                            <td>
+                                <p class="align_right">22°09.408´</p>
+                                <p class="align_right">114°07.147´</p>
+                            </td>
+                            <td>
+                                <p class="align_justified left_indent_13 first_line_indent_0">north,</p>
+                                <p class="align_justified left_indent_13 first_line_indent_0">east;</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="align_right cellpadding_right_9">(iv)</td>
+                            <td>
+                                <p class="align_justified left_indent_2 first_line_indent_0">latitude</p>
+                                <p class="align_justified left_indent_2 first_line_indent_0">longitude</p>
+                            </td>
+                            <td>
+                                <p class="align_right">22°10.308´</p>
+                                <p class="align_right">114°07.147´</p>
+                            </td>
+                            <td>
+                                <p class="align_justified left_indent_13 first_line_indent_0">north,</p>
+                                <p class="align_justified left_indent_13 first_line_indent_0">east.</p>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table></content></section><section id="ID_1438414066071_028" name="s5" temporalId="sch3_s5" class="no_header"><num value="5">5.</num><content>Junk Bay Dangerous Goods Anchorage</content><content>The area of the waters of Hong Kong bounded by straight lines joining the
+                following
+                    positions—<table xmlns="http://www.w3.org/1999/xhtml" class="left_indent_56" width="100%">
+                    <colgroup>
+                        <col width="10%"></col>
+                        <col width="18%"></col>
+                        <col width="25%"></col>
+                        <col width="47%"></col>
+                    </colgroup>
+                    <tbody>
+                        <tr>
+                            <td class="align_right cellpadding_right_9">(i)</td>
+                            <td>
+                                <p class="align_justified left_indent_2 first_line_indent_0">latitude</p>
+                                <p class="align_justified left_indent_2 first_line_indent_0">longitude</p>
+                            </td>
+                            <td>
+                                <p class="align_right">22°17.058´</p>
+                                <p class="align_right">114°15.197´</p>
+                            </td>
+                            <td>
+                                <p class="align_justified left_indent_13 first_line_indent_0">north,</p>
+                                <p class="align_justified left_indent_13 first_line_indent_0">east;</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="align_right cellpadding_right_9">(ii)</td>
+                            <td>
+                                <p class="align_justified left_indent_2 first_line_indent_0">latitude</p>
+                                <p class="align_justified left_indent_2 first_line_indent_0">longitude</p>
+                            </td>
+                            <td>
+                                <p class="align_right">22°16.841´</p>
+                                <p class="align_right">114°15.047´</p>
+                            </td>
+                            <td>
+                                <p class="align_justified left_indent_13 first_line_indent_0">north,</p>
+                                <p class="align_justified left_indent_13 first_line_indent_0">east;</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="align_right cellpadding_right_9">(iii)</td>
+                            <td>
+                                <p class="align_justified left_indent_2 first_line_indent_0">latitude</p>
+                                <p class="align_justified left_indent_2 first_line_indent_0">longitude</p>
+                            </td>
+                            <td>
+                                <p class="align_right">22°16.991´</p>
+                                <p class="align_right">114°14.747´</p>
+                            </td>
+                            <td>
+                                <p class="align_justified left_indent_13 first_line_indent_0">north,</p>
+                                <p class="align_justified left_indent_13 first_line_indent_0">east;</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="align_right cellpadding_right_9">(iv)</td>
+                            <td>
+                                <p class="align_justified left_indent_2 first_line_indent_0">latitude</p>
+                                <p class="align_justified left_indent_2 first_line_indent_0">longitude</p>
+                            </td>
+                            <td>
+                                <p class="align_right">22°17.225´</p>
+                                <p class="align_right">114°14.914´</p>
+                            </td>
+                            <td>
+                                <p class="align_justified left_indent_13 first_line_indent_0">north,</p>
+                                <p class="align_justified left_indent_13 first_line_indent_0">east.</p>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table></content></section><section id="ID_1438414066086_004" name="s6" temporalId="sch3_s6" class="no_header"><num value="6">6.</num><content>Mirs Bay Dangerous Goods Anchorage</content><content>The area of the waters of Hong Kong bounded by straight lines joining the
+                following
+                    positions—<table xmlns="http://www.w3.org/1999/xhtml" class="left_indent_56" width="100%">
+                    <colgroup>
+                        <col width="10%"></col>
+                        <col width="18%"></col>
+                        <col width="25%"></col>
+                        <col width="47%"></col>
+                        
+                        
+                        <col></col>
+                        
+                        
+                    </colgroup>
+                    <tbody>
+                        <tr>
+                            <td class="align_right cellpadding_right_9">(i)</td>
+                            <td>
+                                <p class="align_justified left_indent_2 first_line_indent_0">latitude</p>
+                                <p class="align_justified left_indent_2 first_line_indent_0">longitude</p>
+                            </td>
+                            <td>
+                                <p class="align_right">22°32.208´</p>
+                                <p class="align_right">114°22.148´</p>
+                            </td>
+                            <td>
+                                <p class="align_justified left_indent_13 first_line_indent_0">north,</p>
+                                <p class="align_justified left_indent_13 first_line_indent_0">east;</p>
+                            </td>
+                            
+                            
+                            <td></td>
+                            
+                            
+                        </tr>
+                        <tr>
+                            <td class="align_right cellpadding_right_9">(ii)</td>
+                            <td>
+                                <p class="align_justified left_indent_2 first_line_indent_0">latitude</p>
+                                <p class="align_justified left_indent_2 first_line_indent_0">longitude</p>
+                            </td>
+                            <td>
+                                <p class="align_right">22°32.208´</p>
+                                <p class="align_right">114°23.148´</p>
+                            </td>
+                            <td>
+                                <p class="align_justified left_indent_13 first_line_indent_0">north,</p>
+                                <p class="align_justified left_indent_13 first_line_indent_0">east;</p>
+                            </td>
+                            
+                            
+                            <td></td>
+                            
+                            
+                        </tr>
+                        <tr>
+                            <td class="align_right cellpadding_right_9">(iii)</td>
+                            <td>
+                                <p class="align_justified left_indent_2 first_line_indent_0">latitude</p>
+                                <p class="align_justified left_indent_2 first_line_indent_0">longitude</p>
+                            </td>
+                            <td>
+                                <p class="align_right">22°31.208´</p>
+                                <p class="align_right">114°23.148´</p>
+                            </td>
+                            <td>
+                                <p class="align_justified left_indent_13 first_line_indent_0">north,</p>
+                                <p class="align_justified left_indent_13 first_line_indent_0">east;</p>
+                            </td>
+                            
+                            
+                            <td></td>
+                            
+                            
+                        </tr>
+                        <tr>
+                            <td class="align_right cellpadding_right_9">(iv)</td>
+                            <td>
+                                <p class="align_justified left_indent_2 first_line_indent_0">latitude</p>
+                                <p class="align_justified left_indent_2 first_line_indent_0">longitude</p>
+                            </td>
+                            <td>
+                                <p class="align_right">22°31.208´</p>
+                                <p class="align_right">114°22.148´</p>
+                            </td>
+                            <td>
+                                <p class="align_justified left_indent_13 first_line_indent_0">north,</p>
+                                <p class="align_justified left_indent_13 first_line_indent_0">east.
+                                    <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Added <ref href="/hk/1986/ln210">L.N.
+                                    </ref></sourceNote></p>
+                            </td>
+                            
+                            
+                            <td></td>
+                            
+                            
+                        </tr>
+                        
+                        
+                        <tr>
+                            <td class="align_right cellpadding_right_9"></td>
+                            <td colspan="3"><i><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/1986/ln210">210 of 1986</ref>)</i></td>
+                            <td></td>
+                        </tr>
+                        
+                        
+                    </tbody>
+                </table><marker role="blank-line"></marker><marker role="blank-line"></marker><marker role="blank-line"></marker><marker role="blank-line"></marker><marker role="blank-line"></marker><marker role="blank-line"></marker><marker role="blank-line"></marker><marker role="blank-line"></marker><marker role="blank-line"></marker></content></section><section class="no_header" id="ID_1678843562728_001" name="s7" temporalId="sch3_s7"><num value="7">7.</num><content>South Cheung Chau Anchorage</content><content>The area of the waters of Hong Kong bounded by straight lines joining the
+                following positions—<table xmlns="http://www.w3.org/1999/xhtml" class="left_indent_56" width="100%">
+                    <colgroup>
+                        <col width="10%"></col>
+                        <col width="18%"></col>
+                        <col width="25%"></col>
+                        <col width="47%"></col>
+                    </colgroup>
+                    <tbody>
+                        <tr>
+                            <td class="align_right cellpadding_right_9">(i)</td>
+                            <td>
+                                <p class="align_justified left_indent_2 first_line_indent_0">latitude</p>
+                                <p class="align_justified left_indent_2 first_line_indent_0">longitude</p>
+                            </td>
+                            <td>
+                                <p class="align_right">22°10.060΄</p>
+                                <p class="align_right">114°03.819΄</p>
+                            </td>
+                            <td>
+                                <p class="align_justified left_indent_13 first_line_indent_0">north,</p>
+                                <p class="align_justified left_indent_13 first_line_indent_0">east;</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="align_right cellpadding_right_9">(ii)</td>
+                            <td>
+                                <p class="align_justified left_indent_2 first_line_indent_0">latitude</p>
+                                <p class="align_justified left_indent_2 first_line_indent_0">longitude</p>
+                            </td>
+                            <td>
+                                <p class="align_right">22°09.291΄</p>
+                                <p class="align_right">114°03.819΄</p>
+                            </td>
+                            <td>
+                                <p class="align_justified left_indent_13 first_line_indent_0">north,</p>
+                                <p class="align_justified left_indent_13 first_line_indent_0">east;</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="align_right cellpadding_right_9">(iii)</td>
+                            <td>
+                                <p class="align_justified left_indent_2 first_line_indent_0">latitude</p>
+                                <p class="align_justified left_indent_2 first_line_indent_0">longitude</p>
+                            </td>
+                            <td>
+                                <p class="align_right">22°09.291΄</p>
+                                <p class="align_right">114°02.325΄</p>
+                            </td>
+                            <td>
+                                <p class="align_justified left_indent_13 first_line_indent_0">north,</p>
+                                <p class="align_justified left_indent_13 first_line_indent_0">east;</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="align_right cellpadding_right_9">(iv)</td>
+                            <td>
+                                <p class="align_justified left_indent_2 first_line_indent_0">latitude</p>
+                                <p class="align_justified left_indent_2 first_line_indent_0">longitude</p>
+                            </td>
+                            <td>
+                                <p class="align_right">22°10.060΄</p>
+                                <p class="align_right">114°02.325΄</p>
+                            </td>
+                            <td>
+                                <p class="align_justified left_indent_13 first_line_indent_0">north,</p>
+                                <p class="align_justified left_indent_13 first_line_indent_0">east.</p>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table><content class="left_indent_72 first_line_indent_-34">Note:<inline class="width_7"> </inline><sourceNote>(Repealed <ref href="hk/2024/ln129">L.N. 129 of 2024</ref>)</sourceNote>
+                    </content></content><sourceNote>(Added <ref href="hk/2023/ln27">L.N. 27 of 2023</ref>)</sourceNote></section><text>
+            <table xmlns="http://www.w3.org/1999/xhtml" width="100%" class="left_indent_0">
+                <colgroup>
+                    <col width="10%"></col>
+                    <col width="90%"></col>
+                </colgroup>
+                <tbody>
+                    <tr>
+                        <td>
+                            <p>Note:</p>
+                        </td>
+                        <td>
+                            <p>In
+                                this Schedule, the geographical co-ordinates of a position are based
+                                on the World Geodetic System 1984 (WGS 84). <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Added <ref href="hk/2024/ln129">L.N. 129 of 2024</ref>)</sourceNote></p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </text><sourceNote>(<ref>Schedule 3</ref> added <ref href="/hk/1985/29">29 of 1985 s.
+                7</ref>. Amended <ref href="hk/2024/ln129">L.N. 129 of 2024</ref>)</sourceNote></schedule><schedule id="ID_1438403567465_001" name="sch4" reason="inEffect" startPeriod="2024-12-06" status="operational" temporalId="sch4"><num value="4">Schedule 4</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap84/s10C">ss.
+                10C</ref> &amp; <ref href="/hk/cap84/s10F">10F</ref>]</note><heading>Dockyards
+            Approach Areas</heading><section id="ID_1438414066180_012" name="s1" temporalId="sch4_s1" class="no_header"><num value="1"><inline class="not_bold">1.</inline></num><heading><inline class="not_bold">The waters of Hong Kong bounded by the coast of Tsing
+                    Yi Island and straight lines joining the following positions—</inline></heading><content>
+                
+                <table xmlns="http://www.w3.org/1999/xhtml" class="left_indent_56" width="100%">
+                    <colgroup>
+                        <col width="10%"></col>
+                        <col width="18%"></col>
+                        <col width="25%"></col>
+                        <col width="47%"></col>
+                    </colgroup>
+                    <tbody>
+                        <tr>
+                            <td class="align_right cellpadding_right_9">(i)</td>
+                            <td>
+                                <p class="align_justified left_indent_2 first_line_indent_0">latitude</p>
+                                <p class="align_justified left_indent_2 first_line_indent_0">longitude</p>
+                            </td>
+                            <td>
+                                <p class="align_right">22°21.058´</p>
+                                <p class="align_right">114°04.864´</p>
+                            </td>
+                            <td>
+                                <p class="align_justified left_indent_13 first_line_indent_0">north,</p>
+                                <p class="align_justified left_indent_13 first_line_indent_0">east;</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="align_right cellpadding_right_9">(ii)</td>
+                            <td>
+                                <p class="align_justified left_indent_2 first_line_indent_0">latitude</p>
+                                <p class="align_justified left_indent_2 first_line_indent_0">longitude</p>
+                            </td>
+                            <td>
+                                <p class="align_right">22°21.058´</p>
+                                <p class="align_right">114°04.147´</p>
+                            </td>
+                            <td>
+                                <p class="align_justified left_indent_13 first_line_indent_0">north,</p>
+                                <p class="align_justified left_indent_13 first_line_indent_0">east;</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="align_right cellpadding_right_9">(iii)</td>
+                            <td>
+                                <p class="align_justified left_indent_2 first_line_indent_0">latitude</p>
+                                <p class="align_justified left_indent_2 first_line_indent_0">longitude</p>
+                            </td>
+                            <td>
+                                <p class="align_right">22°19.608´</p>
+                                <p class="align_right">114°04.147´</p>
+                            </td>
+                            <td>
+                                <p class="align_justified left_indent_13 first_line_indent_0">north,</p>
+                                <p class="align_justified left_indent_13 first_line_indent_0">east;</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="align_right cellpadding_right_9">(iv)</td>
+                            <td>
+                                <p class="align_justified left_indent_2 first_line_indent_0">latitude</p>
+                                <p class="align_justified left_indent_2 first_line_indent_0">longitude</p>
+                            </td>
+                            <td>
+                                <p class="align_right">22°19.608´</p>
+                                <p class="align_right">114°05.547´</p>
+                            </td>
+                            <td>
+                                <p class="align_justified left_indent_13 first_line_indent_0">north,</p>
+                                <p class="align_justified left_indent_13 first_line_indent_0">east.</p>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+                
+                
+            </content></section><section id="ID_1438414066195_004" name="s2" temporalId="sch4_s2" class="no_header"><num value="2"><inline class="not_bold">2.</inline></num><heading><inline class="not_bold">The waters of Hong Kong bounded by the northern coast
+                    of Lantau Island and the mainland falling within—</inline></heading><content>
+                <table xmlns="http://www.w3.org/1999/xhtml" class="left_indent_60" width="100%">
+                    <colgroup>
+                        <col width="10%"></col>
+                        <col width="10%"></col>
+                        <col width="18%"></col>
+                        <col width="25%" align="left"></col>
+                        <col width="37%"></col>
+                    </colgroup>
+                    <tbody>
+                        <tr>
+                            <td>(a)</td>
+                            <td colspan="4">the straight line joining the following
+                                positions—<marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td class="align_right cellpadding_right_9">(i)</td>
+                            <td>
+                                <p class="align_justified left_indent_2 first_line_indent_0">latitude</p>
+                                <p class="align_justified left_indent_2 first_line_indent_0">longitude</p>
+                            </td>
+                            <td>
+                                <p class="align_right">22°20.842´</p>
+                                <p class="align_right">114°02.780´</p>
+                            </td>
+                            <td>
+                                <p class="align_justified left_indent_13 first_line_indent_0">north,</p>
+                                <p class="align_justified left_indent_13 first_line_indent_0">east;</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td class="align_right cellpadding_right_9">(ii)</td>
+                            <td>
+                                <p class="align_justified left_indent_2 first_line_indent_0">latitude</p>
+                                <p class="align_justified left_indent_2 first_line_indent_0">longitude</p>
+                            </td>
+                            <td>
+                                <p class="align_right">22°21.675´</p>
+                                <p class="align_right">114°02.780´</p>
+                            </td>
+                            <td>
+                                <p class="align_justified left_indent_13 first_line_indent_0">north,</p>
+                                <p class="align_justified left_indent_13 first_line_indent_0">east;
+                                    and</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>(b)</td>
+                            <td colspan="4">the straight line joining the following
+                                positions—<marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td class="align_right cellpadding_right_9">(i)</td>
+                            <td>
+                                <p class="align_justified left_indent_2 first_line_indent_0">latitude</p>
+                                <p class="align_justified left_indent_2 first_line_indent_0">longitude</p>
+                            </td>
+                            <td>
+                                <p class="align_right">22°21.892´</p>
+                                <p class="align_right">113°59.714´</p>
+                            </td>
+                            <td>
+                                <p class="align_justified left_indent_13 first_line_indent_0">north,</p>
+                                <p class="align_justified left_indent_13 first_line_indent_0">east;</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td class="align_right cellpadding_right_9">(ii)</td>
+                            <td>
+                                <p class="align_justified left_indent_2 first_line_indent_0">latitude</p>
+                                <p class="align_justified left_indent_2 first_line_indent_0">longitude</p>
+                            </td>
+                            <td>
+                                <p class="align_right">22°18.792´</p>
+                                <p class="align_right">113°59.714´</p>
+                            </td>
+                            <td>
+                                <p class="align_justified left_indent_13 first_line_indent_0">north,</p>
+                                <p class="align_justified left_indent_13 first_line_indent_0">east.<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_3"> </inline><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Added <ref href="/hk/1993/36">36 </ref></sourceNote></p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td></td>
+                            <td colspan="3"><i><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/1993/36">of 1993 s. 13</ref></i>)</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </content></section><text>
+            <table xmlns="http://www.w3.org/1999/xhtml" width="100%" class="left_indent_0">
+                <colgroup>
+                    <col width="10%"></col>
+                    <col width="90%"></col>
+                </colgroup>
+                <tbody>
+                    <tr>
+                        <td>
+                            <p>Note:</p>
+                        </td>
+                        <td>
+                            <p>In this Schedule, the geographical co-ordinates of a position are
+                                based on the World Geodetic System 1984 (WGS 84).  <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Added <ref href="hk/2024/ln129">L.N. 129 of 2024</ref>)</sourceNote></p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </text><sourceNote>(<ref>Schedule 4</ref> added <ref href="/hk/1985/29">29 of 1985 s.
+                7</ref>. Amended <ref href="/hk/1993/36">36 of 1993 s. 13</ref>; <ref href="hk/2024/ln129">L.N. 129 of 2024</ref>)</sourceNote></schedule></main></ordinance>

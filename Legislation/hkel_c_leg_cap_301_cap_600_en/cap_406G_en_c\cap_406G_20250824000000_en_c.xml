@@ -1,0 +1,2200 @@
+<?xml version="1.0" encoding="UTF-8"?><subLeg xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhtml="http://www.w3.org/1999/xhtml" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd" xml:lang="en"><meta><docName>Cap. 406 sub. leg. G</docName><docType>cap</docType><docNumber>406G</docNumber><docStatus>In effect</docStatus><dc:identifier>/hk/cap406G!en</dc:identifier><dc:date>2025-08-24</dc:date><dc:subject>legislation</dc:subject><dc:language>en</dc:language><dc:publisher>DoJ</dc:publisher><dc:rights>the Government of the Hong Kong Special Administrative Region</dc:rights></meta><main xml:lang="en" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd"><docTitle id="ID_1438403163397_001" name="shortTitle" reason="inEffect" status="operational" temporalId="shortTitle" startPeriod="2021-08-12">Electrical
+            Products (Safety) Regulation</docTitle><enactingFormula role="empoweringSection">(<ref href="/hk/cap406/s59">Cap. 406, section
+                59</ref>)</enactingFormula><sourceNote>(Enacting provision omitted—<ref href="hk/2021/er3">E.R. 3 of
+            2021</ref>)<marker role="blank-line"></marker></sourceNote><commencementNote>[24
+            October 1997]
+            <sourceNote><ref href="/hk/1997/ln491">L.N. 491 of
+            1997</ref></sourceNote></commencementNote><sourceNote>(Format changes—<ref href="hk/2021/er3">E.R. 3 of 2021</ref>)</sourceNote><part id="ID_1438403163397_003" name="P1" reason="inEffect" startPeriod="2021-08-12" status="operational" temporalId="P1"><num value="1">Part
+            I</num><heading>Preliminary</heading><section id="ID_1438403163412_002" name="s1" reason="omittedAsSpent" startPeriod="2021-08-12" status="omitted" temporalId="s1"><num value="1">1.</num><sourceNote>(Omitted as spent—<ref href="hk/2021/er3">E.R. 3 of 2021</ref>)</sourceNote></section><section id="ID_1438403163428_001" name="s2" reason="inEffect" startPeriod="2025-08-24" status="operational" temporalId="s2"><num value="2">2.</num><heading>Interpretation</heading><subsection id="ID_1438412413383_004" name="1" temporalId="s2_1"><num value="1">(1)</num><leadIn>In this Regulation, unless the context otherwise
+                requires—</leadIn><def name="Accreditation"><term>accreditation</term>
+                    (<term xml:lang="zh-Hant-HK">審定</term>) means formal recognition by an
+                accreditation body or obtained under HOKLAS that an
+                organization
+                is competent to carry out a test or specific types of tests of electrical products
+                under the category of electrical and electronic products;</def><def name="AccreditationBody"><term>accreditation
+                    body</term>
+                    (<term xml:lang="zh-Hant-HK">審定團體</term>) means a body which conducts and
+                administers an accreditation system and grants accreditation and has entered into a
+                mutual recognition agreement with the HOKLAS Executive or the HKAS Executive;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2000/ln77">L.N. 77 of
+                        2000</ref>)</sourceNote></def><def name="Adaptor">
+                <leadIn><term>adaptor</term>
+                        (<term xml:lang="zh-Hant-HK">適配接頭</term>) means any device which may be
+                    engaged with a socket and that is designed—</leadIn>
+                <paragraph id="ID_1438412413383_033" name="a" temporalId="s2_1_a"><num value="a">(a)</num><content>to enable a plug having pins, or other forms of contact, of different
+                        dimensions or configuration from those of the socket, to be engaged with the
+                        socket;</content></paragraph>
+                <paragraph id="ID_1438412413398_006" name="b" temporalId="s2_1_b"><num value="b">(b)</num><content>to enable more than one plug to be engaged with the socket; or
+                    </content></paragraph>
+                <paragraph id="ID_1438412413398_014" name="c" temporalId="s2_1_c"><num value="c">(c)</num><content>to be used for both of the purposes mentioned in paragraphs (a) and
+                        (b);</content></paragraph>
+            </def><def name="ApplianceCoupler">
+                <leadIn><term>appliance
+                        coupler</term>
+                        (<term xml:lang="zh-Hant-HK">器具聯接器</term>) means a device designed to
+                    connect a flexible cable or cord to an electrical product and consisting
+                    of—</leadIn>
+                <paragraph id="ID_1438412413398_028" name="a" temporalId="s2_1_a"><num value="a">(a)</num><content>a connector which is an integral part of, or intended to be attached
+                        to, the flexible cable or cord; and</content></paragraph>
+                <paragraph id="ID_1438412413398_036" name="b" temporalId="s2_1_b"><num value="b">(b)</num><content>an inlet which is incorporated into or fixed to the electrical product
+                        or intended to be fixed to it;</content></paragraph>
+            </def><def name="ApplicableSafetyRequirements"><term>applicable
+                    safety
+                requirements</term>
+                    (<term xml:lang="zh-Hant-HK">適用的安全規格</term>), in relation to an electrical
+                product, means the requirements that apply to that electrical product by virtue of
+                    <ref>sections 4</ref>, <ref>5</ref> and <ref>6</ref>;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2000/ln77">L.N. 77 of
+                    2000</ref>)</sourceNote></def><def name="Braid"><term>braid</term>
+                    (<term xml:lang="zh-Hant-HK">滾帶</term>) has the same meaning as in IEC 50;</def><def name="CableConnector"><term>cable
+                    connector</term>
+                    (<term xml:lang="zh-Hant-HK">電纜接頭</term>) means a device designed to join
+                flexible cables or cords in such a way that the cables or cords can be joined and
+                separated without the use of a tool;</def><def name="CBScheme"><term>CB
+                    Scheme</term>
+                    (<term xml:lang="zh-Hant-HK">CB體系</term>)
+                means the scheme operated by the IECEE for recognition of results of testing to
+                standards for safety of electrical equipment;</def><def name="CBTestCertificate"><term>CB
+                    Test
+                Certificate</term>
+                    (<term xml:lang="zh-Hant-HK">CB測試證明書</term>)
+                means a document attesting that a sample of an electrical product has been tested
+                and found to be in conformity with the standard accepted for use in the CB Scheme
+                and according to which the product has been tested;</def><def name="Certificate"><term>certificate</term>
+                    (<term xml:lang="zh-Hant-HK">證明書</term>) means a document certifying the test
+                results of an electrical product;</def><def name="CertificateOfSafetyCompliance"><term>certificate
+                    of safety
+                compliance</term>
+                    (<term xml:lang="zh-Hant-HK">符合安全規格證明書</term>) means a certificate issued under
+                Part III;</def><def name="CertificationBody"><term>certification
+                    body</term>
+                    (<term xml:lang="zh-Hant-HK">核證團體</term>) means a body that conducts
+                certification of safety of electrical products;</def><def name="Circuit"><term>circuit</term>
+                    (<term xml:lang="zh-Hant-HK">電路</term>) has the same meaning as in
+                    <ref>regulation 2</ref> of the Electricity (Wiring) Regulations (<ref href="/hk/cap406E">Cap. 406 sub. leg. E</ref>);
+                <sourceNote>(<ref href="hk/2021/er3">E.R. 3 of
+                2021</ref>)</sourceNote></def><def name="CircuitProtectiveConductor"><term>circuit
+                    protective
+                conductor</term>
+                    (<term xml:lang="zh-Hant-HK">電路保護導體</term>) means a protective conductor
+                connecting exposed conductive parts of an equipment to the main earthing
+                terminal;</def><def name="ClassIProduct"><term>class
+                    I
+                product</term>
+                    (<term xml:lang="zh-Hant-HK">第I類產品</term>) has the same meaning as “class I
+                appliance” in IEC 335 <ref>Part 1</ref>;</def><def name="ClassIIProduct"><term>class
+                    II
+                product</term>
+                    (<term xml:lang="zh-Hant-HK">第II類產品</term>) has the same meaning as “class II
+                appliance” in IEC 335 <ref>Part 1</ref>;</def><def name="Conductor"><term>conductor</term>
+                    (<term xml:lang="zh-Hant-HK">導體</term>) has the same meaning as in
+                    <ref>regulation 2</ref> of the Electricity (Wiring) Regulations (<ref href="/hk/cap406E">Cap. 406 sub. leg. E</ref>);
+                <sourceNote>(<ref href="hk/2021/er3">E.R. 3 of
+                2021</ref>)</sourceNote></def><def name="DeclarationOfConformity"><term>declaration
+                    of
+                conformity</term>
+                    (<term xml:lang="zh-Hant-HK">符合標準聲明</term>) means a statement issued by a
+                manufacturer of electrical products claiming under his sole responsibility that a
+                product manufactured by him is in conformity with a standard;</def><def name="Earth"><term>earth</term>
+                    (<term xml:lang="zh-Hant-HK">地</term>) has the same meaning as in
+                    <ref>regulation 2</ref> of the Electricity (Wiring) Regulations (<ref href="/hk/cap406E">Cap. 406 sub. leg. E</ref>);
+                <sourceNote>(<ref href="hk/2021/er3">E.R. 3 of
+                2021</ref>)</sourceNote></def><def name="EarthFaultCurrent"><term>earth
+                    fault
+                current</term>
+                    (<term xml:lang="zh-Hant-HK">電路的接地故障電流</term>) has the same meaning as in
+                    <ref>regulation 2</ref> of the Electricity (Wiring) Regulations (<ref href="/hk/cap406E">Cap. 406 sub. leg. E</ref>);
+                <sourceNote>(<ref href="hk/2021/er3">E.R. 3 of
+                2021</ref>)</sourceNote></def><def name="Earthing"><term>earthing</term>
+                    (<term xml:lang="zh-Hant-HK">接地</term>) has the same meaning as in
+                    <ref>regulation 2</ref> of the Electricity (Wiring) Regulations (<ref href="/hk/cap406E">Cap. 406 sub. leg. E</ref>);
+                <sourceNote>(<ref href="hk/2021/er3">E.R. 3 of
+                2021</ref>)</sourceNote></def><def name="ExposedConductivePart"><term>exposed
+                    conductive
+                part</term>
+                    (<term xml:lang="zh-Hant-HK">外露非帶電金屬部分</term>) has the same meaning as in
+                    <ref>regulation 2</ref> of the Electricity (Wiring) Regulations (<ref href="/hk/cap406E">Cap. 406 sub. leg. E</ref>);
+                <sourceNote>(<ref href="hk/2021/er3">E.R. 3 of
+                2021</ref>)</sourceNote></def><def name="ExtensionUnit">
+                <leadIn><term>extension
+                        unit</term>
+                        (<term xml:lang="zh-Hant-HK">拖板</term>) means a device designed to connect a
+                    mains socket to a number of electrical products and consisting of—</leadIn>
+                <paragraph id="ID_1438412413430_047" name="a" temporalId="s2_1_a"><num value="a">(a)</num><content>a plug which is intended to be connected to the mains socket;</content></paragraph>
+                <paragraph id="ID_1438412413430_055" name="b" temporalId="s2_1_b"><num value="b">(b)</num><content>a combination of one or more sockets in which a plug or plugs of
+                        electrical products may be inserted; and</content></paragraph>
+                <paragraph id="ID_1438412413430_063" name="c" temporalId="s2_1_c"><num value="c">(c)</num><content>a flexible cord connecting the plug in paragraph (a) and the socket or
+                        sockets in paragraph (b);</content></paragraph>
+            </def><def name="FlexibleCable"><term>flexible
+                    cable</term>
+                    (<term xml:lang="zh-Hant-HK">軟電纜</term>) has the same meaning as in IEC
+                50;</def><def name="FlexibleCord"><term>flexible
+                    cord</term>
+                    (<term xml:lang="zh-Hant-HK">軟電線</term>) has the same meaning as “cord” in IEC
+                50;</def><def name="Fuse"><term>fuse</term>
+                    (<term xml:lang="zh-Hant-HK">熔斷器</term>) has the same meaning as in IEC
+                291;</def><def name="Fuselink"><term>fuse-link</term>
+                    (<term xml:lang="zh-Hant-HK">熔斷連桿</term>) has the same meaning as in IEC
+                291;</def><def name="HandheldProduct"><term>hand-held
+                    product</term>
+                    (<term xml:lang="zh-Hant-HK">手提產品</term>) has the same meaning as “hand-held
+                appliance” in IEC 335 <ref>Part 1</ref>;</def><def name="HKAS"><term>HKAS</term>
+                    (<term xml:lang="zh-Hant-HK">香港認可處</term>) has the same meaning as in
+                Regulations for Laboratory Accreditation (HOKLAS 002) of the Hong Kong Laboratory
+                Accreditation Scheme as amended from time to time;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2000/ln77">L.N. 77 of
+                    2000</ref>)</sourceNote></def><def name="HKASExecutive"><term>HKAS
+                    Executive</term>
+                    (<term xml:lang="zh-Hant-HK">香港認可處的執行人員</term>) has the same meaning as in
+                Regulations for Laboratory Accreditation (HOKLAS 002) of the Hong Kong Laboratory
+                Accreditation Scheme as amended from time to time;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2000/ln77">L.N. 77 of
+                    2000</ref>)</sourceNote></def><def name="HOKLAS"><term>HOKLAS</term>
+                    (<term xml:lang="zh-Hant-HK">香港實驗所認可計劃</term>) has the same meaning and
+                objectives as in Regulations for Laboratory Accreditation (HOKLAS 002) of the Hong
+                Kong Laboratory Accreditation Scheme as amended from time to time;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2000/ln77">L.N. 77 of
+                        2000</ref>)</sourceNote></def><def name="HOKLASExecutive"><term>HOKLAS
+                    Executive</term>
+                    (<term xml:lang="zh-Hant-HK">香港實驗所認可計劃的執行人員</term>) has the same meaning as in
+                Regulations for Laboratory Accreditation (HOKLAS 002 Fourth Edition) of the Hong
+                Kong Laboratory Accreditation Scheme under the charge of the Director-General of
+                Industry on behalf of the Government;</def><def name="IEC"><term>IEC</term>
+                means the International Electrotechnical Commission and when followed by a number,
+                or a combination of letters and numbers, means the International Standard
+                publication bearing that number or that combination of letters and numbers published
+                by the International Electrotechnical Commission;</def><def name="IECEE"><term>IECEE</term>
+                    (<term xml:lang="zh-Hant-HK">國際電工委員會電工產品安全認證組織</term>) means the IEC System for
+                Conformity Testing to Standards for Safety of Electrical Equipment;</def><def name="ISO"><term>ISO</term>
+                means the International Organization for Standardization and when followed by a
+                number, or a combination of letters and numbers means the International Standard
+                publication bearing that number or that combination of letters and numbers published
+                by the International Organization for Standardization;</def><def name="Luminaire"><term>luminaire</term>
+                    (<term xml:lang="zh-Hant-HK">照明器</term>) has the same meaning as in IEC 598
+                    <ref>Part 1</ref>;</def><def name="MainEarthingTerminal"><term>main
+                    earthing
+                terminal</term>
+                    (<term xml:lang="zh-Hant-HK">總接地終端</term>) has the same meaning as in
+                    <ref>regulation 2</ref> of the Electricity (Wiring) Regulations (<ref href="/hk/cap406E">Cap. 406 sub. leg. E</ref>);
+                <sourceNote>(<ref href="hk/2021/er3">E.R. 3 of
+                2021</ref>)</sourceNote></def><def name="NationalCertificationBody"><term>National
+                    Certification
+                Body</term>
+                    (<term xml:lang="zh-Hant-HK">國家核證團體</term>) means a body which operates a
+                national certification or approval scheme for electrical products under the CB
+                Scheme;</def><def name="Plug"><term>plug</term>
+                    (<term xml:lang="zh-Hant-HK">插頭</term>) means a device, other than a cable
+                connector or an appliance coupler, which may be engaged with a socket and which is
+                designed for the purpose of connecting to a socket any electrical product to which
+                the device is attached by means of a flexible cable or cord;</def><def name="PrescribedProduct"><term>prescribed
+                    product</term>
+                    (<term xml:lang="zh-Hant-HK">訂明產品</term>) means an electrical product specified
+                in column 2 of <ref>Schedule 2</ref>;</def><def name="Product"><term>product</term>
+                    (<term xml:lang="zh-Hant-HK">產品</term>) means an electrical product;</def><def name="RatedCurrent"><term>rated
+                    current</term>
+                    (<term xml:lang="zh-Hant-HK">額定電流值</term>) means the current assigned to the
+                product by the manufacturer;</def><def name="RatedFrequency"><term>rated
+                    frequency</term>
+                    (<term xml:lang="zh-Hant-HK">額定頻率</term>) means the frequency assigned to the
+                product by the manufacturer;</def><def name="RatedVoltage"><term>rated
+                    voltage</term>
+                    (<term xml:lang="zh-Hant-HK">額定電壓</term>) means the voltage assigned to the
+                product by the manufacturer;</def><def name="RecognizedCertificationBody"><term>recognized
+                    certification
+                body</term>
+                    (<term xml:lang="zh-Hant-HK">認可核證團體</term>) means a body recognized by the
+                Director as qualified to issue certificates of safety compliance in respect of
+                electrical products;</def><def name="RecognizedManufacturer"><term>recognized
+                    manufacturer</term>
+                    (<term xml:lang="zh-Hant-HK">認可製造商</term>) means a manufacturer of electrical
+                products recognized by the Director as qualified to issue certificates of safety
+                compliance in respect of electrical products manufactured by that
+                manufacturer;</def><def name="SafetyShutter"><term>safety
+                    shutter</term>
+                    (<term xml:lang="zh-Hant-HK">安全活門</term>) has the same meaning as “shutter” in
+                IEC 60884;
+                <sourceNote>(<ref href="hk/2025/31">31 of 2025 s. 110</ref>)</sourceNote></def><def name="Socket"><term>socket</term>
+                    (<term xml:lang="zh-Hant-HK">插座</term>) means a device, other than a cable
+                connector, with which a plug may be engaged for the purpose of connecting to a
+                circuit, whether or not by means of a switch, an electrical product to which the
+                plug is attached;</def><def name="Standard">
+                <leadIn><term>standard</term>
+                        (<term xml:lang="zh-Hant-HK">標準</term>) means—</leadIn>
+                
+                
+                <paragraph id="ID_1754980922619_001" name="a...b" temporalId="s2_1_a...b"><num value="a...b" startValue="a" endValue="b">(a)-(b)</num><sourceNote>(Repealed <ref href="hk/2025/31">31 of 2025 s. 110</ref>)</sourceNote></paragraph>
+                
+                <paragraph id="ID_1438412413492_006" name="c" temporalId="s2_1_c"><num value="c">(c)</num><content>the International Standard published by the International
+                        Electrotechnical Commission or the International Organization for
+                        Standardization; or</content></paragraph>
+                <paragraph id="ID_1438412413492_014" name="d" temporalId="s2_1_d"><num value="d">(d)</num><content>any other standards,</content></paragraph>
+                <continued>as may be accepted by the Director;</continued>
+            </def><def name="Supplier"><term>supplier</term>
+                    (<term xml:lang="zh-Hant-HK">供應商</term>) means a person who supplies an
+                electrical product;</def><def name="TestReport"><term>test
+                    report</term>
+                    (<term xml:lang="zh-Hant-HK">測試報告</term>) means a document that presents test
+                results of an electrical product which has been tested to a standard;</def><def name="ThermalCutout"><term>thermal
+                    cut-out</term>
+                    (<term xml:lang="zh-Hant-HK">過熱斷路器</term>) has the same meaning as in IEC 335
+                    <ref>Part 1</ref>;</def><def name="Thermostat"><term>thermostat</term>
+                    (<term xml:lang="zh-Hant-HK">恆溫器</term>) has the same meaning as in IEC 335
+                    <ref>Part 1</ref>;</def><def name="TinselConductor"><term>tinsel
+                    conductor</term>
+                    (<term xml:lang="zh-Hant-HK">箔導體</term>) has the same meaning as in IEC
+                50;</def><def name="Tool"><term>tool</term>
+                    (<term xml:lang="zh-Hant-HK">工具</term>) has the same meaning as in IEC 335
+                    <ref>Part 1</ref>;</def><def name="TravelAdaptor"><term>travel
+                    adaptor</term>
+                    (<term xml:lang="zh-Hant-HK">旅行適配接頭</term>) means an adaptor which is not
+                designed to engage with a mains socket in Hong Kong but enables a plug to be
+                connected to a mains socket of places outside Hong Kong.</def></subsection><sourceNote>(<ref href="/hk/2000/ln77">L.N. 77 of
+            2000</ref>; <ref href="hk/2025/31">31 of 2025 s. 110</ref>)</sourceNote><subsection id="ID_1438412413492_083" name="2" temporalId="s2_2"><num value="2">(2)</num><leadIn>In this Regulation—</leadIn><paragraph id="ID_1438412413492_091" name="a" temporalId="s2_2_a"><num value="a">(a)</num><content>in the case of a standard being referred to in this Regulation, the
+                    reference is a reference to the standard effective as at the date of enactment
+                    of this Regulation; and</content></paragraph><paragraph id="ID_1438412413492_099" name="b" temporalId="s2_2_b"><num value="b">(b)</num><content>in the case of a standard referred to in this Regulation that specifies a
+                    requirement by reference to another standard, then that reference is to be
+                    construed as a reference to that other standard effective as at the date of
+                    enactment of this Regulation.</content></paragraph></subsection></section><section id="ID_1438403163443_002" name="s3" reason="inEffect" startPeriod="2021-08-12" status="operational" temporalId="s3"><num value="3">3.</num><heading>Application to electrical products</heading><subsection id="ID_1438412413601_004" name="1" temporalId="s3_1"><num value="1">(1)</num><leadIn>This Regulation applies to an electrical product which is—</leadIn><paragraph id="ID_1438412413601_012" name="a" temporalId="s3_1_a"><num value="a">(a)</num><content>designed for household use; and</content></paragraph><paragraph id="ID_1438412413601_020" name="b" temporalId="s3_1_b"><num value="b">(b)</num><content>supplied in Hong Kong.</content></paragraph></subsection><subsection id="ID_1438412413601_027" name="2" temporalId="s3_2"><num value="2">(2)</num><leadIn>This Regulation does not apply to an electrical product which is—</leadIn><paragraph id="ID_1438412413617_005" name="a" temporalId="s3_2_a"><num value="a">(a)</num><content>under transhipment or in transit through Hong Kong;</content></paragraph><paragraph id="ID_1438412413617_013" name="b" temporalId="s3_2_b"><num value="b">(b)</num><content>manufactured in Hong Kong for export;</content></paragraph><paragraph id="ID_1438412413617_021" name="c" temporalId="s3_2_c"><num value="c">(c)</num><content>supplied for reconditioning;</content></paragraph><paragraph id="ID_1438412413617_029" name="d" temporalId="s3_2_d"><num value="d">(d)</num><content>supplied as scrap;</content></paragraph><paragraph id="ID_1438412413617_037" name="e" temporalId="s3_2_e"><num value="e">(e)</num><content>a travel adaptor; or</content></paragraph><paragraph id="ID_1438412413617_045" name="f" temporalId="s3_2_f"><num value="f">(f)</num><content>supplied in a place other than Hong Kong under a sale agreement entered into in Hong Kong.</content></paragraph></subsection><subsection id="ID_1438412413617_052" name="3" temporalId="s3_3"><num value="3">(3)</num><content>This Regulation does not apply to an electrical product which is supplied as part of or in connection with a disposition of any premises unless the disposition is the first disposition made prior to the first occupation of the premises.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2000/ln77">L.N. 77 of 2000</ref>)</sourceNote></content></subsection><subsection id="ID_1438412413617_060" name="4" temporalId="s3_4"><num value="4">(4)</num><def name="Disposition">In this section,
+                    <term>disposition</term>
+                    (<term xml:lang="zh-Hant-HK">處置</term>) includes a sale, lease, licence and
+                permission to occupy.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2000/ln77">L.N. 77 of 2000</ref>)</sourceNote></def></subsection></section></part><part id="ID_1438403163459_002" name="P2" reason="inEffect" startPeriod="2021-08-12" status="operational" temporalId="P2"><num value="2">Part
+            II</num><heading>Safety
+            Requirements</heading><section id="ID_1438403163475_001" name="s4" reason="inEffect" startPeriod="2021-08-12" status="operational" temporalId="s4"><num value="4">4.</num><heading>Essential safety requirements for electrical products</heading><content>All electrical products shall comply with the essential safety requirements for electrical products specified in <ref>Schedule 1</ref>.</content></section><section id="ID_1438403163475_003" name="s5" reason="inEffect" startPeriod="2021-08-12" status="operational" temporalId="s5"><num value="5">5.</num><heading>Specific safety requirements for prescribed products</heading><content>All prescribed products specified in column 2 of <ref>Schedule 2</ref> shall comply with the specific safety requirements specified in column 3 of that <ref>Schedule</ref> opposite thereto in addition to the essential safety requirements for electrical products specified in <ref>Schedule 1</ref>.</content></section><section id="ID_1438403163490_001" name="s6" reason="inEffect" startPeriod="2025-08-24" status="operational" temporalId="s6"><num value="6">6.</num><heading>Applicable safety requirements for particular types of electrical products</heading><subsection id="ID_1438412413679_004" name="1" temporalId="s6_1"><num value="1">(1)</num><content>Subject to subsection (2), all electrical products shall be class I or class II products.</content></subsection><subsection id="ID_1438412413679_012" name="2" temporalId="s6_2"><num value="2">(2)</num><content>The electrical products referred to in subsection (1) do not include accessories and lighting fittings which do not receive power supply from a mains socket.</content></subsection><subsection id="ID_1438412413679_020" name="3" temporalId="s6_3"><num value="3">(3)</num><leadIn>Subject to subsection (4), no person shall supply an electrical product which is designed—</leadIn><paragraph id="ID_1438412413679_028" name="a" temporalId="s6_3_a"><num value="a">(a)</num><content>to operate at a voltage of not less than 200V alternating current single phase;</content></paragraph><paragraph id="ID_1438412413679_036" name="b" temporalId="s6_3_b"><num value="b">(b)</num><content>to operate at a maximum rated current of not more than 15A; and</content></paragraph><paragraph id="ID_1438412413679_044" name="c" temporalId="s6_3_c"><num value="c">(c)</num><content>to be connected by means of a flexible cord and plug to a socket and is designed to be so connected directly without the use of a cable connector,</content></paragraph><continued>unless the product is fitted with a plug of the correct rating which complies with the applicable safety requirements.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2000/ln77">L.N. 77 of 2000</ref>)</sourceNote></continued></subsection><subsection id="ID_1438412413679_057" name="4" temporalId="s6_4"><num value="4">(4)</num><leadIn>Subsection (3) does not apply to an electrical product which—</leadIn><paragraph id="ID_1438412413679_065" name="a" temporalId="s6_4_a"><num value="a">(a)</num><content>is fitted with a plug of the correct rating and conforms to IEC 884-1:
+                    Plugs and Socket Outlets for Household and Similar Purposes
+                        (<term>IEC
+                        884-1
+                    plug</term>);
+                    and</content></paragraph><paragraph id="ID_1438412413695_006" name="b" temporalId="s6_4_b"><num value="b">(b)</num><leadIn>is fitted with an adaptor which—</leadIn><subparagraph id="ID_1438412413695_014" name="i" temporalId="s6_4_b_i"><num value="i">(i)</num><content>when connected to a mains socket in Hong Kong, provides a safety level equivalent to that of plugs that conform to the applicable safety requirements;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2000/ln77">L.N. 77 of 2000</ref>)</sourceNote></content></subparagraph><subparagraph id="ID_1438412413695_022" name="ii" temporalId="s6_4_b_ii"><num value="ii">(ii)</num><content>encloses the plug; and</content></subparagraph><subparagraph id="ID_1438412413695_030" name="iii" temporalId="s6_4_b_iii"><num value="iii">(iii)</num><content>can be removed only with the use of a tool.</content></subparagraph></paragraph></subsection><subsection id="ID_1438412413695_036" name="5" temporalId="s6_5"><num value="5">(5)</num><content>For a class I product, the equivalent safety level in subsection (4) requires that the IEC 884-1 plug to be fitted to the electrical product shall have a contact so that, when fitted to an adaptor referred to in that subsection, a path for any earth fault current flowing from the exposed conductive parts of the electrical product to the circuit protective conductors of the fixed electrical installation will be maintained.</content></subsection><subsection id="ID_1438412413710_005" name="6" temporalId="s6_6"><num value="6">(6)</num><content>For an electrical product which is designed to receive power supply from a
+                mains socket without connecting through a flexible cord, the construction and
+                dimensions of the plug pins shall conform to
+                IEC
+                60083 (or an equivalent standard) and IEC 60884 (or an equivalent standard).
+                <sourceNote>(<ref href="hk/2025/31">31 of 2025 s. 111</ref>)</sourceNote></content></subsection><subsection id="ID_1438412413710_013" name="7" temporalId="s6_7"><num value="7">(7)</num><content>For an electrical product which is designed to receive power from a shaver
+                supply unit conforming to
+                IEC
+                61558 or an equivalent standard without connecting through a
+                flexible cord, the construction and dimensions of the plug pins shall conform to
+                IEC
+                60083 (or an equivalent standard) and IEC 60884 (or an equivalent standard).
+                <sourceNote>(<ref href="hk/2025/31">31 of 2025 s. 111</ref>)</sourceNote></content></subsection><subsection id="ID_1438412413710_021" name="8" temporalId="s6_8"><num value="8">(8)</num><content>An electrical product which is designed solely for use at a voltage of less than 200V alternating current single phase shall carry a warning label as specified in <ref>Schedule 3</ref>.</content></subsection></section></part><part id="ID_1438403163506_001" name="P3" reason="inEffect" startPeriod="2021-08-12" status="operational" temporalId="P3"><num value="3">Part
+            III</num><heading>Certificate
+            of Safety Compliance</heading><section id="ID_1438403163506_003" name="s7" reason="inEffect" startPeriod="2021-08-12" status="operational" temporalId="s7"><num value="7">7.</num><heading>Certificate of safety compliance</heading><subsection id="ID_1438412413757_004" name="1" temporalId="s7_1"><num value="1">(1)</num><content>No person shall supply an electrical product unless a certificate of safety compliance has been issued in respect of the product and the product complies with the applicable safety requirements.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2000/ln77">L.N. 77 of 2000</ref>)</sourceNote></content></subsection><subsection id="ID_1438412413757_012" name="2" temporalId="s7_2"><num value="2">(2)</num><leadIn>Subject to subsection (3), a certificate of safety compliance shall include the following information in the English or Chinese language—</leadIn><paragraph id="ID_1438412413757_020" name="a" temporalId="s7_2_a"><num value="a">(a)</num><content>a reference number;</content></paragraph><paragraph id="ID_1438412413757_028" name="b" temporalId="s7_2_b"><num value="b">(b)</num><content>the name and model or type reference of the electrical product;</content></paragraph><paragraph id="ID_1438412413757_036" name="c" temporalId="s7_2_c"><num value="c">(c)</num><content>the name and address of the manufacturer;</content></paragraph><paragraph id="ID_1438412413773_006" name="d" temporalId="s7_2_d"><num value="d">(d)</num><content>the name and address of the person who requested testing of the electrical product;</content></paragraph><paragraph id="ID_1438412413773_014" name="e" temporalId="s7_2_e"><num value="e">(e)</num><content>a standard to which the electrical product was tested and found in conformity;</content></paragraph><paragraph id="ID_1438412413773_022" name="f" temporalId="s7_2_f"><num value="f">(f)</num><content>the name, address, authorized signature and, if applicable, company seal of the recognized certification body or recognized manufacturer, as the case may be; and</content></paragraph><paragraph id="ID_1438412413773_030" name="g" temporalId="s7_2_g"><num value="g">(g)</num><content>the date of certification.</content></paragraph></subsection><subsection id="ID_1438412413773_037" name="3" temporalId="s7_3"><num value="3">(3)</num><content>If the information in a certificate of safety compliance is not in the English or Chinese language, the certificate of safety compliance shall be accompanied by a translation of the information in English or Chinese.</content></subsection></section><section id="ID_1438403163521_001" name="s8" reason="inEffect" startPeriod="2021-08-12" status="operational" temporalId="s8"><num value="8">8.</num><heading>Issue of certificate of safety compliance</heading><subsection id="ID_1438412413820_004" name="1" temporalId="s8_1"><num value="1">(1)</num><leadIn>Subject to subsection (2), no document shall be accepted by the Director as a certificate of safety compliance unless it is—</leadIn><paragraph id="ID_1438412413820_012" name="a" temporalId="s8_1_a"><num value="a">(a)</num><content>a CB Test Certificate issued by a National Certification Body under the CB Scheme which is also a recognized certification body;</content></paragraph><paragraph id="ID_1438412413820_020" name="b" temporalId="s8_1_b"><num value="b">(b)</num><content>a certificate or test report issued by an organization which has been authorized by HOKLAS to endorse the certificate or test report in the name of HOKLAS and is also a recognized certification body;</content></paragraph><paragraph id="ID_1438412413820_028" name="c" temporalId="s8_1_c"><num value="c">(c)</num><content>a certificate or test report issued by an organization which has been authorized by an accreditation body to endorse the certificate or test report in the name of that accreditation body and is also a recognized certification body;</content></paragraph><paragraph id="ID_1438412413820_036" name="d" temporalId="s8_1_d"><num value="d">(d)</num><content>a declaration of conformity issued by a recognized manufacturer; or</content></paragraph><paragraph id="ID_1438412413820_044" name="e" temporalId="s8_1_e"><num value="e">(e)</num><content>a certificate or test report which, in the opinion of the Director, demonstrates that an electrical product complies with the applicable safety requirements.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2000/ln77">L.N. 77 of 2000</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438412413820_051" name="2" temporalId="s8_2"><num value="2">(2)</num><content>A declaration of conformity issued by a manufacturer of a product not specified
+                in column 2 of <ref>Schedule 2</ref> may be accepted by the Director as a
+                certificate of safety compliance where the information contained in the declaration
+                of conformity is the same as the information required under <ref>section 7(2)</ref>
+                other than paragraphs (a) and (d) of that
+                subsection.</content></subsection><subsection id="ID_1438412413835_005" name="3" temporalId="s8_3"><num value="3">(3)</num><leadIn>The Director may—</leadIn><paragraph id="ID_1438412413835_013" name="a" temporalId="s8_3_a"><num value="a">(a)</num><content>refuse to accept a certificate of safety compliance which has been issued in respect of an electrical product which does not comply with the applicable safety requirements; and</content></paragraph><paragraph id="ID_1438412413835_021" name="b" temporalId="s8_3_b"><num value="b">(b)</num><content>publish in the Gazette the name of the manufacturer and the details of the electrical product referred to in paragraph (a).</content></paragraph></subsection><sourceNote>(<ref href="/hk/2000/ln77">L.N. 77 of 2000</ref>)</sourceNote></section></part><part id="ID_1438403163521_003" name="P4" reason="inEffect" startPeriod="2021-08-12" status="operational" temporalId="P4"><num value="4">Part
+            IV</num><heading>Recognized
+            Certification Bodies and Recognized Manufacturers</heading><section id="ID_1438403163537_002" name="s9" reason="inEffect" startPeriod="2021-08-12" status="operational" temporalId="s9"><num value="9">9.</num><heading>Recognized certification bodies</heading><subsection id="ID_1438412413882_004" name="1" temporalId="s9_1"><num value="1">(1)</num><content>Where the Director considers that a certification body possesses the capabilities and resources to test and certify the safety aspects of a specified class of electrical products, the Director may recognize the certification body as a recognized certification body qualified to issue certificates of safety compliance in respect of that specified class of electrical products.</content></subsection><subsection id="ID_1438412413882_012" name="2" temporalId="s9_2"><num value="2">(2)</num><leadIn>A certification body applying for recognition by the Director as a recognized certification body shall be one of the organizations specified in <ref>Schedule 4</ref> and shall—</leadIn><paragraph id="ID_1438412413882_020" name="a" temporalId="s9_2_a"><num value="a">(a)</num><content>apply in writing to the Director for recognition as a recognized certification body; and</content></paragraph><paragraph id="ID_1438412413882_028" name="b" temporalId="s9_2_b"><num value="b">(b)</num><content>pay an application fee of $5,950.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2000/ln353">L.N. 353 of 2000</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438412413882_035" name="3" temporalId="s9_3"><num value="3">(3)</num><leadIn>The Director may publish in the Gazette—</leadIn><paragraph id="ID_1438412413882_043" name="a" temporalId="s9_3_a"><num value="a">(a)</num><content>the name of a certification body that he has recognized as a recognized certification body; and</content></paragraph><paragraph id="ID_1438412413898_006" name="b" temporalId="s9_3_b"><num value="b">(b)</num><content>the specified class of electrical products which may be certified by that recognized certification body.</content></paragraph></subsection><subsection id="ID_1438412413898_013" name="4" temporalId="s9_4"><num value="4">(4)</num><content>The Director may maintain a register of recognized certification bodies for inspection by the public during normal office hours.</content></subsection><subsection id="ID_1438412413898_021" name="5" temporalId="s9_5"><num value="5">(5)</num><leadIn>Subject to subsection (6), the Director may revoke the recognition of any recognized certification body for all or some of the specified classes of electrical products for which the recognized certification body has been recognized by the Director—</leadIn><paragraph id="ID_1438412413898_029" name="a" temporalId="s9_5_a"><num value="a">(a)</num><content>where a recognized certification body requests cancellation of its recognition;</content></paragraph><paragraph id="ID_1438412413898_037" name="b" temporalId="s9_5_b"><num value="b">(b)</num><content>where a recognized certification body ceases to carry on business as a certification body; or</content></paragraph><paragraph id="ID_1438412413898_045" name="c" temporalId="s9_5_c"><num value="c">(c)</num><content>where the Director considers that a recognized certification body is no longer qualified to issue certificates of safety compliance in respect of a specified class of electrical products,</content></paragraph><continued>and may publish in the Gazette the name of such certification body and the details of the specified classes of electrical products which that recognized certification body is no longer qualified to issue certificates of safety compliance.</continued></subsection><subsection id="ID_1438412413898_058" name="6" temporalId="s9_6"><num value="6">(6)</num><leadIn>The Director shall notify the recognized certification body of his intended revocation in cases under subsection <ref>(5)(b)</ref> or (c)—</leadIn><paragraph id="ID_1438412413913_005" name="a" temporalId="s9_6_a"><num value="a">(a)</num><content>specifying his grounds for intending to revoke the recognition; and</content></paragraph><paragraph id="ID_1438412413913_013" name="b" temporalId="s9_6_b"><num value="b">(b)</num><content>advising the recognized certification body that it is entitled to request a hearing by the Director or to submit written representations to the Director as to why recognition should not be revoked.</content></paragraph></subsection><subsection id="ID_1438412413913_020" name="7" temporalId="s9_7"><num value="7">(7)</num><content>Within 4 weeks after the service of the notice under subsection (6), the recognized certification body shall either deliver a request in writing for a hearing or make written representations to the Director.</content></subsection><subsection id="ID_1438412413913_028" name="8" temporalId="s9_8"><num value="8">(8)</num><content>If no request for a hearing or no written representations have been received within the period referred to in subsection (7), the Director may revoke the recognition of the certification body.</content></subsection><subsection id="ID_1438412413913_036" name="9" temporalId="s9_9"><num value="9">(9)</num><content>Where the Director receives a request for a hearing within the period referred to in subsection (7), he shall afford the recognized certification body a reasonable opportunity to be heard.</content></subsection><subsection id="ID_1438412413913_044" name="10" temporalId="s9_10"><num value="10">(10)</num><content>The Director may revoke the recognition of a certification body if the certification body fails to attend the hearing without a reasonable excuse.</content></subsection><subsection id="ID_1438412413929_005" name="11" temporalId="s9_11"><num value="11">(11)</num><content>Where the Director receives written representations within the period referred to in subsection (7) or where representations are made at the hearing, the Director shall consider those representations before exercising any of his power under subsection (5).</content></subsection><subsection id="ID_1438412413929_013" name="12" temporalId="s9_12"><num value="12">(12)</num><content>In cases where a written request for a hearing or written representations have been received within the period referred to in subsection (7), the Director shall notify the recognized certification body of his decision and the reasons for it.</content></subsection><subsection id="ID_1438412413929_021" name="13" temporalId="s9_13"><num value="13">(13)</num><content>Upon revocation of recognition of a certification body, the Director shall cause the name of such certification body to be removed from the register maintained under subsection (4).</content></subsection><subsection id="ID_1438412413929_029" name="14" temporalId="s9_14"><num value="14">(14)</num><content>A certification body whose name has been removed from the register under this section may apply in writing to the Director for restoration of its name to the register.</content></subsection><subsection id="ID_1438412413929_037" name="15" temporalId="s9_15"><num value="15">(15)</num><leadIn>The Director may restore the name of a certification body to the register if the Director satisfies himself that the certification body—</leadIn><paragraph id="ID_1438412413944_005" name="a" temporalId="s9_15_a"><num value="a">(a)</num><content>is an organization specified in <ref>Schedule 4</ref>; and</content></paragraph><paragraph id="ID_1438412413944_013" name="b" temporalId="s9_15_b"><num value="b">(b)</num><content>has taken appropriate steps to remedy the cause that originally led to the revocation.</content></paragraph></subsection></section><section id="ID_1438403163553_002" name="s10" reason="inEffect" startPeriod="2021-08-12" status="operational" temporalId="s10"><num value="10">10.</num><heading>Recognized manufacturers</heading><subsection id="ID_1438412413991_004" name="1" temporalId="s10_1"><num value="1">(1)</num><content>Where the Director considers that a manufacturer of an electrical product possesses the capabilities and resources to test and certify the safety aspects of an electrical product, the Director may recognize the manufacturer as a recognized manufacturer qualified to issue a certificate of safety compliance in respect of that electrical product manufactured by that manufacturer.</content></subsection><subsection id="ID_1438412413991_012" name="2" temporalId="s10_2"><num value="2">(2)</num><leadIn>A manufacturer applying for recognition by the Director as a recognized manufacturer shall comply with the requirements for recognition specified in <ref>Schedule 5</ref> and shall—</leadIn><paragraph id="ID_1438412413991_020" name="a" temporalId="s10_2_a"><num value="a">(a)</num><content>apply in writing to the Director for recognition as a recognized manufacturer; and</content></paragraph><paragraph id="ID_1438412413991_028" name="b" temporalId="s10_2_b"><num value="b">(b)</num><content>pay an application fee of $5,950.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2000/ln353">L.N. 353 of 2000</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438412413991_035" name="3" temporalId="s10_3"><num value="3">(3)</num><leadIn>The Director may publish in the Gazette—</leadIn><paragraph id="ID_1438412413991_043" name="a" temporalId="s10_3_a"><num value="a">(a)</num><content>the name of a manufacturer that he has accepted as a recognized manufacturer; and</content></paragraph><paragraph id="ID_1438412414007_006" name="b" temporalId="s10_3_b"><num value="b">(b)</num><content>the electrical products which may be certified by that recognized manufacturer.</content></paragraph></subsection><subsection id="ID_1438412414007_013" name="4" temporalId="s10_4"><num value="4">(4)</num><content>The Director may maintain a register of recognized manufacturers for inspection by the public during normal office hours.</content></subsection><subsection id="ID_1438412414007_021" name="5" temporalId="s10_5"><num value="5">(5)</num><leadIn>Subject to subsection (6), the Director may revoke the recognition of any manufacturer of all or some of the electrical products for which the recognized manufacturer has been recognized by the Director—</leadIn><paragraph id="ID_1438412414007_029" name="a" temporalId="s10_5_a"><num value="a">(a)</num><content>where a recognized manufacturer requests cancellation of his recognition;</content></paragraph><paragraph id="ID_1438412414007_037" name="b" temporalId="s10_5_b"><num value="b">(b)</num><content>where a recognized manufacturer ceases to carry on business as a manufacturer; or</content></paragraph><paragraph id="ID_1438412414007_045" name="c" temporalId="s10_5_c"><num value="c">(c)</num><content>where the Director considers that a recognized manufacturer is no longer qualified to issue certificates of safety compliance in respect of an electrical product manufactured by the manufacturer,</content></paragraph><continued>and may publish in the Gazette the name of such manufacturer and the details of the electrical product which that recognized manufacturer is no longer qualified to issue certificates of safety compliance.</continued></subsection><subsection id="ID_1438412414007_058" name="6" temporalId="s10_6"><num value="6">(6)</num><leadIn>The Director shall notify the recognized manufacturer of his intended revocation in cases under subsection <ref>(5)(b)</ref> or (c)—</leadIn><paragraph id="ID_1438412414007_066" name="a" temporalId="s10_6_a"><num value="a">(a)</num><content>specifying his grounds for intending to revoke the recognition; and</content></paragraph><paragraph id="ID_1438412414022_004" name="b" temporalId="s10_6_b"><num value="b">(b)</num><content>advising the recognized manufacturer that he is entitled to request a hearing by the Director or to submit written representations to the Director as to why recognition should not be revoked.</content></paragraph></subsection><subsection id="ID_1438412414022_011" name="7" temporalId="s10_7"><num value="7">(7)</num><content>Within 4 weeks after the service of the notice under subsection (6), the recognized manufacturer shall either deliver a request in writing for a hearing or make written representations to the Director.</content></subsection><subsection id="ID_1438412414022_019" name="8" temporalId="s10_8"><num value="8">(8)</num><content>If no request for a hearing or no written representations have been received within the period referred to in subsection (7), the Director may revoke the recognition of the manufacturer.</content></subsection><subsection id="ID_1438412414022_027" name="9" temporalId="s10_9"><num value="9">(9)</num><content>Where the Director receives a request for a hearing within the period referred to in subsection (7), he shall afford the recognized manufacturer a reasonable opportunity to be heard.</content></subsection><subsection id="ID_1438412414022_035" name="10" temporalId="s10_10"><num value="10">(10)</num><content>The Director may revoke the recognition of a manufacturer if the manufacturer
+                fails to attend the hearing without a reasonable
+                excuse.</content></subsection><subsection id="ID_1438412414022_043" name="11" temporalId="s10_11"><num value="11">(11)</num><content>Where the Director receives written representations within the period referred to in subsection (7) or where representations are made at the hearing, the Director shall consider those representations before exercising any of his power under subsection (5).</content></subsection><subsection id="ID_1438412414038_005" name="12" temporalId="s10_12"><num value="12">(12)</num><content>In cases where a written request for a hearing or written representations have been received within the period referred to in subsection (7), the Director shall notify the recognized manufacturer of his decision and the reasons for it.</content></subsection><subsection id="ID_1438412414038_013" name="13" temporalId="s10_13"><num value="13">(13)</num><content>Upon revocation of recognition of a manufacturer, the Director shall cause the name of such manufacturer to be removed from the register maintained under subsection (4).</content></subsection><subsection id="ID_1438412414038_021" name="14" temporalId="s10_14"><num value="14">(14)</num><content>A manufacturer whose name has been removed from the register under this section may apply in writing to the Director for restoration of his name to the register.</content></subsection><subsection id="ID_1438412414038_029" name="15" temporalId="s10_15"><num value="15">(15)</num><leadIn>The Director may restore the name of a manufacturer to the register if the Director satisfies himself that the manufacturer—</leadIn><paragraph id="ID_1438412414038_037" name="a" temporalId="s10_15_a"><num value="a">(a)</num><content>meets the requirements specified in <ref>Schedule 5</ref>; and</content></paragraph><paragraph id="ID_1438412414038_045" name="b" temporalId="s10_15_b"><num value="b">(b)</num><content>has taken appropriate steps to remedy the cause that originally led to the revocation.</content></paragraph></subsection></section></part><part id="ID_1438403163568_001" name="P5" reason="inEffect" startPeriod="2021-08-12" status="operational" temporalId="P5"><num value="5">Part
+            V</num><heading>Director’s
+            Powers</heading><section id="ID_1438403163568_003" name="s11" reason="inEffect" startPeriod="2021-08-12" status="operational" temporalId="s11"><num value="11">11.</num><heading>Director’s powers</heading><subsection id="ID_1438412414100_004" name="1" temporalId="s11_1"><num value="1">(1)</num><leadIn>Notwithstanding that a certificate of safety compliance has been issued, where in the opinion of the Director, an electrical product does not comply with the applicable safety requirements, the Director may serve a written notice on the supplier of the electrical product concerned—  <sourceNote>(<ref href="/hk/2000/ln77">L.N. 77 of 2000</ref>)</sourceNote></leadIn><paragraph id="ID_1438412414100_012" name="a" temporalId="s11_1_a"><num value="a">(a)</num><leadIn>requiring that supplier or that supplier’s agent to—</leadIn><subparagraph id="ID_1438412414100_020" name="i" temporalId="s11_1_a_i"><num value="i">(i)</num><content>notify the purchasers to whom the supplier or the supplier’s agent has supplied the electrical product of the hazardous defects in the product;</content></subparagraph><subparagraph id="ID_1438412414100_028" name="ii" temporalId="s11_1_a_ii"><num value="ii">(ii)</num><content>accept a return of the product; and</content></subparagraph><subparagraph id="ID_1438412414100_036" name="iii" temporalId="s11_1_a_iii"><num value="iii">(iii)</num><content>refund the purchasers any sum paid for the product subject to a condition that a receipt for the product is surrendered to that supplier or that supplier’s agent; and</content></subparagraph></paragraph><paragraph id="ID_1438412414116_006" name="b" temporalId="s11_1_b"><num value="b">(b)</num><leadIn>requiring that supplier or that supplier’s agent to make public any notification referred to in paragraph <ref>(a)(i)</ref> and to publicize the matters referred to in paragraph <ref>(a)(ii)</ref> and (iii) by—</leadIn><subparagraph id="ID_1438412414116_014" name="i" temporalId="s11_1_b_i"><num value="i">(i)</num><content>making announcements each lasting not less than 30 seconds, at least once on a week-day and once on a Sunday, on 4 television channels approved by the Director; and</content></subparagraph><subparagraph id="ID_1438412414116_022" name="ii" temporalId="s11_1_b_ii"><num value="ii">(ii)</num><content>placing advertisements of not less than 26 cm × 17 cm in size, at least once on a week-day and once on a Sunday, in 4 Chinese language newspapers and one English language newspaper in Hong Kong.</content></subparagraph></paragraph></subsection><subsection id="ID_1438412414116_028" name="2" temporalId="s11_2"><num value="2">(2)</num><content>The Director may specify in the notice issued under subsection (1) the type of information required in the announcements and advertisements.</content></subsection><subsection id="ID_1438412414116_036" name="3" temporalId="s11_3"><num value="3">(3)</num><content>Notwithstanding subsections (1) and (2), the Director may order the supplier or the supplier’s agent of the electrical product concerned to use such other effective means to notify the purchasers of hazardous defects in the product as the Director considers reasonable.</content></subsection></section></part><part id="ID_1438403163584_002" name="P6" reason="inEffect" startPeriod="2021-08-12" status="operational" temporalId="P6"><num value="6">Part
+            VI</num><heading>Offences
+            and Penalties</heading><section id="ID_1438403163599_001" name="s12" reason="inEffect" startPeriod="2021-08-12" status="operational" temporalId="s12"><num value="12">12.</num><heading>Offences</heading><leadIn>A person who—</leadIn><paragraph id="ID_1438412414163_012" name="a" temporalId="s12_a"><num value="a">(a)</num><content>supplies an electrical product which fails to comply with the applicable safety requirements; or</content></paragraph><paragraph id="ID_1438412414163_020" name="b" temporalId="s12_b"><num value="b">(b)</num><content>fails or refuses to comply with a notice served by the Director under <ref>section 11(1)</ref>,</content></paragraph><continued>commits an offence.</continued><sourceNote>(<ref href="/hk/2000/ln77">L.N. 77 of 2000</ref>)</sourceNote></section><section id="ID_1438403163599_003" name="s13" reason="inEffect" startPeriod="2021-08-12" status="operational" temporalId="s13"><num value="13">13.</num><heading>Penalties</heading><leadIn>A person who commits an offence under <ref>section 12</ref> is liable—</leadIn><paragraph id="ID_1438412414178_048" name="a" temporalId="s13_a"><num value="a">(a)</num><content>on first conviction, to a fine at level 6 and to imprisonment for 1 year; and</content></paragraph><paragraph id="ID_1438412414194_006" name="b" temporalId="s13_b"><num value="b">(b)</num><content>on subsequent conviction, to a fine of $500,000 and to imprisonment for 2 years.</content></paragraph></section><section id="ID_1438403163615_001" name="s14" reason="inEffect" startPeriod="2021-08-12" status="operational" temporalId="s14"><num value="14">14.</num><heading>Defence of due diligence</heading><subsection id="ID_1438412414210_004" name="1" temporalId="s14_1"><num value="1">(1)</num><content>It is a defence in a proceeding against a person for an offence under <ref>section 12(a)</ref> if the person charged shows that he took all reasonable steps and exercised all due diligence to avoid committing the offence.</content></subsection><subsection id="ID_1438412414210_012" name="2" temporalId="s14_2"><num value="2">(2)</num><leadIn>Where in any proceedings the defence under subsection (1) involves an allegation that the commission of the offence was due—</leadIn><paragraph id="ID_1438412414225_005" name="a" temporalId="s14_2_a"><num value="a">(a)</num><content>to the act or default of another person; or</content></paragraph><paragraph id="ID_1438412414225_013" name="b" temporalId="s14_2_b"><num value="b">(b)</num><content>to reliance on information given by another,</content></paragraph><continued>the person charged is not, without the leave of the court, entitled to rely on the defence unless, not less than 7 clear working days before the hearing of the proceedings, he has served a notice on the person bringing the proceedings giving such information identifying or assisting in the identification of the person who committed the act or default or gave the information that was in the possession of the person serving the notice at the time he served it.</continued></subsection><subsection id="ID_1438412414225_026" name="3" temporalId="s14_3"><num value="3">(3)</num><leadIn>A person is not entitled to rely on the defence under subsection (1) by reason of his reliance on information given by another person, unless he shows that it was reasonable in all the circumstances for him to have relied on the information, having regard in particular—</leadIn><paragraph id="ID_1438412414225_034" name="a" temporalId="s14_3_a"><num value="a">(a)</num><content>to the steps which he took, and those which might reasonably have been taken, for the purpose of verifying the information; and</content></paragraph><paragraph id="ID_1438412414225_042" name="b" temporalId="s14_3_b"><num value="b">(b)</num><content>to whether he had any reason to disbelieve the information.</content></paragraph></subsection></section></part><part id="ID_1438403163631_001" name="P7" reason="omittedAsSpent" startPeriod="2021-08-12" status="omitted" temporalId="P7"><num value="7">Part
+            VII</num><sourceNote>(Omitted as spent—<ref href="hk/2021/er3">E.R. 3 of 2021</ref>)</sourceNote><section id="ID_1438403163631_003" name="s15" reason="omittedAsSpent" startPeriod="2021-08-12" status="omitted" temporalId="s15"><num value="15">15.</num><sourceNote>(Omitted as spent—<ref href="hk/2021/er3">E.R. 3 of 2021</ref>)</sourceNote></section></part><schedule id="ID_1438403163646_001" name="sch1" reason="inEffect" startPeriod="2021-08-12" status="operational" temporalId="sch1"><num value="1">Schedule
+            1</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap406G/s4">ss. 4</ref> &amp; <ref href="/hk/cap406G/s5">5</ref> &amp; <ref href="/hk/cap406G/sch2">Sch. 2</ref>]<sourceNote>(<ref href="/hk/2000/ln77">L.N. 77 of 2000</ref>)</sourceNote></note><heading>Essential
+            Safety Requirements for Electrical Products</heading><section id="ID_1438412414272_020" name="s1" temporalId="sch1_s1"><num value="1">1.</num><heading>General
+                conditions</heading><subsection id="ID_1438412414272_030" name="1" temporalId="sch1_s1_1"><num value="1">(1)</num><content>The requirements in subsection (2), the recognition and observance of which
+                    will ensure that an electrical product will be used safely in applications for
+                    which it is made, shall be printed on the product in English, Chinese or
+                    international standard symbols, or, if this is not possible, on an accompanying
+                    notice.</content></subsection><subsection id="ID_1438412414272_039" name="2" temporalId="sch1_s1_2"><num value="2">(2)</num><leadIn>Such requirements shall include—</leadIn><paragraph id="ID_1438412414288_007" name="a" temporalId="sch1_s1_2_a"><num value="a">(a)</num><content>rated voltage and frequency;</content></paragraph><paragraph id="ID_1438412414288_016" name="b" temporalId="sch1_s1_2_b"><num value="b">(b)</num><content>rated input in terms of watts, kilowatts, amperes or
+                            milliamperes;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2000/ln77">L.N. 77 of 2000</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438412414288_025" name="c" temporalId="sch1_s1_2_c"><num value="c">(c)</num><content>model or type reference number; and</content></paragraph><paragraph id="ID_1438412414288_034" name="d" temporalId="sch1_s1_2_d"><num value="d">(d)</num><content>manufacturer’s name or trade mark.</content></paragraph></subsection><subsection id="ID_1438412414288_042" name="3" temporalId="sch1_s1_3"><num value="3">(3)</num><content>The electrical product, together with its component parts, shall be made in
+                    such a way as to ensure that it can be safely and properly assembled and
+                    connected.</content></subsection></section><section id="ID_1438412414288_048" name="s2" temporalId="sch1_s2"><num value="2">2.</num><heading>Protection against hazards arising
+                from
+                an electrical product</heading><leadIn>An
+                electrical product shall be so designed and constructed in order to ensure
+                that—</leadIn><paragraph id="ID_1438412414288_074" name="a" temporalId="sch1_s2_a"><num value="a">(a)</num><content>persons and animals are adequately protected against danger of physical
+                    injury or other harm which might be caused by electrical contact whether direct
+                    or indirect;</content></paragraph><paragraph id="ID_1438412414288_083" name="b" temporalId="sch1_s2_b"><num value="b">(b)</num><content>temperatures, arcs or radiation which are not part of the intended function
+                    of the product, and likely to cause a danger, are not produced;</content></paragraph><paragraph id="ID_1438412414288_092" name="c" temporalId="sch1_s2_c"><num value="c">(c)</num><content>persons, animals and property are adequately protected against
+                    non-electrical danger caused by the electrical product which are revealed by
+                    experience;</content></paragraph><paragraph id="ID_1438412414288_101" name="d" temporalId="sch1_s2_d"><num value="d">(d)</num><content>persons and animals are adequately protected against danger due to
+                    hazardous materials used in the electrical product; and</content></paragraph><paragraph id="ID_1438412414303_007" name="e" temporalId="sch1_s2_e"><num value="e">(e)</num><content>the insulation is suitable for foreseeable
+                    conditions.</content></paragraph></section><section id="ID_1438412414303_013" name="s3" temporalId="sch1_s3"><num value="3">3.</num><heading>Protection against hazards which may
+                be
+                caused by external influences on
+                an
+                electrical product</heading><leadIn>An
+                electrical product shall be so designed and constructed in order to ensure
+                that—</leadIn><paragraph id="ID_1438412414303_047" name="a" temporalId="sch1_s3_a"><num value="a">(a)</num><content>the electrical product meets the expected mechanical requirements in such a
+                    way that persons, animals and property are adequately protected against danger
+                    caused by the electrical product;</content></paragraph><paragraph id="ID_1438412414303_056" name="b" temporalId="sch1_s3_b"><num value="b">(b)</num><content>the electrical product is resistant to non-mechanical influences in
+                    expected environmental conditions, in such a way that persons, animals and
+                    property are adequately protected against danger caused by the electrical
+                    product;</content></paragraph><paragraph id="ID_1438412414303_065" name="c" temporalId="sch1_s3_c"><num value="c">(c)</num><content>in foreseeable conditions of overload, persons, animals and property are
+                    adequately protected against danger caused by the electrical product;
+                    and<marker role="section-break"></marker></content></paragraph><paragraph id="ID_1438412414303_074" name="d" temporalId="sch1_s3_d"><num value="d">(d)</num><content>the electrical product, other than a fixed and hand-held product, has such
+                    stability that it can be maintained in a specific position.</content></paragraph></section></schedule><schedule id="ID_1438403163662_001" name="sch2" reason="inEffect" startPeriod="2025-08-24" status="operational" temporalId="sch2"><num value="2">Schedule
+            2</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap406G/s2">ss. 2</ref>, <ref href="/hk/cap406G/s5">5</ref> &amp; <ref href="/hk/cap406G/s8">8</ref>]</note><heading>Specific
+            Safety Requirements for Prescribed
+            Products</heading><text>
+            <marker role="blank-line"></marker>
+            
+            
+            <table xmlns="http://www.w3.org/1999/xhtml" frame="void" class="repeat_header">
+                <col width="7%"></col>
+                <col width="6%"></col>
+                <col width="6%"></col>
+                <col width="25%"></col>
+                <col width="3%"></col>
+                <col width="7%"></col>
+                <col width="6%"></col>
+                <col width="7%"></col>
+                <col width="6%"></col>
+                <col width="27%"></col>
+                <thead>
+                    <tr>
+                        <th class="align_center"><span class="not_bold">Item</span><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></th>
+                        <th colspan="3" class="align_center"><span class="not_bold">Prescribed
+                                product</span><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></th>
+                        <th></th>
+                        <th colspan="5" class="align_center"><span class="not_bold">Specific safety
+                                requirement</span><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="align_center">1.</td>
+                        <td rowspan="4" class="align_left">(1)</td>
+                        <td rowspan="5" colspan="2" class="align_left">
+                            <leadIn xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Subject to
+                                paragraph (2), any plug that is designed for household use at a
+                                voltage of not less than 200V alternating current single phase,
+                                whether it is a loose part or fitted to an electrical product,
+                                except the following—  <sourceNote>(<ref href="/hk/2000/ln77">L.N.
+                                        77 of 2000</ref>)</sourceNote></leadIn>
+                            <paragraph xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" id="ID_1520215070021_001" name="a" temporalId="sch2_a"><num value="a">(a)</num><content>a plug which incorporates any other electrical equipment
+                                    (other than a fuse-link, switch or indicator light);</content></paragraph>
+                        </td>
+                        <td class="align_left"></td>
+                        <td colspan="5" class="align_left">
+                            
+                            
+                            <leadIn xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">The plug shall be
+                                of one of the following designs—</leadIn>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_center"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left">(a)</td>
+                        <td colspan="4" class="align_left">
+                            
+                            
+                            <leadIn xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">a
+                                3-rectangular-pin fused plug rated at 13A of which—</leadIn>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_center"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        
+                        <td class="align_right cellpadding_right_3">(i)</td>
+                        <td colspan="3" class="align_left">
+                            
+                            
+                            <p>the plug shall be legibly and durably marked with—  <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="/hk/2000/ln77">L.N. 77 of 2000</ref>)</sourceNote></p>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_center"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left">(A)</td>
+                        <td colspan="2" class="align_left">
+                            
+                            
+                            <p>the
+                                standard
+                                to which the plug conforms;<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_3"> </inline><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="/hk/2000/ln77">L.N. 77 of
+                                    2000</ref>; <ref href="hk/2025/31">31 of 2025 s.
+                                    112</ref>)</sourceNote></p>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_center"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left">(B)</td>
+                        <td colspan="2" class="align_left">
+                            
+                            
+                            <p>its rated current in amperes (A), identities of plug pins (line (L),
+                                neutral (N) and earth (E or
+                                    <img src="images/CAP406G_en_sch2_20250824_000000_0001.jpg" alt="This image is an earth symbol." height="11" title="This image is an earth symbol."></img>))
+                                and availability of fuse in accordance with
+                                IEC
+                                60083 (or an equivalent standard) and IEC 60884 (or an equivalent
+                                standard);
+                                    and<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_3"> </inline><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="/hk/2000/ln77">L.N. 77 of
+                                    2000</ref>; <ref href="hk/2025/31">31 of 2025 s.
+                                    112</ref>)</sourceNote></p>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_center"></td>
+                        <td class="align_left"></td>
+                        <td colspan="2" rowspan="2" class="align_left">
+                            <paragraph xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" id="ID_1520215070130_002" name="b" temporalId="sch2_b"><num value="b">(b)</num><content>a plug forming part of a ceiling rose connector (that is to
+                                    say, a connector designed to hold up overhead electric lighting
+                                    fittings);</content></paragraph>
+                            <paragraph xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" id="ID_1520215070130_003" name="c" temporalId="sch2_c"><num value="c">(c)</num><content>a plug forming part of a luminaire comprising a track
+                                    system for electric lights and their fittings;</content></paragraph>
+                            <paragraph xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" id="ID_1520215070130_004" name="d" temporalId="sch2_d"><num value="d">(d)</num><content>a plug forming part of an audio-visual assembly (that is to
+                                    say, a plug designed to be connected to the socket installed
+                                    within the
+                                    audio-visual
+                                    assembly and not suitable for connection to a mains socket in
+                                    Hong Kong); and</content></paragraph>
+                        </td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left">(C)</td>
+                        <td colspan="2" class="align_left">
+                            
+                            
+                            <p>the word “FUSED” or “FUSE” or equivalent symbol
+                                    (<img src="images/CAP406G_en_sch2_20250824_000000_0002.jpg" alt="This image is a fuse symbol." height="11" title="This image is a fuse symbol."></img>)
+                                together with the standard to which the fuse-link conforms and the
+                                rated current of the fuse-link in amperes (A) in accordance with
+                                IEC
+                                60083 (or an equivalent standard) and IEC 60884 (or an equivalent
+                                    standard);<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_3"> </inline><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="/hk/2000/ln77">L.N. 77 of
+                                    2000</ref>; <ref href="hk/2025/31">31 of 2025 s.
+                                    112</ref>)</sourceNote></p>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_center"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        
+                        <td class="align_right cellpadding_right_3">(ii)</td>
+                        <td colspan="3" class="align_left">
+                            
+                            
+                            <p>clear instructions for the safe connection of the appropriate
+                                flexible cords shall be provided in the form of a label attached to
+                                the plug showing the colour code of the flexible cores—brown or red
+                                (line), blue or black (neutral) and green/yellow or green
+                                    (earth);<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_3"> </inline><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="/hk/1997/ln259">L.N. 259 of
+                                1997</ref>)</sourceNote></p>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_center"></td>
+                        <td class="align_left"></td>
+                        
+                        <td colspan="2" rowspan="6" class="align_left">
+                            <paragraph xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" id="ID_1520215070208_005" name="e" temporalId="sch2_e"><num value="e">(e)</num><content>a plug inside or forming an integral part of an electrical
+                                    product which is so designed that the plug is not capable of
+                                    being engaged with or disengaged from the socket without first
+                                    dismantling the electrical product with the use of a
+                                    tool.</content></paragraph>
+                        </td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        
+                        <td class="align_right cellpadding_right_3">(iii)</td>
+                        <td colspan="3" class="align_left">
+                            
+                            
+                            <p>the plug shall be designed and manufactured to
+                                conform
+                                to IEC 60083 (or an equivalent standard) and IEC 60884 (or an
+                                equivalent standard); <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="hk/2025/31">31 of 2025 s.
+                                112</ref>)</sourceNote></p>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_center"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        
+                        <td class="align_right cellpadding_right_3">(iv)</td>
+                        <td colspan="3" class="align_left">
+                            
+                            
+                            <p>insulating sleeves of suitable material and length conforming to
+                                IEC
+                                60083 (or an equivalent standard) and IEC 60884 (or an equivalent
+                                standard)
+                                shall be provided for the line and neutral plug pins; and
+                                <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="hk/2025/31">31 of 2025 s.
+                                112</ref>)</sourceNote></p>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_center"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        
+                        <td class="align_right cellpadding_right_3">(v)</td>
+                        <td colspan="3" class="align_left">
+                            
+                            
+                            <p>a fuse-link of suitable rating conforming to
+                                IEC
+                                60269 or an equivalent
+                                standard
+                                shall be incorporated in the plug;
+                                <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="hk/2025/31">31 of 2025 s.
+                                112</ref>)</sourceNote></p>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_center"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left">(b)</td>
+                        <td colspan="4" class="align_left">
+                            <leadIn xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">a 3-round-pin
+                                plug rated at 5A or 15A of which—</leadIn>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    
+                    
+                    <tr>
+                        <td class="align_center"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_right cellpadding_right_3">(i)</td>
+                        <td colspan="3" class="align_left">
+                            <leadIn xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">the plug shall be
+                                legibly and durably marked with—  <sourceNote>(<ref href="/hk/2000/ln77">L.N. 77 of
+                                2000</ref>)</sourceNote></leadIn>
+                        </td>
+                    </tr>
+                    
+                    
+                    <tr>
+                        <td class="align_center"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td colspan="1" class="align_left"></td>
+                        <td>(A)</td>
+                        <td colspan="2">
+                            
+                            
+                            
+                            <p class="align_left">the
+                                standard
+                                to which the plug conforms; and <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="/hk/2000/ln77">L.N. 77 of
+                                    2000</ref>; <ref href="hk/2025/31">31 of 2025 s.
+                                    112</ref>)</sourceNote></p>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_center"></td>
+                        <td class="align_left">(2)</td>
+                        <td colspan="2" class="align_left">The requirements in subparagraphs <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(a)(ii)</ref> and
+                                <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(b)(ii)</ref> of
+                            column 3 do not apply to a non-rewirable plug or a plug fitted to an
+                            electrical product.<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_3"> </inline><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="/hk/2000/ln77">L.N. 77 of 2000</ref>)</sourceNote></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        
+                        <td>(B)</td>
+                        
+                        <td colspan="2">its
+                            rated current in amperes (A), identities of plug pins (line (L), neutral
+                            (N) and earth (E or
+                                <img src="images/CAP406G_en_sch2_20250824_000000_0001.jpg" alt="This image is an earth symbol." height="11" title="This image is an earth symbol."></img>))
+                            in accordance with
+                            IEC
+                            60083 (or an equivalent standard) and IEC 60884 (or an equivalent
+                            standard);
+                                <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="/hk/2000/ln77">L.N. 77 of
+                                2000</ref>; <ref href="hk/2025/31">31 of 2025 s.
+                                112</ref>)</sourceNote></td>
+                    </tr>
+                    
+                    
+                    <tr>
+                        <td class="align_center"></td>
+                        <td class="align_left"></td>
+                        <td colspan="2" class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_right cellpadding_right_3">(ii)</td>
+                        <td colspan="3" class="align_left">
+                            <p>clear instructions for the safe connection of the appropriate
+                                flexible cords shall be provided in the form of a label attached to
+                                the plug showing the colour code of
+                                the
+                                flexible
+                                cores—brown
+                                or red (line), blue or black (neutral) and green/yellow or green
+                                (earth); and</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_center"></td>
+                        <td class="align_left"></td>
+                        <td colspan="2" class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_right cellpadding_right_3">(iii)</td>
+                        <td colspan="3" class="align_left">
+                            <p>the plug shall be designed and manufactured to conform to
+                                IEC
+                                60083 (or an equivalent standard) and IEC 60884 (or an equivalent
+                                standard); <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="hk/2025/31">31 of 2025 s.
+                                112</ref>)</sourceNote></p>
+                        </td>
+                    </tr>
+                    
+                    
+                    <tr>
+                        <td class="align_center"></td>
+                        <td class="align_left"></td>
+                        <td colspan="2" class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left">(c)</td>
+                        <td colspan="4" class="align_left">
+                            
+                            
+                            <p>a 2-pin reversible plug (which is designed for connecting to a shaver
+                                supply unit conforming to
+                                IEC
+                                61558 or an equivalent
+                                standard)
+                                of which—
+                                <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="hk/2025/31">31 of 2025 s.
+                                112</ref>)</sourceNote></p>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_center"></td>
+                        <td class="align_left"></td>
+                        <td colspan="2" class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        
+                        <td class="align_right cellpadding_right_3">(i)</td>
+                        <td colspan="3" class="align_left">
+                            
+                            
+                            <p>the plug shall be legibly and durably marked with the
+                                standard
+                                to which the plug conforms and its rated current in amperes (A); and
+                                <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="hk/2025/31">31 of 2025 s.
+                                112</ref>)</sourceNote></p>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_center"></td>
+                        <td class="align_left"></td>
+                        <td colspan="2" class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        
+                        <td class="align_right cellpadding_right_3">(ii)</td>
+                        <td colspan="3" class="align_left">the plug shall be designed and
+                            manufactured to
+                            conform
+                            to IEC 60083 (or an equivalent standard) and IEC 60884 (or an equivalent standard).
+                            <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="hk/2025/31">31 of 2025 s.
+                            112</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        
+                        <td class="align_center" rowspan="2">2.</td>
+                        
+                        <td colspan="3" rowspan="2" class="align_left">Any adaptor that is designed
+                            for household use at a voltage of not less than 200V alternating current
+                            single phase, except an adaptor which incorporates any other electrical
+                            equipment (other than a fuse-link, switch or indicator light).</td>
+                        <td class="align_left"></td>
+                        <td class="align_left">(1)</td>
+                        <td colspan="4" class="align_left">
+                            
+                            
+                            <leadIn xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">The adaptor shall
+                                be of one of the following designs—</leadIn>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left">(a)</td>
+                        
+                        <td colspan="1" class="align_right cellpadding_right_3">(i)</td>
+                        <td colspan="2" class="align_left">
+                            
+                            
+                            <p>a 5A 3-round-pin adaptor shall be designed and manufactured to
+                                conform
+                                to IEC 60083 (or an equivalent standard) and IEC 60884 (or an
+                                equivalent
+                                standard); or
+                                <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="hk/2025/31">31 of 2025 s.
+                                112</ref>)</sourceNote></p>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        
+                        
+                        <td></td>
+                        <td colspan="3"></td>
+                        
+                        
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        
+                        <td colspan="1" class="align_right cellpadding_right_3">(ii)</td>
+                        <td colspan="2" class="align_left">
+                            
+                            
+                            <leadIn xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">despite the
+                                requirements specified in
+                                IEC
+                                60083 (or an equivalent standard) and IEC 60884 (or an equivalent standard)—
+                                <sourceNote>(<ref href="hk/2025/31">31 of 2025 s.
+                                    112</ref>)</sourceNote></leadIn>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        
+                        
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        
+                        
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td colspan="1" class="align_left"></td>
+                        <td colspan="1" class="align_left">(A)</td>
+                        <td class="align_left">
+                            
+                            
+                            <p>a 5A adaptor protected by fuse-links conforming to
+                                IEC
+                                60269 or an equivalent
+                                standard
+                                is permitted; or
+                                <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="hk/2025/31">31 of 2025 s.
+                                112</ref>)</sourceNote></p>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td colspan="1" class="align_left"></td>
+                        <td colspan="1" class="align_left">(B)</td>
+                        <td class="align_left">
+                            
+                            
+                            <p>a 5A adaptor with not more than three 5A sockets protected by one 5A
+                                main fuse-link conforming to
+                                IEC
+                                60269 or an equivalent
+                                standard
+                                is permitted;
+                                <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="hk/2025/31">31 of 2025 s.
+                                112</ref>)</sourceNote></p>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left">(b)</td>
+                        <td colspan="3" class="align_left">
+                            
+                            
+                            <p>a 13A 3-rectangular-pin adaptor shall be designed and manufactured to
+                                conform
+                                to IEC 60083 (or an equivalent standard) and IEC 60884 (or an
+                                equivalent standard);
+                                <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="hk/2025/31">31 of 2025 s.
+                                112</ref>)</sourceNote></p>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left">(c)</td>
+                        
+                        <td class="align_right cellpadding_right_3">(i)</td>
+                        <td colspan="2" class="align_left">
+                            
+                            
+                            <p>A 15A 3-round-pin adaptor shall be designed and manufactured to
+                                conform
+                                to IEC 60083 (or an equivalent standard) and IEC 60884 (or an
+                                equivalent
+                                standard); or
+                                <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="hk/2025/31">31 of 2025 s.
+                                112</ref>)</sourceNote></p>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        
+                        <td class="align_right cellpadding_right_3">(ii)</td>
+                        <td colspan="2" class="align_left">
+                            
+                            
+                            <leadIn xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">despite the
+                                requirements specified in
+                                IEC
+                                60083 (or an equivalent standard) and IEC 60884 (or an equivalent standard)—
+                                <sourceNote>(<ref href="hk/2025/31">31 of 2025 s.
+                                    112</ref>)</sourceNote></leadIn>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td colspan="1" class="align_left">(A)</td>
+                        <td class="align_left">
+                            
+                            
+                            <p>a 15A adaptor protected by fuse-links conforming to
+                                IEC
+                                60269 or an equivalent
+                                standard
+                                is permitted;
+                                <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="hk/2025/31">31 of 2025 s.
+                                112</ref>)</sourceNote></p>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td colspan="1" class="align_left">(B)</td>
+                        <td class="align_left">
+                            
+                            
+                            <p>the 15A non-fused socket of a 15A adaptor may be replaced by a 13A
+                                non-fused socket, the construction and dimensions of which shall
+                                conform
+                                to IEC 60083 (or an equivalent standard) and IEC 60884 (or an
+                                equivalent standard);
+                                <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="hk/2025/31">31 of 2025 s.
+                                112</ref>)</sourceNote></p>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td colspan="1" class="align_left">(C)</td>
+                        <td class="align_left">
+                            
+                            
+                            <p>a 15A adaptor fitted with a 13A or 15A non-fused socket and not more
+                                than two 5A sockets which are protected by one 5A main fuse-link
+                                conforming to
+                                IEC
+                                60269 or an equivalent
+                                standard
+                                is permitted; or
+                                <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="hk/2025/31">31 of 2025 s.
+                                112</ref>)</sourceNote></p>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td colspan="1" class="align_left">(D)</td>
+                        <td class="align_left">
+                            
+                            
+                            <p>a 15A adaptor fitted with not more than three 5A sockets which are
+                                protected by one 5A main fuse-link conforming to
+                                IEC
+                                60269 or an equivalent
+                                standard
+                                is permitted.
+                                <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="hk/2025/31">31 of 2025 s.
+                                112</ref>)</sourceNote></p>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left">(2)</td>
+                        <td colspan="4" class="align_left">
+                            
+                            
+                            <leadIn xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">In respect of
+                                marking and labelling—</leadIn>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left">(a)</td>
+                        <td colspan="3" class="align_left">
+                            
+                            
+                            <p>the total maximum loading of an adaptor in amperes (A) shall be
+                                marked on the external accessible surface of the adaptor; and</p>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left">(b)</td>
+                        <td colspan="3" class="align_left">
+                            
+                            
+                            <p>the word “FUSED” or “FUSE” or equivalent symbol
+                                    (<img src="images/CAP406G_en_sch2_20250824_000000_0002.jpg" alt="This image is a fuse symbol." height="11" title="This image is a fuse symbol."></img>)
+                                together with the rating and standard for the fuse-link shall be
+                                marked on the external accessible surface for fused adaptors.</p>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left">(3)</td>
+                        <td colspan="4" class="align_left">
+                            
+                            
+                            <p>Sufficient clearance shall be allowed from the periphery of an
+                                adaptor base to the line and neutral plug pins.</p>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left">(4)</td>
+                        <td colspan="4" class="align_left">
+                            
+                            
+                            <p>Safety shutters, to be automatically operated by the earthing pin,
+                                shall be provided for each socket of the adaptor.</p>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left">(5)</td>
+                        <td colspan="4" class="align_left">
+                            
+                            
+                            <p>Each socket of the adaptor shall be designed to accommodate only one
+                                type of plug.</p>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left">(6)</td>
+                        <td colspan="4" class="align_left">
+                            
+                            
+                            <p>A 5A socket shall be designed and constructed to
+                                conform
+                                to IEC 60083 (or an equivalent standard) and IEC 60884 (or an
+                                equivalent
+                                standard)
+                                and matched with the dimensions of a 5A 3-round-pin plug.
+                                <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="hk/2025/31">31 of 2025 s.
+                                112</ref>)</sourceNote></p>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left">(7)</td>
+                        <td colspan="4" class="align_left">
+                            
+                            
+                            <p>A 13A socket shall be designed and constructed to
+                                conform
+                                to IEC 60083 (or an equivalent standard) and IEC 60884 (or an
+                                equivalent standard).
+                                <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="hk/2025/31">31 of 2025 s.
+                                112</ref>)</sourceNote></p>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left">(8)</td>
+                        <td colspan="4" class="align_left">
+                            
+                            
+                            <p>A 15A socket shall be designed and constructed to
+                                conform
+                                to IEC 60083 (or an equivalent standard) and IEC 60884 (or an
+                                equivalent
+                                standard)
+                                and matched with the dimensions of a 15A 3-round-pin plug.
+                                <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="hk/2025/31">31 of 2025 s.
+                                112</ref>)</sourceNote></p>
+                            
+                            
+                            
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        
+                        <td class="align_center">3.</td>
+                        <td rowspan="2" colspan="3" class="align_left">Any lampholders, either of
+                            the Bayonet lampholder design or the Edison screw lampholder design,
+                            whether it is a loose part or fitted to an electrical product.</td>
+                        <td class="align_left"></td>
+                        <td class="align_left">(1)</td>
+                        <td colspan="4" class="align_left">
+                            
+                            
+                            <leadIn xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">In respect of
+                                marking and labelling—</leadIn>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left">(a)</td>
+                        <td colspan="3" class="align_left">
+                            
+                            
+                            <p>for an Edison screw lampholder, the letter “L” shall be marked
+                                adjacent to the line terminal for cable connection; and</p>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left"></td>
+                        <td colspan="3" class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left">(b)</td>
+                        <td colspan="3" class="align_left">
+                            
+                            
+                            <p>for a metal lampholder, the words “THE LAMP-HOLDER MUST BE EARTHED”
+                                or equivalent wording shall be indicated in the associated packaging
+                                and the symbol (E or
+                                    <img src="images/CAP406G_en_sch2_20250824_000000_0001.jpg" alt="This image is an earth symbol." height="11" title="This image is an earth symbol."></img>)
+                                shall be marked adjacent to the earthing terminal.</p>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left"></td>
+                        <td colspan="3" class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left">(2)</td>
+                        <td colspan="4" class="align_left">
+                            
+                            
+                            <p>The construction and dimensions of the lampholders shall meet the
+                                specification of one of the designs specified in IEC 61-2.</p>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left"></td>
+                        <td colspan="3" class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left">(3)</td>
+                        <td colspan="4" class="align_left">
+                            
+                            
+                            <p>The material of the lampholders shall be able to withstand the
+                                maximum temperatures specified in IEC 598.</p>
+                            
+                            
+                            
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        
+                        <td class="align_center">4.</td>
+                        <td rowspan="3" class="align_left">(1)</td>
+                        <td colspan="2" rowspan="3" class="align_left">
+                            
+                            
+                            <p>Subject to paragraph (2), any flexible cord including rubber or
+                                PVC-insulated, twin or 3-core flexible cord with conductor of
+                                nominal cross sectional area from 0.5 mm<sup>2</sup> up to 2.5
+                                    mm<sup>2</sup>) whether it is a loose part or fitted to an
+                                electrical product.<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_3"> </inline><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="/hk/2000/ln77">L.N. 77 of 2000</ref>)</sourceNote></p>
+                            
+                            
+                            
+                        </td>
+                        <td class="align_left" rowspan="4"></td>
+                        <td class="align_left" rowspan="4">(1)</td>
+                        <td colspan="4" class="align_left" rowspan="4">
+                            <leadIn xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">In respect of
+                                marking and labelling—</leadIn>
+                            <paragraph xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" id="ID_1520215070458_011" name="a" temporalId="sch2_a"><num value="a">(a)</num><content>the nominal cross sectional area of a conductor and the
+                                    relevant standard to which a flexible cord conforms shall be
+                                    marked on the outer sheath of the flexible cord at appropriate
+                                    intervals;</content></paragraph>
+                            <paragraph xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" id="ID_1520215070458_012" name="b" temporalId="sch2_b"><num value="b">(b)</num><content>for a braided flexible cord, markings of the nominal cross
+                                    sectional area of a conductor and the relevant standard to which
+                                    the braided flexible cord conforms shall be on the conductor
+                                    insulation underneath the textile braid; and</content></paragraph>
+                            
+                            
+                            <paragraph xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" id="ID_1520215070458_013" name="c" temporalId="sch2_c"><num value="c">(c)</num><content>each core of a 3-core conductor shall be identified by the
+                                    colour—brown
+                                    or red (line), blue or black (neutral) and green/yellow or green
+                                    (earth).</content></paragraph>
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left"></td>
+                    </tr>
+                    <tr>
+                        <td class="align_left"></td>
+                    </tr>
+                    <tr>
+                        <td class="align_left"></td>
+                        <td class="align_left">(2)</td>
+                        <td colspan="2" class="align_left">
+                            
+                            
+                            <p>The requirement in paragraph <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(1)(a)</ref> of
+                                column 3 does not apply to a flexible cord fitted to an electrical
+                                    product.<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_3"> </inline><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="/hk/2000/ln77">L.N. 77 of 2000</ref>)</sourceNote></p>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left">(2)</td>
+                        <td colspan="4" class="align_left">The actual nominal cross sectional area
+                            of a conductor shall not be less than the nominal cross sectional area
+                            marked on the flexible cord.</td>
+                    </tr>
+                    <tr>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left">(3)</td>
+                        <td colspan="4" class="align_left">
+                            
+                            
+                            <p>The conductor for a flexible cord shall be made of a class 5 annealed
+                                copper conductor conforming to IEC 228.</p>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td colspan="2" class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left">(4)</td>
+                        <td colspan="4" class="align_left">
+                            
+                            
+                            <p>A tinsel conductor shall comprise a number of strands or groups of
+                                strands of copper or copper alloy wires.</p>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td colspan="2" class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left">(5)</td>
+                        <td colspan="4" class="align_left">
+                            
+                            
+                            <p>The conductor for a flexible cord shall have good conductivity, the
+                                resistance of which shall not exceed the maximum value given in IEC
+                                228.</p>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td colspan="2" class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left">(6)</td>
+                        <td colspan="4" class="align_left">
+                            
+                            
+                            <p>The insulation and sheath of the flexible cord shall be made of
+                                appropriate material (PVC or rubber) and the thickness of the
+                                insulation shall not be less than the figures given in IEC 227 and
+                                IEC
+                                245.<marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></p>
+                            
+                            
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        
+                        <td class="align_center" rowspan="9">5.</td>
+                        <td colspan="3" rowspan="3" class="align_left">Any extension unit that is
+                            designed for household use at a voltage of not less than 200V
+                            alternating current single phase.</td>
+                        <td class="align_left"></td>
+                        <td class="align_left">(1)</td>
+                        <td colspan="4" class="align_left">
+                            
+                            
+                            <leadIn xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">The extension
+                                unit shall be of one of the following designs—</leadIn>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left">(a)</td>
+                        <td colspan="3" class="align_left">
+                            
+                            
+                            <leadIn xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">a 5A extension
+                                unit fitted with—</leadIn>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        
+                        <td class="align_right cellpadding_right_3">(i)</td>
+                        <td colspan="2" class="align_left">a
+                            5A plug and a 3-core flexible cord;
+                            and</td>
+                    </tr>
+                    <tr>
+                        <td colspan="3" class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        
+                        <td class="align_right cellpadding_right_3">(ii)</td>
+                        <td colspan="2" class="align_left">
+                            
+                            
+                            <p>one or more 5A sockets with a 5A main fuse-link for the protection of
+                                all the sockets;</p>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="3" class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left">(b)</td>
+                        <td colspan="3" class="align_left">
+                            
+                            
+                            <leadIn xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">a 13A extension
+                                unit fitted with—</leadIn>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="3" class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        
+                        <td class="align_right cellpadding_right_3">(i)</td>
+                        <td colspan="2" class="align_left">
+                            
+                            
+                            <p>a 13A fused plug and a 3-core flexible cord; and</p>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="3" class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        
+                        <td class="align_right cellpadding_right_3">(ii)</td>
+                        <td colspan="2" class="align_left">a combination of—</td>
+                    </tr>
+                    <tr>
+                        <td colspan="3" class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td colspan="1" class="align_left">(A)</td>
+                        <td class="align_left">
+                            
+                            
+                            <p>one or more 13A sockets without a main fuse-link;</p>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="3" class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td colspan="1" class="align_left">(B)</td>
+                        <td class="align_left">
+                            
+                            
+                            <p>one or more 5A sockets with a 5A main fuse-link for the protection of
+                                all the 5A sockets; or </p>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left" rowspan="6"></td>
+                        <td colspan="3" class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td colspan="1" class="align_left">(C)</td>
+                        <td class="align_left">
+                            
+                            
+                            <p>one or more 13A sockets without a main fuse-link and one or more 5A
+                                sockets with a 5A main fuse-link for the protection of all the 5A
+                                sockets; or</p>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="3" class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left">(c)</td>
+                        <td colspan="3" class="align_left">
+                            
+                            
+                            <leadIn xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">a 15A extension
+                                unit fitted with—</leadIn>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="3" class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        
+                        <td class="align_right cellpadding_right_3">(i)</td>
+                        <td colspan="2" class="align_left">
+                            
+                            
+                            <p>a 15A plug and a 3-core flexible cord; and</p>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="3" class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        
+                        <td class="align_right cellpadding_right_3">(ii)</td>
+                        <td colspan="2" class="align_left">
+                            
+                            
+                            <p>a combination of—</p>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="3" class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left">(A)</td>
+                        <td colspan="1" class="align_left">
+                            
+                            
+                            <p>one 13A or 15A socket and not more than two 5A sockets with a 5A main
+                                fuse-link for the protection of all the 5A sockets; or</p>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="3" class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left">(B)</td>
+                        <td colspan="1" class="align_left">
+                            
+                            
+                            <p>not more than three 5A sockets with an individual 5A fuse-link for
+                                the protection of each of the 5A sockets.</p>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left" rowspan="5"></td>
+                        <td colspan="3" class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left">(2)</td>
+                        <td colspan="4" class="align_left">
+                            
+                            
+                            <p>The 5A, 13A and 15A plugs of the extension unit shall meet the
+                                specific safety requirements of plugs specified in this <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Schedule</ref> in
+                                addition to the essential safety requirements for electrical
+                                products specified in <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Schedule
+                                1</ref>.</p>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="3" class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left">(3)</td>
+                        <td colspan="4" class="align_left">
+                            
+                            
+                            <p>The flexible cord of the extension unit shall meet the specific
+                                safety requirements of flexible cord specified in this <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Schedule</ref> in
+                                addition to the essential safety requirements for electrical
+                                products specified in <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Schedule
+                                1</ref>.</p>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="3" class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left">(4)</td>
+                        <td colspan="4" class="align_left">
+                            
+                            
+                            <p>The flexible cords for 5A, 13A and 15A extension units shall be of a
+                                minimum cross sectional area of 0.75 mm<sup>2</sup>, 1.25
+                                    mm<sup>2</sup> and 1.5 mm<sup>2</sup> respectively.</p>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="3" class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left">(5)</td>
+                        <td colspan="4" class="align_left">
+                            
+                            
+                            <p>All sockets shall be on the top engagement surface of the extension
+                                unit and shall be so designed that they can be used
+                                simultaneously.</p>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="3" class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left">(6)</td>
+                        <td colspan="4" class="align_left">
+                            
+                            
+                            <p>Each socket of the extension unit shall be designed to accommodate
+                                only one type of plug. </p>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left" rowspan="4"></td>
+                        <td colspan="3" class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left">(7)</td>
+                        <td colspan="4" class="align_left">
+                            
+                            
+                            <p>The word “FUSED” or “FUSE” or equivalent symbol
+                                    (<img src="images/CAP406G_en_sch2_20250824_000000_0002.jpg" alt="This image is a fuse symbol." height="11" title="This image is a fuse symbol."></img>)
+                                together with the information regarding the minimum cross sectional
+                                area (referred to in paragraph (4)) of the<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_3"> </inline>respective flexible cords for 5A, 13A and 15A shall be
+                                marked on the external surface of the socket portion of an extension
+                                unit.</p>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="3" class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left">(8)</td>
+                        <td colspan="4" class="align_left">
+                            
+                            
+                            <p>Safety shutters, to be automatically operated by the insertion of the
+                                earthing pin, shall be provided for all the sockets.</p>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="3" class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left">(9)</td>
+                        <td colspan="4" class="align_left">
+                            
+                            
+                            <p>A main fuse-link of current rating at 5A conforming to
+                                IEC
+                                60269 or an equivalent
+                                standard
+                                shall be provided for the protection of all the 5A sockets in the
+                                extension unit.
+                                <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="hk/2025/31">31 of 2025 s.
+                                112</ref>)</sourceNote></p>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="3" class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left">(10)</td>
+                        <td colspan="4" class="align_left">
+                            
+                            
+                            <p>For a 15A extension unit with the design described in paragraph <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(1)(c)(ii)(B)</ref>, an individual 5A fuse-link conforming to
+                                IEC
+                                60269 or an equivalent
+                                standard
+                                shall be provided for the protection of each of the 5A sockets.
+                                <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="hk/2025/31">31 of 2025 s.
+                                112</ref>)</sourceNote></p>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left" rowspan="4"></td>
+                        <td colspan="3" class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left">(11)</td>
+                        <td colspan="4" class="align_left">
+                            
+                            
+                            <p>The 5A socket shall be designed and constructed to
+                                conform
+                                to IEC 60083 (or an equivalent standard) and IEC 60884 (or an
+                                equivalent
+                                standard)
+                                and matched with the dimensions of a 5A 3-round-pin plug.
+                                <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="hk/2025/31">31 of 2025 s.
+                                112</ref>)</sourceNote></p>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="3" class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left">(12)</td>
+                        <td colspan="4" class="align_left">
+                            
+                            
+                            <p>The 13A socket shall be designed and constructed to
+                                conform
+                                to IEC 60083 (or an equivalent standard) and IEC 60884 (or an
+                                equivalent standard).
+                                <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="hk/2025/31">31 of 2025 s.
+                                112</ref>)</sourceNote></p>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="3" class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left">(13)</td>
+                        <td colspan="4" class="align_left">
+                            
+                            
+                            <p>The 15A socket shall be designed and constructed to
+                                conform
+                                to IEC 60083 (or an equivalent standard) and IEC 60884 (or an
+                                equivalent
+                                standard)
+                                and matched with the dimensions of a 15A 3-round-pin plug.
+                                <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="hk/2025/31">31 of 2025 s.
+                                112</ref>)</sourceNote></p>
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="3" class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left">(14)</td>
+                        <td colspan="4" class="align_left">
+                            
+                            
+                            <p>The socket portion of an extension unit may be supplied separately
+                                provided it can comply with the corresponding safety requirements
+                                specified in this <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Schedule</ref>
+                                and information regarding the connection of the plug and the minimum
+                                cross sectional area (referred to in paragraph (4)) of a flexible
+                                cord shall be marked on the external surface of the socket
+                                portion.</p>
+                            
+                            
+                            
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        
+                        <td class="align_center" rowspan="6">6.</td>
+                        <td colspan="3" class="align_left">Any unvented thermal storage type
+                            electric water heater which is not provided with an individual expansion
+                            pipe.</td>
+                        <td class="align_left"></td>
+                        <td class="align_left">(1)</td>
+                        <td colspan="4" class="align_left">
+                            
+                            
+                            <p>The electric water heater shall be legibly and durably marked with
+                                the number of the standard to which the electric water heater
+                                conforms and the storage capacity in litres in addition to such
+                                requirements in <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">section 1(2)</ref> of the general conditions of the essential
+                                safety requirements for electrical products specified in <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Schedule
+                                1</ref>.</p>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="3" class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left">(2)</td>
+                        <td colspan="4" class="align_left">
+                            
+                            
+                            <p>The electric water heater shall be provided with the manufacturer’s
+                                installation instructions for the safe installation of the electric
+                                water heater.</p>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="3" class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left">(3)</td>
+                        <td colspan="4" class="align_left">
+                            
+                            
+                            <p>The electric water heater shall have a guaranteed test pressure with
+                                at least 1.5 times the static water head at the water heater.</p>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="3" class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left">(4)</td>
+                        <td colspan="4" class="align_left">
+                            
+                            
+                            <leadIn xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">The unvented
+                                thermal storage type electric water heater shall be fitted with the
+                                following—</leadIn>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="3" class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left">(a)</td>
+                        <td colspan="3" class="align_left">
+                            
+                            
+                            <p>a thermostat which shall be fitted to control the heating of the
+                                stored water;</p>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="3" class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left">(b)</td>
+                        <td colspan="3" class="align_left">
+                            
+                            
+                            <leadIn xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">a thermal cut-out
+                                which—</leadIn>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left" rowspan="6"></td>
+                        <td colspan="3" class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        
+                        <td class="align_right cellpadding_right_3">(i)</td>
+                        <td colspan="2" class="align_left">
+                            
+                            
+                            <p>shall be fitted to cut off the supply of electricity when the stored
+                                water is heated above the temperature setting of the thermostat and
+                                before the operation of the temperature and pressure relief valve is
+                                initiated;</p>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="3" class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        
+                        <td class="align_right cellpadding_right_3">(ii)</td>
+                        <td colspan="2" class="align_left">
+                            
+                            
+                            <p>shall be wired in series with the thermostat referred to in
+                                subparagraph (a); and</p>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="3" class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        
+                        <td class="align_right cellpadding_right_3">(iii)</td>
+                        <td colspan="2" class="align_left">
+                            
+                            
+                            <p>shall require manual resetting when the enclosure of the electric
+                                water heater is dismantled; and</p>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="3" class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left">(c)</td>
+                        <td colspan="3" class="align_left">
+                            
+                            
+                            <leadIn xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">a temperature and
+                                pressure relief valve which—</leadIn>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="3" class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        
+                        <td class="align_right cellpadding_right_3">(i)</td>
+                        <td colspan="2" class="align_left">
+                            
+                            
+                            <leadIn xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">shall be fitted
+                                with either—</leadIn>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="3" class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left">(A)</td>
+                        <td colspan="1" class="align_left">
+                            
+                            
+                            <p>a non-resettable temperature relief valve, having a set temperature
+                                of
+                                90℃
+                                and being provided with manual test mechanism; and</p>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left" rowspan="2"></td>
+                        <td colspan="3" class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left">(B)</td>
+                        <td colspan="1" class="align_left">
+                            
+                            
+                            <p>a pressure relief valve, having a set pressure not greater than the
+                                maximum designed pressure of the electric water heater or than
+                                1 000
+                                kPa, and being provided with manual test mechanism; or</p>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="3" class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        <td class="align_left"></td>
+                        
+                        <td class="align_right cellpadding_right_3">(ii)</td>
+                        <td colspan="2" class="align_left">
+                            
+                            
+                            <p>a non-resettable temperature and pressure relief valve, having a set
+                                temperature of
+                                90℃
+                                and a set pressure not greater than the maximum designed pressure of
+                                the water heater or than
+                                1 000
+                                kPa, and being provided with manual test mechanism.</p>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            
+            
+            
+        </text></schedule><schedule id="ID_1438403163677_002" name="sch3" reason="inEffect" startPeriod="2021-08-12" status="operational" temporalId="sch3"><num value="3">Schedule
+            3</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap406G/s6">s. 6(8)</ref>]</note><heading>Warning
+            Label for Electrical Products Designed Solely for Use at a Voltage of Less than 200V
+            Alternating Current Single Phase</heading><section id="ID_1519960078565_001" name="s0" temporalId="sch3_s0"><leadIn class="first_line_indent_0">The warning label—</leadIn><paragraph id="ID_1438412414522_022" name="a" temporalId="sch3_s0_a"><num value="a">(a)</num><leadIn>shall be in both the English and Chinese languages and contain the following
+                    text—</leadIn><crossHeading>
+                    <quotedText class="align_center">“警告<br></br>此產品不應直接接駁香港的電力供應<br></br>系統，否則可導致人身受傷<br></br>或財產受損。<br></br>WARNING<br></br>This
+                        product should not be connected directly to <br></br>the electrical supply
+                        system in Hong Kong, <br></br>otherwise personal injury or damage <br></br>to
+                        property may result.”;</quotedText>
+                </crossHeading></paragraph><paragraph id="ID_1438412414522_102" name="b" temporalId="sch3_s0_b"><num value="b">(b)</num><content>shall be with red text against a white background;</content></paragraph><paragraph id="ID_1438412414522_111" name="c" temporalId="sch3_s0_c"><num value="c">(c)</num><content>shall be fixed durably and conspicuously on the surface of the packaging of
+                    the electrical product, or on the product itself if no packaging is provided
+                    when supplied;</content></paragraph><paragraph id="ID_1438412414522_120" name="d" temporalId="sch3_s0_d"><num value="d">(d)</num><leadIn>shall be of a size not less than—</leadIn><subparagraph id="ID_1438412414522_129" name="i" temporalId="sch3_s0_d_i"><num value="i">(i)</num><content>120 mm by 80 mm; or</content></subparagraph><subparagraph id="ID_1438412414522_138" name="ii" temporalId="sch3_s0_d_ii"><num value="ii">(ii)</num><content>one quarter of the area of the largest surface of the packaging of the
+                        electrical product; and</content></subparagraph></paragraph><paragraph id="ID_1438412414522_146" name="e" temporalId="sch3_s0_e"><num value="e">(e)</num><subparagraph id="ID_1438412414537_001" name="i" temporalId="sch3_s0_e_i"><num value="i">(i)</num><content>in the case of the size in paragraph <ref>(d)(i)</ref>, the characters
+                        of the text shall not be less than 5 mm high and 8 mm high respectively for
+                        the word “WARNING” and the Chinese characters “警告” and not less than 3 mm
+                        high and 5 mm high respectively for the rest of the English wording and the
+                        Chinese characters; or</content></subparagraph><subparagraph id="ID_1438412414537_009" name="ii" temporalId="sch3_s0_e_ii"><num value="ii">(ii)</num><content>in the case of paragraph
+                        <ref>(d)(ii)</ref>, the size of the English wording and the Chinese
+                        characters shall be adjusted in proportion to that specified in paragraph
+                            <ref>(e)(i)</ref>.
+                        <sourceNote>(<ref href="hk/2021/er3">E.R. 3 of 2021</ref>)</sourceNote></content></subparagraph></paragraph></section></schedule><schedule id="ID_1438403163693_002" name="sch4" reason="inEffect" startPeriod="2021-08-12" status="operational" temporalId="sch4"><num value="4">Schedule
+            4</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap406G/s9">s.
+                9(2)</ref> &amp; <ref href="/hk/cap406G/s9">(15)</ref>]</note><heading>Organizations
+            Qualified to Apply for Recognition as Recognized Certification
+            Bodies</heading><section id="ID_1438412414568_021" name="s1" temporalId="sch4_s1" class="no_header"><num value="1">1.</num><content>An organization which has been accepted as one of the National Certification
+                Bodies.</content></section><section id="ID_1438412414568_030" name="s2" temporalId="sch4_s2" class="no_header"><num value="2">2.</num><content>An organization which has been granted accreditation by the HOKLAS Executive or
+                the HKAS Executive.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2000/ln77">L.N. 77 of 2000</ref>)</sourceNote></content></section><section id="ID_1438412414568_039" name="s3" temporalId="sch4_s3" class="no_header"><num value="3">3.</num><content>An organization which has been granted accreditation by an accreditation
+                body.</content></section></schedule><schedule id="ID_1438403163709_001" name="sch5" reason="inEffect" startPeriod="2025-08-24" status="operational" temporalId="sch5"><num value="5">Schedule
+            5</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap406G/s10">s. 10(2)</ref> &amp; <ref href="/hk/cap406G/s10">(15)</ref>]</note><heading>Requirements
+            for Recognition as Recognized Manufacturers</heading><section id="ID_1519957842282_001" name="s0" temporalId="sch5_s0"><leadIn>A manufacturer applying for recognition as a recognized manufacturer shall
+                satisfy the following requirements, namely—</leadIn><paragraph id="ID_1438412414584_056" name="a" temporalId="sch5_s0_a"><num value="a">(a)</num><leadIn>the manufacturer’s laboratory has obtained accreditation under—</leadIn><subparagraph id="ID_1438412414584_065" name="i" temporalId="sch5_s0_a_i"><num value="i">(i)</num><content>HOKLAS;
+                        or</content></subparagraph><subparagraph id="ID_1438412414600_008" name="ii" temporalId="sch5_s0_a_ii"><num value="ii">(ii)</num><content>a laboratory accreditation scheme outside Hong Kong which has entered
+                        into a mutual recognition agreement with the HOKLAS Executive or the HKAS
+                        Executive;
+                            and<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2000/ln77">L.N. 77 of
+                            2000</ref>; <ref href="hk/2025/31">31 of 2025 s. 113</ref>)</sourceNote></content></subparagraph><subparagraph id="ID_1438412414600_017" name="iii" temporalId="sch5_s0_a_iii"><num value="iii">(iii)</num><sourceNote>(Repealed <ref href="hk/2025/31">31 of 2025 s. 113</ref>)</sourceNote></subparagraph></paragraph><paragraph id="ID_1438412414600_025" name="b" temporalId="sch5_s0_b"><num value="b">(b)</num><content>the manufacturer shall have a quality system that conforms to ISO 9002
+                    “Specification for Product and Installation” and a quality assurance certificate
+                    issued by a Quality System Registration Body as listed in the publication of the
+                    Directory of Quality System Registration Bodies published by the International
+                    Organisation for Standardization amended from time to time.</content></paragraph><sourceNote>(<ref href="/hk/1998/23">23 of 1998 s. 2</ref>)</sourceNote></section></schedule></main></subLeg>

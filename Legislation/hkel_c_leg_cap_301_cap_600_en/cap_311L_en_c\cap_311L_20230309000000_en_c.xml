@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8"?><subLeg xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhtml="http://www.w3.org/1999/xhtml" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd" xml:lang="en"><meta><docName>Cap. 311 sub. leg. L</docName><docType>cap</docType><docNumber>311L</docNumber><docStatus>In effect</docStatus><dc:identifier>/hk/cap311L!en</dc:identifier><dc:date>2023-03-09</dc:date><dc:subject>legislation</dc:subject><dc:language>en</dc:language><dc:publisher>DoJ</dc:publisher><dc:rights>the Government of the Hong Kong Special Administrative Region</dc:rights></meta><main xml:lang="en" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd"><docTitle id="ID_1438402968412_001" name="shortTitle" reason="inEffect" status="operational" temporalId="shortTitle" startPeriod="2023-03-09">Air
+            Pollution
+            Control
+            (Motor
+            Vehicle
+            Fuel)
+            Regulation</docTitle><enactingFormula role="empoweringSection">(<ref href="/hk/cap311/s43">Cap.
+                311,
+                section
+            43</ref>)</enactingFormula><sourceNote>(Enacting provision omitted—<ref href="hk/2023/er1">E.R. 1 of
+            2023</ref>)</sourceNote><enactingFormula role="empoweringSection">
+            <marker role="blank-line"></marker>
+            <marker role="blank-line"></marker>
+        </enactingFormula><commencementNote>[25 June
+                    1994]<sourceNote><inline class="width_3"> </inline><ref href="/hk/1994/ln379">L.N. 379 of
+                1994</ref></sourceNote></commencementNote><sourceNote>(Format changes—<ref href="hk/2023/er1">E.R. 1 of 2023</ref>)</sourceNote><part id="ID_1438402968427_001" name="P1" reason="inEffect" startPeriod="2023-03-09" status="operational" temporalId="P1"><num value="1">Part
+            I</num><heading>Preliminary</heading><section id="ID_1438402968427_003" name="s1" reason="omittedAsSpent" startPeriod="2023-03-09" status="omitted" temporalId="s1"><num value="1">1.</num><sourceNote>(Omitted as spent—<ref href="hk/2023/er1">E.R. 1 of 2023</ref>)</sourceNote></section><section id="ID_1438402968443_001" name="s2" reason="inEffect" startPeriod="2023-03-09" status="operational" temporalId="s2"><num value="2">2.</num><heading>Interpretation</heading><leadIn>In this Regulation, unless the context otherwise requires—</leadIn><def name="Biodiesel"><term>biodiesel</term>
+                (<term xml:lang="zh-Hant-HK">生化柴油</term>) means a fuel comprising mono-alkyl esters
+            of long chain fatty acids derived from vegetable oils or animal fats;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2009/ln233">L.N. 233 of
+                    2009</ref>)</sourceNote></def><def name="CetaneNumber"><term>cetane
+                number</term>
+                (<term xml:lang="zh-Hant-HK">十六烷值</term>) means the cetane number of diesel as
+            determined in accordance with the document published by the European Committee for
+            Standardization commonly known as EN ISO 5165:1998;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2002/ln15">L.N. 15 of 2002</ref>; <ref href="/hk/2010/ln50">L.N. 50 of 2010</ref>)</sourceNote></def><def name="EsterContent"><leadIn><term>ester
+                    content</term>
+                    (<term xml:lang="zh-Hant-HK">酯含量</term>) means the content of fatty acid methyl
+                ester in a fuel as determined in accordance with—</leadIn><paragraph id="ID_1438411869550_033" name="a" temporalId="s2_a"><num value="a">(a)</num><content>if the fuel is pure motor vehicle biodiesel, the document published by the European Committee for Standardization commonly known as EN 14103:2003; or</content></paragraph><paragraph id="ID_1438411869550_041" name="b" temporalId="s2_b"><num value="b">(b)</num><content>if the fuel is motor vehicle biodiesel blend, the document published by the European Committee for Standardization commonly known as EN 14078:2003;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2010/ln50">L.N. 50 of 2010</ref>)</sourceNote></content></paragraph></def><def name="FuelAdditive"><term>fuel
+                additive</term>
+                (<term xml:lang="zh-Hant-HK">燃料添加劑</term>) means any substance, other than
+            fuel, which
+            is designed to be added to the fuel tank, the fuel supply system, or the combustion
+            space of the engine of a motor vehicle;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1999/ln35">L.N. 35 of
+                1999</ref>)</sourceNote></def><def name="LeadedPetrol"><term>leaded
+                petrol</term>
+                (<term xml:lang="zh-Hant-HK">含鉛汽油</term>) means any petrol other than unleaded
+            petrol;</def><def name="LightDieselOil"><term>light
+                diesel
+            oil</term>
+                (<term xml:lang="zh-Hant-HK">輕柴油</term>) has the same meaning as in <ref>section
+                69</ref> of the Dutiable Commodities Ordinance (<ref href="/hk/cap109">Cap.
+                109</ref>);</def><def name="MotorOctaneNumber"><term>motor
+                octane
+            number</term>
+                (<term xml:lang="zh-Hant-HK">馬達法辛烷值</term>) means the motor octane number of petrol
+            as determined in accordance with the document published by the European Committee for
+            Standardization commonly known as EN ISO 5163:2005;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2002/ln15">L.N. 15 of 2002</ref>; <ref href="/hk/2010/ln50">L.N. 50 of 2010</ref>)</sourceNote></def><def name="MotorVehicleBiodiesel"><term>motor
+                vehicle
+            biodiesel</term>
+                (<term xml:lang="zh-Hant-HK">汽車生化柴油</term>) means pure motor vehicle biodiesel or
+            motor vehicle biodiesel blend;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2009/ln233">L.N. 233 of 2009</ref>)</sourceNote></def><def name="MotorVehicleBiodieselBlend"><term>motor
+                vehicle biodiesel
+            blend</term>
+                (<term xml:lang="zh-Hant-HK">汽車生化柴油混合物</term>) means a motor vehicle fuel that must
+            be blended only from pure motor vehicle biodiesel and motor vehicle diesel;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2009/ln233">L.N. 233 of
+                    2009</ref>)</sourceNote></def><def name="MotorVehicleBiodieselDispenser"><term>motor
+                vehicle biodiesel
+            dispenser</term>
+                (<term xml:lang="zh-Hant-HK">汽車生化柴油加油機</term>) means an installation used or
+            intended to be used for dispensing motor vehicle biodiesel into the fuel tank of a motor
+            vehicle (whether or not also for dispensing motor vehicle biodiesel into any other
+                container);<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2009/ln233">L.N. 233 of 2009</ref>)</sourceNote></def><def name="MotorVehicleBiodieselLabel"><term>motor
+                vehicle biodiesel
+            label</term>
+                (<term xml:lang="zh-Hant-HK">汽車生化柴油標籤</term>) means a label that complies with the
+            specifications as specified in <ref>Schedule 4</ref>;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2009/ln233">L.N. 233 of
+                2009</ref>)</sourceNote></def><def name="MotorVehicleBiodieselRetailer"><term>motor
+                vehicle biodiesel
+            retailer</term>
+                (<term xml:lang="zh-Hant-HK">汽車生化柴油零售商</term>) means a person who sells, or offers
+            for sale, motor vehicle biodiesel by retail to the public at large for use in motor
+                vehicles;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2009/ln233">L.N. 233 of 2009</ref>)</sourceNote></def><def name="MotorVehicleBiodieselSupplier"><term>motor
+                vehicle biodiesel
+            supplier</term>
+                (<term xml:lang="zh-Hant-HK">汽車生化柴油供應商</term>) means a person who, in the course of
+            business, supplies or distributes motor vehicle biodiesel but does not include a motor
+            vehicle biodiesel retailer;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2009/ln233">L.N. 233 of 2009</ref>)</sourceNote></def><def name="MotorVehicleDiesel"><term>motor
+                vehicle
+            diesel</term>
+                (<term xml:lang="zh-Hant-HK">汽車柴油</term>) means any light diesel oil which complies
+            with the specifications as specified in <ref>Schedule 1</ref>;</def><def name="MotorVehicleDieselRetailer"><term>motor
+                vehicle diesel
+            retailer</term>
+                (<term xml:lang="zh-Hant-HK">汽車柴油零售商</term>) means a person who sells, or offers for
+            sale, motor vehicle diesel by retail to the public at large for use in motor
+            vehicles;</def><def name="MotorVehicleDieselSupplier"><term>motor
+                vehicle diesel
+            supplier</term>
+                (<term xml:lang="zh-Hant-HK">汽車柴油供應商</term>) means a person who, in the course of
+            business, supplies or distributes motor vehicle diesel but does not include a motor
+            vehicle diesel retailer;</def><def name="MotorVehicleFuel"><term>motor
+                vehicle
+            fuel</term>
+                (<term xml:lang="zh-Hant-HK">汽車燃料</term>) means any fuel that is used in the
+            propulsion of a motor vehicle;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2009/ln233">L.N. 233 of 2009</ref>)</sourceNote></def><def name="PetrolSupplier"><term>petrol
+                supplier</term>
+                (<term xml:lang="zh-Hant-HK">汽油供應商</term>) means a person who, in the course of
+            business, supplies or distributes petrol but does not include a petrol retailer;</def><def name="PureMotorVehicleBiodiesel"><term>pure
+                motor vehicle
+            biodiesel</term>
+                (<term xml:lang="zh-Hant-HK">純汽車生化柴油</term>) means any motor vehicle fuel that
+            complies with the specifications as specified in <ref>Schedule 3</ref>;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2009/ln233">L.N. 233 of
+                    2009</ref>)</sourceNote></def><def name="ResearchOctaneNumber"><term>research
+                octane
+            number</term>
+                (<term xml:lang="zh-Hant-HK">研究法辛烷值</term>) means the research octane number of
+            petrol as determined in accordance with the document published by the European Committee
+            for Standardization commonly known as EN ISO 5164:2005;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2002/ln15">L.N. 15 of 2002</ref>; <ref href="/hk/2010/ln50">L.N. 50 of
+            2010</ref>)</sourceNote><marker role="section-break"></marker></def><def name="UnleadedPetrol"><term>unleaded
+                petrol</term>
+                (<term xml:lang="zh-Hant-HK">無鉛汽油</term>) means any petrol which complies with the
+            specifications as specified in <ref>Schedule 2</ref>.</def></section></part><part id="ID_1438402968459_001" name="P2" reason="inEffect" startPeriod="2023-03-09" status="operational" temporalId="P2"><num value="2">Part
+            II</num><heading>Leaded Petrol
+            and
+            Unleaded
+            Petrol</heading><section id="ID_1438402968459_003" name="s3" reason="inEffect" startPeriod="2023-03-09" status="operational" temporalId="s3"><num value="3">3.</num><heading>Supplying or selling leaded petrol</heading><subsection id="ID_1438411869644_004" name="1" temporalId="s3_1"><num value="1">(1)</num><content>Any petrol supplier who knowingly supplies or distributes leaded petrol commits an offence and is liable to a fine at level 5.</content></subsection><subsection id="ID_1438411869644_012" name="2" temporalId="s3_2"><num value="2">(2)</num><content>Any petrol retailer who knowingly sells or offers for sale leaded petrol commits an offence and is liable to a fine at level 5.</content></subsection><subsection id="ID_1438411869644_020" name="3" temporalId="s3_3"><num value="3">(3)</num><content>For the purposes of any proceedings under subsection (1), the petrol supplier charged shall, unless there is evidence to the contrary, be presumed to have known that the petrol the supplier supplied or distributed was leaded petrol.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2009/ln233">L.N. 233 of 2009</ref>)</sourceNote></content></subsection><subsection id="ID_1438411869644_028" name="4" temporalId="s3_4"><num value="4">(4)</num><content>For the purposes of any proceedings under subsection (2), the petrol retailer charged shall, unless there is evidence to the contrary, be presumed to have known that the petrol the retailer sold or offered for sale was leaded petrol.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2009/ln233">L.N. 233 of 2009</ref>)</sourceNote></content></subsection><subsection id="ID_1438411869659_005" name="5" temporalId="s3_5"><num value="5">(5)</num><leadIn>A petrol retailer does not commit an offence under subsection (2) if the retailer proves that—  <sourceNote>(<ref href="/hk/2010/ln50">L.N. 50 of 2010</ref>)</sourceNote></leadIn><paragraph id="ID_1438411869659_013" name="a" temporalId="s3_5_a"><num value="a">(a)</num><content>the retailer purchased, or otherwise obtained, the petrol with a warranty or other written evidence from the petrol supplier who supplied or distributed the petrol that the petrol was unleaded petrol; and</content></paragraph><paragraph id="ID_1438411869659_021" name="b" temporalId="s3_5_b"><num value="b">(b)</num><content>at the time of the alleged offence, the petrol was in the same state that it was in at the time of delivery to the retailer.</content></paragraph></subsection><sourceNote>(<ref href="/hk/1999/ln35">L.N. 35 of 1999</ref>; <ref href="/hk/2010/ln50">L.N. 50 of 2010</ref>)</sourceNote></section><section id="ID_1438402968474_002" name="s4" reason="repealed" startPeriod="1999-04-01" status="repealed" temporalId="s4"><num value="4">4.</num><sourceNote>(Repealed <ref href="/hk/1999/35">L.N.
+                35 of 1999</ref>)</sourceNote></section><section id="ID_1438402968490_002" name="s5" reason="inEffect" startPeriod="2023-03-09" status="operational" temporalId="s5"><num value="5">5.</num><heading>Dimension of petrol pump dispensing nozzle spout</heading><subsection id="ID_1438411869691_004" name="1" temporalId="s5_1"><num value="1">(1)</num><content>A petrol retailer shall ensure that every petrol pump installed or operated on the retailer’s premises shall be fitted with a dispensing nozzle spout which has an outside diameter of not more than 21.3 mm.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2010/ln50">L.N. 50 of 2010</ref>)</sourceNote></content></subsection><subsection id="ID_1438411869691_012" name="2" temporalId="s5_2"><num value="2">(2)</num><content>Any petrol retailer who, without reasonable excuse, fails to comply with subsection (1) commits an offence and is liable to a fine at level 5 and in addition, if the offence is a continuing offence, to a fine of $5,000 for each day during which it is proved to the satisfaction of the court that the offence has continued.</content></subsection><sourceNote>(<ref href="/hk/1999/ln35">L.N. 35 of 1999</ref>)</sourceNote></section><section id="ID_1438402968521_001" name="s6" reason="repealed" startPeriod="1999-04-01" status="repealed" temporalId="s6"><num value="6">6.</num><sourceNote>(Repealed <ref href="/hk/1999/ln35">L.N. 35 of 1999</ref>)</sourceNote></section></part><part id="ID_1438402968537_001" name="P3" reason="inEffect" startPeriod="2023-03-09" status="operational" temporalId="P3"><num value="3">Part
+            III</num><heading>Motor
+            Vehicle
+            Diesel</heading><section id="ID_1438402968537_003" name="s7" reason="inEffect" startPeriod="2023-03-09" status="operational" temporalId="s7"><num value="7">7.</num><heading>Supplying or selling motor vehicle diesel</heading><subsection id="ID_1438411869737_004" name="1" temporalId="s7_1"><num value="1">(1)</num><content>Any motor vehicle diesel supplier who knowingly supplies or distributes any
+                substance (which is not motor vehicle diesel) as motor vehicle diesel commits an
+                offence and is liable to a fine at level 5.</content></subsection><subsection id="ID_1438411869737_012" name="2" temporalId="s7_2"><num value="2">(2)</num><content>Subject to subsection (3), any motor vehicle diesel retailer who knowingly
+                sells or offers for sale any substance (which is not motor vehicle diesel) as motor
+                vehicle diesel commits an offence and is liable to a fine at level
+                5.</content></subsection><subsection id="ID_1558496969803_001" name="2A" temporalId="s7_2A"><num value="2A">(2A)</num><content>For the purposes of any proceedings under subsection (1), the person charged
+                is, unless there is evidence to the contrary, presumed to have known that the
+                substance the person supplied or distributed was not motor vehicle diesel.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2010/ln50">L.N. 50 of
+                        2010</ref>)</sourceNote></content></subsection><subsection id="ID_1558496969834_002" name="2B" temporalId="s7_2B"><num value="2B">(2B)</num><content>For the purposes of any proceedings under subsection (2), the person charged
+                is, unless there is evidence to the contrary, presumed to have known that the
+                substance the person sold or offered for sale was not motor vehicle diesel.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2010/ln50">L.N. 50 of
+                        2010</ref>)</sourceNote></content></subsection><subsection id="ID_1438411869737_034" name="3" temporalId="s7_3"><num value="3">(3)</num><leadIn>A motor vehicle diesel retailer does not commit an offence under subsection (2)
+                if the retailer proves that—  <sourceNote>(<ref href="/hk/2010/ln50">L.N. 50 of
+                        2010</ref>)</sourceNote></leadIn><paragraph id="ID_1438411869753_005" name="a" temporalId="s7_3_a"><num value="a">(a)</num><content>the retailer purchased, or otherwise obtained, the substance with a
+                    warranty or other written evidence from the motor vehicle diesel supplier who
+                    supplied or distributed the substance that the substance was motor vehicle
+                    diesel;
+                    and<marker role="section-break"></marker></content></paragraph><paragraph id="ID_1438411869753_013" name="b" temporalId="s7_3_b"><num value="b">(b)</num><content>at the time of the alleged offence the substance was in the same state that
+                    it was in at the time of delivery to the retailer.</content></paragraph></subsection><sourceNote>(<ref href="/hk/1999/ln35">L.N. 35 of 1999</ref>; <ref href="/hk/2010/ln50">L.N.
+                50 of 2010</ref>)</sourceNote></section></part><part id="ID_1438402968552_002" name="P4" reason="inEffect" startPeriod="2023-03-09" status="operational" temporalId="P4"><num value="4">Part
+            IV</num><heading>Fuel
+            Additives</heading><sourceNote>(Part IV added <ref href="/hk/1999/ln35">L.N. 35 of 1999</ref>)</sourceNote><section id="ID_1438402968568_001" name="s8" reason="inEffect" startPeriod="2023-03-09" status="operational" temporalId="s8"><num value="8">8.</num><heading>Supplying or selling fuel additives containing lead</heading><subsection id="ID_1438411869784_004" name="1" temporalId="s8_1"><num value="1">(1)</num><content>Any person who knowingly supplies or distributes any fuel additive containing
+                any amount of lead whatsoever commits an offence and is liable to a fine at level
+                5.</content></subsection><subsection id="ID_1438411869784_012" name="2" temporalId="s8_2"><num value="2">(2)</num><content>Any person who knowingly sells or offers for sale any fuel additive containing
+                any amount of lead whatsoever commits an offence and is liable to a fine at level
+                5.</content></subsection><subsection id="ID_1438411869784_020" name="3" temporalId="s8_3"><num value="3">(3)</num><content>For the purposes of any proceedings under subsection (1), the person charged
+                shall, unless there is evidence to the contrary, be presumed to have known that the
+                fuel additive the person supplied or distributed contained lead.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2009/ln233">L.N. 233 of
+                        2009</ref>)</sourceNote></content></subsection><subsection id="ID_1438411869784_028" name="4" temporalId="s8_4"><num value="4">(4)</num><content>For the purposes of any proceedings under subsection (2), the person charged
+                shall, unless there is evidence to the contrary, be presumed to have known that the
+                fuel additive the person sold or offered for sale contained lead.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2009/ln233">L.N. 233 of
+                        2009</ref>)</sourceNote></content></subsection><subsection id="ID_1438411869800_005" name="5" temporalId="s8_5"><num value="5">(5)</num><leadIn>A person does not commit an offence under subsection (2) if the person proves
+                        that—  <sourceNote>(<ref href="/hk/2010/ln50">L.N. 50 of
+                    2010</ref>)</sourceNote></leadIn><paragraph id="ID_1438411869800_013" name="a" temporalId="s8_5_a"><num value="a">(a)</num><content>the person purchased, or otherwise obtained, the fuel additive with a
+                    warranty or other written evidence from another person who supplied or
+                    distributed the fuel additive that the fuel additive did not contain any lead;
+                    and</content></paragraph><paragraph id="ID_1438411869800_021" name="b" temporalId="s8_5_b"><num value="b">(b)</num><content>at the time of the alleged offence, the fuel additive was in the same state
+                    that it was in at the time of delivery to the person.</content></paragraph></subsection><sourceNote>(<ref href="/hk/2010/ln50">L.N. 50 of 2010</ref>)</sourceNote></section><section id="ID_1438402968568_003" name="s9" reason="inEffect" startPeriod="2023-03-09" status="operational" temporalId="s9"><num value="9">9.</num><heading>Dispensing of fuel additives containing lead</heading><subsection id="ID_1438411869815_079" name="1" temporalId="s9_1"><num value="1">(1)</num><content>Any person who knowingly pours, places, discharges or adds any fuel additive
+                containing any amount of lead whatsoever into the fuel tank, the fuel supply system,
+                or the combustion space of the engine of a motor vehicle commits an offence and is
+                liable to a fine at level 5.</content></subsection><subsection id="ID_1438411869831_005" name="2" temporalId="s9_2"><num value="2">(2)</num><content>For the purposes of any proceedings under subsection (1), the person charged
+                shall, unless there is evidence to the contrary, be presumed to have known that the
+                fuel additive the person poured, placed, discharged or added into the fuel tank, the
+                fuel supply system, or the combustion space of the engine of the motor vehicle
+                contained lead.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2009/ln233">L.N. 233 of 2009</ref>)</sourceNote></content></subsection><subsection id="ID_1438411869831_013" name="3" temporalId="s9_3"><num value="3">(3)</num><leadIn>A person does not commit an offence under subsection (1) if the person proves
+                        that—  <sourceNote>(<ref href="/hk/2010/ln50">L.N. 50 of
+                    2010</ref>)</sourceNote></leadIn><paragraph id="ID_1438411869831_021" name="a" temporalId="s9_3_a"><num value="a">(a)</num><content>the person purchased, or otherwise obtained, the fuel additive with a
+                    warranty or other written evidence from another person who supplied or
+                    distributed the fuel additive that the fuel additive did not contain any lead;
+                    and</content></paragraph><paragraph id="ID_1438411869847_006" name="b" temporalId="s9_3_b"><num value="b">(b)</num><content>at the time of the alleged offence, the fuel additive was in the same state
+                    that it was in at the time of delivery to the person.</content></paragraph></subsection><sourceNote>(<ref href="/hk/2010/ln50">L.N. 50 of 2010</ref>)</sourceNote></section></part><part id="ID_1438402968583_002" name="P5" reason="inEffect" startPeriod="2023-03-09" status="operational" temporalId="P5"><num value="5">Part
+            V</num><heading>Motor
+            Vehicle
+            Biodiesel</heading><sourceNote>(Part V added <ref href="/hk/2009/ln233">L.N. 233 of 2009</ref>)</sourceNote><section id="ID_1438402968599_001" name="s10" reason="inEffect" startPeriod="2023-03-09" status="operational" temporalId="s10"><num value="10">10.</num><heading>Supplying or selling motor vehicle biodiesel</heading><subsection id="ID_1438411869862_018" name="1" temporalId="s10_1"><num value="1">(1)</num><content>Any motor vehicle biodiesel supplier who knowingly supplies or distributes any
+                substance (that is not motor vehicle biodiesel) as motor vehicle biodiesel commits
+                an offence and is liable to a fine at level 5.</content></subsection><subsection id="ID_1438411869878_005" name="2" temporalId="s10_2"><num value="2">(2)</num><content>Subject to subsection (5), any motor vehicle biodiesel retailer who knowingly
+                sells or offers for sale any substance (that is not motor vehicle biodiesel) as
+                motor vehicle biodiesel commits an offence and is liable to a fine at level
+                5.</content></subsection><subsection id="ID_1438411869878_013" name="3" temporalId="s10_3"><num value="3">(3)</num><content>For the purposes of any proceedings under subsection (1), the person charged
+                is, unless there is evidence to the contrary, presumed to have known that the
+                substance the person supplied or distributed was not motor vehicle
+                biodiesel.</content></subsection><subsection id="ID_1438411869878_021" name="4" temporalId="s10_4"><num value="4">(4)</num><content>For the purposes of any proceedings under subsection (2), the person charged
+                is, unless there is evidence to the contrary, presumed to have known that the
+                substance the person sold or offered for sale was not motor vehicle
+                biodiesel.</content></subsection><subsection id="ID_1438411869878_029" name="5" temporalId="s10_5"><num value="5">(5)</num><leadIn>A motor vehicle biodiesel retailer does not commit an offence under subsection
+                (2) if the retailer proves that—</leadIn><paragraph id="ID_1438411869893_005" name="a" temporalId="s10_5_a"><num value="a">(a)</num><content>the retailer purchased, or otherwise obtained, the substance with a
+                    warranty or other written evidence from the motor vehicle biodiesel supplier who
+                    supplied or distributed the substance that the substance was motor vehicle
+                    biodiesel; and</content></paragraph><paragraph id="ID_1438411869893_013" name="b" temporalId="s10_5_b"><num value="b">(b)</num><content>at the time of the alleged offence, the substance was in the same state as
+                    it was in at the time of delivery to the retailer.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2010/ln50">L.N. 50 of
+                        2010</ref>)</sourceNote></content></paragraph></subsection></section><section id="ID_1438402968599_003" name="s11" reason="inEffect" startPeriod="2023-03-09" status="operational" temporalId="s11"><num value="11">11.</num><heading>Requirement to carry label for supplying or selling motor vehicle
+            biodiesel</heading><subsection id="ID_1438411869909_057" name="1" temporalId="s11_1"><num value="1">(1)</num><content>Any person who knowingly supplies, distributes, sells or offers for sale any
+                motor vehicle biodiesel containing an ester content over 5% through a motor vehicle
+                biodiesel dispenser must display prominently on the dispenser a motor vehicle
+                biodiesel label.</content></subsection><subsection id="ID_1438411869925_005" name="2" temporalId="s11_2"><num value="2">(2)</num><content>A person who fails to comply with subsection (1) commits an offence and is
+                liable to a fine at level 5.</content></subsection><subsection id="ID_1438411869925_013" name="3" temporalId="s11_3"><num value="3">(3)</num><content>Any person who knowingly supplies, distributes, sells or offers for sale any
+                motor vehicle biodiesel containing an ester content over 5% in any container other
+                than a motor vehicle biodiesel dispenser must ensure that a motor vehicle biodiesel
+                label that complies with the requirements specified in subsection (4) is securely
+                affixed to or printed on the container.</content></subsection><subsection id="ID_1438411869925_021" name="4" temporalId="s11_4"><num value="4">(4)</num><leadIn>The requirements mentioned in subsection (3) are the following—</leadIn><paragraph id="ID_1438411869925_029" name="a" temporalId="s11_4_a"><num value="a">(a)</num><content>if the container is in the form of a packet, the label must appear on one
+                    of the largest surfaces of the packet and the size of the label must be
+                    proportionally scaled so that it covers at least 40% of the area of the surface
+                    on which it appears;</content></paragraph><paragraph id="ID_1438411869940_006" name="b" temporalId="s11_4_b"><num value="b">(b)</num><content>if the container is in the form of a tin or drum, the label must appear on
+                    the curved surface of the tin or drum and the size of the label must be
+                    proportionally scaled so that it covers at least 20% of the area of the curved
+                    surface on which it appears; or</content></paragraph><paragraph id="ID_1438411869940_014" name="c" temporalId="s11_4_c"><num value="c">(c)</num><content>if the container is in any other form, the size of the label must be
+                    proportionally scaled so that it covers at least 40% of the area of the surface
+                    on which it appears.</content></paragraph></subsection><subsection id="ID_1438411869940_021" name="5" temporalId="s11_5"><num value="5">(5)</num><content>A person who fails to comply with subsection (3) commits an offence and is
+                liable to a fine at level 5.</content></subsection><subsection id="ID_1438411869940_029" name="6" temporalId="s11_6"><num value="6">(6)</num><content>For the purposes of any proceedings under subsection (2) or (5), the person
+                charged is, unless there is evidence to the contrary, presumed to have known the
+                ester content of the motor vehicle biodiesel that the person supplied, distributed,
+                sold or offered for sale.</content></subsection></section><section id="ID_1438402968615_002" name="s12" reason="inEffect" startPeriod="2023-03-09" status="operational" temporalId="s12"><num value="12">12.</num><heading>Requirement as to statement of ester content on motor vehicle biodiesel
+            label</heading><subsection id="ID_1438411869971_019" name="1" temporalId="s12_1"><num value="1">(1)</num><content>Any motor vehicle biodiesel supplier who knowingly supplies or distributes any
+                motor vehicle biodiesel containing an ester content that is more than 1% higher or
+                lower than the percentage of ester content as indicated on the motor vehicle
+                biodiesel label commits an offence and is liable to a fine at level 5.</content></subsection><subsection id="ID_1438411869971_027" name="2" temporalId="s12_2"><num value="2">(2)</num><content>Subject to subsection (5), any motor vehicle biodiesel retailer who knowingly
+                sells or offers for sale any motor vehicle biodiesel containing an ester content
+                that is more than 1% higher or lower than the percentage of ester content as
+                indicated on the motor vehicle biodiesel label commits an offence and is liable to a
+                fine at level 5.</content></subsection><subsection id="ID_1438411869987_005" name="3" temporalId="s12_3"><num value="3">(3)</num><content>For the purposes of any proceedings under subsection (1), the person charged
+                is, unless there is evidence to the contrary, presumed to have known the ester
+                content of the motor vehicle biodiesel that the person supplied or
+                distributed.</content></subsection><subsection id="ID_1438411869987_013" name="4" temporalId="s12_4"><num value="4">(4)</num><content>For the purposes of any proceedings under subsection (2), the person charged
+                is, unless there is evidence to the contrary, presumed to have known the ester
+                content of the motor vehicle biodiesel that the person sold or offered for
+                sale.</content></subsection><subsection id="ID_1438411869987_021" name="5" temporalId="s12_5"><num value="5">(5)</num><leadIn>A motor vehicle biodiesel retailer does not commit an offence under subsection
+                (2) if the retailer proves that—</leadIn><paragraph id="ID_1438411870003_005" name="a" temporalId="s12_5_a"><num value="a">(a)</num><content>the retailer purchased, or otherwise obtained, the motor vehicle biodiesel
+                    with a warranty or other written evidence from the motor vehicle biodiesel
+                    supplier who supplied or distributed the motor vehicle biodiesel that the motor
+                    vehicle biodiesel contained an ester content of the percentage as indicated on
+                    the motor vehicle biodiesel label; and</content></paragraph><paragraph id="ID_1438411870003_013" name="b" temporalId="s12_5_b"><num value="b">(b)</num><content>at the time of the alleged offence, the motor vehicle biodiesel was in the
+                    same state as it was in at the time of delivery to the retailer.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2010/ln50">L.N. 50 of
+                            2010</ref>)</sourceNote></content></paragraph></subsection></section></part><schedule id="ID_1438402968630_001" name="sch1" reason="inEffect" startPeriod="2023-03-09" status="operational" temporalId="sch1"><num value="1">Schedule
+            1</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap311L/s2">s. 2</ref>]</note><heading>Specifications
+            of
+            Motor
+            Vehicle
+            Diesel<marker role="blank-line"></marker><marker role="blank-line"></marker></heading><leadIn class="left_indent_0">Any motor vehicle diesel
+            must—</leadIn><section id="ID_1558601174221_001" name="s0" temporalId="sch1_s0"><subsection id="ID_1438411870049_022" name="a" temporalId="sch1_s0_a"><num value="a">(a)</num><content>have a cetane number of not less than 51.0, as determined in accordance
+                    with EN ISO 5165:1998;</content></subsection><subsection id="ID_1438411870049_031" name="b" temporalId="sch1_s0_b"><num value="b">(b)</num><content>have a cetane index of not lower than 46.0, as determined in accordance
+                    with EN ISO 4264:2007;</content></subsection><subsection id="ID_1438411870049_040" name="c" temporalId="sch1_s0_c"><num value="c">(c)</num><content>have a density at 15<sup>o</sup>C of not lower than 820.0 kg/m<sup>3</sup>
+                    and not higher than 845.0 kg/m<sup>3</sup>, as determined in accordance with EN
+                    ISO 3675:1998;</content></subsection><subsection id="ID_1438411870049_049" name="d" temporalId="sch1_s0_d"><num value="d">(d)</num><content>contain not more than 11% by mass of polycyclic aromatic hydrocarbons, as
+                    determined in accordance with EN 12916:2006;</content></subsection><subsection id="ID_1438411870065_007" name="e" temporalId="sch1_s0_e"><num value="e">(e)</num><content>contain not more than 10.0 mg/kg of sulphur, as determined in accordance
+                    with EN ISO 20884:2004;</content></subsection><subsection id="ID_1438411870065_016" name="f" temporalId="sch1_s0_f"><num value="f">(f)</num><content>have a flash point of above 55<sup>o</sup>C, as determined in accordance
+                    with EN ISO 2719:2002;</content></subsection><subsection id="ID_1438411870065_025" name="g" temporalId="sch1_s0_g"><num value="g">(g)</num><content>contain not more than 0.30% by mass of carbon residue (on 10% distillation
+                    residue), as determined in accordance with EN ISO 10370:1995;</content></subsection><subsection id="ID_1438411870065_034" name="h" temporalId="sch1_s0_h"><num value="h">(h)</num><content>contain not more than 0.01% by mass of ash, as determined in accordance
+                    with EN ISO 6245:2002;</content></subsection><subsection id="ID_1438411870081_007" name="i" temporalId="sch1_s0_i"><num value="i">(i)</num><content>contain not more than 200 mg/kg of water content, as determined in
+                    accordance with EN ISO 12937:2000;</content></subsection><subsection id="ID_1438411870081_016" name="j" temporalId="sch1_s0_j"><num value="j">(j)</num><content>contain not more than 24 mg/kg of total contamination, as determined in
+                    accordance with EN 12662:2008;</content></subsection><subsection id="ID_1438411870081_025" name="k" temporalId="sch1_s0_k"><num value="k">(k)</num><content>have a copper strip corrosion (3 hours at 50<sup>o</sup>C) rating of Class
+                    1, as determined in accordance with EN ISO 2160:1998;</content></subsection><subsection id="ID_1438411870081_034" name="l" temporalId="sch1_s0_l"><num value="l">(l)</num><content>have an oxidation stability of not higher than 25 g/m<sup>3</sup>, as
+                    determined in accordance with EN ISO 12205:1996;</content></subsection><subsection id="ID_1438411870081_043" name="m" temporalId="sch1_s0_m"><num value="m">(m)</num><content>have a lubricity, corrected wear scar diameter (wsd 1.4) at
+                    60<sup>o</sup>C, of not higher than 460 μm, as determined in accordance with EN
+                    ISO 12156-1:2006;</content></subsection><subsection id="ID_1438411870081_052" name="n" temporalId="sch1_s0_n"><num value="n">(n)</num><content>have a viscosity at 40<sup>o</sup>C of not lower than 2.00 mm<sup>2</sup>/s
+                    and not higher than 4.50 mm<sup>2</sup>/s, as determined in accordance with EN
+                    ISO 3104:1996;</content></subsection><subsection id="ID_1438411870081_061" name="o" temporalId="sch1_s0_o"><num value="o">(o)</num><content>have a distillation percentage recovered at 250<sup>o</sup>C of lower than
+                    65% by volume, as determined in accordance with EN ISO 3405:2000;</content></subsection><subsection id="ID_1438411870081_070" name="p" temporalId="sch1_s0_p"><num value="p">(p)</num><content>have a distillation percentage recovered at 350<sup>o</sup>C of not lower
+                    than 85% by volume, as determined in accordance with EN ISO 3405:2000;</content></subsection><subsection id="ID_1438411870081_079" name="q" temporalId="sch1_s0_q"><num value="q">(q)</num><content>have a distillation percentage recovered at not higher than
+                    360<sup>o</sup>C of 95% by volume, as determined in accordance with EN ISO
+                    3405:2000; and</content></subsection><subsection id="ID_1438411870096_007" name="r" temporalId="sch1_s0_r"><num value="r">(r)</num><content>contain an ester content of not more than 5%, as determined in accordance
+                    with EN
+                    14078:2003.</content></subsection></section><continued>
+            <table xmlns="http://www.w3.org/1999/xhtml" width="445">
+                <colgroup>
+                    <col width="10%"></col>
+                    <col width="90%"></col>
+                </colgroup>
+                <tbody>
+                    <tr>
+                        <td><b xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Note</b>:</td>
+                        <td>In this <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Schedule</ref>—</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>
+                            <def xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" name="EN" class="align_justified"><b><i>EN</i></b> followed by a numerical
+                                symbol (<b><i>EN number</i></b>) means the document published by the
+                                European Committee for Standardization commonly known by that EN
+                                number;</def>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>
+                            <def xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" name="ENISO" class="align_justified"><b><i>EN ISO</i></b> followed by a numerical
+                                symbol (<b><i>EN ISO number</i></b>) means the document published by
+                                the European Committee for Standardization commonly known by that EN
+                                ISO number.</def>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </continued><sourceNote>(<ref>Schedule
+                1</ref> replaced <ref href="/hk/2010/ln50">L.N. 50 of
+        2010</ref>)</sourceNote></schedule><schedule id="ID_1438402968630_003" name="sch2" reason="inEffect" startPeriod="2023-03-09" status="operational" temporalId="sch2"><num value="2">Schedule
+            2</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap311L/s2">s. 2</ref>]</note><heading>Specifications
+            of
+            Unleaded
+            Petrol<marker role="blank-line"></marker><marker role="blank-line"></marker></heading><leadIn class="left_indent_0">Any unleaded petrol
+            must—</leadIn><section id="ID_1558683964001_001" name="s0" temporalId="sch2_s0"><subsection id="ID_1438411870143_022" name="a" temporalId="sch2_s0_a"><num value="a">(a)</num><content>have a research octane number of not less than 95.0, as determined in
+                    accordance with EN ISO 5164:2005;</content></subsection><subsection id="ID_1438411870143_031" name="b" temporalId="sch2_s0_b"><num value="b">(b)</num><content>have a motor octane number of not less than 85.0, as determined in
+                    accordance with EN ISO 5163:2005;</content></subsection><subsection id="ID_1438411870143_040" name="c" temporalId="sch2_s0_c"><num value="c">(c)</num><content>contain not more than 5.0 mg/L of lead, as determined in accordance with EN
+                    237:2004;</content></subsection><subsection id="ID_1438411870143_049" name="d" temporalId="sch2_s0_d"><num value="d">(d)</num><content>contain not more than 10.0 mg/kg of sulphur, as determined in accordance
+                    with EN ISO 20884:2004;</content></subsection><subsection id="ID_1438411870143_058" name="e" temporalId="sch2_s0_e"><num value="e">(e)</num><content>have an oxidation stability of not lower than 360 minutes, as determined in
+                    accordance with EN ISO 7536:1996;</content></subsection><subsection id="ID_1438411870143_067" name="f" temporalId="sch2_s0_f"><num value="f">(f)</num><content>have an existent gum content (solvent washed) of not higher than 5 mg/100
+                    ml, as determined in accordance with EN ISO 6246:1997;</content></subsection><subsection id="ID_1438411870143_076" name="g" temporalId="sch2_s0_g"><num value="g">(g)</num><content>have a copper strip corrosion (3 hours at 50<sup>o</sup>C) rating of Class
+                    1, as determined in accordance with EN ISO 2160:1998;</content></subsection><subsection id="ID_1438411870143_085" name="h" temporalId="sch2_s0_h"><num value="h">(h)</num><content>have a clear and bright appearance as determined by visual
+                    inspection;</content></subsection><subsection id="ID_1438411870143_094" name="i" temporalId="sch2_s0_i"><num value="i">(i)</num><content>contain not more than 18.0% by volume of olefins, as determined in
+                    accordance with EN 14517:2004;</content></subsection><subsection id="ID_1438411870143_103" name="j" temporalId="sch2_s0_j"><num value="j">(j)</num><content>contain not more than 35.0% by volume of aromatic hydrocarbons, as
+                    determined in accordance with EN
+                    14517:2004;<marker role="section-break"></marker></content></subsection><subsection id="ID_1438411870159_007" name="k" temporalId="sch2_s0_k"><num value="k">(k)</num><content>contain not more than 1.00% by volume of benzene content, as determined in
+                    accordance with EN 12177:1998;</content></subsection><subsection id="ID_1438411870159_016" name="l" temporalId="sch2_s0_l"><num value="l">(l)</num><content>contain not more than 2.7% by mass of oxygen content, as determined in
+                    accordance with EN 1601:1997;</content></subsection><subsection id="ID_1438411870159_025" name="m" temporalId="sch2_s0_m"><num value="m">(m)</num><content>contain not more than 3.0% by volume of methanol (stabilizing agents must
+                    be added), as determined in accordance with EN 1601:1997;</content></subsection><subsection id="ID_1438411870159_034" name="n" temporalId="sch2_s0_n"><num value="n">(n)</num><content>contain not more than 5.0% by volume of ethanol (stabilizing agents may be
+                    necessary), as determined in accordance with EN 1601:1997;</content></subsection><subsection id="ID_1438411870159_043" name="o" temporalId="sch2_s0_o"><num value="o">(o)</num><content>contain not more than 10.0% by volume of iso-propyl alcohol, as determined
+                    in accordance with EN 1601:1997;</content></subsection><subsection id="ID_1438411870159_052" name="p" temporalId="sch2_s0_p"><num value="p">(p)</num><content>contain not more than 10.0% by volume of iso-butyl alcohol, as determined
+                    in accordance with EN 1601:1997;</content></subsection><subsection id="ID_1438411870159_061" name="q" temporalId="sch2_s0_q"><num value="q">(q)</num><content>contain not more than 7.0% by volume of tert-butyl alcohol, as determined
+                    in accordance with EN 1601:1997;</content></subsection><subsection id="ID_1438411870159_070" name="r" temporalId="sch2_s0_r"><num value="r">(r)</num><content>contain not more than 15.0% by volume of ethers (containing 5 or more
+                    carbon atoms per molecule), as determined in accordance with EN
+                    1601:1997;</content></subsection><subsection id="ID_1438411870174_001" name="s" temporalId="sch2_s0_s"><num value="s">(s)</num><content>contain not more than 10.0% by volume of other oxygenates with a final
+                    boiling point not higher than 210<sup>o</sup>C, as determined in accordance with
+                    EN 1601:1997;</content></subsection><subsection id="ID_1438411870174_010" name="t" temporalId="sch2_s0_t"><num value="t">(t)</num><content>have a vapour pressure (dry vapour pressure equivalent) of not higher than
+                    60.0 kilopascal at 37.8<sup>o</sup>C, as determined in accordance with EN
+                    13016-1:2007;</content></subsection><subsection id="ID_1438411870174_019" name="u" temporalId="sch2_s0_u"><num value="u">(u)</num><content>have not less than 46.0% by volume evaporated at 100<sup>o</sup>C, as
+                    determined in accordance with EN ISO 3405:2000; and</content></subsection><subsection id="ID_1438411870174_028" name="v" temporalId="sch2_s0_v"><num value="v">(v)</num><content>have not less than 75.0% by volume evaporated at 150<sup>o</sup>C, as
+                    determined in accordance with EN ISO
+                    3405:2000.<marker role="blank-line"></marker><marker role="section-break"></marker></content></subsection></section><continued>
+            <table xmlns="http://www.w3.org/1999/xhtml" width="445">
+                <colgroup>
+                    <col width="10%"></col>
+                    <col width="90%"></col>
+                </colgroup>
+                <tbody>
+                    <tr>
+                        <td><b xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Note</b>:</td>
+                        <td>In this <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Schedule</ref>—</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>
+                            <def xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" name="EN" class="align_justified"><b><i>EN</i></b> followed by a numerical
+                                symbol (<b><i>EN number</i></b>) means the document published by the
+                                European Committee for Standardization commonly known by that EN
+                                number;</def>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>
+                            <def xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" name="ENISO" class="align_justified"><b><i>EN ISO</i></b> followed by a numerical
+                                symbol (<b><i>EN ISO number</i></b>) means the document published by
+                                the European Committee for Standardization commonly known by that EN
+                                ISO number;</def>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>
+                            <def xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" name="OtherOxygenates" class="align_justified"><term>other
+                                    oxygenates</term> as appearing in paragraph (s) means
+                                mono-alcohols and ethers other than those specified in paragraphs
+                                (m) to (r).</def>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </continued><sourceNote>(<ref>Schedule
+                2</ref> replaced <ref href="/hk/2010/ln50">L.N. 50 of
+        2010</ref>)</sourceNote></schedule><schedule id="ID_1438402968646_002" name="sch3" reason="inEffect" startPeriod="2023-03-09" status="operational" temporalId="sch3"><num value="3">Schedule
+            3</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap311L/s2">s. 2</ref>]</note><heading>Specifications
+            of
+            Pure
+            Motor
+            Vehicle
+            Biodiesel<marker role="blank-line"></marker><marker role="blank-line"></marker></heading><leadIn>Any
+            pure motor vehicle biodiesel
+            must—</leadIn><section id="ID_1558667039738_001" name="s0" temporalId="sch3_s0"><subsection id="ID_1438411870237_022" name="a" temporalId="sch3_s0_a"><num value="a">(a)</num><content>contain not less than 96.5% by mass of fatty acid methyl ester, as
+                    determined in accordance with EN 14103:2003;</content></subsection><subsection id="ID_1438411870237_031" name="b" temporalId="sch3_s0_b"><num value="b">(b)</num><content>have a density at 15<sup>o</sup>C of not lower than 860 kg/m<sup>3</sup>
+                    and not higher than 900 kg/m<sup>3</sup>, as determined in accordance with EN
+                    ISO 3675:1998;</content></subsection><subsection id="ID_1438411870237_040" name="c" temporalId="sch3_s0_c"><num value="c">(c)</num><content>have a viscosity at 40<sup>o</sup>C of not lower than 3.50 mm<sup>2</sup>/s
+                    and not higher than 5.00 mm<sup>2</sup>/s, as determined in accordance with EN
+                    ISO 3104:1996;</content></subsection><subsection id="ID_1438411870237_049" name="d" temporalId="sch3_s0_d"><num value="d">(d)</num><content>have a flash point of above 101<sup>o</sup>C, as determined in accordance
+                    with EN ISO 3679:2004;</content></subsection><subsection id="ID_1438411870252_007" name="e" temporalId="sch3_s0_e"><num value="e">(e)</num><content>contain not more than 10.0 mg/kg of sulphur, as determined in accordance
+                    with EN ISO 20884:2004;</content></subsection><subsection id="ID_1438411870252_016" name="f" temporalId="sch3_s0_f"><num value="f">(f)</num><content>contain not more than 0.30% by mass of carbon residue (on 10% distillation
+                    residue), as determined in accordance with EN ISO 10370:1995;</content></subsection><subsection id="ID_1438411870252_025" name="g" temporalId="sch3_s0_g"><num value="g">(g)</num><content>have a cetane number of not less than 51.0, as determined in accordance
+                    with EN ISO 5165:1998;</content></subsection><subsection id="ID_1438411870252_034" name="h" temporalId="sch3_s0_h"><num value="h">(h)</num><content>contain not more than 0.02% by mass of sulphated ash, as determined in
+                    accordance with ISO 3987:1994;</content></subsection><subsection id="ID_1438411870252_043" name="i" temporalId="sch3_s0_i"><num value="i">(i)</num><content>contain not more than 500 mg/kg of water, as determined in accordance with
+                    EN ISO 12937:2000;</content></subsection><subsection id="ID_1438411870252_052" name="j" temporalId="sch3_s0_j"><num value="j">(j)</num><content>contain not more than 24 mg/kg of total contamination, as determined in
+                    accordance with EN 12662:2008;</content></subsection><subsection id="ID_1438411870252_061" name="k" temporalId="sch3_s0_k"><num value="k">(k)</num><content>have a copper strip corrosion (for 3 hours at 50<sup>o</sup>C) rating of
+                    Class 1, as determined in accordance with EN ISO 2160:1998;</content></subsection><subsection id="ID_1438411870252_070" name="l" temporalId="sch3_s0_l"><num value="l">(l)</num><content>have an oxidation stability at 110<sup>o</sup>C of not lower than 6
+                    hours,
+                    as determined in accordance with EN 14112:2003;</content></subsection><subsection id="ID_1438411870252_079" name="m" temporalId="sch3_s0_m"><num value="m">(m)</num><content>have an acid value of not more than 0.50 mg KOH/g, as determined in
+                    accordance with EN 14104:2003;</content></subsection><subsection id="ID_1438411870252_088" name="n" temporalId="sch3_s0_n"><num value="n">(n)</num><content>have an iodine value of not more than 120 g iodine/100 g, as determined in
+                    accordance with EN 14111:2003;</content></subsection><subsection id="ID_1438411870268_007" name="o" temporalId="sch3_s0_o"><num value="o">(o)</num><content>contain not more than 12.0% by mass of linolenic acid methyl ester, as
+                    determined in accordance with EN 14103:2003;</content></subsection><subsection id="ID_1438411870268_016" name="p" temporalId="sch3_s0_p"><num value="p">(p)</num><content>contain not more than 1% by mass of polyunsaturated (greater than or equal
+                    to 4 double bonds) methyl esters;</content></subsection><subsection id="ID_1438411870268_025" name="q" temporalId="sch3_s0_q"><num value="q">(q)</num><content>contain not more than 0.20% by mass of methanol content, as determined in
+                    accordance with EN 14110:2003;</content></subsection><subsection id="ID_1438411870268_034" name="r" temporalId="sch3_s0_r"><num value="r">(r)</num><content>contain not more than 0.80% by mass of monoglyceride content, as determined
+                    in accordance with EN 14105:2003;</content></subsection><subsection id="ID_1438411870268_043" name="s" temporalId="sch3_s0_s"><num value="s">(s)</num><content>contain not more than 0.20% by mass of diglyceride content, as determined
+                    in accordance with EN 14105:2003;</content></subsection><subsection id="ID_1438411870268_052" name="t" temporalId="sch3_s0_t"><num value="t">(t)</num><content>contain not more than 0.20% by mass of triglyceride content, as determined
+                    in accordance with EN 14105:2003;</content></subsection><subsection id="ID_1438411870268_061" name="u" temporalId="sch3_s0_u"><num value="u">(u)</num><content>contain not more than 0.02% by mass of free glycerol, as determined in
+                    accordance with EN 14105:2003;</content></subsection><subsection id="ID_1438411870268_070" name="v" temporalId="sch3_s0_v"><num value="v">(v)</num><content>contain not more than 0.25% by mass of total glycerol, as determined in
+                    accordance with EN 14105:2003;</content></subsection><subsection id="ID_1438411870268_079" name="w" temporalId="sch3_s0_w"><num value="w">(w)</num><content>contain not more than 5.0 mg/kg of Group I metals (sodium plus potassium),
+                    as determined in accordance with EN 14538:2006;</content></subsection><subsection id="ID_1438411870283_007" name="x" temporalId="sch3_s0_x"><num value="x">(x)</num><content>contain not more than 5.0 mg/kg of Group II metals (calcium plus
+                    magnesium), as determined in accordance with EN 14538:2006;</content></subsection><subsection id="ID_1438411870283_016" name="y" temporalId="sch3_s0_y"><num value="y">(y)</num><content>contain not more than 4.0 mg/kg of phosphorus content, as determined in
+                    accordance with EN 14107:2003; and</content></subsection><subsection id="ID_1438411870283_025" name="z" temporalId="sch3_s0_z"><num value="z">(z)</num><content>contain no substance other than those specified in the preceding paragraphs
+                    (unless the substance is an additive).<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2010/ln50">L.N. 50 of
+                        2010</ref>)</sourceNote><marker role="blank-line"></marker></content></subsection></section><continued>
+            <table xmlns="http://www.w3.org/1999/xhtml" width="445">
+                <colgroup>
+                    <col width="10%"></col>
+                    <col width="90%"></col>
+                </colgroup>
+                <tbody>
+                    <tr>
+                        <td><b xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Note</b>:</td>
+                        <td>In this <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Schedule</ref>—</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>
+                            <def xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" name="EN" class="align_justified"><b><i>EN</i></b> followed by a numerical
+                                symbol (<b><i>EN number</i></b>) means the document published by the
+                                European Committee for Standardization commonly known by that EN
+                                number;</def>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>
+                            <def xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" name="ENISO" class="align_justified"><b><i>EN ISO</i></b> followed by a numerical
+                                symbol (<b><i>EN ISO number</i></b>) means the document published by
+                                the European Committee for Standardization commonly known by that EN
+                                ISO number;</def>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>
+                            <def xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" name="ISO" class="align_justified"><b><i>ISO</i></b> followed by a numerical
+                                symbol (<b><i>ISO number</i></b>) means the document published by
+                                the International Organization for Standardization commonly known by
+                                that ISO number.</def>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </continued><sourceNote>(<ref>Schedule
+                3</ref> added <ref href="/hk/2009/ln233">L.N. 233 of 2009</ref>. <ref href="/hk/2010/ln50">L.N. 50 of 2010</ref>)</sourceNote></schedule><schedule id="ID_1438402968661_002" name="sch4" reason="inEffect" startPeriod="2023-03-09" status="operational" temporalId="sch4"><num value="4">Schedule
+            4</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap311L/s2">s. 2</ref>]</note><heading>Specifications
+            of
+            Motor
+            Vehicle
+            Biodiesel
+            Label<marker role="blank-line"></marker><marker role="blank-line"></marker></heading><subsection id="ID_1438411870346_011" name="1" temporalId="sch4_1"><num value="1">1.</num><content>The design of the label must be as specified in the diagram
+                    below—<marker role="blank-line"></marker><table xmlns="http://www.w3.org/1999/xhtml" class="left_indent_0">
+                    <col width="5%"></col>
+                    <col width="95%"></col>
+                    <tr>
+                        <td colspan="2" class="border_top_0.75 border_right_0.75 border_left_0.75">
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2" class="border_right_0.75 border_left_0.75">
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">汽車生化柴油<br></br>Motor
+                                Vehicle Biodiesel</center>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2" class="border_right_0.75 border_left_0.75">
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2" class="border_right_0.75 border_left_0.75">
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">本(i)的酯含量為(ii)%*<br></br>This (iii) contains (iv)% of ester
+                                    content<inline class="force_alt_font">*</inline></center>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2" class="border_right_0.75 border_left_0.75">
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2" class="border_right_0.75 border_left_0.75">
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">不適合某些車輛<br></br>Not
+                                suitable for some vehicles<br></br>使用前請諮詢有關的認可車輛代理商<br></br>Consult the
+                                relevant authorized vehicle dealers before use</center>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2" class="border_right_0.75 border_left_0.75">
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2" class="border_right_0.75 border_left_0.75 cellpadding_left_5 cellpadding_right_5">
+                            <p class="align_justified">本汽車生化柴油為《空氣污染管制(汽車燃料)規例》(<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap311L">第311章，附屬法例L</ref>)所指的汽車生化柴油。<br></br>This motor
+                                vehicle biodiesel is the motor vehicle biodiesel within the meaning
+                                of the Air Pollution Control (Motor Vehicle Fuel) Regulation (<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap311L">Cap. 311 sub. leg. L</ref>).</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2" class="border_right_0.75 border_left_0.75">
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="border_left_0.75 cellpadding_left_5">*</td>
+                        <td class="border_right_0.75 cellpadding_right_5 cellpadding_left_5">
+                            <p>實際酯含量與本標籤所示的含量，相差不多於1%。</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="border_left_0.75 border_bottom_0.75 cellpadding_left_5"><inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="force_alt_font">*</inline></td>
+                        <td class="border_right_0.75  border_bottom_0.75 cellpadding_right_5 cellpadding_left_5">
+                            <p>The actual ester content does not deviate by more than 1% from the
+                                content shown on this label.</p>
+                        </td>
+                    </tr>
+                </table><marker role="section-break"></marker></content></subsection><subsection id="ID_1438411870346_019" name="2" temporalId="sch4_2"><num value="2">2.</num><content>The label must be rectangular in shape and must have a minimum size of 60 cm
+                wide and 45 cm high and surrounded by a black line as
+                demarcation.<marker role="blank-line"></marker></content></subsection><subsection id="ID_1438411870346_027" name="3" temporalId="sch4_3"><num value="3">3.</num><content>The background colour of the label must be
+                yellow.<marker role="blank-line"></marker></content></subsection><subsection id="ID_1438411870346_035" name="4" temporalId="sch4_4"><num value="4">4.</num><content>For the Chinese text, all characters and numbers, except otherwise specified in
+                    <ref>paragraph 6</ref> below, must be printed in black, “標楷體” Bold typeface and
+                24 mm high font
+                size.<marker role="blank-line"></marker></content></subsection><subsection id="ID_1438411870346_043" name="5" temporalId="sch4_5"><num value="5">5.</num><content>For the English text, all letters and numbers must be printed in black, Arial
+                typeface and 25 mm high font
+                size.<marker role="blank-line"></marker></content></subsection><subsection id="ID_1438411870346_051" name="6" temporalId="sch4_6"><num value="6">6.</num><content>The characters “不適合某些車輛” and “使用前請諮詢有關的認可車輛代理商” must be printed in red, “標楷體”
+                Bold typeface and 24 mm high font
+                size.<marker role="blank-line"></marker></content></subsection><subsection id="ID_1438411870346_059" name="7" temporalId="sch4_7"><num value="7">7.</num><leadIn>The spaces marked by (i) and (iii) must be printed with—</leadIn><paragraph id="ID_1438411870346_069" name="a" temporalId="sch4_7_a"><num value="a">(a)</num><content>if the motor vehicle biodiesel is pure motor vehicle biodiesel, the
+                    characters “純汽車生化柴油” and the letters “pure motor vehicle biodiesel”
+                    respectively; or</content></paragraph><paragraph id="ID_1438411870361_007" name="b" temporalId="sch4_7_b"><num value="b">(b)</num><content>if the motor vehicle biodiesel is motor vehicle biodiesel blend, the
+                    characters “汽車生化柴油混合物” and the letters “motor vehicle biodiesel blend”
+                    respectively.<marker role="blank-line"></marker></content></paragraph></subsection><subsection id="ID_1438411870361_013" name="8" temporalId="sch4_8"><num value="8">8.</num><leadIn>The spaces marked by (ii) and (iv) must be printed with a number representing
+                the proportion in percentage of the ester content in the motor vehicle biodiesel as
+                determined in accordance with—  <sourceNote>(<ref href="/hk/2010/ln50">L.N. 50 of
+                        2010</ref>)</sourceNote></leadIn><paragraph id="ID_1438411870361_023" name="a" temporalId="sch4_8_a"><num value="a">(a)</num><content>if the motor vehicle biodiesel is pure motor vehicle biodiesel, the
+                    document published by the European Committee for Standardization commonly known
+                    as EN 14103:2003;
+                    or<marker role="section-break"></marker></content></paragraph><paragraph id="ID_1438411870361_032" name="b" temporalId="sch4_8_b"><num value="b">(b)</num><content>if the motor vehicle biodiesel is motor vehicle biodiesel blend, the
+                    document published by the European Committee for Standardization commonly known
+                    as EN 14078:2003.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2010/ln50">L.N. 50 of 2010</ref>)</sourceNote></content></paragraph><sourceNote>(<ref>Schedule 4</ref> added <ref href="/hk/2009/ln233">L.N. 233 of
+                    2009</ref>)</sourceNote></subsection></schedule></main></subLeg>

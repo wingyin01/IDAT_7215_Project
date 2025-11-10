@@ -1,0 +1,654 @@
+<?xml version="1.0" encoding="UTF-8"?><subLeg xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd" xml:lang="en"><meta><docName>Cap. 59 sub. leg. F</docName><docType>cap</docType><docNumber>59F</docNumber><docStatus>In effect</docStatus><dc:identifier>/hk/cap59F!en</dc:identifier><dc:date>2024-08-22</dc:date><dc:subject>legislation</dc:subject><dc:language>en</dc:language><dc:publisher>DoJ</dc:publisher><dc:rights>the Government of the Hong Kong Special Administrative Region</dc:rights></meta><main xml:lang="en" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd"><docTitle id="ID_1438403504426_002" name="shortTitle" reason="inEffect" status="operational" temporalId="shortTitle" startPeriod="2024-08-22">Quarries
+                                    (Safety) Regulations</docTitle><enactingFormula role="empoweringSection">(<ref href="/hk/cap59/s7">Cap. 59, section
+            7</ref>)<marker role="blank-line"></marker><marker role="blank-line"></marker></enactingFormula><commencementNote>[28 February 1969]</commencementNote><sourceNote>(Format changes—<ref href="/hk/2024/er4">E.R. 4 of
+                                    2024</ref>)</sourceNote><part id="ID_1438403504426_004" name="P1" reason="inEffect" startPeriod="2024-08-22" status="operational" temporalId="P1"><num value="1">Part I</num><heading>Preliminary</heading><section id="ID_1438403504441_001" name="s1" reason="inEffect" role="regulation" startPeriod="2024-08-22" status="operational" temporalId="s1"><num value="1">1.</num><heading>Citation</heading><content>These regulations may be cited as the <shortTitle>Quarries (Safety) Regulations</shortTitle>.</content></section><section id="ID_1438403504441_003" name="s2" reason="inEffect" role="regulation" startPeriod="2024-08-22" status="operational" temporalId="s2"><num value="2">2.</num><heading>Interpretation</heading><leadIn>In these regulations, unless the context otherwise requires—</leadIn><def name="Anchorage"><term>anchorage</term> (<term xml:lang="zh-Hant-HK">錨椿</term>) means a fixed
+            object of adequate strength, embedded in firm ground, to which a safety rope can be
+            securely attached;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1973/ln208">L.N. 208 of 1973</ref>)</sourceNote></def><def name="ApprovedDeputySupervisor"><term>approved deputy supervisor</term> (<term xml:lang="zh-Hant-HK">認可副主管</term>) means a person approved as a deputy supervisor
+            of a quarry under <ref>regulation 6(1)</ref>;</def><def name="ApprovedSupervisor"><term>approved supervisor</term> (<term xml:lang="zh-Hant-HK">認可主管</term>) means a person approved as a supervisor of a quarry under
+                <ref>regulation 4(1)</ref>;</def><def name="Banksman"><term>banksman</term> (<term xml:lang="zh-Hant-HK">工作區指導員</term>) means a
+            person who, for the purpose of preventing any mechanical equipment in a quarry from
+            going over the edge of any face, side, tip or embankment in the quarry, directs and
+            guides the operator or driver of that equipment from the ground;</def><def name="DangerousOccurrence"><term>dangerous occurrence</term> (<term xml:lang="zh-Hant-HK">危險事故</term>) means an occurrence specified in the <ref>Schedule</ref> to the
+            Factories and Industrial Undertakings Regulations (<ref href="/hk/cap59A">Cap. 59 sub.
+                leg. A</ref>); <sourceNote>(<ref href="/hk/2024/er4">E.R. 4 of
+                2024</ref>)</sourceNote></def><def name="EquipmentRegister"><term>Equipment Register</term> (<term xml:lang="zh-Hant-HK">設備登記冊</term>) means the register required to be kept and maintained in a quarry
+            under <ref>regulation 14(1)(a)</ref>;</def><def name="MechanicalEquipment"><term>mechanical equipment</term> (<term xml:lang="zh-Hant-HK">機動設備</term>) means a bulldozer, dumper, excavator, grader, lorry or shovel loader,
+            or any mobile machine which is used for the handling of any substance in a quarry;</def><def name="Overburden"><term>overburden</term> (<term xml:lang="zh-Hant-HK">覆蓋層</term>) means any
+            other substance which overlies the granite, porphyry or limestone which is extracted in
+            a quarry;</def><def name="PersonTrainedInFirstAid"><leadIn><term>person trained in first aid</term> (<term xml:lang="zh-Hant-HK">曾受急救訓練的人</term>) means
+                a person who—</leadIn><paragraph id="ID_1438413655011_040" name="a" temporalId="s2_a"><num value="a">(a)</num><content>holds a current certificate of competency in first aid issued by the St. John Ambulance Association; or</content></paragraph><paragraph id="ID_1438413655011_048" name="b" temporalId="s2_b"><num value="b">(b)</num><content>is a registered nurse within the meaning of the Nurses Registration Ordinance (<ref href="/hk/cap164">Cap. 164</ref>),</content></paragraph><continued>and, until 1 July 1970, also means a person who holds a certificate of competency in first aid issued by the St. John Ambulance Association at any time after 1 October 1959;</continued></def><def name="QuarryInspectionRegister"><term>Quarry Inspection Register</term> (<term xml:lang="zh-Hant-HK">石礦場視察登記冊</term>) means the register required to be kept and
+            maintained in a quarry under <ref>regulation 14(1)(b)</ref>;</def><def name="SafetyHarness"><term>safety harness</term> (<term xml:lang="zh-Hant-HK">安全吊帶</term>)
+            includes a safety belt;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1973/ln208">L.N. 208 of 1973</ref>)</sourceNote></def><def name="SafetyRope"><term>safety rope</term> (<term xml:lang="zh-Hant-HK">安全繩索</term>) means a
+            fibre or nylon rope which, whether consisting of a single length or made up of lengths,
+            has an overall minimum breaking load of 13 kilonewtons force and a minimum circumference
+            of 30 millimetres;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1973/ln208">L.N. 208 of 1973</ref>; <ref href="/hk/1984/ln238">L.N.
+                    238 of 1984</ref>)</sourceNote></def><def name="SupervisorOnDuty"><term>supervisor on duty</term> (<term xml:lang="zh-Hant-HK">當值主管</term>) means the approved supervisor or the approved deputy supervisor under
+            whose supervision any work is for the time being carried on in a quarry in accordance
+            with <ref>regulation 25(1)</ref> or (2);</def><def name="TimeRegister"><term>Time Register</term> (<term xml:lang="zh-Hant-HK">記時冊</term>) means
+            the register required to be kept and maintained in a quarry under <ref>regulation
+                14(1)(c)</ref>;</def><def name="Vehicle"><term>vehicle</term> (<term xml:lang="zh-Hant-HK">車輛</term>) includes any
+            mechanical equipment; <sourceNote>(<ref href="/hk/2024/er4">E.R. 4 of
+                2024</ref>)</sourceNote></def><def name="Work"><term>work</term> (<term xml:lang="zh-Hant-HK">工作</term>) includes the operation or
+            driving of any mechanical equipment.</def></section></part><part id="ID_1438403504457_001" name="P2" reason="inEffect" startPeriod="2024-08-22" status="operational" temporalId="P2"><num value="2">Part II</num><heading>Approval of Supervisors and Deputy Supervisors</heading><section id="ID_1438403504457_003" name="s3" reason="inEffect" role="regulation" startPeriod="2024-08-22" status="operational" temporalId="s3"><num value="3">3.</num><heading>Application for approval as supervisor</heading><subsection id="ID_1438413655121_004" name="1" temporalId="s3_1"><num value="1">(1)</num><content>An application for the approval of any person as a supervisor of a quarry shall
+                be made by that person in the prescribed
+                    form.<inline class="width_6"> </inline><i>(See
+                        <ref>First Schedule</ref>, Form 1)</i></content></subsection><subsection id="ID_1438413655121_012" name="2" temporalId="s3_2"><num value="2">(2)</num><content>Every application made under paragraph (1) shall have a full-face photograph of the applicant affixed thereto.</content></subsection><subsection id="ID_1438413655121_020" name="3" temporalId="s3_3"><num value="3">(3)</num><content>Any application made under paragraph (1) may specify a date, being not more than 3 months later than the date of the application, before which the applicant does not desire the approval to come into effect.</content></subsection></section><section id="ID_1438403504457_005" name="s4" reason="inEffect" role="regulation" startPeriod="2024-08-22" status="operational" temporalId="s4"><num value="4">4.</num><heading>Grounds for approval of supervisor</heading><subsection id="ID_1438413655152_004" name="1" temporalId="s4_1"><num value="1">(1)</num><leadIn>Where, on an application for the approval of any person as a supervisor of a quarry, the Commissioner for Labour is satisfied that the applicant—</leadIn><paragraph id="ID_1438413655152_012" name="a" temporalId="s4_1_a"><num value="a">(a)</num><content>is not less than 30 years of age;</content></paragraph><paragraph id="ID_1438413655152_020" name="b" temporalId="s4_1_b"><num value="b">(b)</num><content>has had not less than 5 years practical experience in work in quarries; and</content></paragraph><paragraph id="ID_1438413655152_028" name="c" temporalId="s4_1_c"><num value="c">(c)</num><content>is competent to be an approved supervisor of the quarry for the purposes of these regulations,</content></paragraph><continued>and that the proprietor consents to the approval of the applicant, the Commissioner for Labour may approve the applicant as a supervisor of the quarry.</continued></subsection><subsection id="ID_1438413655167_011" name="2" temporalId="s4_2"><num value="2">(2)</num><content>Where the Commissioner for Labour approves under paragraph (1) any applicant who has specified under <ref>regulation 3(3)</ref> a date before which the applicant does not desire such approval to come into effect, such approval shall come into effect on the date so specified.</content></subsection><subsection id="ID_1438413655167_019" name="3" temporalId="s4_3"><num value="3">(3)</num><content>Subject to paragraph (2), every approval by the Commissioner for Labour under paragraph (1) shall come into effect immediately.</content></subsection><subsection id="ID_1438413655167_027" name="4" temporalId="s4_4"><num value="4">(4)</num><content>Where, at the time that any approval by the Commissioner for Labour under paragraph (1) comes into effect, the applicant so approved is an approved supervisor or an approved deputy supervisor of any other quarry, the approval of the applicant in respect of such other quarry shall be deemed thereupon to be withdrawn.</content></subsection><subsection id="ID_1438413655183_005" name="5" temporalId="s4_5"><num value="5">(5)</num><content>Where the approval of any supervisor or deputy supervisor of a quarry is deemed to be withdrawn under paragraph (4), the Commissioner shall forthwith notify the proprietor of such quarry in writing, in English and in Chinese, that such approval has been so withdrawn.</content></subsection></section><section id="ID_1438403504472_002" name="s5" reason="inEffect" role="regulation" startPeriod="2024-08-22" status="operational" temporalId="s5"><num value="5">5.</num><heading>Application for approval as deputy supervisor</heading><subsection id="ID_1438413655214_004" name="1" temporalId="s5_1"><num value="1">(1)</num><content>An application for the approval of any person as a deputy supervisor of a
+                quarry shall be made by that person in the prescribed
+                    form.<inline class="width_6"> </inline><i>(See
+                        <ref>First Schedule</ref>, Form 1)</i></content></subsection><subsection id="ID_1438413655214_012" name="2" temporalId="s5_2"><num value="2">(2)</num><content>Every application made under paragraph (1) shall have a full-face photograph of the applicant affixed thereto.</content></subsection><subsection id="ID_1438413655230_005" name="3" temporalId="s5_3"><num value="3">(3)</num><content>Any application made under paragraph (1) may specify a date, being not more than 3 months later than the date of the application, before which the applicant does not desire the approval to come into effect.</content></subsection></section><section id="ID_1438403504472_004" name="s6" reason="inEffect" role="regulation" startPeriod="2024-08-22" status="operational" temporalId="s6"><num value="6">6.</num><heading>Grounds for approval of deputy supervisor</heading><subsection id="ID_1438413655245_020" name="1" temporalId="s6_1"><num value="1">(1)</num><leadIn>Where, on an application for the approval of any person as a deputy supervisor of a quarry, the Commissioner for Labour is satisfied that the applicant—</leadIn><paragraph id="ID_1438413655261_005" name="a" temporalId="s6_1_a"><num value="a">(a)</num><content>is not less than 25 years of age;</content></paragraph><paragraph id="ID_1438413655261_013" name="b" temporalId="s6_1_b"><num value="b">(b)</num><content>has had not less than 3 years practical experience in work in quarries; and</content></paragraph><paragraph id="ID_1438413655261_021" name="c" temporalId="s6_1_c"><num value="c">(c)</num><content>is competent to be an approved deputy supervisor of the quarry for the purposes of these regulations,</content></paragraph><continued>and that the proprietor consents to the approval of the applicant, the Commissioner for Labour may approve the applicant as a deputy supervisor of the quarry.</continued></subsection><subsection id="ID_1438413655261_034" name="2" temporalId="s6_2"><num value="2">(2)</num><content>Where the Commissioner for Labour approves under paragraph (1) any applicant who has specified under <ref>regulation 5(3)</ref> a date before which the applicant does not desire such approval to come into effect, such approval shall come into effect on the date so specified.</content></subsection><subsection id="ID_1438413655261_042" name="3" temporalId="s6_3"><num value="3">(3)</num><content>Subject to paragraph (2), every approval by the Commissioner for Labour under paragraph (1) shall come into effect immediately.</content></subsection><subsection id="ID_1438413655277_005" name="4" temporalId="s6_4"><num value="4">(4)</num><content>Where, at the time that any approval by the Commissioner for Labour under paragraph (1) comes into effect, the applicant so approved is an approved supervisor or an approved deputy supervisor of any other quarry, the approval of the applicant in respect of such other quarry shall be deemed thereupon to be withdrawn.</content></subsection><subsection id="ID_1438413655277_013" name="5" temporalId="s6_5"><num value="5">(5)</num><content>Where the approval of any supervisor or deputy supervisor of a quarry is deemed to be withdrawn under paragraph (4), the Commissioner shall forthwith notify the proprietor of such quarry in writing, in English and in Chinese, that such approval has been so withdrawn.</content></subsection></section><section id="ID_1438403504488_002" name="s7" reason="inEffect" role="regulation" startPeriod="2024-08-22" status="operational" temporalId="s7"><num value="7">7.</num><heading>Commissioner to serve notice of decision on applicant</heading><subsection id="ID_1438413655308_028" name="1" temporalId="s7_1"><num value="1">(1)</num><content>Where the Commissioner for Labour approves or refuses to approve any person as a supervisor or deputy supervisor under <ref>regulation 4(1)</ref> or <ref>regulation 6(1)</ref>, the Commissioner shall forthwith notify that person in writing, in English and in Chinese, of his decision.</content></subsection><subsection id="ID_1438413655323_005" name="2" temporalId="s7_2"><num value="2">(2)</num><leadIn>Where the Commissioner for Labour refuses to approve any person as a supervisor or deputy supervisor, the notice referred to in paragraph (1) shall include—</leadIn><paragraph id="ID_1438413655323_013" name="a" temporalId="s7_2_a"><num value="a">(a)</num><content>a statement of the reasons of the Commissioner for Labour for his refusal; and</content></paragraph><paragraph id="ID_1438413655323_021" name="b" temporalId="s7_2_b"><num value="b">(b)</num><content>an endorsement which shall set out the provisions of this regulation and of <ref>regulations 11</ref>, <ref>12</ref> and <ref>13</ref>.</content></paragraph></subsection><subsection id="ID_1438413655323_028" name="3" temporalId="s7_3"><num value="3">(3)</num><content>Any person whom the Commissioner for Labour refuses to approve as a supervisor or deputy supervisor under <ref>regulation 4(1)</ref> or <ref>regulation 6(1)</ref> may appeal to the Administrative Appeals Board.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1994/6">6 of 1994 s. 37</ref>)</sourceNote></content></subsection></section><section id="ID_1438403504488_004" name="s8" reason="inEffect" role="regulation" startPeriod="2024-08-22" status="operational" temporalId="s8"><num value="8">8.</num><heading>Approval to be withdrawn on request</heading><subsection id="ID_1438413655355_035" name="1" temporalId="s8_1"><num value="1">(1)</num><content>At the request of an approved supervisor or an approved deputy supervisor in a quarry, the Commissioner for Labour shall withdraw his approval of that supervisor or deputy supervisor.</content></subsection><subsection id="ID_1438413655370_005" name="2" temporalId="s8_2"><num value="2">(2)</num><content>Where the Commissioner for Labour withdraws his approval of any supervisor or deputy supervisor under paragraph (1), the Commissioner shall forthwith notify the proprietor of the quarry in writing, in English and in Chinese, that his approval has been so withdrawn.</content></subsection></section><section id="ID_1438403504504_001" name="s9" reason="inEffect" role="regulation" startPeriod="2024-08-22" status="operational" temporalId="s9"><num value="9">9.</num><heading>Proprietor to give notice of termination of employment of supervisor or deputy supervisor</heading><subsection id="ID_1438413655386_019" name="1" temporalId="s9_1"><num value="1">(1)</num><leadIn>Where the proprietor of a quarry ceases to employ an approved supervisor or an approved deputy supervisor, the proprietor shall within 14 days thereafter notify the Commissioner for Labour in writing, in English or in Chinese, of—</leadIn><paragraph id="ID_1438413655401_005" name="a" temporalId="s9_1_a"><num value="a">(a)</num><content>the full name of that supervisor or deputy supervisor; and</content></paragraph><paragraph id="ID_1438413655401_013" name="b" temporalId="s9_1_b"><num value="b">(b)</num><content>the date on which he ceased to employ that supervisor or deputy supervisor.</content></paragraph></subsection><subsection id="ID_1438413655401_020" name="2" temporalId="s9_2"><num value="2">(2)</num><content>Any proprietor who contravenes paragraph (1) shall be guilty of an offence.</content></subsection></section><section id="ID_1438403504504_003" name="s10" reason="inEffect" role="regulation" startPeriod="2024-08-22" status="operational" temporalId="s10"><num value="10">10.</num><heading>Grounds on which approval of supervisor or deputy supervisor may be withdrawn</heading><subsection id="ID_1438413655417_034" name="1" temporalId="s10_1"><num value="1">(1)</num><leadIn>Where the Commissioner for Labour is satisfied that an approved supervisor or an approved deputy supervisor of a quarry—</leadIn><paragraph id="ID_1438413655433_005" name="a" temporalId="s10_1_a"><num value="a">(a)</num><content>has been convicted of an offence against these regulations; or</content></paragraph><paragraph id="ID_1438413655433_013" name="b" temporalId="s10_1_b"><num value="b">(b)</num><content>is no longer acting as an approved supervisor or an approved deputy supervisor of the quarry for the purposes of these regulations,</content></paragraph><continued>he may withdraw his approval of that supervisor or deputy supervisor.</continued></subsection><subsection id="ID_1438413655433_026" name="2" temporalId="s10_2"><num value="2">(2)</num><leadIn>Where the Commissioner for Labour withdraws his approval of a supervisor or a deputy supervisor under paragraph (1), the Commissioner shall forthwith serve notice in writing, in English and in Chinese, of his decision on—</leadIn><paragraph id="ID_1438413655433_034" name="a" temporalId="s10_2_a"><num value="a">(a)</num><content>that supervisor or deputy supervisor; and</content></paragraph><paragraph id="ID_1438413655433_042" name="b" temporalId="s10_2_b"><num value="b">(b)</num><content>the proprietor of the quarry.</content></paragraph></subsection><subsection id="ID_1438413655433_049" name="3" temporalId="s10_3"><num value="3">(3)</num><leadIn>Every notice referred to in paragraph (2) shall include—</leadIn><paragraph id="ID_1438413655433_057" name="a" temporalId="s10_3_a"><num value="a">(a)</num><content>a statement of the reasons of the Commissioner for Labour for withdrawing his approval; and</content></paragraph><paragraph id="ID_1438413655448_006" name="b" temporalId="s10_3_b"><num value="b">(b)</num><content>an endorsement which shall set out the provisions of this regulation and of <ref>regulations 11</ref>, <ref>12</ref> and <ref>13</ref>.</content></paragraph></subsection><subsection id="ID_1438413655448_013" name="4" temporalId="s10_4"><num value="4">(4)</num><content>Any supervisor or deputy supervisor in respect of whom the Commissioner for Labour withdraws his approval under paragraph (1) may appeal to the Administrative Appeals Board.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1994/6">6 of 1994 s. 37</ref>)</sourceNote></content></subsection></section><section id="ID_1438403504504_005" name="s11" reason="inEffect" role="regulation" startPeriod="2024-08-22" status="operational" temporalId="s11"><num value="11">11.</num><heading>Time limit for appeal</heading><content>Every appeal under <ref>regulation 7(3)</ref> or <ref>regulation 10(4)</ref> shall be brought within 28 days of the date of service on the appellant of the notice in writing of the decision of the Commissioner for Labour against which the appeal is brought.</content><sourceNote>(<ref href="/hk/1994/6">6 of 1994 s. 37</ref>)</sourceNote></section><section id="ID_1438403504519_002" name="s11A" reason="inEffect" role="regulation" startPeriod="2024-08-22" status="operational" temporalId="s11A"><num value="11A">11A.</num><heading>Operation of decision in case of appeal</heading><content>A decision of the Commissioner for Labour against which an appeal is brought under <ref>regulation 10(4)</ref> shall be suspended in its operation as from the day on which the appeal is made until such appeal is disposed of, withdrawn or abandoned unless such suspension would, in the opinion of the Commissioner for Labour, be contrary to the public interest and the notice of the decision contains a statement to that effect.</content><sourceNote>(<ref href="/hk/1994/6">6 of 1994 s. 37</ref>)</sourceNote></section><section id="ID_1438403504519_004" name="s12" reason="inEffect" role="regulation" startPeriod="2024-08-22" status="operational" temporalId="s12"><num value="12">12.</num><heading>Powers of Chief Executive on appeal</heading><text>Upon any such appeal the Chief Executive may confirm, reverse or vary the decision of
+            the Commissioner for Labour.</text><sourceNote>(<ref href="/hk/2000/54">54 of 2000 s. 3</ref>)</sourceNote></section><section id="ID_1438403504535_001" name="s13" reason="inEffect" role="regulation" startPeriod="2024-08-22" status="operational" temporalId="s13"><num value="13">13.</num><heading>Permission for supervisor or deputy supervisor to continue to act pending appeal</heading><subsection id="ID_1438413655542_025" name="1" temporalId="s13_1"><num value="1">(1)</num><leadIn>Where the Commissioner for Labour withdraws his approval of a supervisor or deputy supervisor of a quarry under <ref>regulation 10(1)</ref>, the Commissioner for Labour may permit the supervisor or deputy supervisor to continue to be an approved supervisor or an approved deputy supervisor of the quarry on such conditions, if any, as the Commissioner for Labour thinks fit—</leadIn><paragraph id="ID_1438413655557_005" name="a" temporalId="s13_1_a"><num value="a">(a)</num><content>until the time specified in <ref>regulation 11</ref> for bringing an appeal has expired; or</content></paragraph><paragraph id="ID_1438413655557_013" name="b" temporalId="s13_1_b"><num value="b">(b)</num><content>where the supervisor or deputy supervisor within the time specified in <ref>regulation 11</ref> appeals against the decision of the Commissioner for Labour, until the appeal is disposed of,</content></paragraph><continued>whichever event occurs first.</continued></subsection><subsection id="ID_1438413655557_026" name="2" temporalId="s13_2"><num value="2">(2)</num><content>Notwithstanding paragraph (1), where the supervisor or deputy supervisor within the time specified in <ref>regulation 11</ref> appeals against the decision of the Commissioner for Labour and the appeal is not disposed of within that specified time, the Commissioner for Labour may permit the supervisor or deputy supervisor to continue to be an approved supervisor or an approved deputy supervisor of the quarry on such conditions, if any, as the Commissioner for Labour thinks fit, until the appeal is disposed of.</content></subsection></section></part><part id="ID_1438403504535_003" name="P3" reason="inEffect" startPeriod="2024-08-22" status="operational" temporalId="P3"><num value="3">Part III</num><heading>Registers</heading><section id="ID_1438403504535_005" name="s14" reason="inEffect" role="regulation" startPeriod="2024-08-22" status="operational" temporalId="s14"><num value="14">14.</num><heading>Registers to be kept in quarry</heading><subsection id="ID_1438413655620_004" name="1" temporalId="s14_1"><num value="1">(1)</num><leadIn>In every quarry there shall at all times be kept and maintained the following registers—</leadIn><paragraph id="ID_1438413655620_012" name="a" temporalId="s14_1_a"><num value="a">(a)</num><content>an Equipment Register;</content></paragraph><paragraph id="ID_1438413655620_020" name="b" temporalId="s14_1_b"><num value="b">(b)</num><content>a Quarry Inspection Register; and</content></paragraph><paragraph id="ID_1438413655620_028" name="c" temporalId="s14_1_c"><num value="c">(c)</num><content>a Time Register.</content></paragraph></subsection><subsection id="ID_1438413655620_035" name="2" temporalId="s14_2"><num value="2">(2)</num><content>Every register shall be in the prescribed form and may be maintained either in
+                English or in
+                    Chinese.<inline class="width_6"> </inline><i>(See
+                        <ref>First Schedule</ref>, Forms 2, 3
+                    and
+                    4)</i></content></subsection><subsection id="ID_1438413655620_043" name="3" temporalId="s14_3"><num value="3">(3)</num><content>The proprietor of any quarry in respect of which paragraph (1) or (2) is contravened shall be guilty of an offence.</content></subsection></section></part><part id="ID_1438403504550_002" name="P4" reason="inEffect" startPeriod="2024-08-22" status="operational" temporalId="P4"><num value="4">Part IV</num><heading>Safety Equipment</heading><section id="ID_1438403504550_004" name="s15" reason="inEffect" role="regulation" startPeriod="2024-08-22" status="operational" temporalId="s15"><num value="15">15.</num><heading>Quarry to be fenced</heading><subsection id="ID_1438413655667_004" name="1" temporalId="s15_1"><num value="1">(1)</num><content>Every quarry shall be bounded by a five-strand wire fence or by such other type of fence as the Commissioner or any officer authorized in writing by the Commissioner for Labour may approve in writing in any particular case.</content></subsection><subsection id="ID_1438413655667_012" name="2" temporalId="s15_2"><num value="2">(2)</num><content>Every fence shall be not less than 1.2 metres in height above the ground.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1984/ln238">L.N 238 of 1984</ref>)</sourceNote></content></subsection><subsection id="ID_1438413655682_005" name="3" temporalId="s15_3"><num value="3">(3)</num><content>The proprietor of any quarry in respect of which paragraph (1) or (2) is contravened shall be guilty of an offence.</content></subsection></section><section id="ID_1438403504566_001" name="s16" reason="inEffect" role="regulation" startPeriod="2024-08-22" status="operational" temporalId="s16"><num value="16">16.</num><heading>Warning notices</heading><subsection id="ID_1438413655698_019" name="1" temporalId="s16_1"><num value="1">(1)</num><content>Every quarry shall have along its boundary fences, at intervals of not more than 15 metres, warning notices in accordance with this regulation.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1984/ln238">L.N. 238 of 1984</ref>)</sourceNote></content></subsection><subsection id="ID_1438413655713_005" name="2" temporalId="s16_2"><num value="2">(2)</num><leadIn>Every warning notice shall—</leadIn><paragraph id="ID_1438413655713_013" name="a" temporalId="s16_2_a"><num value="a">(a)</num><content>face outwards from the quarry; and</content></paragraph><paragraph id="ID_1438413655713_021" name="b" temporalId="s16_2_b"><num value="b">(b)</num><content>bear in letters and characters of not less than 40 millimetres in height,
+                    the following—  <sourceNote>(<ref href="/hk/1984/ln238">L.N. 238 of
+                        1984</ref>)</sourceNote><quotedText class="align_center">“DANGER—QUARRY<br></br>危險——石礦場”.</quotedText></content></paragraph></subsection><subsection id="ID_1438413655713_041" name="3" temporalId="s16_3"><num value="3">(3)</num><content>The proprietor of any quarry in respect of which paragraph (1) or (2) is contravened shall be guilty of an offence.</content></subsection></section><section id="ID_1438403504566_003" name="s17" reason="inEffect" role="regulation" startPeriod="2024-08-22" status="operational" temporalId="s17"><num value="17">17.</num><heading>Proprietor to provide safety helmets</heading><subsection id="ID_1438413655760_004" name="1" temporalId="s17_1"><num value="1">(1)</num><content>The proprietor of every quarry shall provide for every person who works on any top, face or floor in the quarry a safety helmet of a type approved by the Commissioner or any officer authorized in writing by the Commissioner for Labour.</content></subsection><subsection id="ID_1438413655760_012" name="2" temporalId="s17_2"><num value="2">(2)</num><content>Any proprietor who contravenes paragraph (1) shall be guilty of an offence.</content></subsection></section><section id="ID_1438403504566_005" name="s18" reason="inEffect" role="regulation" startPeriod="2024-08-22" status="operational" temporalId="s18"><num value="18">18.</num><heading>Proprietor to provide safety rope or harness</heading><subsection id="ID_1438413655807_004" name="1" temporalId="s18_1"><num value="1">(1)</num><content>The proprietor of every quarry shall provide for every person who works on any top or face in the quarry a safety rope and a safety harness of a type approved by the Commissioner or any officer authorized in writing by the Commissioner for Labour.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1973/ln208">L.N. 208 of 1973</ref>)</sourceNote></content></subsection><subsection id="ID_1438413655807_012" name="2" temporalId="s18_2"><num value="2">(2)</num><content>Any proprietor who contravenes paragraph (1) shall be guilty of an offence.</content></subsection></section></part><part id="ID_1438403504582_002" name="P5" reason="inEffect" startPeriod="2024-08-22" status="operational" temporalId="P5"><num value="5">Part V</num><heading>First Aid in Quarries</heading><section id="ID_1438403504582_004" name="s19" reason="inEffect" role="regulation" startPeriod="2024-08-22" status="operational" temporalId="s19"><num value="19">19.</num><heading>Certain number of workers to be trained in first aid</heading><subsection id="ID_1438413655854_004" name="1" temporalId="s19_1"><num value="1">(1)</num><leadIn>No work shall be carried on in any quarry unless the following number of the persons working in the quarry are persons trained in first aid—</leadIn><paragraph id="ID_1438413655854_012" name="a" temporalId="s19_1_a"><num value="a">(a)</num><content>where less than 50 persons are so working, 3 persons or such lesser number of persons as the Commissioner or any officer authorized in writing by the Commissioner for Labour may specify in writing in any particular case;</content></paragraph><paragraph id="ID_1438413655854_020" name="b" temporalId="s19_1_b"><num value="b">(b)</num><content>where 50 or more persons but less than 300 persons are so working, 3 persons; and</content></paragraph><paragraph id="ID_1438413655854_028" name="c" temporalId="s19_1_c"><num value="c">(c)</num><content>where 300 or more persons are so working, 5 persons.</content></paragraph></subsection><subsection id="ID_1438413655854_035" name="2" temporalId="s19_2"><num value="2">(2)</num><leadIn>Where any work is carried on in a quarry in contravention of paragraph (1)—</leadIn><paragraph id="ID_1438413655854_043" name="a" temporalId="s19_2_a"><num value="a">(a)</num><content>the proprietor; and</content></paragraph><paragraph id="ID_1438413655854_051" name="b" temporalId="s19_2_b"><num value="b">(b)</num><content>the supervisor on duty,</content></paragraph><continued>shall each be guilty of an offence.</continued></subsection></section><section id="ID_1438403504597_001" name="s20" reason="inEffect" role="regulation" startPeriod="2024-08-22" status="operational" temporalId="s20"><num value="20">20.</num><heading>Proprietor to deliver to Commissioner for Labour particulars of persons trained in
+            first aid</heading><subsection id="ID_1438413655885_034" name="1" temporalId="s20_1"><num value="1">(1)</num><content>The proprietor of every quarry in which any person trained in first aid is
+                working at the date of commencement* of this Part shall within 14 days thereafter
+                deliver in writing, in English or in Chinese, to the Commissioner for Labour the
+                information required under paragraph (3) in relation to such person.</content></subsection><subsection id="ID_1438413655901_005" name="2" temporalId="s20_2"><num value="2">(2)</num><content>The proprietor of every quarry in which any person trained in first aid
+                commences to work after the date of commencement of this Part shall within 14 days
+                of the date on which that person commences to work in the quarry deliver in writing,
+                in English or in Chinese, to the Commissioner for Labour the information required
+                under paragraph (3) in relation to such person.</content></subsection><subsection id="ID_1438413655916_005" name="3" temporalId="s20_3"><num value="3">(3)</num><leadIn>The information required to be delivered in writing to the Commissioner for
+                Labour in respect of the person trained in first aid shall be—</leadIn><paragraph id="ID_1438413655916_013" name="a" temporalId="s20_3_a"><num value="a">(a)</num><content>the full name of such person;</content></paragraph><paragraph id="ID_1438413655916_021" name="b" temporalId="s20_3_b"><num value="b">(b)</num><content>the date on which he commenced to work in the quarry; and</content></paragraph><paragraph id="ID_1438413655916_029" name="c" temporalId="s20_3_c"><num value="c">(c)</num><content>the qualifications by virtue of which he is deemed to be trained in first
+                    aid.</content></paragraph></subsection><subsection id="ID_1438413655916_036" name="4" temporalId="s20_4"><num value="4">(4)</num><leadIn>Where after the date of commencement of this Part any person trained in first
+                aid ceases to work in any quarry, the proprietor of the quarry shall within 14 days
+                of such person having ceased to work in the quarry notify the Commissioner for
+                Labour in writing, in English or in Chinese, of—</leadIn><paragraph id="ID_1438413655916_044" name="a" temporalId="s20_4_a"><num value="a">(a)</num><content>the full name of such person; and</content></paragraph><paragraph id="ID_1438413655916_052" name="b" temporalId="s20_4_b"><num value="b">(b)</num><content>the date on which such person ceased to work in the quarry.</content></paragraph></subsection><subsection id="ID_1438413655916_059" name="5" temporalId="s20_5"><num value="5">(5)</num><content>Any proprietor who contravenes paragraph (1), (2) or (4) shall be guilty of an
+                offence.</content></subsection><editorialNote id="ID_1715938257154_001">
+            <editorialNote type="footnote" id="ID_1715938257165_002">
+                <content>Editorial Note:</content>
+                <content><inline class="force_orig_font">*</inline> Commencement date: 28 February
+                    1969.</content>
+            </editorialNote>
+        </editorialNote></section><section id="ID_1438403504597_003" name="s21" reason="inEffect" role="regulation" startPeriod="2024-08-22" status="operational" temporalId="s21"><num value="21">21.</num><heading>First aid equipment to be kept in quarry</heading><subsection id="ID_1438413655963_004" name="1" temporalId="s21_1"><num value="1">(1)</num><content>In every quarry there shall at all times be kept and maintained in good condition the first aid equipment specified in the <ref>Second Schedule</ref>.</content></subsection><subsection id="ID_1438413655963_012" name="2" temporalId="s21_2"><num value="2">(2)</num><leadIn>The Commissioner or any officer authorized in writing by the Commissioner for Labour may by notice in writing, in English and in Chinese, to the proprietor of a quarry require that—</leadIn><paragraph id="ID_1438413655963_020" name="a" temporalId="s21_2_a"><num value="a">(a)</num><content>a sufficient supply of assorted sizes of waterproof adhesive wound dressings; and</content></paragraph><paragraph id="ID_1438413655963_028" name="b" temporalId="s21_2_b"><num value="b">(b)</num><content>a sufficient supply of waterproof adhesive plaster,</content></paragraph><continued>shall be kept and maintained in good condition in the quarry.</continued></subsection><subsection id="ID_1438413655979_004" name="3" temporalId="s21_3"><num value="3">(3)</num><leadIn>The proprietor of a quarry in respect of which—</leadIn><paragraph id="ID_1438413655979_012" name="a" temporalId="s21_3_a"><num value="a">(a)</num><content>paragraph (1); or</content></paragraph><paragraph id="ID_1438413655979_020" name="b" temporalId="s21_3_b"><num value="b">(b)</num><content>a requirement made under paragraph (2),</content></paragraph><continued>is contravened shall be guilty of an offence.</continued></subsection></section><section id="ID_1438403504613_001" name="s22" reason="inEffect" role="regulation" startPeriod="2024-08-22" status="operational" temporalId="s22"><num value="22">22.</num><heading>First aid equipment to be kept in box or cupboard</heading><subsection id="ID_1438413656010_004" name="1" temporalId="s22_1"><num value="1">(1)</num><content>All first aid equipment which is required to be kept and maintained in a quarry under <ref>regulation 21(1)</ref> and (2) shall be kept and maintained in a first aid box or cupboard which is of adequate capacity and which is in a readily accessible place.</content></subsection><subsection id="ID_1438413656010_012" name="2" temporalId="s22_2"><num value="2">(2)</num><content>Nothing except first aid equipment shall be kept in a first aid box or cupboard.</content></subsection><subsection id="ID_1438413656010_020" name="3" temporalId="s22_3"><num value="3">(3)</num><content>Every first aid box or cupboard shall be marked plainly “FIRST AID” in English and “ 急救 “ in Chinese.</content></subsection><subsection id="ID_1438413656010_028" name="4" temporalId="s22_4"><num value="4">(4)</num><content>The proprietor of any quarry in respect of which paragraph (1), (2) or (3) is contravened shall be guilty of an offence.</content></subsection></section><section id="ID_1438403504613_003" name="s23" reason="inEffect" role="regulation" startPeriod="2024-08-22" status="operational" temporalId="s23"><num value="23">23.</num><heading>Proprietor to designate person in charge of first aid box or cupboard</heading><subsection id="ID_1438413656041_004" name="1" temporalId="s23_1"><num value="1">(1)</num><content>The proprietor of every quarry shall designate a person who works in the quarry and who is a person trained in first aid to be in charge of the first aid box or cupboard and the first aid equipment contained therein.</content></subsection><subsection id="ID_1438413656041_012" name="2" temporalId="s23_2"><num value="2">(2)</num><content>Any proprietor who contravenes paragraph (1) shall be guilty of an offence.</content></subsection></section><section id="ID_1438403504613_005" name="s24" reason="inEffect" role="regulation" startPeriod="2024-08-22" status="operational" temporalId="s24"><num value="24">24.</num><heading>Stretcher to be kept alongside first aid box or cupboard</heading><subsection id="ID_1438413656072_004" name="1" temporalId="s24_1"><num value="1">(1)</num><content>In every quarry a stretcher shall at all times be kept alongside the first aid box or cupboard and maintained in good condition.</content></subsection><subsection id="ID_1438413656072_012" name="2" temporalId="s24_2"><num value="2">(2)</num><content>The proprietor of any quarry in respect of which paragraph (1) is contravened shall be guilty of an offence.</content></subsection></section></part><part id="ID_1438403504628_002" name="P6" reason="inEffect" startPeriod="2024-08-22" status="operational" temporalId="P6"><num value="6">Part VI</num><heading>Quarry Operations</heading><section id="ID_1438403504628_004" name="s25" reason="inEffect" role="regulation" startPeriod="2024-08-22" status="operational" temporalId="s25"><num value="25">25.</num><heading>No work to be carried on except under sole supervision of supervisor or deputy supervisor</heading><subsection id="ID_1438413656103_004" name="1" temporalId="s25_1"><num value="1">(1)</num><leadIn>Except as provided in paragraph (2), no work shall be carried on in any quarry unless—</leadIn><paragraph id="ID_1438413656103_012" name="a" temporalId="s25_1_a"><num value="a">(a)</num><content>an approved supervisor of the quarry is present at the quarry; and</content></paragraph><paragraph id="ID_1438413656119_006" name="b" temporalId="s25_1_b"><num value="b">(b)</num><content>the work is carried on under the sole supervision of such approved supervisor.</content></paragraph></subsection><subsection id="ID_1438413656119_013" name="2" temporalId="s25_2"><num value="2">(2)</num><leadIn>Where no approved supervisor is present at the quarry, work may be carried on in
+                the quarry if—</leadIn><paragraph id="ID_1438413656119_021" name="a" temporalId="s25_2_a"><num value="a">(a)</num><content>an approved deputy supervisor of the quarry is present at the quarry;
+                    and</content></paragraph><paragraph id="ID_1438413656119_029" name="b" temporalId="s25_2_b"><num value="b">(b)</num><content>
+                    <leadIn>the work is carried on under the sole supervision of such approved
+                        deputy supervisor:</leadIn>
+                    
+                </content></paragraph><proviso name="proviso" temporalId="s25_2_b_proviso">Provided that the total time in any
+                1 year during which work may be carried on in a quarry in accordance with this
+                paragraph shall not, except with the consent in writing of the Commissioner or any
+                person authorized in writing by the Commissioner for Labour, exceed 500
+                hours.</proviso></subsection><subsection id="ID_1438413656119_042" name="3" temporalId="s25_3"><num value="3">(3)</num><content>The proprietor of any quarry in which any work is carried on in contravention of paragraph (1) or (2) shall be guilty of an offence.</content></subsection></section><section id="ID_1438403504644_001" name="s26" reason="inEffect" role="regulation" startPeriod="2024-08-22" status="operational" temporalId="s26"><num value="26">26.</num><heading>Supervisor on duty to complete daily entry in Time Register</heading><subsection id="ID_1438413656166_004" name="1" temporalId="s26_1"><num value="1">(1)</num><content>Every supervisor on duty in a quarry shall in respect of each period during
+                which work is carried on in the quarry under his supervision complete the prescribed
+                entry in the Time
+                    Register.<inline class="width_6"> </inline><i>(See
+                        <ref>First Schedule</ref>, Form 4)</i></content></subsection><subsection id="ID_1438413656166_012" name="2" temporalId="s26_2"><num value="2">(2)</num><content>Any supervisor on duty who contravenes paragraph (1) shall be guilty of an offence.</content></subsection></section><section id="ID_1438403504644_003" name="s27" reason="inEffect" role="regulation" startPeriod="2024-08-22" status="operational" temporalId="s27"><num value="27">27.</num><heading>Persons not to work in quarry without sufficient instruction or training</heading><subsection id="ID_1438413656197_004" name="1" temporalId="s27_1"><num value="1">(1)</num><content>No supervisor on duty in a quarry shall permit any person to work therein who has not received sufficient instruction and training in the work in which he is engaged.</content></subsection><subsection id="ID_1438413656197_012" name="2" temporalId="s27_2"><num value="2">(2)</num><content>Any supervisor on duty who contravenes paragraph (1) shall be guilty of an offence.</content></subsection></section><section id="ID_1438403504644_005" name="s28" reason="inEffect" role="regulation" startPeriod="2024-08-22" status="operational" temporalId="s28"><num value="28">28.</num><heading>Supervisor on duty to inspect working places periodically</heading><subsection id="ID_1438413656228_004" name="1" temporalId="s28_1"><num value="1">(1)</num><content>At the beginning of every work shift in any quarry, every place or road therein which will be used by any person in the course of his work during the work shift shall be inspected by the supervisor on duty to determine whether any person who may use such place or road during the work shift will be endangered or is likely to be endangered.</content></subsection><subsection id="ID_1438413656228_012" name="2" temporalId="s28_2"><num value="2">(2)</num><leadIn>At the beginning of the first work shift on every day on which work is carried on in any quarry, the supervisor on duty shall inspect—</leadIn><paragraph id="ID_1438413656244_005" name="a" temporalId="s28_2_a"><num value="a">(a)</num><content>every top, face or side in the quarry; and</content></paragraph><paragraph id="ID_1438413656244_013" name="b" temporalId="s28_2_b"><num value="b">(b)</num><content>any overburden in the quarry,</content></paragraph><continued>to determine whether the top, face, side or overburden endangers or is likely to endanger any person at any place in the quarry.</continued></subsection><subsection id="ID_1438413656244_026" name="3" temporalId="s28_3"><num value="3">(3)</num><content>Any supervisor on duty who contravenes paragraph (1) or (2) shall be guilty of an offence.</content></subsection></section><section id="ID_1438403504660_001" name="s29" reason="inEffect" role="regulation" startPeriod="2024-08-22" status="operational" temporalId="s29"><num value="29">29.</num><heading>Supervisor on duty to prohibit entry to dangerous place or road</heading><subsection id="ID_1438413656275_004" name="1" temporalId="s29_1"><num value="1">(1)</num><leadIn>Where the supervisor on duty in a quarry—</leadIn><paragraph id="ID_1438413656275_012" name="a" temporalId="s29_1_a"><num value="a">(a)</num><content>on making any inspection under <ref>regulation 28(1)</ref> finds that any person who may use any place or road in the quarry during the working shift will be endangered or is likely to be endangered; or</content></paragraph><paragraph id="ID_1438413656275_020" name="b" temporalId="s29_1_b"><num value="b">(b)</num><content>on making any inspection under <ref>regulation 28(2)</ref> finds that any top, face, side or overburden in a quarry endangers or is likely to endanger any person at any place in the quarry,</content></paragraph><continued>he shall forthwith prohibit every person from entering or remaining on such place or road, or such place, as the case may be, until the danger or likelihood of danger is removed.</continued></subsection><subsection id="ID_1438413656275_033" name="2" temporalId="s29_2"><num value="2">(2)</num><content>Any supervisor on duty who contravenes paragraph (1) shall be guilty of an offence.</content></subsection></section><section id="ID_1438403504660_003" name="s30" reason="inEffect" role="regulation" startPeriod="2024-08-22" status="operational" temporalId="s30"><num value="30">30.</num><heading>Inspection report</heading><subsection id="ID_1438413656322_004" name="1" temporalId="s30_1"><num value="1">(1)</num><content>Every supervisor on duty in a quarry who makes an inspection under
+                    <ref>regulation 28(1)</ref> or (2) shall forthwith enter in the Quarry
+                Inspection Register a full report of the result of his inspection including details
+                of any prohibition made by him under <ref>regulation
+                    29(1)</ref>.<inline class="width_6"> </inline><i>(See
+                        <ref>First Schedule</ref>, Form 3)</i></content></subsection><subsection id="ID_1438413656322_012" name="2" temporalId="s30_2"><num value="2">(2)</num><content>Any supervisor on duty who contravenes paragraph (1) shall be guilty of an offence.</content></subsection></section><section id="ID_1438403504660_005" name="s31" reason="inEffect" role="regulation" startPeriod="2024-08-22" status="operational" temporalId="s31"><num value="31">31.</num><heading>Offence to enter dangerous place or road in contravention of prohibition</heading><leadIn>Any person who enters or remains on any place or road, or any place, as the case may be, in a quarry in contravention of a prohibition made by the supervisor on duty under <ref>regulation 29(1)</ref> shall be guilty of an offence:</leadIn><proviso name="proviso" temporalId="s31_proviso">Provided that with the consent of the supervisor on duty a person may enter or remain on the place or road, or place, as the case may be, for the purposes of removing the danger or likelihood of danger.</proviso></section><section id="ID_1438403504675_002" name="s32" reason="inEffect" role="regulation" startPeriod="2024-08-22" status="operational" temporalId="s32"><num value="32">32.</num><heading>Worker to carry out periodic inspections of working place</heading><subsection id="ID_1438413656369_018" name="1" temporalId="s32_1"><num value="1">(1)</num><leadIn>Every person who works in a quarry shall—</leadIn><paragraph id="ID_1438413656369_026" name="a" temporalId="s32_1_a"><num value="a">(a)</num><content>at the beginning of every work shift therein; and</content></paragraph><paragraph id="ID_1438413656384_006" name="b" temporalId="s32_1_b"><num value="b">(b)</num><content>after any shot has been fired at or in the vicinity of the place at which he is working,</content></paragraph><continued>inspect the place at which he is working to determine whether it is a safe working place.</continued></subsection><subsection id="ID_1438413656384_019" name="2" temporalId="s32_2"><num value="2">(2)</num><leadIn>If he is not satisfied with the safety of his working place, he shall forthwith—</leadIn><paragraph id="ID_1438413656384_027" name="a" temporalId="s32_2_a"><num value="a">(a)</num><content>stop working there;</content></paragraph><paragraph id="ID_1438413656384_035" name="b" temporalId="s32_2_b"><num value="b">(b)</num><content>leave the working place; and</content></paragraph><paragraph id="ID_1438413656384_043" name="c" temporalId="s32_2_c"><num value="c">(c)</num><content>report to the supervisor on duty that he is not satisfied with the safety of the working place.</content></paragraph></subsection><subsection id="ID_1438413656384_050" name="3" temporalId="s32_3"><num value="3">(3)</num><content>Any person who contravenes paragraph (1) or (2) shall be guilty of an offence.</content></subsection></section><section id="ID_1438403504675_004" name="s33" reason="inEffect" role="regulation" startPeriod="2024-08-22" status="operational" temporalId="s33"><num value="33">33.</num><heading>Supervisor on duty to inspect working place reported to be unsafe</heading><subsection id="ID_1438413656415_004" name="1" temporalId="s33_1"><num value="1">(1)</num><content>Every supervisor on duty in a quarry who receives a report under <ref>regulation 32(2)(c)</ref> shall forthwith inspect the working place referred to in the report to determine whether it is a safe working place.</content></subsection><subsection id="ID_1438413656415_012" name="2" temporalId="s33_2"><num value="2">(2)</num><content>Where, on making an inspection under paragraph (1), the supervisor on duty finds that a working place is unsafe, he shall forthwith prohibit every person from entering or remaining on such place until it has been made safe.</content></subsection><subsection id="ID_1438413656431_005" name="3" temporalId="s33_3"><num value="3">(3)</num><content>Any supervisor on duty who contravenes paragraph (1) or (2) shall be guilty of an offence.</content></subsection></section><section id="ID_1438403504691_001" name="s34" reason="inEffect" role="regulation" startPeriod="2024-08-22" status="operational" temporalId="s34"><num value="34">34.</num><heading>Inspection report</heading><subsection id="ID_1438413656447_020" name="1" temporalId="s34_1"><num value="1">(1)</num><content>Every supervisor on duty in a quarry who makes an inspection under
+                    <ref>regulation 33(1)</ref> shall forthwith enter in the Quarry Inspection
+                Register a full report of the result of his inspection including details of any
+                prohibition made by him under <ref>regulation
+                    33(2)</ref>.<inline class="width_6"> </inline><i>(See
+                        <ref>First Schedule</ref>, Form 3)</i></content></subsection><subsection id="ID_1438413656462_005" name="2" temporalId="s34_2"><num value="2">(2)</num><content>Any supervisor on duty who contravenes paragraph (1) shall be guilty of an offence.</content></subsection></section><section id="ID_1438403504691_003" name="s35" reason="inEffect" role="regulation" startPeriod="2024-08-22" status="operational" temporalId="s35"><num value="35">35.</num><heading>Offence to enter unsafe place in contravention of prohibition</heading><leadIn>Any person who enters or remains on any place in contravention of a prohibition made by a supervisor on duty under <ref>regulation 33(2)</ref> shall be guilty of an offence:</leadIn><proviso name="proviso" temporalId="s35_proviso">Provided that with the consent of the supervisor on duty, a person may enter or remain on the place for the purposes of making it safe.</proviso></section><section id="ID_1438403504691_005" name="s36" reason="inEffect" role="regulation" startPeriod="2024-08-22" status="operational" temporalId="s36"><num value="36">36.</num><heading>Safety helmet to be worn for certain work</heading><subsection id="ID_1438413656509_004" name="1" temporalId="s36_1"><num value="1">(1)</num><content>No person shall go or remain on any top, face or floor in a quarry unless he is wearing a safety helmet of a type approved by the Commissioner or any officer authorized in writing by the Commissioner for Labour under <ref>regulation 17(1)</ref>.</content></subsection><subsection id="ID_1438413656509_012" name="2" temporalId="s36_2"><num value="2">(2)</num><leadIn>Any person who—</leadIn><paragraph id="ID_1438413656509_020" name="a" temporalId="s36_2_a"><num value="a">(a)</num><content>being the supervisor on duty in a quarry, permits any person to go or remain on any top, face or floor in the quarry in contravention of paragraph (1); or</content></paragraph><paragraph id="ID_1438413656509_028" name="b" temporalId="s36_2_b"><num value="b">(b)</num><content>contravenes paragraph (1),</content></paragraph><continued>shall be guilty of an offence.</continued></subsection></section><section id="ID_1438403504706_002" name="s37" reason="inEffect" role="regulation" startPeriod="2024-08-22" status="operational" temporalId="s37"><num value="37">37.</num><heading>Safety rope or harness to be worn for certain work</heading><subsection id="ID_1438413656540_004" name="1" temporalId="s37_1"><num value="1">(1)</num><leadIn>No person shall go or remain on any top or face in a quarry unless—</leadIn><paragraph id="ID_1438413656540_012" name="a" temporalId="s37_1_a"><num value="a">(a)</num><content>he wears a safety harness of a type approved under <ref>regulation
+                        18(1)</ref>;</content></paragraph><paragraph id="ID_1438413656540_020" name="b" temporalId="s37_1_b"><num value="b">(b)</num><content>the safety harness is securely attached to a safety rope; and</content></paragraph><paragraph id="ID_1438413656540_028" name="c" temporalId="s37_1_c"><num value="c">(c)</num><content>the free end of the safety rope is securely attached to an
+                        anchorage.<inline class="width_6"> </inline><sourceNote>(<ref href="/hk/1973/ln208">L.N. 208
+                            of 1973</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438413656540_035" name="2" temporalId="s37_2"><num value="2">(2)</num><leadIn>Any person who—</leadIn><paragraph id="ID_1438413656556_005" name="a" temporalId="s37_2_a"><num value="a">(a)</num><content>being the supervisor on duty in a quarry, permits any person to go or
+                    remain on any top or face in the quarry in contravention of paragraph (1);
+                    or</content></paragraph><paragraph id="ID_1438413656556_013" name="b" temporalId="s37_2_b"><num value="b">(b)</num><content>contravenes paragraph (1),</content></paragraph><continued>shall be guilty of an offence.</continued></subsection></section><section id="ID_1438403504706_004" name="s38" reason="inEffect" role="regulation" startPeriod="2024-08-22" status="operational" temporalId="s38"><num value="38">38.</num><heading>Supervisor on duty to inspect equipment periodically</heading><subsection id="ID_1438413656587_004" name="1" temporalId="s38_1"><num value="1">(1)</num><content>At the beginning of the first work shift on every day on which work is carried
+                on in any quarry, the supervisor on duty shall inspect all mechanical equipment used
+                in the quarry or which is in the quarry for the purpose of being used, to determine
+                whether it is in safe and efficient working order and shall inspect every anchorage
+                which is in the quarry for the purpose of being used to determine whether it is safe
+                to be used.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1973/ln208">L.N. 208 of 1973</ref>)</sourceNote></content></subsection><subsection id="ID_1438413656587_012" name="2" temporalId="s38_2"><num value="2">(2)</num><leadIn>At the beginning of the first work shift on the first working day of every week in which work is carried on in any quarry, the supervisor on duty shall inspect—</leadIn><paragraph id="ID_1438413656603_008" name="a" temporalId="s38_2_a"><num value="a">(a)</num><content>every safety rope and every safety harness used in the quarry or which is in the quarry for the purpose of being used, to determine whether they are in safe and efficient working order; and<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1973/ln208">L.N. 208 of 1973</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438413656603_016" name="b" temporalId="s38_2_b"><num value="b">(b)</num><content>every safety helmet used in the quarry or which is in the quarry for the purpose of being used, to determine whether it is in safe condition.</content></paragraph></subsection><subsection id="ID_1438413656603_023" name="3" temporalId="s38_3"><num value="3">(3)</num><content>Any supervisor on duty who contravenes paragraph (1) or (2) shall be guilty of an offence.</content></subsection></section><section id="ID_1438403504722_001" name="s39" reason="inEffect" role="regulation" startPeriod="2024-08-22" status="operational" temporalId="s39"><num value="39">39.</num><heading>Supervisor on duty to prohibit use of unsafe or inefficient equipment</heading><subsection id="ID_1438413656649_004" name="1" temporalId="s39_1"><num value="1">(1)</num><leadIn>Where the supervisor on duty in a quarry—</leadIn><paragraph id="ID_1438413656649_012" name="a" temporalId="s39_1_a"><num value="a">(a)</num><content>on making any inspection under <ref>regulation 38(1)</ref>, finds that any mechanical equipment is not in safe and efficient working order or that any anchorage is not safe to be used;</content></paragraph><paragraph id="ID_1438413656649_020" name="b" temporalId="s39_1_b"><num value="b">(b)</num><content>on making any inspection under <ref>regulation 38(2)(a)</ref>, finds that any safety rope or safety harness is not in safe and efficient working order; or</content></paragraph><paragraph id="ID_1438413656649_028" name="c" temporalId="s39_1_c"><num value="c">(c)</num><content>on making any inspection under <ref>regulation 38(2)(b)</ref>, finds that any safety helmet is not in a safe condition,</content></paragraph><continued>he shall forthwith prohibit every person from operating or driving such mechanical equipment or from using such anchorage, safety rope, safety harness or safety helmet in the quarry until it has been put into safe and efficient working order, or safe condition, or is safe to be used, as the case may be.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1973/ln208">L.N. 208 of 1973</ref>)</sourceNote></continued></subsection><subsection id="ID_1438413656649_041" name="2" temporalId="s39_2"><num value="2">(2)</num><content>Any supervisor on duty who contravenes paragraph (1) shall be guilty of an offence.</content></subsection></section><section id="ID_1438403504722_003" name="s40" reason="inEffect" role="regulation" startPeriod="2024-08-22" status="operational" temporalId="s40"><num value="40">40.</num><heading>Inspection report</heading><subsection id="ID_1438413656681_033" name="1" temporalId="s40_1"><num value="1">(1)</num><content>Every supervisor on duty in a quarry who makes an inspection under
+                    <ref>regulation 38(1)</ref> or (2) shall forthwith enter in the Equipment
+                Register a full report of the result of his inspection including details of any
+                prohibition made by him under <ref>regulation
+                    39(1)</ref>.<inline class="width_6"> </inline><i>(See
+                        <ref>First Schedule</ref>, Form 2)</i></content></subsection><subsection id="ID_1438413656696_005" name="2" temporalId="s40_2"><num value="2">(2)</num><content>Any supervisor on duty who contravenes paragraph (1) shall be guilty of an offence.</content></subsection></section><section id="ID_1438403504722_005" name="s41" reason="inEffect" role="regulation" startPeriod="2024-08-22" status="operational" temporalId="s41"><num value="41">41.</num><heading>Offence to use unsafe or inefficient equipment in contravention of prohibition</heading><leadIn>Any person who—</leadIn><paragraph id="ID_1438413656727_012" name="a" temporalId="s41_a"><num value="a">(a)</num><content>operates or drives any mechanical equipment; or</content></paragraph><paragraph id="ID_1438413656727_020" name="b" temporalId="s41_b"><num value="b">(b)</num><content>uses any anchorage, safety rope, safety harness or safety helmet,</content></paragraph><continued>in a quarry in contravention of a prohibition made by the supervisor on duty under <ref>regulation 39(1)</ref> shall be guilty of an offence:</continued><proviso name="proviso" temporalId="s41_proviso">Provided that with the consent of the supervisor on duty a person may operate or drive the mechanical equipment or use the anchorage, safety rope, safety harness or safety helmet for the purposes of putting it into safe and efficient working order, or safe condition, or making it safe to be used, as the case may be.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1973/ln208">L.N. 208 of 1973</ref>)</sourceNote></proviso></section><section id="ID_1438403504738_002" name="s42" reason="inEffect" role="regulation" startPeriod="2024-08-22" status="operational" temporalId="s42"><num value="42">42.</num><heading>Offence to use mechanical equipment without permission of supervisor on duty</heading><subsection id="ID_1438413656759_004" name="1" temporalId="s42_1"><num value="1">(1)</num><content>No person shall operate or drive any mechanical equipment in a quarry without the permission of the supervisor on duty.</content></subsection><subsection id="ID_1438413656759_012" name="2" temporalId="s42_2"><num value="2">(2)</num><content>Any person who contravenes paragraph (1) shall be guilty of an offence.</content></subsection></section><section id="ID_1438403504738_004" name="s43" reason="inEffect" role="regulation" startPeriod="2024-08-22" status="operational" temporalId="s43"><num value="43">43.</num><heading>Inexperienced person not to use mechanical equipment</heading><subsection id="ID_1438413656790_004" name="1" temporalId="s43_1"><num value="1">(1)</num><content>No supervisor on duty in a quarry shall permit any person who is not experienced in the operation of any mechanical equipment to operate or drive such equipment in the quarry.</content></subsection><subsection id="ID_1438413656790_012" name="2" temporalId="s43_2"><num value="2">(2)</num><content>Any supervisor on duty who contravenes paragraph (1) shall be guilty of an offence.</content></subsection></section><section id="ID_1438403504753_001" name="s44" reason="inEffect" role="regulation" startPeriod="2024-08-22" status="operational" temporalId="s44"><num value="44">44.</num><heading>Unlicensed person not to use certain vehicles in quarry</heading><subsection id="ID_1438413656805_019" name="1" temporalId="s44_1"><num value="1">(1)</num><content>No supervisor on duty in a quarry shall permit any vehicle which by virtue of the Road Traffic Ordinance (<ref href="/hk/cap374">Cap. 374</ref>) may not be operated or driven on a road except by a person who holds a valid licence to operate or drive vehicles of that class, to be operated or driven in the quarry by any person who does not hold such a licence.</content></subsection><subsection id="ID_1438413656821_005" name="2" temporalId="s44_2"><num value="2">(2)</num><content>Any supervisor on duty who contravenes paragraph (1) shall be guilty of an offence.</content></subsection></section><section id="ID_1438403504769_001" name="s45" reason="inEffect" role="regulation" startPeriod="2024-08-22" status="operational" temporalId="s45"><num value="45">45.</num><heading>Supervisor on duty not to permit mechanical equipment to be used at or near edges unless banksman present</heading><subsection id="ID_1438413656852_004" name="1" temporalId="s45_1"><num value="1">(1)</num><content>No supervisor on duty in a quarry shall permit any person to operate or drive any mechanical equipment at or near the edge of any face, side, tip or embankment in the quarry unless a banksman is in attendance.</content></subsection><subsection id="ID_1438413656852_012" name="2" temporalId="s45_2"><num value="2">(2)</num><content>Any supervisor on duty who contravenes paragraph (1) shall be guilty of an offence.</content></subsection></section><section id="ID_1438403504769_003" name="s46" reason="inEffect" role="regulation" startPeriod="2024-08-22" status="operational" temporalId="s46"><num value="46">46.</num><heading>Mechanical equipment not to be used at or near edges unless banksman present</heading><subsection id="ID_1438413656868_012" name="1" temporalId="s46_1"><num value="1">(1)</num><content>No person shall operate or drive any mechanical equipment at or near the edge of any face, side, tip or embankment in a quarry unless a banksman is in attendance.</content></subsection><subsection id="ID_1438413656883_005" name="2" temporalId="s46_2"><num value="2">(2)</num><content>Where in respect of any mechanical equipment the attendance of a banksman is required under paragraph (1), the operator or driver shall comply with every direction or signal which is given to him by the banksman.</content></subsection><subsection id="ID_1438413656883_013" name="3" temporalId="s46_3"><num value="3">(3)</num><content>Any person who contravenes paragraph (1) or (2) shall be guilty of an offence.</content></subsection></section><section id="ID_1438403504769_005" name="s47" reason="inEffect" role="regulation" startPeriod="2024-08-22" status="operational" temporalId="s47"><num value="47">47.</num><heading>Worker to report defect in equipment</heading><subsection id="ID_1438413656899_027" name="1" temporalId="s47_1"><num value="1">(1)</num><content>Every operator or driver of any mechanical equipment in a quarry who becomes aware of any defect in such equipment shall forthwith stop operating or driving such equipment and report the defect to the supervisor on duty.</content></subsection><subsection id="ID_1438413656915_005" name="2" temporalId="s47_2"><num value="2">(2)</num><content>Every person who, while using any anchorage, safety rope, safety harness or safety helmet in any quarry in which any work is being carried on, becomes aware of any defect in that anchorage, safety rope, safety harness or safety helmet shall forthwith stop using it and report the defect to the supervisor on duty.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1973/ln208">L.N. 208 of 1973</ref>)</sourceNote></content></subsection><subsection id="ID_1438413656915_013" name="3" temporalId="s47_3"><num value="3">(3)</num><content>Any person who contravenes paragraph (1) or (2) shall be guilty of an offence.</content></subsection></section><section id="ID_1438403504800_002" name="s48" reason="inEffect" role="regulation" startPeriod="2024-08-22" status="operational" temporalId="s48"><num value="48">48.</num><heading>Supervisor on duty to inspect reported defect in equipment</heading><subsection id="ID_1438413656946_004" name="1" temporalId="s48_1"><num value="1">(1)</num><content>Every supervisor on duty in a quarry to whom a defect is reported under <ref>regulation 47(1)</ref> or (2) shall forthwith inspect the defect.</content></subsection><subsection id="ID_1438413656946_012" name="2" temporalId="s48_2"><num value="2">(2)</num><content>Where, on inspecting a reported defect under paragraph (1), the supervisor on duty finds that it is causing or is likely to cause danger to any person, he shall forthwith prohibit every person from operating or driving the mechanical equipment or using the anchorage, safety rope, safety harness or safety helmet, as the case may be, in the quarry until the defect has been remedied.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1973/ln208">L.N. 208 of 1973</ref>)</sourceNote></content></subsection><subsection id="ID_1438413656961_005" name="3" temporalId="s48_3"><num value="3">(3)</num><content>Any supervisor on duty who contravenes paragraph (1) or (2) shall be guilty of an offence.</content></subsection></section><section id="ID_1438403504800_004" name="s49" reason="inEffect" role="regulation" startPeriod="2024-08-22" status="operational" temporalId="s49"><num value="49">49.</num><heading>Inspection report</heading><subsection id="ID_1438413657008_004" name="1" temporalId="s49_1"><num value="1">(1)</num><content>Every supervisor on duty in a quarry who inspects a reported defect under
+                    <ref>regulation 48(1)</ref> shall forthwith enter in the Equipment Register a
+                full report of the result of his inspection including details of any prohibition
+                made by him under <ref>regulation
+                    48(2)</ref>.<inline class="width_6"> </inline><i>(See
+                        <ref>First Schedule</ref>, Form 2) </i></content></subsection><subsection id="ID_1438413657008_012" name="2" temporalId="s49_2"><num value="2">(2)</num><content>Any supervisor on duty who contravenes paragraph (1) shall be guilty of an offence.</content></subsection></section><section id="ID_1438403504816_001" name="s50" reason="inEffect" role="regulation" startPeriod="2024-08-22" status="operational" temporalId="s50"><num value="50">50.</num><heading>Offence to use defective equipment in contravention of prohibition</heading><leadIn>Any person who—</leadIn><paragraph id="ID_1438413657039_012" name="a" temporalId="s50_a"><num value="a">(a)</num><content>operates or drives any mechanical equipment; or</content></paragraph><paragraph id="ID_1438413657039_020" name="b" temporalId="s50_b"><num value="b">(b)</num><content>uses any anchorage, safety rope, safety harness or safety helmet,</content></paragraph><continued>in contravention of a prohibition made by a supervisor on duty under <ref>regulation 48(1)</ref> shall be guilty of an offence:</continued><proviso name="proviso" temporalId="s50_proviso">Provided that with the consent of the supervisor on duty a person may operate or drive the mechanical equipment or use the anchorage, safety rope, safety harness or safety helmet, as the case may be, for the purposes of remedying the defect.</proviso><sourceNote>(<ref href="/hk/1973/ln208">L.N. 208 of 1973</ref>)</sourceNote></section><section id="ID_1438403504816_003" name="s51" reason="inEffect" role="regulation" startPeriod="2024-08-22" status="operational" temporalId="s51"><num value="51">51.</num><heading>Offence to go under certain mechanical equipment</heading><subsection id="ID_1438413657071_004" name="1" temporalId="s51_1"><num value="1">(1)</num><leadIn>No person in a quarry shall go or remain underneath—</leadIn><paragraph id="ID_1438413657071_012" name="a" temporalId="s51_1_a"><num value="a">(a)</num><content>any object suspended by a lifting appliance;</content></paragraph><paragraph id="ID_1438413657071_020" name="b" temporalId="s51_1_b"><num value="b">(b)</num><content>the arc of travel of a bucket of any mechanical loading equipment which is in operation; or</content></paragraph><paragraph id="ID_1438413657071_028" name="c" temporalId="s51_1_c"><num value="c">(c)</num><content>a loaded bucket of any mechanical loading equipment.</content></paragraph></subsection><subsection id="ID_1438413657071_035" name="2" temporalId="s51_2"><num value="2">(2)</num><content>Any person who contravenes paragraph (1) shall be guilty of an offence.</content></subsection></section><section id="ID_1438403504816_005" name="s52" reason="inEffect" role="regulation" startPeriod="2024-08-22" status="operational" temporalId="s52"><num value="52">52.</num><heading>Manner in which work is to be executed</heading><subsection id="ID_1438413657102_004" name="1" temporalId="s52_1"><num value="1">(1)</num><leadIn>The supervisor on duty in a quarry shall cause all work therein to be carried out so as to avoid as far as may reasonably be possible—</leadIn><paragraph id="ID_1438413657102_012" name="a" temporalId="s52_1_a"><num value="a">(a)</num><content>any overhanging rock or overburden on any face or side in the quarry; and</content></paragraph><paragraph id="ID_1438413657102_020" name="b" temporalId="s52_1_b"><num value="b">(b)</num><content>any danger from any fall of rock or overburden.</content></paragraph></subsection><subsection id="ID_1438413657102_027" name="2" temporalId="s52_2"><num value="2">(2)</num><content>Any supervisor on duty who contravenes paragraph (1) shall be guilty of an offence.</content></subsection></section><section id="ID_1438403504831_002" name="s53" reason="inEffect" role="regulation" startPeriod="2024-08-22" status="operational" temporalId="s53"><num value="53">53.</num><heading>Overburden to be cleared back</heading><subsection id="ID_1438413657133_004" name="1" temporalId="s53_1"><num value="1">(1)</num><content>The supervisor on duty in a quarry shall cause all work therein to be carried out so that any overburden at the top of any face or side in the quarry is cleared back horizontally from the top of the face or side to a distance of not less than twice that of the height of the overburden or not less than 8 metres, whichever is the greater.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1984/ln238">L.N. 238 of 1984</ref>)</sourceNote></content></subsection><subsection id="ID_1438413657133_012" name="2" temporalId="s53_2"><num value="2">(2)</num><content>Any supervisor on duty who contravenes paragraph (1) shall be guilty of an offence.</content></subsection></section><section id="ID_1438403504831_004" name="s54" reason="inEffect" role="regulation" startPeriod="2024-08-22" status="operational" temporalId="s54"><num value="54">54.</num><heading>Maximum height of face</heading><subsection id="ID_1438413657164_004" name="1" temporalId="s54_1"><num value="1">(1)</num><leadIn>Subject to <ref>regulation 55</ref>, where the height of any face in a quarry exceeds 25 metres, or such lesser height as the Commissioner or any officer authorized in writing by the Commissioner for Labour may in any particular case specify under paragraph (2), no work on the face shall be carried on except for the purpose of reducing the height of the face to—</leadIn><paragraph id="ID_1438413657164_012" name="a" temporalId="s54_1_a"><num value="a">(a)</num><content>a height of 25 metres; or</content></paragraph><paragraph id="ID_1438413657164_020" name="b" temporalId="s54_1_b"><num value="b">(b)</num><content>where a height of less than 25 metres has been specified by the Commissioner or any officer authorized in writing by the Commissioner for Labour under paragraph (2), that lesser height.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1984/ln238">L.N. 238 of 1984</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438413657180_005" name="2" temporalId="s54_2"><num value="2">(2)</num><content>If in the opinion of the Commissioner or any officer authorized in writing by the Commissioner for Labour it is in any particular case desirable to do so for the purposes of safety in a quarry, he may by notice in writing, in English and in Chinese, served on the proprietor of the quarry specify a height, being a height less than 25 metres, in excess of which no work on a face in the quarry may be carried on otherwise than in accordance with paragraph <ref>(1)(b)</ref>.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1984/ln238">L.N. 238 of 1984</ref>)</sourceNote></content></subsection><subsection id="ID_1438413657195_005" name="3" temporalId="s54_3"><num value="3">(3)</num><leadIn>Any person who—</leadIn><paragraph id="ID_1438413657195_013" name="a" temporalId="s54_3_a"><num value="a">(a)</num><content>being the supervisor on duty in a quarry, permits any work on any face therein to be carried on in contravention of paragraph (1); or</content></paragraph><paragraph id="ID_1438413657195_021" name="b" temporalId="s54_3_b"><num value="b">(b)</num><content>works on any face in contravention of paragraph (1),</content></paragraph><continued>shall be guilty of an offence.</continued></subsection></section><section id="ID_1438403504847_001" name="s55" reason="inEffect" role="regulation" startPeriod="2024-08-22" status="operational" temporalId="s55"><num value="55">55.</num><heading>Commissioner may permit work on face exceeding maximum height</heading><content>The Commissioner or any officer authorized in writing by the Commissioner for Labour may if he thinks fit in any particular case give permission in writing for work on any face in a quarry to be carried on notwithstanding that the height of the face exceeds 25 metres.</content><sourceNote>(<ref href="/hk/1984/ln238">L.N. 238 of 1984</ref>)</sourceNote></section><section id="ID_1438403504847_003" name="s56" reason="inEffect" role="regulation" startPeriod="2024-08-22" status="operational" temporalId="s56"><num value="56">56.</num><heading>Work on faces not to be carried on simultaneously where danger of falling objects</heading><subsection id="ID_1438413657242_018" name="1" temporalId="s56_1"><num value="1">(1)</num><content>Where any face in a quarry is situated above any other face therein so that there is a likelihood that, if work on the higher face is carried on, any person working on the lower face will be endangered by the fall of any substance or thing from the higher face, no work on the lower face shall be carried on simultaneously with any work on the higher face.</content></subsection><subsection id="ID_1438413657258_005" name="2" temporalId="s56_2"><num value="2">(2)</num><leadIn>Any person who—</leadIn><paragraph id="ID_1438413657258_013" name="a" temporalId="s56_2_a"><num value="a">(a)</num><content>being the supervisor on duty in a quarry, permits any work on any face therein to be carried on in contravention of paragraph (1); or</content></paragraph><paragraph id="ID_1438413657258_021" name="b" temporalId="s56_2_b"><num value="b">(b)</num><content>works on any face in contravention of paragraph (1),</content></paragraph><continued>shall be guilty of an offence.</continued></subsection></section><section id="ID_1438403504847_005" name="s57" reason="inEffect" role="regulation" startPeriod="2024-08-22" status="operational" temporalId="s57"><num value="57">57.</num><heading>Accidents and dangerous occurrences</heading><subsection id="ID_1438413657289_004" name="1" temporalId="s57_1"><num value="1">(1)</num><leadIn>Where any fatal accident or dangerous occurrence occurs at a quarry, no person
+                shall, except for the purpose of saving life or assisting or rendering first aid to
+                any injured person— <sourceNote>(<ref href="/hk/2024/er4">E.R. 4 of
+                    2024</ref>)</sourceNote></leadIn><paragraph id="ID_1438413657289_012" name="a" temporalId="s57_1_a"><num value="a">(a)</num><content>disturb the place at which the accident or occurrence took place;
+                    or</content></paragraph><paragraph id="ID_1438413657289_020" name="b" temporalId="s57_1_b"><num value="b">(b)</num><content>remove or interfere with anything at that place,</content></paragraph><continued>until—</continued><paragraph id="ID_1438413657305_006" name="i" temporalId="s57_1_i"><num value="i">(i)</num><content>the expiry of 3 clear days after the accident or occurrence has been
+                    notified to the Superintendent of Mines under <ref>regulation 17</ref> or
+                        <ref>18</ref> of the Factories and Industrial Undertakings Regulations (<ref href="/hk/cap59A">Cap. 59 sub. leg. A</ref>); or <sourceNote>(<ref href="/hk/2024/er4">E.R. 4 of 2024</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438413657305_014" name="ii" temporalId="s57_1_ii"><num value="ii">(ii)</num><content>the place at which the accident or occurrence took place has been visited
+                    by the Commissioner or any officer authorized in writing by the Commissioner for
+                    Labour,</content></paragraph><continued>whichever event occurs first.</continued></subsection><subsection id="ID_1438413657305_027" name="2" temporalId="s57_2"><num value="2">(2)</num><content>Any person who contravenes paragraph (1) shall be guilty of an offence.</content></subsection></section></part><part id="ID_1438403504862_002" name="P7" reason="inEffect" startPeriod="2024-08-22" status="operational" temporalId="P7"><num value="7">Part VII</num><heading>Miscellaneous</heading><section id="ID_1438403504862_004" name="s58" reason="inEffect" role="regulation" startPeriod="2024-08-22" status="operational" temporalId="s58"><num value="58">58.</num><heading>Penalties</heading><leadIn>A person who—</leadIn><paragraph id="ID_1681973131911_001" name="a" temporalId="s58_a"><num value="a">(a)</num><content>commits an offence under <ref>regulation 9</ref>, <ref>14</ref>, <ref>16</ref>,
+                    <ref>20</ref>, <ref>21</ref>, <ref>22</ref>, <ref>23</ref>, <ref>24</ref> or
+                    <ref>57</ref> is liable on conviction to a fine at level 4;</content></paragraph><paragraph id="ID_1681973131922_002" name="b" temporalId="s58_b"><num value="b">(b)</num><content>commits an offence under <ref>regulation 15</ref>, <ref>17</ref>,
+                    <ref>19(2)(a)</ref> or <ref>25</ref> is liable on conviction to a fine at level
+                6;</content></paragraph><paragraph id="ID_1681973131927_003" name="c" temporalId="s58_c"><num value="c">(c)</num><content>commits an offence under <ref>regulation 18</ref> is liable on conviction to a
+                fine of $400,000;</content></paragraph><paragraph id="ID_1681973131929_004" name="d" temporalId="s58_d"><num value="d">(d)</num><content>commits an offence under <ref>regulation 19(2)(b)</ref>, <ref>27</ref>,
+                    <ref>28</ref>, <ref>32(3)</ref> (in relation to a requirement under
+                    <ref>regulation 32(1)</ref>), <ref>36(2)</ref>, <ref>38</ref>, <ref>42</ref>,
+                    <ref>43</ref>, <ref>44</ref> or <ref>47</ref> is liable on conviction to a fine
+                at level 5;</content></paragraph><paragraph id="ID_1681973131942_005" name="e" temporalId="s58_e"><num value="e">(e)</num><content>commits an offence under <ref>regulation 26</ref>, <ref>30</ref>,
+                <ref>34</ref>, <ref>40</ref> or <ref>49</ref> is liable on conviction to a fine at
+                level 3; or</content></paragraph><paragraph id="ID_1681973131948_006" name="f" temporalId="s58_f"><num value="f">(f)</num><content>commits an offence under <ref>regulation 29</ref>, <ref>31</ref>,
+                    <ref>32(3)</ref> (in relation to a requirement under <ref>regulation
+                32(2)</ref>), <ref>33</ref>, <ref>35</ref>, <ref>37(2)</ref>, <ref>39</ref>,
+                    <ref>41</ref>, <ref>45</ref>, <ref>46</ref>, <ref>48</ref>, <ref>50</ref>,
+                    <ref>51</ref>, <ref>52</ref>, <ref>53</ref>, <ref>54(3)</ref> or
+                    <ref>56(2)</ref> is liable on conviction to a fine of $150,000.</content></paragraph><sourceNote>(<ref href="hk/2023/5">5 of 2023 s. 24</ref>)</sourceNote></section><section id="ID_1438403504878_001" name="s59" reason="inEffect" role="regulation" startPeriod="2024-08-22" status="operational" temporalId="s59"><num value="59">59.</num><heading>Liability of proprietor</heading><content>Notwithstanding <ref>section 13(1)</ref> of the Ordinance, no proprietor of a quarry shall be guilty of an offence against any of these regulations unless it is expressly provided in such regulation that a proprietor of a quarry shall be guilty of an offence.</content></section></part><schedule id="ID_1438403504894_001" name="sch1" reason="inEffect" startPeriod="2024-08-22" status="operational" temporalId="sch1"><num value="1">First
+            Schedule</num><text>
+            <table xmlns="http://www.w3.org/1999/xhtml" width="445" class="align_center">
+                <col width="28%"></col>
+                <col width="28%"></col>
+                <col width="44%"></col>
+                <tr>
+                    <td></td>
+                    <td>
+                        <p class="align_right">Form
+                            1</p>
+                    </td>
+                    <td>
+                        <p class="align_right">[<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap59F/s3">regs. 3(1)</ref> &amp; <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap59F/s5">5(1)</ref>]</p>
+                    </td>
+                </tr>
+            </table>
+        </text><text class="align_center">Q<inline class="small_caps">uarries</inline> (S<inline class="small_caps">afety</inline>) R<inline class="small_caps">egulations</inline><marker role="blank-line"></marker>APPLICATION
+            FOR APPROVAL AS A SUPERVISOR/DEPUTY<br></br>SUPERVISOR<sup>(1)</sup> OF A
+            QUARRY</text><text>
+            <table xmlns="http://www.w3.org/1999/xhtml" width="100%">
+                <colgroup>
+                    <col width="5%"></col>
+                    <col width="7%"></col>
+                    <col width="40%"></col>
+                    <col width="24%"></col>
+                    <col width="24%"></col>
+                </colgroup>
+                <tbody>
+                    <tr>
+                        <td>1.</td>
+                        <td colspan="2">I<fillIn xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_150">.</fillIn>,</td>
+                        <td colspan="2" class="leaders_.">of</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td colspan="2" class="align_center">(full name)</td>
+                        <td colspan="2" class="align_center">(address)</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td colspan="4" class="align_justified leaders_.">hereby apply to be
+                            approved as a supervisor/deputy
+                                supervisor<sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(1)</sup>
+                            of the</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td colspan="4" class="leaders_."><fillIn xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_205">.</fillIn>Quarry/a
+                                quarry<sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(1)</sup>
+                            situated at</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td colspan="4" class="align_center cellpadding_bottom_5">(address of
+                            quarry)</td>
+                    </tr>
+                    <tr>
+                        <td>2.</td>
+                        <td colspan="4" class="cellpadding_bottom_5">I submit the following
+                            information in support of this application:—</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>(<i>a</i>)</td>
+                        <td colspan="3" class="leaders_.">Date of birth:</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>(<i>b</i>)</td>
+                        <td colspan="3" class="leaders_.">Identity Card Number:</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>(<i>c</i>) </td>
+                        <td colspan="3" class="leaders_.">Practical experience in work in
+                            quarries:</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td colspan="3" class="leaders_."></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td colspan="3" class="leaders_."></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td colspan="3" class="leaders_."></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>(<i>d</i>)</td>
+                        <td colspan="3" class="leaders_. cellpadding_bottom_5">Qualifications<sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(2)</sup>:</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td colspan="3" class="leaders_. cellpadding_bottom_5"></td>
+                    </tr>
+                    <tr>
+                        <td>3.</td>
+                        <td colspan="4" class="leaders_. align_justified">I am already an approved
+                            supervisor/approved deputy
+                                supervisor<sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(1)</sup>
+                            of the following quarry under these
+                                regulations<sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(2)</sup>:</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td colspan="4" class="leaders_. align_justified cellpadding_bottom_5"></td>
+                    </tr>
+                    <tr>
+                        <td>4.</td>
+                        <td colspan="4" class="align_justified">I specify <fillIn xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class=" width_165">.</fillIn> as the date before which I do not desire the approval of
+                            this application, if granted, to come into
+                                effect.<sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(2)(4)</sup></td>
+                    </tr>
+                </tbody>
+            </table>
+            <table xmlns="http://www.w3.org/1999/xhtml" width="100%">
+                <colgroup>
+                    <col width="5%"></col>
+                    <col width="7%"></col>
+                    <col width="23%"></col>
+                    <col width="15%"></col>
+                    <col width="50%"></col>
+                </colgroup>
+                <tbody>
+                    <tr>
+                        <td>5.</td>
+                        <td colspan="4" class="align_justified">I attach the written consent of the
+                                proprietor(s)<sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(1)</sup>
+                            of the quarry to my approval as a supervisor/deputy
+                                supervisor<sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(1)</sup>
+                            of the
+                                quarry<sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(3)</sup>.</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td rowspan="3" colspan="2" class="align_center border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75"><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>Photograph<br></br>of<br></br>Applicant<marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td class="leaders_. valign_bottom cellpadding_top_30">Date:</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td class="leaders_. valign_bottom">Signature of<br></br>applicant:</td>
+                    </tr>
+                </tbody>
+            </table>
+            <table xmlns="http://www.w3.org/1999/xhtml" width="100%">
+                <colgroup>
+                    <col width="10%"></col>
+                    <col width="6%"></col>
+                    <col width="84%"></col>
+                </colgroup>
+                <tbody>
+                    <tr>
+                        <td>Notes:</td>
+                        <td>(1)</td>
+                        <td>Delete whichever is inapplicable.</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>(2)</td>
+                        <td>Delete if inapplicable.</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>(3)</td>
+                        <td>Delete if applicant is sole proprietor of quarry.</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>(4)</td>
+                        <td class="align_justified">Date specified must not be more than 3 months
+                            later than date of application.</td>
+                    </tr>
+                </tbody>
+            </table>
+        </text><crossHeading> <text class="align_center"> __________
+                
+            </text></crossHeading><text>
+            <table xmlns="http://www.w3.org/1999/xhtml" width="445" class="align_center">
+                <colgroup>
+                    <col width="36%"></col>
+                    <col width="28%"></col>
+                    <col width="36%"></col>
+                </colgroup>
+                <tbody>
+                    <tr>
+                        <td></td>
+                        <td class="align_center">Form
+                            2</td>
+                        <td>
+                            <p class="align_right">[<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap59F/s14">regs. 14(2)</ref>, <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap59F/s40">40(1)</ref></p>
+                            <p class="align_right">&amp; <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap59F/s49">49(1)</ref>]</p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </text><text class="align_center">Q<inline class="small_caps">uarries</inline> (S<inline class="small_caps">afety</inline>) R<inline class="small_caps">egulations</inline><marker role="blank-line"></marker>EQUIPMENT
+            REGISTER</text><text><marker role="section-break"></marker><table xmlns="http://www.w3.org/1999/xhtml" width="100%">
+                <col width="19.0833%"></col>
+                <col width="16.9618%"></col>
+                <col width="23.9375%"></col>
+                <col width="20.0035%"></col>
+                <col width="20.0035%"></col>
+                <tr>
+                    
+                    <td class="cellpadding_top_10 align_center border_top_0.75 border_right_0.75 border_bottom_0.75">Date
+                        and <br xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"></br>time of
+                        <br xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"></br>inspection</td>
+                    
+                    <td class="cellpadding_top_15 align_center border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">Equipment<br xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"></br>
+                        inspected</td>
+                    
+                    <td class="cellpadding_top_20 align_center border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">Report</td>
+                    
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 align_center cellpadding_top_5 ">Supervisor
+                        <br xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"></br>on duty
+                        <br xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"></br>by whom
+                        inspected</td>
+                    
+                    <td class="border_top_0.75 border_bottom_0.75 border_left_0.75 align_center cellpadding_top_5 cellpadding_bottom_5">Signature
+                        of supervisor on <br xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"></br>duty by
+                        whom inspected
+                        </td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td class="border_top_0.75 border_bottom_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                </tr>
+            </table></text><crossHeading><text class="align_center">__________</text> </crossHeading><text>
+            
+            <table xmlns="http://www.w3.org/1999/xhtml" class="align_center" width="445">
+                <colgroup>
+                    <col width="36%"></col>
+                    <col width="28%"></col>
+                    <col width="36%"></col>
+                </colgroup>
+                <tbody>
+                    <tr>
+                        <td></td>
+                        <td>Form
+                            3</td>
+                        <td>
+                            <p class="align_right">[<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap59F/s14">regs. 14(2)</ref>, <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap59F/s30">30(1)</ref></p>
+                            <p class="align_right">&amp; <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap59F/s34">34(1)</ref>]</p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            
+            
+            
+        </text><text class="align_center">Q<inline class="small_caps">uarries</inline> (S<inline class="small_caps">afety</inline>) R<inline class="small_caps">egulations</inline><marker role="blank-line"></marker>QUARRY
+            INSPECTION
+            REGISTER</text><text>
+            
+            
+            <table xmlns="http://www.w3.org/1999/xhtml" width="100%">
+                <col width="19.0833%"></col>
+                <col width="16.9618%"></col>
+                <col width="23.9375%"></col>
+                <col width="20.0035%"></col>
+                <col width="20.0035%"></col>
+                <tr>
+                    <td class="cellpadding_top_10 align_center border_top_0.75 border_right_0.75 border_bottom_0.75">Date and <br xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"></br>time of
+                        <br xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"></br>inspection</td>
+                    <td class="cellpadding_top_15 align_center border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">Place<br xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"></br> inspected</td>
+                    <td class="cellpadding_top_20 align_center border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">Report</td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 align_center cellpadding_top_5 ">Supervisor <br xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"></br>on duty
+                        <br xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"></br>by whom inspected</td>
+                    <td class="border_top_0.75 border_bottom_0.75 border_left_0.75 align_center cellpadding_top_5 cellpadding_bottom_5">Signature of supervisor on
+                        <br xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"></br>duty by whom inspected
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td class="border_top_0.75 border_bottom_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                </tr>
+            </table>
+            
+            
+        </text><crossHeading><text class="align_center">__________</text> </crossHeading><text>
+            <table xmlns="http://www.w3.org/1999/xhtml" width="445" class="align_center">
+                <colgroup>
+                    <col width="36%"></col>
+                    <col width="28%"></col>
+                    <col width="36%"></col>
+                </colgroup>
+                <tbody>
+                    <tr>
+                        <td></td>
+                        <td>Form
+                            4</td>
+                        <td>
+                            <p class="align_right">[<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap59F/s14">regs. 14(2)</ref> &amp; <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap59F/s26">26(1)</ref>]</p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </text><text class="align_center">Q<inline class="small_caps">uarries</inline> (S<inline class="small_caps">afety</inline>) R<inline class="small_caps">egulations</inline><marker role="blank-line"></marker>TIME
+            REGISTER</text><text>
+            
+            <table xmlns="http://www.w3.org/1999/xhtml" width="100%">
+                <col width="14.8438%"></col>
+                <col width="25.4444%"></col>
+                <col width="27.5660%"></col>
+                <col width="32.1389%"></col>
+                <tr>
+                    
+                    <td class="cellpadding_top_20 align_center border_top_0.75 border_right_0.75 border_bottom_0.75">Date</td>
+                    
+                    <td class="align_center cellpadding_top_5 cellpadding_bottom_5 border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">Hours
+                        during<br xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"></br>which
+                        work<br xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"></br>carried
+                        on<br xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"></br>in
+                        quarry</td>
+                    
+                    <td class="cellpadding_top_15 align_center border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">Supervisor<br xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"></br>on
+                        duty</td>
+                    
+                    <td class="align_center cellpadding_top_10 border_top_0.75 border_bottom_0.75 border_left_0.75">Signature
+                        of<br xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"></br>supervisor<br xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"></br>on
+                        duty</td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td class="border_top_0.75 border_bottom_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                </tr>
+            </table>
+        </text><sourceNote>(<ref href="/hk/1995/ln570">L.N.
+                570 of 1995</ref>)</sourceNote></schedule><schedule id="ID_1438403504909_002" name="sch2" reason="inEffect" startPeriod="2024-08-22" status="operational" temporalId="sch2"><num value="2">Second
+            Schedule</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap59F/s21">reg.
+                21(1)</ref>]</note><part id="ID_1438413657585_009" name="PI" temporalId="sch2_PI"><num value="I"><inline>Part
+                I</inline><marker role="blank-line"></marker><marker role="blank-line"></marker></num><heading><inline>First Aid Equipment Required where the Number
+                    of
+                    Persons Employed
+                    or Engaged
+                    to Work
+                    in
+                    a Quarry
+                    does
+                    not
+                    Exceed
+                    50</inline><marker role="blank-line"></marker><marker role="blank-line"></marker></heading><paragraph id="ID_1438413657585_046" name="a" temporalId="sch2_PI_a"><num value="a">(a)</num><content>A copy of the leaflet issued by the Commissioner giving advice on first aid
+                    treatment.</content></paragraph><paragraph id="ID_1438413657585_054" name="b" temporalId="sch2_PI_b"><num value="b">(b)</num><content>A sufficient number of (and in any event, not less than 12) small
+                    sterilized unmedicated dressings for injured
+                    fingers.</content></paragraph><paragraph id="ID_1438413657585_062" name="c" temporalId="sch2_PI_c"><num value="c">(c)</num><content>A sufficient number of (and in any event, not less than 6) medium-sized
+                    sterilized unmedicated dressings for injured hands or
+                    feet.</content></paragraph><paragraph id="ID_1438413657601_006" name="d" temporalId="sch2_PI_d"><num value="d">(d)</num><content>A sufficient number of (and in any event, not less than 4) adhesive wound
+                    dressings of assorted
+                    sizes.</content></paragraph><paragraph id="ID_1438413657601_014" name="e" temporalId="sch2_PI_e"><num value="e">(e)</num><content>A sufficient number of (and in any event, not less than 4) triangular
+                    bandages of unbleached calico, the longest side of each bandage measuring not
+                    less than 1.3 metres and each of the other sides of each bandage measuring not
+                    less than 900
+                    millimetres.</content></paragraph><paragraph id="ID_1438413657601_022" name="f" temporalId="sch2_PI_f"><num value="f">(f)</num><content>A sufficient supply (and in any event, not less than 1 roll of 25
+                    millimetres by 4.5 metres of zinc oxide plaster) of adhesive
+                    plaster.</content></paragraph><paragraph id="ID_1438413657601_030" name="g" temporalId="sch2_PI_g"><num value="g">(g)</num><content>A sufficient number of (and in any event, not less than 6) 30 grams packets
+                    of absorbent cotton
+                    wool.</content></paragraph><paragraph id="ID_1438413657601_038" name="h" temporalId="sch2_PI_h"><num value="h">(h)</num><content>A pressure
+                    bandage.</content></paragraph><paragraph id="ID_1438413657601_046" name="i" temporalId="sch2_PI_i"><num value="i">(i)</num><content>A sufficient number of safety
+                    pins.</content></paragraph><paragraph id="ID_1438413657617_006" name="j" temporalId="sch2_PI_j"><num value="j">(j)</num><content>An eye
+                    bath.</content></paragraph><text>
+                <table xmlns="http://www.w3.org/1999/xhtml" width="100%">
+                    <colgroup>
+                        <col width="10%"></col>
+                        <col width="90%"></col>
+                    </colgroup>
+                    <tbody>
+                        <tr>
+                            <td>(Note:</td>
+                            <td class="align_justified">All materials for dressings shall be those
+                                designated in, and of a grade or quality not lower than the
+                                standards specified by the British Pharmaceutical Codex.)</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </text><sourceNote>(<ref href="/hk/1984/ln238">L.N. 238 of
+                1984</ref>)</sourceNote><text class="align_center">
+                
+                
+                
+                <marker role="blank-line"></marker>
+                <marker role="blank-line"></marker>
+            </text></part><part id="ID_1438413657617_033" name="PII" temporalId="sch2_PII"><num value="II"><inline>Part
+                II</inline><marker role="blank-line"></marker><marker role="blank-line"></marker></num><heading><inline>First Aid Equipment Required where the Number
+                    of
+                    Persons Employed
+                    or Engaged
+                    to Work
+                    in
+                    a
+                    Quarry
+                    Exceeds
+                    50</inline><marker role="blank-line"></marker><marker role="blank-line"></marker></heading><paragraph id="ID_1438413657617_070" name="a" temporalId="sch2_PII_a"><num value="a">(a)</num><content>A copy of the leaflet issued by the Commissioner giving advice on first aid
+                    treatment.</content></paragraph><paragraph id="ID_1438413657617_078" name="b" temporalId="sch2_PII_b"><num value="b">(b)</num><content>A sufficient number of (and in any event, not less than 24) small
+                    sterilized unmedicated dressings for injured
+                    fingers.</content></paragraph><paragraph id="ID_1438413657617_086" name="c" temporalId="sch2_PII_c"><num value="c">(c)</num><content>A sufficient number of (and in any event, not less than 12) medium-sized
+                    sterilized unmedicated dressings for injured hands or
+                    feet.</content></paragraph><paragraph id="ID_1438413657617_094" name="d" temporalId="sch2_PII_d"><num value="d">(d)</num><content>A sufficient number of (and in any event, not less than 36) adhesive wound
+                    dressings of assorted
+                    sizes.</content></paragraph><paragraph id="ID_1438413657617_102" name="e" temporalId="sch2_PII_e"><num value="e">(e)</num><content>A sufficient number of (and in any event, not less than 8) triangular
+                    bandages of unbleached calico, the longest side of each bandage measuring not
+                    less than 1.3 metres and each of the other sides of each bandage measuring not
+                    less than 900
+                    millimetres.</content></paragraph><paragraph id="ID_1438413657632_006" name="f" temporalId="sch2_PII_f"><num value="f">(f)</num><content>A sufficient supply (and in any event, not less than 2
+                    rolls
+                    of 25 millimetres by 4.5 metres of zinc oxide plaster) of adhesive
+                    plaster.</content></paragraph><paragraph id="ID_1438413657632_014" name="g" temporalId="sch2_PII_g"><num value="g">(g)</num><content>A sufficient number of (and in any event, not less than 12) 30 grams
+                    packets of absorbent cotton
+                    wool.</content></paragraph><paragraph id="ID_1438413657632_022" name="h" temporalId="sch2_PII_h"><num value="h">(h)</num><content>A pressure
+                    bandage.</content></paragraph><paragraph id="ID_1438413657632_030" name="i" temporalId="sch2_PII_i"><num value="i">(i)</num><content>A sufficient number of safety
+                    pins.</content></paragraph><paragraph id="ID_1438413657632_038" name="j" temporalId="sch2_PII_j"><num value="j">(j)</num><content>An eye
+                    bath.</content></paragraph><text>
+                <table xmlns="http://www.w3.org/1999/xhtml" width="100%">
+                    <colgroup>
+                        <col width="10%"></col>
+                        <col width="90%"></col>
+                    </colgroup>
+                    <tbody>
+                        <tr>
+                            <td>(Note:</td>
+                            <td class="align_justified">All materials for dressings shall be those
+                                designated in and of a grade or quality not lower than the standards
+                                specified by the British Pharmaceutical Codex.)</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </text><sourceNote>(<ref href="/hk/1984/ln238">L.N. 238 of 1984</ref>)</sourceNote></part></schedule></main></subLeg>

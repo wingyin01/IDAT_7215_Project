@@ -1,0 +1,1897 @@
+<?xml version="1.0" encoding="UTF-8"?><subLeg xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd" xml:lang="en"><meta><docName>Cap. 106 sub. leg. B</docName><docType>cap</docType><docNumber>106B</docNumber><docStatus>In effect</docStatus><dc:identifier>/hk/cap106B!en</dc:identifier><dc:date>2024-03-01</dc:date><dc:subject>legislation</dc:subject><dc:language>en</dc:language><dc:publisher>DoJ</dc:publisher><dc:rights>the Government of the Hong Kong Special Administrative Region</dc:rights></meta><main xml:lang="en" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd"><docTitle id="ID_1438402550659_002" name="shortTitle" reason="inEffect" status="operational" temporalId="shortTitle" startPeriod="2014-11-21">Telecommunications (Control of Interference)
+            Regulations</docTitle><enactingFormula>(<ref href="/hk/cap106/s37">Cap. 106, section
+            37</ref>)<marker role="blank-line"></marker><marker role="blank-line"></marker></enactingFormula><commencementNote>[9 September 1966]</commencementNote><sourceNote>(Format changes—<ref href="/hk/2013/er1">E.R. 1 of 2013</ref>)</sourceNote><section id="ID_1438402550674_002" name="s1" reason="inEffect" role="regulation" startPeriod="2013-04-25" status="operational" temporalId="s1"><num value="1">1.</num><heading>Citation</heading><content>These regulations may be cited as the Telecommunications (Control of Interference) Regulations.</content><sourceNote>(<ref href="/hk/2000/36">36 of 2000 s. 28</ref>)</sourceNote></section><section id="ID_1438402550705_001" name="s1A" reason="inEffect" role="regulation" startPeriod="2014-11-21" status="operational" temporalId="s1A"><num value="1A">1A.</num><heading>Interpretation</heading><leadIn>In these regulations—</leadIn><def name="Boat"><term>boat</term> (<term xml:lang="zh-Hant-HK">舟艇</term>) means a means of conveyance or of transit or any other mobile equipment used or capable of being used on the surface of water, with a length of 15 m or less;<i><b><inline class="width_3"> </inline></b></i><sourceNote>(<ref href="/hk/2014/ln72">L.N. 72 of 2014</ref>)</sourceNote></def><def name="CFR"><term>CFR</term> when preceded or followed by a number, or any combination of letters, numbers and punctuation marks, means the regulation that bears the number or combination and is adopted by the Federal Communications Commission of the United States of America;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2014/ln72">L.N. 72 of 2014</ref>)</sourceNote></def><def name="CISPR"><term>CISPR</term> when followed by a number, or any combination of letters, numbers and punctuation marks, means the international standard that bears the number or combination and is published by the International Special Committee on Radio Interference (Comité International Spécial des Perturbations Radioélectriques);<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2014/ln72">L.N. 72 of 2014</ref>)</sourceNote></def><def name="Device"><leadIn><term>device</term> (<term xml:lang="zh-Hant-HK">裝置</term>) means a machine that—</leadIn><paragraph id="ID_1438410835393_012" name="a" temporalId="s1A_a"><num value="a">(a)</num><content>is designed to be capable of being driven by an internal combustion engine;</content></paragraph><paragraph id="ID_1438410835393_020" name="b" temporalId="s1A_b"><num value="b">(b)</num><content>is equipped with an internal combustion engine or traction batteries; and</content></paragraph><paragraph id="ID_1438410835393_028" name="c" temporalId="s1A_c"><num value="c">(c)</num><content>is not primarily intended for carrying persons or goods;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2014/ln72">L.N. 72 of 2014</ref>)</sourceNote></content></paragraph></def><def name="EN"><term>EN</term> when followed by a number, or any combination of letters, numbers and punctuation marks, means the European standard that bears the number or combination and is published by a European Standards Organization;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2014/ln72">L.N. 72 of 2014</ref>)</sourceNote></def><def name="EuropeanStandardsOrganization"><leadIn><term>European Standards Organization</term> (<term xml:lang="zh-Hant-HK">歐洲標準組織</term>) means—</leadIn><paragraph id="ID_1438410835393_049" name="a" temporalId="s1A_a-1"><num value="a">(a)</num><content>the European Committee for Standardization (Comité Européen de Normalisation);</content></paragraph><paragraph id="ID_1438410835393_057" name="b" temporalId="s1A_b-1"><num value="b">(b)</num><content>the European Committee for Electrotechnical Standardization (Comité Européen de Normalisation Électrotechnique); or</content></paragraph><paragraph id="ID_1438410835393_065" name="c" temporalId="s1A_c-1"><num value="c">(c)</num><content>the European Telecommunications Standards Institute; <sourceNote>(<ref href="/hk/2014/ln72">L.N. 72 of 2014</ref>)</sourceNote></content></paragraph></def><def name="GB"><leadIn><term>GB</term> when followed by a number, or any combination of letters, numbers and punctuation marks, means the National Standard of the People’s Republic of China that bears the number or combination and is published by—</leadIn><paragraph id="ID_1438410835393_079" name="a" temporalId="s1A_a-2"><num value="a">(a)</num><content>the General Administration of Quality Supervision, Inspection and Quarantine of the People’s Republic of China;</content></paragraph><paragraph id="ID_1438410835409_006" name="b" temporalId="s1A_b-2"><num value="b">(b)</num><content>the Standardization Administration of the People’s Republic of China; or</content></paragraph><paragraph id="ID_1438410835409_014" name="c" temporalId="s1A_c-2"><num value="c">(c)</num><content>both;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2014/ln72">L.N. 72 of 2014</ref>)</sourceNote></content></paragraph></def><def name="IEC"><term>IEC</term> when preceded or followed by a number, or any combination of letters, numbers and punctuation marks, means the international standard that bears the number or combination and is published by the International Electrotechnical Commission;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2014/ln72">L.N. 72 of 2014</ref>)</sourceNote></def><def name="InformationTechnologyEquipment"><leadIn><term>information technology equipment</term> (<term xml:lang="zh-Hant-HK">資訊技術設備</term>) means equipment designed for the purpose of—</leadIn><paragraph id="ID_1438410835409_035" name="a" temporalId="s1A_a-3"><num value="a">(a)</num><content>receiving data from an external source (such as a data input line or via a keyboard);</content></paragraph><paragraph id="ID_1438410835409_043" name="b" temporalId="s1A_b-3"><num value="b">(b)</num><content>performing certain processing functions on the received data (such as computation, data transformation or recording, filing, sorting, storage or transfer of data); or</content></paragraph><paragraph id="ID_1438410835409_051" name="c" temporalId="s1A_c-3"><num value="c">(c)</num><content>providing a data output (either to other equipment or by the reproduction of data or images);</content></paragraph></def><def name="Interference"><term>interference</term> (<term xml:lang="zh-Hant-HK">干擾</term>) means the effect of unwanted energy due to any or a combination of emission, radiation or induction upon reception in a telecommunications system, manifested by any performance degradation, misinterpretation or loss of information which could be extracted in the absence of such unwanted energy;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2000/36">36 of 2000 s. 28</ref>; <ref href="/hk/2014/ln72">L.N. 72 of 2014</ref>)</sourceNote></def><def name="PropulsionSystem"><term>propulsion system</term> (<term xml:lang="zh-Hant-HK">推動系統</term>), in relation to a boat or vehicle, means all the equipment in the boat or vehicle that propels the boat or vehicle, and includes all the other parts of the boat or vehicle that are automatically switched on when the equipment is switched on.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2014/ln72">L.N. 72 of 2014</ref>)</sourceNote></def><sourceNote>(<ref href="/hk/1993/ln153">L.N. 153 of 1993</ref>)</sourceNote></section><section id="ID_1438402550721_002" name="s2" reason="inEffect" role="regulation" startPeriod="2014-11-21" status="operational" temporalId="s2"><num value="2">2.</num><heading>Application of regulations and classification of apparatus</heading><subsection id="ID_1438410835471_004" name="1" temporalId="s2_1"><num value="1">(1)</num><leadIn>Subject to the provisions of paragraph (3), these regulations shall apply to
+                every apparatus belonging to any of the following classes of
+                        apparatus—  <sourceNote>(<ref href="/hk/1993/ln153">L.N. 153 of 1993</ref>; <ref href="/hk/2014/ln72">L.N. 72 of 2014</ref>)</sourceNote></leadIn><paragraph id="ID_1438410835471_012" name="a" temporalId="s2_1_a"><num value="a">(a)</num><leadIn>propulsion system—</leadIn><subparagraph id="ID_1438410835471_020" name="i" temporalId="s2_1_a_i"><num value="i">(i)</num><content>installed in a boat that is registered in Hong Kong and is driven by an
+                        internal combustion engine or electrical means or both; or</content></subparagraph><subparagraph id="ID_1438410835471_028" name="ii" temporalId="s2_1_a_ii"><num value="ii">(ii)</num><content>installed in a vehicle that is driven by an internal combustion engine
+                        or electrical means or both;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2014/ln72">L.N. 72 of
+                                2014</ref>)</sourceNote></content></subparagraph></paragraph><paragraph id="ID_1438410835471_035" name="ab" temporalId="s2_1_ab"><num value="ab">(ab)</num><content>device;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2014/ln72">L.N. 72 of 2014</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438410835471_043" name="b" temporalId="s2_1_b"><num value="b">(b)</num><content>information technology equipment;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1993/ln153">L.N. 153 of
+                            1993</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438410835471_051" name="c" temporalId="s2_1_c"><num value="c">(c)</num><content>sound and television broadcast receivers and associated equipment;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1993/ln153">L.N. 153
+                            of 1993</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438410835471_059" name="d" temporalId="s2_1_d"><num value="d">(d)</num><content>electrical lighting and similar equipment;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2014/ln72">L.N. 72 of
+                        2014</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438410835471_067" name="e" temporalId="s2_1_e"><num value="e">(e)</num><content>household appliances, electric tools and similar apparatus.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2014/ln72">L.N. 72 of
+                            2014</ref>)</sourceNote></content></paragraph><paragraph id="ID_1523327477108_001" name="f...g" temporalId="s2_1_f...g"><num value="f...g" startValue="f" endValue="g">(f)-(g)</num><content><sourceNote>(Repealed <ref href="/hk/1993/ln153">L.N. 153 of
+                        1993</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438410835471_081" name="2" temporalId="s2_2"><num value="2">(2)</num><sourceNote>(Repealed <ref href="/hk/1993/ln153">L.N. 153 of 1993</ref>)</sourceNote></subsection><subsection id="ID_1438410835471_089" name="3" temporalId="s2_3"><num value="3">(3)</num><paragraph id="ID_1438410835471_093" name="aa" temporalId="s2_3_aa"><num value="aa">(aa)</num><content>These regulations do not apply to an apparatus that is not regulated by any
+                    of the standards or regulations specified in <ref>Schedule 1</ref>.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2014/ln72">L.N. 72 of
+                            2014</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438410835487_006" name="a" temporalId="s2_3_a"><num value="a">(a)</num><content>Any apparatus in an aircraft or in a vessel registered outside Hong Kong
+                    shall, for the purposes of <ref>regulation 4</ref>, be deemed not to be within
+                    any of the classes specified in paragraph (1).<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1998/23">23 of 1998 s.
+                        2</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438410835487_014" name="b" temporalId="s2_3_b"><num value="b">(b)</num><content>For the purposes of <ref>regulation 3</ref> any apparatus (other than an
+                    apparatus belonging to the class specified in paragraph <ref>(1)(a)</ref>)
+                    designed to be used exclusively in a vessel or aircraft and to obtain its power
+                    solely therefrom, and for the purposes of <ref>regulation 4</ref> any apparatus
+                    (other than an apparatus belonging to the class specified in paragraph
+                        <ref>(1)(a)</ref>) used in a vessel or aircraft and obtaining its power
+                    solely therefrom, shall be deemed not to be within any of the classes specified
+                    in paragraph
+                    (1).</content></paragraph><paragraph id="ID_1438410835502_006" name="c" temporalId="s2_3_c"><num value="c">(c)</num><content>For the purposes of <ref>regulations 3</ref> and <ref>4</ref>, an apparatus
+                    for radiocommunications or an apparatus of any kind that generates and emits
+                    radio waves shall be deemed not to be within any of the classes specified in
+                    paragraph (1) if a licence is required for its possession or use under
+                        <ref>section 8</ref> of the Ordinance or if the possession or use of such
+                    apparatus without a licence is permitted pursuant to an order under <ref>section
+                        39</ref> of the Ordinance.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1993/ln153">L.N. 153 of
+                            1993</ref>; <ref href="/hk/2000/36">36 of 2000 s. 28</ref>; <ref href="/hk/2014/ln72">L.N. 72 of 2014</ref>)</sourceNote></content></paragraph></subsection></section><section id="ID_1438402550752_001" name="s3" reason="inEffect" role="regulation" startPeriod="2013-04-25" status="operational" temporalId="s3"><num value="3">3.</num><heading>Manufacturers,
+            assemblers and importers</heading><subsection id="ID_1438410835549_004" name="1" temporalId="s3_1"><num value="1">(1)</num><content>The requirement referred to in <ref>regulation 7</ref> shall be complied with
+                in the case of every apparatus to which these regulations apply (whether
+                manufactured, assembled or imported before or after the day on which these
+                regulations are published in the Gazette) if that apparatus is to be sold otherwise
+                than for export, or offered or advertised for sale otherwise than for export, or let
+                on hire or offered or advertised for letting on hire, or installed, by any person,
+                whether on his own account or as agent of some other person, who in Hong Kong or
+                whose principal in Hong Kong in the course of business manufactured or assembled the
+                apparatus or who on his own account or as agent in the course of business imported
+                the apparatus into Hong Kong or whose principal in the course of business imported
+                the apparatus into Hong Kong.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1993/ln153">L.N. 153 of
+                1993</ref>)</sourceNote></content></subsection><subsection id="ID_1438410835580_005" name="2" temporalId="s3_2"><num value="2">(2)</num><leadIn>Any person, whether on his own account or as agent of some other person,
+                    who—<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1993/ln153">L.N. 153 of
+                        1993</ref>)</sourceNote></leadIn><paragraph id="ID_1438410835580_013" name="a" temporalId="s3_2_a"><num value="a">(a)</num><content>sells otherwise than for export or offers or advertises for sale otherwise
+                    than for export; or</content></paragraph><paragraph id="ID_1438410835580_021" name="b" temporalId="s3_2_b"><num value="b">(b)</num><content>lets on hire or offers or advertises for letting on hire; or </content></paragraph><paragraph id="ID_1438410835580_029" name="c" temporalId="s3_2_c"><num value="c">(c)</num><content>installs, </content></paragraph><continued>any apparatus to which these regulations apply (whether manufactured,
+                assembled or imported before or after the day on which these regulations are
+                published in the Gazette), being an apparatus which was manufactured or assembled by
+                him or his principal, as the case may be, in Hong Kong in the course of business or
+                imported into Hong Kong by him, whether on his own account or as agent of some other
+                person, or by his principal, in the course of business, shall, if such apparatus
+                does not comply with the requirement referred to in <ref>regulation 7</ref> when so
+                sold, offered or advertised for sale, let on hire, offered or advertised for letting
+                on hire, or installed, as the case may be, be guilty of an offence and shall be
+                liable on summary conviction, in the case of the first such offence, to a fine at
+                level 2 and, in the case of any subsequent such offence, to a fine at level 3; and
+                where such person is the agent of some other person, such other person shall be
+                under the same liability as if he had himself sold or offered or advertised for
+                sale, or let on hire or offered or advertised for letting on hire, or installed,
+                that apparatus, as the case may be. </continued></subsection><sourceNote>(<ref href="/hk/1994/ln256">L.N. 256 of 1994</ref>; <ref href="/hk/2013/er1">E.R. 1 of 2013</ref>)</sourceNote></section><section id="ID_1438402550752_003" name="s3A" reason="inEffect" role="regulation" startPeriod="2014-11-21" status="operational" temporalId="s3A"><num value="3A">3A.</num><heading>Manufacturers, assemblers and importers of certain boats and vehicles</heading><subsection id="ID_1438410835627_018" name="1" temporalId="s3A_1"><num value="1">(1)</num><content>This regulation applies in relation to an apparatus belonging to the class specified in <ref>regulation 2(1)(a)</ref>.</content></subsection><subsection id="ID_1438410835627_026" name="2" temporalId="s3A_2"><num value="2">(2)</num><content>The requirement referred to in <ref>regulation 7(1)(a)</ref> must be complied with in the circumstances specified in paragraph (3) for a boat or vehicle in which an apparatus to which this regulation applies is installed.</content></subsection><subsection id="ID_1438410835643_005" name="3" temporalId="s3A_3"><num value="3">(3)</num><leadIn>The circumstances are that a person described in paragraph (4)—</leadIn><paragraph id="ID_1438410835643_013" name="a" temporalId="s3A_3_a"><num value="a">(a)</num><content>sells otherwise than for export, or offers or advertises for sale otherwise than for export the boat or vehicle;</content></paragraph><paragraph id="ID_1438410835643_021" name="b" temporalId="s3A_3_b"><num value="b">(b)</num><content>lets on hire or offers or advertises for letting on hire the boat or vehicle; or</content></paragraph><paragraph id="ID_1438410835643_029" name="c" temporalId="s3A_3_c"><num value="c">(c)</num><content>installs the boat or vehicle.</content></paragraph></subsection><subsection id="ID_1438410835643_036" name="4" temporalId="s3A_4"><num value="4">(4)</num><leadIn>The person is one—</leadIn><paragraph id="ID_1438410835643_044" name="a" temporalId="s3A_4_a"><num value="a">(a)</num><content>who in the course of business manufactured or assembled the boat or vehicle in Hong Kong (whether on the person’s own account or as agent of some other person);</content></paragraph><paragraph id="ID_1438410835643_052" name="b" temporalId="s3A_4_b"><num value="b">(b)</num><content>whose principal in the course of business manufactured or assembled the boat or vehicle in Hong Kong;</content></paragraph><paragraph id="ID_1438410835643_060" name="c" temporalId="s3A_4_c"><num value="c">(c)</num><content>who in the course of business imported the boat or vehicle into Hong Kong (whether on the person’s own account or as agent of some other person); or</content></paragraph><paragraph id="ID_1438410835643_068" name="d" temporalId="s3A_4_d"><num value="d">(d)</num><content>whose principal in the course of business imported the boat or vehicle into Hong Kong.</content></paragraph></subsection><subsection id="ID_1438410835643_075" name="5" temporalId="s3A_5"><num value="5">(5)</num><leadIn>If paragraph (2) is contravened in relation to a boat or vehicle, a person described in paragraph (4) in carrying out an act mentioned in paragraph (3) in relation to the boat or vehicle commits an offence and is liable on summary conviction—</leadIn><paragraph id="ID_1438410835643_083" name="a" temporalId="s3A_5_a"><num value="a">(a)</num><content>to a fine at level 2 on the first occasion on which the person is convicted of the offence; and</content></paragraph><paragraph id="ID_1438410835658_006" name="b" temporalId="s3A_5_b"><num value="b">(b)</num><content>to a fine at level 3 on each subsequent occasion on which the person is convicted of the offence.</content></paragraph></subsection><subsection id="ID_1438410835658_013" name="6" temporalId="s3A_6"><num value="6">(6)</num><content>If the person acts as an agent for another person in carrying out an act mentioned in paragraph (3), that other person is liable under paragraph (5) as if that other person had personally carried out the act.</content></subsection><sourceNote>(<ref href="/hk/2014/ln72">L.N. 72 of 2014</ref>)</sourceNote></section><section id="ID_1438402550768_002" name="s4" reason="inEffect" role="regulation" startPeriod="2014-11-21" status="operational" temporalId="s4"><num value="4">4.</num><heading>Users</heading><subsection id="ID_1438410835690_004" name="1" temporalId="s4_1"><num value="1">(1)</num><leadIn>The requirement referred to in <ref>regulation 7</ref> shall be complied with in
+                the case of every apparatus to which these regulations apply, whether manufactured,
+                assembled, installed, imported, purchased, hired or otherwise obtained before or
+                after the day on which these regulations are published in the Gazette, if such
+                apparatus is to be used in Hong Kong:<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1994/ln256">L.N. 256 of
+                    1994</ref>)</sourceNote></leadIn><leadIn> Provided that in the case of an apparatus belonging to the class specified in
+                    <ref>regulation 2(1)(a)</ref> or (ab), the use of the apparatus shall be deemed
+                to comply with the said requirement if the person using the apparatus
+                        establishes—  <sourceNote>(<ref href="/hk/2014/ln72">L.N. 72 of
+                    2014</ref>)</sourceNote></leadIn><paragraph id="ID_1438410835690_019" name="a" temporalId="s4_1_a"><num value="a">(a)</num><leadIn>that suppressors were fitted to the apparatus by the manufacturer, assembler
+                    or importer of—  <sourceNote>(<ref href="/hk/2014/ln72">L.N. 72 of
+                        2014</ref>)</sourceNote></leadIn><subparagraph id="ID_1438410835690_027" name="i" temporalId="s4_1_a_i"><num value="i">(i)</num><content>the apparatus; or</content></subparagraph><subparagraph id="ID_1438410835690_035" name="ii" temporalId="s4_1_a_ii"><num value="ii">(ii)</num><content>if the apparatus belongs to the class specified in <ref>regulation
+                            2(1)(a)</ref>, the boat or vehicle concerned; and</content></subparagraph></paragraph><paragraph id="ID_1438410835705_006" name="b" temporalId="s4_1_b"><num value="b">(b)</num><content>that the suppressors so fitted remained fitted to the apparatus at the time
+                    of use, or that suppressors having the same electrical characteristics had been
+                    correctly fitted to the apparatus at that time in substitution for those fitted
+                    as aforesaid, and in either case that the suppressors were then in good
+                    electrical and mechanical repair and condition; and</content></paragraph><paragraph id="ID_1438410835705_014" name="c" temporalId="s4_1_c"><num value="c">(c)</num><leadIn>that the apparatus at the time of the use consisted of the same components
+                    as those which were fitted at the time when—  <sourceNote>(<ref href="/hk/2014/ln72">L.N. 72 of 2014</ref>)</sourceNote></leadIn><subparagraph id="ID_1438410835705_022" name="i" temporalId="s4_1_c_i"><num value="i">(i)</num><content>the apparatus was manufactured or assembled; or</content></subparagraph><subparagraph id="ID_1438410835705_030" name="ii" temporalId="s4_1_c_ii"><num value="ii">(ii)</num><content>if the apparatus belongs to the class specified in <ref>regulation
+                            2(1)(a)</ref>, the boat or vehicle concerned was manufactured or
+                        assembled,</content></subparagraph><continued>or that any components that had been substituted for those components had
+                    the same electrical characteristics and had been correctly fitted.</continued></paragraph></subsection><subsection id="ID_1438410835705_042" name="2" temporalId="s4_2"><num value="2">(2)</num><content>Save as provided in paragraph (3) and in <ref>regulation 9</ref>, it shall not
+                be unlawful for any person to use any apparatus to which these regulations apply by
+                reason only that it does not comply with the requirement referred to in
+                    <ref>regulation 7</ref>, but the non-compliance therewith shall be a ground for
+                the giving of a notice under <ref>regulation 5</ref>.</content></subsection><subsection id="ID_1438410835721_005" name="3" temporalId="s4_3"><num value="3">(3)</num><content>Any person who uses an apparatus belonging to the class specified in
+                    <ref>regulation 2(1)(a)</ref> or (ab) that does not comply with the requirement
+                referred to in <ref>regulation 7</ref> shall be guilty of an offence and shall be
+                liable on summary conviction, in the case of the first such offence, to a fine at
+                level 1 and, in the case of any subsequent such offence, to a fine at level
+                    2.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1993/ln153">L.N.
+                        153 of 1993</ref>; <ref href="/hk/1994/ln256">L.N. 256 of 1994</ref>; <ref href="/hk/2013/er1">E.R. 1 of 2013</ref>)</sourceNote></content></subsection><sourceNote>(<ref href="/hk/2014/ln72">L.N. 72 of 2014</ref>)</sourceNote></section><section id="ID_1438402550799_001" name="s5" reason="inEffect" role="regulation" startPeriod="2019-04-11" status="operational" temporalId="s5"><num value="5">5.</num><heading>Enforcement of regulations as to use</heading><subsection id="ID_1438410835955_004" name="1" temporalId="s5_1"><num value="1">(1)</num><leadIn>If the Authority is of the opinion—</leadIn><paragraph id="ID_1438410835955_012" name="a" temporalId="s5_1_a"><num value="a">(a)</num><content>that any apparatus to which <ref>regulation 4</ref> applies does not comply with the requirement referred to in <ref>regulation 7</ref>; and either</content></paragraph><paragraph id="ID_1438410835955_020" name="b" temporalId="s5_1_b"><num value="b">(b)</num><content>that the use of the apparatus is likely to cause undue interference with the working of any apparatus for telecommunications used for the purpose of any safety of life service or for any purpose on which the safety of any person or of any vessel, aircraft or vehicle may depend; or<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2000/36">36 of 2000 s. 28</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438410835970_006" name="c" temporalId="s5_1_c"><num value="c">(c)</num><content>that the use of the apparatus is likely to cause undue interference with the working of any other apparatus for telecommunications and in fact has caused or is causing such interference in a case where the Authority considers that all reasonable steps to minimize interference have been taken in relation to the station or apparatus receiving the telecommunications,<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2014/ln72">L.N. 72 of 2014</ref>)</sourceNote></content></paragraph><continued>the Authority may serve on the person in possession of the apparatus a notice in writing requiring that, after a date fixed by the notice, not being less than 14 days from the date of service of the notice, the apparatus is not to be used, whether by the person given the notice or any other person, or, if the Authority thinks fit so to frame the notice, the apparatus may only be used in such manner, at such time and in such circumstances as may be specified in the notice:<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2014/ln72">L.N. 72 of 2014</ref>)</sourceNote></continued><proviso name="proviso" temporalId="s5_1_proviso"> Provided that if the Authority is satisfied that
+                the use of the apparatus concerned is likely to cause undue interference such as is
+                referred to in sub-paragraph (b), the date fixed by the notice may, in the
+                discretion of the Authority, be the date of service of the notice or any other date
+                earlier than
+                14
+                days from the date of service.
+                <sourceNote>(<ref href="/hk/2019/er1">E.R. 1 of
+                2019</ref>)</sourceNote></proviso></subsection><subsection id="ID_1438410835986_004" name="2" temporalId="s5_2"><num value="2">(2)</num><content>If the Authority is satisfied that the use of any apparatus to which
+                    <ref>regulation 4</ref> applies is likely to cause undue interference such as is
+                referred to in paragraph <ref>(1)(b)</ref> and that the circumstances of the case
+                warrant the service of a notice under that paragraph requiring that the apparatus
+                shall not be used from the date of service of the notice, it may, in addition to the
+                service of such a notice and either before or after the service of the notice, seal
+                the apparatus in such manner, or remove such part thereof, as ensures that the
+                apparatus is not used, but in such a case, where the apparatus is sealed or a part
+                thereof is removed before the service of the notice, the notice aforesaid shall be
+                served within
+                3
+                days after the apparatus is sealed or the part removed therefrom.
+                <sourceNote>(<ref href="/hk/2019/er1">E.R. 1 of
+                2019</ref>)</sourceNote></content></subsection><subsection id="ID_1438410836017_005" name="3" temporalId="s5_3"><num value="3">(3)</num><content><leadIn>A notice under paragraph (1) may be revoked or varied by a subsequent notice in writing by the Authority served on the person in whose possession the apparatus then is:</leadIn><proviso name="proviso" temporalId="s5_3_proviso"><leadIn>Provided that—</leadIn><paragraph id="ID_1438410836017_020" name="a" temporalId="s5_3_a"><num value="a">(a)</num><content>where a notice under this paragraph has the effect of imposing any additional restrictions on the use of the apparatus, the provisions of paragraph (1) relating to the coming into force of notices shall apply in relation to the notice as if it had been a notice served under that paragraph; and</content></paragraph><paragraph id="ID_1438410836017_028" name="b" temporalId="s5_3_b"><num value="b">(b)</num><content>where the Authority is satisfied that the apparatus has been altered or otherwise made to comply with the requirement referred to in <ref>regulation 7</ref>, it shall revoke the notice and forthwith break the seal (if any) on, or replace the part (if any) removed from, the apparatus.</content></paragraph></proviso></content></subsection><subsection id="ID_1438410836033_004" name="4" temporalId="s5_4"><num value="4">(4)</num><content>No person, being a person who knows that a notice of the Authority under this regulation is in force with respect to any apparatus, shall use that apparatus, or cause or permit it to be used, in contravention of the notice.</content></subsection><subsection id="ID_1438410836033_012" name="5" temporalId="s5_5"><num value="5">(5)</num><leadIn>Any person who contravenes the provisions of paragraph (4) shall be guilty of an
+                offence and shall be liable on summary conviction—</leadIn><paragraph id="ID_1438410836033_020" name="a" temporalId="s5_5_a"><num value="a">(a)</num><content>where the apparatus with respect to which the notice was given was sealed
+                    or a part of it was removed under and in accordance with paragraph (2), for the
+                    first such offence under this sub-paragraph, to a fine at level 3 and to
+                    imprisonment for 3 months, and, for any subsequent such offence under this
+                    sub-paragraph to a fine at level 4 and to imprisonment for 6 months; and
+                    <sourceNote>(<ref href="/hk/1994/ln256">L.N. 256 of
+                    1994</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438410836033_028" name="b" temporalId="s5_5_b"><num value="b">(b)</num><content>in any
+                    other case, for the first such offence under this sub-paragraph, to a fine at
+                    level 2, and, for any subsequent such offence under this sub-paragraph, to a
+                    fine at level 3: <sourceNote>(<ref href="/hk/1994/ln256">L.N. 256 of
+                        1994</ref>)</sourceNote></content></paragraph><continued> Provided that no person shall be convicted of an offence under this
+                paragraph if it is made to appear to the court that at the time of the use of the
+                apparatus in contravention of the notice an application had been made in writing to
+                the Authority for revocation of the notice and that the Authority had, without
+                reasonable cause (the burden of proof whereof shall be upon the Authority), failed
+                or neglected to revoke the notice within a reasonable time after receipt of the
+                application for revocation.</continued></subsection><sourceNote>(<ref href="/hk/2011/17">17 of 2011 s. 28</ref>; <ref href="/hk/2013/er1">E.R. 1 of 2013</ref>)</sourceNote></section><section id="ID_1438402550815_002" name="s6" reason="inEffect" role="regulation" startPeriod="2019-04-11" status="operational" temporalId="s6"><num value="6">6.</num><heading>Entry and search of premises, etc.</heading><leadIn>Where a magistrate is satisfied by information on oath—</leadIn><paragraph id="ID_1438410836095_026" name="a" temporalId="s6_a"><num value="a">(a)</num><content>that there is reasonable ground for believing that, on any specified premises or in any specified vessel, aircraft or vehicle, apparatus to which these regulations apply is to be found which does not comply with the requirement applicable to it under these regulations; and</content></paragraph><paragraph id="ID_1438410836111_006" name="b" temporalId="s6_b"><num value="b">(b)</num><content>that it is necessary to enter those premises, or that vessel, aircraft or vehicle, and to examine or test any apparatus to which these regulations apply which may be found therein or thereon for the purpose of determining whether any such apparatus does or does not comply with the requirement applicable to it under these regulations; and</content></paragraph><paragraph id="ID_1438410836111_014" name="c" temporalId="s6_c"><num value="c">(c)</num><content>that, within
+                14
+                days before the date of the application to such magistrate, access to the premises,
+                vessel, aircraft or vehicle for the purpose aforesaid has been demanded by, or
+                permission to examine any such apparatus as aforesaid which has been found therein
+                or thereon has been requested by, the Authority or any public officer authorized in
+                writing in that behalf by the Authority and producing sufficient documentary
+                evidence of identity and, in the case of a public officer authorized as aforesaid,
+                of the officer’s authority, but in either case has been unreasonably refused,
+                <sourceNote>(<ref href="/hk/2019/er1">E.R. 1 of
+                2019</ref>)</sourceNote></content></paragraph><continued>the magistrate may issue his warrant empowering the Authority or any public officer or officers authorized in writing in that behalf by the Authority and named in such authorization to enter the premises or, as the case may be, the vessel, aircraft or vehicle and any premises on which it may be and to search the premises, vessel, aircraft or vehicle with a view to discovering whether any apparatus to which these regulations apply is situate thereon or therein, and, if the Authority, public officer or officers find any such apparatus thereon or therein, to examine and test it with a view to determine whether it does or does not comply with the requirement applicable to it under these regulations.</continued><sourceNote>(<ref href="/hk/2011/17">17 of 2011 s. 28</ref>)</sourceNote></section><section id="ID_1438402550830_002" name="s7" reason="inEffect" role="regulation" startPeriod="2014-11-21" status="operational" temporalId="s7"><num value="7">7.</num><heading>Requirement</heading><subsection id="ID_1438410836173_004" name="1" temporalId="s7_1"><num value="1">(1)</num><leadIn>The requirement referred to in <ref>regulations 3</ref>, <ref>3A</ref> and
+                    <ref>4</ref> is that the apparatus must be designed, constructed, assembled and
+                installed, and precautions must be taken in relation to it (by fitting suppressors
+                or otherwise), so as to ensure that when the apparatus is used—</leadIn><paragraph id="ID_1438410836189_005" name="a" temporalId="s7_1_a"><num value="a">(a)</num><content>for an apparatus belonging to the class specified in <ref>regulation
+                        2(1)(a)</ref>—the interference of the boat or vehicle concerned complies
+                    with at least one of the standards or regulations specified in <ref>Part 1 of
+                        Schedule 1</ref>; or</content></paragraph><paragraph id="ID_1438410836189_013" name="b" temporalId="s7_1_b"><num value="b">(b)</num><content>for any other
+                    apparatus—its
+                    interference complies with at least one of the standards or regulations
+                    applicable to the apparatus as specified in <ref>Schedule 1</ref>.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2014/ln72">L.N. 72 of
+                            2014</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438410836189_020" name="2" temporalId="s7_2"><num value="2">(2)</num><sourceNote>(Repealed <ref href="/hk/2014/ln72">L.N. 72 of 2014</ref>)</sourceNote></subsection><subsection id="ID_1438410836189_028" name="3" temporalId="s7_3"><num value="3">(3)</num><leadIn>The requirement in paragraph (1) shall be deemed to be complied with for the
+                purposes of <ref>regulations 3</ref> and <ref>4</ref>, in the case of a sale, offer
+                or advertisement for sale, letting on hire, offer or advertisement for letting on
+                hire or use of electrical lighting and similar equipment, if the person selling,
+                offering or advertising for sale, letting on hire, offering or advertising for
+                letting on hire or using, as the case may be, the apparatus,
+                        establishes—  <sourceNote>(<ref href="/hk/2014/ln72">L.N. 72 of
+                    2014</ref>)</sourceNote></leadIn><paragraph id="ID_1438410836204_005" name="a" temporalId="s7_3_a"><num value="a">(a)</num><content>that suppressors were fitted to the apparatus by the manufacturer,
+                    assembler or importer;</content></paragraph><paragraph id="ID_1438410836204_013" name="b" temporalId="s7_3_b"><num value="b">(b)</num><content>that the suppressors so fitted remained fitted to the apparatus at the time
+                    of the sale, letting on hire, offer or advertisement for letting on hire or use,
+                    as the case may be, or that suppressors having the same electrical
+                    characteristics had been correctly fitted to the apparatus at that time in
+                    substitution for those fitted as aforesaid, and in either case that the
+                    suppressors were then in good electrical and mechanical repair and condition;
+                    and</content></paragraph><paragraph id="ID_1438410836204_021" name="c" temporalId="s7_3_c"><num value="c">(c)</num><content>that the apparatus at the time of the sale, offer or advertisement for
+                    sale, letting on hire, offer or advertisement for letting on hire or use, as the
+                    case may be, consisted of the same components as those which were fitted at the
+                    time when the apparatus was manufactured or assembled, or that any components
+                    which had been substituted for those components had the same electrical
+                    characteristics and had been correctly fitted.
+                    <sourceNote>(<ref href="/hk/1993/ln153">L.N. 153 of
+                    1993</ref>)</sourceNote></content></paragraph></subsection></section><section id="ID_1438402550846_002" name="s7A" reason="repealed" role="regulation" startPeriod="2014-11-21" status="repealed" temporalId="s7A"><num value="7A">7A.</num><sourceNote>(Repealed <ref href="/hk/2014/ln72">L.N. 72 of 2014</ref>)</sourceNote></section><section id="ID_1438402550861_002" name="s7B" reason="inEffect" role="regulation" startPeriod="2019-04-11" status="operational" temporalId="s7B"><num value="7B">7B.</num><heading>Transitional</heading><subsection id="ID_1438410836251_004" name="1" temporalId="s7B_1"><num value="1">(1)</num><content>During the transitional period, the requirement referred to in <ref>regulation 7</ref> is to be regarded as having been complied with in respect of a continuously regulated apparatus in the circumstances specified in paragraph (2).</content></subsection><subsection id="ID_1438410836267_005" name="2" temporalId="s7B_2"><num value="2">(2)</num><leadIn>The circumstances are that the apparatus is designed, constructed, assembled and installed, and precautions are taken in relation to it (by fitting suppressors or otherwise), so as to ensure that when the apparatus is used, at any defined frequency or at any frequency within the defined frequency range—</leadIn><paragraph id="ID_1438410836267_013" name="a" temporalId="s7B_2_a"><num value="a">(a)</num><content>the interference voltage at the electric supply line terminals, aerial terminals, load terminals or additional terminals of the apparatus does not exceed the limit of interference voltage specified in <ref>Schedule 3</ref> for that frequency or frequency range;</content></paragraph><paragraph id="ID_1438410836267_021" name="b" temporalId="s7B_2_b"><num value="b">(b)</num><content>the interference field strength of the electromagnetic energy radiated in any direction from the apparatus or its associated cables does not exceed the limit of interference field strength specified in <ref>Schedule 3</ref> for that frequency or frequency range and at any distance not less than the given distance for the same frequency or frequency range;</content></paragraph><paragraph id="ID_1438410836282_006" name="c" temporalId="s7B_2_c"><num value="c">(c)</num><content>the interference power of the electromagnetic energy radiated in any direction from the apparatus or its associated cables does not exceed the limit of interference power specified in <ref>Schedule 3</ref> for that frequency or frequency range; or</content></paragraph><paragraph id="ID_1438410836282_014" name="d" temporalId="s7B_2_d"><num value="d">(d)</num><content>the insertion loss of the apparatus does not fall below the minimum value specified in <ref>Schedule 3</ref> for that frequency or frequency range,</content></paragraph><continued>in respect of the class or subdivision of the class of apparatus to which the apparatus concerned belongs.</continued></subsection><subsection id="ID_1438410836282_027" name="3" temporalId="s7B_3"><num value="3">(3)</num><content>During the transitional period, a failure to comply with the requirement referred to in <ref>regulation 7</ref> in respect of a newly regulated apparatus does not constitute an offence under <ref>regulation 3</ref>, <ref>3A</ref> or <ref>4</ref>.</content></subsection><subsection id="ID_1438410836282_035" name="4" temporalId="s7B_4"><num value="4">(4)</num><leadIn>In this regulation—</leadIn><def name="CommencementDate"><i>*</i><term>commencement date</term> (<term xml:lang="zh-Hant-HK">生效日期</term>) means the date of commencement of the Telecommunications (Control
+                of Interference) (Amendment)
+                Regulation
+                2014 (<ref href="/hk/2014/ln72">L.N. 72 of 2014</ref>);
+                <sourceNote>(<ref href="/hk/2019/er1">E.R. 1 of
+                2019</ref>)</sourceNote></def><def name="ContinuouslyRegulatedApparatus"><term>continuously regulated apparatus</term> (<term xml:lang="zh-Hant-HK">持續受規管器具</term>) means an apparatus to which the regulations as in force immediately before the commencement date applied and to which these regulations apply;</def><def name="DefinedFrequency"><term>defined frequency</term> (<term xml:lang="zh-Hant-HK">界定頻率</term>), in relation to an apparatus belonging to a class or subdivision of a class of apparatus referred to in <ref>Schedule 3</ref>, means the frequency or, if there is more than one, any of the frequencies specified in that <ref>Schedule</ref> in respect of the class or subdivision in the column or row with the heading referring to “Frequency”;</def><def name="DefinedFrequencyRange"><term>defined frequency range</term> (<term xml:lang="zh-Hant-HK">界定頻率範圍</term>), in relation to an apparatus belonging to a class or subdivision of a class of apparatus referred to in <ref>Schedule 3</ref>, means the frequency range or, if there is more than one, any of the frequency ranges specified in that <ref>Schedule</ref> in respect of the class or subdivision in the column with the heading referring to “Frequency Range”;</def><def name="GivenDistance"><term>given distance</term> (<term xml:lang="zh-Hant-HK">給定距離</term>), in relation to an apparatus belonging to a class or subdivision of a class of apparatus referred to in <ref>Schedule 3</ref>, means the distance specified in that <ref>Schedule</ref> for the limit of interference field strength in respect of the class or subdivision and for the relevant frequency range;</def><def name="NewlyRegulatedApparatus"><term>newly regulated apparatus</term> (<term xml:lang="zh-Hant-HK">新近受規管器具</term>) means an apparatus to which the regulations as in force immediately before the commencement date did not apply but to which these regulations apply;</def><def name="TransitionalPeriod"><term>transitional period</term> (<term xml:lang="zh-Hant-HK">過渡期間</term>) means the period of 12 months beginning on the commencement date.</def></subsection><sourceNote>(<ref href="/hk/2014/ln72">L.N. 72 of 2014</ref>)<marker role="blank-line"></marker><marker role="blank-line"></marker></sourceNote><editorialNote type="footnote" id="ID_1553827786123_001"><content>Editorial Note:</content><content><inline class="force_orig_font">*</inline> Commencement date:<inline class="width_3"> </inline>21 November 2014.</content></editorialNote></section><section id="ID_1438402550877_002" name="s8" reason="inEffect" role="regulation" startPeriod="2014-11-21" status="operational" temporalId="s8"><num value="8">8.</num><heading>Measurement and computation of noise voltage and field-strength</heading><leadIn>For the purposes of these regulations and the measurement and computation of interference voltage, interference field strength, interference power and insertion loss—</leadIn><paragraph id="ID_1438410836376_005" name="a" temporalId="s8_a"><num value="a">(a)</num><content>the Authority shall be the sole authority by which measurements are made;</content></paragraph><paragraph id="ID_1438410836376_013" name="b" temporalId="s8_b"><num value="b">(b)</num><content>the Authority shall determine the measuring apparatus to be used, the method by which and conditions under which tests are to be made and the manner to be used in computing interference voltage, interference field strength, interference power and insertion loss from readings afforded by the measuring apparatus; and shall supply to any person applying therefor, information as to any of the matters referred to in this paragraph; and</content></paragraph><paragraph id="ID_1438410836376_021" name="c" temporalId="s8_c"><num value="c">(c)</num><content>the Authority may, in relation to an apparatus, use any method of statistical sampling that is set out in any of the standards or regulations applicable to the apparatus as specified in <ref>Schedule 1</ref>, or any other method of statistical sampling that the Authority considers appropriate, in connection with testing or examining mass produced apparatus for the purpose of determining whether the apparatus being investigated complies with the requirements of <ref>regulation 7</ref>.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1993/ln153">L.N. 153 of 1993</ref>;<inline class="width_3"> </inline><ref href="/hk/2014/ln72">L.N. 72 of 2014</ref>)</sourceNote></content></paragraph><sourceNote>(<ref href="/hk/1993/ln153">L.N. 153 of 1993</ref>; <ref href="/hk/2013/er1">E.R. 1 of 2013</ref>)</sourceNote></section><section id="ID_1438402550893_002" name="s8A" reason="inEffect" role="regulation" startPeriod="2014-11-21" status="operational" temporalId="s8A"><num value="8A">8A.</num><heading>Access to standards and regulations specified in <ref>Schedule 1</ref></heading><leadIn>The Authority must—</leadIn><paragraph id="ID_1438410836423_012" name="a" temporalId="s8A_a"><num value="a">(a)</num><content>keep a copy of each of the standards and regulations specified in <ref>Schedule 1</ref> at its office; and</content></paragraph><paragraph id="ID_1438410836423_020" name="b" temporalId="s8A_b"><num value="b">(b)</num><content>allow the public to inspect them during normal office hours free of charge.</content></paragraph><sourceNote>(<ref href="/hk/2014/ln72">L.N. 72 of 2014</ref>)</sourceNote></section><section id="ID_1438402550908_002" name="s9" reason="inEffect" role="regulation" startPeriod="2013-04-25" status="operational" temporalId="s9"><num value="9">9.</num><heading>Deliberate interference</heading><subsection id="ID_1438410836454_011" name="1" temporalId="s9_1"><num value="1">(1)</num><content>Any person who uses any apparatus for the purpose of interfering with the
+                working of any apparatus for telecommunications shall be guilty of an offence and
+                shall be liable on summary conviction to a fine at level 4 and to imprisonment for
+                12 months.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1994/ln256">L.N. 256 of 1994</ref>; <ref href="/hk/2000/36">36 of 2000 s.
+                    28</ref>; <ref href="/hk/2013/er1">E.R. 1 of
+                    2013</ref>)</sourceNote>
+            </content></subsection><subsection id="ID_1438410836454_019" name="2" temporalId="s9_2"><num value="2">(2)</num><content>This regulation shall apply whether or not the apparatus is an apparatus within
+                any class specified in <ref>regulation 2</ref>, and, if within any such class,
+                whether or not it complies with the requirement referred to in <ref>regulation
+                    7</ref>, and whether or not any notice under <ref>regulation 5</ref> has been
+                given with respect to it or, if given, has been varied or revoked.</content></subsection></section><section id="ID_1438402550939_001" name="s10" reason="inEffect" role="regulation" startPeriod="2024-03-01" status="operational" temporalId="s10"><num value="10">10.</num><heading>Amendment of <ref>Schedule</ref></heading><subsection id="ID_1438410836485_004" name="1" temporalId="s10_1"><num value="1">(1)</num><content>Subject to the provisions of paragraph (2), the Authority may from time to
+                time, by order published in the Gazette, amend the limits of interference at any
+                frequency or within any frequency range in respect of any class of apparatus
+                specified in <ref>regulation 2(1)</ref>, including by (but not limited to) referring
+                to or setting out standards or regulations in <ref>Schedule 1</ref>.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1993/ln153">L.N. 153 of
+                        1993</ref>)</sourceNote>
+            </content></subsection><subsection id="ID_1438410836485_012" name="2" temporalId="s10_2"><num value="2">(2)</num><content>An
+                order must not be made under paragraph (1) without the prior
+                approval of the
+                Chief
+                Executive in Council if the effect of such order would be to
+                impose, for or in respect of any class of apparatus specified in <ref>regulation
+                    2(1)</ref>, a limit of interference that is not set out in any standard or
+                regulation applicable to the class of apparatus published or adopted by one or more
+                of the bodies specified in paragraph (2A).
+                <sourceNote>(<ref href="/hk/2024/4">4 of 2024 s.
+                10</ref>)</sourceNote></content></subsection><subsection id="ID_1438410836501_005" name="2A" temporalId="s10_2A"><num value="2A">(2A)</num><leadIn>For the purposes of paragraph (2), the bodies are—</leadIn><paragraph id="ID_1438410836501_013" name="a" temporalId="s10_2A_a"><num value="a">(a)</num><content>the International Electrotechnical Commission;</content></paragraph><paragraph id="ID_1438410836501_021" name="b" temporalId="s10_2A_b"><num value="b">(b)</num><content>the International Special Committee on Radio Interference (Comité
+                    International Spécial des Perturbations Radioélectriques);</content></paragraph><paragraph id="ID_1438410836501_029" name="c" temporalId="s10_2A_c"><num value="c">(c)</num><content>a European Standards Organization;</content></paragraph><paragraph id="ID_1438410836501_037" name="d" temporalId="s10_2A_d"><num value="d">(d)</num><content>the Federal Communications Commission of the United States of
+                    America;</content></paragraph><paragraph id="ID_1438410836501_045" name="e" temporalId="s10_2A_e"><num value="e">(e)</num><content>the General Administration of Quality Supervision, Inspection and
+                    Quarantine of the People’s Republic of China; and</content></paragraph><paragraph id="ID_1438410836516_006" name="f" temporalId="s10_2A_f"><num value="f">(f)</num><content>the Standardization Administration of the People’s Republic of
+                        China.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2014/ln72">L.N. 72 of 2014</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438410836516_013" name="3" temporalId="s10_3"><num value="3">(3)</num><content>For the purposes of <ref>regulations 3</ref> and <ref>3A</ref> (but not for the
+                purpose of any other provision of these regulations unless so provided in the
+                order), an order made under this regulation shall not come into operation before the
+                expiry of a period of 6 months, or such longer period as may be specified therein,
+                from the date of publication of the order in the Gazette.
+                <sourceNote>(<ref href="/hk/2013/er1">E.R. 1 of
+                2013</ref>)</sourceNote></content></subsection><sourceNote>(<ref href="/hk/2014/ln72">L.N. 72 of 2014</ref>)</sourceNote></section><schedule id="ID_1438402550955_001" name="sch1" reason="inEffect" startPeriod="2014-11-21" status="operational" temporalId="sch1"><num value="1">Schedule 1</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap106B/s2">regs. 2</ref>, <ref href="/hk/cap106B/s7">7</ref>, <ref href="/hk/cap106B/s8">8</ref>, <ref href="/hk/cap106B/s8A">8A</ref> &amp; <ref href="/hk/cap106B/s10">10</ref>]</note><heading>Standards and Regulations for Purposes of
+                <br></br><ref>Regulation
+                7</ref></heading><part id="ID_1438410836548_016" name="P1" temporalId="sch1_P1"><num value="1"><b>Part
+                1</b></num><heading>Propulsion System Installed in Certain Boat and
+                Vehicle</heading><text>
+                <table xmlns="http://www.w3.org/1999/xhtml" width="100%">
+                    <col width="9%"></col>
+                    <col width="91%"></col>
+                    <tr>
+                        <td>
+                            <p class="align_justified left_indent_12 first_line_indent_-12">1.</p>
+                        </td>
+                        <td>
+                            <p class="align_justified first_line_indent_0">CISPR 12:2001 with
+                                Amendment 1:2005</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="left_indent_0 first_line_indent_0">2.</p>
+                        </td>
+                        <td>
+                            <p class="first_line_indent_0">CISPR 12:2007</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="first_line_indent_0">3.</p>
+                        </td>
+                        <td>
+                            <p class="first_line_indent_0">CISPR 12:2007 with Amendment 1:2009</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="first_line_indent_0">4.</p>
+                        </td>
+                        <td>
+                            <p class="first_line_indent_0">EN 55012:2002 with Amendment 1:2005</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="first_line_indent_0">5.</p>
+                        </td>
+                        <td>
+                            <p class="first_line_indent_0">EN 55012:2007</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="first_line_indent_0">6.</p>
+                        </td>
+                        <td>
+                            <p class="first_line_indent_0">EN 55012:2007 with Amendment 1:2009</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="first_line_indent_0">7.</p>
+                        </td>
+                        <td>
+                            <p class="first_line_indent_0">GB 14023-2006</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="first_line_indent_0">8.</p>
+                        </td>
+                        <td>
+                            <p class="first_line_indent_0">GB 14023-2011</p>
+                        </td>
+                    </tr>
+                </table>
+            </text></part><part id="ID_1438410836548_032" name="P2" temporalId="sch1_P2"><num value="2"><b>Part 2</b></num><heading>Device</heading><text>
+                <table xmlns="http://www.w3.org/1999/xhtml" width="100%">
+                    <col width="9%"></col>
+                    <col width="91%"></col>
+                    <tr>
+                        <td>
+                            <p class="align_justified first_line_indent_0">1.</p>
+                        </td>
+                        <td>
+                            <p class="align_justified first_line_indent_0">CISPR 12:2001 with
+                                Amendment 1:2005</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified first_line_indent_0">2.</p>
+                        </td>
+                        <td>
+                            <p class="align_justified first_line_indent_0">CISPR 12:2007</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified first_line_indent_0">3.</p>
+                        </td>
+                        <td>
+                            <p class="align_justified first_line_indent_0">CISPR 12:2007 with
+                                Amendment 1:2009</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified first_line_indent_0">4.</p>
+                        </td>
+                        <td>
+                            <p class="align_justified first_line_indent_0">EN 55012:2002 with
+                                Amendment 1:2005</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified first_line_indent_0"><inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_3"> </inline>5.</p>
+                        </td>
+                        <td>
+                            <p class="align_justified first_line_indent_0">EN 55012:2007</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified first_line_indent_0">6.</p>
+                        </td>
+                        <td>
+                            <p class="align_justified first_line_indent_0">EN 55012:2007 with
+                                Amendment 1:2009</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified first_line_indent_0">7.</p>
+                        </td>
+                        <td>
+                            <p class="align_justified first_line_indent_0">GB 14023-2006</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified first_line_indent_0">8.</p>
+                        </td>
+                        <td>
+                            <p class="align_justified first_line_indent_0">GB 14023-2011</p>
+                        </td>
+                    </tr>
+                </table>
+            </text></part><part id="ID_1438410836563_001" name="P3" temporalId="sch1_P3"><num value="3"><b>Part 3</b></num><heading>Information Technology
+                Equipment</heading><text>
+                <table xmlns="http://www.w3.org/1999/xhtml" width="100%">
+                    <col width="9%"></col>
+                    <col width="91%"></col>
+                    <tr>
+                        <td>
+                            <p class="align_justified first_line_indent_0">1.</p>
+                        </td>
+                        <td>
+                            <p class="align_justified first_line_indent_0">CISPR 22:2005 with
+                                Amendment 1:2005</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified first_line_indent_0">2.</p>
+                        </td>
+                        <td>
+                            <p class="align_justified first_line_indent_0">CISPR 22:2005 with
+                                Amendment 1:2005 and Amendment 2:2006</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified first_line_indent_0">3.</p>
+                        </td>
+                        <td>
+                            <p class="align_justified first_line_indent_0">CISPR 22:2008</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified first_line_indent_0">4.</p>
+                        </td>
+                        <td>
+                            <p class="align_justified first_line_indent_0">EN 55022:2006 with
+                                Amendment 1:2007</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified first_line_indent_0">5.</p>
+                        </td>
+                        <td>
+                            <p class="align_justified first_line_indent_0">EN 55022:2006 with
+                                Amendment 1:2007 and Amendment 2:2010</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified first_line_indent_0">6.</p>
+                        </td>
+                        <td>
+                            <p class="align_justified first_line_indent_0">EN 55022:2010</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified first_line_indent_0">7.</p>
+                        </td>
+                        <td>
+                            <p class="align_justified first_line_indent_0">GB 9254-2008</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified first_line_indent_0">8.</p>
+                        </td>
+                        <td>
+                            <p class="align_justified first_line_indent_0">47 CFR <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Part 15</ref>,
+                                    <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">1</ref>
+                                October 2005 Edition</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified first_line_indent_0">9.</p>
+                        </td>
+                        <td>
+                            <p class="align_justified first_line_indent_0">47 CFR <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Part 15</ref>,
+                                    <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">1</ref>
+                                October 2006 Edition</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified first_line_indent_0">10.</p>
+                        </td>
+                        <td>
+                            <p class="align_justified first_line_indent_0">47 CFR <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Part 15</ref>,
+                                    <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">1</ref>
+                                October 2007 Edition</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified first_line_indent_0">11.</p>
+                        </td>
+                        <td>
+                            <p class="align_justified first_line_indent_0">47 CFR <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Part 15</ref>,
+                                    <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">1</ref>
+                                October 2008 Edition</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified first_line_indent_0">12.</p>
+                        </td>
+                        <td>
+                            <p class="align_justified first_line_indent_0">47 CFR <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Part 15</ref>,
+                                    <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">1</ref>
+                                October 2009 Edition</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified first_line_indent_0">13.</p>
+                        </td>
+                        <td>
+                            <p class="align_justified first_line_indent_0">47 CFR <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Part 15</ref>,
+                                    <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">1</ref>
+                                October 2010 Edition</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified first_line_indent_0">14.</p>
+                        </td>
+                        <td>
+                            <p class="align_justified first_line_indent_0">47 CFR <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Part 15</ref>,
+                                    <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">1</ref>
+                                October 2011 Edition</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified first_line_indent_0">15.</p>
+                        </td>
+                        <td>
+                            <p class="align_justified first_line_indent_0">47 CFR <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Part 15</ref>,
+                                    <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">1</ref>
+                                October 2012 Edition</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified first_line_indent_0">16.</p>
+                        </td>
+                        <td>
+                            <p class="align_justified first_line_indent_0">47 CFR <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Part 15</ref>,
+                                    <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">1</ref>
+                                October 2013 Edition</p>
+                        </td>
+                    </tr>
+                </table>
+            </text></part><part id="ID_1438410836563_017" name="P4" temporalId="sch1_P4"><num value="4"><b>Part 4</b></num><heading>Sound and Television Broadcast Receivers and Associated
+                Equipment</heading><text>
+                <table xmlns="http://www.w3.org/1999/xhtml" width="100%">
+                    <col width="9%"></col>
+                    <col width="91%"></col>
+                    <tr>
+                        <td>
+                            <p class="align_justified first_line_indent_0"> 1.</p>
+                        </td>
+                        <td>
+                            <p class="align_justified first_line_indent_0">CISPR 13:2001 with
+                                Amendment 1:2003 and Amendment 2:2006</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified first_line_indent_0">2.</p>
+                        </td>
+                        <td>
+                            <p class="align_justified first_line_indent_0">CISPR 13:2009</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified first_line_indent_0">3.</p>
+                        </td>
+                        <td>
+                            <p class="align_justified first_line_indent_0">EN 55013:2001 with
+                                Amendment 1:2003 and Amendment 2:2006</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified first_line_indent_0">4.</p>
+                        </td>
+                        <td>
+                            <p class="align_justified first_line_indent_0">GB 13837-2003</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified first_line_indent_0">5.</p>
+                        </td>
+                        <td>
+                            <p class="align_justified first_line_indent_0">47 CFR <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Part 15</ref>,
+                                    <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">1</ref>
+                                October 2005 Edition</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified first_line_indent_0">6.</p>
+                        </td>
+                        <td>
+                            <p class="align_justified first_line_indent_0">47 CFR <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Part 15</ref>,
+                                    <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">1</ref>
+                                October 2006 Edition</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified first_line_indent_0">7.</p>
+                        </td>
+                        <td>
+                            <p class="align_justified first_line_indent_0">47 CFR <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Part 15</ref>,
+                                    <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">1</ref>
+                                October 2007 Edition</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified first_line_indent_0">8.</p>
+                        </td>
+                        <td>
+                            <p class="align_justified first_line_indent_0">47 CFR <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Part 15</ref>,
+                                    <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">1</ref>
+                                October 2008 Edition</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified first_line_indent_0">9.</p>
+                        </td>
+                        <td>
+                            <p class="align_justified first_line_indent_0">47 CFR <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Part 15</ref>,
+                                    <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">1</ref>
+                                October 2009 Edition</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified first_line_indent_0">10.</p>
+                        </td>
+                        <td>
+                            <p class="align_justified first_line_indent_0">47 CFR <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Part 15</ref>,
+                                    <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">1</ref>
+                                October 2010 Edition</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified first_line_indent_0">11.</p>
+                        </td>
+                        <td>
+                            <p class="align_justified first_line_indent_0">47 CFR <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Part 15</ref>,
+                                    <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">1</ref>
+                                October 2011 Edition</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified first_line_indent_0">12.</p>
+                        </td>
+                        <td>
+                            <p class="align_justified first_line_indent_0">47 CFR <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Part 15</ref>,
+                                    <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">1</ref>
+                                October 2012 Edition</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified first_line_indent_0">13.</p>
+                        </td>
+                        <td>
+                            <p class="align_justified first_line_indent_0">47 CFR <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Part 15</ref>,
+                                    <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">1</ref>
+                                October 2013 Edition</p>
+                        </td>
+                    </tr>
+                </table>
+                <marker role="blank-line"></marker>
+                <marker role="blank-line"></marker>
+            </text></part><part id="ID_1438410836563_033" name="P5" temporalId="sch1_P5"><num value="5"><b>Part 5</b></num><heading>Electrical Lighting and Similar
+                Equipment</heading><text>
+                <table xmlns="http://www.w3.org/1999/xhtml" width="100%">
+                    <col width="9%"></col>
+                    <col width="91%"></col>
+                    <tr>
+                        <td>
+                            <p class="align_justified first_line_indent_0">1.</p>
+                        </td>
+                        <td>
+                            <p class="align_justified first_line_indent_0">CISPR 15:2005 with
+                                Amendment 1:2006</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified first_line_indent_0">2.</p>
+                        </td>
+                        <td>
+                            <p class="align_justified first_line_indent_0">CISPR 15:2005 with
+                                Amendment 1:2006 and Amendment 2:2008</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified first_line_indent_0">3.</p>
+                        </td>
+                        <td>
+                            <p class="align_justified first_line_indent_0">CISPR 15:2013</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified first_line_indent_0">4.</p>
+                        </td>
+                        <td>
+                            <p class="align_justified first_line_indent_0">EN 55015:2006 with
+                                Amendment 1:2007</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified first_line_indent_0">5.</p>
+                        </td>
+                        <td>
+                            <p class="align_justified first_line_indent_0">EN 55015:2006 with
+                                Amendment 1:2007 and Amendment 2:2009</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified first_line_indent_0">6.</p>
+                        </td>
+                        <td>
+                            <p class="align_justified first_line_indent_0">GB 17743-2007</p>
+                        </td>
+                    </tr>
+                </table>
+                <marker role="blank-line"></marker>
+                <marker role="blank-line"></marker>
+            </text></part><part id="ID_1438410836563_049" name="P6" temporalId="sch1_P6"><num value="6"><b>Part 6</b></num><heading>Household Appliances, Electric Tools and Similar
+                Apparatus</heading><text>
+                <table xmlns="http://www.w3.org/1999/xhtml" width="100%">
+                    <col width="9%"></col>
+                    <col width="91%"></col>
+                    <tr>
+                        <td>
+                            <p class="align_justified first_line_indent_0">1.</p>
+                        </td>
+                        <td>
+                            <p class="align_justified first_line_indent_0">CISPR 14-1:2005</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified first_line_indent_0">2.</p>
+                        </td>
+                        <td>
+                            <p class="align_justified first_line_indent_0">CISPR 14-1:2005 with
+                                Amendment 1:2008</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified first_line_indent_0">3.</p>
+                        </td>
+                        <td>
+                            <p class="align_justified first_line_indent_0">CISPR 14-1:2005 with
+                                Amendment 1:2008 and Amendment 2:2011</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified first_line_indent_0">4.</p>
+                        </td>
+                        <td>
+                            <p class="align_justified first_line_indent_0">EN 55014-1:2006</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified first_line_indent_0">5.</p>
+                        </td>
+                        <td>
+                            <p class="align_justified first_line_indent_0">EN 55014-1:2006 with
+                                Amendment 1:2009</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified first_line_indent_0">6.</p>
+                        </td>
+                        <td>
+                            <p class="align_justified first_line_indent_0">EN 55014-1:2006 with
+                                Amendment 1:2009 and Amendment 2:2011</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified first_line_indent_0">7.</p>
+                        </td>
+                        <td>
+                            <p class="align_justified first_line_indent_0">GB 4343.1-2009</p>
+                        </td>
+                    </tr>
+                </table>
+            </text></part><sourceNote>(<ref>Schedule
+                1</ref> replaced <ref href="/hk/2014/ln72">L.N. 72 of 2014</ref>)</sourceNote></schedule><schedule id="ID_1438402550986_001" name="sch2" reason="repealed" startPeriod="2014-11-21" status="repealed" temporalId="sch2"><num value="2">Schedule 2</num><sourceNote>(Repealed <ref href="/hk/2014/ln72">L.N. 72 of 2014</ref>)</sourceNote></schedule><schedule id="ID_1438402551033_001" name="sch3" reason="inEffect" startPeriod="2014-11-21" status="operational" temporalId="sch3"><num value="3">Schedule 3</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap106B/s7B">reg. 7B</ref>]</note><heading>Limits of Interference Voltage, Interference Field
+            Strength, Interference Power or Insertion Loss for Purposes of <ref>Regulation
+            7B</ref></heading><part id="ID_1438410836641_009" name="P1" temporalId="sch3_P1"><num value="1"><b>Part
+                1</b></num><heading>Ignition Apparatus of Internal Combustion
+                Engines<marker role="blank-line"></marker><marker role="blank-line"></marker></heading><text class="tied-tag-leadIn-text ">Limits of radiated interference field strength based
+                on quasi-peak measurements in the frequency range
+                of
+                30 MHz to
+                1
+                000 MHz, measured at a distance of 10
+                    m.<table xmlns="http://www.w3.org/1999/xhtml" width="100%">
+                    <col width="50%"></col>
+                    <col width="50%"></col>
+                    <tr>
+                        
+                        <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75  cellpadding_bottom_1 valign_bottom">
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Frequency
+                                Range<br></br>(MHz)</center>
+                        </td>
+                        
+                        <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75  cellpadding_bottom_1 cellpadding_top_1">
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Field Strength
+                                Limit<br></br>(Quasi-peak)<br></br>(dBμV/m)</center>
+                        </td>
+                    </tr>
+                    <tr>
+                        
+                        <td class="border_top_0.75 border_right_0.75 border_left_0.75  cellpadding_bottom_1 border_bottom_0.75" align="center">
+                            
+                            <p>30–75</p>
+                            <p>75–400</p>
+                            <p>400–1
+                                000</p>
+                            
+                            
+                        </td>
+                        
+                        <td class="border_top_0.75 border_right_0.75 border_left_0.75 cellpadding_bottom_1  border_bottom_0.75" align="center">
+                            
+                            <p>34</p>
+                            <p>34–45<sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">[1]</sup></p>
+                            <p>45</p>
+                            
+                            
+                        </td>
+                    </tr>
+                </table><marker role="blank-line"></marker></text><text><sup class="not_bold">[1]</sup><fillIn class="width_16"> </fillIn>The limit
+                increases linearly with the logarithm of the frequency.</text></part><part id="ID_1438410836641_041" name="P2" temporalId="sch3_P2"><num value="2"><b>Part
+                2</b></num><heading>Information Technology
+                Equipment</heading><section class="no_header" id="ID_1438410836641_060" name="s1" temporalId="sch3_P2_s1"><num value="1">1.</num><content>Limits of mains terminal interference voltage in the frequency range 0.15
+                    MHz to 30 MHz for class A
+                        equipment*.<marker role="blank-line"></marker><table xmlns="http://www.w3.org/1999/xhtml" width="100%" class="left_indent_36">
+                        <col width="16.2049%"></col>
+                        <col width="16.2049%"></col>
+                        <col width="2.1528%"></col>
+                        <col width="32.6667%"></col>
+                        <col width="32.7674%"></col>
+                        <tr>
+                            
+                            <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 valign_bottom cellpadding_bottom_1" colspan="3" rowspan="2">
+                                <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Frequency
+                                    Range<br></br>(MHz)</center>
+                            </td>
+                            
+                            <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 cellpadding_bottom_1 cellpadding_top_1" colspan="2">
+                                <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Interference
+                                    Voltage
+                                        Limit<br></br>(dBμV)<sup>[1]</sup></center>
+                            </td>
+                        </tr>
+                        <tr>
+                            
+                            <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 cellpadding_bottom_1 cellpadding_top_1">
+                                <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Quasi-peak</center>
+                            </td>
+                            
+                            <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 cellpadding_bottom_1 cellpadding_top_1 ">
+                                <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Average</center>
+                            </td>
+                        </tr>
+                        <tr>
+                            
+                            <td class="border_top_0.75 border_right_0.75 border_left_0.75 border_bottom_0.75 cellpadding_bottom_1" colspan="3" align="center">
+                                
+                                <p>0.15–0.5</p>
+                                <p>0.5–30</p>
+                                
+                                
+                            </td>
+                            
+                            <td class="border_top_0.75 border_right_0.75 border_left_0.75 border_bottom_0.75 cellpadding_bottom_1" align="center">
+                                
+                                <p>79</p>
+                                <p>73</p>
+                                
+                                
+                            </td>
+                            
+                            <td class="border_top_0.75 border_right_0.75 border_left_0.75  border_bottom_0.75  cellpadding_bottom_1" align="center">
+                                
+                                <p>66</p>
+                                <p>60</p>
+                                
+                                
+                            </td>
+                        </tr>
+                    </table><marker role="blank-line"></marker><subsection id="ID_1502095255552_002" name="0" temporalId="sch3_P2_s1_0"><num value="0"><sup class="not_bold">[1]</sup></num><content>The lower limit applies at the transition frequency.</content></subsection><marker role="blank-line"></marker><marker role="blank-line"></marker></content></section><section class="no_header" id="ID_1438410836641_076" name="s2" temporalId="sch3_P2_s2"><num value="2">2.</num><content>Limits of mains terminal interference voltage in the frequency range
+                    of
+                    0.15 MHz to 30 MHz for class B
+                        equipment**.<marker role="blank-line"></marker><marker role="blank-line"></marker><table xmlns="http://www.w3.org/1999/xhtml" width="100%" class="left_indent_36">
+                        <col width="33.3576%"></col>
+                        <col width="33.3576%"></col>
+                        <col width="33.2847%"></col>
+                        <tr>
+                            
+                            <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 valign_bottom cellpadding_bottom_1" rowspan="2">
+                                <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Frequency
+                                    Range<br></br>(MHz)</center>
+                            </td>
+                            
+                            <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 cellpadding_bottom_1 cellpadding_top_1 " colspan="2">
+                                <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Interference
+                                    Voltage
+                                        Limit<br></br>(dBμV)<sup>[2]</sup></center>
+                            </td>
+                        </tr>
+                        <tr>
+                            
+                            <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 cellpadding_bottom_1 cellpadding_top_1">
+                                <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Quasi-peak</center>
+                            </td>
+                            
+                            <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 cellpadding_bottom_1 cellpadding_top_1">
+                                <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Average</center>
+                            </td>
+                        </tr>
+                        <tr>
+                            
+                            <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 cellpadding_bottom_1" align="center">
+                                
+                                <p>0.15–0.5</p>
+                                <p>0.5–5</p>
+                                <p>5–30</p>
+                                
+                                
+                            </td>
+                            
+                            <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 cellpadding_bottom_1" align="center">
+                                
+                                <p>66–56<sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">[3]</sup></p>
+                                <p>56</p>
+                                <p>60</p>
+                                
+                                
+                            </td>
+                            
+                            <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 cellpadding_bottom_1" align="center">
+                                
+                                <p>56–46<sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">[3]</sup></p>
+                                <p>46</p>
+                                <p>50</p>
+                                
+                                
+                            </td>
+                        </tr>
+                    </table><marker role="blank-line"></marker><subsection id="ID_1502095255552_003" name="0" temporalId="sch3_P2_s2_0"><num value="0"><sup class="not_bold">[2]</sup></num><content>The lower limit applies at the transition frequency.</content></subsection><subsection id="ID_1502095255552_004" name="0-1" temporalId="sch3_P2_s2_0-1"><num value="0"><sup class="not_bold">[3]</sup></num><content>The limit decreases linearly with the logarithm of the
+                            frequency.</content></subsection></content></section><section class="no_header" id="ID_1438410836657_004" name="s3" temporalId="sch3_P2_s3"><num value="3">3.</num><content>Limits of radiated interference field strength in the frequency range of 30
+                    MHz to
+                    1
+                    000 MHz at a test distance of 30 m for class A
+                        equipment*.<marker role="blank-line"></marker><marker role="blank-line"></marker><table xmlns="http://www.w3.org/1999/xhtml" width="100%" class="left_indent_36">
+                        <col width="50%"></col>
+                        <col width="50%"></col>
+                        <tr>
+                            
+                            <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 valign_bottom cellpadding_bottom_1">
+                                <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Frequency
+                                    Range<br></br>(MHz)</center>
+                            </td>
+                            
+                            <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 cellpadding_bottom_1 cellpadding_top_1">
+                                <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Field
+                                    Strength
+                                    Limit<br></br>(Quasi-peak)<br></br>(dBμV/m)<sup>[4]</sup></center>
+                            </td>
+                        </tr>
+                        <tr>
+                            
+                            <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 cellpadding_bottom_1" align="center">
+                                
+                                <p>30–230</p>
+                                <p>230–1 000</p>
+                                
+                                
+                            </td>
+                            
+                            <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 cellpadding_bottom_1" align="center">
+                                
+                                <p>30</p>
+                                <p>37</p>
+                                
+                                
+                            </td>
+                        </tr>
+                    </table><marker role="blank-line"></marker><subsection id="ID_1502095255552_005" name="0" temporalId="sch3_P2_s3_0"><num value="0"><sup class="not_bold">[4]</sup></num><content>The lower limit applies at the transition frequency.</content></subsection><marker role="blank-line"></marker><marker role="blank-line"></marker></content></section><section class="no_header" id="ID_1438410836657_020" name="s4" temporalId="sch3_P2_s4"><num value="4">4.</num><content>Limits of radiated interference field strength in the frequency range of 30
+                    MHz to
+                    1
+                    000 MHz at a test distance of 10 m for class B
+                        equipment**.<marker role="blank-line"></marker><marker role="blank-line"></marker><table xmlns="http://www.w3.org/1999/xhtml" width="100%" class="left_indent_36">
+                        <col width="50%"></col>
+                        <col width="50%"></col>
+                        <tr>
+                            <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 valign_bottom cellpadding_bottom_1">
+                                <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Frequency
+                                    Range<br></br>(MHz)</center>
+                            </td>
+                            <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 cellpadding_bottom_1 cellpadding_top_1">
+                                <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Field
+                                    Strength
+                                    Limit<br></br>(Quasi-peak)<br></br>(dBμV/m)<sup>[5]</sup></center>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 cellpadding_bottom_1" align="center">
+                                <p>30–230</p>
+                                <p>230–1 000</p>
+                            </td>
+                            <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 cellpadding_bottom_1" align="center">
+                                <p>30</p>
+                                <p>37</p>
+                            </td>
+                        </tr>
+                    </table><marker role="blank-line"></marker><subsection id="ID_1502095255552_006" name="0" temporalId="sch3_P2_s4_0"><num value="0"><sup class="not_bold">[5]</sup></num><content>The lower limit applies at the transition frequency.</content></subsection></content></section><section class="no_header left_indent_36" id="ID_1502095255552_007" name="s0" temporalId="sch3_P2_s0"><num value="0"><inline class="width_6"> </inline>*</num><content>Equipment used or located in commercial or non-residential
+                    premises.</content></section><section class="no_header left_indent_36" id="ID_1502095255568_008" name="s0-1" temporalId="sch3_P2_s0-1"><num value="0">**</num><content>Equipment used or located in domestic or residential premises.</content></section></part><part id="ID_1438410836657_049" name="P3" temporalId="sch3_P3"><num value="3"><b>Part
+                3</b></num><heading>Sound and Television Broadcast Receivers and Associated
+                Equipment</heading><leadIn class="tied-tag-leadIn-text">Limits of conducted interference and radiated
+                interference.
+                </leadIn><section class="no_header" id="ID_1438410836657_076" name="s1" temporalId="sch3_P3_s1"><num value="1">1.</num><content>Limits of interference voltage injected into the
+                        mains.<marker role="blank-line"></marker><marker role="blank-line"></marker><table xmlns="http://www.w3.org/1999/xhtml" width="100%" class="left_indent_36">
+                        <col width="25.0069%"></col>
+                        <col width="25.0069%"></col>
+                        <col width="25.0069%"></col>
+                        <col width="24.9757%"></col>
+                        <tr>
+                            
+                            <td class="border_top_0.75 border_left_0.75 border_right_0.75 first_line_indent_0 valign_bottom border_bottom_0.75 valign_bottom cellpadding_bottom_1 cellpadding_top_1" rowspan="2">
+                                <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Equipment<br></br>Type</center>
+                            </td>
+                            
+                            <td class="border_top_0.75 border_left_0.75 border_right_0.75 first_line_indent_0 valign_bottom border_bottom_0.75 valign_bottom cellpadding_bottom_1 cellpadding_top_1" rowspan="2">
+                                <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Frequency<br></br>Range<br></br>(MHz)</center>
+                            </td>
+                            
+                            <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 cellpadding_bottom_1 cellpadding_top_1" colspan="2">
+                                <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Interference
+                                    Voltage Limit<br></br>(dBμV)<sup>[1][2]</sup></center>
+                            </td>
+                        </tr>
+                        <tr>
+                            
+                            <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 cellpadding_bottom_1 cellpadding_top_1">
+                                <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Quasi-peak<sup>[3]</sup></center>
+                            </td>
+                            
+                            <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 cellpadding_bottom_1 cellpadding_top_1">
+                                <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Average<sup>[3]</sup></center>
+                            </td>
+                        </tr>
+                        <tr>
+                            
+                            <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 cellpadding_right_3 cellpadding_left_3 cellpadding_bottom_1 cellpadding_top_1">
+                                
+                                <p class="left_indent_3 align_left">Sound and television receivers
+                                    and associated equipment<sup>[5]</sup></p>
+                            </td>
+                            
+                            <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 cellpadding_bottom_1 " align="center">
+                                
+                                <p>0.15–0.5</p>
+                                <p>0.5–5</p>
+                                <p>5–30</p>
+                                
+                                
+                            </td>
+                            
+                            <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 cellpadding_bottom_1" align="center">
+                                
+                                <p>66–56<sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">[4]</sup></p>
+                                <p>56</p>
+                                <p>60</p>
+                                
+                                
+                            </td>
+                            
+                            <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 cellpadding_bottom_1" align="center">
+                                
+                                <p>56–46<sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">[4]</sup></p>
+                                <p>46</p>
+                                <p>50</p>
+                                
+                                
+                            </td>
+                        </tr>
+                    </table><marker role="blank-line"></marker><subsection id="ID_1502095255568_009" name="0" temporalId="sch3_P3_s1_0"><num value="0"><sup>[1]</sup></num><content>The higher value measured with and without the aerial input outer
+                            conductor screen connected to earth is considered.</content></subsection><subsection id="ID_1502095255568_010" name="0-1" temporalId="sch3_P3_s1_0-1"><num value="0"><sup>[2]</sup></num><content>The lower limit applies at the transition frequency.</content></subsection><subsection id="ID_1502095255568_011" name="0-2" temporalId="sch3_P3_s1_0-2"><num value="0"><sup>[3]</sup></num><content>If the limits for the average detector are met when using the
+                            quasi-peak detector, then the limits for the measurements with the
+                            average detector are considered to be met.</content></subsection><subsection id="ID_1502095255568_012" name="0-3" temporalId="sch3_P3_s1_0-3"><num value="0"><sup>[4]</sup></num><content>The limit decreases linearly with the logarithm of the
+                            frequency.</content></subsection><subsection id="ID_1502095255568_013" name="0-4" temporalId="sch3_P3_s1_0-4"><num value="0"><sup>[5]</sup></num><content>Television receivers with teletext facilities should be tested in
+                            teletext mode with teletext picture.</content></subsection></content></section><crossHeading> </crossHeading><section class="no_header" id="ID_1438410836672_028" name="s2" temporalId="sch3_P3_s2"><num value="2">2.</num><content>Limits of radiated interference field strength due to the local oscillator
+                    at its fundamental and harmonic frequencies and due to all other sources at a
+                    distance of 3
+                        m.<marker role="blank-line"></marker><marker role="blank-line"></marker><table xmlns="http://www.w3.org/1999/xhtml" width="100%" class="left_indent_36">
+                        
+                        <col width="23%"></col>
+                        
+                        <col width="25%"></col>
+                        
+                        <col width="22%"></col>
+                        
+                        <col width="22%"></col>
+                        
+                        <col width="8%"></col>
+                        <tr>
+                            <td class="border_top_0.75 border_left_0.75 border_right_0.75 first_line_indent_0 valign_bottom border_bottom_0.75 valign_bottom cellpadding_bottom_1 cellpadding_top_1">
+                                <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Equipment
+                                    Type</center>
+                            </td>
+                            <td class="border_top_0.75 border_left_0.75 border_right_0.75 first_line_indent_0 valign_bottom border_bottom_0.75 valign_bottom cellpadding_bottom_1 cellpadding_top_1">
+                                <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Source</center>
+                            </td>
+                            <td class="border_top_0.75 border_left_0.75 border_right_0.75 first_line_indent_0 valign_bottom border_bottom_0.75 valign_bottom cellpadding_bottom_1 cellpadding_top_1">
+                                <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Frequency
+                                    Range/<br></br>Frequency<br></br>(MHz)</center>
+                            </td>
+                            <td class="border_top_0.75 border_left_0.75 border_right_0.75 first_line_indent_0 valign_bottom border_bottom_0.75 cellpadding_bottom_1 cellpadding_top_1" colspan="2">
+                                <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Field
+                                    Strength
+                                    Limit<br></br>(Quasi-peak)<br></br>(dBμV/m)<sup>[6]</sup></center>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 cellpadding_right_3 cellpadding_left_3 cellpadding_bottom_1 cellpadding_top_1  cellpadding_right_3" rowspan="3">
+                                <p class="align_left left_indent_3">Television receivers and video
+                                    recorders</p>
+                            </td>
+                            <td class="border_top_0.75 border_right_0.75 border_left_0.75  cellpadding_left_3  cellpadding_right_3" align="left" rowspan="2">Local oscillator</td>
+                            <td class="border_top_0.75 border_right_0.75 border_left_0.75 valign_bottom" align="center"></td>
+                            <td class="border_top_0.75 border_left_0.75 cellpadding_left_3">Fundamental</td>
+                            <td align="left" class="border_top_0.75 border_right_0.75 ">56<sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">[7]</sup></td>
+                        </tr>
+                        <tr>
+                            <td class="border_right_0.75 border_left_0.75 valign_bottom" align="center">300–1
+                                000<marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                            <td class="border_left_0.75 cellpadding_left_3">Harmonics</td>
+                            <td align="left" class="border_right_0.75 ">56<marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                        </tr>
+                        <tr>
+                            <td class="border_right_0.75 border_bottom_0.75 border_left_0.75  cellpadding_left_3" align="left">
+                                <p>Other</p>
+                            </td>
+                            <td class="border_right_0.75 border_bottom_0.75 border_left_0.75" align="center">
+                                <p>121.5<br></br>243</p>
+                                
+                                
+                                
+                            </td>
+                            <td class="border_bottom_0.75 border_left_0.75" align="center"></td>
+                            <td class="border_right_0.75 border_bottom_0.75">
+                                <p>40<br></br>47</p>
+                                
+                                
+                                
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 cellpadding_right_3 cellpadding_left_3 cellpadding_bottom_1 cellpadding_top_1" rowspan="3">
+                                <p class="align_left left_indent_3">Frequency modulation sound
+                                        receivers<sup>[8]</sup></p>
+                            </td>
+                            <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75  cellpadding_left_3  cellpadding_right_3" rowspan="3">
+                                <p class="align_left">Local oscillator</p>
+                            </td>
+                            <td class="border_top_0.75 border_right_0.75 border_left_0.75" align="center"></td>
+                            <td class="border_top_0.75 border_left_0.75 cellpadding_left_3">Fundamental</td>
+                            <td class="border_top_0.75 border_right_0.75">60</td>
+                        </tr>
+                        <tr>
+                            
+                            
+                            <td class="border_right_0.75 border_left_0.75" align="center">30–300</td>
+                            <td class="border_left_0.75 cellpadding_left_3">Harmonics</td>
+                            <td class="border_right_0.75">52</td>
+                        </tr>
+                        <tr>
+                            <td class="border_right_0.75 border_bottom_0.75 border_left_0.75" align="center">300–1
+                                000<marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                            <td class="border_bottom_0.75 border_left_0.75 cellpadding_left_3">Harmonics<marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                            <td class="border_right_0.75 border_bottom_0.75">56<marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                        </tr>
+                    </table><marker role="blank-line"></marker><subsection id="ID_1502095255568_014" name="0" temporalId="sch3_P3_s2_0"><num value="0"><sup>[6]</sup></num><content>The lower limit applies at the transition frequency.</content></subsection><subsection id="ID_1502095255568_015" name="0-1" temporalId="sch3_P3_s2_0-1"><num value="0"><sup>[7]</sup></num><content>If a standard intermediate frequency is used, the limit at the
+                            local oscillator fundamental frequency of television receivers and video
+                            recorders can be relaxed to 70 dBμV/m.</content></subsection><subsection id="ID_1502095255568_016" name="0-2" temporalId="sch3_P3_s2_0-2"><num value="0"><sup>[8]</sup></num><content>For frequency modulation car radios, no radiation limits
+                            apply.</content></subsection></content></section><crossHeading> </crossHeading><section class="no_header" id="ID_1438410836672_060" name="s3" temporalId="sch3_P3_s3"><num value="3">3.</num><content>Limits of interference voltage at the aerial
+                        terminals.<marker role="blank-line"></marker><marker role="blank-line"></marker><marker role="blank-line"></marker><marker role="blank-line"></marker><marker role="blank-line"></marker><marker role="blank-line"></marker><marker role="blank-line"></marker><marker role="blank-line"></marker><marker role="blank-line"></marker><marker role="blank-line"></marker><table xmlns="http://www.w3.org/1999/xhtml" width="100%" class="left_indent_36">
+                        <col width="26%"></col>
+                        <col width="20%"></col>
+                        <col width="22%"></col>
+                        <col width="23%"></col>
+                        <col width="8%"></col>
+                        <thead>
+                            <tr>
+                                <td class="border_top_0.75 border_left_0.75 border_right_0.75 first_line_indent_0 valign_bottom border_bottom_0.75 valign_bottom cellpadding_bottom_1 cellpadding_top_1">
+                                    <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Equipment
+                                        Type</center>
+                                </td>
+                                <td class="border_top_0.75 border_left_0.75 border_right_0.75 first_line_indent_0 valign_bottom border_bottom_0.75 valign_bottom cellpadding_bottom_1 cellpadding_top_1">
+                                    <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Source</center>
+                                </td>
+                                <td class="border_top_0.75 border_left_0.75 border_right_0.75 first_line_indent_0 valign_bottom border_bottom_0.75 valign_bottom cellpadding_bottom_1 cellpadding_top_1">
+                                    <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Frequency
+                                        Range<br></br>(MHz)</center>
+                                </td>
+                                <td class="border_top_0.75 border_left_0.75 border_right_0.75 first_line_indent_0 valign_bottom border_bottom_0.75 cellpadding_bottom_1 cellpadding_top_1" colspan="2">
+                                    <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Interference Voltage Limit<sup>[9][10]</sup><br></br>(dBμV) 75
+                                        Ω<br></br>Quasi-peak</center>
+                                </td>
+                            </tr>
+                        </thead>
+                        <tr>
+                            <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 cellpadding_right_3 cellpadding_left_3 cellpadding_top_1 cellpadding_bottom_1" rowspan="4">
+                                <p class="align_left left_indent_3 right_indent_3">Television
+                                    receivers and video recorders working in channels between 30 MHz
+                                    and 1 GHz</p>
+                            </td>
+                            <td class="border_top_0.75 border_right_0.75 border_left_0.75 cellpadding_left_3" rowspan="3" align="left">Local oscillator</td>
+                            <td align="center"></td>
+                            <td class="border_top_0.75 border_left_0.75 cellpadding_left_3">Fundamental</td>
+                            <td class="border_top_0.75 border_right_0.75">46</td>
+                        </tr>
+                        <tr>
+                            <td class="border_right_0.75 border_left_0.75 valign_bottom" align="center">30–950</td>
+                            <td class="border_left_0.75 cellpadding_left_3">Harmonics</td>
+                            <td class="border_right_0.75">46</td>
+                        </tr>
+                        <tr>
+                            <td class="border_right_0.75 border_left_0.75" align="center">950–1
+                                750<marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                            <td class="border_left_0.75 cellpadding_left_3">Harmonics</td>
+                            <td class="border_right_0.75">54<marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                        </tr>
+                        <tr>
+                            <td class="border_right_0.75 border_left_0.75 cellpadding_left_3">
+                                <p>Other</p>
+                            </td>
+                            <td align="center">
+                                <p>30–1 750</p>
+                            </td>
+                            <td class="border_left_0.75 cellpadding_left_3"></td>
+                            <td class="border_bottom_0.75 border_right_0.75">
+                                <p>46</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 cellpadding_right_3 cellpadding_left_3 cellpadding_top_1 cellpadding_bottom_1">
+                                <p class="left_indent_3 right_indent_6 align_left">Television
+                                    receivers for broadcast satellite transmission: tuner units at
+                                    1st IF<sup>[11]</sup></p>
+                            </td>
+                            <td class="border_top_0.75 border_right_0.75 border_left_0.75 cellpadding_left_3">
+                                <p class="align_left">Local oscillator</p>
+                                <br></br>
+                                <p class="align_left">Other</p>
+                            </td>
+                            <td class="border_top_0.75 border_right_0.75 border_left_0.75" align="center">
+                                <p>30–950<br></br>950–1
+                                    750</p>
+                                
+                                
+                                
+                                <br></br>
+                                <p>30–1 750</p>
+                            </td>
+                            <td class="border_top_0.75 border_left_0.75 cellpadding_left_3">
+                                <p>Fundamental<br></br>Fundamental</p>
+                                
+                                
+                                
+                            </td>
+                            <td class="border_top_0.75 border_right_0.75">
+                                <p>46<br></br>54</p>
+                                
+                                
+                                
+                                <br></br>
+                                <p>46</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 cellpadding_right_3 cellpadding_left_3 cellpadding_top_1 cellpadding_bottom_1" rowspan="4">
+                                <p class="align_left left_indent_3 right_indent_3">Frequency
+                                    modulation sound receivers</p>
+                            </td>
+                            <td class="border_top_0.75 border_right_0.75 border_left_0.75 cellpadding_left_3" rowspan="3">
+                                <p class="align_left">Local oscillator</p>
+                            </td>
+                            <td class="border_top_0.75 border_right_0.75 border_left_0.75 valign_bottom" align="center" rowspan="2">30–300</td>
+                            <td class="border_top_0.75 border_left_0.75 cellpadding_left_3">Fundamental</td>
+                            <td class="border_right_0.75 border_top_0.75">54</td>
+                        </tr>
+                        <tr>
+                            <td class="border_left_0.75 cellpadding_left_3">Harmonics</td>
+                            <td class="border_right_0.75">50</td>
+                        </tr>
+                        <tr>
+                            <td class="border_right_0.75 border_left_0.75" align="center">300–1
+                                000<br></br><br></br></td>
+                            <td class="border_left_0.75 cellpadding_left_3">Harmonics</td>
+                            <td class="border_right_0.75">52</td>
+                        </tr>
+                        <tr>
+                            <td class="border_right_0.75 border_left_0.75 cellpadding_left_3">
+                                <p>Other</p>
+                            </td>
+                            <td align="center">
+                                <p>30–1 000</p>
+                            </td>
+                            <td class="border_left_0.75 cellpadding_left_3"></td>
+                            <td class="border_bottom_0.75 border_right_0.75">
+                                <p>46</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 cellpadding_right_3 cellpadding_left_3 cellpadding_top_1 cellpadding_bottom_1" rowspan="3">
+                                <p class="align_left left_indent_3 right_indent_3">Frequency
+                                    modulation car radios</p>
+                            </td>
+                            <td class="border_bottom_0.75 border_top_0.75 border_right_0.75 border_left_0.75 cellpadding_left_3" rowspan="3">
+                                <p class="align_left">Local oscillator</p>
+                            </td>
+                            <td class="border_top_0.75 border_right_0.75 border_left_0.75 valign_bottom" rowspan="2" align="center">30–300</td>
+                            <td class="border_top_0.75 border_left_0.75 cellpadding_left_3">Fundamental</td>
+                            <td class="border_top_0.75 border_right_0.75">66</td>
+                        </tr>
+                        <tr>
+                            <td class="border_left_0.75 cellpadding_left_3">Harmonics</td>
+                            <td class="border_right_0.75">59</td>
+                        </tr>
+                        <tr>
+                            <td class="border_right_0.75 border_bottom_0.75 border_left_0.75" align="center">300–1 000</td>
+                            <td class="border_bottom_0.75 border_left_0.75 cellpadding_left_3">Harmonics</td>
+                            <td class="border_bottom_0.75 border_right_0.75">52</td>
+                        </tr>
+                    </table><marker role="blank-line"></marker><subsection id="ID_1502095255568_017" name="0" temporalId="sch3_P3_s3_0"><num value="0"><sup>[9]</sup></num><leadIn>The interference voltage limits for receivers with nominal impedance
+                            other than 75 Ω are calculated according to the following
+                            formula—</leadIn><continued>
+                            <table xmlns="http://www.w3.org/1999/xhtml" frame="void" width="100%" class="left_indent_60">
+                                <col width="12%"></col>
+                                
+                                <col width="7%"></col>
+                                
+                                <col width="5%"></col>
+                                
+                                <col width="76%"></col>
+                                <tbody>
+                                    <tr>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td class="first_line_indent_6">
+                                            
+                                            
+                                            <p>L<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">z</sub> = L<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">75</sub> + 10 log (Z/75)
+                                                dBμV</p>
+                                            
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>where</td>
+                                        <td>Z</td>
+                                        <td align="center"> = </td>
+                                        <td>nominal impedance in
+                                            Ω<marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                                    </tr>
+                                    <tr>
+                                        <td></td>
+                                        <td>L<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">75</sub>
+                                        </td>
+                                        <td align="center"> = </td>
+                                        <td>interference voltage limit for 75 Ω nominal impedance
+                                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                                    </tr>
+                                    <tr>
+                                        <td></td>
+                                        <td>L<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">z</sub></td>
+                                        <td align="center"> = </td>
+                                        <td>interference voltage limit for Z nominal impedance
+                                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </continued></subsection><subsection id="ID_1502095255568_018" name="0-1" temporalId="sch3_P3_s3_0-1"><num value="0"><sup>[10]</sup></num><content>The lower limit applies at the transition frequency.</content></subsection><subsection id="ID_1502095255568_019" name="0-2" temporalId="sch3_P3_s3_0-2"><num value="0"><sup>[11]</sup></num><content>“1st IF” stands for “first intermediate frequency”.<inline class="width_3"> </inline>For tuner units, <term>aerial
+                                terminals</term> (<term xml:lang="zh-Hant-HK">天線接線端子</term>) means
+                            1st IF input terminals.</content></subsection></content></section></part><part id="ID_1438410836688_057" name="P4" temporalId="sch3_P4"><num value="4"><b>Part
+                4</b></num><heading>Fluorescent Lamps and
+                Luminaires</heading><section class="no_header" id="ID_1438410836688_076" name="s1" temporalId="sch3_P4_s1"><num value="1">1.</num><leadIn>Minimum value of insertion loss of luminaires with or without starters
+                    designed for the following types of fluorescent lamps—</leadIn><paragraph id="ID_1438410836704_006" name="a" temporalId="sch3_P4_s1_a"><num value="a">(a)</num><content>linear fluorescent lamps with a nominal diameter of 15 mm, 25 mm or 38
+                        mm;</content></paragraph><paragraph id="ID_1438410836704_015" name="b" temporalId="sch3_P4_s1_b"><num value="b">(b)</num><content>circular fluorescent lamps with a nominal diameter of 28 mm or 32
+                        mm;</content></paragraph><paragraph id="ID_1438410836704_024" name="c" temporalId="sch3_P4_s1_c"><num value="c">(c)</num><content>U-type fluorescent lamps with a nominal diameter of 15 mm, 25 mm or 38
+                        mm;</content></paragraph><paragraph id="ID_1438410836704_033" name="d" temporalId="sch3_P4_s1_d"><num value="d">(d)</num><content>single-capped fluorescent lamps, without integrated starter and with a
+                        nominal diameter of 15
+                            mm.<marker role="blank-line"></marker><table xmlns="http://www.w3.org/1999/xhtml" width="100%" class="left_indent_36">
+                            <col width="36.0486%"></col>
+                            <col width="12.7257%"></col>
+                            <col width="12.7257%"></col>
+                            <col width="12.7257%"></col>
+                            <col width="12.7257%"></col>
+                            <col width="13.0486%"></col>
+                            <tr>
+                                <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                                    <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Frequency
+                                        (kHz)</center>
+                                </td>
+                                <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                                    <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">160</center>
+                                </td>
+                                <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                                    <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">240</center>
+                                </td>
+                                <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                                    <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">550</center>
+                                </td>
+                                <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                                    <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">1
+                                        000</center>
+                                </td>
+                                <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                                    <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">1
+                                        400</center>
+                                </td>
+                            </tr>
+                            <tr>
+                                
+                                <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 cellpadding_left_3 cellpadding_right_3 cellpadding_top_1 cellpadding_bottom_1">Minimum
+                                    values of insertion loss
+                                    (dB)</td>
+                                
+                                <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 valign_center">
+                                    <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">28</center>
+                                </td>
+                                
+                                <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 valign_center">
+                                    <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">26</center>
+                                </td>
+                                
+                                <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 valign_center">
+                                    <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">24</center>
+                                </td>
+                                
+                                <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 valign_center">
+                                    <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">22</center>
+                                </td>
+                                
+                                <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 valign_center">
+                                    <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">20</center>
+                                </td>
+                            </tr>
+                        </table></content></paragraph></section><section class="no_header" id="ID_1438410836704_039" name="s2" temporalId="sch3_P4_s2"><num value="2">2.</num><content>Mains terminal interference voltages for all types of luminaires for which
+                    the insertion loss limits do not apply are to comply with the mains terminal
+                    interference voltage limits as shown in the table below.<inline class="width_3"> </inline>These limits are also to apply to self-ballasted fluorescent
+                        lamps.<marker role="blank-line"></marker><marker role="blank-line"></marker><table xmlns="http://www.w3.org/1999/xhtml" width="100%" class="left_indent_36">
+                        <col width="16.2049%"></col>
+                        <col width="16.2049%"></col>
+                        <col width="2.1528%"></col>
+                        <col width="32.6667%"></col>
+                        <col width="32.7674%"></col>
+                        <tr>
+                            <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 valign_bottom cellpadding_bottom_1" colspan="3" rowspan="2">
+                                <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Frequency
+                                    Range</center>
+                            </td>
+                            <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 cellpadding_bottom_1 cellpadding_top_1" colspan="2">
+                                <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Interference
+                                    Voltage
+                                        Limit<br></br>(dBμV)<sup>[1]</sup></center>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 cellpadding_bottom_1 cellpadding_top_1">
+                                <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Quasi-peak</center>
+                            </td>
+                            <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 cellpadding_bottom_1 cellpadding_top_1 ">
+                                <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Average<sup>[2]</sup></center>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="border_top_0.75 border_right_0.75 border_left_0.75 border_bottom_0.75 cellpadding_bottom_1" colspan="3" align="center">
+                                <p>9 kHz–50 kHz</p>
+                                <p>50 kHz–150 kHz</p>
+                                <p>150 kHz–0.5 MHz</p>
+                                <p>0.5 MHz–5 MHz</p>
+                                <p>5 MHz–30 MHz</p>
+                            </td>
+                            <td class="border_top_0.75 border_right_0.75 border_left_0.75 border_bottom_0.75 cellpadding_bottom_1" align="center">
+                                <p>110</p>
+                                <p>90–80<sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">[3]</sup></p>
+                                <p>66–56<sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">[3]</sup></p>
+                                <p>56</p>
+                                <p>60</p>
+                            </td>
+                            <td class="border_top_0.75 border_right_0.75 border_left_0.75  border_bottom_0.75  cellpadding_bottom_1" align="center">
+                                <p>—</p>
+                                <p>—</p>
+                                <p>56–46<sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">[3]</sup></p>
+                                <p>46</p>
+                                <p>50</p>
+                            </td>
+                        </tr>
+                    </table><marker role="blank-line"></marker><subsection id="ID_1502095255568_020" name="0" temporalId="sch3_P4_s2_0"><num value="0"><sup>[1]</sup></num><content>The lower limit applies at the transition frequency.</content></subsection><subsection id="ID_1502095255568_021" name="0-1" temporalId="sch3_P4_s2_0-1"><num value="0"><sup>[2]</sup></num><content>If it is certain that only broadband interference sources are
+                            present, then the average measurements need not be made.</content></subsection><subsection id="ID_1502095255568_022" name="0-2" temporalId="sch3_P4_s2_0-2"><num value="0"><sup>[3]</sup></num><content>The limit decreases linearly with the logarithm of the
+                            frequency.</content></subsection><marker role="blank-line"></marker><marker role="blank-line"></marker></content></section></part><part id="ID_1438410836719_009" name="P5" temporalId="sch3_P5"><num value="5"><b>Part
+                5</b></num><heading>Household Electrical Appliances, Similar Electrical Apparatus and Portable
+                Tools<marker role="blank-line"></marker><marker role="blank-line"></marker></heading><leadIn class="tied-tag-leadIn-text ">Limits of radio interference in the range
+                of
+                0.15 MHz to 300
+                MHz.</leadIn><section class="no_header" id="ID_1438410836719_036" name="s1" temporalId="sch3_P5_s1"><num value="1"><inline class="not_bold">1.</inline></num><heading><inline class="not_bold">Continuous conducted interference
+                    </inline></heading><content>Limits of continuous conducted interference voltage for the frequency range
+                    of 0.15 MHz to 30 MHz.<subsection id="ID_1502095255568_023" name="a" temporalId="sch3_P5_s1_a"><num value="a">(a)</num><content>Household electrical appliances and similar electrical apparatus
+                            causing similar
+                                interference:<marker role="blank-line"></marker><table xmlns="http://www.w3.org/1999/xhtml" width="100%" class="left_indent_60">
+                                <col width="16.2049%"></col>
+                                <col width="16.2049%"></col>
+                                <col width="2.1528%"></col>
+                                <col width="32.6667%"></col>
+                                <col width="32.7674%"></col>
+                                <tr>
+                                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 valign_bottom cellpadding_bottom_1" colspan="3" rowspan="2">
+                                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Frequency Range<br></br>(MHz)</center>
+                                    </td>
+                                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 cellpadding_bottom_1 cellpadding_top_1" colspan="2">
+                                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Interference Voltage
+                                                Limit<br></br>(dBμV)<sup>[1]</sup></center>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 cellpadding_bottom_1 cellpadding_top_1">
+                                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Quasi-peak</center>
+                                    </td>
+                                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 cellpadding_bottom_1 cellpadding_top_1 ">
+                                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Average<sup>#</sup></center>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="border_top_0.75 border_right_0.75 border_left_0.75 border_bottom_0.75 cellpadding_bottom_1" colspan="3" align="center">
+                                        <p>0.15–0.5</p>
+                                        <p>0.5–5</p>
+                                        <p>5–30</p>
+                                    </td>
+                                    <td class="border_top_0.75 border_right_0.75 border_left_0.75 border_bottom_0.75 cellpadding_bottom_1" align="center">
+                                        <p>66–56<sup>[2]</sup></p>
+                                        <p>56</p>
+                                        <p>60</p>
+                                    </td>
+                                    <td class="border_top_0.75 border_right_0.75 border_left_0.75  border_bottom_0.75  cellpadding_bottom_1" align="center">
+                                        <p>56–46<sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">[2]</sup></p>
+                                        <p>46</p>
+                                        <p>50</p>
+                                    </td>
+                                </tr>
+                            </table><marker role="blank-line"></marker><paragraph id="ID_1502095255568_024" name="0" temporalId="sch3_P5_s1_a_0"><num value="0"><sup>[1]</sup></num><content>The lower limit applies at the transition
+                                    frequency.</content></paragraph><paragraph id="ID_1502095255568_025" name="0-1" temporalId="sch3_P5_s1_a_0-1"><num value="0"><sup>[2]</sup></num><content>The limit decreases linearly with the logarithm of the
+                                    frequency.</content></paragraph><marker role="blank-line"></marker><marker role="blank-line"></marker></content></subsection><subsection id="ID_1502095255584_026" name="b" temporalId="sch3_P5_s1_b"><num value="b">(b)</num><content>Electrical apparatus with regulating controls incorporating
+                            semi-conductor
+                                equipment:<marker role="blank-line"></marker><table xmlns="http://www.w3.org/1999/xhtml" width="100%" class="left_indent_60">
+                                <col width="21.2038%"></col>
+                                <col width="21.2038%"></col>
+                                <col width="21.2038%"></col>
+                                <col width="19.0893%"></col>
+                                <col width="17.2974%"></col>
+                                <thead>
+                                    <tr>
+                                        <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 valign_bottom cellpadding_bottom_1" rowspan="3">
+                                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"> <br></br> <br></br>Frequency<br></br>Range<br></br>(MHz)</center>
+                                        </td>
+                                        <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 cellpadding_bottom_1 cellpadding_top_1" colspan="4">
+                                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Interference Voltage
+                                                Limit<br></br>(dBμV)<sup>[3]</sup></center>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        
+                                        <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 valign_bottom" colspan="2">
+                                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">At mains terminals</center>
+                                        </td>
+                                        <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 cellpadding_bottom_1 cellpadding_top_1" colspan="2">
+                                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">At load terminals and at additional
+                                                terminals</center>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 cellpadding_bottom_1 cellpadding_top_1">
+                                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Quasi-peak</center>
+                                        </td>
+                                        <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 cellpadding_bottom_1 cellpadding_top_1">
+                                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Average<sup>#</sup></center>
+                                        </td>
+                                        <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 cellpadding_bottom_1 cellpadding_top_1">
+                                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Quasi-peak</center>
+                                        </td>
+                                        <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 cellpadding_bottom_1 cellpadding_top_1">
+                                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Average<sup>#</sup></center>
+                                        </td>
+                                    </tr>
+                                </thead>
+                                <tr>
+                                    <td class="border_top_0.75 border_right_0.75 border_left_0.75 border_bottom_0.75 cellpadding_bottom_1" align="center">
+                                        <p>0.15–0.5</p>
+                                        <p>0.5–5</p>
+                                        <p>5–30</p>
+                                    </td>
+                                    <td class="border_top_0.75 border_right_0.75 border_left_0.75 border_bottom_0.75 cellpadding_bottom_1" align="center">
+                                        <p>66–56<sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">[4]</sup></p>
+                                        <p>56</p>
+                                        <p>60</p>
+                                    </td>
+                                    <td class="border_top_0.75 border_right_0.75 border_left_0.75 border_bottom_0.75 cellpadding_bottom_1" align="center">
+                                        <p>56–46<sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">[4]</sup></p>
+                                        <p>46</p>
+                                        <p>50</p>
+                                    </td>
+                                    <td class="border_top_0.75 border_right_0.75 border_left_0.75 border_bottom_0.75 cellpadding_bottom_1" align="center">
+                                        <p>80</p>
+                                        <p>74</p>
+                                        <p>74</p>
+                                    </td>
+                                    <td class="border_top_0.75 border_right_0.75 border_left_0.75 border_bottom_0.75 cellpadding_bottom_1" align="center">
+                                        <p>70</p>
+                                        <p>64</p>
+                                        <p>64</p>
+                                    </td>
+                                </tr>
+                            </table><marker role="blank-line"></marker><paragraph id="ID_1502095255584_027" name="0" temporalId="sch3_P5_s1_b_0"><num value="0"><sup>[3]</sup></num><content>The lower limit applies at the transition
+                                    frequency.</content></paragraph><paragraph id="ID_1502095255584_028" name="0-1" temporalId="sch3_P5_s1_b_0-1"><num value="0"><sup>[4]</sup></num><content>The limit decreases linearly with the logarithm of the
+                                    frequency.<marker role="blank-line"></marker><marker role="blank-line"></marker></content></paragraph></content></subsection><subsection id="ID_1502095255584_029" name="c" temporalId="sch3_P5_s1_c"><num value="c">(c)</num><leadIn>Portable tools</leadIn><paragraph id="ID_1502095255584_030" name="1" temporalId="sch3_P5_s1_c_1"><num value="1">(i)</num><content>with rated power of motor<sup>##</sup> not exceeding 700
+                                    W:<marker role="blank-line"></marker><table xmlns="http://www.w3.org/1999/xhtml" width="100%" class="left_indent_84">
+                                    <col width="16.2049%"></col>
+                                    <col width="16.2049%"></col>
+                                    <col width="2.1528%"></col>
+                                    <col width="32.6667%"></col>
+                                    <col width="32.7674%"></col>
+                                    <tr>
+                                        <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 valign_bottom cellpadding_bottom_1" colspan="3" rowspan="2">
+                                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Frequency Range<br></br>(MHz)</center>
+                                        </td>
+                                        <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 cellpadding_bottom_1 cellpadding_top_1" colspan="2">
+                                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Interference Voltage
+                                                  Limit<br></br>(dBμV)<sup>[5]</sup></center>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 cellpadding_bottom_1 cellpadding_top_1">
+                                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Quasi-peak</center>
+                                        </td>
+                                        <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 cellpadding_bottom_1 cellpadding_top_1 ">
+                                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Average<sup>#</sup></center>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="border_top_0.75 border_right_0.75 border_left_0.75 border_bottom_0.75 cellpadding_bottom_1" colspan="3" align="center">
+                                            <p>0.15–0.35</p>
+                                            <p>0.35–5</p>
+                                            <p>5–30</p>
+                                        </td>
+                                        <td class="border_top_0.75 border_right_0.75 border_left_0.75 border_bottom_0.75 cellpadding_bottom_1" align="center">
+                                            <p>66–59<sup>[6]</sup></p>
+                                            <p>59</p>
+                                            <p>64</p>
+                                        </td>
+                                        <td class="border_top_0.75 border_right_0.75 border_left_0.75  border_bottom_0.75  cellpadding_bottom_1" align="center">
+                                            <p>59–49<sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">[6]</sup></p>
+                                            <p>49</p>
+                                            <p>54</p>
+                                        </td>
+                                    </tr>
+                                </table><marker role="blank-line"></marker></content></paragraph><paragraph id="ID_1502095255584_031" name="2" temporalId="sch3_P5_s1_c_2"><num value="2">(ii)</num><content>with rated power of motor<sup>##</sup> above 700 W and not
+                                exceeding 1 000
+                                    W:<marker role="blank-line"></marker><table xmlns="http://www.w3.org/1999/xhtml" width="100%" class="left_indent_84">
+                                    <col width="16.2049%"></col>
+                                    <col width="16.2049%"></col>
+                                    <col width="2.1528%"></col>
+                                    <col width="32.6667%"></col>
+                                    <col width="32.7674%"></col>
+                                    <tr>
+                                        <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 valign_bottom cellpadding_bottom_1" colspan="3" rowspan="2">
+                                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Frequency Range<br></br>(MHz)</center>
+                                        </td>
+                                        <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 cellpadding_bottom_1 cellpadding_top_1" colspan="2">
+                                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Interference Voltage
+                                                  Limit<br></br>(dBμV)<sup>[5]</sup></center>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 cellpadding_bottom_1 cellpadding_top_1">
+                                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Quasi-peak</center>
+                                        </td>
+                                        <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 cellpadding_bottom_1 cellpadding_top_1 ">
+                                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Average<sup>#</sup></center>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="border_top_0.75 border_right_0.75 border_left_0.75 border_bottom_0.75 cellpadding_bottom_1" colspan="3" align="center">
+                                            <p>0.15–0.35</p>
+                                            <p>0.35–5</p>
+                                            <p>5–30</p>
+                                        </td>
+                                        <td class="border_top_0.75 border_right_0.75 border_left_0.75 border_bottom_0.75 cellpadding_bottom_1" align="center">
+                                            <p>70–63<sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">[6]</sup></p>
+                                            <p>63</p>
+                                            <p>68</p>
+                                        </td>
+                                        <td class="border_top_0.75 border_right_0.75 border_left_0.75  border_bottom_0.75  cellpadding_bottom_1" align="center">
+                                            <p>63–53<sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">[6]</sup></p>
+                                            <p>53</p>
+                                            <p>58</p>
+                                        </td>
+                                    </tr>
+                                </table><marker role="blank-line"></marker></content></paragraph><paragraph id="ID_1523844145595_001" name="3" temporalId="sch3_P5_s1_c_3"><num value="3">(iii)</num><content>with rated power of motor<sup>##</sup> above 1 000
+                                    W:<marker role="blank-line"></marker><table xmlns="http://www.w3.org/1999/xhtml" width="100%" class="left_indent_84">
+                                    <col width="16.2049%"></col>
+                                    <col width="16.2049%"></col>
+                                    <col width="2.1528%"></col>
+                                    <col width="32.6667%"></col>
+                                    <col width="32.7674%"></col>
+                                    <tr>
+                                        <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 valign_bottom cellpadding_bottom_1" colspan="3" rowspan="2">
+                                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Frequency Range<br></br>(MHz)</center>
+                                        </td>
+                                        <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 cellpadding_bottom_1 cellpadding_top_1" colspan="2">
+                                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Interference Voltage
+                                                  Limit<br></br>(dBμV)<sup>[5]</sup></center>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 cellpadding_bottom_1 cellpadding_top_1">
+                                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Quasi-peak</center>
+                                        </td>
+                                        <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 cellpadding_bottom_1 cellpadding_top_1 ">
+                                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Average<sup>#</sup></center>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="border_top_0.75 border_right_0.75 border_left_0.75 border_bottom_0.75 cellpadding_bottom_1" colspan="3" align="center">
+                                            <p>0.15–0.35</p>
+                                            <p>0.35–5</p>
+                                            <p>5–30</p>
+                                        </td>
+                                        <td class="border_top_0.75 border_right_0.75 border_left_0.75 border_bottom_0.75 cellpadding_bottom_1" align="center">
+                                            <p>76–69<sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">[6]</sup></p>
+                                            <p>69</p>
+                                            <p>74</p>
+                                        </td>
+                                        <td class="border_top_0.75 border_right_0.75 border_left_0.75  border_bottom_0.75  cellpadding_bottom_1" align="center">
+                                            <p>69–59<sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">[6]</sup></p>
+                                            <p>59</p>
+                                            <p>64</p>
+                                        </td>
+                                    </tr>
+                                </table><marker role="blank-line"></marker></content></paragraph><paragraph id="ID_1502095255584_033" name="0" temporalId="sch3_P5_s1_c_0"><num value="0"><sup>[5]</sup></num><content>The lower limit applies at the transition frequency.</content></paragraph><paragraph id="ID_1502095255584_034" name="0-1" temporalId="sch3_P5_s1_c_0-1"><num value="0"><sup>[6]</sup></num><content>The limit decreases linearly with the logarithm of the
+                                frequency.</content></paragraph></subsection></content></section><section class="no_header" id="ID_1438410836750_020" name="s2" temporalId="sch3_P5_s2"><num value="2"><inline class="not_bold">2.</inline></num><heading><inline class="not_bold">Continuous radiated interference
+                    </inline></heading><leadIn>Interference power limits for the frequency range of 30 MHz to 300
+                    MHz:</leadIn><subsection id="ID_1438410836750_038" name="a" temporalId="sch3_P5_s2_a"><num value="a">(a)</num><content>Household electrical appliances and similar electrical
+                            apparatus:<marker role="blank-line"></marker><table xmlns="http://www.w3.org/1999/xhtml" width="100%" class="left_indent_60">
+                            <col width="16.2049%"></col>
+                            <col width="16.2049%"></col>
+                            <col width="2.1528%"></col>
+                            <col width="32.6667%"></col>
+                            <col width="32.7674%"></col>
+                            <tr>
+                                <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 valign_bottom cellpadding_bottom_1" colspan="3" rowspan="2">
+                                    <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Frequency
+                                        Range<br></br>(MHz)</center>
+                                </td>
+                                <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 cellpadding_bottom_1 cellpadding_top_1" colspan="2">
+                                    <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Interference Power Limit<br></br>(dBpW)</center>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 cellpadding_bottom_1 cellpadding_top_1">
+                                    <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Quasi-peak</center>
+                                </td>
+                                <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 cellpadding_bottom_1 cellpadding_top_1 ">
+                                    <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Average<sup>#</sup></center>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="border_top_0.75 border_right_0.75 border_left_0.75 border_bottom_0.75 cellpadding_bottom_1" colspan="3" align="center">
+                                    <p>30–300</p>
+                                </td>
+                                <td class="border_top_0.75 border_right_0.75 border_left_0.75 border_bottom_0.75 cellpadding_bottom_1" align="center">
+                                    <p>45–55<sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">[7]</sup></p>
+                                </td>
+                                <td class="border_top_0.75 border_right_0.75 border_left_0.75  border_bottom_0.75  cellpadding_bottom_1" align="center">
+                                    <p>35–45<sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">[7]</sup></p>
+                                </td>
+                            </tr>
+                        </table><marker role="blank-line"></marker><paragraph id="ID_1502095255584_035" name="0" temporalId="sch3_P5_s2_a_0"><num value="0"><sup>[7]</sup></num><content>The limit increases linearly with the logarithm of the
+                                frequency.<marker role="blank-line"></marker><marker role="blank-line"></marker></content></paragraph></content></subsection><subsection id="ID_1438410836750_054" name="b" temporalId="sch3_P5_s2_b"><num value="b">(b)</num><leadIn>Portable
+                        tools</leadIn><paragraph id="ID_1502095255584_036" name="1" temporalId="sch3_P5_s2_b_1"><num value="1">(i)</num><content>with rated mains power<sup>##</sup> not exceeding 700
+                                W:<marker role="blank-line"></marker><table xmlns="http://www.w3.org/1999/xhtml" width="100%" class="left_indent_84">
+                                <col width="16.2049%"></col>
+                                <col width="16.2049%"></col>
+                                <col width="2.1528%"></col>
+                                <col width="32.6667%"></col>
+                                <col width="32.7674%"></col>
+                                <tr>
+                                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 valign_bottom cellpadding_bottom_1" colspan="3" rowspan="2">
+                                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Frequency Range<br></br>(MHz)</center>
+                                    </td>
+                                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 cellpadding_bottom_1 cellpadding_top_1" colspan="2">
+                                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Interference Power Limit<br></br>(dBpW)</center>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 cellpadding_bottom_1 cellpadding_top_1">
+                                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Quasi-peak</center>
+                                    </td>
+                                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 cellpadding_bottom_1 cellpadding_top_1 ">
+                                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Average<sup>#</sup></center>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="border_top_0.75 border_right_0.75 border_left_0.75 border_bottom_0.75 cellpadding_bottom_1" colspan="3" align="center">
+                                        <p>30–300</p>
+                                    </td>
+                                    <td class="border_top_0.75 border_right_0.75 border_left_0.75 border_bottom_0.75 cellpadding_bottom_1" align="center">
+                                        <p>45–55<sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">[8]</sup></p>
+                                    </td>
+                                    <td class="border_top_0.75 border_right_0.75 border_left_0.75  border_bottom_0.75  cellpadding_bottom_1" align="center">
+                                        <p>35–45<sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">[8]</sup></p>
+                                    </td>
+                                </tr>
+                            </table><marker role="blank-line"></marker></content></paragraph><paragraph id="ID_1502095255584_037" name="2" temporalId="sch3_P5_s2_b_2"><num value="2">(ii)</num><content>with rated mains power<sup>##</sup> above 700 W and not exceeding 1
+                            000
+                                W:<marker role="blank-line"></marker><table xmlns="http://www.w3.org/1999/xhtml" width="100%" class="left_indent_84">
+                                <col width="16.2049%"></col>
+                                <col width="16.2049%"></col>
+                                <col width="2.1528%"></col>
+                                <col width="32.6667%"></col>
+                                <col width="32.7674%"></col>
+                                <tr>
+                                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 valign_bottom cellpadding_bottom_1" colspan="3" rowspan="2">
+                                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Frequency Range<br></br>(MHz)</center>
+                                    </td>
+                                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 cellpadding_bottom_1 cellpadding_top_1" colspan="2">
+                                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Interference Power Limit<br></br>(dBpW)</center>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 cellpadding_bottom_1 cellpadding_top_1">
+                                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Quasi-peak</center>
+                                    </td>
+                                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 cellpadding_bottom_1 cellpadding_top_1 ">
+                                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Average<sup>#</sup></center>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="border_top_0.75 border_right_0.75 border_left_0.75 border_bottom_0.75 cellpadding_bottom_1" colspan="3" align="center">
+                                        <p>30–300</p>
+                                    </td>
+                                    <td class="border_top_0.75 border_right_0.75 border_left_0.75 border_bottom_0.75 cellpadding_bottom_1" align="center">
+                                        <p>49–59<sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">[8]</sup></p>
+                                    </td>
+                                    <td class="border_top_0.75 border_right_0.75 border_left_0.75  border_bottom_0.75  cellpadding_bottom_1" align="center">
+                                        <p>39–49<sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">[8]</sup></p>
+                                    </td>
+                                </tr>
+                            </table><marker role="blank-line"></marker></content></paragraph><paragraph id="ID_1502095255584_038" name="3" temporalId="sch3_P5_s2_b_3"><num value="3">(iii)</num><content>with rated mains power<sup>##</sup> above 1 000
+                                W:<marker role="blank-line"></marker><table xmlns="http://www.w3.org/1999/xhtml" width="100%" class="left_indent_84">
+                                <col width="16.2049%"></col>
+                                <col width="16.2049%"></col>
+                                <col width="2.1528%"></col>
+                                <col width="32.6667%"></col>
+                                <col width="32.7674%"></col>
+                                <tr>
+                                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 valign_bottom cellpadding_bottom_1" colspan="3" rowspan="2">
+                                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Frequency Range<br></br>(MHz)</center>
+                                    </td>
+                                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 cellpadding_bottom_1 cellpadding_top_1" colspan="2">
+                                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Interference Power Limit<br></br>(dBpW)</center>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 cellpadding_bottom_1 cellpadding_top_1">
+                                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Quasi-peak</center>
+                                    </td>
+                                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 cellpadding_bottom_1 cellpadding_top_1 ">
+                                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Average<sup>#</sup></center>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="border_top_0.75 border_right_0.75 border_left_0.75 border_bottom_0.75 cellpadding_bottom_1" colspan="3" align="center">
+                                        <p>30–300</p>
+                                    </td>
+                                    <td class="border_top_0.75 border_right_0.75 border_left_0.75 border_bottom_0.75 cellpadding_bottom_1" align="center">
+                                        <p>55–65<sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">[8]</sup></p>
+                                    </td>
+                                    <td class="border_top_0.75 border_right_0.75 border_left_0.75  border_bottom_0.75  cellpadding_bottom_1" align="center">
+                                        <p>45–55<sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">[8]</sup></p>
+                                    </td>
+                                </tr>
+                            </table><marker role="blank-line"></marker></content></paragraph><paragraph id="ID_1502095255584_039" name="0" temporalId="sch3_P5_s2_b_0"><num value="0"><sup>[8]</sup></num><content>The limit increases linearly with the logarithm of the
+                            frequency.</content></paragraph></subsection></section><section class="no_header" id="ID_1502095255584_040" name="s0" temporalId="sch3_P5_s0"><num value="0"><sup><inline class="width_6"> </inline>#</sup></num><content>If the average limit is met when using a quasi-peak detector receiver, the
+                    test unit is deemed to meet both limits, and measurement with the average
+                    detector receiver need not be carried out.</content></section><section class="no_header" id="ID_1502095255584_041" name="s0-1" temporalId="sch3_P5_s0-1"><num value="0"><sup>##</sup></num><content>The power of any heating device is to be excluded.</content></section><section class="no_header" id="ID_1438410836766_028" name="s3" temporalId="sch3_P5_s3"><num value="3"><inline class="not_bold">3.</inline></num><heading><inline class="not_bold">Discontinuous interference
+                    </inline></heading><leadIn>The limits for continuous conducted interference specified in <ref>paragraph
+                        1</ref> of this Part, as increased by the following amount, apply—</leadIn><paragraph id="ID_1438410836766_046" name="a" temporalId="sch3_P5_s3_a"><num value="a">(a)</num><content>44 dB (for N<sup>[9]</sup> &lt; 0.2);</content></paragraph><paragraph id="ID_1438410836766_055" name="b" temporalId="sch3_P5_s3_b"><num value="b">(b)</num><content>20 log<sub>10</sub>30/N dB (for 0.2 ≦ N ≦ 30);</content></paragraph><paragraph id="ID_1438410836766_064" name="c" temporalId="sch3_P5_s3_c"><num value="c">(c)</num><content>0 dB (for N &gt; 30).</content></paragraph><subsection id="ID_1502095255584_042" name="0" temporalId="sch3_P5_s3_0"><num value="0"><sup>[9]</sup></num><content>N is the click<sup>[10]</sup> rate determined from the formula N = n/T,
+                        T being 120 minutes or the observation time in minutes, whichever is less to
+                        produce 40 clicks, and n being the number of clicks registered during the
+                        observation time.</content></subsection><subsection id="ID_1502095255584_043" name="0-1" temporalId="sch3_P5_s3_0-1"><num value="0"><sup>[10]</sup></num><leadIn>A click is defined as a disturbance which—</leadIn><paragraph class="left_indent_108 align_justified" id="ID_1523844145595_002" name="a" temporalId="sch3_P5_s3_0-1_a"><num value="a">(a)</num><content>exceeds the maximum limit<sup>[11]</sup> specified in
+                                <ref>paragraph 1</ref> of this Part;</content></paragraph><paragraph class="left_indent_108 align_justified" id="ID_1523844145595_003" name="b" temporalId="sch3_P5_s3_0-1_b"><num value="b">(b)</num><content>lasts not more than 200 ms; and</content></paragraph><paragraph class="left_indent_108 align_justified" id="ID_1523844145595_004" name="c" temporalId="sch3_P5_s3_0-1_c"><num value="c">(c)</num><content>is separated from a subsequent disturbance by at least 200
+                            ms.</content></paragraph></subsection><subsection id="ID_1502095255599_044" name="0-2" temporalId="sch3_P5_s3_0-2"><num value="0"><sup>[11]</sup></num><content>The apparatus under test is deemed to comply with the maximum limit if
+                        not more than a quarter of the number of clicks registered during the
+                        observation time exceed the limit.</content></subsection></section></part><sourceNote>(<ref>Schedule
+                3</ref> added <ref href="/hk/2014/ln72">L.N. 72 of
+        2014</ref>)</sourceNote></schedule></main></subLeg>

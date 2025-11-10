@@ -1,0 +1,1038 @@
+<?xml version="1.0" encoding="UTF-8"?><subLeg xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd" xml:lang="en"><meta><docName>Cap. 232 sub. leg. A</docName><docType>cap</docType><docNumber>232A</docNumber><docStatus>In effect</docStatus><dc:identifier>/hk/cap232A!en</dc:identifier><dc:date>2021-10-15</dc:date><dc:subject>legislation</dc:subject><dc:language>en</dc:language><dc:publisher>DoJ</dc:publisher><dc:rights>the Government of the Hong Kong Special Administrative Region</dc:rights></meta><main xml:lang="en" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd"><docTitle id="ID_1438402865701_001" name="shortTitle" reason="inEffect" status="operational" temporalId="shortTitle" startPeriod="2018-09-20">Police
+            (Discipline)
+            Regulations</docTitle><enactingFormula role="empoweringSection">(<ref href="/hk/cap232/s45">Cap.
+                232,
+                section
+            45</ref>)<marker role="blank-line"></marker><marker role="blank-line"></marker></enactingFormula><commencementNote>[1 September 1977]<sourceNote><inline class="width_3"> </inline><ref href="/hk/1977/ln209">L.N. 209 of
+            1977</ref></sourceNote><marker role="blank-line"></marker><marker role="blank-line"></marker></commencementNote><sourceNote>(Format changes—<ref href="hk/2018/er4">E.R. 4 of 2018</ref>)</sourceNote><part id="ID_1438402865701_003" name="P1" reason="inEffect" startPeriod="2018-09-20" status="operational" temporalId="P1"><num value="1">Part
+            I</num><heading>Preliminary</heading><section id="ID_1438402865717_002" name="s1" reason="inEffect" role="regulation" startPeriod="2018-09-20" status="operational" temporalId="s1"><num value="1">1.</num><heading>Citation</heading><content>These regulations may be cited as the <shortTitle>Police (Discipline) Regulations</shortTitle>.</content></section><section id="ID_1438402865717_004" name="s2" reason="inEffect" role="regulation" startPeriod="2021-10-15" status="operational" temporalId="s2"><num value="2">2.</num><heading>Interpretation</heading><leadIn>In these regulations, unless the context otherwise requires—</leadIn><def name="AppropriateTribunal"><term>appropriate
+                tribunal</term>
+                (<term xml:lang="zh-Hant-HK">適當審裁體</term>) in relation to an inspector has the
+            meaning assigned to it by <ref>regulation 16</ref>, and in relation to a junior police
+            officer has the meaning assigned to it by <ref>regulation 4</ref>;</def><def name="Barrister"><term>barrister</term> (<term xml:lang="zh-Hant-HK">大律師</term>) has the meaning given
+            by <ref>section 2(1)</ref> of the Legal Practitioners Ordinance (<ref href="/hk/cap159">Cap. 159</ref>); <sourceNote>(<ref href="hk/2012/ln59">L.N. 59 of 2012</ref>)</sourceNote></def><def name="Defaulter"><term>defaulter</term>
+                (<term xml:lang="zh-Hant-HK">違紀者</term>) means a police officer charged with a
+            disciplinary offence;</def><def name="DefaulterReport">
+            <leadIn><term>Defaulter Report</term> (<term xml:lang="zh-Hant-HK">違紀者報告</term>) means
+                the record of the case against—</leadIn>
+            <paragraph id="ID_1627873089086_001" name="a" temporalId="s2_a"><num value="a">(a)</num><content>a police officer against whom a disciplinary charge is intended to be laid
+                    under <ref>regulation 5(1)</ref> or <ref>17(1)</ref>; or</content></paragraph>
+            <paragraph id="ID_1627873089087_002" name="b" temporalId="s2_b"><num value="b">(b)</num><content>a defaulter; <sourceNote>(<ref href="hk/2012/ln59">L.N. 59 of 2012</ref>)</sourceNote></content></paragraph>
+        </def><def name="DefenceRepresentative"><term>defence representative</term> (<term xml:lang="zh-Hant-HK">辯護代表</term>) means a
+            person specified in <ref>regulation 7B(1)(a)</ref>, (b), (c) or (d) or
+                <ref>18C(1)(a)</ref>, (b), (c) or (d) who represents a defaulter at a hearing;
+                <sourceNote>(<ref href="hk/2012/ln59">L.N. 59 of 2012</ref>)</sourceNote></def><def name="DisciplinaryOffence"><term>disciplinary offence</term> (<term xml:lang="zh-Hant-HK">違紀行為</term>) means a
+            disciplinary offence specified in <ref>regulation 3(2)</ref>; <sourceNote>(<ref href="hk/2012/ln59">L.N. 59 of 2012</ref>)</sourceNote></def><def name="ForceDisciplineOfficer"><term>Force
+                Discipline
+            Officer</term>
+                (<term xml:lang="zh-Hant-HK">警隊紀律主任</term>) means a police officer appointed by the
+            Commissioner to be Force Discipline Officer for the purposes of these
+                regulations;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1982/ln305">L.N. 305 of 1982</ref>)</sourceNote></def><def name="Hearing"><term>hearing</term> (<term xml:lang="zh-Hant-HK">聆訊</term>) means a hearing conducted
+            in respect of a disciplinary offence; <sourceNote>(<ref href="hk/2012/ln59">L.N. 59 of 2012</ref>)</sourceNote></def><def name="Inspector"><term>inspector</term>
+                (<term xml:lang="zh-Hant-HK">督察</term>) means an inspector, senior inspector or
+            chief inspector;</def><def name="JuniorPoliceOfficer"><term>junior
+                police
+            officer</term>
+                (<term xml:lang="zh-Hant-HK">初級警務人員</term>) means a police officer below the rank of
+            inspector;</def><def name="OfficialRecordOfProceedings"><term>official record of proceedings</term> (<term xml:lang="zh-Hant-HK">程序正式紀錄</term>)
+            means a written record of the proceedings of a hearing made under <ref>regulation
+                10A(1)</ref> or <ref>22A(1)</ref>; <sourceNote>(<ref href="hk/2012/ln59">L.N. 59 of 2012</ref>)</sourceNote></def><def name="SeniorPoliceOfficer"><term>senior
+                police
+            officer</term>
+                (<term xml:lang="zh-Hant-HK">高級警務人員</term>) means a chief superintendent, assistant
+            commissioner or senior assistant commissioner;</def><def name="Solicitor"><term>solicitor</term> (<term xml:lang="zh-Hant-HK">律師</term>) has the meaning given by
+                <ref>section 2(1)</ref> of the Legal Practitioners Ordinance (<ref href="/hk/cap159">Cap. 159</ref>); <sourceNote>(<ref href="hk/2012/ln59">L.N. 59 of 2012</ref>)</sourceNote></def><def name="Superintendent"><term>superintendent</term>
+                (<term xml:lang="zh-Hant-HK">警司</term>) includes senior superintendent.</def></section><section id="ID_1438402865748_001" name="s3" reason="inEffect" role="regulation" startPeriod="2021-10-15" status="operational" temporalId="s3"><num value="3">3.</num><heading>Disciplinary offences</heading><subsection id="ID_1438411643194_004" name="1" temporalId="s3_1"><num value="1">(1)</num><leadIn>Any inspector or junior police officer who commits any disciplinary offence specified in paragraph (2), and—</leadIn><paragraph id="ID_1438411643194_012" name="a" temporalId="s3_1_a"><num value="a">(a)</num><content>pleads guilty before an appropriate tribunal; or</content></paragraph><paragraph id="ID_1438411643194_020" name="b" temporalId="s3_1_b"><num value="b">(b)</num><content>is found guilty by an appropriate tribunal,</content></paragraph><continued>may be punished by such tribunal in accordance with these regulations.</continued></subsection><subsection id="ID_1438411643194_033" name="2" temporalId="s3_2"><num value="2">(2)</num><leadIn>The offences against discipline are—</leadIn><paragraph id="ID_1438411643194_041" name="a" temporalId="s3_2_a"><num value="a">(a)</num><content>absence from duty without leave or good cause;</content></paragraph><paragraph id="ID_1438411643194_049" name="b" temporalId="s3_2_b"><num value="b">(b)</num><content>sleeping on duty;</content></paragraph><paragraph id="ID_1438411643194_057" name="c" temporalId="s3_2_c"><num value="c">(c)</num><content>conduct to the prejudice of good order and discipline;</content></paragraph><paragraph id="ID_1438411643194_065" name="d" temporalId="s3_2_d"><num value="d">(d)</num><content>cowardice in the performance of duty;</content></paragraph><paragraph id="ID_1438411643194_073" name="e" temporalId="s3_2_e"><num value="e">(e)</num><content>contravention of police regulations, or any police orders, whether written or verbal;</content></paragraph><paragraph id="ID_1438411643194_081" name="f" temporalId="s3_2_f"><num value="f">(f)</num><content>insubordination;</content></paragraph><paragraph id="ID_1438411643194_089" name="g" temporalId="s3_2_g"><num value="g">(g)</num><content>being unfit for duty through intoxication;</content></paragraph><paragraph id="ID_1438411643194_097" name="h" temporalId="s3_2_h"><num value="h">(h)</num><content>neglect of duty or orders;</content></paragraph><paragraph id="ID_1438411643194_105" name="i" temporalId="s3_2_i"><num value="i">(i)</num><content>malingering;</content></paragraph><paragraph id="ID_1438411643194_113" name="j" temporalId="s3_2_j"><num value="j">(j)</num><content>making a statement which is false in a material particular in the course of
+                    his duty or in
+                    connexion
+                    with the discharge by the police force of any of its duties or
+                    functions;</content></paragraph><paragraph id="ID_1438411643194_121" name="k" temporalId="s3_2_k"><num value="k">(k)</num><content>unlawful or unnecessary exercise of authority resulting in loss or injury to any other person or to the Government;</content></paragraph><paragraph id="ID_1438411643209_006" name="l" temporalId="s3_2_l"><num value="l">(l)</num><content>wilful destruction or negligent loss of or injury to Government property;</content></paragraph><paragraph id="ID_1438411643209_014" name="m" temporalId="s3_2_m"><num value="m">(m)</num><content>conduct
+                    likely
+                    to bring the public service into disrepute.
+                    <sourceNote>(<ref href="hk/2012/ln59">L.N. 59 of 2012</ref>)</sourceNote></content></paragraph></subsection></section></part><part id="ID_1438402865748_003" name="P1A" reason="inEffect" startPeriod="2018-09-20" status="operational" temporalId="P1A"><num value="1A">Part
+            IA</num><heading>Junior
+            Police Officers and Inspectors—Minor Offences</heading><sourceNote>(Part IA added <ref href="/hk/1982/ln305">L.N. 305 of 1982</ref>)</sourceNote><section id="ID_1438402865764_002" name="s3A" reason="inEffect" role="regulation" startPeriod="2018-09-20" status="operational" temporalId="s3A"><num value="3A">3A.</num><heading>Interpretation in this Part</heading><leadIn>For the purposes of this Part—</leadIn><def name="AppointedOfficer"><term>appointed
+                officer</term>
+                (<term xml:lang="zh-Hant-HK">受委人員</term>) means an officer appointed under
+                <ref>regulation 3B(2)</ref> to conduct proceedings under this Part;</def><def name="AppropriateOfficer"><term>appropriate
+                officer</term>
+                (<term xml:lang="zh-Hant-HK">適當人員</term>) means, where the alleged offender is a
+            junior police officer, a superintendent, and where the alleged offender is an inspector,
+            a senior police officer;</def><def name="MinorOffence"><term>minor
+                offence</term>
+                (<term xml:lang="zh-Hant-HK">輕微違紀行為</term>) means a disciplinary offence which,
+            having regard to the alleged offender’s record and the circumstances of the case, as
+            established to the satisfaction of an appropriate officer, would, if admitted, merit no
+            punishment under these regulations other than a written admonishment.</def></section><section id="ID_1438402865779_001" name="s3B" reason="inEffect" role="regulation" startPeriod="2018-09-20" status="operational" temporalId="s3B"><num value="3B">3B.</num><heading>Minor Offences</heading><subsection id="ID_1438411643256_032" name="1" temporalId="s3B_1"><num value="1">(1)</num><content>Where it appears to an appropriate officer that there is a prima facie case of a minor offence on the part of an inspector or junior police officer, a statement of the facts in respect thereof may be entered on a document entitled Minor Offences Report which shall be the record of the case against such inspector or junior police officer.</content></subsection><subsection id="ID_1438411643272_005" name="2" temporalId="s3B_2"><num value="2">(2)</num><content>A senior police officer shall appoint a superintendent to conduct proceedings under this Part against an alleged offender who is an inspector and a superintendent shall appoint an inspector to conduct proceedings under this Part against an alleged offender who is a junior police officer.</content></subsection></section><section id="ID_1438402865779_003" name="s3C" reason="inEffect" role="regulation" startPeriod="2021-10-15" status="operational" temporalId="s3C"><num value="3C">3C.</num><heading>Procedure for minor offences</heading><subsection id="ID_1438411643287_019" name="1" temporalId="s3C_1"><num value="1">(1)</num><content>The alleged offender shall appear before the appointed
+                officer in
+                person and shall be called upon to admit or deny the statement of
+                facts in respect of the alleged minor offence and shall be advised that if he admits
+                the facts he will receive a written admonishment.
+                <sourceNote>(<ref href="hk/2012/ln59">L.N. 59 of 2012</ref>)</sourceNote></content></subsection><subsection id="ID_1438411643287_027" name="2" temporalId="s3C_2"><num value="2">(2)</num><content>If the alleged offender admits the facts the appointed officer shall endorse
+                the Minor Offences Report accordingly and issue a written admonishment to the
+                offender.</content></subsection><subsection id="ID_1438411643303_005" name="3" temporalId="s3C_3"><num value="3">(3)</num><content>If the alleged offender denies the facts the appointed officer shall endorse
+                the Minor Offences Report accordingly and return it to the appropriate
+                officer.</content></subsection><subsection id="ID_1438411643303_013" name="4" temporalId="s3C_4"><num value="4">(4)</num><content>If a Minor Offences Report is returned to the appropriate officer under
+                paragraph (3), a charge or charges shall be heard, in the case of an alleged
+                offender who is a junior police officer, under Part II, and in the case of an
+                alleged offender who is an inspector, under Part III.</content></subsection><subsection id="ID_1438411643303_021" name="5" temporalId="s3C_5"><num value="5">(5)</num><sourceNote>(Repealed <ref href="hk/2012/ln59">L.N. 59 of 2012</ref>)</sourceNote></subsection></section></part><part id="ID_1438402865795_002" name="P2" reason="inEffect" startPeriod="2018-09-20" status="operational" temporalId="P2"><num value="2">Part
+            II</num><heading>Junior Police
+            Officers: Investigation into Disciplinary Offences, Punishment and
+            Appeals</heading><section id="ID_1438402865810_001" name="s4" reason="inEffect" role="regulation" startPeriod="2021-10-15" status="operational" temporalId="s4"><num value="4">4.</num><heading>Appropriate tribunal</heading><subsection id="ID_1627547320801_001" name="1" temporalId="s4_1"><num value="1">(1)</num><leadIn>For the purposes of this Part—</leadIn><def name="AppropriateTribunal">
+                                                  <leadIn><term>appropriate tribunal</term> (<term xml:lang="zh-Hant-HK">適當審裁體</term>)
+                                                  means—</leadIn>
+                                                  <paragraph id="ID_1627547320801_002" name="a" temporalId="s4_1_a"><num value="a">(a)</num><content>a single police officer not below the
+                                                  rank of superintendent appointed by the
+                                                  Commissioner or by a senior police officer; or
+                                                  </content></paragraph>
+                                                  <paragraph id="ID_1627547320801_003" name="b" temporalId="s4_1_b"><num value="b">(b)</num><content>a board appointed by the
+                                                  Commissioner.</content></paragraph>
+                                                </def></subsection><subsection id="ID_1627547320801_004" name="2" temporalId="s4_2"><num value="2">(2)</num><content>If the appropriate tribunal is to be a
+                                                  board appointed by the Commissioner, the
+                                                  Commissioner must appoint a board consisting of a
+                                                  superintendent and a chief inspector, and name the
+                                                  superintendent as the President of the
+                                                  board.</content></subsection><subsection id="ID_1627547320801_005" name="3" temporalId="s4_3"><num value="3">(3)</num><content>A senior police officer may apply to the
+                                                  Commissioner to appoint a board to be the
+                                                  appropriate tribunal, and on the application the
+                                                  Commissioner may either appoint a board under
+                                                  paragraph (2) or refer the case back to that
+                                                  senior police officer to be heard by a single
+                                                  police officer not below the rank of
+                                                  superintendent appointed by the Commissioner or by
+                                                  a senior police officer.</content></subsection><subsection id="ID_1627547320801_006" name="4" temporalId="s4_4"><num value="4">(4)</num><content>No person who originates a complaint
+                                                  leading to a charge or assists in the
+                                                  investigation of the complaint may act as the
+                                                  appropriate tribunal or become a member of the
+                                                  appropriate tribunal hearing the charge.</content></subsection><sourceNote>(<ref href="hk/2012/ln59">L.N. 59 of 2012</ref>)</sourceNote></section><section id="ID_1438402865810_003" name="s5" reason="inEffect" role="regulation" startPeriod="2021-10-15" status="operational" temporalId="s5"><num value="5">5.</num><heading>Preliminary procedure</heading><subsection id="ID_1627547664330_001" name="1" temporalId="s5_1"><num value="1">(1)</num><content>If it appears to a police officer of or above the rank of sergeant that a
+                disciplinary charge should be laid against a junior police officer subordinate to
+                him or her in rank, the appropriate charge intended to be laid against the junior
+                police officer must be entered in the Defaulter Report, and the junior police
+                officer must be informed of the intended charge as soon as practicable.</content></subsection><subsection id="ID_1627547664330_002" name="2" temporalId="s5_2"><num value="2">(2)</num><leadIn>If a disciplinary charge is laid against a junior police officer, a senior
+                police officer may—</leadIn><paragraph id="ID_1627547664330_003" name="a" temporalId="s5_2_a"><num value="a">(a)</num><content>direct that the charge be heard by an appropriate tribunal consisting of a
+                    single police officer; or</content></paragraph><paragraph id="ID_1627547664330_004" name="b" temporalId="s5_2_b"><num value="b">(b)</num><content>apply to the Commissioner to appoint a board to be the appropriate
+                    tribunal.</content></paragraph></subsection><subsection id="ID_1627547664330_005" name="3" temporalId="s5_3"><num value="3">(3)</num><leadIn>The junior police officer must be served with a notice in writing
+                specifying—</leadIn><paragraph id="ID_1627547664330_006" name="a" temporalId="s5_3_a"><num value="a">(a)</num><content>the charge;</content></paragraph><paragraph id="ID_1627547664330_007" name="b" temporalId="s5_3_b"><num value="b">(b)</num><content>(if the charge is to be heard before an appropriate tribunal consisting of
+                    a single police officer) the name of the officer constituting the appropriate
+                    tribunal;</content></paragraph><paragraph id="ID_1627547664330_008" name="c" temporalId="s5_3_c"><num value="c">(c)</num><content>(if the charge is to be heard before an appropriate tribunal consisting of
+                    a board) the names of the persons constituting the board;</content></paragraph><paragraph id="ID_1627547664330_009" name="d" temporalId="s5_3_d"><num value="d">(d)</num><content>the place of the hearing; and</content></paragraph><paragraph id="ID_1627547664330_010" name="e" temporalId="s5_3_e"><num value="e">(e)</num><content>the time and date of the hearing, which must not be earlier than 7 clear
+                    days after service of the notice.</content></paragraph></subsection><sourceNote>(<ref href="hk/2012/ln59">L.N. 59 of 2012</ref>)</sourceNote></section><section id="ID_1438402865826_002" name="s6" reason="inEffect" role="regulation" startPeriod="2021-10-15" status="operational" temporalId="s6"><num value="6">6.</num><heading>Objection to
+            tribunal</heading><subsection id="ID_1627548328537_001" name="1" temporalId="s6_1"><num value="1">(1)</num><leadIn>If a defaulter objects to an appropriate tribunal on the grounds of partiality
+                or bias—</leadIn><paragraph id="ID_1627548328537_002" name="a" temporalId="s6_1_a"><num value="a">(a)</num><leadIn>(where the appropriate tribunal is a superintendent appointed by a senior
+                    police officer) the defaulter may, within 7 days from the date of service of a
+                    notice under <ref>regulation 5(3)</ref>, apply to the senior police officer
+                    for—</leadIn><subparagraph id="ID_1627548328537_003" name="1" temporalId="s6_1_a_1"><num value="1">(i)</num><content>an application to be made under <ref>regulation 5(2)(b)</ref> for the
+                        Commissioner’s direction that the case be heard by a board instead of by a
+                        single police officer; or</content></subparagraph><subparagraph id="ID_1627548328537_004" name="2" temporalId="s6_1_a_2"><num value="2">(ii)</num><content>the appointment of another appropriate tribunal consisting of a single
+                        police officer;</content></subparagraph></paragraph><paragraph id="ID_1627548328537_005" name="b" temporalId="s6_1_b"><num value="b">(b)</num><leadIn>(where the appropriate tribunal is not a superintendent appointed by a
+                    senior police officer) the defaulter may, within 7 days from the date of service
+                    of a notice under <ref>regulation 5(3)</ref>, apply to the
+                    Commissioner—</leadIn><subparagraph id="ID_1627548328537_006" name="1" temporalId="s6_1_b_1"><num value="1">(i)</num><content>to direct that the case be heard by a board instead of by a single
+                        police officer; or</content></subparagraph><subparagraph id="ID_1627548328537_007" name="2" temporalId="s6_1_b_2"><num value="2">(ii)</num><content>to change any single police officer appointed by the Commissioner or by
+                        a senior police officer or to change a member of the board appointed by the
+                        Commissioner.</content></subparagraph></paragraph></subsection><subsection id="ID_1627548328537_008" name="2" temporalId="s6_2"><num value="2">(2)</num><leadIn>A senior police officer may, on receiving an application made under
+                    <ref>paragraph (1)(a)</ref>—</leadIn><paragraph id="ID_1627548328553_009" name="a" temporalId="s6_2_a"><num value="a">(a)</num><content>reject the application;</content></paragraph><paragraph id="ID_1627548328553_010" name="b" temporalId="s6_2_b"><num value="b">(b)</num><content>apply to the Commissioner to appoint a board to be the appropriate
+                    tribunal; or</content></paragraph><paragraph id="ID_1627548328553_011" name="c" temporalId="s6_2_c"><num value="c">(c)</num><content>appoint another appropriate tribunal consisting of a single police
+                    officer.</content></paragraph></subsection><subsection id="ID_1627548328553_012" name="3" temporalId="s6_3"><num value="3">(3)</num><leadIn>The Commissioner may, on receiving an application made under <ref>paragraph
+                    (1)(b)</ref> or (2)(b)—</leadIn><paragraph id="ID_1627548328553_013" name="a" temporalId="s6_3_a"><num value="a">(a)</num><content>reject the application;</content></paragraph><paragraph id="ID_1627548328553_014" name="b" temporalId="s6_3_b"><num value="b">(b)</num><content>direct that the case be heard by a board appointed by the Commissioner
+                    instead of by a single police officer; or</content></paragraph><paragraph id="ID_1627548328553_015" name="c" temporalId="s6_3_c"><num value="c">(c)</num><content>appoint another appropriate tribunal.</content></paragraph></subsection><subsection id="ID_1627548328553_016" name="4" temporalId="s6_4"><num value="4">(4)</num><content>An application under paragraph (1) must be made in writing, and the hearing
+                must not be commenced before the determination of the application.</content></subsection><sourceNote>(<ref href="hk/2012/ln59">L.N. 59 of 2012</ref>)</sourceNote></section><section id="ID_1438402865826_004" name="s7" reason="inEffect" role="regulation" startPeriod="2021-10-15" status="operational" temporalId="s7"><num value="7">7.</num><heading>Access to records and documents</heading><text>A
+            defaulter must be given copies of or reasonable access to any police records and other
+            documents which the defaulter requires, and are necessary to enable the defaulter to
+            prepare the defence, but not including those records for which the Government claims
+            privilege.</text><sourceNote>(<ref href="hk/2012/ln59">L.N. 59 of 2012</ref>)</sourceNote></section><section id="ID_1627548469628_001" name="s7A" temporalId="s7A" startPeriod="2021-10-15" status="operational" reason="inEffect"><num value="7A">7A.</num><heading>Appointment of prosecutor</heading><text>The Commissioner must appoint a prosecutor for the purposes of proceedings against a
+            defaulter under this Part.</text><sourceNote>(<ref href="hk/2012/ln59">L.N. 59 of 2012</ref>)</sourceNote></section><section id="ID_1627548574160_001" name="s7B" temporalId="s7B" startPeriod="2021-10-15" status="operational" reason="inEffect"><num value="7B">7B.</num><heading>Representation
+            of defaulter at hearing</heading><subsection id="ID_1627548868092_001" name="1" temporalId="s7B_1"><num value="1">(1)</num><leadIn>A defaulter may be represented at a hearing by—</leadIn><paragraph id="ID_1627548868092_002" name="a" temporalId="s7B_1_a"><num value="a">(a)</num><content>an inspector, or a junior police officer, of the defaulter’s
+                    choice;</content></paragraph><paragraph id="ID_1627548868092_003" name="b" temporalId="s7B_1_b"><num value="b">(b)</num><content>any other police officer of the defaulter’s choice who is a barrister or
+                    solicitor;</content></paragraph><paragraph id="ID_1627548868092_004" name="c" temporalId="s7B_1_c"><num value="c">(c)</num><content>(subject to the Commissioner’s approval) a barrister or solicitor who is
+                    not a police officer; or</content></paragraph><paragraph id="ID_1627548868092_005" name="d" temporalId="s7B_1_d"><num value="d">(d)</num><content>any other person of the defaulter’s choice who is approved by the
+                    Commissioner for the purpose,</content></paragraph><continued>and the person specified in <ref>subparagraph (a)</ref>, (b), (c) or (d) may
+                conduct the defence on the defaulter’s behalf.</continued></subsection><subsection id="ID_1627548868092_006" name="2" temporalId="s7B_2"><num value="2">(2)</num><content>If the Commissioner gives approval under <ref>paragraph (1)(c)</ref>, the
+                defaulter may be represented at the hearing by a barrister or solicitor of the
+                defaulter’s choice.</content></subsection><subsection id="ID_1627548868107_007" name="3" temporalId="s7B_3"><num value="3">(3)</num><content>Despite paragraph (1), a defaulter must attend a hearing in person.</content></subsection><subsection id="ID_1627548868107_008" name="4" temporalId="s7B_4"><num value="4">(4)</num><content>If a defaulter is represented at a hearing by a barrister or solicitor, the
+                appropriate tribunal and the prosecutor may separately be assisted by a barrister or
+                solicitor at the hearing.</content></subsection><sourceNote>(<ref href="hk/2012/ln59">L.N. 59 of 2012</ref>)</sourceNote></section><section id="ID_1438402865842_002" name="s8" reason="inEffect" role="regulation" startPeriod="2021-10-15" status="operational" temporalId="s8"><num value="8">8.</num><heading>Plea of defaulter</heading><subsection id="ID_1627549496111_001" name="1" temporalId="s8_1"><num value="1">(1)</num><content>At the hearing, the appropriate tribunal must read to the defaulter any charge
+                against him or her.</content></subsection><subsection id="ID_1627549496127_002" name="2" temporalId="s8_2"><num value="2">(2)</num><content>The defaulter must plead in person guilty or not guilty to the charge, or to
+                each charge separately if there is more than one, unequivocally.</content></subsection><subsection id="ID_1627549496127_003" name="3" temporalId="s8_3"><num value="3">(3)</num><content>The appropriate tribunal must enter the plea or pleas on the official record of
+                proceedings.</content></subsection><sourceNote>(<ref href="hk/2012/ln59">L.N. 59 of 2012</ref>)</sourceNote></section><section id="ID_1438402865857_001" name="s9" reason="inEffect" role="regulation" startPeriod="2021-10-15" status="operational" temporalId="s9"><num value="9">9.</num><heading>Procedure at
+            hearing</heading><subsection id="ID_1627873177989_001" name="1" temporalId="s9_1"><num value="1">(1)</num><content>If a defaulter pleads not guilty at a hearing and evidence for the prosecution
+                is called, witnesses are to be called in support of the charge and, at the
+                conclusion of the evidence of each of those witnesses, the defaulter or the defence
+                representative may cross-examine that witness, who may then be
+                re-examined.</content></subsection><subsection id="ID_1627873177989_002" name="2" temporalId="s9_2"><num value="2">(2)</num><content>When the examination of all witnesses in support of the charge has been
+                completed, the defaulter or the defence representative may address the appropriate
+                tribunal for the purpose only of showing that no prima facie case has been
+                established.</content></subsection><subsection id="ID_1627873177990_003" name="3" temporalId="s9_3"><num value="3">(3)</num><leadIn>If it appears to the appropriate tribunal that there is a prima facie case, it
+                must ask if the defaulter wishes to—</leadIn><paragraph id="ID_1627873177990_004" name="a" temporalId="s9_3_a"><num value="a">(a)</num><content>give evidence; and</content></paragraph><paragraph id="ID_1627873177991_005" name="b" temporalId="s9_3_b"><num value="b">(b)</num><content>call witnesses.</content></paragraph></subsection><subsection id="ID_1627873177991_006" name="4" temporalId="s9_4"><num value="4">(4)</num><content>If the defaulter gives evidence, the defaulter may be cross-examined and
+                re-examined, and any witness called by the defaulter may be examined, cross-examined
+                and re-examined.</content></subsection><subsection id="ID_1627873177992_007" name="5" temporalId="s9_5"><num value="5">(5)</num><content>At the close of the defence case, witnesses may be called with the consent of
+                the appropriate tribunal to give evidence in rebuttal, and may be examined,
+                cross-examined and re-examined.</content></subsection><subsection id="ID_1627873177992_008" name="6" temporalId="s9_6"><num value="6">(6)</num><content>At the conclusion of all the evidence, the prosecutor or any barrister or
+                solicitor assisting the prosecutor may address the appropriate tribunal and then the
+                defaulter or the defence representative may address the appropriate tribunal in
+                reply.</content></subsection><subsection id="ID_1627873177993_009" name="7" temporalId="s9_7"><num value="7">(7)</num><leadIn>The appropriate tribunal may—</leadIn><paragraph id="ID_1627873177993_010" name="a" temporalId="s9_7_a"><num value="a">(a)</num><content>call witnesses; and</content></paragraph><paragraph id="ID_1627873177993_011" name="b" temporalId="s9_7_b"><num value="b">(b)</num><content>ask any witness any question,</content></paragraph><continued>that it considers may assist it in determining the case.</continued></subsection><subsection id="ID_1627873177994_012" name="8" temporalId="s9_8"><num value="8">(8)</num><content>Evidence must not be taken on oath or affirmation.</content></subsection><subsection id="ID_1627873177994_013" name="9" temporalId="s9_9"><num value="9">(9)</num><content>The defaulter, the defence representative, the prosecutor and any barrister or
+                solicitor assisting the prosecutor may inspect any exhibit produced to the
+                appropriate tribunal by a witness.</content></subsection><subsection id="ID_1627873177995_014" name="10" temporalId="s9_10"><num value="10">(10)</num><content>The appropriate tribunal may adjourn the hearing from time to time, and if an
+                application is made for an adjournment, the applicant must show to the satisfaction
+                of the appropriate tribunal that the adjournment would serve the ends of
+                justice.</content></subsection><subsection id="ID_1627873177995_015" name="11" temporalId="s9_11"><num value="11">(11)</num><content>An adjournment granted under paragraph (10) must be for a reasonable period
+                only.</content></subsection><sourceNote>(<ref href="hk/2012/ln59">L.N. 59 of 2012</ref>)</sourceNote></section><section id="ID_1438402865873_002" name="s10" reason="inEffect" role="regulation" startPeriod="2021-10-15" status="operational" temporalId="s10"><num value="10">10.</num><heading>Adding or amending
+            charge</heading><subsection id="ID_1627550353315_001" name="1" temporalId="s10_1"><num value="1">(1)</num><content>The prosecutor may amend a charge or add a further charge at any time before
+                the appropriate tribunal communicates a finding to the defaulter.</content></subsection><subsection id="ID_1627550353315_002" name="2" temporalId="s10_2"><num value="2">(2)</num><content>The appropriate tribunal must read and explain any amended or new charge to the
+                defaulter.</content></subsection><subsection id="ID_1627550353315_003" name="3" temporalId="s10_3"><num value="3">(3)</num><leadIn>The defaulter must plead in person to the amended or new charge, or to each
+                amended or new charge separately if there is more than one, and he or she—</leadIn><paragraph id="ID_1627550353315_004" name="a" temporalId="s10_3_a"><num value="a">(a)</num><content>is entitled to a reasonable adjournment to prepare a further
+                    defence;</content></paragraph><paragraph id="ID_1627550353315_005" name="b" temporalId="s10_3_b"><num value="b">(b)</num><content>may recall any witness; and</content></paragraph><paragraph id="ID_1627550353315_006" name="c" temporalId="s10_3_c"><num value="c">(c)</num><content>may call any further witness as he or she thinks fit.</content></paragraph></subsection><subsection id="ID_1627550353315_007" name="4" temporalId="s10_4"><num value="4">(4)</num><content>A witness giving evidence under this regulation may be cross-examined and
+                re-examined.</content></subsection><sourceNote>(<ref href="hk/2012/ln59">L.N. 59 of 2012</ref>)</sourceNote></section><section id="ID_1627608683318_001" name="s10A" temporalId="s10A" startPeriod="2021-10-15" status="operational" reason="inEffect"><num value="10A">10A.</num><heading>Record of
+            proceedings</heading><subsection id="ID_1627609383603_001" name="1" temporalId="s10A_1"><num value="1">(1)</num><content>The appropriate tribunal must make, or cause to be made, a written record of
+                the proceedings of a hearing, and the record is to form part of the Defaulter
+                Report.</content></subsection><subsection id="ID_1627609383603_002" name="2" temporalId="s10A_2"><num value="2">(2)</num><content>The appropriate tribunal may make, or cause to be made, an audio recording or
+                an audio and visual recording of the proceedings, or any part of the proceedings, of
+                a hearing.</content></subsection><sourceNote>(<ref href="hk/2012/ln59">L.N. 59 of 2012</ref>)</sourceNote></section><section id="ID_1438402865888_002" name="s11" reason="inEffect" role="regulation" startPeriod="2021-10-15" status="operational" temporalId="s11"><num value="11">11.</num><heading>Finding
+            by appropriate tribunal</heading><subsection id="ID_1438411643553_004" name="1" temporalId="s11_1"><num value="1">(1)</num><content>The
+                appropriate tribunal may at the conclusion of the hearing announce its finding on a
+                charge or reserve its finding, and if the finding is reserved, the appropriate
+                tribunal must call the defaulter to appear in person before it when it announces its
+                finding.</content></subsection><subsection id="ID_1438411643553_012" name="2" temporalId="s11_2"><num value="2">(2)</num><content>The
+                appropriate tribunal must endorse the finding on the Defaulter
+                Report.</content></subsection><subsection id="ID_1438411643568_005" name="3" temporalId="s11_3"><num value="3">(3)</num><content>If
+                the defaulter has pleaded guilty or is found guilty, the appropriate tribunal must
+                ask if the defaulter wishes to make or produce to the appropriate tribunal a
+                statement which contains any relevant matters that the defaulter wishes to be taken
+                into consideration by the appropriate tribunal.</content></subsection><sourceNote>(<ref href="hk/2012/ln59">L.N. 59 of 2012</ref>)</sourceNote></section><section id="ID_1627609579282_001" name="s11A" temporalId="s11A" startPeriod="2021-10-15" status="operational" reason="inEffect"><num value="11A">11A.</num><heading>Award by single
+            member tribunal</heading><subsection id="ID_1627873230713_001" name="1" temporalId="s11A_1"><num value="1">(1)</num><content>If the appropriate tribunal consists of a single police officer (<b><i>single
+                        member tribunal</i></b>) and the defaulter has pleaded guilty or is found
+                guilty, the single member tribunal may then announce its award or reserve its award,
+                and if the award is reserved, the single member tribunal must call the defaulter to
+                appear in person before it when it announces its award.</content></subsection><subsection id="ID_1627873230713_002" name="2" temporalId="s11A_2"><num value="2">(2)</num><content>The single member tribunal must endorse the award on the Defaulter
+                Report.</content></subsection><subsection id="ID_1627873230714_003" name="3" temporalId="s11A_3"><num value="3">(3)</num><content>The single member tribunal must send the Defaulter Report to the Force
+                Discipline Officer.</content></subsection><subsection id="ID_1627873230714_004" name="4" temporalId="s11A_4"><num value="4">(4)</num><leadIn>If the defaulter has pleaded guilty or is found guilty and the single member
+                tribunal considers that no punishment should be awarded, it must—</leadIn><paragraph id="ID_1627873230715_005" name="a" temporalId="s11A_4_a"><num value="a">(a)</num><content>endorse the Defaulter Report to that effect;</content></paragraph><paragraph id="ID_1627873230715_006" name="b" temporalId="s11A_4_b"><num value="b">(b)</num><content>send the Defaulter Report to the Force Discipline Officer; and</content></paragraph><paragraph id="ID_1627873230716_007" name="c" temporalId="s11A_4_c"><num value="c">(c)</num><content>inform the defaulter of the acts mentioned in subparagraphs (a) and
+                    (b).</content></paragraph></subsection><subsection id="ID_1627873230716_008" name="5" temporalId="s11A_5"><num value="5">(5)</num><leadIn>If the defaulter has pleaded guilty or is found guilty and the single member
+                tribunal considers that the punishment it can award is insufficient, it must not
+                make an award, and it must—</leadIn><paragraph id="ID_1627873230717_009" name="a" temporalId="s11A_5_a"><num value="a">(a)</num><content>endorse the Defaulter Report to that effect;</content></paragraph><paragraph id="ID_1627873230717_010" name="b" temporalId="s11A_5_b"><num value="b">(b)</num><content>send the Defaulter Report to the Force Discipline Officer; and</content></paragraph><paragraph id="ID_1627873230717_011" name="c" temporalId="s11A_5_c"><num value="c">(c)</num><content>inform the defaulter of the acts mentioned in subparagraphs (a) and
+                    (b).</content></paragraph></subsection><sourceNote>(<ref href="hk/2012/ln59">L.N. 59 of 2012</ref>)</sourceNote></section><section id="ID_1627609881906_001" name="s11B" temporalId="s11B" startPeriod="2021-10-15" status="operational" reason="inEffect"><num value="11B">11B.</num><heading>Board tribunal
+            to send Defaulter Report to Force Discipline Officer</heading><text>If the appropriate tribunal consists of a board appointed by the Commissioner and the
+            defaulter has pleaded guilty or is found guilty, the appropriate tribunal must send the
+            Defaulter Report to the Force Discipline Officer and inform the defaulter of that
+            fact.</text><sourceNote>(<ref href="hk/2012/ln59">L.N. 59 of 2012</ref>)</sourceNote></section><section id="ID_1438402865904_001" name="s12" reason="inEffect" role="regulation" startPeriod="2021-10-15" status="operational" temporalId="s12"><num value="12">12.</num><heading>Review</heading><subsection id="ID_1627610323735_001" name="1" temporalId="s12_1"><num value="1">(1)</num><content>The appropriate tribunal hearing a case may, at any time within 7 days after
+                having announced its finding or award to the defaulter, review the case and arrive
+                at a fresh finding or award which, subject to paragraph (3), is to be substituted
+                for the original finding or award.</content></subsection><subsection id="ID_1627610323735_002" name="2" temporalId="s12_2"><num value="2">(2)</num><content>If the appropriate tribunal reviews a case, it must announce before the
+                defaulter or communicate in writing to the defaulter its finding or award after the
+                review.</content></subsection><subsection id="ID_1627610323735_003" name="3" temporalId="s12_3"><num value="3">(3)</num><leadIn>The appropriate tribunal must not—</leadIn><paragraph id="ID_1627610323751_004" name="a" temporalId="s12_3_a"><num value="a">(a)</num><content>substitute for a finding of not guilty a finding of guilty; or</content></paragraph><paragraph id="ID_1627610323751_005" name="b" temporalId="s12_3_b"><num value="b">(b)</num><content>award a greater punishment,</content></paragraph><continued>unless the defaulter is given an opportunity of making representations as to
+                why the original finding should not be varied or the original punishment should not
+                be increased.</continued></subsection><subsection id="ID_1627610323751_006" name="4" temporalId="s12_4"><num value="4">(4)</num><leadIn>The appropriate tribunal must—</leadIn><paragraph id="ID_1627610323751_007" name="a" temporalId="s12_4_a"><num value="a">(a)</num><content>endorse its finding or award after the review on the Defaulter Report;
+                    and</content></paragraph><paragraph id="ID_1627610323751_008" name="b" temporalId="s12_4_b"><num value="b">(b)</num><content>send the Defaulter Report to the Force Discipline Officer.</content></paragraph></subsection><subsection id="ID_1627610323751_009" name="5" temporalId="s12_5"><num value="5">(5)</num><leadIn>A review under this regulation is at the sole discretion of the appropriate
+                tribunal and may be made—</leadIn><paragraph id="ID_1627610323751_010" name="a" temporalId="s12_5_a"><num value="a">(a)</num><content>on the appropriate tribunal’s own motion; or</content></paragraph><paragraph id="ID_1627610323751_011" name="b" temporalId="s12_5_b"><num value="b">(b)</num><content>on application to the appropriate tribunal in writing by either the
+                    prosecutor or the defaulter.</content></paragraph></subsection><sourceNote>(<ref href="hk/2012/ln59">L.N. 59 of 2012</ref>)</sourceNote></section><section id="ID_1627610366728_001" name="s12A" temporalId="s12A" startPeriod="2021-10-15" status="operational" reason="inEffect"><num value="12A">12A.</num><heading>Proceedings in
+            defaulter’s absence</heading><text>Where a defaulter is required to appear in person in any proceedings under this Part
+            and repeatedly fails to appear, the appropriate tribunal may proceed in the defaulter’s
+            absence if satisfied that the defaulter has no reasonable excuse for the
+            failures.</text><sourceNote>(<ref href="hk/2012/ln59">L.N. 59 of 2012</ref>)</sourceNote></section><section id="ID_1438402865904_003" name="s13" reason="inEffect" role="regulation" startPeriod="2021-10-15" status="operational" temporalId="s13"><num value="13">13.</num><heading>Punishment of junior police officers</heading><subsection id="ID_1438411643631_042" name="1" temporalId="s13_1"><num value="1">(1)</num><leadIn>A
+                junior police officer who has pleaded guilty to or is found guilty of a disciplinary
+                offence before or by an appropriate tribunal consisting of a single police officer
+                may, subject to regulation 30, be awarded any of the following punishments by the
+                appropriate tribunal—</leadIn><paragraph id="ID_1438411643631_050" name="a" temporalId="s13_1_a"><num value="a">(a)</num><content>caution;</content></paragraph><paragraph id="ID_1438411643646_006" name="b" temporalId="s13_1_b"><num value="b">(b)</num><content>reprimand;</content></paragraph><paragraph id="ID_1438411643646_014" name="c" temporalId="s13_1_c"><num value="c">(c)</num><content>severe reprimand;</content></paragraph><paragraph id="ID_1627611124317_001" name="d" temporalId="s13_1_d"><num value="d">(d)</num><content>deferment or stoppage of increment;</content></paragraph><paragraph id="ID_1627611124317_002" name="d" temporalId="s13_1_d"><num value="d">(e)</num><content>forfeiture
+                    of not more than 1 month’s pay except in the case of absence without good cause
+                    when forfeiture of pay extends to the period of absence in addition to any other
+                    punishment awarded;</content></paragraph><paragraph id="ID_1438411643646_030" name="e" temporalId="s13_1_e"><num value="e">(f)</num><content>reduction in rank;</content></paragraph><paragraph id="ID_1438411643646_038" temporalId="s13_1_f" name="f"><num value="f">(g)</num><content>an order to resign
+                    immediately
+                    without salary in lieu of
+                    notice;</content></paragraph><paragraph id="ID_1438411643646_046" name="g" temporalId="s13_1_g"><num value="g">(h)</num><content>compulsory retirement with full retirement benefits or reduced retirement
+                    benefits or without retirement benefits;
+                    </content></paragraph><paragraph id="ID_1438411643646_054" temporalId="s13_1_h" name="h"><num value="h">(i)</num><content>dismissal without retirement
+                    benefits.</content></paragraph></subsection><subsection id="ID_1438411643646_061" name="2" temporalId="s13_2"><num value="2">(2)</num><content>If a junior police officer has pleaded guilty to or is found guilty of a
+                disciplinary offence before or by an appropriate tribunal, and the appropriate
+                tribunal sends the Defaulter Report to the Force Discipline Officer under
+                    <ref>regulation 11A(4)(b)</ref> or <ref>(5)(b)</ref> or <ref>11B</ref>, the
+                junior police officer may, subject to regulation 14, be awarded a punishment that
+                the Force Discipline Officer is empowered to award under regulation 30.</content></subsection><subsection id="ID_1438411643646_069" name="3" temporalId="s13_3"><num value="3">(3)</num><content>If
+                a Defaulter Report is sent to the Force Discipline Officer under <ref>regulation
+                    11A(4)(b)</ref> or <ref>(5)(b)</ref> or <ref>11B</ref>, and the Force Discipline
+                Officer is of the opinion that the junior police officer does not deserve to be
+                punished but that the proceedings disclose grounds for requiring the junior police
+                officer to retire in the public interest, the Force Discipline Officer may, without
+                further proceedings, require the junior police officer to retire in the public
+                interest.</content></subsection><subsection id="ID_1627611124317_003" name="4" temporalId="s13_4"><num value="4">(4)</num><leadIn>Despite this regulation, a junior police officer who—</leadIn><paragraph id="ID_1627611124317_004" name="a" temporalId="s13_4_a"><num value="a">(a)</num><content>has pleaded guilty to or is found guilty of a disciplinary offence;
+                    and</content></paragraph><paragraph id="ID_1627611124317_005" name="b" temporalId="s13_4_b"><num value="b">(b)</num><content>is to be dismissed from the police force by the Commissioner, the Force
+                    Discipline Officer or a senior police officer,</content></paragraph><continued>must, if he or she is a station sergeant or sergeant, be reduced to the ranks
+                before the dismissal.</continued></subsection><subsection id="ID_1627611124317_006" name="5" temporalId="s13_5"><num value="5">(5)</num><leadIn>Despite this regulation, a junior police officer who—</leadIn><paragraph id="ID_1627611124317_007" name="a" temporalId="s13_5_a"><num value="a">(a)</num><content>has pleaded guilty to or is found guilty of a disciplinary offence;
+                    and</content></paragraph><paragraph id="ID_1627611124317_008" name="b" temporalId="s13_5_b"><num value="b">(b)</num><content>has been ordered by the Commissioner, the Force Discipline Officer or a
+                    senior police officer to resign immediately from the police force,</content></paragraph><continued>must, if he or she fails to comply with the order, be dismissed without
+                retirement benefits.</continued></subsection><sourceNote>(<ref href="hk/2012/ln59">L.N. 59 of 2012</ref>)</sourceNote></section><section id="ID_1438402865920_002" name="s14" reason="inEffect" role="regulation" startPeriod="2021-10-15" status="operational" temporalId="s14"><num value="14">14.</num><heading>Confirmation
+            or variation of finding or award and making of award by Force Discipline
+            Officer</heading><subsection id="ID_1438411643740_004" name="1" temporalId="s14_1"><num value="1">(1)</num><leadIn>Within
+                14 days from the receipt of a Default Report by the Force Discipline Officer under
+                    <ref>regulation 11A(3)</ref>, <ref>(4)(b)</ref> or <ref>(5)(b)</ref>,
+                    <ref>11B</ref> or <ref>12(4)(b)</ref>, the Force Discipline Officer
+                must—</leadIn><paragraph id="ID_1438411643740_012" name="a" temporalId="s14_1_a"><num value="a">(a)</num><leadIn>in respect of the finding—</leadIn><subparagraph id="ID_1438411643740_020" name="i" temporalId="s14_1_a_i"><num value="i">(i)</num><content>confirm the
+                        finding;</content></subparagraph><subparagraph id="ID_1438411643740_028" name="ii" temporalId="s14_1_a_ii"><num value="ii">(ii)</num><content>vary the finding and substitute any finding which the appropriate
+                        tribunal could have made on the evidence adduced; or</content></subparagraph><subparagraph id="ID_1438411643740_036" name="iii" temporalId="s14_1_a_iii"><num value="iii">(iii)</num><content>subject to paragraph
+                            <ref>(2)(c)</ref>,
+                        set aside the finding and order a rehearing of the case on the same or other
+                        charges by another appropriate tribunal;</content></subparagraph></paragraph><paragraph id="ID_1438411643740_043" name="b" temporalId="s14_1_b"><num value="b">(b)</num><leadIn>in respect of any award,
+                    if
+                    the Force Discipline Officer confirms or varies the
+                    finding—</leadIn><subparagraph id="ID_1438411643740_051" name="i" temporalId="s14_1_b_i"><num value="i">(i)</num><content>if no punishment was awarded, award
+                        a
+                        punishment that
+                        the
+                        Force Discipline Officer is empowered to award;</content></subparagraph><subparagraph id="ID_1438411643755_007" name="ii" temporalId="s14_1_b_ii"><num value="ii">(ii)</num><content>confirm the
+                        award;</content></subparagraph><subparagraph id="ID_1438411643755_015" name="iii" temporalId="s14_1_b_iii"><num value="iii">(iii)</num><content>remit the award; or</content></subparagraph><subparagraph id="ID_1438411643755_023" name="iv" temporalId="s14_1_b_iv"><num value="iv">(iv)</num><content>subject to paragraph
+                            <ref>(2)(a)</ref>
+                        and (b), substitute any other award that
+                        the
+                        Force Discipline Officer is empowered to
+                        award.</content></subparagraph></paragraph></subsection><subsection temporalId="s14_2" id="ID_1627611759575_001" name="2"><num value="2">(2)</num><leadIn>The Force Discipline Officer must not—</leadIn><paragraph name="a" temporalId="s14_2_a" id="ID_1627611759575_002"><num value="a">(a)</num><content>substitute for any punishment awarded any greater punishment unless the
+                    defaulter is given an opportunity of making representations to the Force
+                    Discipline Officer as to why the original punishment should not be
+                    increased;</content></paragraph><paragraph name="b" temporalId="s14_2_b" id="ID_1627611759575_003"><num value="b">(b)</num><content>substitute for a finding of not guilty a finding of guilty; or</content></paragraph><paragraph name="c" temporalId="s14_2_c" id="ID_1627611759575_004"><num value="c">(c)</num><content>order a rehearing if the finding, as confirmed or varied, is one of not
+                    guilty.</content></paragraph></subsection><subsection id="ID_1438411643755_037" name="3" temporalId="s14_3"><num value="3">(3)</num><content>The
+                Force Discipline Officer acting under this regulation must announce before the
+                defaulter or communicate in writing to the defaulter the action taken by the Force
+                Discipline Officer.</content></subsection><sourceNote>(<ref href="hk/2012/ln59">L.N. 59 of 2012</ref>)</sourceNote></section><section id="ID_1438402865935_002" name="s15" reason="inEffect" role="regulation" startPeriod="2021-10-15" status="operational" temporalId="s15"><num value="15">15.</num><heading>Appeals by junior police officers</heading><subsection id="ID_1438411643833_004" name="1" temporalId="s15_1"><num value="1">(1)</num><content>A
+                junior police officer may within 14 days from the announcement to him or her by, or
+                the receipt of a communication from, the Force Discipline Officer of a finding,
+                decision or award, appeal in writing to the Commissioner by petition, which may
+                contain any representations relevant to the appeal.</content></subsection><subsection id="ID_1438411643849_005" name="2" temporalId="s15_2"><num value="2">(2)</num><leadIn>On
+                an appeal under this regulation, the Commissioner may—</leadIn><paragraph id="ID_1438411643849_013" name="a" temporalId="s15_2_a"><num value="a">(a)</num><content>vary
+                    any finding and substitute any finding which the Commissioner could have made on
+                    the evidence adduced;</content></paragraph><paragraph id="ID_1438411643849_021" name="b" temporalId="s15_2_b"><num value="b">(b)</num><content>remit
+                    any award;</content></paragraph><paragraph id="ID_1438411643849_029" name="c" temporalId="s15_2_c"><num value="c">(c)</num><content>order
+                    a rehearing of the case on the same or other charges by another appropriate
+                    tribunal;</content></paragraph><paragraph id="ID_1627614561785_001" name="d" temporalId="s15_2_d"><num value="d">(d)</num><content>substitute any other award that the Commissioner is empowered to award;
+                    or</content></paragraph><paragraph id="ID_1627614561785_002" name="e" temporalId="s15_2_e"><num value="e">(e)</num><content>if the Commissioner is of the opinion that the junior police officer does
+                    not deserve to be punished but that the proceedings disclose grounds for
+                    requiring the junior police officer to retire in the public interest, without
+                    further proceedings, require the junior police officer to retire in the public
+                    interest.</content></paragraph></subsection><subsection id="ID_1438411643849_036" name="3" temporalId="s15_3"><num value="3">(3)</num><leadIn>On
+                an appeal under this regulation, the Commissioner—</leadIn><paragraph id="ID_1438411643849_044" name="a" temporalId="s15_3_a"><num value="a">(a)</num><content>may
+                    permit the defaulter to appear before the Commissioner in person to support the
+                    appeal;</content></paragraph><paragraph id="ID_1438411643849_052" name="b" temporalId="s15_3_b"><num value="b">(b)</num><content>may
+                    hear any additional evidence that the Commissioner considers relevant;
+                    and</content></paragraph><paragraph id="ID_1438411643849_060" name="c" temporalId="s15_3_c"><num value="c">(c)</num><content>must
+                    announce before the defaulter or communicate in writing to the defaulter the
+                    outcome of the appeal or the action taken under this
+                    regulation.</content></paragraph></subsection><subsection id="ID_1438411643849_067" name="4" temporalId="s15_4"><num value="4">(4)</num><content>If
+                an appeal is lodged under this regulation, any punishment awarded (other than a
+                caution, reprimand or severe reprimand) must be suspended pending the determination
+                of the appeal.</content></subsection><sourceNote>(<ref href="hk/2012/ln59">L.N. 59 of 2012</ref>)</sourceNote></section></part><part id="ID_1438402865951_001" name="P3" reason="inEffect" startPeriod="2018-09-20" status="operational" temporalId="P3"><num value="3">Part
+            III</num><heading>Inspectors:
+            Investigation into Disciplinary Offences, Punishment and
+            Appeals</heading><section id="ID_1438402865951_003" name="s16" reason="inEffect" role="regulation" startPeriod="2021-10-15" status="operational" temporalId="s16"><num value="16">16.</num><heading>Appropriate tribunal</heading><subsection id="ID_1438411643896_004" name="1" temporalId="s16_1"><num value="1">(1)</num><leadIn>For the purposes of this
+                Part—</leadIn><def name="AppropriateTribunal"><term>appropriate tribunal</term> (<term xml:lang="zh-Hant-HK">適當審裁體</term>) means—<paragraph id="ID_1438411643896_012" name="a" temporalId="s16_1_a"><num value="a">(a)</num><content>a single police officer not below the rank of superintendent appointed
+                        by the Commissioner or by a senior police officer;</content></paragraph><paragraph id="ID_1438411643896_020" name="b" temporalId="s16_1_b"><num value="b">(b)</num><content>a board appointed by the Commissioner; or</content></paragraph><paragraph id="ID_1438411643896_028" name="c" temporalId="s16_1_c"><num value="c">(c)</num><content>a board appointed by the Secretary for the Civil Service.</content></paragraph></def><def></def></subsection><subsection id="ID_1438411643896_043" name="2" temporalId="s16_2"><num value="2">(2)</num><content>If
+                the appropriate tribunal is to be a board appointed by the Commissioner, the
+                Commissioner must appoint a board consisting of 2 police officers of or above the
+                rank of superintendent, and name one of them as the President of the
+                board.</content></subsection><subsection id="ID_1438411643896_051" name="3" temporalId="s16_3"><num value="3">(3)</num><content>A
+                senior police officer may apply to the Commissioner to appoint a board to be the
+                appropriate tribunal, and on the application the Commissioner may, subject to
+                paragraphs (4) and (5), either appoint a board under paragraph (2) or refer the case
+                back to that senior police officer to be heard by a single police officer not below
+                the rank of superintendent appointed by the Commissioner or by a senior police
+                officer.</content></subsection><subsection id="ID_1438411643911_005" name="4" temporalId="s16_4"><num value="4">(4)</num><content>On
+                an application under paragraph (3), if the Commissioner is of the opinion that there
+                are exceptional circumstances in the case, the Commissioner must request the
+                Secretary for the Civil Service to appoint a board to be the appropriate
+                tribunal.</content></subsection><subsection id="ID_1438411643911_029" name="5" temporalId="s16_5"><num value="5">(5)</num><content>On
+                an application under paragraph (3), if the Commissioner is of the opinion that there
+                are no exceptional circumstances in the case, but the defaulter so requests, the
+                Commissioner must refer the request to the Secretary for the Civil Service to
+                appoint a board to be the appropriate tribunal.</content></subsection><subsection id="ID_1438411643927_005" name="6" temporalId="s16_6"><num value="6">(6)</num><content>In
+                exercising the discretion whether or not to appoint a board to be the appropriate
+                tribunal, the Secretary for the Civil Service must take into account any
+                representations made in writing by the Commissioner and the
+                defaulter.</content></subsection><subsection id="ID_1627615157096_001" name="7" temporalId="s16_7"><num value="7">(7)</num><content>If the appropriate tribunal is to be a board appointed by the Secretary for the
+                Civil Service, the Secretary for the Civil Service must appoint a board consisting
+                of 3 public officers, and name one of them as the President of the board.</content></subsection><subsection id="ID_1627615157096_002" name="8" temporalId="s16_8"><num value="8">(8)</num><content>No person who originates a complaint leading to a charge or assists in the
+                investigation of the complaint may act as the appropriate tribunal or become a
+                member of the appropriate tribunal hearing the charge.</content></subsection><sourceNote>(<ref href="hk/2012/ln59">L.N. 59 of 2012</ref>)</sourceNote></section><section id="ID_1438402865982_002" name="s17" reason="inEffect" role="regulation" startPeriod="2021-10-15" status="operational" temporalId="s17"><num value="17">17.</num><heading>Preliminary procedure</heading><subsection id="ID_1627615609005_001" name="1" temporalId="s17_1"><num value="1">(1)</num><content>If it appears to a senior police officer that a disciplinary charge should be
+                laid against an inspector, the appropriate charge intended to be laid against the
+                inspector must be entered in the Defaulter Report.</content></subsection><subsection id="ID_1627615609005_002" name="2" temporalId="s17_2"><num value="2">(2)</num><leadIn>If a disciplinary charge is laid against an inspector, the senior police officer
+                may—</leadIn><paragraph id="ID_1627615609005_003" name="a" temporalId="s17_2_a"><num value="a">(a)</num><content>direct that the charge be heard by an appropriate tribunal consisting of a
+                    single police officer; or</content></paragraph><paragraph id="ID_1627615609005_004" name="b" temporalId="s17_2_b"><num value="b">(b)</num><content>apply to the Commissioner to appoint a board to be the appropriate
+                    tribunal.</content></paragraph></subsection><subsection id="ID_1438411643958_012" name="3" temporalId="s17_3"><num value="3">(3)</num><leadIn>The
+                inspector must be served with a notice in writing
+                specifying—</leadIn><paragraph id="ID_1438411643958_020" name="a" temporalId="s17_3_a"><num value="a">(a)</num><content>the
+                    charge;</content></paragraph><paragraph id="ID_1438411643958_028" name="b" temporalId="s17_3_b"><num value="b">(b)</num><content>(if
+                    the charge is to be heard before an appropriate tribunal consisting of a single
+                    police officer) the name of the officer constituting the appropriate
+                    tribunal;</content></paragraph><paragraph id="ID_1627615609005_005" name="c" temporalId="s17_3_c"><num value="c">(c)</num><content>(if the charge is to be heard before an appropriate tribunal consisting of
+                    a board) the names of the persons constituting the board;</content></paragraph><paragraph id="ID_1627615609005_006" name="d" temporalId="s17_3_d"><num value="d">(d)</num><content>the place of the hearing; and</content></paragraph><paragraph id="ID_1627615609005_007" name="e" temporalId="s17_3_e"><num value="e">(e)</num><content>the time and date of the hearing, which must not be earlier than 7 clear
+                    days after service of the
+                    notice.</content></paragraph></subsection><sourceNote>(<ref href="hk/2012/ln59">L.N. 59 of 2012</ref>)</sourceNote></section><section id="ID_1438402865998_002" name="s18" reason="inEffect" role="regulation" startPeriod="2021-10-15" status="operational" temporalId="s18"><num value="18">18.</num><heading>Objection to tribunal</heading><subsection id="ID_1438411644005_051" name="1" temporalId="s18_1"><num value="1">(1)</num><leadIn>If
+                a defaulter objects to an appropriate tribunal on the grounds of partiality or bias,
+                the defaulter may, within 7 days from the date of service of a notice under
+                    <ref>regulation 17(3)</ref>, apply to the
+                Commissioner—</leadIn><paragraph id="ID_1438411644021_005" name="a" temporalId="s18_1_a"><num value="a">(a)</num><content>to
+                    direct that the case be heard by a board instead of by a single police
+                    officer;</content></paragraph><paragraph id="ID_1438411644021_013" name="b" temporalId="s18_1_b"><num value="b">(b)</num><content>to
+                    change any single police officer appointed by the Commissioner or by a senior
+                    police officer or to change a member of the board appointed by the Commissioner;
+                    or</content></paragraph><paragraph id="ID_1438411644021_021" name="c" temporalId="s18_1_c"><num value="c">(c)</num><content>to
+                    request the Secretary for the Civil Service to appoint a board to be the
+                    appropriate tribunal.</content></paragraph></subsection><subsection id="ID_1627616964696_001" name="2" temporalId="s18_2"><num value="2">(2)</num><leadIn>The Commissioner may, on receiving an application made under <ref>paragraph
+                    (1)(a)</ref> or (b)—</leadIn><paragraph id="ID_1627616964696_002" name="a" temporalId="s18_2_a"><num value="a">(a)</num><content>reject the application;</content></paragraph><paragraph id="ID_1627616964696_003" name="b" temporalId="s18_2_b"><num value="b">(b)</num><content>direct that the case be heard by a board appointed by the Commissioner
+                    instead of by a single police officer; or</content></paragraph><paragraph id="ID_1627616964696_004" name="c" temporalId="s18_2_c"><num value="c">(c)</num><content>appoint another appropriate tribunal.</content></paragraph></subsection><subsection id="ID_1438411644021_036" name="3" temporalId="s18_3"><num value="3">(3)</num><content>If the defaulter has made an application under <ref>paragraph (1)(c)</ref>, the
+                Commissioner must refer the request to the Secretary for the Civil Service in
+                accordance with <ref>regulation 16(5)</ref> as if that regulation applied.</content></subsection><subsection id="ID_1438411644021_059" name="4" temporalId="s18_4"><num value="4">(4)</num><content>An
+                application under paragraph (1) must be made in writing, and the hearing must not be
+                commenced before the determination of the application.</content></subsection><sourceNote>(<ref href="hk/2012/ln59">L.N. 59 of 2012</ref>)</sourceNote></section><section id="ID_1627617002636_001" name="s18A" temporalId="s18A" startPeriod="2021-10-15" status="operational" reason="inEffect"><num value="18A">18A.</num><heading>Access to
+            records and documents</heading><content>A defaulter must be given copies of or reasonable access to any police records and
+            other documents which the defaulter requires, and are necessary to enable the defaulter
+            to prepare the defence, but not including those records for which the Government claims
+            privilege.</content><sourceNote>(<ref href="hk/2012/ln59">L.N. 59 of 2012</ref>)</sourceNote></section><section id="ID_1627617095500_001" name="s18B" temporalId="s18B" startPeriod="2021-10-15" status="operational" reason="inEffect"><num value="18B">18B.</num><heading>Appointment of
+            prosecutor</heading><content>The Commissioner must appoint a prosecutor for the purposes of proceedings against
+            a defaulter under this Part.</content><sourceNote>(<ref href="hk/2012/ln59">L.N. 59 of 2012</ref>)</sourceNote></section><section id="ID_1627617203194_001" name="s18C" temporalId="s18C" startPeriod="2021-10-15" status="operational" reason="inEffect"><num value="18C">18C.</num><heading>Representation
+            of defaulter at hearing</heading><subsection id="ID_1627875291058_001" name="1" temporalId="s18C_1"><num value="1">(1)</num><leadIn>A defaulter may be represented at a hearing by—</leadIn><paragraph id="ID_1627875291059_002" name="a" temporalId="s18C_1_a"><num value="a">(a)</num><content>an inspector of the defaulter’s choice;</content></paragraph><paragraph id="ID_1627875291060_003" name="b" temporalId="s18C_1_b"><num value="b">(b)</num><content>any other police officer of the defaulter’s choice who is a barrister or
+                    solicitor;</content></paragraph><paragraph id="ID_1627875291060_004" name="c" temporalId="s18C_1_c"><num value="c">(c)</num><content>(subject to the Commissioner’s approval) a barrister or solicitor who is
+                    not a police officer; or</content></paragraph><paragraph id="ID_1627875291061_005" name="d" temporalId="s18C_1_d"><num value="d">(d)</num><content>any other person of the defaulter’s choice who is approved by the
+                    Commissioner for the purpose,</content></paragraph><continued>and the person specified in <ref>subparagraph (a)</ref>, (b), (c) or (d) may
+                conduct the defence on the defaulter’s behalf.</continued></subsection><subsection id="ID_1627875291062_006" name="2" temporalId="s18C_2"><num value="2">(2)</num><content>If the Commissioner gives approval under <ref>paragraph (1)(c)</ref>, the
+                defaulter may be represented at the hearing by a barrister or solicitor of the
+                defaulter’s choice.</content></subsection><subsection id="ID_1627875291063_007" name="3" temporalId="s18C_3"><num value="3">(3)</num><content>Despite paragraph (1), a defaulter must attend a hearing in person.</content></subsection><subsection id="ID_1627875291064_008" name="4" temporalId="s18C_4"><num value="4">(4)</num><content>If a defaulter is represented at a hearing by a barrister or solicitor, the
+                appropriate tribunal and the prosecutor may separately be assisted by a barrister or
+                solicitor at the hearing.</content></subsection><sourceNote>(<ref href="hk/2012/ln59">L.N. 59 of 2012</ref>)</sourceNote></section><section id="ID_1438402866013_001" name="s19" reason="repealed" role="regulation" startPeriod="2021-10-15" status="repealed" temporalId="s19"><num value="19">19.</num><sourceNote>(Repealed <ref href="hk/2012/ln59">L.N. 59 of 2012</ref>)</sourceNote></section><section id="ID_1438402866013_003" name="s20" reason="inEffect" role="regulation" startPeriod="2021-10-15" status="operational" temporalId="s20"><num value="20">20.</num><heading>Plea of
+            defaulter</heading><subsection id="ID_1627618140483_001" name="1" temporalId="s20_1"><num value="1">(1)</num><content>At the hearing, the appropriate tribunal must read to the defaulter any charge
+                against him or her.</content></subsection><subsection id="ID_1627618140483_002" name="2" temporalId="s20_2"><num value="2">(2)</num><content>The defaulter must plead in person guilty or not guilty to the charge, or to
+                each charge separately if there is more than one, unequivocally.</content></subsection><subsection id="ID_1627618140483_003" name="3" temporalId="s20_3"><num value="3">(3)</num><content>The appropriate tribunal must enter the plea or pleas on the official record of
+                proceedings.</content></subsection><sourceNote>(<ref href="hk/2012/ln59">L.N. 59 of 2012</ref>)</sourceNote></section><section id="ID_1438402866029_002" name="s21" reason="inEffect" role="regulation" startPeriod="2021-10-15" status="operational" temporalId="s21"><num value="21">21.</num><heading>Procedure of
+            hearing</heading><subsection id="ID_1438411644114_004" name="1" temporalId="s21_1"><num value="1">(1)</num><content>If
+                a defaulter pleads not guilty at a hearing and evidence for the prosecution is
+                called, witnesses are to be called in support of the charge and, at the conclusion
+                of the evidence of each of those witnesses, the defaulter or the defence
+                representative may cross-examine that witness, who may then be
+                re-examined.</content></subsection><subsection id="ID_1627873406081_001" name="3" temporalId="s21_3"><num value="3">(2)</num><content>When the examination of all witnesses in support of the charge has been
+                completed, the defaulter or the defence representative may address the appropriate
+                tribunal for the purpose only of showing that no prima facie case has been
+                established.</content></subsection><subsection id="ID_1627873406082_002" name="3" temporalId="s21_3"><num value="3">(3)</num><leadIn>If
+                it appears to the appropriate tribunal that there is a prima facie case, it must ask
+                if the defaulter wishes to—</leadIn><paragraph id="ID_1438411644114_020" name="a" temporalId="s21_3_a"><num value="a">(a)</num><content>give evidence; and</content></paragraph><paragraph id="ID_1438411644114_028" name="b" temporalId="s21_3_b"><num value="b">(b)</num><content>call witnesses.</content></paragraph></subsection><subsection id="ID_1438411644130_005" name="4" temporalId="s21_4"><num value="4">(4)</num><content>If
+                the defaulter gives evidence, the defaulter may be cross-examined and re-examined,
+                and any witness called by the defaulter may be examined, cross-examined and
+                re-examined.</content></subsection><subsection id="ID_1438411644130_013" name="5" temporalId="s21_5"><num value="5">(5)</num><content>At
+                the close of the defence case, witnesses may be called with the consent of the
+                appropriate tribunal to give evidence in rebuttal, and may be examined,
+                cross-examined and re-examined.</content></subsection><subsection id="ID_1627873406082_003" name="7" temporalId="s21_7"><num value="7">(6)</num><content>At the conclusion of all the evidence, the prosecutor or any barrister or
+                solicitor assisting the prosecutor may address the appropriate tribunal and then the
+                defaulter or the defence representative may address the appropriate tribunal in
+                reply.</content></subsection><subsection id="ID_1627873406083_004" name="6" temporalId="s21_6"><num value="6">(7)</num><leadIn>The
+                appropriate tribunal may—</leadIn><paragraph id="ID_1438411644130_029" name="a" temporalId="s21_6_a"><num value="a">(a)</num><content>call
+                    witnesses; and</content></paragraph><paragraph id="ID_1438411644130_037" name="b" temporalId="s21_6_b"><num value="b">(b)</num><content>ask
+                    any witness any question,</content></paragraph><continued>that
+                it considers may assist it in determining the case.</continued></subsection><subsection id="ID_1438411644145_005" name="8" temporalId="s21_8"><num value="8">(8)</num><content>Evidence
+                must not be taken on oath or affirmation.</content></subsection><subsection id="ID_1438411644145_013" name="9" temporalId="s21_9"><num value="9">(9)</num><content>The
+                defaulter, the defence representative, the prosecutor and any barrister or solicitor
+                assisting the prosecutor may inspect any exhibit produced to the appropriate
+                tribunal by a witness.</content></subsection><subsection id="ID_1627873406083_005" name="10" temporalId="s21_10"><num value="10">(10)</num><content>The appropriate tribunal may adjourn the hearing from time to time, and if an
+                application is made for an adjournment, the applicant must show to the satisfaction
+                of the appropriate tribunal that the adjournment would serve the ends of
+                justice.</content></subsection><subsection id="ID_1627873406084_006" name="11" temporalId="s21_11"><num value="11">(11)</num><content>An adjournment granted under paragraph (10) must be for a reasonable period
+                only.</content></subsection><sourceNote>(<ref href="hk/2012/ln59">L.N. 59 of 2012</ref>)</sourceNote></section><section id="ID_1438402866044_001" name="s22" reason="inEffect" role="regulation" startPeriod="2021-10-15" status="operational" temporalId="s22"><num value="22">22.</num><heading>Adding or amending charges</heading><subsection id="ID_1627626739103_001" name="1" temporalId="s22_1"><num value="1">(1)</num><content>The prosecutor may amend a charge or add a further charge at any time before
+                the appropriate tribunal communicates a finding to the defaulter.</content></subsection><subsection id="ID_1627626739103_002" name="2" temporalId="s22_2"><num value="2">(2)</num><content>The appropriate tribunal must read and explain any amended or new charge to the
+                defaulter.</content></subsection><subsection id="ID_1627626739103_003" name="3" temporalId="s22_3"><num value="3">(3)</num><leadIn>The defaulter must plead in person to the amended or new charge, or to each
+                amended or new charge separately if there is more than one, and he or she—</leadIn><paragraph id="ID_1627626739103_004" name="a" temporalId="s22_3_a"><num value="a">(a)</num><content>is entitled to a reasonable adjournment to prepare a further
+                    defence;</content></paragraph><paragraph id="ID_1627626739103_005" name="b" temporalId="s22_3_b"><num value="b">(b)</num><content>may recall any witness; and</content></paragraph><paragraph id="ID_1627626739103_006" name="c" temporalId="s22_3_c"><num value="c">(c)</num><content>may call any further witness as he or she thinks fit.</content></paragraph></subsection><subsection id="ID_1627626739103_007" name="4" temporalId="s22_4"><num value="4">(4)</num><content>A witness giving evidence under this regulation may be cross-examined and
+                re-examined.</content></subsection><sourceNote>(<ref href="hk/2012/ln59">L.N. 59 of 2012</ref>)</sourceNote></section><section id="ID_1627626765511_001" name="s22A" temporalId="s22A" startPeriod="2021-10-15" status="operational" reason="inEffect"><num value="22A">22A.</num><heading>Record of
+            proceedings</heading><subsection id="ID_1627626851141_001" name="1" temporalId="s22A_1"><num value="1">(1)</num><content>The appropriate tribunal must make, or cause to be made, a written record of
+                the proceedings of a hearing, and the record is to form part of the Defaulter
+                Report.</content></subsection><subsection id="ID_1627626851141_002" name="2" temporalId="s22A_2"><num value="2">(2)</num><content>The appropriate tribunal may make, or cause to be made, an audio recording or
+                an audio and visual recording of the proceedings, or any part of the proceedings, of
+                a hearing.</content></subsection><sourceNote>(<ref href="hk/2012/ln59">L.N. 59 of 2012</ref>)</sourceNote></section><section id="ID_1438402866044_003" name="s23" reason="inEffect" role="regulation" startPeriod="2021-10-15" status="operational" temporalId="s23"><num value="23">23.</num><heading>Finding
+            by appropriate tribunal</heading><subsection id="ID_1438411644192_062" name="1" temporalId="s23_1"><num value="1">(1)</num><content>The
+                appropriate tribunal may at the conclusion of the hearing announce its finding on a
+                charge or reserve its finding, and if the finding is reserved, the appropriate
+                tribunal must call the defaulter to appear in person before it when it announces its
+                finding.</content></subsection><subsection id="ID_1438411644208_005" name="2" temporalId="s23_2"><num value="2">(2)</num><content>The
+                appropriate tribunal must endorse the finding on the Defaulter
+                Report.</content></subsection><subsection id="ID_1438411644208_021" name="3" temporalId="s23_3"><num value="3">(3)</num><content>If
+                the defaulter has pleaded guilty or is found guilty, the appropriate tribunal must
+                ask if the defaulter wishes to make or produce to the appropriate tribunal a
+                statement which contains any relevant matters that the defaulter wishes to be taken
+                into consideration by the appropriate tribunal.</content></subsection><sourceNote>(<ref href="hk/2012/ln59">L.N. 59 of 2012</ref>)</sourceNote></section><section id="ID_1627627002947_001" name="s23A" temporalId="s23A" startPeriod="2021-10-15" status="operational" reason="inEffect"><num value="23A">23A.</num><heading>Award by single
+            member tribunal</heading><subsection id="ID_1627873444918_001" name="1" temporalId="s23A_1"><num value="1">(1)</num><content>If the appropriate tribunal consists of a single police officer (<b><i>single
+                        member tribunal</i></b>) and the defaulter has pleaded guilty or is found
+                guilty, the single member tribunal may then announce its award or reserve its award,
+                and if the award is reserved, the single member tribunal must call the defaulter to
+                appear in person before it when it announces its award.</content></subsection><subsection id="ID_1627873444919_002" name="2" temporalId="s23A_2"><num value="2">(2)</num><content>The single member tribunal must endorse the award on the Defaulter
+                Report.</content></subsection><subsection id="ID_1627873444919_003" name="3" temporalId="s23A_3"><num value="3">(3)</num><leadIn>If the defaulter has pleaded guilty or is found guilty and the single member
+                tribunal considers that no punishment should be awarded, it must—</leadIn><paragraph id="ID_1627873444920_004" name="a" temporalId="s23A_3_a"><num value="a">(a)</num><content>endorse the Defaulter Report to that effect; and</content></paragraph><paragraph id="ID_1627873444920_005" name="b" temporalId="s23A_3_b"><num value="b">(b)</num><content>inform the defaulter of the endorsement.</content></paragraph></subsection><subsection id="ID_1627873444921_006" name="4" temporalId="s23A_4"><num value="4">(4)</num><leadIn>If the defaulter has pleaded guilty or is found guilty and the single member
+                tribunal considers that the punishment it can award is insufficient, it must not
+                make an award, and it must—</leadIn><paragraph id="ID_1627873444921_007" name="a" temporalId="s23A_4_a"><num value="a">(a)</num><content>endorse the Defaulter Report to that effect;</content></paragraph><paragraph id="ID_1627873444921_008" name="b" temporalId="s23A_4_b"><num value="b">(b)</num><content>send the Defaulter Report to the Commissioner; and</content></paragraph><paragraph id="ID_1627873444922_009" name="c" temporalId="s23A_4_c"><num value="c">(c)</num><content>inform the defaulter of the acts mentioned in subparagraphs (a) and
+                    (b).</content></paragraph></subsection><sourceNote>(<ref href="hk/2012/ln59">L.N. 59 of 2012</ref>)</sourceNote></section><section id="ID_1627627240305_001" name="s23B" temporalId="s23B" startPeriod="2021-10-15" status="operational" reason="inEffect"><num value="23B">23B.</num><heading>Board tribunal
+            to send Defaulter Report to Commissioner</heading><content>If the appropriate tribunal consists of a board appointed by the Commissioner or by
+            the Secretary for the Civil Service and the defaulter has pleaded guilty or is found
+            guilty, the appropriate tribunal must send the Defaulter Report to the Commissioner and
+            inform the defaulter of that fact.</content><sourceNote>(<ref href="hk/2012/ln59">L.N. 59 of 2012</ref>)</sourceNote></section><section id="ID_1627627403486_001" name="s23C" temporalId="s23C" startPeriod="2021-10-15" status="operational" reason="inEffect"><num value="23C">23C.</num><heading>Award or
+            reference to Chief Executive by Commissioner</heading><subsection id="ID_1627627554745_001" name="1" temporalId="s23C_1"><num value="1">(1)</num><leadIn>If a case is referred to the Commissioner under <ref>regulation 23A(4)(b)</ref>
+                or <ref>23B</ref>, the Commissioner may make an award, and must—</leadIn><paragraph id="ID_1627627554745_002" name="a" temporalId="s23C_1_a"><num value="a">(a)</num><content>endorse the award on the Defaulter Report; and</content></paragraph><paragraph id="ID_1627627554745_003" name="b" temporalId="s23C_1_b"><num value="b">(b)</num><content>announce the award before the defaulter or communicate it in writing to the
+                    defaulter.</content></paragraph></subsection><subsection id="ID_1627627554745_004" name="2" temporalId="s23C_2"><num value="2">(2)</num><leadIn>If the Commissioner considers that the punishment which the Commissioner can
+                award is insufficient, the Commissioner must not make an award, and the Commissioner
+                must—</leadIn><paragraph id="ID_1627627554745_005" name="a" temporalId="s23C_2_a"><num value="a">(a)</num><content>endorse the Defaulter Report to that effect;</content></paragraph><paragraph id="ID_1627627554745_006" name="b" temporalId="s23C_2_b"><num value="b">(b)</num><content>forward the Defaulter Report to the Chief Executive under <ref>regulation
+                        27</ref>; and</content></paragraph><paragraph id="ID_1627627554745_007" name="c" temporalId="s23C_2_c"><num value="c">(c)</num><content>inform the defaulter of the acts mentioned in subparagraphs (a) and
+                    (b).</content></paragraph></subsection><sourceNote>(<ref href="hk/2012/ln59">L.N. 59 of 2012</ref>)</sourceNote></section><section id="ID_1438402866060_002" name="s24" reason="inEffect" role="regulation" startPeriod="2021-10-15" status="operational" temporalId="s24"><num value="24">24.</num><heading>Review</heading><subsection id="ID_1438411644270_049" name="1" temporalId="s24_1"><num value="1">(1)</num><content>The
+                appropriate tribunal hearing a case may, at any time within 7 days after having
+                announced its finding or award to the defaulter, review the case and arrive at a
+                fresh finding or award which, subject to paragraph (3), is to be substituted for the
+                original finding or award.</content></subsection><subsection id="ID_1438411644286_005" name="2" temporalId="s24_2"><num value="2">(2)</num><content>If
+                the appropriate tribunal reviews a case, it must announce before the defaulter or
+                communicate in writing to the defaulter its finding or award after the
+                review.</content></subsection><subsection id="ID_1438411644286_013" name="3" temporalId="s24_3"><num value="3">(3)</num><leadIn>The
+                appropriate tribunal must not—</leadIn><paragraph id="ID_1438411644286_021" name="a" temporalId="s24_3_a"><num value="a">(a)</num><content>substitute
+                    for a finding of not guilty a finding of guilty; or</content></paragraph><paragraph id="ID_1438411644286_029" name="b" temporalId="s24_3_b"><num value="b">(b)</num><content>award
+                    a greater punishment,</content></paragraph><continued>unless the defaulter is given an opportunity of making representations as to
+                why the original finding should not be varied or the original punishment should not
+                be increased.</continued></subsection><subsection id="ID_1627627767274_001" name="4" temporalId="s24_4"><num value="4">(4)</num><content>The appropriate tribunal must endorse its finding or award after the review on
+                the Defaulter Report.</content></subsection><subsection id="ID_1627627767289_002" name="5" temporalId="s24_5"><num value="5">(5)</num><leadIn>A review under this regulation is at the sole discretion of the appropriate
+                tribunal and may be made—</leadIn><paragraph id="ID_1627627767289_003" name="a" temporalId="s24_5_a"><num value="a">(a)</num><content>on the appropriate tribunal’s own motion; or</content></paragraph><paragraph id="ID_1627627767289_004" name="b" temporalId="s24_5_b"><num value="b">(b)</num><content>on application to the appropriate tribunal in writing by either the
+                    prosecutor or the defaulter.</content></paragraph></subsection><sourceNote>(<ref href="hk/2012/ln59">L.N. 59 of 2012</ref>)</sourceNote></section><section id="ID_1627627791791_001" name="s24A" temporalId="s24A" startPeriod="2021-10-15" status="operational" reason="inEffect"><num value="24A">24A.</num><heading>Proceedings in
+            defaulter’s absence</heading><content>Where a defaulter is required to appear in person in any proceedings under this
+            Part and repeatedly fails to appear, the appropriate tribunal may proceed in the
+            defaulter’s absence if satisfied that the defaulter has no reasonable excuse for the
+            failures.</content><sourceNote>(<ref href="hk/2012/ln59">L.N. 59 of 2012</ref>)</sourceNote></section><section id="ID_1438402866076_002" name="s25" reason="inEffect" role="regulation" startPeriod="2021-10-15" status="operational" temporalId="s25"><num value="25">25.</num><heading>Punishment of inspectors</heading><subsection id="ID_1438411644317_004" name="1" temporalId="s25_1"><num value="1">(1)</num><leadIn>An
+                inspector who has pleaded guilty to or is found guilty of a disciplinary offence
+                before or by an appropriate tribunal consisting of a single police officer may,
+                subject to regulation 30, be punished by the appropriate tribunal
+                with—</leadIn><paragraph id="ID_1438411644317_012" name="a" temporalId="s25_1_a"><num value="a">(a)</num><content>caution;
+                    or</content></paragraph><paragraph id="ID_1438411644317_020" name="b" temporalId="s25_1_b"><num value="b">(b)</num><content>reprimand.</content></paragraph></subsection><subsection id="ID_1438411644317_027" name="2" temporalId="s25_2"><num value="2">(2)</num><leadIn>In
+                place of or in addition to a punishment under paragraph (1), an inspector may be
+                punished by the Commissioner with—</leadIn><paragraph id="ID_1438411644317_035" name="a" temporalId="s25_2_a"><num value="a">(a)</num><content>in
+                    the case of a chief inspector, reduction in rank to senior inspector or
+                    inspector;</content></paragraph><paragraph id="ID_1438411644317_043" name="b" temporalId="s25_2_b"><num value="b">(b)</num><content>in
+                    the case of a senior inspector, reversion in rank to
+                    inspector;</content></paragraph><paragraph id="ID_1627628112919_001" name="ba" temporalId="s25_2_ba"><num value="ba">(c)</num><content>severe reprimand;
+                    or</content></paragraph><paragraph id="ID_1627628112935_002" name="d" temporalId="s25_2_d"><num value="d">(d)</num><content>deferment or stoppage of increment; or</content></paragraph><paragraph id="ID_1627628112935_003" name="d" temporalId="s25_2_d"><num value="d">(e)</num><content>forfeiture
+                    of not more than 1 month’s pay except in the case of absence without good cause
+                    when forfeiture of pay extends to the period of absence in addition to any other
+                    punishment awarded.</content></paragraph></subsection><subsection id="ID_1438411644317_074" name="3" temporalId="s25_3"><num value="3">(3)</num><content>If
+                a case is referred to the Commissioner under <ref>regulation 23A(4)(b)</ref> or
+                    <ref>23B</ref>, the Commissioner may award any of the punishments referred to in
+                paragraphs (1) and (2).</content></subsection><sourceNote>(<ref href="hk/2012/ln59">L.N. 59 of 2012</ref>)</sourceNote></section><section id="ID_1438402866091_001" name="s26" reason="inEffect" role="regulation" startPeriod="2021-10-15" status="operational" temporalId="s26"><num value="26">26.</num><heading>Appeals by inspectors</heading><subsection id="ID_1438411644348_034" name="1" temporalId="s26_1"><num value="1">(1)</num><leadIn>An
+                inspector may within 14 days from the announcement to him or her by, or the receipt
+                of a communication from, the Commissioner or an appropriate tribunal of a finding or
+                award—</leadIn><paragraph id="ID_1438411644348_042" name="a" temporalId="s26_1_a"><num value="a">(a)</num><content>(if
+                    the appropriate tribunal was a board appointed by the Commissioner or by the
+                    Secretary for the Civil Service) appeal in writing to the Chief Executive by
+                    petition, which may contain any representations relevant to the appeal;
+                    or</content></paragraph><paragraph id="ID_1438411644364_006" name="b" temporalId="s26_1_b"><num value="b">(b)</num><content>(in
+                    any other case) appeal in writing to the Commissioner by petition, which may
+                    contain any representations relevant to the appeal.</content></paragraph></subsection><subsection id="ID_1438411644364_013" name="2" temporalId="s26_2"><num value="2">(2)</num><leadIn>An
+                inspector who has appealed to the Commissioner under <ref>paragraph (1)(b)</ref>
+                and—</leadIn><paragraph id="ID_1438411644364_021" name="a" temporalId="s26_2_a"><num value="a">(a)</num><content>has
+                    been awarded a punishment by the Commissioner under <ref>regulation 25(2)</ref>
+                    or (3); or</content></paragraph><paragraph id="ID_1438411644364_029" name="b" temporalId="s26_2_b"><num value="b">(b)</num><content>is
+                    aggrieved by any other decision made by the
+                    Commissioner,</content></paragraph><continued>may,
+                within 14 days from the receipt of communication of the award or decision, appeal in
+                writing to the Chief Executive by petition, which may contain any representations
+                relevant to the appeal.</continued></subsection><subsection id="ID_1438411644364_042" name="3" temporalId="s26_3"><num value="3">(3)</num><leadIn>On
+                an appeal under paragraph (1) or (2), the Chief Executive
+                may—</leadIn><paragraph id="ID_1438411644364_050" name="a" temporalId="s26_3_a"><num value="a">(a)</num><leadIn>set aside a finding if in all the circumstances of the case the Chief
+                    Executive considers justice so requires and either—</leadIn><subparagraph id="ID_1627873540237_001" name="1" temporalId="s26_3_a_1"><num value="1">(i)</num><content>award a punishment warranted by any finding which has not been set
+                        aside; or</content></subparagraph><subparagraph id="ID_1627873540237_002" name="2" temporalId="s26_3_a_2"><num value="2">(ii)</num><content>award no punishment if that finding does not exist;</content></subparagraph></paragraph><paragraph id="ID_1438411644364_058" name="b" temporalId="s26_3_b"><num value="b">(b)</num><content>confirm
+                    or remit an award;</content></paragraph><paragraph name="c" temporalId="s26_3_c" id="ID_1627873540238_003"><num value="c">(c)</num><content>substitute any other award that the Commissioner could have awarded under
+                        <ref>regulation 25</ref>;</content></paragraph><paragraph id="ID_1627873540239_004" name="c" temporalId="s26_3_c"><num value="c">(d)</num><content>confirm, vary or revoke any other decision made by the Commissioner;
+                    or</content></paragraph><paragraph id="ID_1627873540240_005" name="e" temporalId="s26_3_e"><num value="e">(e)</num><content>order a rehearing of the case on the same or other charges by another
+                    appropriate tribunal.</content></paragraph></subsection><subsection id="ID_1438411644379_013" name="4" temporalId="s26_4"><num value="4">(4)</num><content>The
+                Chief Executive’s decision on an appeal under paragraph (1) or (2) or on a reference
+                under <ref>regulation 27</ref> must be communicated to the Commissioner and to the
+                inspector by the Chief Executive’s Office.</content></subsection><subsection id="ID_1438411644379_021" name="5" temporalId="s26_5"><num value="5">(5)</num><leadIn>The
+                Commissioner may, on an appeal under paragraph (1) or of the Commissioner’s own
+                motion—</leadIn><paragraph id="ID_1438411644379_029" name="a" temporalId="s26_5_a"><num value="a">(a)</num><content>confirm
+                    a finding of guilty or substitute a finding of not
+                    guilty;</content></paragraph><paragraph id="ID_1438411644379_037" name="b" temporalId="s26_5_b"><num value="b">(b)</num><content>confirm
+                    or remit an award;</content></paragraph><paragraph id="ID_1438411644379_053" name="c" temporalId="s26_5_c"><num value="c">(c)</num><content>substitute
+                    any other award that the Commissioner could have awarded under <ref>regulation
+                        25</ref>, except that no greater punishment may be awarded unless the
+                    inspector is given an opportunity of making representations as to why the
+                    original punishment should not be increased;</content></paragraph><paragraph id="ID_1438411644379_061" name="d" temporalId="s26_5_d"><num value="d">(d)</num><content>forward
+                    the Defaulter Report to the Chief Executive under <ref>regulation 27</ref>;
+                    or</content></paragraph><paragraph id="ID_1627873540253_006" name="e" temporalId="s26_5_e"><num value="e">(e)</num><content>order a rehearing of the case on the same or other charges by another
+                    appropriate tribunal.</content></paragraph></subsection><subsection id="ID_1438411644395_005" name="6" temporalId="s26_6"><num value="6">(6)</num><content>If
+                an appeal is lodged under this regulation, any punishment awarded (other than a
+                caution, reprimand or severe reprimand) must be suspended pending the determination
+                of the appeal.</content></subsection><sourceNote>(<ref href="hk/2012/ln59">L.N. 59 of 2012</ref>)</sourceNote></section><section id="ID_1438402866107_001" name="s27" reason="inEffect" role="regulation" startPeriod="2021-10-15" status="operational" temporalId="s27"><num value="27">27.</num><heading>Commissioner may report to Chief Executive</heading><subsection id="ID_1438411644442_004" name="1" temporalId="s27_1"><num value="1">(1)</num><leadIn>If
+                an inspector has pleaded guilty to or is found guilty of a disciplinary offence and
+                it appears to the Commissioner that the nature of the offence is so aggravated and
+                other relevant circumstances are such that dismissal without retirement benefits, or
+                compulsory retirement with full retirement benefits or reduced retirement benefits
+                or without retirement benefits is merited, the Commissioner must forward to the
+                Chief Executive the Defaulter Report together with—</leadIn><paragraph id="ID_1438411644457_005" name="a" temporalId="s27_1_a"><num value="a">(a)</num><content>the
+                    record of the inspector’s service;</content></paragraph><paragraph id="ID_1438411644457_013" name="b" temporalId="s27_1_b"><num value="b">(b)</num><content>the
+                    Commissioner’s recommendation; and</content></paragraph><paragraph id="ID_1438411644457_021" name="c" temporalId="s27_1_c"><num value="c">(c)</num><content>the
+                    Commissioner’s reasons for not making an award under <ref>regulation 25(2)</ref>
+                    or (3). <sourceNote>(<ref href="hk/2012/ln59">L.N. 59 of 2012</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438411644457_036" name="2" temporalId="s27_2"><num value="2">(2)</num><content>The
+                Commissioner must at the same time as the Defaulter Report is forwarded under
+                paragraph (1) inform the inspector that his or her case will be considered by the
+                Chief Executive, and the inspector may within 14 days from the receipt of the
+                information, or within any extended period of time that the Chief Executive may
+                allow, forward to the Chief Executive a petition in writing, containing any
+                representations which may be relevant to enable the Chief Executive to exercise a
+                discretion under paragraph (3). <sourceNote>(<ref href="hk/2012/ln59">L.N. 59 of 2012</ref>)</sourceNote></content></subsection><subsection id="ID_1438411644473_005" name="3" temporalId="s27_3"><num value="3">(3)</num><leadIn>Where any report is forwarded to the Chief Executive under this regulation, the
+                Chief Executive may—</leadIn><paragraph id="ID_1438411644473_013" name="a" temporalId="s27_3_a"><num value="a">(a)</num><content>order that the inspector be dismissed without retirement benefits;
+                    or</content></paragraph><paragraph id="ID_1438411644473_021" name="b" temporalId="s27_3_b"><num value="b">(b)</num><content>if in all the circumstances of the case he considers justice so requires,
+                    set aside any finding of an appropriate tribunal and order that the inspector be
+                    dismissed without retirement benefits if in his opinion such punishment is
+                    warranted by any finding which has not been set aside; or</content></paragraph><paragraph id="ID_1438411644473_029" name="ba" temporalId="s27_3_ba"><num value="ba">(ba)</num><content>if in all the circumstances of the case, he is of the opinion that the
+                    misconduct of the inspector is serious enough to warrant the compulsory
+                    retirement of the inspector, order that the inspector be compulsorily retired
+                    with full retirement benefits or reduced retirement benefits or without
+                    retirement benefits; or<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1982/ln305">L.N. 305 of 1982</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411644473_037" name="c" temporalId="s27_3_c"><num value="c">(c)</num><content>remit the case to the Commissioner and the Commissioner may then award any
+                    punishment which he has power to award under <ref>regulation 25</ref>, but where
+                    the Commissioner awards any punishment under this paragraph, <ref>regulation
+                        26(2)</ref> shall apply as if such punishment had been awarded under
+                        <ref>regulation 25</ref>; or</content></paragraph><paragraph id="ID_1438411644489_006" name="d" temporalId="s27_3_d"><num value="d">(d)</num><content>if he is of the opinion that the inspector does not deserve to be punished
+                    but that the proceedings disclose grounds for requiring the inspector to retire
+                    in the public interest, without further proceedings require him to retire in the
+                    public interest.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1978/ln23">L.N. 23 of 1978</ref>; <ref href="/hk/2009/6">6 of
+                            2009 s. 9</ref>)</sourceNote></content></paragraph></subsection><sourceNote>(<ref href="/hk/1999/76">76 of 1999 s. 3</ref>)</sourceNote></section><editorialNote type="footnote" id="ID_1627629070383_001">
+        <content>Editorial Note:</content>
+        <content>This regulation was amended by <ref>section 9</ref> of the Disciplined Services
+            Legislation (Miscellaneous Amendments) Ordinance 2009 (<ref href="/hk/2009/6">6 of
+                2009</ref>). Please see the transitional provisions contained in <ref>section
+                30</ref> of that Amendment Ordinance.</content>
+    </editorialNote><section id="ID_1438402866122_002" name="s27A" reason="inEffect" role="regulation" startPeriod="2018-09-20" status="operational" temporalId="s27A"><num value="27A">27A.</num><heading>Joint proceedings against inspectors and junior police officers</heading><subsection id="ID_1438411644567_004" name="1" temporalId="s27A_1"><num value="1">(1)</num><leadIn>Where one or more inspectors and one or more junior police officers are charged with a disciplinary offence or offences arising out of the same facts, the Commissioner or a senior police officer may direct that the defaulters be charged and proceeded against jointly at the same proceedings unless—</leadIn><paragraph id="ID_1438411644567_012" name="a" temporalId="s27A_1_a"><num value="a">(a)</num><content>one of the defaulters objects to the appropriate tribunal on the grounds of partiality or bias; or</content></paragraph><paragraph id="ID_1438411644567_020" name="b" temporalId="s27A_1_b"><num value="b">(b)</num><content>one of the defaulters objects to joint proceedings on the grounds of disparity of rank.</content></paragraph></subsection><subsection id="ID_1438411644567_027" name="2" temporalId="s27A_2"><num value="2">(2)</num><content>Joint proceedings under this regulation shall be dealt with as if they were proceedings against an inspector under Part III.</content></subsection><sourceNote>(<ref href="/hk/1982/ln305">L.N. 305 of 1982</ref>)</sourceNote></section></part><part id="ID_1438402866138_001" name="P4" reason="inEffect" startPeriod="2018-09-20" status="operational" temporalId="P4"><num value="4">Part
+            IV</num><heading>Miscellaneous
+            Provisions</heading><section id="ID_1438402866138_003" name="s28" reason="inEffect" role="regulation" startPeriod="2021-10-15" status="operational" temporalId="s28"><num value="28">28.</num><heading>Power to suspend punishment</heading><subsection id="ID_1438411644598_004" name="1" temporalId="s28_1"><num value="1">(1)</num><content>Subject to this regulation, any punishment awarded by an appropriate tribunal
+                may be suspended by that tribunal or by any police officer of higher rank than the
+                officer or officers constituting the tribunal for a period of not less than 6 months
+                nor more than 1 year.</content></subsection><subsection id="ID_1438411644598_012" name="2" temporalId="s28_2"><num value="2">(2)</num><content>Subject to paragraph (3), where any punishment has been suspended under this
+                regulation the appropriate tribunal or any police officer of higher rank shall at
+                the expiration of the period of suspension review the case or may, at any time
+                during the period of suspension, review the case, taking into consideration such
+                reports on the conduct of the defaulter during the period of suspension as may be
+                available.</content></subsection><subsection id="ID_1627629292613_001" name="3" temporalId="s28_3"><num value="3">(3)</num><leadIn>On a review under paragraph (2), the appropriate tribunal or officer of higher
+                rank may—</leadIn><paragraph id="ID_1627629292613_002" name="a" temporalId="s28_3_a"><num value="a">(a)</num><content>remit or reduce the punishment; or</content></paragraph><paragraph id="ID_1627629292613_003" name="b" temporalId="s28_3_b"><num value="b">(b)</num><content>order the punishment to be executed immediately. <sourceNote>(<ref href="hk/2012/ln59">L.N. 59 of 2012</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438411644613_005" name="3A" temporalId="s28_3A"><num value="3A">(3A)</num><content>If
+                the appropriate tribunal or officer of higher rank remits or reduces the punishment,
+                the appropriate tribunal or officer of higher rank must cause any entry relating to
+                the disciplinary offence which has been made in the records of the defaulter to be
+                expunged or altered accordingly. <sourceNote>(<ref href="hk/2012/ln59">L.N. 59 of 2012</ref>)</sourceNote></content></subsection><subsection id="ID_1627629292613_004" name="3B" temporalId="s28_3B"><num value="3B">(3B)</num><content>If, during the period of suspension of a punishment under this regulation, the
+                defaulter is convicted of another disciplinary offence committed after the
+                disciplinary offence for which the suspended punishment was awarded, the suspended
+                punishment must be executed immediately and any punishment on that other
+                disciplinary offence must not be suspended. <sourceNote>(<ref href="hk/2012/ln59">L.N. 59 of 2012</ref>)</sourceNote></content></subsection><subsection id="ID_1438411644629_005" name="4" temporalId="s28_4"><num value="4">(4)</num><content>This regulation shall not affect the lodging and hearing of an
+                appeal.</content></subsection></section><section id="ID_1438402866154_001" name="s29" reason="inEffect" role="regulation" startPeriod="2021-10-15" status="operational" temporalId="s29"><num value="29">29.</num><heading>Payment for loss or damage to property</heading><subsection id="ID_1438411644645_028" name="1" temporalId="s29_1"><num value="1">(1)</num><leadIn>If
+                an inspector or a junior police officer has pleaded guilty to or is found guilty of
+                a disciplinary offence before or by an appropriate tribunal, the appropriate
+                tribunal may, in addition to or in lieu of any punishment it is by these regulations
+                empowered to award, order the defaulter to pay in full or in
+                part—</leadIn><paragraph id="ID_1438411644660_005" name="a" temporalId="s29_1_a"><num value="a">(a)</num><content>the
+                    cost of repairing or replacing any article of clothing, equipment or property
+                    that has been entrusted or supplied to the defaulter in his or her capacity as a
+                    police officer which has been lost or damaged;</content></paragraph><paragraph id="ID_1438411644660_013" name="b" temporalId="s29_1_b"><num value="b">(b)</num><content>the
+                    cost of repairing or replacing any Government property lost or damaged by the
+                    defaulter; or</content></paragraph><paragraph id="ID_1438411644660_021" name="c" temporalId="s29_1_c"><num value="c">(c)</num><content>the
+                    compensation paid, ex gratia or otherwise, by the Government to any person in
+                    respect of the loss or damage of that person’s property by the
+                    defaulter,</content></paragraph><continued>but
+                may do so only if the loss or damage has resulted from the defaulter’s neglect or
+                fault, and the amount ordered to be paid does not exceed his or her salary for 1
+                month. <sourceNote>(<ref href="hk/2012/ln59">L.N. 59 of 2012</ref>)</sourceNote></continued></subsection><subsection id="ID_1438411644660_034" name="2" temporalId="s29_2"><num value="2">(2)</num><leadIn>A gazetted officer may require an inspector or junior police officer to pay to the Government in full or in part—</leadIn><paragraph id="ID_1438411644660_042" name="a" temporalId="s29_2_a"><num value="a">(a)</num><content>the cost of repairing or replacing any article of clothing, equipment or property whatsoever entrusted to the inspector or junior police officer in his capacity as police officer and lost or damaged by him;</content></paragraph><paragraph id="ID_1438411644660_050" name="b" temporalId="s29_2_b"><num value="b">(b)</num><content>the cost of repairing or replacing any Government property lost or damaged by him; or</content></paragraph><paragraph id="ID_1438411644660_058" name="c" temporalId="s29_2_c"><num value="c">(c)</num><content>the compensation paid, ex gratia or otherwise, by the Government to any person in respect of the loss or damage of that person’s property by the inspector or junior police officer,</content></paragraph><continued>in each case only if the loss or damage has resulted from the junior police officer’s or inspector’s neglect or fault and the amount ordered to be paid does not exceed his salary for one month.</continued></subsection><subsection id="ID_1438411644676_011" name="3" temporalId="s29_3"><num value="3">(3)</num><content>For
+                the purposes of enabling due inquiry to be made as to whether any police officer
+                should be required to pay any amount under paragraph (2), affording the police
+                officer due opportunity to make representations and enabling a requirement under
+                that paragraph to be appealed against and reviewed, <ref>Parts II</ref> and
+                    <ref>III</ref> apply, with the necessary modifications, to and in respect of
+                that requirement as they apply to and in respect of a finding of guilty of a
+                disciplinary offence and an award of punishment for the offence. <sourceNote>(<ref href="hk/2012/ln59">L.N. 59 of 2012</ref>)</sourceNote></content></subsection></section><section id="ID_1438402866154_003" name="s29A" reason="inEffect" role="regulation" startPeriod="2018-09-20" status="operational" temporalId="s29A"><num value="29A">29A.</num><heading>Seizure and detention of property required as exhibit</heading><subsection id="ID_1438411644707_041" name="1" temporalId="s29A_1"><num value="1">(1)</num><content>A police officer of the rank of sergeant or above may seize and detain any property which he reasonably suspects to be the property of a police officer that may be required for the purpose of proving a disciplinary offence.</content></subsection><subsection id="ID_1438411644723_005" name="2" temporalId="s29A_2"><num value="2">(2)</num><leadIn>Any property seized and detained under paragraph (1) and which is not admitted in evidence as an exhibit in disciplinary proceedings shall—</leadIn><paragraph id="ID_1438411644723_013" name="a" temporalId="s29A_2_a"><num value="a">(a)</num><content>if the owner thereof is not known, be forfeited and disposed of in accordance with paragraph (3) or (4) as the case may be; and</content></paragraph><paragraph id="ID_1438411644723_021" name="b" temporalId="s29A_2_b"><num value="b">(b)</num><content>if the owner thereof is known, be returned to the owner.</content></paragraph></subsection><subsection id="ID_1438411644723_028" name="3" temporalId="s29A_3"><num value="3">(3)</num><content>Any property seized and detained under this regulation the ownership of which is not known shall be disposed of in such manner as the Commissioner may determine and, if sold, after the deduction of expenses necessarily incurred in the sale, the proceeds of sale (if any) shall be paid into the general revenue.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1999/ln253">L.N. 253 of 1999</ref>)</sourceNote></content></subsection><subsection id="ID_1438411644723_036" name="4" temporalId="s29A_4"><num value="4">(4)</num><content>Any money seized and detained under this regulation the owner of which is not known shall be paid into the general revenue.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1999/ln253">L.N. 253 of 1999</ref>)</sourceNote></content></subsection><sourceNote>(<ref href="/hk/1982/ln305">L.N. 305 of 1982</ref>)</sourceNote></section><section id="ID_1438402866169_002" name="s29B" reason="inEffect" role="regulation" startPeriod="2018-09-20" status="operational" temporalId="s29B"><num value="29B">29B.</num><heading>Disposal of exhibits</heading><subsection id="ID_1438411644769_004" name="1" temporalId="s29B_1"><num value="1">(1)</num><content>An appropriate tribunal may, in addition to any award made in any proceedings, order the forfeiture of any property admitted in evidence as an exhibit.</content></subsection><subsection id="ID_1438411644769_012" name="2" temporalId="s29B_2"><num value="2">(2)</num><content>Property ordered to be forfeited under paragraph (1) shall, after the award has been confirmed and any appeal determined, be disposed of in such manner as the Commissioner shall determine and, if sold, after the deduction of expenses necessarily incurred in the sale, the proceeds of sale (if any) shall be paid into the general revenue.</content></subsection><subsection id="ID_1438411644769_020" name="3" temporalId="s29B_3"><num value="3">(3)</num><content>Money ordered to be forfeited under paragraph (1) shall, after the award has been confirmed and any appeal determined, be paid into the general revenue.</content></subsection><sourceNote>(<ref href="/hk/1982/ln305">L.N. 305 of 1982</ref>; <ref href="/hk/1999/ln253">L.N. 253 of 1999</ref>)</sourceNote></section><section id="ID_1438402866169_004" name="s30" reason="inEffect" role="regulation" startPeriod="2018-09-20" status="operational" temporalId="s30"><num value="30">30.</num><heading>Awards</heading><text>The punishment that may be awarded by an inspector, a superintendent, a senior police
+            officer, the Force Discipline Officer, the Commissioner and the Chief Executive
+            respectively shall be those set out in the <ref>Schedule</ref>.</text><sourceNote>(<ref href="/hk/1982/ln305">L.N. 305 of 1982</ref>; <ref href="/hk/1999/76">76
+                of 1999 s. 3</ref>)</sourceNote></section><section id="ID_1438402866185_002" name="s31" reason="inEffect" role="regulation" startPeriod="2018-09-20" status="operational" temporalId="s31"><num value="31">31.</num><heading>Effect of award</heading><content>Subject to <ref>regulation 28</ref>, an award of punishment made under these regulations shall take effect from the date of announcement or communication to the defaulter of the award.</content></section><section id="ID_1438402866200_001" name="s32" reason="omittedAsSpent" role="regulation" startPeriod="2018-09-20" status="omitted" temporalId="s32"><num value="32">32.</num><sourceNote>(Omitted as spent—<ref href="hk/2018/er4">E.R. 4 of 2018</ref>)</sourceNote></section><section id="ID_1627629608746_001" name="s33" temporalId="s33" startPeriod="2021-10-15" status="operational" reason="inEffect"><num value="33">33.</num><heading>Transitional and
+            saving provisions</heading><subsection name="1" temporalId="s33_1" id="ID_1627873619488_001"><num value="1">(1)</num><content>Subject to paragraph (2), the amendments made by the amendment regulation do
+                not apply to proceedings under these regulations conducted in respect of a defaulter
+                on whom a notice was served before the commencement date under <ref>regulation
+                    5(2)</ref> or <ref>17(4)</ref> or (5) of the pre-amended regulations, and the
+                pre-amended regulations apply in respect of those proceedings as if those amendments
+                had not been made.</content></subsection><subsection name="2" temporalId="s33_2" id="ID_1627873619490_002"><num value="2">(2)</num><leadIn>Paragraph (1) does not apply to—</leadIn><paragraph name="a" temporalId="s33_2_a" id="ID_1627873619490_003"><num value="a">(a)</num><content>the addition of the definitions of <b><i>barrister</i></b>, <b><i>defence
+                            representative</i></b>, <b><i>disciplinary offence</i></b>,
+                            <b><i>hearing</i></b> and <b><i>solicitor</i></b> under <ref>section
+                        3</ref> of the amendment regulation; and</content></paragraph><paragraph name="b" temporalId="s33_2_b" id="ID_1627873619492_004"><num value="b">(b)</num><leadIn>the following sections of the amendment regulation—</leadIn><subparagraph name="1" temporalId="s33_2_b_1" id="ID_1627873619493_005"><num value="1">(i)</num><content><ref>section 7</ref>, which amends <ref>regulation 3C</ref> (procedure
+                        for minor offences) of the pre-amended regulations;</content></subparagraph><subparagraph name="2" temporalId="s33_2_b_2" id="ID_1627873619494_006"><num value="2">(ii)</num><content><ref>section 13</ref>, which adds <ref>regulation 7B</ref>
+                        (representation of defaulter at hearing) to these regulations;</content></subparagraph><subparagraph name="3" temporalId="s33_2_b_3" id="ID_1627873619496_007"><num value="3">(iii)</num><content><ref>section 15</ref>, which substitutes <ref>regulation 9</ref>
+                        (procedure at hearing) of these regulations for regulation 9 of the
+                        pre-amended regulations;</content></subparagraph><subparagraph name="4" temporalId="s33_2_b_4" id="ID_1627873619497_008"><num value="4">(iv)</num><content><ref>section 21</ref>, which adds <ref>regulation 12A</ref>
+                        (proceedings in defaulter’s absence) to these regulations;</content></subparagraph><subparagraph name="5" temporalId="s33_2_b_5" id="ID_1627873619499_009"><num value="5">(v)</num><content><rf xmlns="">section 29</rf>, which adds <rf xmlns="">regulation
+                            18C</rf> (representation of defaulter at hearing) to these
+                        regulations;</content></subparagraph><subparagraph name="6" temporalId="s33_2_b_6" id="ID_1627873619500_010"><num value="6">(vi)</num><content><ref>section 32</ref>, which substitutes <ref>regulation 21</ref>
+                        (procedure at hearing) of these regulations for regulation 21 of the
+                        pre-amended regulations;</content></subparagraph><subparagraph name="7" temporalId="s33_2_b_7" id="ID_1627873619502_011"><num value="7">(vii)</num><content><ref>section 38</ref>, which adds <ref>regulation 24A</ref>
+                        (proceedings in defaulter’s absence) to these regulations; and</content></subparagraph><subparagraph name="8" temporalId="s33_2_b_8" id="ID_1627873619503_012"><num value="8">(viii)</num><content><ref>section 43(2)</ref>, which substitutes <ref>regulation 29(3)</ref>
+                        of these regulations for regulation 29(3) of the pre-amended
+                        regulations.</content></subparagraph></paragraph></subsection><subsection name="3" temporalId="s33_3" id="ID_1627873619506_013"><num value="3">(3)</num><leadIn>In this regulation—</leadIn><def name="生效日期"><term>amendment regulation</term> (<term xml:lang="zh-Hant-HK">《修訂規例》</term>) means the Police (Discipline) (Amendment) Regulation 2012 (<ref href="hk/2012/ln59">L.N. 59 of 2012</ref>);</def><def name="修訂前規例"><inline class="force_orig_font">*</inline><term>commencement
+                    date</term> (<term xml:lang="zh-Hant-HK">生效日期</term>) means the commencement
+                date of the amendment regulation appointed under <ref>section 1</ref> of the
+                amendment regulation;</def><def name="修訂規例"><term>pre-amended regulations</term> (<term xml:lang="zh-Hant-HK">《修訂前規例》</term>) means the Police (Discipline) Regulations (<ref href="/hk/cap232A">Cap. 232 sub. leg. A</ref>) as in force immediately before
+                the commencement date.</def></subsection><sourceNote>(<ref href="hk/2012/ln59">L.N. 59 of 2012</ref>)</sourceNote><editorialNote type="footnote" id="ID_1633331589878_001">
+            <content>Editorial Note:</content>
+            <content><inline class="force_orig_font">*</inline> Commencement date: 15 October
+                2021.</content>
+        </editorialNote></section></part><schedule id="ID_1438402866200_003" name="sch0" reason="inEffect" startPeriod="2021-10-15" status="operational" temporalId="sch0"><num value="0">Schedule</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap232A/s30">reg.
+            30</ref>]</note><heading>Powers
+            of
+            Punishment</heading><text>
+            
+            <table xmlns="http://www.w3.org/1999/xhtml" frame="void" class="font_size_8.5 repeat_header" width="455">
+                <col width="20%"></col>
+                <col width="8%"></col>
+                <col width="32%"></col>
+                <col width="8%"></col>
+                <col width="32%"></col>
+                <thead>
+                    <tr>
+                        <th rowspan="2" class="border_top_0.75 border_right_0.75 border_bottom_0.75 valign_center cellpadding_bottom_6 cellpadding_top_6">
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"><inline class="not_bold">Appropriate Tribunal or Authority
+                                    <br></br>(1)</inline></center>
+                        </th>
+                        <th colspan="4" class="border_top_0.75 border_bottom_0.75 valign_center cellpadding_bottom_6 cellpadding_top_6">
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"><inline class="not_bold">Punishment that may be imposed
+                                upon</inline></center>
+                        </th>
+                    </tr>
+                    <tr>
+                        <th colspan="2" class="border_bottom_0.75 border_right_0.75 valign_center cellpadding_bottom_6 cellpadding_top_6">
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"><inline class="not_bold">Junior Police
+                                Officers<br></br>(2)</inline></center>
+                        </th>
+                        <th colspan="2" class="border_bottom_0.75 valign_center cellpadding_bottom_6 cellpadding_top_6">
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"><inline class="not_bold">Inspectors<br></br>(3)</inline></center>
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="border_right_0.75 border_bottom_0.75 cellpadding_bottom_6 cellpadding_top_6 cellpadding_right_6">
+                            <p>Inspector<br></br>(Under Part IA only)</p>
+                        </td>
+                        <td colspan="2" class="border_bottom_0.75 border_right_0.75 cellpadding_left_6 cellpadding_top_6 cellpadding_right_6">Written admonishment</td>
+                        <td colspan="2" class="border_bottom_0.75 cellpadding_left_6 cellpadding_top_6 cellpadding_right_6">Not applicable</td>
+                    </tr>
+                    <tr>
+                        <td class="border_right_0.75 cellpadding_top_9 cellpadding_right_6">Superintendent</td>
+                        <td class="cellpadding_left_6 cellpadding_top_9">1.</td>
+                        <td class="cellpadding_bottom_6 cellpadding_top_6 cellpadding_right_6">
+                            <paragraph xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" name="a" temporalId="sch0_a" id="ID_1533030485580_001"><num value="a">(a)</num><content>Caution;</content></paragraph>
+                            <paragraph xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" name="b" temporalId="sch0_b" id="ID_1533030485580_002"><num value="b">(b)</num><content>Reprimand;</content></paragraph>
+                            <paragraph xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" name="c" temporalId="sch0_c" id="ID_1533030485580_003"><num value="c">(c)</num><content>Severe reprimand; or</content></paragraph>
+                            <paragraph xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" name="d" temporalId="sch0_d" id="ID_1533030485580_004"><num value="d">(d)</num><content>Forfeiture of not more than 7 days’ pay except in the case
+                                    of absence without good cause when forfeiture of pay
+                                    extends
+                                    to the period of absence in addition to any other punishment
+                                    awarded.</content></paragraph>
+                        </td>
+                        <td class="cellpadding_left_6 border_left_0.75 cellpadding_top_9">1.</td>
+                        <td class="cellpadding_top_9 cellpadding_right_6">Written
+                            admonishment.<br></br>(Under
+                                <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Part
+                                IA</ref>
+                            only)</td>
+                    </tr>
+                    <tr>
+                        <td rowspan="3" class="border_right_0.75 border_bottom_0.75 cellpadding_top_6"></td>
+                        <td class="cellpadding_left_6">2.</td>
+                        <td class="cellpadding_bottom_6 cellpadding_right_6 align_justified">Suspend
+                            punishment under
+                                <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">regulation
+                                28</ref>.</td>
+                        <td class="cellpadding_left_6 border_left_0.75">2.</td>
+                        <td class="cellpadding_bottom_6 cellpadding_right_6 align_justified">Caution; and in the case of absence without good cause, the forfeiture
+                            of pay for the period of absence in addition to any other punishment
+                            awarded.</td>
+                    </tr>
+                    <tr>
+                        <td rowspan="2" class="cellpadding_left_6 border_bottom_0.75">3.</td>
+                        <td rowspan="2" class="border_bottom_0.75 cellpadding_right_6 align_justified">Order for
+                            payment under
+                                <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">regulation
+                                29</ref>.</td>
+                        <td class="cellpadding_left_6 border_left_0.75">3.</td>
+                        <td class="cellpadding_bottom_6 cellpadding_right_6 align_justified">Suspend
+                            punishment under
+                                <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">regulation
+                                28</ref>.</td>
+                    </tr>
+                    <tr>
+                        <td class="cellpadding_left_6 border_left_0.75 border_bottom_0.75">4.</td>
+                        <td class="cellpadding_bottom_6 border_bottom_0.75 cellpadding_right_6 align_justified">Order for payment under
+                                <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">regulation
+                                29</ref>.</td>
+                    </tr>
+                    <tr>
+                        <td class="border_right_0.75 cellpadding_top_9 cellpadding_right_6">Senior
+                            Police Officer and (in the case of Junior Police Officers only) Force
+                            Discipline Officer</td>
+                        <td class="cellpadding_left_6 cellpadding_top_9">1.</td>
+                        <td class="border_right_0.75 cellpadding_top_6 cellpadding_bottom_6 cellpadding_right_6">
+                            <paragraph xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" name="a" temporalId="sch0_a" id="ID_1533030485580_005"><num value="a">(a)</num><content>Caution;</content></paragraph>
+                            <paragraph xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" name="b" temporalId="sch0_b" id="ID_1533030485580_006"><num value="b">(b)</num><content>Reprimand;</content></paragraph>
+                            <paragraph xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" name="c" temporalId="sch0_c" id="ID_1533030485580_007"><num value="c">(c)</num><content>Severe reprimand;</content></paragraph>
+                            
+                            
+                            <paragraph xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" id="ID_1627632899518_001" name="c" temporalId="sch0_c"><num value="c">(ca)</num><content>Deferment or stoppage of
+                                    increment;</content></paragraph>
+                            
+                            
+                            <paragraph xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" name="d" temporalId="sch0_d" id="ID_1533030485580_008"><num value="d">(d)</num><content>Forfeiture of not more than 1 month’s pay except in the
+                                    case of absence without good cause when forfeiture of pay
+                                    extends
+                                    to the period of absence in addition to any other punishment
+                                    awarded; or</content></paragraph>
+                            
+                            
+                            
+                        </td>
+                        <td class="cellpadding_left_6 cellpadding_top_9">1.</td>
+                        <td class=" cellpadding_top_6 cellpadding_bottom_6 cellpadding_right_6">
+                            <paragraph xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" name="a" temporalId="sch0_a" id="ID_1533030485580_010"><num value="a">(a)</num><content>Caution;</content></paragraph>
+                            <paragraph xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" name="b" temporalId="sch0_b" id="ID_1533030485580_011"><num value="b">(b)</num><content>Reprimand; and</content></paragraph>
+                            <paragraph xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" name="c" temporalId="sch0_c" id="ID_1533030485580_012"><num value="c">(c)</num><content>In the case of absence without good cause, the forfeiture
+                                    of pay for the period of absence in addition to any other
+                                    punishment awarded.</content></paragraph>
+                        </td>
+                    </tr>
+                    
+                    
+                    <tr>
+                        <td class="border_right_0.75 cellpadding_top_9 cellpadding_right_6"></td>
+                        <td class="cellpadding_left_6 cellpadding_top_9"></td>
+                        <td class="border_right_0.75 cellpadding_top_6 cellpadding_bottom_6 cellpadding_right_6">
+                            <paragraph xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" name="e" temporalId="sch0_e" id="ID_1627871257227_001"><num value="e">(e)</num><content>In the case of a station sergeant or sergeant, reduction in
+                                    rank.</content></paragraph>
+                        </td>
+                        <td class="cellpadding_left_6 cellpadding_top_9"></td>
+                        <td class=" cellpadding_top_6 cellpadding_bottom_6 cellpadding_right_6"></td>
+                    </tr>
+                    
+                    
+                    <tr>
+                        <td rowspan="2" class="border_right_0.75 cellpadding_top_6"></td>
+                        <td class="cellpadding_left_6 cellpadding_top_6 cellpadding_bottom_6">2.</td>
+                        <td class=" cellpadding_top_6 cellpadding_bottom_6 border_right_0.75 cellpadding_right_6 align_justified">Suspend punishment under
+                                <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">regulation
+                                28</ref>.</td>
+                        <td class="cellpadding_left_6 cellpadding_top_6 cellpadding_bottom_6">2.</td>
+                        <td class=" cellpadding_top_6 cellpadding_bottom_6 cellpadding_right_6 align_justified">Suspend punishment
+                                under<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">
+                                regulation
+                            28</ref>.</td>
+                    </tr>
+                    <tr>
+                        <td class="cellpadding_left_6 cellpadding_top_6 cellpadding_bottom_6">3.</td>
+                        <td class=" cellpadding_top_6 cellpadding_bottom_6 border_right_0.75 cellpadding_right_6 align_justified">Order for payment under
+                                <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">regulation
+                                29</ref>.</td>
+                        <td class="cellpadding_left_6 cellpadding_top_6 cellpadding_bottom_6">3.</td>
+                        <td class=" cellpadding_top_6 cellpadding_bottom_6 cellpadding_right_6 align_justified">Order for payment under
+                                <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">regulation
+                                29</ref>.</td>
+                    </tr>
+                    <tr>
+                        <td class="border_right_0.75 cellpadding_top_6"></td>
+                        <td class="cellpadding_left_6 cellpadding_top_6 cellpadding_bottom_6">4.</td>
+                        <td class=" cellpadding_top_6 cellpadding_bottom_6 border_right_0.75 cellpadding_right_6">
+                            <p class=" align_justified">In place of, or in addition to, any
+                                punishment awarded under paragraph 1 above—</p>
+                            <paragraph xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" name="a" temporalId="sch0_a" id="ID_1533030485580_013"><num value="a">(a)</num><content>dismissal without retirement benefits, with, in the case of
+                                    a station sergeant or sergeant, reduction to the ranks before
+                                    dismissal;</content></paragraph>
+                            <paragraph xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" name="b" temporalId="sch0_b" id="ID_1533030485580_014"><num value="b">(b)</num><content>an order to resign
+                                    immediately,
+                                    without salary in lieu of notice; or</content></paragraph>
+                            
+                            
+                            
+                        </td>
+                        <td class="cellpadding_left_6 cellpadding_top_6"></td>
+                        <td class=" cellpadding_top_6 cellpadding_bottom_6"></td>
+                    </tr>
+                    
+                    
+                    <tr>
+                        <td class="border_right_0.75 cellpadding_top_6"></td>
+                        <td class="cellpadding_left_6 cellpadding_top_6 cellpadding_bottom_6"></td>
+                        <td class=" cellpadding_top_6 cellpadding_bottom_6 border_right_0.75 cellpadding_right_6">
+                            <paragraph xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" name="c" temporalId="sch0_c" id="ID_1627871257227_002"><num value="c">(c)</num><content>compulsory retirement with full retirement benefits or
+                                    reduced retirement benefits or without retirement
+                                    benefits.</content></paragraph>
+                        </td>
+                        <td class="cellpadding_left_6 cellpadding_top_6"></td>
+                        <td class=" cellpadding_top_6 cellpadding_bottom_6"></td>
+                    </tr>
+                    
+                    
+                    <tr>
+                        <td class="border_right_0.75 cellpadding_top_6 cellpadding_right_6 border_bottom_0.75"></td>
+                        <td class="cellpadding_top_6 cellpadding_bottom_6 border_bottom_0.75 border_right_0.75 cellpadding_left_6 cellpadding_right_6" colspan="2">
+                            <p class="align_justified left_indent_33 first_line_indent_-30">(Note:
+                                In lieu of punishment retirement in the public interest may be
+                                required
+                                    under<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">
+                                    regulation
+                                    13(3)</ref>
+                                by the Force Discipline
+                                Officer)</p>
+                        </td>
+                        <td class="cellpadding_left_6 cellpadding_top_6 border_bottom_0.75"></td>
+                        <td class=" cellpadding_top_6 cellpadding_bottom_6 cellpadding_right_6 border_bottom_0.75"></td>
+                    </tr>
+                    <tr>
+                        <td class="border_right_0.75 cellpadding_top_9 cellpadding_right_6">Commissioner of Police</td>
+                        <td class="cellpadding_left_6 cellpadding_top_9">1.</td>
+                        <td class="border_right_0.75 cellpadding_top_6 cellpadding_bottom_6 cellpadding_right_6">
+                            <paragraph xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" name="a" temporalId="sch0_a" id="ID_1533030485596_016"><num value="a">(a)</num><content>Caution;</content></paragraph>
+                            <paragraph xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" name="b" temporalId="sch0_b" id="ID_1533030485596_017"><num value="b">(b)</num><content>Reprimand;</content></paragraph>
+                            <paragraph xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" name="c" temporalId="sch0_c" id="ID_1533030485596_018"><num value="c">(c)</num><content>Severe reprimand;</content></paragraph>
+                            
+                            
+                            <paragraph xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" id="ID_1627632899518_002" name="c" temporalId="sch0_c"><num value="c">(ca)</num><content>Deferment or stoppage of
+                                    increment;<marker role="blank-line"></marker><marker role="blank-line"></marker><marker role="blank-line"></marker><marker role="blank-line"></marker><marker role="blank-line"></marker><marker role="blank-line"></marker></content></paragraph>
+                            
+                            
+                            
+                        </td>
+                        <td class="cellpadding_left_6 cellpadding_top_9">1.</td>
+                        <td class=" cellpadding_top_6 cellpadding_bottom_6 cellpadding_right_6">
+                            <paragraph xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" name="a" temporalId="sch0_a" id="ID_1533030485596_021"><num value="a">(a)</num><content>Caution;
+                                    or</content></paragraph>
+                            <paragraph xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" name="b" temporalId="sch0_b" id="ID_1533030485596_022"><num value="b">(b)</num><content>Reprimand.</content></paragraph>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    
+                    
+                    <tr>
+                        <td class="border_right_0.75 cellpadding_top_9 cellpadding_right_6"></td>
+                        <td class="cellpadding_left_6 cellpadding_top_9"></td>
+                        <td class="border_right_0.75 cellpadding_top_6 cellpadding_bottom_6 cellpadding_right_6">
+                            <paragraph xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" name="d" temporalId="sch0_d" id="ID_1627871257227_003"><num value="d">(d)</num><content>Forfeiture of not more than 1 month’s pay except in the
+                                    case of absence without good cause when forfeiture of pay
+                                    extends to the period of absence in addition to any other
+                                    punishment awarded; or</content></paragraph>
+                            <paragraph xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" name="e" temporalId="sch0_e" id="ID_1627871257227_004"><num value="e">(e)</num><content>In the case of a station sergeant or sergeant, reduction in
+                                    rank.</content></paragraph>
+                        </td>
+                        <td class="cellpadding_left_6 cellpadding_top_9"></td>
+                        <td class=" cellpadding_top_6 cellpadding_bottom_6 cellpadding_right_6"></td>
+                    </tr>
+                    
+                    
+                    <tr>
+                        <td class="border_right_0.75 cellpadding_top_6" rowspan="2"></td>
+                        <td class="cellpadding_left_6 cellpadding_top_6 cellpadding_bottom_6">2.</td>
+                        <td class=" cellpadding_top_6 cellpadding_bottom_6 border_right_0.75 cellpadding_right_6 align_justified">Suspend punishment under
+                                <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">regulation
+                                28</ref>.</td>
+                        <td class="cellpadding_left_6 cellpadding_top_6 cellpadding_bottom_6">2.</td>
+                        <td class=" cellpadding_top_6 cellpadding_bottom_6 cellpadding_right_6 align_justified">Suspend punishment under
+                                <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">regulation
+                                28</ref>.</td>
+                    </tr>
+                    <tr>
+                        <td class="cellpadding_left_6 cellpadding_top_6 cellpadding_bottom_6">3.</td>
+                        <td class=" cellpadding_top_6 cellpadding_bottom_6 border_right_0.75 cellpadding_right_6 align_justified">Order for payment under
+                                <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">regulation
+                                29</ref>.<marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                        <td class="cellpadding_left_6 cellpadding_top_6 cellpadding_bottom_6">3.</td>
+                        <td class=" cellpadding_top_6 cellpadding_bottom_6 cellpadding_right_6 align_justified">Order for payment under
+                                <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">regulation
+                                29</ref>.</td>
+                    </tr>
+                    <tr>
+                        <td class="border_right_0.75 cellpadding_top_6"></td>
+                        <td class="cellpadding_left_6 cellpadding_top_6 cellpadding_bottom_6">4.</td>
+                        <td class=" cellpadding_top_6 cellpadding_bottom_6 border_right_0.75 cellpadding_right_6">
+                            <p class="align_justified">In place of, or in addition to, any
+                                punishment awarded under paragraph 1 above—</p>
+                            <paragraph xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" name="a" temporalId="sch0_a" id="ID_1533030485596_024"><num value="a">(a)</num><content>dismissal without retirement benefits, with, in the case of
+                                    a station
+                                    sergeant
+                                    or
+                                    sergeant,
+                                    reduction to the ranks before dismissal;</content></paragraph>
+                            <paragraph xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" name="b" temporalId="sch0_b" id="ID_1533030485596_025"><num value="b">(b)</num><content>an order to resign
+                                    immediately
+                                    without salary in lieu of notice; or</content></paragraph>
+                            <paragraph xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" name="c" temporalId="sch0_c" id="ID_1533030485596_026"><num value="c">(c)</num><content>compulsory retirement with full retirement benefits or
+                                    reduced retirement benefits or without retirement
+                                    benefits.</content></paragraph>
+                        </td>
+                        <td class="cellpadding_left_6 cellpadding_top_6 cellpadding_bottom_6">4.</td>
+                        <td class="cellpadding_top_6 cellpadding_bottom_6 cellpadding_right_6">
+                            <p class="align_justified">In place of, or in addition to any punishment
+                                awarded under paragraph 1 above—</p>
+                            <paragraph xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" name="a" temporalId="sch0_a" id="ID_1533030485596_027"><num value="a">(a)</num><content>in the case of a chief inspector reduction to the rank of
+                                    senior inspector or inspector;</content></paragraph>
+                            <paragraph xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" name="b" temporalId="sch0_b" id="ID_1533030485596_028"><num value="b">(b)</num><content>in the case of a senior inspector, reversion to the rank of
+                                    inspector;</content></paragraph>
+                            
+                            
+                            <paragraph xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" id="ID_1627632899518_003" name="c" temporalId="sch0_c"><num value="c">(ba)</num><content>severe reprimand;</content></paragraph>
+                            
+                            
+                            <paragraph xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" name="c" temporalId="sch0_c" id="ID_1533030485596_029"><num value="c">(c)</num><content>deferment or stoppage of increment; or</content></paragraph>
+                            <paragraph xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" name="d" temporalId="sch0_d" id="ID_1533030485596_030"><num value="d">(d)</num><content>forfeiture of not more than 1 month’s pay except in the
+                                    case of absence without good cause, when forfeiture
+                                    extends
+                                    to the period of absence in addition to any other punishment
+                                    awarded.</content></paragraph>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="border_right_0.75 border_bottom_0.75 cellpadding_top_6 cellpadding_right_6"></td>
+                        <td class=" cellpadding_top_6 cellpadding_bottom_6 border_bottom_0.75 border_right_0.75 cellpadding_left_6 cellpadding_right_6" colspan="2">
+                            <p class="align_justified left_indent_33 first_line_indent_-30">(Note:
+                                In lieu of punishment retirement in the public interest may be
+                                required
+                                    under<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">
+                                    regulation
+                                    15(2)(e)</ref>)</p>
+                        </td>
+                        <td class="cellpadding_top_6 cellpadding_bottom_6 cellpadding_left_6 border_bottom_0.75"></td>
+                        <td class="cellpadding_top_6 cellpadding_bottom_6 cellpadding_right_6 border_bottom_0.75"></td>
+                    </tr>
+                    <tr>
+                        <td class="border_right_0.75 border_bottom_0.75 cellpadding_top_6 cellpadding_right_6" rowspan="4">Chief Executive</td>
+                        <td rowspan="4" colspan="2" class="border_bottom_0.75 border_right_0.75 cellpadding_top_6 cellpadding_bottom_6 cellpadding_left_6 cellpadding_right_6">Not applicable</td>
+                        <td class="cellpadding_top_6 cellpadding_bottom_6 cellpadding_left_6">1.</td>
+                        <td class="cellpadding_top_6 cellpadding_bottom_6 cellpadding_right_6 align_justified">All punishments that may be awarded by the Commissioner.</td>
+                    </tr>
+                    <tr>
+                        <td class="cellpadding_top_6 cellpadding_bottom_6 cellpadding_left_6">2.</td>
+                        <td class="cellpadding_top_6 cellpadding_bottom_6 cellpadding_right_6 align_justified">Dismissal without retirement benefits.</td>
+                    </tr>
+                    <tr>
+                        <td class="cellpadding_top_6 cellpadding_bottom_6 cellpadding_left_6">3.</td>
+                        <td class="cellpadding_top_6 cellpadding_bottom_6 cellpadding_right_6 align_justified">Compulsory retirement with full retirement benefits or reduced
+                            retirement benefits or without retirement benefits.</td>
+                    </tr>
+                    <tr>
+                        <td colspan="2" class="cellpadding_top_6 cellpadding_bottom_6 border_bottom_0.75 cellpadding_left_6 cellpadding_right_6">
+                            <p class="align_justified left_indent_33 first_line_indent_-30">(Note:
+                                In lieu of punishment, retirement in the public interest may be
+                                required under
+                                    <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">regulation
+                                    27(3)(d)</ref>)</p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            
+            
+            
+            <marker role="blank-line"></marker>
+            
+        </text><sourceNote>(<ref href="/hk/1982/ln305">L.N. 305 of
+                1982</ref>; <ref href="/hk/1999/76">76 of 1999 s. 3</ref>; <ref href="/hk/2009/6">6 of 2009 s.
+                10</ref>; <ref href="hk/2012/ln59">L.N. 59 of
+            2012</ref>)</sourceNote><editorialNote type="footnote" id="ID_1627632899674_004">
+            <content>Editorial Note:</content>
+            <content>This <ref>Schedule</ref> was amended by <ref>section 10</ref> of the
+                Disciplined Services Legislation (Miscellaneous Amendments) Ordinance 2009 (<ref href="/hk/2009/6">6 of 2009</ref>).
+                Please see
+                the
+                transitional provisions contained in <ref>section 30</ref> of that Amendment
+                Ordinance.</content>
+            
+        </editorialNote></schedule></main></subLeg>

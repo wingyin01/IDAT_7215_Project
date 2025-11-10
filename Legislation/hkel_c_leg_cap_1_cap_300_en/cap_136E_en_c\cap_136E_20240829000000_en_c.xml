@@ -1,0 +1,941 @@
+<?xml version="1.0" encoding="UTF-8"?><subLeg xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd" xml:lang="en"><meta><docName>Cap. 136 sub. leg. E</docName><docType>cap</docType><docNumber>136E</docNumber><docStatus>In effect</docStatus><dc:identifier>/hk/cap136E!en</dc:identifier><dc:date>2024-08-29</dc:date><dc:subject>legislation</dc:subject><dc:language>en</dc:language><dc:publisher>DoJ</dc:publisher><dc:rights>the Government of the Hong Kong Special Administrative Region</dc:rights></meta><main xml:lang="en" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd"><docTitle id="ID_1438402704803_003" name="shortTitle" reason="inEffect" status="operational" temporalId="shortTitle" startPeriod="2024-08-29">Mental Health Guardianship Board
+            Rules</docTitle><enactingFormula role="empoweringSection">(<ref href="/hk/cap136/s59Z">Cap.
+                136,
+                section 59Z</ref>)</enactingFormula><sourceNote>(Enacting provision omitted—<ref href="/hk/2024/er4">E.R. 4 of
+            2024</ref>)<marker role="blank-line"></marker><marker role="blank-line"></marker></sourceNote><commencementNote>[1 February 1999]<sourceNote><inline class="width_3"> </inline><ref href="/hk/1999/ln33">L.N. 33 of 1999</ref></sourceNote></commencementNote><sourceNote>(Format changes—<ref href="/hk/2024/er4">E.R. 4 of 2024</ref>)</sourceNote><part id="ID_1438402704818_002" name="P1" reason="inEffect" startPeriod="2024-08-29" status="operational" temporalId="P1"><num value="1">Part I</num><heading>Preliminary</heading><section id="ID_1438402704834_001" name="s1" reason="omittedAsSpent" startPeriod="2024-08-29" status="omitted" temporalId="s1"><num value="1">1.</num><sourceNote>(Omitted as spent—<ref href="/hk/2024/er4">E.R. 4 of 2024</ref>)</sourceNote></section><section id="ID_1438402704834_003" name="s2" reason="inEffect" startPeriod="2024-08-29" status="operational" temporalId="s2"><num value="2">2.</num><heading>Interpretation</heading><subsection id="ID_1438411259854_004" name="1" temporalId="s2_1"><num value="1">(1)</num><leadIn>In these Rules, unless the context otherwise requires—</leadIn><def name="Chairperson"><term>Chairperson</term> (<term xml:lang="zh-Hant-HK">主席</term>) includes a
+                person appointed to act as Chairperson under <ref>section 4</ref> of the
+                    <ref>Schedule</ref> to the Ordinance;</def><def name="DirectionsApplication"><term>directions application</term> (<term xml:lang="zh-Hant-HK">要求指示的申請</term>) means an application under <ref>section 11</ref>;</def><def name="GuardianshipDirections"><term>guardianship directions</term> (<term xml:lang="zh-Hant-HK">監護指示</term>) means directions of the Board falling within <ref>section
+                    59K(1)(d)</ref> of the Ordinance;</def><def name="IdentityCard"><term>identity card</term> (<term xml:lang="zh-Hant-HK">身分證</term>) means
+                an identity card within the meaning of <ref>section 1A</ref> of the Registration of
+                Persons Ordinance (<ref href="/hk/cap177">Cap. 177</ref>);</def><def name="LegalRepresentative"><term>legal representative</term> (<term xml:lang="zh-Hant-HK">法律代表</term>) means a counsel or solicitor;</def><def name="Party"><leadIn><term>party</term> (<term xml:lang="zh-Hant-HK">一方</term>、方), in relation to any proceedings
+                    of the Board—</leadIn><paragraph id="ID_1438411259870_033" name="a" temporalId="s2_1_a"><num value="a">(a)</num><content>following a guardianship application, means the applicant, any person who has been sent a copy of the application under <ref>section 59N(3)(a)</ref> or (c) of the Ordinance and any person who is added as a party by direction of the Board;</content></paragraph><paragraph id="ID_1438411259870_041" name="b" temporalId="s2_1_b"><num value="b">(b)</num><content>following a review application, means the applicant, the other persons referred to in <ref>section 59U(4)(a)</ref>, (b) and (c) of the Ordinance entitled to make such an application and any person who is added as a party by direction of the Board;</content></paragraph><paragraph id="ID_1438411259870_049" name="c" temporalId="s2_1_c"><num value="c">(c)</num><content>where <ref>section 59U(2)(b)</ref> or (3) of the Ordinance requires the Board to review a guardianship order, the persons referred to in <ref>section 59U(4)(a)</ref>, (b) and (c) of the Ordinance entitled to make a review application in respect of the order (except the guardian in any case where <ref>section 59T(1)(a)</ref> of the Ordinance is applicable) and any person who is added as a party by direction of the Board;</content></paragraph><paragraph id="ID_1438411259886_006" name="d" temporalId="s2_1_d"><num value="d">(d)</num><content>following a directions application, means the applicant, the mentally incapacitated person, the guardian of the mentally incapacitated person, the Director of Social Welfare and any person who is added as a party by direction of the Board;</content></paragraph></def><def name="Proceedings"><leadIn><term>proceedings</term> (<term xml:lang="zh-Hant-HK">法律程序</term>) includes any proceedings
+                    of the Board—</leadIn><paragraph id="ID_1438411259886_020" name="a" temporalId="s2_1_a"><num value="a">(a)</num><content>following a guardianship application;</content></paragraph><paragraph id="ID_1438411259886_028" name="b" temporalId="s2_1_b"><num value="b">(b)</num><content>following a review application;</content></paragraph><paragraph id="ID_1438411259886_036" name="c" temporalId="s2_1_c"><num value="c">(c)</num><content>where <ref>section 59U(2)(b)</ref> or (3) of the Ordinance requires the Board to review a guardianship order; or</content></paragraph><paragraph id="ID_1438411259901_006" name="d" temporalId="s2_1_d"><num value="d">(d)</num><content>following a directions application;</content></paragraph></def><def name="Review"><term>review</term> (<term xml:lang="zh-Hant-HK">覆核</term>), in relation to a
+                guardianship order, means a review under <ref>section 59U(2)</ref> or (3) of the
+                Ordinance of the order;</def><def name="ReviewApplication"><term>review application</term> (<term xml:lang="zh-Hant-HK">覆核申請</term>) means an application referred to in <ref>section 8</ref>;</def><def name="Secretary"><term>secretary</term> (<term xml:lang="zh-Hant-HK">秘書</term>) means the
+                secretary to the Board;</def><def name="SocialEnquiryReport"><term>social enquiry report</term> (<term xml:lang="zh-Hant-HK">社會背景調查報告</term>), in relation to a mentally incapacitated person, means the
+                social enquiry report required under <ref>section 59P</ref> of the Ordinance in
+                respect of the person.</def></subsection><subsection id="ID_1438411259901_040" name="2" temporalId="s2_2"><num value="2">(2)</num><content>In these Rules, a reference to a mentally incapacitated person in relation to a guardianship application, review application, review of a guardianship order, or directions application, means the mentally incapacitated person the subject of the application or order, as the case may be.</content></subsection><subsection id="ID_1438411259901_048" name="3" temporalId="s2_3"><num value="3">(3)</num><content>In these Rules, a reference to a form by number is a reference to the form in the <ref>Schedule</ref> which bears the number.</content></subsection></section></part><part id="ID_1438402704849_002" name="P2" reason="inEffect" startPeriod="2024-08-29" status="operational" temporalId="P2"><num value="2">Part II</num><heading>Guardianship Applications</heading><section id="ID_1438402704865_002" name="s3" reason="inEffect" startPeriod="2024-08-29" status="operational" temporalId="s3"><num value="3">3.</num><heading>Making guardianship application</heading><leadIn>A guardianship application shall be—</leadIn><paragraph id="ID_1438411259979_012" name="a" temporalId="s3_a"><num value="a">(a)</num><content>in accordance with Form 1;</content></paragraph><paragraph id="ID_1438411259979_020" name="b" temporalId="s3_b"><num value="b">(b)</num><content>completed in accordance with such directions and instructions as are specified in the application; and</content></paragraph><paragraph id="ID_1438411259979_028" name="c" temporalId="s3_c"><num value="c">(c)</num><content>accompanied by such documents as are specified in the application.</content></paragraph></section><section id="ID_1438402704881_001" name="s4" reason="inEffect" startPeriod="2024-08-29" status="operational" temporalId="s4"><num value="4">4.</num><heading>Compliance with <ref>section 59N(3)</ref> of the Ordinance</heading><leadIn>The Board shall comply with—</leadIn><paragraph id="ID_1438411259995_042" name="a" temporalId="s4_a"><num value="a">(a)</num><content><ref>section 59N(3)(a)</ref> and (c) of the Ordinance in respect of a guardianship application not later than 14 days after receipt of the application;</content></paragraph><paragraph id="ID_1438411260010_006" name="b" temporalId="s4_b"><num value="b">(b)</num><content><ref>section 59N(3)(b)</ref> of the Ordinance in respect of a guardianship application not later than 14 days after it decides that the relative concerned should be sent a copy of the application.</content></paragraph></section><section id="ID_1438402704881_003" name="s5" reason="inEffect" startPeriod="2024-08-29" status="operational" temporalId="s5"><num value="5">5.</num><heading>Social enquiry report required to be submitted to Board</heading><leadIn>The Director of Social Welfare shall, not later than 4 weeks after—</leadIn><paragraph id="ID_1438411260026_012" name="a" temporalId="s5_a"><num value="a">(a)</num><content>if the Director has made a guardianship application, the date on which the application was made;</content></paragraph><paragraph id="ID_1438411260026_020" name="b" temporalId="s5_b"><num value="b">(b)</num><content>in any other case, receipt of a copy of a guardianship application under <ref>section 59N(3)</ref> of the Ordinance,</content></paragraph><continued>send to the Board the social enquiry report in respect of the mentally incapacitated person.</continued></section><section id="ID_1438402704912_002" name="s6" reason="inEffect" startPeriod="2024-08-29" status="operational" temporalId="s6"><num value="6">6.</num><heading>Non-disclosure of certain written reports</heading><content>Where, in the opinion of a registered medical practitioner who has prepared a written report referred to in <ref>section 59M(3)</ref> of the Ordinance, any part of the report should be withheld from the applicant of a guardianship application or the mentally incapacitated person on the ground that its disclosure would adversely affect the health or welfare of the mentally incapacitated person or others, that part shall be made in a separate document in which shall be set out the reasons for believing that its disclosure would have that effect.</content></section><section id="ID_1438402704927_001" name="s7" reason="inEffect" startPeriod="2024-08-29" status="operational" temporalId="s7"><num value="7">7.</num><heading>Disclosure of documents</heading><subsection id="ID_1438411260057_004" name="1" temporalId="s7_1"><num value="1">(1)</num><content>Subject to subsection (2), the secretary shall, as soon as practicable, send a copy of every document the Board receives which is relevant to a guardianship application to the applicant and any person who has been sent a copy of the application under <ref>section 59N(3)(a)</ref> or (c) of the Ordinance, and any of those persons may submit comments thereon in writing to the Board.</content></subsection><subsection id="ID_1438411260057_012" name="2" temporalId="s7_2"><num value="2">(2)</num><leadIn>The secretary shall not send a document referred to in subsection (1) (including any document containing comments referred to in that subsection) to a person referred to in that subsection if the Board, after considering the views, if any, of the person who prepared the document, has stated in writing—</leadIn><paragraph id="ID_1438411260057_020" name="a" temporalId="s7_2_a"><num value="a">(a)</num><content>that it believes that sending the document to that person would adversely affect the health or welfare of the mentally incapacitated person or others; and</content></paragraph><paragraph id="ID_1438411260073_006" name="b" temporalId="s7_2_b"><num value="b">(b)</num><content>its reasons for believing that sending the document to that person would have that effect.</content></paragraph></subsection><subsection id="ID_1438411260073_013" name="3" temporalId="s7_3"><num value="3">(3)</num><content>Where a document is not to be disclosed pursuant to subsection (2) to a person who has a legal representative, the Board shall nevertheless disclose the document as soon as practicable to the representative.</content></subsection><subsection id="ID_1438411260073_021" name="4" temporalId="s7_4"><num value="4">(4)</num><leadIn>No information disclosed to a legal representative in accordance with subsection (3) shall be—</leadIn><paragraph id="ID_1438411260073_029" name="a" temporalId="s7_4_a"><num value="a">(a)</num><content>disclosed either directly or indirectly to any other person without the authority of the Board; or</content></paragraph><paragraph id="ID_1438411260073_037" name="b" temporalId="s7_4_b"><num value="b">(b)</num><content>used otherwise than in connection with the guardianship application concerned.</content></paragraph></subsection></section></part><part id="ID_1438402704927_003" name="P3" reason="inEffect" startPeriod="2024-08-29" status="operational" temporalId="P3"><num value="3">Part III</num><heading>Review of Guardianship Orders</heading><section id="ID_1438402704943_001" name="s8" reason="inEffect" startPeriod="2024-08-29" status="operational" temporalId="s8"><num value="8">8.</num><heading>Making application to review guardianship order</heading><leadIn>An application making a request under <ref>section 59U(4)</ref> of the Ordinance to the Board to review a guardianship order shall be—</leadIn><paragraph id="ID_1438411260120_012" name="a" temporalId="s8_a"><num value="a">(a)</num><content>in accordance with Form 2;</content></paragraph><paragraph id="ID_1438411260120_020" name="b" temporalId="s8_b"><num value="b">(b)</num><content>completed in accordance with such directions and instructions as are specified in the application; and</content></paragraph><paragraph id="ID_1438411260120_028" name="c" temporalId="s8_c"><num value="c">(c)</num><content>accompanied by such documents as are specified in the application.</content></paragraph></section><section id="ID_1438402704943_003" name="s9" reason="inEffect" startPeriod="2024-08-29" status="operational" temporalId="s9"><num value="9">9.</num><heading>Notice of review of guardianship order</heading><leadIn>Where the Board is to review a guardianship order (whether pursuant to a review application or otherwise), the secretary shall, within 14 days of the receipt of a review application in respect of the order, or of the Board’s specification of the date on which it will comply with the requirement of <ref>section 59U(2)(b)</ref> or (3) of the Ordinance to review the order, as the case may be, send notice of the review to—</leadIn><paragraph id="ID_1438411260135_012" name="a" temporalId="s9_a"><num value="a">(a)</num><content>the applicant where there is a review application; and</content></paragraph><paragraph id="ID_1438411260135_020" name="b" temporalId="s9_b"><num value="b">(b)</num><content>the persons referred to in <ref>section 59U(4)(a)</ref>, (b) and (c) of the Ordinance entitled to make such an application (and whether or not there is such an application) except the guardian of the mentally incapacitated person where <ref>section 59T(1)(a)</ref> of the Ordinance is applicable.</content></paragraph></section><section id="ID_1438402704959_002" name="s10" reason="inEffect" startPeriod="2024-08-29" status="operational" temporalId="s10"><num value="10">10.</num><heading>Disclosure of documents</heading><subsection id="ID_1438411260151_026" name="1" temporalId="s10_1"><num value="1">(1)</num><content>Subject to subsection (2), the secretary shall, as soon as practicable, send a copy of every document the Board receives which is relevant to a review of a guardianship order to the persons sent notice of the review under <ref>section 9</ref>, and any of those persons may submit comments thereon in writing to the Board.</content></subsection><subsection id="ID_1438411260166_005" name="2" temporalId="s10_2"><num value="2">(2)</num><leadIn>The secretary shall not send a document referred to in subsection (1) (including any document containing comments referred to in that subsection) to a person referred to in that subsection if the Board, after considering the views, if any, of the person who prepared the document, has stated in writing—</leadIn><paragraph id="ID_1438411260166_013" name="a" temporalId="s10_2_a"><num value="a">(a)</num><content>that it believes that sending the document to that person would adversely affect the health or welfare of the mentally incapacitated person or others; and</content></paragraph><paragraph id="ID_1438411260166_021" name="b" temporalId="s10_2_b"><num value="b">(b)</num><content>its reasons for believing that sending the document to that person would have that effect.</content></paragraph></subsection><subsection id="ID_1438411260166_028" name="3" temporalId="s10_3"><num value="3">(3)</num><content>Where a document is not to be disclosed pursuant to subsection (2) to a person who has a legal representative, the Board shall nevertheless disclose the document as soon as practicable to the representative.</content></subsection><subsection id="ID_1438411260166_036" name="4" temporalId="s10_4"><num value="4">(4)</num><leadIn>No information disclosed to a legal representative in accordance with subsection (3) shall be—</leadIn><paragraph id="ID_1438411260166_044" name="a" temporalId="s10_4_a"><num value="a">(a)</num><content>disclosed either directly or indirectly to any other person without the authority of the Board; or</content></paragraph><paragraph id="ID_1438411260182_006" name="b" temporalId="s10_4_b"><num value="b">(b)</num><content>used otherwise than in connection with the review of the guardianship order concerned.</content></paragraph></subsection></section></part><part id="ID_1438402704974_001" name="P4" reason="inEffect" startPeriod="2024-08-29" status="operational" temporalId="P4"><num value="4">Part IV</num><heading>Directions Applications</heading><section id="ID_1438402704974_003" name="s11" reason="inEffect" startPeriod="2024-08-29" status="operational" temporalId="s11"><num value="11">11.</num><heading>Making application for guardianship directions</heading><leadIn>An application for guardianship directions may be made to the Board and shall be—</leadIn><paragraph id="ID_1438411260198_020" name="a" temporalId="s11_a"><num value="a">(a)</num><content>in accordance with Form 3;</content></paragraph><paragraph id="ID_1438411260213_006" name="b" temporalId="s11_b"><num value="b">(b)</num><content>completed in accordance with such directions and instructions as are specified in the application; and</content></paragraph><paragraph id="ID_1438411260213_014" name="c" temporalId="s11_c"><num value="c">(c)</num><content>accompanied by such documents as are specified in the application.</content></paragraph></section><section id="ID_1438402704990_001" name="s12" reason="inEffect" startPeriod="2024-08-29" status="operational" temporalId="s12"><num value="12">12.</num><heading>Notice of directions application</heading><subsection id="ID_1438411262990_004" name="1" temporalId="s12_1"><num value="1">(1)</num><leadIn>After the receipt of a directions application, the secretary shall, subject to paragraph (d), not later than 14 days of a decision, if any, of the Board to decline to dispose of the application under subsection (2), send a copy of the application to such of the following who are not the applicant—</leadIn><paragraph id="ID_1438411262990_012" name="a" temporalId="s12_1_a"><num value="a">(a)</num><content>the mentally incapacitated person;</content></paragraph><paragraph id="ID_1438411262990_020" name="b" temporalId="s12_1_b"><num value="b">(b)</num><content>the guardian of the mentally incapacitated person;</content></paragraph><paragraph id="ID_1438411262990_028" name="c" temporalId="s12_1_c"><num value="c">(c)</num><content>the Director of Social Welfare;</content></paragraph><paragraph id="ID_1438411263006_006" name="d" temporalId="s12_1_d"><num value="d">(d)</num><content>such relatives of the mentally incapacitated person as the Board thinks fit not later than 14 days after it decides that the relative concerned should be sent a copy of the application.</content></paragraph></subsection><subsection id="ID_1438411263006_013" name="2" temporalId="s12_2"><num value="2">(2)</num><leadIn>The Board may dispose of a directions application—</leadIn><paragraph id="ID_1438411263006_021" name="a" temporalId="s12_2_a"><num value="a">(a)</num><content>by giving guardianship directions in writing to the guardian to which the application relates and, if the applicant is not the guardian, sending a copy of those directions to the applicant; or</content></paragraph><paragraph id="ID_1438411263006_029" name="b" temporalId="s12_2_b"><num value="b">(b)</num><content>by sending a notice to the applicant stating that the Board declines to give guardianship directions to the guardian and the reasons why it so declines.</content></paragraph></subsection><subsection id="ID_1438411263021_005" name="3" temporalId="s12_3"><num value="3">(3)</num><content>It is hereby declared that a directions application disposed of as provided in subsection (2) does not prevent the applicant from making any further such application and, in any such case, this section shall apply again accordingly.</content></subsection></section><section id="ID_1438402704990_003" name="s13" reason="inEffect" startPeriod="2024-08-29" status="operational" temporalId="s13"><num value="13">13.</num><heading>Disclosure of documents</heading><subsection id="ID_1438411263068_004" name="1" temporalId="s13_1"><num value="1">(1)</num><content>Subject to subsection (2), the secretary shall, as soon as practicable, send a copy of every document the Board receives which is relevant to a directions application to the applicant and the persons sent a copy of the application under <ref>section 12(1)(a)</ref>, (b) and (c), and any of those persons may submit comments thereon in writing to the Board.</content></subsection><subsection id="ID_1438411263068_012" name="2" temporalId="s13_2"><num value="2">(2)</num><leadIn>The secretary shall not send a document referred to in subsection (1) (including any document containing comments referred to in that subsection) to a person referred to in that subsection if the Board, after considering the views, if any, of the person who prepared the document, has stated in writing—</leadIn><paragraph id="ID_1438411263068_020" name="a" temporalId="s13_2_a"><num value="a">(a)</num><content>that it believes that sending the document to that person would adversely affect the health or welfare of the mentally incapacitated person or others; and</content></paragraph><paragraph id="ID_1438411263084_006" name="b" temporalId="s13_2_b"><num value="b">(b)</num><content>its reasons for believing that sending the document to that person would have that effect.</content></paragraph></subsection><subsection id="ID_1438411263084_013" name="3" temporalId="s13_3"><num value="3">(3)</num><content>Where a document is not to be disclosed pursuant to subsection (2) to a person who has a legal representative, the Board shall nevertheless disclose the document as soon as practicable to the representative.</content></subsection><subsection id="ID_1438411263084_021" name="4" temporalId="s13_4"><num value="4">(4)</num><leadIn>No information disclosed to a legal representative in accordance with subsection (3) shall be—</leadIn><paragraph id="ID_1438411263084_029" name="a" temporalId="s13_4_a"><num value="a">(a)</num><content>disclosed either directly or indirectly to any other person without the authority of the Board; or</content></paragraph><paragraph id="ID_1438411263084_037" name="b" temporalId="s13_4_b"><num value="b">(b)</num><content>used otherwise than in connection with the directions application concerned.</content></paragraph></subsection></section></part><part id="ID_1438402705005_002" name="P5" reason="inEffect" startPeriod="2024-08-29" status="operational" temporalId="P5"><num value="5">Part V</num><heading>Provisions Applicable to Guardianship Applications, Reviews of Guardianship Orders
+            and Directions Applications</heading><section id="ID_1438402705021_001" name="s14" reason="inEffect" startPeriod="2024-08-29" status="operational" temporalId="s14"><num value="14">14.</num><heading>Application of this Part</heading><subsection id="ID_1438411263146_004" name="1" temporalId="s14_1"><num value="1">(1)</num><leadIn>The provisions of this Part shall apply to and in relation to—</leadIn><paragraph id="ID_1438411263146_012" name="a" temporalId="s14_1_a"><num value="a">(a)</num><content>a guardianship application;</content></paragraph><paragraph id="ID_1438411263146_020" name="b" temporalId="s14_1_b"><num value="b">(b)</num><content>a review application;</content></paragraph><paragraph id="ID_1438411263146_028" name="c" temporalId="s14_1_c"><num value="c">(c)</num><content>a review of a guardianship order where <ref>section 59U(2)(b)</ref> or (3) of the Ordinance requires the review;</content></paragraph><paragraph id="ID_1438411263146_036" name="d" temporalId="s14_1_d"><num value="d">(d)</num><content>a directions application.</content></paragraph></subsection><subsection id="ID_1438411263146_043" name="2" temporalId="s14_2"><num value="2">(2)</num><leadIn>In this Part, unless the context otherwise requires—</leadIn><def name="Application"><term>application</term> (<term xml:lang="zh-Hant-HK">申請</term>) means a
+                guardianship application, a review application or a directions application.</def></subsection></section><section id="ID_1438402705037_001" name="s15" reason="inEffect" startPeriod="2024-08-29" status="operational" temporalId="s15"><num value="15">15.</num><heading>Disqualification of Board members</heading><leadIn>A person shall not be qualified to serve as a member of the Board for the purpose of any proceedings where he has—</leadIn><paragraph id="ID_1438411263162_043" name="a" temporalId="s15_a"><num value="a">(a)</num><content>a personal connection with the mentally incapacitated person concerned; or</content></paragraph><paragraph id="ID_1438411263162_051" name="b" temporalId="s15_b"><num value="b">(b)</num><content>a conflict of interest with the mentally incapacitated person.</content></paragraph></section><section id="ID_1438402705037_003" name="s16" reason="inEffect" startPeriod="2024-08-29" status="operational" temporalId="s16"><num value="16">16.</num><heading>Legal representation</heading><subsection id="ID_1438411263177_026" name="1" temporalId="s16_1"><num value="1">(1)</num><content>In any proceedings before the Board, a party to the proceedings may appear and be heard and be legally represented.</content></subsection><subsection id="ID_1438411263177_034" name="2" temporalId="s16_2"><num value="2">(2)</num><content>The legal representative of a party to any proceedings before the Board shall, as soon as practicable, notify the Board in writing of his name and postal address and the name of the party he represents.</content></subsection><subsection id="ID_1438411263177_042" name="3" temporalId="s16_3"><num value="3">(3)</num><content>The secretary shall send to a legal representative of a party to proceedings before the Board copies of all notices and documents which are by these Rules required or authorized to be sent to the party and the representative may take all such steps and do all such things relating to the proceedings as the party is by these Rules required or authorized to take or do.</content></subsection><subsection id="ID_1438411263193_005" name="4" temporalId="s16_4"><num value="4">(4)</num><content>Unless the Board otherwise directs, in any proceedings before the Board a party to the proceedings appearing before the Board may be accompanied by such other person or persons as he wishes, in addition to any legal representative.</content></subsection></section><section id="ID_1438402705052_002" name="s17" reason="inEffect" startPeriod="2024-08-29" status="operational" temporalId="s17"><num value="17">17.</num><heading>Directions</heading><content>Subject to the provisions of these Rules, the Board may give such directions as it thinks fit to ensure the speedy and just determination of any application or any review of a guardianship order where there is no application.</content></section><section id="ID_1438402705052_004" name="s18" reason="inEffect" startPeriod="2024-08-29" status="operational" temporalId="s18"><num value="18">18.</num><heading>Further information</heading><subsection id="ID_1438411263271_004" name="1" temporalId="s18_1"><num value="1">(1)</num><content>Before or during any hearing the Board may call for such further information or reports as it may think desirable, and may give directions as to the manner in which the persons by whom such material is to be furnished.</content></subsection><subsection id="ID_1438411263271_012" name="2" temporalId="s18_2"><num value="2">(2)</num><content><ref>Section 7</ref>, <ref>10</ref> or <ref>13</ref>, as the case may require, shall apply to any further information or reports obtained by the Board.</content></subsection></section><section id="ID_1438402705068_002" name="s19" reason="inEffect" startPeriod="2024-08-29" status="operational" temporalId="s19"><num value="19">19.</num><heading>Adjournment</heading><subsection id="ID_1438411263318_004" name="1" temporalId="s19_1"><num value="1">(1)</num><content>The Board may at any time adjourn a hearing for the purpose of obtaining further information or for such other purposes as it may think appropriate.</content></subsection><subsection id="ID_1438411263318_012" name="2" temporalId="s19_2"><num value="2">(2)</num><content>Before adjourning a hearing, the Board may give such directions as it thinks fit for ensuring the prompt consideration of an application, or review of a guardianship order where there is no application, at an adjourned hearing.</content></subsection><subsection id="ID_1438411263318_020" name="3" temporalId="s19_3"><num value="3">(3)</num><content>Where the applicant (where there is an application), the mentally incapacitated person, the guardian, if any, of the mentally incapacitated person or the Director of Social Welfare requests that a hearing adjourned in accordance with this section be resumed, the hearing shall be resumed provided that the Board is satisfied that resumption would be in the interests of the mentally incapacitated person.</content></subsection><subsection id="ID_1438411263333_005" name="4" temporalId="s19_4"><num value="4">(4)</num><content>Before the Board resumes a hearing which has been adjourned without a further hearing date being fixed the secretary shall give to all parties not less than 14 days’ notice (or such shorter notice as all parties may consent to) of the date, time and place of the resumed hearing.</content></subsection></section><section id="ID_1438402705068_004" name="s20" reason="inEffect" startPeriod="2024-08-29" status="operational" temporalId="s20"><num value="20">20.</num><heading>Two or more pending applications, etc.</heading><subsection id="ID_1438411263364_035" name="1" temporalId="s20_1"><num value="1">(1)</num><content>The Board may consider more than one application, whether with or without a review of a guardianship order not arising from an application, in respect of a mentally incapacitated person at the same time and may for this purpose adjourn the proceedings relating to an application or review of a guardianship order where there is no application.</content></subsection><subsection id="ID_1438411263380_005" name="2" temporalId="s20_2"><num value="2">(2)</num><content>Where the Board considers more than one application in respect of a mentally incapacitated person at the same time, each applicant (if more than one) shall have the same rights under these Rules as he would have if he were the only applicant.</content></subsection></section><section id="ID_1438402705083_002" name="s21" reason="inEffect" startPeriod="2024-08-29" status="operational" temporalId="s21"><num value="21">21.</num><heading>Transfer of proceedings</heading><content>Where any proceedings in relation to a mentally incapacitated person have not been disposed of by the members of the Board constituted for the purpose because of the illness or death of any such members, and the Chairperson is of the opinion that it is not practicable or not possible without undue delay for the consideration of those proceedings to be completed by those members, he shall make arrangements for them to be heard by other members of the Board.</content></section><section id="ID_1438402705099_001" name="s22" reason="inEffect" startPeriod="2024-08-29" status="operational" temporalId="s22"><num value="22">22.</num><heading>Withdrawal of application</heading><subsection id="ID_1438411263411_011" name="1" temporalId="s22_1"><num value="1">(1)</num><content>An application may be withdrawn at any time at the request of the applicant provided that the request is made in writing and the Board agrees.</content></subsection><subsection id="ID_1438411263411_019" name="2" temporalId="s22_2"><num value="2">(2)</num><content>Where an application is withdrawn, the secretary shall so inform the parties.</content></subsection></section><section id="ID_1438402705099_003" name="s23" reason="inEffect" startPeriod="2024-08-29" status="operational" temporalId="s23"><num value="23">23.</num><heading>Notice of hearing</heading><content>The secretary shall give at least 14 days’ notice of the date, time and place fixed for the hearing of an application or a review of a guardianship order where there is no application, or such shorter notice as all parties may consent to, to all the parties.</content></section><section id="ID_1438402705115_001" name="s24" reason="inEffect" startPeriod="2024-08-29" status="operational" temporalId="s24"><num value="24">24.</num><heading>Privacy of proceedings</heading><subsection id="ID_1438411263442_011" name="1" temporalId="s24_1"><num value="1">(1)</num><content>The Board may exclude from any hearing or part of a hearing any person or class of persons, other than a legal representative of an applicant (where there is an application) or of a mentally incapacitated person, and in any case where the Board decides to exclude the applicant, if any, or the mentally incapacitated person or their legal representatives or a legal representative of the Director of Social Welfare, it shall inform the person excluded of its reasons and record those reasons in writing.</content></subsection><subsection id="ID_1438411263458_005" name="2" temporalId="s24_2"><num value="2">(2)</num><content>Except in so far as the Board may direct, information about proceedings before the Board and the names of any persons concerned in the proceedings shall not be made public in any case where the proceedings were conducted wholly or partly in the absence of the public.</content></subsection></section><section id="ID_1438402705115_003" name="s25" reason="inEffect" startPeriod="2024-08-29" status="operational" temporalId="s25"><num value="25">25.</num><heading>Hearing procedure</heading><subsection id="ID_1438411263505_004" name="1" temporalId="s25_1"><num value="1">(1)</num><content>The Board may conduct the hearing in such manner as it considers most suitable bearing in mind the health and welfare of the mentally incapacitated person and it shall, so far as appears to it appropriate, seek to avoid formality in its proceedings.</content></subsection><subsection id="ID_1438411263505_012" name="2" temporalId="s25_2"><num value="2">(2)</num><content>At any time before an application is determined, or the review of a guardianship order is concluded where there is no application, the Board or any one or more of its members may interview the mentally incapacitated person, and shall interview him if he so requests, but no interview shall be held unless there is not less than 1 other individual present in addition to the mentally incapacitated person and the individual interviewing him.</content></subsection><subsection id="ID_1438411263520_005" name="3" temporalId="s25_3"><num value="3">(3)</num><content>At the beginning of the hearing the Chairperson shall explain the manner of proceedings which the Board proposes to adopt.</content></subsection><subsection id="ID_1438411263520_013" name="4" temporalId="s25_4"><num value="4">(4)</num><content>Subject to <ref>section 24(1)</ref> and <ref>section 59O(1)</ref> of the Ordinance, any party and, with the permission of the Board, any other person, may appear at the hearing and take such part in the proceedings as the Board thinks proper; and the Board shall in particular hear and take evidence from the applicant, if any, the proposed guardian or guardian, if any, registered medical practitioners, if any, the Director of Social Welfare and, so far as is practicable, the mentally incapacitated person who may all hear each other’s evidence, put questions to each other, call witnesses and put questions to any witness or other person appearing before the Board.</content></subsection><subsection id="ID_1438411263536_005" name="5" temporalId="s25_5"><num value="5">(5)</num><content>After all the evidence has been given, the applicant, if any, and the mentally incapacitated person shall be given a further opportunity to address the Board.</content></subsection></section><section id="ID_1438402705130_001" name="s26" reason="inEffect" startPeriod="2024-08-29" status="operational" temporalId="s26"><num value="26">26.</num><heading>Decisions</heading><content>The decision by which the Board determines an application, or concludes a review of a guardianship order where there is no application, shall be recorded in writing and the record thereof shall be signed by the Chairperson and state the reasons for the decision.</content></section><section id="ID_1438402705130_003" name="s27" reason="inEffect" startPeriod="2024-08-29" status="operational" temporalId="s27"><num value="27">27.</num><heading>Communication of decisions</heading><subsection id="ID_1438411263583_004" name="1" temporalId="s27_1"><num value="1">(1)</num><content>The decision by which the Board determines an application, or concludes a review of a guardianship order where there is no application, may, at the discretion of the Board, be announced by the Chairperson immediately after the hearing of the case and, subject to subsection (2), the written decision of the Board, including the reasons, shall be communicated in writing within 7 days of the hearing to all the parties.</content></subsection><subsection id="ID_1438411263583_012" name="2" temporalId="s27_2"><num value="2">(2)</num><content>Where the Board considers that the full disclosure of the recorded reasons for its decision to the mentally incapacitated person in accordance with subsection (1) would adversely affect the health or welfare of the mentally incapacitated person or others, the Board may instead communicate its decision to him in such manner as it thinks appropriate and may communicate its decision to the other parties subject to any conditions it may think appropriate as to the disclosure thereof to the mentally incapacitated person.</content></subsection><subsection id="ID_1438411263598_005" name="3" temporalId="s27_3"><num value="3">(3)</num><content>Where the applicant, if any, or the mentally incapacitated person was represented at the hearing by a legal representative, the Board shall disclose the full recorded grounds of its decision to the representative, subject to any conditions it may think appropriate as to the disclosure thereof to the mentally incapacitated person.</content></subsection></section><section id="ID_1438402705146_002" name="s28" reason="inEffect" startPeriod="2024-08-29" status="operational" temporalId="s28"><num value="28">28.</num><heading>Time</heading><content>The time appointed by these Rules for the doing of any act may, in the particular circumstances of the case, be extended or, with the exception of the periods of notice specified in <ref>sections 19(4)</ref> and <ref>23</ref>, abridged by the Board on such terms, if any, as it may think fit.</content></section><section id="ID_1438402705161_001" name="s29" reason="inEffect" startPeriod="2024-08-29" status="operational" temporalId="s29"><num value="29">29.</num><heading>Service of notices, etc.</heading><leadIn>Any document required or authorized by these Rules to be sent or given to any person may be sent by prepaid post or delivered—</leadIn><paragraph id="ID_1438411263676_012" name="a" temporalId="s29_a"><num value="a">(a)</num><content>in the case of a document directed to the Board or the Chairperson, to the secretary;</content></paragraph><paragraph id="ID_1438411263676_020" name="b" temporalId="s29_b"><num value="b">(b)</num><content>in any other case, to the last known address of the person to whom the document is directed.</content></paragraph></section><section id="ID_1438402705161_003" name="s30" reason="inEffect" startPeriod="2024-08-29" status="operational" temporalId="s30"><num value="30">30.</num><heading>Irregularities</heading><content>Any irregularity resulting from the failure to comply with these Rules before the Board has determined an application, or concluded a review of a guardianship order where there is no application, shall not of itself render the proceedings void, but the Board may, and shall if it considers that any person may have been prejudiced, take such steps as it thinks fit before determining that application or concluding that review, as the case may be, to cure the irregularity, whether by the amendment of any document, the giving of any notice or new notice or otherwise.</content></section></part><schedule id="ID_1438402705177_001" name="sch0" reason="inEffect" startPeriod="2024-08-29" status="operational" temporalId="sch0"><num value="0">Schedule</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap136E/s2">s. 2(3)</ref>]</note><heading>Forms<marker role="blank-line"></marker><marker role="blank-line"></marker></heading><text>
+            
+            <table xmlns="http://www.w3.org/1999/xhtml" width="100%">
+                <col width="33.3333%"></col>
+                <col width="33.3333%"></col>
+                <col width="33.3333%"></col>
+                <tr>
+                    <td>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td>
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Form
+                            1</center>
+                    </td>
+                    <td>
+                        <p class="align_right">[<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap136E/s3">s.
+                                3</ref>]</p>
+                    </td>
+                </tr>
+            </table>
+            <marker role="blank-line"></marker>
+            <marker role="blank-line"></marker>
+        </text><text class="align_center ">G<inline class="small_caps">uardianship</inline>
+                A<inline class="small_caps">pplication</inline>
+            <inline class="small_caps">under</inline>
+            <ref>S<inline class="small_caps">ection</inline>
+                59M(1)</ref>
+            <inline class="small_caps">of
+                the</inline><br></br>M<inline class="small_caps">ental</inline>
+                H<inline class="small_caps">ealth</inline>
+                O<inline class="small_caps">rdinance</inline>
+                (<ref href="/hk/cap136">C<inline class="small_caps">ap</inline>.
+                136</ref>)<marker role="blank-line"></marker><marker role="blank-line"></marker></text><text class="first_line_indent_0 ">To: Guardianship
+            Board<marker role="blank-line"></marker><marker role="blank-line"></marker></text><crossHeading><inline class="not_bold">PART I</inline></crossHeading><text>
+            <table xmlns="http://www.w3.org/1999/xhtml" frame="void" width="100%">
+                <col width="70%"></col>
+                <col width="30%"></col>
+                <tbody>
+                    <tr>
+                        <td><b>Information on applicant</b></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">If the application is NOT made by the Director of Social
+                            Welfare—</td>
+                    </tr>
+                    <tr>
+                        <td class="leaders_.">Name:
+                            </td>
+                        <td><inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_30"> </inline>Sex:
+                            (M/F)</td>
+                    </tr>
+                    <tr>
+                        <td class="leaders_.">Identity card no.: </td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td class="leaders_." colspan="2">Address: </td>
+                    </tr>
+                    <tr>
+                        <td class="leaders_.">Contact telephone no.:
+                            </td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td colspan="2"><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>If
+                            the application is made by the Director of Social
+                            Welfare—<marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td class="leaders_." colspan="2">Name of contact public officer:
+                            </td>
+                    </tr>
+                    <tr>
+                        <td class="leaders_." colspan="2">Address: </td>
+                    </tr>
+                    <tr>
+                        <td class="leaders_.">Contact telephone no.:
+                            </td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td class="leaders_.">Contact fax no.: </td>
+                        <td></td>
+                    </tr>
+                    
+                    
+                    <tr>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    
+                    
+                    
+                    <tr>
+                        <td colspan="2"><b>Information on the mentally incapacitated person<br></br>the
+                                subject of the application</b></td>
+                    </tr>
+                    
+                    
+                    
+                    <tr>
+                        <td class="leaders_.">Name:
+                            </td>
+                        <td><inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_30"> </inline>Sex:
+                            (M/F)</td>
+                    </tr>
+                    <tr>
+                        <td>If known,</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td class="leaders_.">Identity card no.: </td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td class="leaders_." colspan="2">Address: </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">(including the hospital or institution or residential home
+                            where the mentally incapacitated person is staying)</td>
+                    </tr>
+                    <tr>
+                        <td class="leaders_.">* The mentally incapacitated person is aged </td>
+                        <td></td>
+                    </tr>
+                </tbody>
+            </table>
+            
+            
+            <marker role="blank-line"></marker>
+            <marker role="blank-line"></marker>
+            
+            
+        </text><text class="align_center ">OR<marker role="blank-line"></marker><marker role="blank-line"></marker></text><text class="left_indent_0 first_line_indent_24">[If the age of the mentally incapacitated
+            person is not known]* I (the applicant) believe that the person has attained the age of
+            18 years.<marker role="blank-line"></marker><marker role="blank-line"></marker></text><text class="left_indent_0 first_line_indent_24">I (the applicant) am the [state
+            relationship] <fillIn class=" width_138">.</fillIn> of the mentally incapacitated
+            person/a social worker/a registered medical practitioner/a public officer in the Social
+            Welfare Department*.</text><text class="left_indent_0 first_line_indent_24">
+            <table xmlns="http://www.w3.org/1999/xhtml" frame="void" width="100%">
+                <col width="50%"></col>
+                <col width="50%"></col>
+                <tbody>
+                    <tr>
+                        
+                        <td colspan="2" class="align_justified leaders_. left_indent_0 first_line_indent_24">I
+                            (the applicant) have consulted a relative of the mentally incapacitated
+                            person, namely his/her* [state relationship and name and address of the
+                            relative] </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2" class="leaders_."></td>
+                    </tr>
+                    <tr>
+                        <td colspan="2" class="leaders_."></td>
+                    </tr>
+                    <tr>
+                        <td class="leaders_."></td>
+                        <td>about this application (See Note 1).</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                </tbody>
+            </table>
+            <marker role="blank-line"></marker>
+            <marker role="blank-line"></marker>
+        </text><text class="align_center ">OR<marker role="blank-line"></marker><marker role="blank-line"></marker></text><text>
+            
+            
+            <text class="left_indent_0 first_line_indent_24">I (the applicant)
+                have been unable to locate any relative of the mentally incapacitated person in Hong
+                Kong (See Note 1).</text>
+            <marker role="blank-line"></marker>
+            <marker role="blank-line"></marker>
+            
+            
+            <text class="left_indent_0 first_line_indent_24">I (the applicant)
+                last saw the mentally incapacitated person on [date] <fillIn class=" width_45">.</fillIn> (See Note 2).</text>
+            <marker role="blank-line"></marker>
+            <marker role="blank-line"></marker>
+            
+            
+            <text class="left_indent_0 first_line_indent_24">[If the mentally
+                incapacitated person is a patient detained under the Mental Health Ordinance]* The
+                mentally incapacitated person is detained or liable to be detained under section
+                    <fillIn class=" width_81">.</fillIn> of the Mental Health Ordinance.</text>
+            
+        </text><text class="left_indent_0 first_line_indent_24">
+            
+            
+            <table xmlns="http://www.w3.org/1999/xhtml" frame="void" width="100%">
+                <col width="100%"></col>
+                <tbody>
+                    
+                    
+                    <tr>
+                        
+                        <td class="align_justified left_indent_0 first_line_indent_24">[If the
+                            mentally incapacitated person is the subject of a recommendation under
+                                <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">section
+                                    59E(4)(<i>a</i>)(iii)</ref> or (6)(<i>a</i>) of the Mental
+                            Health Ordinance]* Details of the recommendation (including the order
+                            which the mentally incapacitated person is subject to) are as
+                            follows—</td>
+                    </tr>
+                    
+                    
+                    <tr>
+                        <td class="leaders_."></td>
+                    </tr>
+                    <tr>
+                        <td class="leaders_."></td>
+                    </tr>
+                    <tr>
+                        <td class="leaders_."></td>
+                    </tr>
+                </tbody>
+            </table>
+            <marker role="blank-line"></marker>
+            <marker role="blank-line"></marker>
+            <marker role="blank-line"></marker>
+            <marker role="blank-line"></marker>
+            
+        </text><text><b>Reason
+                for making the
+            application</b></text><subsection id="ID_1526025740328_001" name="0" temporalId="sch0_0"><leadIn class="left_indent_0 first_line_indent_24">I (the applicant) have reason to
+                believe—</leadIn><paragraph id="ID_1438411263739_086" name="a" temporalId="sch0_0_a" class="left_indent_72 first_line_indent_-24 align_justified"><num value="a">(<i>a</i>)</num><text>the mentally incapacitated person the subject of this application is suffering
+                    from mental disorder/has a mental handicap* of a nature of degree which warrants
+                    his/her reception into guardianship under Part IVB of the Mental Health
+                    Ordinance; and</text></paragraph><paragraph id="ID_1438411263754_007" name="b" temporalId="sch0_0_b" class="left_indent_72 first_line_indent_-24 align_justified"><num value="b">(<i>b</i>)</num><text>it is necessary in the interests of the welfare of the mentally incapacitated
+                    person or for the protection of other persons that the mentally incapacitated
+                    person should be so received;</text></paragraph></subsection><continued>
+            
+            
+            <table xmlns="http://www.w3.org/1999/xhtml" frame="void" width="100%">
+                <col width="100%"></col>
+                <tbody>
+                    
+                    
+                    <tr>
+                        <td>The reasons for my belief are—</td>
+                    </tr>
+                    
+                    
+                    <tr>
+                        <td class="leaders_."></td>
+                    </tr>
+                    <tr>
+                        <td class="leaders_."></td>
+                    </tr>
+                    <tr>
+                        <td class="leaders_."></td>
+                    </tr>
+                    <tr>
+                        <td class="leaders_."></td>
+                    </tr>
+                    <tr>
+                        <td class="leaders_."></td>
+                    </tr>
+                    <tr>
+                        <td class="leaders_."></td>
+                    </tr>
+                    
+                    
+                    
+                </tbody>
+            </table>
+            
+            
+            
+            
+            <text class="left_indent_0 first_line_indent_24">I (the applicant)
+                apply for the person to be received into the guardianship of [proposed guardian’s
+                name] <fillIn class=" width_99">.</fillIn> in accordance with <ref>section 59O</ref>
+                of the Mental Health Ordinance.</text>
+            
+            
+            
+            
+            <text class="left_indent_0 first_line_indent_24">This application is
+                accompanied by and founded on the attached written reports of 2 registered medical
+                practitioners (neither of whom is the applicant) in accordance with <ref>section
+                    59M(3)</ref> of the Mental Health Ordinance (See Note 3). Particulars of the 2
+                registered medical practitioners are as
+                follows—</text>
+            
+            <text>
+                
+                <table xmlns="http://www.w3.org/1999/xhtml" frame="void" width="100%">
+                    
+                    <col width="7%"></col>
+                    
+                    <col width="73%"></col>
+                    
+                    <col width="20%"></col>
+                    <tbody>
+                        <tr>
+                            <td>1.</td>
+                            <td class="leaders_.">Name: </td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td class="leaders_." colspan="2">Address: </td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td class="leaders_." colspan="2">Length of period of caring for the
+                                mentally incapacitated person:</td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td colspan="2">Approved under <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">section
+                                    2(2)</ref> of the Mental Health Ordinance: Yes/No*</td>
+                        </tr>
+                        <tr>
+                            <td>2.</td>
+                            <td class="leaders_.">Name:
+                                </td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td class="leaders_." colspan="2">Address: </td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td class="leaders_." colspan="2">Length of period of caring for the
+                                mentally incapacitated person: </td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td colspan="2">Approved under <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">section
+                                    2(2)</ref> of the Mental Health Ordinance: Yes/No*</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </text>
+            
+            
+            <marker role="blank-line"></marker>
+            <marker role="blank-line"></marker>
+            <marker role="blank-line"></marker>
+            <marker role="blank-line"></marker>
+        </continued><text class="align_right ">Signature of the applicant<inline class="width_3"> </inline><fillIn class=" width_99">.</fillIn><marker role="blank-line"></marker><marker role="blank-line"></marker>Date <fillIn class=" width_99">.</fillIn></text><crossHeading><inline class="not_bold">PART II</inline></crossHeading><text></text><text>
+            
+            <table xmlns="http://www.w3.org/1999/xhtml" frame="void" width="100%">
+                <col width="100%"></col>
+                <tbody>
+                    
+                    
+                    <tr>
+                        <td><b xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Information on
+                                proposed guardian where the proposed<br></br>guardian is not the
+                                Director of Social Welfare</b></td>
+                    </tr>
+                    
+                    
+                    <tr>
+                        <td>Name:
+                                <fillIn xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class=" width_200">.</fillIn><inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_30"> </inline>
+                            Sex: (M/F)</td>
+                    </tr>
+                    <tr>
+                        <td>Age: <fillIn xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class=" width_50">.</fillIn></td>
+                    </tr>
+                    <tr>
+                        <td>Identity card no.: <fillIn xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class=" width_129">.</fillIn></td>
+                    </tr>
+                    
+                    
+                    <tr>
+                        <td class="leaders_. ">Address: </td>
+                    </tr>
+                </tbody>
+            </table>
+            
+            
+        </text><crossHeading><inline class="not_bold">PART III</inline></crossHeading><text class="left_indent_0 first_line_indent_24 ">
+            
+            
+            <table xmlns="http://www.w3.org/1999/xhtml" frame="void" width="446">
+                <col width="100%"></col>
+                <tbody>
+                    <tr>
+                        <td><b xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Declaration by
+                                proposed guardian where the proposed<br></br>guardian is not the
+                                Director of Social Welfare</b><text xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="left_indent_0 first_line_indent_24 ">I, the proposed
+                                guardian, am willing to act as the guardian of [name of the mentally
+                                incapacitated person] <fillIn class=" width_237">.</fillIn> in
+                                accordance with <ref>section 59O</ref> of the Mental Health
+                                Ordinance.</text></td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="first_line_indent_24 align_justified">I (the proposed guardian)
+                            am the [state relationship] <fillIn xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class=" width_117">.</fillIn> of the
+                            mentally incapacitated person.</td>
+                    </tr>
+                </tbody>
+            </table>
+            
+            <marker role="blank-line"></marker>
+            <marker role="blank-line"></marker>
+            <marker role="blank-line"></marker>
+            <marker role="blank-line"></marker>
+            <marker role="blank-line"></marker>
+            <marker role="blank-line"></marker>
+        </text><text class="align_right ">Signature of the proposed guardian <fillIn class=" width_99">.</fillIn><marker role="blank-line"></marker><marker role="blank-line"></marker>Date <fillIn class=" width_99">.</fillIn><marker role="blank-line"></marker><marker role="blank-line"></marker></text><text class="font_size_9.5">* Delete as
+            appropriate.<marker role="blank-line"></marker><marker role="blank-line"></marker></text><text>
+            
+            <table xmlns="http://www.w3.org/1999/xhtml" frame="void" width="100%">
+                <col width="10%"></col>
+                <col width="5%"></col>
+                <col width="85%"></col>
+                <tbody>
+                    <tr>
+                        <td>Notes:</td>
+                        <td>1. </td>
+                        
+                        <td class="align_justified">Delete this paragraph if the applicant is a
+                            relative of the mentally incapacitated person.</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>2.</td>
+                        
+                        <td class="align_justified">The applicant must have personally seen the
+                            mentally incapacitated person within 14 days of the date of the
+                            application.</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>3.</td>
+                        
+                        <td class="align_justified">A guardianship application should be forwarded
+                            to the Guardianship Board within 14 days of the mentally incapacitated
+                            person’s last examination by a registered medical practitioner before
+                            furnishing a written report containing a medical opinion for the
+                            purposes of the application (see <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">section 59R(4)</ref>
+                            of the Mental Health Ordinance).</td>
+                    </tr>
+                </tbody>
+            </table>
+        </text><crossHeading><fillIn class=" width_57">_</fillIn></crossHeading><text>
+            <table xmlns="http://www.w3.org/1999/xhtml" width="100%">
+                <col width="33.3333%"></col>
+                <col width="33.3333%"></col>
+                <col width="33.3333%"></col>
+                <tr>
+                    <td>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td>
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Form
+                            2</center>
+                    </td>
+                    <td>
+                        <p class="align_right">[<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap136E/s8">s. 8</ref>]</p>
+                    </td>
+                </tr>
+            </table>
+            <marker role="blank-line"></marker>
+            <marker role="blank-line"></marker>
+        </text><text class="align_center ">R<inline class="small_caps">equest
+                under</inline>
+            <ref>S<inline class="small_caps">ection</inline>
+                59U(4)</ref>
+            <inline class="small_caps">of
+            the</inline>
+                M<inline class="small_caps">ental</inline><br></br>H<inline class="small_caps">ealth</inline>
+                O<inline class="small_caps">rdinance</inline>
+                (<ref href="/hk/cap136">C<inline class="small_caps">ap</inline>.
+                136</ref>)
+                <inline class="small_caps">for</inline>
+                R<inline class="small_caps">eview
+                of</inline><br></br>G<inline class="small_caps">uardianship</inline>
+                O<inline class="small_caps">rder</inline><marker role="blank-line"></marker><marker role="blank-line"></marker></text><text>To: Guardianship
+                Board<marker role="blank-line"></marker><marker role="blank-line"></marker><table xmlns="http://www.w3.org/1999/xhtml" frame="void" width="100%">
+                
+                <col width="6%"></col>
+                
+                <col width="6%"></col>
+                
+                <col width="55%"></col>
+                
+                <col width="33%"></col>
+                <tbody>
+                    
+                    
+                    <tr>
+                        <td colspan="4"><b xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Information on
+                                applicant</b></td>
+                    </tr>
+                    
+                    
+                    <tr>
+                        <td colspan="4">Name: <fillIn xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_180">.</fillIn><inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_30"> </inline>Sex: (M/F)</td>
+                    </tr>
+                    <tr>
+                        <td colspan="4">Relationship with the mentally incapacitated person:</td>
+                    </tr>
+                    
+                    
+                    <tr>
+                        <td></td>
+                        <td>1* </td>
+                        <td colspan="2">self</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>2* </td>
+                        <td colspan="2">guardian who is the Director of Social Welfare</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>3* </td>
+                        <td colspan="2">guardian who is not the Director of Social Welfare</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>4* </td>
+                        
+                        <td colspan="2" class="leaders_.">relative, please specify:
+                            </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>5*</td>
+                        
+                        <td colspan="2" class="leaders_.">other, please specify: </td>
+                    </tr>
+                    <tr>
+                        <td colspan="4" class="leaders_.">Identity card no. (except in case 2
+                            above): </td>
+                    </tr>
+                    <tr>
+                        <td colspan="4" class="leaders_.">Address (except in case 2 above): </td>
+                    </tr>
+                    <tr>
+                        <td colspan="4"></td>
+                    </tr>
+                    <tr>
+                        <td colspan="4"><b>Information on mentally incapacitated person</b></td>
+                    </tr>
+                    
+                    
+                    
+                    <tr>
+                        <td colspan="3" class="leaders_.">Name: </td>
+                        <td><inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_30"> </inline>Sex:
+                            (M/F)</td>
+                    </tr>
+                    <tr>
+                        <td colspan="3">Age: <fillIn xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class=" width_50">.</fillIn></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td colspan="3" class="leaders_.">Identity card no.: </td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        
+                        <td colspan="4" class="leaders_.">Address:
+                            </td>
+                    </tr>
+                    <tr>
+                        <td colspan="3"></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td colspan="4"><b>Information on guardian where the guardian is
+                                not<br xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"></br>the Director
+                                of Social Welfare</b></td>
+                    </tr>
+                    
+                    
+                    
+                    <tr>
+                        <td colspan="3" class="leaders_.">Name: </td>
+                        <td><inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_30"> </inline>Sex:
+                            (M/F)</td>
+                    </tr>
+                    <tr>
+                        <td colspan="3">Age:
+                                <fillIn xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_50">.</fillIn></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td colspan="3" class="leaders_.">Identity card no.: </td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td colspan="4" class="leaders_.">Address:
+                            </td>
+                    </tr>
+                    <tr>
+                        <td colspan="4"></td>
+                    </tr>
+                    <tr>
+                        <td colspan="4"><b>Information on guardian who is a public officer
+                                acting<br xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"></br>on behalf
+                                of the Director of Social Welfare</b></td>
+                    </tr>
+                    
+                    
+                    
+                    <tr>
+                        <td colspan="4">Name of public officer acting on behalf of the Director of
+                            Social Welfare as</td>
+                    </tr>
+                    <tr>
+                        <td colspan="4" class="left_indent_5 leaders_.">guardian: </td>
+                    </tr>
+                    <tr>
+                        
+                        <td colspan="4" class="leaders_.">Address:
+                            </td>
+                    </tr>
+                    <tr>
+                        <td colspan="4" class=" leaders_.">Contact telephone no.:
+                            </td>
+                    </tr>
+                    <tr>
+                        <td colspan="4" class=" leaders_.">Contact fax no.:
+                            </td>
+                    </tr>
+                    <tr>
+                        <td colspan="4"></td>
+                    </tr>
+                    <tr>
+                        <td colspan="4"><b>Information on guardianship order</b></td>
+                    </tr>
+                    <tr>
+                        <td colspan="4" class="leaders_.">Date on which order was made:
+                            </td>
+                    </tr>
+                    <tr>
+                        <td colspan="4" class="leaders_.">Powers conferred on the guardian: </td>
+                    </tr>
+                    <tr>
+                        <td colspan="4" class="leaders_."></td>
+                    </tr>
+                    <tr>
+                        <td colspan="4" class="leaders_."></td>
+                    </tr>
+                    <tr>
+                        <td colspan="4"></td>
+                    </tr>
+                    <tr>
+                        
+                        <td colspan="4"><b>Reasons for making the application</b></td>
+                    </tr>
+                    <tr>
+                        <td colspan="4" class="leaders_."></td>
+                    </tr>
+                    <tr>
+                        <td colspan="4" class="leaders_."></td>
+                    </tr>
+                    <tr>
+                        <td colspan="4" class="leaders_."></td>
+                    </tr>
+                    <tr>
+                        <td colspan="4" class="leaders_."></td>
+                    </tr>
+                    <tr>
+                        <td colspan="4" class="leaders_."></td>
+                    </tr>
+                    <tr>
+                        <td colspan="4" class="leaders_."></td>
+                    </tr>
+                    <tr>
+                        <td colspan="4" class="leaders_."></td>
+                    </tr>
+                </tbody>
+            </table>
+            <marker role="blank-line"></marker><marker role="blank-line"></marker><marker role="blank-line"></marker><marker role="blank-line"></marker></text><text class="align_right ">Signature of the applicant <fillIn class=" width_99">.</fillIn><marker role="blank-line"></marker><marker role="blank-line"></marker>Date <fillIn class=" width_99">.</fillIn><marker role="blank-line"></marker><marker role="blank-line"></marker></text><text class="font_size_9.5">* Delete as
+            appropriate.</text><crossHeading><fillIn class=" width_57">_</fillIn> </crossHeading><text>
+            
+            <table xmlns="http://www.w3.org/1999/xhtml" width="100%">
+                <col width="33.3333%"></col>
+                <col width="33.3333%"></col>
+                <col width="33.3333%"></col>
+                <tr>
+                    <td>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td>
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Form
+                            3</center>
+                    </td>
+                    <td>
+                        <p class="align_right">[<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap136E/s11">s.
+                                11</ref>]</p>
+                    </td>
+                </tr>
+            </table>
+            <marker role="blank-line"></marker>
+            <marker role="blank-line"></marker>
+        </text><text class="align_center ">D<inline class="small_caps">irections</inline>
+                A<inline class="small_caps">pplication under</inline>
+            <ref>S<inline class="small_caps">ection</inline>
+                    59K(1)(<i>d</i>)</ref>
+            <inline class="small_caps">of
+                the</inline><br></br>M<inline class="small_caps">ental</inline>
+                H<inline class="small_caps">ealth</inline>
+                O<inline class="small_caps">rdinance</inline>
+                (<ref href="/hk/cap136">C<inline class="small_caps">ap</inline>.
+                136</ref>)<marker role="blank-line"></marker><marker role="blank-line"></marker></text><text>To: Guardianship
+                Board<marker role="blank-line"></marker><marker role="blank-line"></marker><b>Information
+                on
+            applicant</b></text><text id="ID_1438411263817_153">
+            <text>If the application is NOT made by the Director of Social Welfare—</text>
+            <text>Name: <fillIn class=" width_162">.</fillIn><inline class="width_50"> </inline>Sex:
+                (M/F)</text>
+            <text>Relationship with the mentally incapacitated person:</text>
+            
+            <text>
+                
+                <table xmlns="http://www.w3.org/1999/xhtml" frame="void" width="100%">
+                    
+                    <col width="6%"></col>
+                    
+                    <col width="5%"></col>
+                    
+                    <col width="52%"></col>
+                    
+                    <col width="37%"></col>
+                    <tbody>
+                        <tr>
+                            <td></td>
+                            <td>1* </td>
+                            <td colspan="2">self</td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td>2* </td>
+                            <td>guardian</td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td>3* </td>
+                            
+                            <td colspan="2" class="leaders_.">relative, please specify: </td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td>4* </td>
+                            
+                            <td colspan="2" class="leaders_.">other, please specify:
+                                </td>
+                        </tr>
+                        <tr>
+                            <td colspan="3" class="leaders_.">Identity card no.:
+                                </td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td colspan="4" class="leaders_.">Address:
+                                </td>
+                        </tr>
+                        <tr>
+                            <td colspan="3" class="leaders_.">Contact telephone no.: </td>
+                            <td></td>
+                        </tr>
+                        
+                        
+                        
+                        <tr>
+                            <td colspan="4">If the application is made by the Director of Social
+                                Welfare—</td>
+                        </tr>
+                        <tr>
+                            <td colspan="4" class="leaders_.">Name of contact public officer: </td>
+                        </tr>
+                        <tr>
+                            <td colspan="4" class="leaders_.">Address:
+                                </td>
+                        </tr>
+                        <tr>
+                            <td colspan="3" class="leaders_.">Contact telephone no.: </td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td colspan="3" class="leaders_.">Contact fax no.:
+                                </td>
+                            <td></td>
+                        </tr>
+                        
+                        
+                        
+                        <tr>
+                            <td colspan="4"><b>Information on guardian if the applicant is not the
+                                    guardian</b></td>
+                        </tr>
+                        
+                        
+                        
+                        <tr>
+                            <td colspan="3" class="leaders_.">Name: </td>
+                            <td><inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_30"> </inline>Sex:
+                                (M/F)</td>
+                        </tr>
+                        <tr>
+                            <td colspan="3">Age:<fillIn xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_50">.</fillIn></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td colspan="3" class="leaders_.">Identity card no.:
+                                </td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            
+                            <td colspan="4" class="leaders_.">Address:
+                                </td>
+                        </tr>
+                        <tr>
+                            <td colspan="3" class="leaders_.">Contact telephone no.: </td>
+                            <td></td>
+                        </tr>
+                        
+                        
+                        
+                        <tr>
+                            <td colspan="4"><b>Information
+                                    on mentally incapacitated
+                                person</b></td>
+                        </tr>
+                        <tr>
+                            <td colspan="3" class="leaders_.">Name:
+                                </td>
+                            <td><inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_30"> </inline>Sex:
+                                (M/F)</td>
+                        </tr>
+                        <tr>
+                            <td colspan="3">Age:
+                                    <fillIn xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_50">.</fillIn></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td colspan="3" class="leaders_.">Identity card no.:
+                                </td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td colspan="4" class="leaders_.">Address: </td>
+                        </tr>
+                        <tr>
+                            <td colspan="4"><b>Information on guardianship order</b></td>
+                        </tr>
+                        <tr>
+                            <td colspan="3" class="leaders_.">Date on which order was made: </td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td colspan="3">Powers conferred on the guardian:</td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            
+                            <td colspan="4" class="leaders_."></td>
+                        </tr>
+                        
+                        
+                        <tr>
+                            <td colspan="4" class="leaders_."></td>
+                        </tr>
+                        <tr>
+                            <td colspan="4" class="leaders_."></td>
+                        </tr>
+                        <tr>
+                            <td colspan="4" class="leaders_."></td>
+                        </tr>
+                        
+                        
+                        
+                        <tr>
+                            <td colspan="4"><b>Directions sought from Guardianship Board</b></td>
+                        </tr>
+                        <tr>
+                            <td colspan="4" class="leaders_."></td>
+                        </tr>
+                        <tr>
+                            <td colspan="4" class="leaders_."></td>
+                        </tr>
+                        <tr>
+                            <td colspan="4" class="leaders_."></td>
+                        </tr>
+                        <tr>
+                            <td colspan="4" class="leaders_."></td>
+                        </tr>
+                        <tr>
+                            <td colspan="4" class="leaders_."></td>
+                        </tr>
+                        <tr>
+                            <td colspan="4" class="leaders_."></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </text>
+            
+            
+            <text>
+                
+                <marker role="blank-line"></marker>
+                <marker role="blank-line"></marker>
+                <marker role="blank-line"></marker>
+                <marker role="blank-line"></marker>
+                <marker role="blank-line"></marker>
+                <marker role="blank-line"></marker>
+            </text>
+            
+            <text class="align_right ">Signature of the applicant <fillIn class=" width_99">.</fillIn><marker role="blank-line"></marker><marker role="blank-line"></marker>Date <fillIn class=" width_99">.</fillIn></text>
+        </text></schedule></main></subLeg>

@@ -1,0 +1,896 @@
+<?xml version="1.0" encoding="UTF-8"?><ordinance xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd" xml:lang="en"><meta><docName>Cap. 413</docName><docType>cap</docType><docNumber>413</docNumber><docStatus>In effect</docStatus><dc:identifier>/hk/cap413!en</dc:identifier><dc:date>2024-07-05</dc:date><dc:subject>legislation</dc:subject><dc:language>en</dc:language><dc:publisher>DoJ</dc:publisher><dc:rights>the Government of the Hong Kong Special Administrative Region</dc:rights></meta><main xml:lang="en" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd"><longTitle id="ID_1438403169044_001" name="longTitle" reason="inEffect" status="operational" temporalId="longTitle" startPeriod="2023-08-17">
+            <content>An Ordinance to provide for the prevention and control of pollution from ships
+                and for incidental or related matters.</content>
+            <content>
+                <marker role="blank-line"></marker>
+                <marker role="blank-line"></marker>
+            </content>
+        </longTitle><commencementNote>[15 January 1991]<sourceNote><inline class="width_3"> </inline><ref href="/hk/1991/ln14">L.N. 14 of 1991</ref></sourceNote></commencementNote><sourceNote>(Format changes—<ref href="hk/2023/er3">E.R. 3 of 2023</ref>)</sourceNote><enactingFormula>
+            <content><sourceNote>(Enacting provision omitted—<ref href="hk/2023/er3">E.R. 3 of
+                        2023</ref>)</sourceNote></content>
+        </enactingFormula><part id="ID_1438403169059_001" name="P1" reason="inEffect" startPeriod="2023-08-17" status="operational" temporalId="P1"><num value="1">Part
+            I</num><heading>Preliminary</heading><section id="ID_1438403169059_003" name="s1" reason="inEffect" startPeriod="2023-08-17" status="operational" temporalId="s1"><num value="1">1.</num><heading>Short title</heading><sourceNote>(Amended <ref href="/hk/2023/er3">E.R. 3 of 2023</ref>)</sourceNote><subsection name="1" temporalId="s1_1" id="ID_1683531577889_001"><num value="1">(1)</num><content>This Ordinance may be cited as the <shortTitle>Merchant Shipping (Prevention
+                    and Control of Pollution) Ordinance</shortTitle>.</content></subsection><subsection id="ID_1438412555827_044" name="2" temporalId="s1_2"><num value="2">(2)</num><sourceNote>(Omitted as spent—<ref href="/hk/2023/er3">E.R. 3 of
+                2023</ref>)</sourceNote></subsection></section><section id="ID_1438403169075_001" name="s2" reason="inEffect" startPeriod="2023-08-17" status="operational" temporalId="s2"><num value="2">2.</num><heading>Interpretation</heading><leadIn>In this Ordinance, unless the context otherwise requires—</leadIn><def name="Control"><term>control</term>
+                (<term xml:lang="zh-Hant-HK">控制</term>) includes contain and reduce;</def><def name="Director"><term>Director</term>
+                (<term xml:lang="zh-Hant-HK">處長</term>) means the Director of Marine;</def><def name="Discharge">
+            <leadIn><term>discharge</term>
+                    (<term xml:lang="zh-Hant-HK">排放</term>) means any release, howsoever caused,
+                from a ship and includes any escape, disposal, spilling, leaking, pumping, emitting
+                or emptying; but does not include—</leadIn>
+            <paragraph id="ID_1438412434599_005" name="a" temporalId="s2_a"><num value="a">(a)</num><content>dumping within the meaning of the Convention on the Prevention of Marine
+                    Pollution by Dumping of Wastes and Other Matter signed in London on 13 November
+                    1972; or</content></paragraph>
+            <paragraph id="ID_1438412434599_013" name="b" temporalId="s2_b"><num value="b">(b)</num><content>any release directly arising from the exploration, exploitation and
+                    associated off-shore processing of sea-bed mineral resources; or</content></paragraph>
+            <paragraph id="ID_1438412434599_021" name="c" temporalId="s2_c"><num value="c">(c)</num><content>any release for the purposes of legitimate scientific research into
+                    pollution abatement or control;</content></paragraph>
+        </def><def name="HongKongShip">
+            <leadIn><term>Hong
+                    Kong
+                ship</term>
+                    (<term xml:lang="zh-Hant-HK">香港船舶</term>) means—</leadIn>
+            <paragraph id="ID_1438412434599_035" name="a" temporalId="s2_a"><num value="a">(a)</num><content>a ship registered in Hong Kong; and</content></paragraph>
+            <paragraph id="ID_1438412434599_043" name="b" temporalId="s2_b"><num value="b">(b)</num><content>a vessel required to be certificated under the Merchant Shipping (Local
+                    Vessels) Ordinance (<ref href="/hk/cap548">Cap. 548</ref>);<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/1999/43">43
+                            of 1999 s. 91</ref>)</sourceNote></content></paragraph>
+        </def><def name="Master">
+            <leadIn><term>master</term>
+                    (<term xml:lang="zh-Hant-HK">船長</term>), in relation to—</leadIn>
+            <paragraph id="ID_1438412434599_057" name="a" temporalId="s2_a"><num value="a">(a)</num><content>a Hong Kong ship referred to in paragraph (a) of the definition of
+                            <b><i>Hong
+                            Kong
+                            ship</i></b>,
+                    means a person (except a pilot) having for the time being the charge or command
+                    of the ship;</content></paragraph>
+            <paragraph id="ID_1438412434599_065" name="b" temporalId="s2_b"><num value="b">(b)</num><content>a Hong Kong ship referred to in paragraph (b) of the definition of
+                            <b><i>Hong
+                            Kong
+                    ship</i></b>,
+                    means a coxswain within the meaning of the Merchant Shipping (Local Vessels)
+                    Ordinance (<ref href="/hk/cap548">Cap. 548</ref>);<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1999/43">43 of 1999 s.
+                        91</ref>)</sourceNote></content></paragraph>
+        </def><def name="Oil">
+            <leadIn><term>oil</term>
+                    (<term xml:lang="zh-Hant-HK">油類</term>) means—</leadIn>
+            <paragraph id="ID_1438412434614_012" name="a" temporalId="s2_a"><num value="a">(a)</num><content>petroleum in any form including crude oil, fuel oil, sludge, oil refuse and
+                    refined products (other than petrochemicals which are subject to the provisions
+                    of Annex II of the Convention as defined in <ref>section 3(1)</ref>);
+                    and</content></paragraph>
+            <paragraph id="ID_1438412434614_020" name="b" temporalId="s2_b"><num value="b">(b)</num><content>the substances listed in appendix I to Annex I of the Convention;<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/1999/16">16
+                            of 1999 s. 2</ref>)</sourceNote></content></paragraph>
+        </def><def name="Ship"><term>ship</term> (<term xml:lang="zh-Hant-HK">船</term>、<term xml:lang="zh-Hant-HK">船舶</term>) means a vessel of any type whatsoever operating in the marine
+            environment and includes a hydrofoil, hovercraft, submersible or floating craft and a
+            fixed or floating platform. <sourceNote>(Replaced <ref href="hk/2018/17">17 of 2018 s. 98</ref>)</sourceNote></def></section></part><part id="ID_1438403169106_001" name="P2" reason="inEffect" startPeriod="2023-08-17" status="operational" temporalId="P2"><num value="2">Part
+            II</num><heading>Regulations
+            for
+            the Prevention
+            and Control
+            of
+            Pollution</heading><section id="ID_1438403169106_003" name="s3" reason="inEffect" startPeriod="2023-08-17" status="operational" temporalId="s3"><num value="3">3.</num><heading>Regulations for the prevention and control of pollution</heading><subsection id="ID_1438412434692_004" name="1" temporalId="s3_1"><num value="1">(1)</num><leadIn>In this section—</leadIn><def name="Convention"><term>Convention</term>
+                    (<term xml:lang="zh-Hant-HK">公約</term>) means the International Convention for
+                the Prevention of Pollution from Ships (including its protocols, annexes and
+                appendices) which constitutes Attachment 1 to the Final Act of the International
+                Conference on Marine Pollution signed in London on 2 November 1973, as modified by
+                any international agreement referred to in subsection
+                <ref>(2)(b)(iii)</ref>;</def><def name="Protocol"><term>Protocol</term>
+                    (<term xml:lang="zh-Hant-HK">議定書</term>) means the Protocol (including the annex
+                thereto) relating to the Convention which constitutes Attachment 2 to the Final Act
+                of the International Conference on Tanker Safety and Pollution Prevention signed in
+                London on 17 February 1978, as modified by any international agreement referred to
+                in subsection <ref>(2)(b)(iii)</ref>;</def><def name="SubstanceOtherThanOil"><term>substance
+                    other than
+                oil</term>
+                    (<term xml:lang="zh-Hant-HK">非油類物質</term>) includes sewage and garbage of any
+                kind.</def></subsection><subsection id="ID_1438412434692_032" name="2" temporalId="s3_2"><num value="2">(2)</num><leadIn>The
+                Secretary for Transport and
+                Logistics
+                may make
+                    regulations— <sourceNote>(Amended <ref href="/hk/1999/16">16 of 1999 s. 3</ref>; <ref href="/hk/2002/ln106">L.N. 106 of 2002</ref>; <ref href="/hk/2007/ln130">L.N. 130 of
+                    2007</ref>; <ref href="/hk/2022/ln144">L.N. 144 of
+                    2022</ref>)</sourceNote></leadIn><paragraph id="ID_1438412434692_040" name="a" temporalId="s3_2_a"><num value="a">(a)</num><content>relating to the prevention or control of pollution of the sea or other
+                    waters by oil, or any substance other than oil, from ships; and</content></paragraph><paragraph id="ID_1438412434708_006" name="b" temporalId="s3_2_b"><num value="b">(b)</num><leadIn>for giving effect to—</leadIn><subparagraph id="ID_1438412434708_014" name="i" temporalId="s3_2_b_i"><num value="i">(i)</num><content>the Convention;</content></subparagraph><subparagraph id="ID_1438412434708_022" name="ii" temporalId="s3_2_b_ii"><num value="ii">(ii)</num><content>the Protocol; and</content></subparagraph><subparagraph id="ID_1438412434708_030" name="iii" temporalId="s3_2_b_iii"><num value="iii">(iii)</num><content>any other international agreement (whether made by resolution or
+                        otherwise) which relates to the prevention or control of pollution of the
+                        sea or other waters by oil, or any substance other than oil, from ships and
+                        which applies to Hong Kong, including any agreement which modifies any other
+                        such agreement.</content></subparagraph></paragraph></subsection><subsection id="ID_1566285215908_001" name="2A" temporalId="s3_2A"><num value="2A">(2A)</num><content>The Chief Executive in Council may make regulations for the payment of fees
+                (whether prescribed under this Ordinance, the Merchant Shipping Ordinance (<ref href="/hk/cap281">Cap. 281</ref>) or otherwise) in respect of any survey,
+                inspection, certificate, service or other matter provided for by regulations made
+                under this Ordinance.
+                <sourceNote>(Added <ref href="/hk/1999/16">16 of 1999 s. 3</ref>)</sourceNote></content></subsection><subsection id="ID_1438412434708_043" name="3" temporalId="s3_3"><num value="3">(3)</num><leadIn>Regulations made under this section may be expressed to apply—</leadIn><paragraph id="ID_1438412434708_051" name="a" temporalId="s3_3_a"><num value="a">(a)</num><content>to Hong Kong ships, wherever they may be; and</content></paragraph><paragraph id="ID_1438412434724_006" name="b" temporalId="s3_3_b"><num value="b">(b)</num><content>to other ships while they are within the waters of Hong Kong.</content></paragraph></subsection><subsection id="ID_1438412434724_013" name="4" temporalId="s3_4"><num value="4">(4)</num><content>Regulations made under this section may provide that the regulations, or any
+                provisions thereof, shall come into force on a date specified in the regulations
+                which is earlier than the date on which the international agreement to which the
+                regulations relate comes into force.</content></subsection><subsection id="ID_1438412434724_021" name="5" temporalId="s3_5"><num value="5">(5)</num><leadIn>Without limiting the generality of subsections (2) and (2A), regulations made
+                under this section may include
+                    provisions— <sourceNote>(Amended <ref href="/hk/1999/16">16 of 1999 s. 3</ref>)</sourceNote></leadIn><paragraph id="ID_1438412434724_029" name="a" temporalId="s3_5_a"><num value="a">(a)</num><content>for the approval of documents, the appointment of surveyors, the carrying
+                    out of surveys and inspections and the rendering of other services for the
+                    purposes of the regulations, whether in Hong Kong or elsewhere, and for the
+                    issue, duration, effect and recognition of certificates for those
+                    purposes;</content></paragraph><paragraph id="ID_1438412434724_037" name="b" temporalId="s3_5_b"><num value="b">(b)</num><content>for the keeping, carriage and inspection of record books and other records
+                    of operations involving oil, or any substance other than oil, on board
+                    ships;</content></paragraph><paragraph id="ID_1566285215955_002" name="ba" temporalId="s3_5_ba"><num value="ba">(ba)</num><content>for the boarding of any ships within the waters of Hong Kong to carry out
+                    inspections for the purposes of the regulations;
+                    <sourceNote>(Added <ref href="/hk/1999/16">16 of 1999 s. 3</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438412434739_013" name="c" temporalId="s3_5_c"><num value="c">(c)</num><content>for the prohibition, regulation and control of the loading and carriage on
+                    board ships, and the unloading or discharge from ships, of oil or any substance
+                    other than oil and for procedures relating thereto;</content></paragraph><paragraph id="ID_1438412434739_021" name="d" temporalId="s3_5_d"><num value="d">(d)</num><content>for the design and construction of, and the equipment and fittings on
+                    board, ships carrying oil or any substance other than oil;</content></paragraph><paragraph id="ID_1438412434739_029" name="e" temporalId="s3_5_e"><num value="e">(e)</num><content>for the compulsory reporting of incidents involving pollution or the threat
+                    of pollution for the purpose of giving effect to Protocol I (provisions
+                    concerning reports on incidents involving harmful substances) to the
+                    Convention;</content></paragraph><paragraph id="ID_1438412434739_037" name="f" temporalId="s3_5_f"><num value="f">(f)</num><sourceNote>(Repealed <ref href="/hk/1999/16">16 of 1999 s. 3</ref>)</sourceNote></paragraph><paragraph id="ID_1438412434739_045" name="g" temporalId="s3_5_g"><num value="g">(g)</num><leadIn>that contraventions of the regulations shall be offences punishable by
+                    penalties not exceeding—</leadIn><subparagraph id="ID_1438412434755_006" name="i" temporalId="s3_5_g_i"><num value="i">(i)</num><content>on conviction upon indictment, a fine of $5,000,000 and, in the case of
+                        an individual, imprisonment for 2 years;</content></subparagraph><subparagraph id="ID_1438412434755_014" name="ii" temporalId="s3_5_g_ii"><num value="ii">(ii)</num><content>on summary conviction, a fine of $500,000;</content></subparagraph></paragraph><paragraph id="ID_1438412434755_021" name="h" temporalId="s3_5_h"><num value="h">(h)</num><leadIn>that in the case of any such contravention an offence is committed
+                    by—</leadIn><subparagraph id="ID_1438412434755_029" name="i" temporalId="s3_5_h_i"><num value="i">(i)</num><content>the master and the owner of the ship concerned; and</content></subparagraph><subparagraph id="ID_1438412434755_037" name="ii" temporalId="s3_5_h_ii"><num value="ii">(ii)</num><content>where the contravention is due to the act or omission of another
+                        person, that person;</content></subparagraph></paragraph><paragraph id="ID_1438412434755_044" name="i" temporalId="s3_5_i"><num value="i">(i)</num><content>for denying entry of any ship to the waters of Hong Kong in respect of
+                    which any such contravention is believed to have occurred;</content></paragraph><paragraph id="ID_1438412434755_052" name="j" temporalId="s3_5_j"><num value="j">(j)</num><content>for detaining any ship in respect of which any such contravention is
+                    believed to have occurred and for notifying the relevant consular officer (if
+                    any) of the detention and of any proceedings against the ship; and</content></paragraph><paragraph id="ID_1438412434770_006" name="k" temporalId="s3_5_k"><num value="k">(k)</num><content>for the admission of prescribed or specified documents and certified copies
+                    of documents as evidence in legal proceedings,</content></paragraph><continued>and the regulations may—</continued><paragraph id="ID_1438412434770_020" name="i" temporalId="s3_5_i"><num value="i">(i)</num><content>make different provisions for different circumstances or in relation to
+                    different classes or descriptions of ships;</content></paragraph><paragraph id="ID_1438412434770_028" name="ii" temporalId="s3_5_ii"><num value="ii">(ii)</num><content>provide for exemptions from any provisions of the regulations in respect of
+                    different classes or descriptions of ships;</content></paragraph><paragraph id="ID_1438412434770_036" name="iii" temporalId="s3_5_iii"><num value="iii">(iii)</num><content>provide for the granting by the Director, on such terms (if any) as he may
+                    specify, of exemptions from any provisions of the regulations in respect of any
+                    ship, or class or description of ships, and for the alteration or cancellation
+                    of any such exemption;</content></paragraph><paragraph id="ID_1438412434770_044" name="iv" temporalId="s3_5_iv"><num value="iv">(iv)</num><content>provide for the approval by the Director of equivalent fittings, equipment
+                    or procedures as alternatives to those prescribed;</content></paragraph><paragraph id="ID_1438412434770_052" name="v" temporalId="s3_5_v"><num value="v">(v)</num><content>provide for the delegation of powers exercisable and functions performable
+                    by virtue of the regulations;</content></paragraph><paragraph id="ID_1438412434786_006" name="vi" temporalId="s3_5_vi"><num value="vi">(vi)</num><content>provide for the application of the regulations to the State; and
+                    <sourceNote>(Amended <ref href="/hk/1999/64">64 of 1999 s. 3</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438412434786_014" name="vii" temporalId="s3_5_vii"><num value="vii">(vii)</num><content>include such incidental, supplemental and transitional provisions as appear
+                    to the
+                    Secretary
+                    for Transport and Logistics or Chief Executive in Council (as
+                    the case may be) to be expedient for the purposes of the regulations.
+                    <sourceNote>(Amended <ref href="/hk/1999/16">16 of 1999 s. 3</ref>; <ref href="/hk/2002/ln106">L.N. 106 of 2002</ref>; <ref href="/hk/2007/ln130">L.N. 130 of
+                        2007</ref>; <ref href="/hk/2022/ln144">L.N. 144 of
+                        2022</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438412434786_021" name="6" temporalId="s3_6"><num value="6">(6)</num><leadIn>Any fees prescribed under this Ordinance—</leadIn><paragraph id="ID_1438412434786_029" name="a" temporalId="s3_6_a"><num value="a">(a)</num><content>may be fixed at levels which provide for the recovery of expenditure
+                    incurred or likely to be incurred by the Government or other authority in
+                    relation generally to the administration, regulation and control of Hong Kong
+                    ships and of ports, ships and navigation in the waters of Hong Kong, and shall
+                    not be limited by reference to the amount of administrative or other costs
+                    incurred or likely to be incurred in the provision of any particular service,
+                    facility or matter; and</content></paragraph><paragraph id="ID_1438412434802_006" name="b" temporalId="s3_6_b"><num value="b">(b)</num><content>may, without prejudice to the generality of paragraph (a), be fixed at
+                    different amounts in relation to different sizes of ship, whether measured by
+                    tonnage, length or otherwise, or in relation to different classes, types or
+                    descriptions of service, facility or ship.</content></paragraph></subsection></section><section id="ID_1690165075733_001" name="s3AA" temporalId="s3AA" startPeriod="2023-08-17" status="operational" reason="inEffect"><num value="3AA">3AA.</num><heading>Delegation by
+            Director</heading><subsection id="ID_1690165345240_001" name="1" temporalId="s3AA_1"><num value="1">(1)</num><content>Subject to subsection (3), the Director may, either generally or in any
+                particular case, delegate to any other public officer the performance or exercise on
+                the Director’s behalf of any of the functions imposed or conferred on the Director
+                under this Ordinance.</content></subsection><subsection id="ID_1690165345241_002" name="2" temporalId="s3AA_2"><num value="2">(2)</num><content>If any function imposed or conferred on the Director under this Ordinance is
+                performed or exercised by any other public officer, the Director is, unless the
+                contrary is proved, regarded as having delegated to the public officer under
+                subsection (1) the performance or exercise of the function.</content></subsection><subsection id="ID_1690165345242_003" name="3" temporalId="s3AA_3"><num value="3">(3)</num><content>No delegation under subsection (1) is to be made of any power under this
+                Ordinance to make subsidiary legislation.</content></subsection><subsection id="ID_1690165345243_004" name="4" temporalId="s3AA_4"><num value="4">(4)</num><leadIn>In this section—</leadIn><def name="Functions"><term>functions</term> (<term xml:lang="en">職能</term>) includes powers and
+                duties.</def></subsection><sourceNote>(Added <ref href="hk/2023/24">24 of 2023 s. 6</ref>)</sourceNote></section><section id="ID_1438403169122_002" name="s3A" reason="inEffect" startPeriod="2023-08-17" status="operational" temporalId="s3A"><num value="3A">3A.</num><heading>Supplementary regulation-making power in relation to international agreements applicable to Hong Kong</heading><leadIn>For the purpose of giving effect (whether in whole or in part) to any provisions of any international agreements applicable to Hong Kong (including the Convention and the Protocol as defined in <ref>section 3(1)</ref>)—</leadIn><paragraph id="ID_1438412434880_012" name="a" temporalId="s3A_a"><num value="a">(a)</num><content>as in force from time to time; and</content></paragraph><paragraph id="ID_1438412434880_020" name="b" temporalId="s3A_b"><num value="b">(b)</num><content>so far as the agreement relates to any matter for or in relation to which provision may be made by regulations made under this Ordinance,</content></paragraph><continued>any such regulations may—</continued><paragraph id="ID_1438412434880_034" name="i" temporalId="s3A_i"><num value="i">(i)</num><content>set out or refer to those provisions (whether in a schedule or otherwise); and</content></paragraph><paragraph id="ID_1438412434880_042" name="ii" temporalId="s3A_ii"><num value="ii">(ii)</num><content>specify (whether in a schedule or otherwise) amendments, modifications or adaptations subject to which those provisions shall have effect.</content></paragraph><sourceNote>(Added <ref href="/hk/1999/16">16 of 1999 s. 4</ref>)</sourceNote></section><section id="ID_1438403169137_002" name="s4" reason="inEffect" startPeriod="2023-08-17" status="operational" temporalId="s4"><num value="4">4.</num><heading>Penalty for taking detained ship to sea</heading><subsection id="ID_1438412434911_004" name="1" temporalId="s4_1"><num value="1">(1)</num><content>Where a ship is authorized or ordered to be detained under regulations made under this Part, and after such detention or after service on the master of any notice of or order for such detention, the ship proceeds or attempts to proceed to sea before having been released by a<inline class="width_3"> </inline>competent authority, the master of the ship commits an offence and is liable to a fine of $500,000 and to imprisonment for 2 years; and if the owner or agent or any person who sends the ship to sea is party or privy to the offence he also commits an offence and is liable to the same punishment.</content></subsection><subsection id="ID_1438412434926_005" name="2" temporalId="s4_2"><num value="2">(2)</num><leadIn>Where a ship proceeds to sea in contravention of subsection (1) whilst having on board a public officer who is acting in the execution of his duty, the master and owner of the ship—</leadIn><paragraph id="ID_1438412434926_013" name="a" temporalId="s4_2_a"><num value="a">(a)</num><content>in addition to any punishment to which they may be liable under subsection
+                    (1), both commit an offence against this subsection and are each liable to
+                    imprisonment for 6 months and to a fine
+                    at level
+                    4
+                    and an additional fine of $1,000 for each day during the period from the date on
+                    which the ship proceeded to sea until the date on which the officer returns to
+                    Hong Kong or, if he does not return directly to Hong Kong, would have returned
+                    if he had travelled by the quickest practicable route;
+                        and<inline class="width_3"> </inline><sourceNote>(Amended <ref href="hk/2023/er3">E.R.
+                            3 of 2023</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438412434942_006" name="b" temporalId="s4_2_b"><num value="b">(b)</num><content>are jointly and severally liable to pay to the Government all expenses incidental to the taking of the officer to sea and to securing his return to Hong Kong.</content></paragraph></subsection><subsection id="ID_1438412434942_013" name="3" temporalId="s4_3"><num value="3">(3)</num><content>Expenses referred to in subsection <ref>(2)(b)</ref> may be recovered as if they were a fine imposed by a magistrate.</content></subsection></section></part><part id="ID_1690165092476_001" name="P2A" temporalId="P2A" startPeriod="2023-08-17" status="operational" reason="inEffect"><num value="2A">Part
+            IIA</num><heading>Certificates
+            and Log-books in Electronic Form</heading><sourceNote>(<ref>Part IIA</ref> added <ref href="hk/2023/24">24 of 2023 s. 7</ref>)</sourceNote><section id="ID_1690165140598_001" name="s4A" temporalId="s4A" startPeriod="2024-07-05" status="operational" reason="inEffect"><num value="4A">4A.</num><heading>Interpretation
+            of <ref>Part IIA</ref></heading><leadIn>In this Part—</leadIn><def name="CertifyingAuthority">
+            <leadIn><term>certifying authority</term> (<term xml:lang="en">核證當局</term>)
+                means—</leadIn>
+            <paragraph id="ID_1690165918808_001" name="a" temporalId="s4A_a"><num value="a">(a)</num><content>the Director; or</content></paragraph>
+            <paragraph id="ID_1690165918810_002" name="b" temporalId="s4A_b"><num value="b">(b)</num><content>a recognized organization;</content></paragraph>
+        </def><def name="EcertDatabase"><term>e-cert database</term> (<term xml:lang="zh-Hant-HK">電子證書資料庫</term>) means—<paragraph id="ID_1719479877033_001" name="a" temporalId="s4A_a"><num value="a">(a)</num><content>in relation to a listed certificate issued for a ship registered in Hong
+                    Kong—an electronic database that is maintained or managed by or for the
+                    certifying authority in accordance with the e-cert guidelines; or</content></paragraph><paragraph id="ID_1719479877034_002" name="b" temporalId="s4A_b"><num value="b">(b)</num><content>in relation to a listed certificate issued for a vessel required to be
+                    certificated under the Merchant Shipping (Local Vessels) Ordinance (<ref href="/hk/cap548">Cap. 548</ref>)—an electronic database that is maintained
+                    or managed by or for the Director; <sourceNote>(Replaced <ref href="hk/2024/16">16 of 2024 s. 7</ref>)</sourceNote></content></paragraph></def><def name="EcertGuidelines"><term>e-cert guidelines</term> (<term xml:lang="en">電子證書指引</term>) means the documents listed in <ref>Division 1 of Part 3</ref> of the
+                <ref>Schedule</ref>, as from time to time revised or amended by revisions or
+            amendments to those documents;</def><def name="ElogGuidelines"><term>e-log guidelines</term> (<term xml:lang="en">電子航海日誌指引</term>) means the documents listed in <ref>Division 2 of Part 3</ref> of
+            the <ref>Schedule</ref>, as from time to time revised or amended by revisions or
+            amendments to those documents;</def><def name="ListedCertificate">
+            <leadIn><term>listed certificate</term> (<term xml:lang="en">表列證書</term>)
+                means—</leadIn>
+            <paragraph id="ID_1690165918816_003" name="a" temporalId="s4A_a"><num value="a">(a)</num><content>a document listed in column 2 of the Table in Division 1 of <ref>Part 2 of
+                        the Schedule</ref> that is referred to in a provision listed in column 3 of
+                    that Table corresponding to the document; or</content></paragraph>
+            <paragraph id="ID_1690165918819_004" name="b" temporalId="s4A_b"><num value="b">(b)</num><content>a document listed in column 2 of that Table the subject matter of which is
+                    referred to in a provision listed in column 3 of that Table corresponding to the
+                    document;</content></paragraph>
+        </def><def name="ListedLogbook"><term>listed log-book</term> (<term xml:lang="en">表列航海日誌</term>)
+            means a document listed in column 2 of the Table in Division 2 of <ref>Part 2 of the
+                Schedule</ref> that is referred to in a provision listed in column 3 of that Table
+            corresponding to the document;</def><def name="RecognizedOrganization"><term>recognized organization</term> (<term xml:lang="en">認可機構</term>) means an organization listed in <ref>Part 4 of the
+            Schedule</ref>;</def><def name="Secretary"><term>Secretary</term> (<term xml:lang="en">局長</term>) means the
+            Secretary for Transport and Logistics.</def></section><section id="ID_1690165140811_002" name="s4B" temporalId="s4B" startPeriod="2024-07-05" status="operational" reason="inEffect"><num value="4B">4B.</num><heading>Application</heading><content>This <ref>Part</ref> and the <ref>Schedule</ref> apply to a
+            Hong
+            Kong
+            ship.</content><sourceNote>(Amended <ref href="hk/2024/16">16 of 2024 s. 8</ref>)</sourceNote></section><section id="ID_1690165140915_003" name="s4C" temporalId="s4C" startPeriod="2023-08-17" status="operational" reason="inEffect"><num value="4C">4C.</num><heading>Listed
+            certificates may be issued electronically</heading><subsection id="ID_1690166071627_001" name="1" temporalId="s4C_1"><num value="1">(1)</num><content>This section applies to a listed certificate that may be issued by a certifying
+                authority under a provision of this Ordinance.</content></subsection><subsection id="ID_1690166071628_002" name="2" temporalId="s4C_2"><num value="2">(2)</num><content>A listed certificate may be issued by a certifying authority in electronic
+                form.</content></subsection><subsection id="ID_1690166071629_003" name="3" temporalId="s4C_3"><num value="3">(3)</num><content>A listed certificate is considered as issued in electronic form only if it is
+                issued in accordance with the applicable requirements set out in the e-cert
+                guidelines.</content></subsection><subsection id="ID_1690166071630_004" name="4" temporalId="s4C_4"><num value="4">(4)</num><content>A certifying authority must cause a listed certificate issued by it in
+                accordance with this section to be kept in the e-cert database.</content></subsection></section><section id="ID_1690165141016_004" name="s4D" temporalId="s4D" startPeriod="2023-08-17" status="operational" reason="inEffect"><num value="4D">4D.</num><heading>Listed
+            certificates may be endorsed electronically</heading><subsection id="ID_1690166175904_001" name="1" temporalId="s4D_1"><num value="1">(1)</num><content>This section applies to a listed certificate that may be endorsed by a
+                certifying authority under a provision of this Ordinance.</content></subsection><subsection id="ID_1690166175905_002" name="2" temporalId="s4D_2"><num value="2">(2)</num><content>A listed certificate may be endorsed by a certifying authority in electronic
+                form.</content></subsection><subsection id="ID_1690166175906_003" name="3" temporalId="s4D_3"><num value="3">(3)</num><content>A listed certificate is considered as endorsed in electronic form only if the
+                endorsement is made in accordance with the applicable requirements set out in the
+                e-cert guidelines.</content></subsection><subsection id="ID_1690166175907_004" name="4" temporalId="s4D_4"><num value="4">(4)</num><content>A certifying authority must cause an endorsement made by it in accordance with
+                this section to be entered in the e-cert database with respect to the listed
+                certificate.</content></subsection></section><section id="ID_1690165141132_005" name="s4E" temporalId="s4E" startPeriod="2023-08-17" status="operational" reason="inEffect"><num value="4E">4E.</num><heading>Validity of
+            listed certificates may be extended electronically</heading><subsection id="ID_1690166267619_001" name="1" temporalId="s4E_1"><num value="1">(1)</num><content>This section applies to a listed certificate the validity of which may be
+                extended by a certifying authority under a provision of this Ordinance.</content></subsection><subsection id="ID_1690166267620_002" name="2" temporalId="s4E_2"><num value="2">(2)</num><content>The validity of a listed certificate may be extended by a certifying authority
+                in electronic form.</content></subsection><subsection id="ID_1690166267621_003" name="3" temporalId="s4E_3"><num value="3">(3)</num><content>The validity of a listed certificate is considered as extended in electronic
+                form only if the extension is made in accordance with the applicable requirements
+                set out in the e-cert guidelines.</content></subsection><subsection id="ID_1690166267621_004" name="4" temporalId="s4E_4"><num value="4">(4)</num><content>A certifying authority must cause an extension made by it in accordance with
+                this section to be entered in the e-cert database with respect to the listed
+                certificate.</content></subsection></section><section id="ID_1690165141274_006" name="s4F" temporalId="s4F" startPeriod="2023-08-17" status="operational" reason="inEffect"><num value="4F">4F.</num><heading>Validity of
+            listed certificates may be suspended electronically</heading><subsection id="ID_1690166404214_001" name="1" temporalId="s4F_1"><num value="1">(1)</num><content>This section applies to a listed certificate the validity of which may be
+                suspended by a certifying authority under a provision of this Ordinance.</content></subsection><subsection id="ID_1690166404214_002" name="2" temporalId="s4F_2"><num value="2">(2)</num><content>The validity of a listed certificate may be suspended by a certifying authority
+                in electronic form.</content></subsection><subsection id="ID_1690166404215_003" name="3" temporalId="s4F_3"><num value="3">(3)</num><content>The validity of a listed certificate is considered as suspended in electronic
+                form only if the suspension is made in accordance with the applicable requirements
+                set out in the e-cert guidelines.</content></subsection><subsection id="ID_1690166404216_004" name="4" temporalId="s4F_4"><num value="4">(4)</num><content>If the validity of a listed certificate is suspended in electronic form, the
+                requirement under any provision of this Ordinance for delivering up the certificate
+                on the suspension of its validity is regarded as having been met and physical
+                delivery of the certificate is no longer required.</content></subsection><subsection id="ID_1690166404216_005" name="5" temporalId="s4F_5"><num value="5">(5)</num><content>A certifying authority must cause a suspension made by it in accordance with
+                this section to be entered in the e-cert database with respect to the listed
+                certificate.</content></subsection></section><section id="ID_1690165141401_007" name="s4G" temporalId="s4G" startPeriod="2023-08-17" status="operational" reason="inEffect"><num value="4G">4G.</num><heading>Validity of
+            listed certificates may be restored electronically</heading><subsection id="ID_1690166550647_001" name="1" temporalId="s4G_1"><num value="1">(1)</num><content>This section applies to a listed certificate the validity of which may be
+                restored by a certifying authority under a provision of this Ordinance.</content></subsection><subsection id="ID_1690166550648_002" name="2" temporalId="s4G_2"><num value="2">(2)</num><content>The validity of a listed certificate may be restored by a certifying authority
+                in electronic form.</content></subsection><subsection id="ID_1690166550649_003" name="3" temporalId="s4G_3"><num value="3">(3)</num><content>The validity of a listed certificate is considered as restored in electronic
+                form only if the restoration is made in accordance with the applicable requirements
+                set out in the e-cert guidelines.</content></subsection><subsection id="ID_1690166550650_004" name="4" temporalId="s4G_4"><num value="4">(4)</num><content>If the validity of a listed certificate is restored in electronic form, the
+                requirement under any provision of this Ordinance for returning the certificate on
+                the restoration of its validity is regarded as having been met and physical return
+                of the certificate is no longer required.</content></subsection><subsection id="ID_1690166550651_005" name="5" temporalId="s4G_5"><num value="5">(5)</num><content>A certifying authority must cause a restoration made by it in accordance with
+                this section to be entered in the e-cert database with respect to the listed
+                certificate.</content></subsection></section><section id="ID_1690165141524_008" name="s4H" temporalId="s4H" startPeriod="2023-08-17" status="operational" reason="inEffect"><num value="4H">4H.</num><heading>Listed
+            certificates may be cancelled or withdrawn electronically</heading><subsection id="ID_1690166663824_001" name="1" temporalId="s4H_1"><num value="1">(1)</num><content>This section applies to a listed certificate that may be cancelled or withdrawn
+                by a certifying authority under a provision of this Ordinance.</content></subsection><subsection id="ID_1690166663825_002" name="2" temporalId="s4H_2"><num value="2">(2)</num><content>A listed certificate may be cancelled or withdrawn by a certifying authority in
+                electronic form.</content></subsection><subsection id="ID_1690166663827_003" name="3" temporalId="s4H_3"><num value="3">(3)</num><content>A listed certificate is considered as cancelled or withdrawn in electronic form
+                only if the cancellation or withdrawal is made in accordance with the applicable
+                requirements set out in the e-cert guidelines.</content></subsection><subsection id="ID_1690166663828_004" name="4" temporalId="s4H_4"><num value="4">(4)</num><content>If a listed certificate is cancelled or withdrawn in electronic form, the
+                requirement under any provision of this Ordinance for delivering up the certificate
+                on its cancellation or withdrawal is regarded as having been met and physical
+                delivery of the certificate is no longer required.</content></subsection><subsection id="ID_1690166663829_005" name="5" temporalId="s4H_5"><num value="5">(5)</num><content>A certifying authority must cause a cancellation or withdrawal made by it in
+                accordance with this section to be entered in the e-cert database with respect to
+                the listed certificate.</content></subsection></section><section id="ID_1690165141644_009" name="s4I" temporalId="s4I" startPeriod="2023-08-17" status="operational" reason="inEffect"><num value="4I">4I.</num><heading>Making and
+            keeping of entries and records in listed log-books
+            electronically</heading><leadIn>If an entry or record is required to be made or kept in a listed log-book under a
+            provision of this Ordinance, the requirement is also met by making or keeping the entry
+            or record in the log-book in electronic form—</leadIn><paragraph id="ID_1690166737238_001" name="a" temporalId="s4I_a"><num value="a">(a)</num><content>in an electronic device on board the ship to which the log-book relates;
+                and</content></paragraph><paragraph id="ID_1690166737239_002" name="b" temporalId="s4I_b"><num value="b">(b)</num><content>in accordance with the applicable requirements set out in the e-log
+                guidelines.</content></paragraph></section><section id="ID_1690165141765_010" name="s4J" temporalId="s4J" startPeriod="2023-08-17" status="operational" reason="inEffect"><num value="4J">4J.</num><heading>Power of
+            Secretary to amend <ref>Schedule</ref></heading><subsection id="ID_1690167240432_001" name="1" temporalId="s4J_1"><num value="1">(1)</num><content>The Secretary may, by notice published in the Gazette, amend <ref>the
+                    Schedule</ref>.</content></subsection><subsection id="ID_1690167240434_002" name="2" temporalId="s4J_2"><num value="2">(2)</num><content>A notice published under subsection (1) may contain any incidental,
+                supplementary, consequential, savings or transitional provisions that are necessary
+                or expedient in consequence of the amendments made under that subsection.</content></subsection></section></part><part id="ID_1438403169153_001" name="P3" reason="inEffect" startPeriod="2023-08-17" status="operational" temporalId="P3"><num value="3">Part
+            III</num><heading>Shipping
+            Casualties Involving
+            a Risk
+            of
+            Pollution</heading><section id="ID_1438403169153_003" name="s5" reason="inEffect" startPeriod="2023-08-17" status="operational" temporalId="s5"><num value="5">5.</num><heading>Application of Part III</heading><subsection id="ID_1438412434973_004" name="1" temporalId="s5_1"><num value="1">(1)</num><content>Subject to subsections (2) and (3), this Part shall apply in relation to all
+                ships whether within or outside the waters of Hong Kong.</content></subsection><subsection id="ID_1438412434973_012" name="2" temporalId="s5_2"><num value="2">(2)</num><leadIn>As respects a ship which—</leadIn><paragraph id="ID_1438412434973_020" name="a" temporalId="s5_2_a"><num value="a">(a)</num><content>is not a Hong Kong ship; and</content></paragraph><paragraph id="ID_1438412434973_028" name="b" temporalId="s5_2_b"><num value="b">(b)</num><content>is for the time being outside the waters of Hong Kong,</content></paragraph><continued>the power conferred on the Director by <ref>section 6(2)</ref> to give
+                directions may only be exercised in relation to—  <sourceNote>(Amended <ref href="/hk/1999/16">16 of 1999 s. 5</ref>)</sourceNote></continued><paragraph id="ID_1438412434973_042" name="i" temporalId="s5_2_i"><num value="i">(i)</num><content>an individual who is a permanent resident of the Hong Kong Special
+                    Administrative Region; or<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1998/28">28 of 1998 s. 2</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438412434973_050" name="ii" temporalId="s5_2_ii"><num value="ii">(ii)</num><content>a body corporate which is established under the laws of Hong
+                    Kong,</content></paragraph><continued>and <ref>section 8(2)</ref> shall apply to such an individual or body
+                corporate only.</continued></subsection><subsection id="ID_1438412434973_063" name="3" temporalId="s5_3"><num value="3">(3)</num><leadIn>No direction under <ref>section 6(2)</ref> applies to—</leadIn><paragraph id="ID_1438412434989_005" name="a" temporalId="s5_3_a"><num value="a">(a)</num><content>any ship which is used by the Chinese People’s Liberation Army;
+                    or</content></paragraph><paragraph id="ID_1438412434989_013" name="b" temporalId="s5_3_b"><num value="b">(b)</num><content>any ship which belongs to the Central People’s Government or the Government
+                    of the Hong Kong Special Administrative Region,</content></paragraph><continued>and no action may be taken under <ref>section 6(4)</ref> or (5) as respects
+                any such ship.<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/2012/2">2 of 2012 s. 3</ref>)</sourceNote></continued></subsection></section><section id="ID_1438403169169_002" name="s6" reason="inEffect" startPeriod="2023-08-17" status="operational" temporalId="s6"><num value="6">6.</num><heading>Shipping casualties</heading><subsection id="ID_1438412435004_069" name="1" temporalId="s6_1"><num value="1">(1)</num><leadIn>The powers conferred by this section may be exercised where—</leadIn><paragraph id="ID_1438412435004_077" name="a" temporalId="s6_1_a"><num value="a">(a)</num><content>an accident has occurred to or in a ship; and</content></paragraph><paragraph id="ID_1438412435020_006" name="b" temporalId="s6_1_b"><num value="b">(b)</num><leadIn>in the opinion of the Director—  <sourceNote>(Amended <ref href="/hk/1995/4">4 of 1995 s. 5</ref>)</sourceNote></leadIn><subparagraph id="ID_1438412435020_014" name="i" temporalId="s6_1_b_i"><num value="i">(i)</num><content>oil, or any substance other than oil, from the ship will or may cause pollution on a large scale in Hong Kong or in the waters of Hong Kong;</content></subparagraph><subparagraph id="ID_1438412435020_022" name="ii" temporalId="s6_1_b_ii"><num value="ii">(ii)</num><content>if the ship is one referred to in <ref>section 5(2)</ref>, the danger of pollution is grave and imminent; and</content></subparagraph><subparagraph id="ID_1438412435020_030" name="iii" temporalId="s6_1_b_iii"><num value="iii">(iii)</num><content>the exercise of the powers conferred by this section is urgently needed.</content></subparagraph></paragraph></subsection><subsection id="ID_1438412435020_036" name="2" temporalId="s6_2"><num value="2">(2)</num><leadIn>For the purpose of preventing or reducing pollution, or the risk of pollution, the Director may give directions as respects the ship or its cargo—  <sourceNote>(Amended <ref href="/hk/1995/4">4 of 1995 s. 5</ref>)</sourceNote></leadIn><paragraph id="ID_1438412435020_044" name="a" temporalId="s6_2_a"><num value="a">(a)</num><content>to the owner of the ship, or to any person in possession or control of the ship; or</content></paragraph><paragraph id="ID_1438412435020_052" name="b" temporalId="s6_2_b"><num value="b">(b)</num><content>to the master of the ship; or</content></paragraph><paragraph id="ID_1438412435020_060" name="c" temporalId="s6_2_c"><num value="c">(c)</num><content>to any salvor in possession of the ship, or to any person who is the servant or agent of any such salvor, and who is in charge of the relevant salvage operation.</content></paragraph></subsection><subsection id="ID_1438412435020_067" name="3" temporalId="s6_3"><num value="3">(3)</num><leadIn>Directions under subsection (2) may require the person to whom they are given to take, or refrain from taking, any action of any kind whatsoever, and without limiting the generality of the foregoing the directions may require—</leadIn><paragraph id="ID_1438412435020_075" name="a" temporalId="s6_3_a"><num value="a">(a)</num><leadIn>that the ship is to be, or is not to be, moved—</leadIn><subparagraph id="ID_1438412435036_006" name="i" temporalId="s6_3_a_i"><num value="i">(i)</num><content>to or from a specified place, area or locality;</content></subparagraph><subparagraph id="ID_1438412435036_014" name="ii" temporalId="s6_3_a_ii"><num value="ii">(ii)</num><content>over a specified route; or</content></subparagraph></paragraph><paragraph id="ID_1438412435036_021" name="b" temporalId="s6_3_b"><num value="b">(b)</num><content>that any oil or other cargo is to be, or is not to be, unloaded or discharged; or</content></paragraph><paragraph id="ID_1438412435036_029" name="c" temporalId="s6_3_c"><num value="c">(c)</num><content>that specified salvage measures are to be, or are not to be, taken.</content></paragraph></subsection><subsection id="ID_1438412435036_036" name="4" temporalId="s6_4"><num value="4">(4)</num><leadIn>If in the opinion of the Director the powers conferred by subsection (2) are, or have proved to be, inadequate for the purpose, the Director may, for the purpose of preventing or reducing pollution, or the risk of pollution, take, as respects the ship or its cargo, any action of any kind whatsoever, and without limiting the generality of the foregoing the Director may—  <sourceNote>(Amended <ref href="/hk/1995/4">4 of 1995 s. 5</ref>)</sourceNote></leadIn><paragraph id="ID_1438412435036_044" name="a" temporalId="s6_4_a"><num value="a">(a)</num><content>do anything he has power to require to be done by a direction under subsection (2);</content></paragraph><paragraph id="ID_1438412435036_052" name="b" temporalId="s6_4_b"><num value="b">(b)</num><content>cause operations to be undertaken for the sinking or destruction of the ship, or any part of it, of a kind which is not within the means of any person to whom he may give such a direction;</content></paragraph><paragraph id="ID_1438412435036_060" name="c" temporalId="s6_4_c"><num value="c">(c)</num><content>cause operations to be undertaken which involve taking over control of the ship.</content></paragraph></subsection><subsection id="ID_1438412435036_067" name="5" temporalId="s6_5"><num value="5">(5)</num><content>The powers of the Director under subsection (4) may also be exercised by such persons as may be authorized in that behalf by the Director.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1995/4">4 of 1995 s. 5</ref>)</sourceNote></content></subsection><subsection id="ID_1438412435051_005" name="6" temporalId="s6_6"><num value="6">(6)</num><content>A person concerned in complying with directions given, or in action taken, under this section shall use his best endeavours to avoid risk to human life.</content></subsection><subsection id="ID_1438412435051_013" name="7" temporalId="s6_7"><num value="7">(7)</num><content>Nothing in this section shall derogate from or affect any right or power of the Government existing apart from this section whether under international law or otherwise.</content></subsection><subsection id="ID_1438412435051_021" name="8" temporalId="s6_8"><num value="8">(8)</num><leadIn>Any action taken as respects a ship which is under arrest or as respects the cargo of such a ship, being action taken under a direction given under subsection (2), or under subsection (4) or (5)—</leadIn><paragraph id="ID_1438412435051_029" name="a" temporalId="s6_8_a"><num value="a">(a)</num><content>does not constitute contempt of court; and</content></paragraph><paragraph id="ID_1438412435051_037" name="b" temporalId="s6_8_b"><num value="b">(b)</num><content>shall not constitute a ground or cause of action in legal proceedings instituted against the Government.</content></paragraph></subsection><subsection id="ID_1438412435051_044" name="9" temporalId="s6_9"><num value="9">(9)</num><leadIn>In this section—</leadIn><def name="Accident"><term>accident</term>
+                    (<term xml:lang="zh-Hant-HK">意外</term>) includes the loss, stranding,
+                abandonment of or damage to a ship;</def><def name="AnySubstanceOtherThanOil"><leadIn><term>any
+                        substance other than
+                    oil</term>
+                        (<term xml:lang="zh-Hant-HK">非油類物質</term>) means—</leadIn><paragraph id="ID_1438412435051_066" name="a" temporalId="s6_9_a"><num value="a">(a)</num><content>any substance specified in an order made under subsection (10); and</content></paragraph><paragraph id="ID_1438412435051_074" name="b" temporalId="s6_9_b"><num value="b">(b)</num><content>any other substance which is liable to create a hazard to human health, to harm living resources and marine life, to damage amenities or to interfere with other legitimate uses of the sea;</content></paragraph></def><def name="Specified"><term>specified</term>
+                    (<term xml:lang="zh-Hant-HK">指明</term>), in relation to a direction under
+                subsection (2), means specified in the direction.</def></subsection><subsection id="ID_1438412435067_011" name="10" temporalId="s6_10"><num value="10">(10)</num><content>The Director may, by order published in the Gazette, specify any substance for
+                the purposes of the definition of
+                        <b><i>any
+                        substance other than
+                oil</i></b>
+                in subsection (9).<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1995/4">4 of 1995 s. 5</ref>)</sourceNote></content></subsection></section><section id="ID_1438403169184_002" name="s7" reason="inEffect" startPeriod="2023-08-17" status="operational" temporalId="s7"><num value="7">7.</num><heading>Directions; right to recover in respect of unreasonable loss or damage</heading><subsection id="ID_1438412435114_025" name="1" temporalId="s7_1"><num value="1">(1)</num><leadIn>If any action taken under a direction under <ref>section 6(2)</ref>, or under <ref>section 6(4)</ref> or (5)—</leadIn><paragraph id="ID_1438412435114_033" name="a" temporalId="s7_1_a"><num value="a">(a)</num><content>was not reasonably necessary to prevent or reduce pollution or, as may be appropriate, the risk of pollution; or</content></paragraph><paragraph id="ID_1438412435114_041" name="b" temporalId="s7_1_b"><num value="b">(b)</num><content>was such that the good it did or was likely to do was disproportionately less than the expense incurred, or damage suffered, as a result of the action,</content></paragraph><continued>a person incurring expense or suffering damage as a result of the action, or of himself having taken the action, shall be entitled to claim and recover compensation from the Government.</continued></subsection><subsection id="ID_1438412435129_011" name="2" temporalId="s7_2"><num value="2">(2)</num><leadIn>In determining whether subsection (1) applies in a particular case, account shall be taken of—</leadIn><paragraph id="ID_1438412435129_019" name="a" temporalId="s7_2_a"><num value="a">(a)</num><content>the extent and risk of pollution if the action had not been taken;</content></paragraph><paragraph id="ID_1438412435129_027" name="b" temporalId="s7_2_b"><num value="b">(b)</num><content>the likelihood of the action being effective; and</content></paragraph><paragraph id="ID_1438412435129_035" name="c" temporalId="s7_2_c"><num value="c">(c)</num><content>the extent of the damage which has been caused by the action.</content></paragraph></subsection><subsection id="ID_1438412435129_042" name="3" temporalId="s7_3"><num value="3">(3)</num><content>Any reference in this section to the taking of any action includes a reference to a compliance with a direction not to take some specified action.</content></subsection></section><section id="ID_1438403169200_002" name="s8" reason="inEffect" startPeriod="2023-08-17" status="operational" temporalId="s8"><num value="8">8.</num><heading>Offences in relation to <ref>section 6</ref></heading><subsection id="ID_1438412435160_004" name="1" temporalId="s8_1"><num value="1">(1)</num><content>A person to whom a direction is given under <ref>section 6(2)</ref> who fails to comply with any requirement of the direction, commits an offence.</content></subsection><subsection id="ID_1438412435160_012" name="2" temporalId="s8_2"><num value="2">(2)</num><leadIn>A person who wilfully obstructs any person who is—</leadIn><paragraph id="ID_1438412435160_020" name="a" temporalId="s8_2_a"><num value="a">(a)</num><content>acting on behalf of the Director in connection with the giving or service of a direction under <ref>section 6(2)</ref>;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1999/16">16 of 1999 s. 6</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438412435160_028" name="b" temporalId="s8_2_b"><num value="b">(b)</num><content>acting in compliance with such a direction; or</content></paragraph><paragraph id="ID_1438412435160_036" name="c" temporalId="s8_2_c"><num value="c">(c)</num><content>acting under subsection (4) or (5) of that section,</content></paragraph><continued>commits an offence.</continued></subsection><subsection id="ID_1438412435160_049" name="3" temporalId="s8_3"><num value="3">(3)</num><leadIn>In proceedings for an offence under subsection (1), it shall be a defence for the accused to prove that—</leadIn><paragraph id="ID_1438412435160_057" name="a" temporalId="s8_3_a"><num value="a">(a)</num><content>he used all due diligence to secure compliance with the direction; or</content></paragraph><paragraph id="ID_1438412435160_065" name="b" temporalId="s8_3_b"><num value="b">(b)</num><content>he had reasonable cause for believing that such compliance would have involved a serious risk to human life.</content></paragraph></subsection><subsection id="ID_1438412435160_072" name="4" temporalId="s8_4"><num value="4">(4)</num><leadIn>A person who commits an offence under this section is liable—</leadIn><paragraph id="ID_1438412435160_080" name="a" temporalId="s8_4_a"><num value="a">(a)</num><content>on conviction upon indictment, to a fine of $5,000,000;</content></paragraph><paragraph id="ID_1438412435160_088" name="b" temporalId="s8_4_b"><num value="b">(b)</num><content>on summary conviction, to a fine of $500,000.</content></paragraph></subsection></section><section id="ID_1438403169215_001" name="s9" reason="inEffect" startPeriod="2023-08-17" status="operational" temporalId="s9"><num value="9">9.</num><heading>Service of directions under <ref>section 6</ref></heading><subsection id="ID_1438412435192_026" name="1" temporalId="s9_1"><num value="1">(1)</num><leadIn>If the Director is satisfied that a company or other body corporate is not one
+                to which <ref>section 803</ref> or <ref>827</ref> of the Companies Ordinance (<ref href="/hk/cap622">Cap. 622</ref>) applies so as to authorize the service of a
+                direction on that body under either of those sections, he may give a direction under
+                    <ref>section 6(2)</ref>—  <sourceNote>(Amended <ref href="/hk/2012/28">28 of
+                        2012 ss.
+                        912
+                        &amp;
+                    920</ref>)</sourceNote></leadIn><paragraph id="ID_1438412435192_034" name="a" temporalId="s9_1_a"><num value="a">(a)</num><content>to that body, as the owner of, or the person in possession or control of, a
+                    ship, by serving the direction on the master of the ship; or</content></paragraph><paragraph id="ID_1438412435192_042" name="b" temporalId="s9_1_b"><num value="b">(b)</num><content>to that body, as a salvor, by serving the direction on the person in charge
+                    of the salvage operations.</content></paragraph></subsection><subsection id="ID_1438412435207_005" name="2" temporalId="s9_2"><num value="2">(2)</num><content>For the purpose of giving or serving a direction under <ref>section 6(2)</ref> to or on any person on a ship, a person acting on behalf of the Director shall have the right to go on board the ship.</content></subsection><sourceNote>(Amended <ref href="/hk/1999/16">16 of 1999 s. 7</ref>)</sourceNote></section><section id="ID_1438403169215_003" name="s10" reason="inEffect" startPeriod="2023-08-17" status="operational" temporalId="s10"><num value="10">10.</num><heading>Enforcement of fines</heading><content>Where a fine imposed in proceedings against the owner or master of a ship for an offence under this Part is not paid at the time ordered by the court or magistrate, the court or magistrate, as the case may be, shall, in addition to any other powers for enforcing payment, have power to direct the amount remaining unpaid to be levied by distress and sale of the ship and its equipment.</content></section><section id="ID_1438403169231_002" name="s11" reason="inEffect" startPeriod="2023-08-17" status="operational" temporalId="s11"><num value="11">11.</num><heading>Saving of rights of action, etc.</heading><content>Subject to <ref>section 83</ref> of the Interpretation and General Clauses Ordinance (<ref href="/hk/cap1">Cap. 1</ref>), nothing in this Part shall affect any restriction imposed by or under any other Ordinance or shall derogate from any right of action or other remedy (whether civil or criminal) in proceedings instituted otherwise than under this Ordinance.</content></section></part><part id="ID_1438403169231_004" name="P4" reason="omittedAsSpent" startPeriod="2023-08-17" status="omitted" temporalId="P4"><num value="4">Part
+            IV</num><sourceNote>(Omitted as spent—<ref href="hk/2023/er3">E.R. 3 of 2023</ref>)</sourceNote><section id="ID_1438403169247_002" name="s12" reason="omittedAsSpent" startPeriod="2023-08-17" status="omitted" temporalId="s12"><num value="12">12.</num><heading><sourceNote>(Omitted as spent—<ref href="/hk/2023/er3">E.R. 3 of
+            2023</ref>)</sourceNote></heading></section></part><schedule id="ID_1438403169262_001" name="sch0" reason="inEffect" startPeriod="2023-08-17" status="operational" temporalId="sch0"><num value="0">Schedule</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap413/s4A">ss.
+                4A</ref>, <ref href="/hk/cap413/s4B">4B</ref> &amp; <ref href="/hk/cap413/s4J">4J</ref>]</note><heading>Certificates
+            and Log-books in Electronic
+                Form</heading><sourceNote>(<ref>Schedule
+            </ref>added <ref href="hk/2023/24">24 of 2023 s.
+            8</ref>)</sourceNote><part id="ID_1690269226955_001" name="P1" temporalId="sch0_P1"><num value="1">Part 1</num><heading>Interpretation<marker role="blank-line"></marker></heading><section id="ID_1690269226956_002" name="s1" temporalId="sch0_P1_s1"><num value="1">1.</num><heading>Interpretation</heading><leadIn>In this Schedule—</leadIn><def name="AnnexVI"><term>Annex VI</term> (<term xml:lang="en">《附則VI》</term>) has
+                    the meaning given by <ref>section 2(1)</ref> of <ref href="/hk/cap413P">Cap.
+                        413P</ref>;</def><def name="BCHCode"><term>BCH Code</term> (<term xml:lang="en">散化規則</term>) has the
+                    meaning given by <ref>regulation 1(2)</ref> of <ref href="/hk/cap413D">Cap.
+                        413D</ref>;</def><def name="Cap413A"><term><ref href="/hk/cap413A">Cap. 413A</ref></term> (<term xml:lang="en">《<ref href="/hk/cap413A">第413A章</ref>》</term>) means the
+                    Merchant Shipping (Prevention of Oil Pollution) Regulations (<ref href="/hk/cap413A">Cap. 413 sub. leg. A</ref>);</def><def name="Cap413B"><term><ref href="hk/cap413B">Cap. 413B</ref></term> (<term xml:lang="en">《<ref href="/hk/cap413B">第413B章</ref>》</term>) means the
+                    Merchant Shipping (Control of Pollution by Noxious Liquid Substances in Bulk)
+                    Regulations (<ref href="/hk/cap413B">Cap. 413 sub. leg. B</ref>);</def><def name="Cap413D"><term><ref href="/hk/cap413D">Cap. 413D</ref></term> (<term xml:lang="en">《<ref href="/hk/cap413D">第413D章</ref>》</term>) means the
+                    Merchant Shipping (BCH Code) Regulations (<ref href="/hk/cap413D">Cap. 413 sub.
+                        leg. D</ref>);</def><def name="Cap413E"><term><ref href="/hk/cap413E">Cap. 413E</ref></term> (<term xml:lang="en">《<ref href="/hk/cap413E">第413E章</ref>》</term>) means the
+                    Merchant Shipping (IBC Code) Regulations (<ref href="/hk/cap413E">Cap. 413 sub.
+                        leg. E</ref>);</def><def name="Cap413H"><term><ref href="/hk/cap413H">Cap. 413H</ref></term> (<term xml:lang="en">《<ref href="/hk/cap413H">第413H章</ref>》</term>) means the
+                    Merchant Shipping (Safety) (Dangerous Goods and Marine Pollutants) Regulation
+                        (<ref href="/hk/cap413H">Cap. 413 sub. leg. H</ref>);</def><def name="Cap413K"><term><ref href="/hk/cap413K">Cap. 413K</ref></term> (<term xml:lang="en">《<ref href="/hk/cap413K">第413K章</ref>》</term>) means the
+                    Merchant Shipping (Prevention of Pollution by Sewage) Regulation (<ref href="/hk/cap413K">Cap. 413 sub. leg. K</ref>);</def><def name="Cap413N"><term><ref href="/hk/cap413N">Cap. 413N</ref></term> (<term xml:lang="en">《<ref href="/hk/cap413N">第413N章</ref>》</term>) means the
+                    Merchant Shipping (Control of Harmful Anti-Fouling Systems on Ships) Regulation
+                        (<ref href="/hk/cap413N">Cap. 413 sub. leg. N</ref>);</def><def name="Cap413O"><term><ref href="/hk/cap413O">Cap. 413O</ref></term> (<term xml:lang="en">《<ref href="/hk/cap413O">第413O章</ref>》</term>) means the
+                    Merchant Shipping (Prevention of Pollution by Garbage) Regulation (<ref href="/hk/cap413O">Cap. 413 sub. leg. O</ref>);</def><def name="Cap413P"><term><ref href="/hk/cap413P">Cap. 413P</ref></term> (<term xml:lang="en">《<ref href="/hk/cap413P">第413P章</ref>》</term>) means the
+                    Merchant Shipping (Prevention of Air Pollution) Regulation (<ref href="/hk/cap413P">Cap. 413 sub. leg. P</ref>);</def><def name="Cap413Q"><term><ref href="/hk/cap413Q">Cap. 413Q</ref></term> (<term xml:lang="en">《<ref href="/hk/cap413Q">第413Q章</ref>》</term>) means the
+                    Merchant Shipping (Control of Ballast Water and Sediments) Regulation (<ref href="/hk/cap413Q">Cap. 413 sub. leg. Q</ref>);</def><def name="HKAPPCertificate"><term>HKAPP Certificate</term> (<term xml:lang="en">HKAPP證書</term>) means the Hong Kong Air Pollution Prevention Certificate as
+                    defined by <ref>section 2(1)</ref> of <ref href="/hk/cap413P">Cap.
+                    413P</ref>;</def><def name="HKNLSCertificate"><term>HKNLS Certificate</term> (<term xml:lang="en">HKNLS證書</term>) means the Hong Kong Pollution Prevention Certificate for
+                    the Carriage of Noxious Liquid Substances in Bulk as defined by <ref>regulation
+                        1(2)</ref> of <ref href="/hk/cap413B">Cap. 413B</ref>;</def><def name="HKOPPCertificate"><term>HKOPP Certificate</term> (<term xml:lang="en">HKOPP證書</term>) means the Hong Kong Oil Pollution Prevention Certificate as
+                    defined by <ref>regulation 1(2)</ref> of <ref href="/hk/cap413A">Cap.
+                    413A</ref>;</def><def name="IAFSCertificate"><term>IAFS Certificate</term> (<term xml:lang="en">IAFS證書</term>) means the International Anti-Fouling System Certificate as
+                    defined by <ref>section 2(1)</ref> of <ref href="/hk/cap413N">Cap.
+                    413N</ref>;</def><def name="IAPPCertificate"><term>IAPP Certificate</term> (<term xml:lang="en">IAPP證書</term>) means the International Air Pollution Prevention Certificate
+                    as defined by <ref>section 2(1)</ref> of <ref href="/hk/cap413P">Cap.
+                    413P</ref>;</def><def name="IAPPECertificate"><term>IAPPE Certificate</term> (<term xml:lang="en">IAPPE證書</term>) means the International Air Pollution Prevention Exemption
+                    Certificate for Unmanned Non-self-propelled (UNSP) Barges as defined by
+                        <ref>section 2(1)</ref> of <ref href="/hk/cap413P">Cap. 413P</ref>;</def><def name="IBCCode"><term>IBC Code</term> (<term xml:lang="en">國際散化規則</term>) has
+                    the meaning given by <ref>regulation 1(2)</ref> of <ref href="/hk/cap413E">Cap.
+                        413E</ref>;</def><def name="IBWMCertificate"><term>IBWM Certificate</term> (<term xml:lang="en">IBWM證書</term>) means the International Ballast Water Management Certificate
+                    as defined by <ref>section 2</ref> of <ref href="/hk/cap413Q">Cap.
+                    413Q</ref>;</def><def name="IEECertificate"><term>IEE Certificate</term> (<term xml:lang="en">IEE證書</term>) means the International Energy Efficiency Certificate as
+                    defined by <ref>section 2(1)</ref> of <ref href="/hk/cap413P">Cap.
+                    413P</ref>;</def><def name="INLSCertificate"><term>INLS Certificate</term> (<term xml:lang="en">INLS證書</term>) means the International Pollution Prevention Certificate for
+                    the Carriage of Noxious Liquid Substances in Bulk as defined by<ref> regulation
+                        1(2)</ref> of <ref href="/hk/cap413B">Cap. 413B</ref>;</def><def name="IOPPCertificate"><term>IOPP Certificate</term> (<term xml:lang="en">IOPP證書</term>) means the International Oil Pollution Prevention Certificate
+                    as defined by <ref>regulation 1(2)</ref> of <ref href="/hk/cap413A">Cap.
+                        413A</ref>;</def><def name="IOPPECertificate"><term>IOPPE Certificate</term> (<term xml:lang="en">IOPPE證書</term>) means the International Oil Pollution Prevention Exemption
+                    Certificate as defined by <ref>regulation 1(2)</ref> of <ref href="/hk/cap413A">Cap. 413A</ref>;</def><def name="ISPPCertificate"><term>ISPP Certificate</term> (<term xml:lang="en">國際防污水證書</term>) has the meaning given by <ref>section 2(1)</ref> of <ref href="/hk/cap413K">Cap. 413K</ref>;</def><def name="ISPPECertificate"><term>ISPPE Certificate</term> (<term xml:lang="en">國際防污水免除證書</term>) has the meaning given by <ref>section 2(1)</ref> of <ref href="/hk/cap413K">Cap.
+                    413K</ref>.<marker role="section-break"></marker></def></section></part><part id="ID_1690269226995_003" name="P2" temporalId="sch0_P2"><num value="2">Part 2</num><division id="ID_1690269226996_004" name="D1" temporalId="sch0_P2_D1"><num value="1">Division 1</num><heading>Listed Certificates<marker role="blank-line"></marker></heading><text class="align_center"><b>Table</b><marker role="blank-line"></marker><marker role="blank-line"></marker></text><leadIn>
+                    <table xmlns="http://www.w3.org/1999/xhtml" width="100%" class="repeat_header">
+                        <colgroup>
+                            <col width="21.59%"></col>
+                            <col width="43.09%"></col>
+                            <col width="35.32%"></col>
+                        </colgroup>
+                        <thead>
+                            <tr class="break_rows">
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16">Column 1</p>
+                                </td>
+                                <td>
+                                    <p class="align_center below_space_between_line_16">Column 2</p>
+                                </td>
+                                <td>
+                                    <p class="align_center below_space_between_line_16">Column 3</p>
+                                </td>
+                            </tr>
+                            <tr class="break_rows">
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16">Item</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="align_center below_space_between_line_16">Document</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="align_center below_space_between_line_16">Provision</p>
+                                </td>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr class="break_rows">
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16">1.</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16">IOPP Certificate</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16"><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Regulation 7(1)(a)</ref> of <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap413A">Cap. 413A</ref></p>
+                                </td>
+                            </tr>
+                            <tr class="break_rows">
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16">2.</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16">HKOPP Certificate</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16"><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Regulation 7(1A)</ref> of <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap413A">Cap. 413A</ref></p>
+                                </td>
+                            </tr>
+                            <tr class="break_rows">
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16">3.</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16">IOPPE Certificate</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16"><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Regulation 7EB(3)</ref> of <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap413A">Cap. 413A</ref></p>
+                                </td>
+                            </tr>
+                            <tr class="break_rows">
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16">4.</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16">statement of
+                                        compliance</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16"><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Regulation 16G(1)</ref> or (2) of <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap413A">Cap. 413A</ref></p>
+                                </td>
+                            </tr>
+                            <tr class="break_rows">
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16">5.</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16">document to evidence the
+                                        exemption from all or any of the provisions of <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap413A">Cap. 413A</ref></p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16"><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Regulation 2(5)</ref> of <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap413A">Cap. 413A</ref></p>
+                                </td>
+                            </tr>
+                            <tr class="break_rows">
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16">6.</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16">HKNLS Certificate</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16"><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Regulation 24(1)(a)</ref> or (5) or 24J(3) of <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap413B">Cap. 413B</ref></p>
+                                </td>
+                            </tr>
+                            <tr class="break_rows">
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16">7.</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16">INLS Certificate</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16"><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Regulation 24(1)(b)</ref> or (5) or 24J(3) of <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap413B">Cap. 413B</ref></p>
+                                </td>
+                            </tr>
+                            <tr class="break_rows">
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16">8.</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16">document to evidence the
+                                        exemption from any of the requirements of <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap413B">Cap. 413B</ref></p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16"><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Regulation 27</ref> of <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap413B">Cap. 413B</ref></p>
+                                </td>
+                            </tr>
+                            <tr class="break_rows">
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16">9.</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16">Certificate of Fitness
+                                        for the Carriage of Dangerous Chemicals in Bulk</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16"><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Regulation 5(1)</ref> or (4) or 5J(3) of <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap413D">Cap. 413D</ref></p>
+                                </td>
+                            </tr>
+                            <tr class="break_rows">
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16">10.</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16">document to evidence the
+                                        exemption from any of the requirements of <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap413D">Cap. 413D</ref> or of the BCH
+                                        Code</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16"><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Regulation 8</ref> of <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap413D">Cap. 413D</ref></p>
+                                </td>
+                            </tr>
+                            <tr class="break_rows">
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16">11.</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16">International Certificate
+                                        of Fitness for the Carriage of Dangerous Chemicals in
+                                        Bulk</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16"><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Regulation 5(1)</ref> or (4) or 5J(3) of <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap413E">Cap. 413E</ref></p>
+                                </td>
+                            </tr>
+                            <tr class="break_rows">
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16">12.</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16">document to evidence the
+                                        exemption from any of the requirements of <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap413E">Cap. 413E</ref> or of the IBC
+                                        Code</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16"><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Regulation 8</ref> of <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap413E">Cap. 413E</ref></p>
+                                </td>
+                            </tr>
+                            <tr class="break_rows">
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16">13.</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16">document of
+                                        compliance</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16"><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Section
+                                            16(1)</ref> or (1A) or 19B of <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap413H">Cap. 413H</ref></p>
+                                </td>
+                            </tr>
+                            <tr class="break_rows">
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16">14.</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16">document to evidence the
+                                        exemption from all or any of the provisions of <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap413H">Cap. 413H</ref></p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16"><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Section
+                                            1(4)</ref> of <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap413H">Cap. 413H</ref></p>
+                                </td>
+                            </tr>
+                            <tr class="break_rows">
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16">15.</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16">ISPP Certificate</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16"><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Section
+                                            9(2)</ref> or <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">20(3)</ref> of <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap413K">Cap. 413K</ref></p>
+                                </td>
+                            </tr>
+                            <tr class="break_rows">
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16">16.</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16">ISPPE Certificate</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16"><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Section
+                                            18A(3)</ref> of <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap413K">Cap. 413K</ref></p>
+                                </td>
+                            </tr>
+                            <tr class="break_rows">
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16">17.</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16">document to evidence the
+                                        exemption from any of the requirements of <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap413K">Cap. 413K</ref></p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16"><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Section
+                                            3(4)</ref> of <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap413K">Cap. 413K</ref></p>
+                                </td>
+                            </tr>
+                            <tr class="break_rows">
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16">18.</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16">IAFS Certificate</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16"><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Section
+                                            7(3)</ref> or (4) or 18(2) of <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap413N">Cap. 413N</ref></p>
+                                </td>
+                            </tr>
+                            <tr class="break_rows">
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16">19.</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16">IAPP Certificate</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16 first_line_indent_1"><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Section
+                                            58(3)</ref> or <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">71(3)</ref> of <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap413P">Cap. 413P</ref></p>
+                                </td>
+                            </tr>
+                            <tr class="break_rows">
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16">20.</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16">IAPPE Certificate</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16 first_line_indent_1"><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Section
+                                            58A(3)</ref> or <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">71(3)</ref> of <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap413P">Cap. 413P</ref></p>
+                                </td>
+                            </tr>
+                            <tr class="break_rows">
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16">21.</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16">HKAPP Certificate</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16"><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Section
+                                            59(3)</ref> or <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">71(3)</ref> of <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap413P">Cap. 413P</ref></p>
+                                </td>
+                            </tr>
+                            <tr class="break_rows">
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16">22.</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16">IEE Certificate</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16"><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Section
+                                            60(3)</ref> or <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">71(3)</ref> of <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap413P">Cap. 413P</ref></p>
+                                </td>
+                            </tr>
+                            <tr class="break_rows">
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16">23.</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16">Statement of
+                                        Compliance</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16"><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Section
+                                            60A(3)</ref>, (3A), (4) or (5) or 71(3) of <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap413P">Cap. 413P</ref></p>
+                                </td>
+                            </tr>
+                            <tr class="break_rows">
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16">24.</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16">document to evidence the
+                                        exemption from any of the requirements of <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap413P">Cap. 413P</ref></p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16"><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Section
+                                            99</ref> of <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap413P">Cap. 413P</ref></p>
+                                </td>
+                            </tr>
+                            <tr class="break_rows">
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16">25.</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16">IBWM Certificate</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16"><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Section
+                                            13(3)</ref>, <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">14(1)</ref> or <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">22(3)</ref> of <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap413Q">Cap. 413Q</ref></p>
+                                </td>
+                            </tr>
+                            <tr class="break_rows">
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16">26.</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_0">document to evidence the
+                                        exemption from any of the requirements of <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap413Q">Cap. 413Q</ref></p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16"><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Section
+                                            40</ref> of <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap413Q">Cap. 413Q</ref></p>
+                                </td>
+                            </tr>
+                            
+                            
+                            <tr>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5"></td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5"></td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5"></td>
+                            </tr>
+                            <tr>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5"></td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5"></td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5"></td>
+                            </tr>
+                            <tr>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5"></td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5"></td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5"></td>
+                            </tr>
+                            <tr>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5"></td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5"></td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5"></td>
+                            </tr>
+                            <tr>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5"></td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5"></td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5"></td>
+                            </tr>
+                            <tr>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5"></td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5"></td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5"></td>
+                            </tr>
+                            <tr>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5"></td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5"></td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5"></td>
+                            </tr>
+                            <tr>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5"></td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5"></td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5"></td>
+                            </tr>
+                            
+                            
+                        </tbody>
+                    </table>
+                </leadIn></division><division id="ID_1690269227040_005" name="D2" temporalId="sch0_P2_D2"><num value="2">Division 2</num><heading>Listed Log-books<marker role="blank-line"></marker></heading><text class="align_center"><b>Table<marker role="blank-line"></marker><marker role="blank-line"></marker></b></text><leadIn>
+                    <table xmlns="http://www.w3.org/1999/xhtml" width="100%" class="repeat_header">
+                        <colgroup>
+                            <col width="21.59%"></col>
+                            <col width="43.09%"></col>
+                            <col width="35.32%"></col>
+                        </colgroup>
+                        <thead>
+                            <tr class="break_rows">
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16">Column 1</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16 align_center">Column 2</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16 align_center">Column 3</p>
+                                </td>
+                            </tr>
+                            <tr class="break_rows">
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16">Item</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16 align_center">Document</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="align_center below_space_between_line_16">Provision</p>
+                                </td>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr class="break_rows">
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16">1.</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16">Oil Record Book</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16"><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Regulation 10(1)</ref> of <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap413A">Cap. 413A</ref></p>
+                                </td>
+                            </tr>
+                            <tr class="break_rows">
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16">2.</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16">official log book</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_8"><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Regulation 10(1)</ref> of <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap413A">Cap. 413A</ref>;</p>
+                                    <p class="below_space_between_line_16"><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Section
+                                            12(2)</ref> or <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">17(1)(b)</ref> of <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap413O">Cap. 413O</ref></p>
+                                </td>
+                            </tr>
+                            <tr class="break_rows">
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16">3.</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16">engine room log book</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16"><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Regulation 10(1)</ref> of <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap413A">Cap. 413A</ref></p>
+                                </td>
+                            </tr>
+                            <tr class="break_rows">
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16">4.</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16">Cargo Record Book</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16"><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Regulation 20</ref> of <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap413B">Cap. 413B</ref></p>
+                                </td>
+                            </tr>
+                            <tr class="break_rows">
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16">5.</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16">Garbage Record Book</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16"><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Section
+                                            11(1)</ref> or (3A) of <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap413O">Cap. 413O</ref></p>
+                                </td>
+                            </tr>
+                            <tr class="break_rows">
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16">6.</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16">Ozone Depleting
+                                        Substances Record Book</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16"><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Section
+                                            11(1)</ref> or (2) of <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap413P">Cap. 413P</ref></p>
+                                </td>
+                            </tr>
+                            <tr class="break_rows">
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16">7.</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    
+                                    <p class="below_space_between_line_16">record showing the
+                                        information required in relation to a marine diesel engine
+                                        by <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Regulation 13</ref>.5.3 of Annex VI</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16"><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Section
+                                            14A(2)</ref> or (2A) of <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap413P">Cap. 413P</ref></p>
+                                </td>
+                            </tr>
+                            <tr class="break_rows">
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16">8.</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16">record showing the
+                                        information referred to in <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">section
+                                            18(5)</ref> of <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap413P">Cap. 413P</ref>
+                                    </p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_16"><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Section
+                                            18(4)</ref> or (4A) of <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap413P">Cap. 413P</ref></p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_0">9.</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_0">Ballast Water Record
+                                        Book</p>
+                                </td>
+                                <td class="align_left cellpadding_left_5 cellpadding_right_5">
+                                    <p class="below_space_between_line_0"><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Section
+                                            8</ref> of <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap413Q">Cap. 413Q</ref></p>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </leadIn></division></part><part id="ID_1690269227057_006" name="P3" temporalId="sch0_P3"><num value="3">Part 3</num><heading>Guidelines</heading><division id="ID_1690269227058_007" name="D1" temporalId="sch0_P3_D1"><num value="1">Division 1</num><heading>e-cert Guidelines<marker role="blank-line"></marker></heading><paragraph class="left_indent_0 first_line_indent_0" id="ID_1690269227058_008" name="0" temporalId="sch0_P3_D1_0"><content>Guidelines for the Use of Electronic Certificates (FAL.5/Circ.39/Rev.2
+                        dated 20 April 2016) approved by the Facilitation Committee of the
+                        International Maritime
+                        Organization</content></paragraph></division><division id="ID_1690269227059_009" name="D2" temporalId="sch0_P3_D2"><num value="2">Division 2</num><heading>e-log Guidelines</heading><section id="ID_1690269227060_010" name="s1" temporalId="sch0_P3_D2_s1" class="no_header"><num value="1" class="not_bold">1.</num><content>Guidelines for the Use of Electronic Record Books under MARPOL adopted
+                        by the Marine Environment Protection Committee of the International Maritime
+                        Organization by resolution MEPC.312(74) on 17 May 2019</content></section><section id="ID_1690269227060_011" name="s2" temporalId="sch0_P3_D2_s2" class="no_header"><num value="2" class="not_bold">2.</num><content>Electronic Record Books for Ships—Technical Specifications and
+                        Operational Requirements (ISO 21745) published by the International
+                        Organization for Standardization on 3 September 2019</content></section></division></part><part id="ID_1690269227063_012" name="P4" temporalId="sch0_P4"><num value="4">Part 4</num><heading>Recognized Organizations<marker role="blank-line"></marker></heading><subsection id="ID_1690269227063_013" name="1" temporalId="sch0_P4_1" class="no_header"><num value="1" class="not_bold">1.</num><content>A recognized organization as defined by <ref>regulation 1(2)</ref> of <ref href="/hk/cap413A">Cap. 413A</ref></content></subsection><subsection id="ID_1690269227066_014" name="2" temporalId="sch0_P4_2" class="no_header"><num value="2" class="not_bold">2.</num><content>A recognized organization as defined by <ref>regulation 1(2)</ref> of <ref href="/hk/cap413B">Cap. 413B</ref></content></subsection><subsection id="ID_1690269227068_015" name="3" temporalId="sch0_P4_3" class="no_header"><num value="3" class="not_bold">3.</num><content>A recognized organization as defined by <ref>regulation 1(2)</ref> of <ref href="/hk/cap413D">Cap. 413D</ref></content></subsection><subsection id="ID_1690269227070_016" name="4" temporalId="sch0_P4_4" class="no_header"><num value="4" class="not_bold">4.</num><content>A recognized organization as defined by <ref>regulation 1(2)</ref> of <ref href="/hk/cap413E">Cap. 413E</ref></content></subsection><subsection id="ID_1690269227072_017" name="5" temporalId="sch0_P4_5" class="no_header"><num value="5" class="not_bold">5.</num><content>A recognized organization as defined by <ref>section 2(1)</ref> of <ref href="/hk/cap413K">Cap. 413K</ref></content></subsection><subsection id="ID_1690269227074_018" name="6" temporalId="sch0_P4_6" class="no_header"><num value="6" class="not_bold">6.</num><content>A recognized organization as defined by <ref>section 2(1)</ref> of <ref href="/hk/cap413N">Cap. 413N</ref></content></subsection><subsection id="ID_1690269227076_019" name="7" temporalId="sch0_P4_7" class="no_header"><num value="7" class="not_bold">7.</num><content>An organization recognized under <ref>section 15A(1)</ref> of <ref href="/hk/cap413O">Cap. 413O</ref></content></subsection><subsection id="ID_1690269227078_020" name="8" temporalId="sch0_P4_8" class="no_header"><num value="8" class="not_bold">8.</num><content>A recognized organization as defined by <ref>section 2(1)</ref> of <ref href="/hk/cap413P">Cap. 413P</ref></content></subsection><subsection id="ID_1690269227080_021" name="9" temporalId="sch0_P4_9" class="no_header"><num value="9" class="not_bold">9.</num><content>An organization recognized under <ref>section 37</ref> of <ref href="/hk/cap413Q">Cap. 413Q</ref></content></subsection></part></schedule></main></ordinance>

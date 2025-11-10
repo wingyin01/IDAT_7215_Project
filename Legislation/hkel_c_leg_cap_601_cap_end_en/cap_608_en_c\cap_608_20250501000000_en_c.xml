@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?><ordinance xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd" xml:lang="en"><meta><docName>Cap. 608</docName><docType>cap</docType><docNumber>608</docNumber><docStatus>In effect</docStatus><dc:identifier>/hk/cap608!en</dc:identifier><dc:date>2025-05-01</dc:date><dc:subject>legislation</dc:subject><dc:language>en</dc:language><dc:publisher>DoJ</dc:publisher><dc:rights>the Government of the Hong Kong Special Administrative Region</dc:rights></meta><main xml:lang="en" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd"><longTitle id="ID_1438403520384_001" name="longTitle" reason="inEffect" status="operational" temporalId="longTitle" startPeriod="2017-02-15">
+            <content>An Ordinance to provide for a minimum wage at an hourly rate for certain
+                employees; to establish a Minimum Wage Commission and to make consequential
+                amendments to the Labour Tribunal Ordinance, the Employment Ordinance, the Minor
+                Employment Claims Adjudication Board Ordinance and the Disability Discrimination
+                Ordinance.<marker role="blank-line"></marker><marker role="blank-line"></marker><marker role="blank-line"></marker></content>
+        </longTitle><commencementNote>[12
+            November
+                2010]<inline class="width_6"></inline><sourceNote><ref href="/hk/2010/ln146">L.N. 146 of
+                2010</ref></sourceNote></commencementNote><sourceNote class="left_indent_36 align_left">(Enacting provision omitted—<ref href="/hk/2017/er1">E.R. 1 of 2017</ref>)</sourceNote><sourceNote>(Format changes—<ref href="/hk/2017/er1">E.R. 1 of 2017</ref>)</sourceNote><part id="ID_1438403520384_003" name="P1" reason="inEffect" startPeriod="2017-02-15" status="operational" temporalId="P1"><num value="1">Part
+            1</num><heading>Preliminary</heading><section id="ID_1438403520400_001" name="s1" reason="inEffect" startPeriod="2017-02-15" status="operational" temporalId="s1"><num value="1">1.</num><heading>Short
+            title</heading><sourceNote>(Amended <ref href="hk/2017/er1">E.R. 1 of 2017</ref>)</sourceNote><subsection id="ID_1438413731654_004" name="1" temporalId="s1_1"><num value="1">(1)</num><content>This Ordinance may be cited as the <shortTitle>Minimum Wage
+                    Ordinance</shortTitle>.</content></subsection><subsection id="ID_1438413731654_012" name="2" temporalId="s1_2"><num value="2">(2)</num><sourceNote>(Omitted as spent—<ref href="hk/2017/er1">E.R. 1 of
+                2017</ref>)</sourceNote></subsection></section><section id="ID_1438403520400_003" name="s2" reason="inEffect" startPeriod="2017-02-15" status="operational" temporalId="s2"><num value="2">2.</num><heading>Interpretation</heading><leadIn>In this Ordinance—</leadIn><def name="AccreditedProgramme"><leadIn><term>accredited
+                    programme</term>
+                (<term xml:lang="zh-Hant-HK">經評審課程</term>) means a full-time programme that—</leadIn><paragraph id="ID_1438413731670_019" name="a" temporalId="s2_a"><num value="a">(a)</num><content>is provided by an education institution specified in <ref>Schedule 1</ref>;</content></paragraph><paragraph id="ID_1438413731670_027" name="b" temporalId="s2_b"><num value="b">(b)</num><content>is a learning programme of a kind described in <ref>section 1, 2 or 3 of Schedule 3</ref> to the Accreditation of Academic and Vocational Qualifications Ordinance (<ref href="/hk/cap592">Cap. 592</ref>); and</content></paragraph><paragraph id="ID_1438413731686_006" name="c" temporalId="s2_c"><num value="c">(c)</num><content>if provided by a school registered or provisionally registered under the Education Ordinance (<ref href="/hk/cap279">Cap. 279</ref>), is at the level of post secondary education (within the meaning of that Ordinance);</content></paragraph></def><def name="AssessmentoptingPWD"><term>assessment-opting
+                PWD</term>
+                (<term xml:lang="zh-Hant-HK">選擇受評估殘疾人士</term>) means a PWD who, in accordance with
+                <ref>section 4(2) of Schedule 2</ref>, has elected to have an assessment made under
+            that <ref>Schedule</ref> of his or her degree of productivity in performing the work
+            required under the contract of employment;</def><def name="Chairperson"><term>chairperson</term>
+                (<term xml:lang="zh-Hant-HK">主席</term>) means chairperson of the Commission;</def><def name="Commission"><term>Commission</term>
+                (<term xml:lang="zh-Hant-HK">委員會</term>) means Minimum Wage Commission established
+            by <ref>section 11</ref>;</def><def name="Commissioner"><term>Commissioner</term>
+                (<term xml:lang="zh-Hant-HK">處長</term>) has the same meaning as in the Employment
+            Ordinance (<ref href="/hk/cap57">Cap. 57</ref>);</def><def name="ContractOfEmployment"><term>contract
+                of
+            employment</term>
+                (<term xml:lang="zh-Hant-HK">僱傭合約</term>) has the same meaning as in the Employment
+            Ordinance (<ref href="/hk/cap57">Cap. 57</ref>);</def><def name="DomesticWorker"><term>domestic
+                worker</term>
+                (<term xml:lang="zh-Hant-HK">家庭傭工</term>) means a domestic helper, carer, chauffeur,
+            gardener, boat-boy or other personal helper employed in, or in connection with, a
+            household;</def><def name="Employee"><term>employee</term>
+                (<term xml:lang="zh-Hant-HK">僱員</term>) means a person engaged as an employee under
+            a contract of employment other than a person covered by <ref>section 7(2)</ref>, (3),
+            (4) or (5);</def><def name="EmployeeWithADisability"><term>employee
+                with a
+            disability</term>
+                (<term xml:lang="zh-Hant-HK">殘疾僱員</term>) means an employee who is a PWD and whose
+            degree of productivity in performing the work required under the contract of employment
+            is stated in a certificate of assessment that has effect for the purposes of
+                <ref>section 9(1)(b)</ref>;</def><def name="Employer"><term>employer</term>
+                (<term xml:lang="zh-Hant-HK">僱主</term>) has the same meaning as in the Employment
+            Ordinance (<ref href="/hk/cap57">Cap. 57</ref>);</def><def name="ExemptStudentEmployment"><term>exempt
+                student
+            employment</term>
+                (<term xml:lang="zh-Hant-HK">獲豁免學生僱用</term>)—see <ref>section 3</ref>;</def><def name="HoursWorked"><term>hours
+                worked</term>
+                (<term xml:lang="zh-Hant-HK">工作時數</term>)—see <ref>section 4</ref>;</def><def name="Member"><term>member</term>
+                (<term xml:lang="zh-Hant-HK">委員</term>) means member of the Commission;</def><def name="MinimumWage"><term>minimum
+                wage</term>
+                (<term xml:lang="zh-Hant-HK">最低工資</term>), for an employee for a wage period, has
+            the meaning given by <ref>section 8(2)</ref>;</def><def name="NonlocalEducationProgramme"><term>non-local
+                education
+            programme</term>
+                (<term xml:lang="zh-Hant-HK">非本地教育課程</term>) means a full-time programme of
+            education which leads to the award of a non-local academic qualification which is at the
+            level of degree or higher;</def><def name="OptionForm"><term>option
+                form</term>
+                (<term xml:lang="zh-Hant-HK">選擇表格</term>) means a form referred to in <ref>section 4
+                of Schedule 2</ref>;</def><def name="PlaceOfEmployment"><term>place
+                of
+            employment</term>
+                (<term xml:lang="zh-Hant-HK">僱傭地點</term>), in relation to an employee, means any
+            place at which the employee is, in accordance with the contract of employment or with
+            the agreement or at the direction of the employer, in attendance for the purpose of
+            doing work or receiving training;</def><def name="PrescribedMinimumHourlyWageRate"><term>prescribed
+                minimum hourly wage
+            rate</term>
+                (<term xml:lang="zh-Hant-HK">訂明每小時最低工資額</term>) means the hourly wage rate specified
+            in column 1 of <ref>Schedule 3</ref>;</def><def name="PWD"><term>PWD</term>
+                (<term xml:lang="zh-Hant-HK">殘疾人士</term>) means a person who holds a valid
+            Registration Card for People with Disabilities issued by the Central Registry for
+            Rehabilitation established by the Government;</def><def name="StudentIntern"><leadIn><term>student
+                    intern</term>
+                    (<term xml:lang="zh-Hant-HK">實習學員</term>) means—</leadIn><paragraph id="ID_1438413731717_040" name="a" temporalId="s2_a-1"><num value="a">(a)</num><content>a student undergoing a period of work arranged or endorsed by an education institution specified in <ref>Schedule 1</ref> in connection with an accredited programme being provided by the institution to the student; or</content></paragraph><paragraph id="ID_1438413731732_006" name="b" temporalId="s2_b-1"><num value="b">(b)</num><content>a student resident in Hong Kong and undergoing a period of work arranged or endorsed by an institution in connection with a non-local education programme being provided by the institution to the student,</content></paragraph><continued>for which the work is a compulsory or elective component of the requirements for the award of the academic qualification to which the programme leads;</continued></def><def name="TrialPeriodOfEmployment"><term>trial
+                period of
+            employment</term>
+                (<term xml:lang="zh-Hant-HK">僱傭試工期</term>) means a trial period of employment
+            referred to in <ref>section 2 of Schedule 2</ref>;</def><def name="WagePeriod"><term>wage
+                period</term>
+                (<term xml:lang="zh-Hant-HK">工資期</term>)—see <ref>section 5</ref>;</def><def name="Wages"><term>wages</term>
+                (<term xml:lang="zh-Hant-HK">工資</term>), subject to <ref>section 6</ref>, has the
+            same meaning as in the Employment Ordinance (<ref href="/hk/cap57">Cap. 57</ref>);</def><def name="WorkExperienceStudent"><leadIn><term>work
+                    experience
+                student</term>
+                    (<term xml:lang="zh-Hant-HK">工作經驗學員</term>) means a student who—</leadIn><paragraph id="ID_1438413731732_048" name="a" temporalId="s2_a-2"><num value="a">(a)</num><content>is enrolled in an accredited programme; or</content></paragraph><paragraph id="ID_1438413731732_056" name="b" temporalId="s2_b-2"><num value="b">(b)</num><content>is resident in Hong Kong and enrolled in a non-local education programme,</content></paragraph><continued>and who is engaged under a contract of employment at the beginning of which he or she is under the age of 26 years.</continued></def></section><section id="ID_1438403520416_002" name="s3" reason="inEffect" startPeriod="2017-02-15" status="operational" temporalId="s3"><num value="3">3.</num><heading>Exempt student employment</heading><leadIn>A work experience student and his or her employer may agree to treat a continuous period of
+            up to 59 days during the contract of employment
+                (<term>the
+                current
+            contract</term>)
+            as a period of exempt student employment if—</leadIn><paragraph id="ID_1438413731810_012" name="a" temporalId="s3_a"><num value="a">(a)</num><content>no period during another contract of employment to which the work experience student was a party and that commenced in the same calendar year as the current contract was a period of exempt student employment; and</content></paragraph><paragraph id="ID_1438413731826_006" name="b" temporalId="s3_b"><num value="b">(b)</num><content>the work experience student provides to the employer before the commencement of the current contract a statutory declaration (or copy of a statutory declaration) made by him or her verifying the fact set out in paragraph (a).</content></paragraph></section><section id="ID_1438403520431_001" name="s4" reason="inEffect" startPeriod="2017-02-15" status="operational" temporalId="s4"><num value="4">4.</num><heading>Hours worked</heading><leadIn>The hours worked by an employee in a wage period include any time during which the employee is, in accordance with the contract of employment or with the agreement or at the direction of the employer—</leadIn><paragraph id="ID_1438413731842_026" name="a" temporalId="s4_a"><num value="a">(a)</num><content>in attendance at a place of employment, irrespective of whether he or she is provided with work or training at that time; or</content></paragraph><paragraph id="ID_1438413731857_006" name="b" temporalId="s4_b"><num value="b">(b)</num><content>travelling in connection with his or her employment excluding travelling (in either direction) between his or her place of residence and his or her place of employment other than a place of employment that is outside Hong Kong and is not his or her usual place of employment.</content></paragraph></section><section id="ID_1438403520431_003" name="s5" reason="inEffect" startPeriod="2017-02-15" status="operational" temporalId="s5"><num value="5">5.</num><heading>Wage period</heading><subsection id="ID_1438413731873_019" name="1" temporalId="s5_1"><num value="1">(1)</num><content>The wage period of an employee is the period in respect of which wages are payable to the employee for work done or to be done under his or her contract of employment.</content></subsection><subsection id="ID_1438413731888_005" name="2" temporalId="s5_2"><num value="2">(2)</num><content>Unless the contrary is proved, that period must be taken to be one month.</content></subsection><subsection id="ID_1438413731888_013" name="3" temporalId="s5_3"><num value="3">(3)</num><content>For a completed or terminated contract of employment that has had at least one previous wage period, the final wage period is the period commencing at the end of the penultimate wage period and ending on the day of completion or termination of the contract.</content></subsection><subsection id="ID_1438413731888_021" name="4" temporalId="s5_4"><num value="4">(4)</num><content>For a completed or terminated contract of employment that has not had at least one previous wage period, the final wage period is the period commencing at the beginning of the contract and ending on the day of completion or termination of the contract.</content></subsection></section><section id="ID_1438403520431_005" name="s6" reason="inEffect" startPeriod="2017-02-15" status="operational" temporalId="s6"><num value="6">6.</num><heading>Wages</heading><subsection id="ID_1438413731920_004" name="1" temporalId="s6_1"><num value="1">(1)</num><content>A deduction from the wages of an employee made under <ref>section 25(3)</ref> or <ref>32(2)(b)</ref>, (c), (d), (e), (f), (g), (ga), (h) or (i) of the Employment Ordinance (<ref href="/hk/cap57">Cap. 57</ref>) in respect of any wage period must be counted as part of the wages payable in respect of that period.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/2014/21">21 of 2014 s. 18</ref>)</sourceNote></content></subsection><subsection id="ID_1438413731935_005" name="2" temporalId="s6_2"><num value="2">(2)</num><content>A payment made to an employee in any wage period for any time that is not hours worked by the employee must not be counted as part of the wages payable in respect of that or any other wage period.</content></subsection><subsection id="ID_1438413731935_013" name="3" temporalId="s6_3"><num value="3">(3)</num><content>An advance or over-payment of wages made to an employee in any wage period must not be counted as part of the wages payable in respect of that period.</content></subsection><subsection id="ID_1438413731935_021" name="4" temporalId="s6_4"><num value="4">(4)</num><content>A payment of arrears of wages in respect of an earlier wage period made to an employee in any wage period must not be counted as part of the wages payable in respect of the wage period in which it is paid.</content></subsection><subsection id="ID_1438413731935_029" name="5" temporalId="s6_5"><num value="5">(5)</num><content>Despite subsections (1), (3) and (4), for the purposes of this Ordinance, any commission paid, with the prior agreement of the employee, at any time after the first 7 days of a wage period but before the end of the 7th day immediately after that period must be counted as part of the wages payable in respect of that period irrespective of when the work is done or the commission is otherwise payable under the contract of employment.</content></subsection></section><section id="ID_1438403520478_002" name="s7" reason="inEffect" startPeriod="2017-02-15" status="operational" temporalId="s7"><num value="7">7.</num><heading>Application of Ordinance</heading><subsection id="ID_1438413731982_004" name="1" temporalId="s7_1"><num value="1">(1)</num><content>Subject to this section, this Ordinance applies to every employee, his or her employer and the contract of employment under which he or she is engaged.</content></subsection><subsection id="ID_1438413731982_012" name="2" temporalId="s7_2"><num value="2">(2)</num><content>This Ordinance does not apply to a person to whom the Employment Ordinance (<ref href="/hk/cap57">Cap. 57</ref>) does not apply because of <ref>section 4(2)</ref> of that Ordinance or who is engaged under a contract of apprenticeship registered under the Apprenticeship Ordinance (<ref href="/hk/cap47">Cap. 47</ref>).</content></subsection><subsection id="ID_1438413731998_005" name="3" temporalId="s7_3"><num value="3">(3)</num><content>This Ordinance does not apply to a person who is employed as a domestic worker in, or in connection with, a household and who dwells in that household free of charge.</content></subsection><subsection id="ID_1438413731998_013" name="4" temporalId="s7_4"><num value="4">(4)</num><content>This Ordinance does not apply to a student intern.</content></subsection><subsection id="ID_1438413731998_021" name="5" temporalId="s7_5"><num value="5">(5)</num><content>This Ordinance does not apply to a work experience student during a period of exempt student employment.</content></subsection></section></part><part id="ID_1438403520478_004" name="P2" reason="inEffect" startPeriod="2017-02-15" status="operational" temporalId="P2"><num value="2">Part
+            2</num><heading>Entitlement
+            to
+            Minimum
+            Wage</heading><section id="ID_1438403520494_002" name="s8" reason="inEffect" startPeriod="2017-02-15" status="operational" temporalId="s8"><num value="8">8.</num><heading>Employees to be paid at least minimum wage</heading><subsection id="ID_1438413732060_004" name="1" temporalId="s8_1"><num value="1">(1)</num><content>An employee is entitled to be paid wages in respect of any wage period of not less than the minimum wage.</content></subsection><subsection id="ID_1438413732076_005" name="2" temporalId="s8_2"><num value="2">(2)</num><content>The minimum wage for an employee for a wage period is the amount derived by multiplying the total number of hours (including any part of an hour) worked by the employee in the wage period by the minimum hourly wage rate for the employee provided by <ref>section 9</ref>.</content></subsection><subsection id="ID_1438413732076_013" name="3" temporalId="s8_3"><num value="3">(3)</num><content>This section is subject to <ref>section 18</ref> (transitional provisions).</content></subsection></section><section id="ID_1438403520494_004" name="s9" reason="inEffect" startPeriod="2017-02-15" status="operational" temporalId="s9"><num value="9">9.</num><heading>Minimum hourly wage rate</heading><subsection id="ID_1438413732107_004" name="1" temporalId="s9_1"><num value="1">(1)</num><leadIn>The minimum hourly wage rate for an employee is—</leadIn><paragraph id="ID_1438413732107_012" name="a" temporalId="s9_1_a"><num value="a">(a)</num><content>for a PWD undergoing a trial period of employment, the hourly rate that is the percentage specified in <ref>section 3 of Schedule 2</ref> of the prescribed minimum hourly wage rate;</content></paragraph><paragraph id="ID_1438413732107_020" name="b" temporalId="s9_1_b"><num value="b">(b)</num><content>for an employee with a disability, the hourly rate derived by multiplying the prescribed minimum hourly wage rate by the employee’s assessed degree of productivity as stated in the certificate of assessment referred to in <ref>section 7 of Schedule 2</ref>;</content></paragraph><paragraph id="ID_1438413732107_028" name="c" temporalId="s9_1_c"><num value="c">(c)</num><content>for an assessment-opting PWD who continues to be employed to do the same work for the same employer, until the end of the day on which the assessment of his or her degree of productivity in performing that work is completed under <ref>Schedule 2</ref>, the hourly rate that is the percentage specified in the option form of the prescribed minimum hourly wage rate; and</content></paragraph><paragraph id="ID_1438413732122_006" name="d" temporalId="s9_1_d"><num value="d">(d)</num><content>in any other case, the prescribed minimum hourly wage rate.</content></paragraph></subsection><subsection id="ID_1438413732122_013" name="2" temporalId="s9_2"><num value="2">(2)</num><content>Despite subsection <ref>(1)(d)</ref>, if a PWD who has undergone a trial period of employment becomes an employee with a disability after the expiry of the trial period, the minimum hourly wage rate for the employee must be taken to be the hourly rate provided by subsection <ref>(1)(b)</ref> on and from the first day after the expiry of the trial period.</content></subsection><subsection id="ID_1438413732138_005" name="3" temporalId="s9_3"><num value="3">(3)</num><content><ref>Schedule 2</ref> has effect with respect to assessing the degree of productivity of a PWD and specifying the percentage of the prescribed minimum hourly wage rate that is applicable to a PWD undergoing a trial period of employment.</content></subsection><subsection id="ID_1438413732138_013" name="4" temporalId="s9_4"><num value="4">(4)</num><content><ref>Schedule 2</ref> also provides for determining the percentage of the prescribed minimum hourly wage rate that is applicable to an assessment-opting PWD until the end of the day on which the assessment of his or her degree of productivity in performing the work required under the contract of employment is completed under that <ref>Schedule</ref>.</content></subsection></section><section id="ID_1438403520509_002" name="s10" reason="inEffect" startPeriod="2017-02-15" status="operational" temporalId="s10"><num value="10">10.</num><heading>Entitlement to at least minimum wage under contract of employment</heading><subsection id="ID_1438413732185_004" name="1" temporalId="s10_1"><num value="1">(1)</num><content>If, but for this Ordinance, the wages payable to an employee in respect of any wage period are less than the minimum wage for the employee for that period, the contract of employment of the employee must be taken to provide for all purposes that the employee is entitled to additional remuneration in respect of that period of the amount derived by subtracting from that minimum wage the amount of wages that, but for this Ordinance, is payable in respect of that period.</content></subsection><subsection id="ID_1438413732200_005" name="2" temporalId="s10_2"><num value="2">(2)</num><leadIn>Without limiting subsection (1), the purposes referred to in that subsection include calculating—</leadIn><paragraph id="ID_1438413732200_013" name="a" temporalId="s10_2_a"><num value="a">(a)</num><content>the amount of any wages or of any other sum payable under the Employment Ordinance (<ref href="/hk/cap57">Cap. 57</ref>);</content></paragraph><paragraph id="ID_1438413732200_021" name="b" temporalId="s10_2_b"><num value="b">(b)</num><content>any amount payable by way of an ex gratia payment under the Protection of Wages on Insolvency Ordinance (<ref href="/hk/cap380">Cap. 380</ref>);</content></paragraph><paragraph id="ID_1438413732200_029" name="c" temporalId="s10_2_c"><num value="c">(c)</num><content>the amount of any mandatory contribution required to be paid to a provident fund scheme under the Mandatory Provident Fund Schemes Ordinance (<ref href="/hk/cap485">Cap. 485</ref>); and</content></paragraph><paragraph id="ID_1438413732216_006" name="d" temporalId="s10_2_d"><num value="d">(d)</num><content>the monthly earnings of the employee for the purposes of the Employees’ Compensation Ordinance (<ref href="/hk/cap282">Cap. 282</ref>) or the Occupational Deafness (Compensation) Ordinance (<ref href="/hk/cap469">Cap. 469</ref>).</content></paragraph></subsection><subsection id="ID_1438413732216_013" name="3" temporalId="s10_3"><num value="3">(3)</num><content>To avoid doubt and without limiting subsection (1), the amount of any additional remuneration to which an employee is entitled under subsection (1) forms part of the wages payable to the employee under the Employment Ordinance (<ref href="/hk/cap57">Cap. 57</ref>) and a failure to pay it may be dealt with in the same way as a failure to pay any other portion of those wages.</content></subsection></section></part><part id="ID_1438403520509_004" name="P3" reason="inEffect" startPeriod="2017-02-15" status="operational" temporalId="P3"><num value="3">Part
+            3</num><heading>Minimum
+            Wage
+            Commission</heading><section id="ID_1438403520525_001" name="s11" reason="inEffect" startPeriod="2017-02-15" status="operational" temporalId="s11"><num value="11">11.</num><heading>Establishment and constitution of Commission</heading><subsection id="ID_1438413732263_004" name="1" temporalId="s11_1"><num value="1">(1)</num><content>A Commission is established to be known as “Minimum Wage Commission” in English and “最低工資委員會” in Chinese.</content></subsection><subsection id="ID_1438413732278_005" name="2" temporalId="s11_2"><num value="2">(2)</num><leadIn>The Commission consists of—</leadIn><paragraph id="ID_1438413732278_013" name="a" temporalId="s11_2_a"><num value="a">(a)</num><content>a person, who is not a public officer, appointed as the chairperson;</content></paragraph><paragraph id="ID_1438413732278_021" name="b" temporalId="s11_2_b"><num value="b">(b)</num><leadIn>not more than 9 other members who are not public officers of whom—</leadIn><subparagraph id="ID_1438413732278_029" name="i" temporalId="s11_2_b_i"><num value="i">(i)</num><content>not more than 3 must be persons who, in the opinion of the Chief Executive, have knowledge of, or experience in, matters relating to the labour sector;</content></subparagraph><subparagraph id="ID_1438413732278_037" name="ii" temporalId="s11_2_b_ii"><num value="ii">(ii)</num><content>not more than 3 must be persons who, in the opinion of the Chief Executive, have knowledge of, or experience in, matters relating to the business sector; and</content></subparagraph><subparagraph id="ID_1438413732278_045" name="iii" temporalId="s11_2_b_iii"><num value="iii">(iii)</num><content>not more than 3 must be persons who, in the opinion of the Chief Executive, have knowledge of, or experience in, a relevant academic field; and</content></subparagraph></paragraph><paragraph id="ID_1438413732278_052" name="c" temporalId="s11_2_c"><num value="c">(c)</num><content>not more than 3 other members who are public officers.</content></paragraph></subsection><subsection id="ID_1438413732278_059" name="3" temporalId="s11_3"><num value="3">(3)</num><content>The chairperson and all other members are to be appointed by the Chief Executive and, in appointing members under subsection <ref>(2)(b)</ref> and (c), the Chief Executive may have regard to the need for there to be a balanced number of members appointed under each of the subparagraphs of paragraph (b) of subsection (2) and under paragraph (c) of that subsection.</content></subsection><subsection id="ID_1438413732294_005" name="4" temporalId="s11_4"><num value="4">(4)</num><leadIn>The Chief Executive must publish in the Gazette notice of the following—</leadIn><paragraph id="ID_1438413732294_013" name="a" temporalId="s11_4_a"><num value="a">(a)</num><content>any appointment of a member made under this section;</content></paragraph><paragraph id="ID_1438413732294_021" name="b" temporalId="s11_4_b"><num value="b">(b)</num><content>any appointment of an acting chairperson made under <ref>section 3 of Schedule 4</ref>.</content></paragraph></subsection><subsection id="ID_1438413732294_028" name="5" temporalId="s11_5"><num value="5">(5)</num><content>A notice under subsection (4) is not subsidiary legislation.</content></subsection><subsection id="ID_1438413732294_036" name="6" temporalId="s11_6"><num value="6">(6)</num><content><ref>Schedule 4</ref> has effect with respect to the Commission.</content></subsection></section><section id="ID_1438403520525_003" name="s12" reason="inEffect" startPeriod="2017-02-15" status="operational" temporalId="s12"><num value="12">12.</num><heading>Functions of Commission</heading><subsection id="ID_1438413732341_004" name="1" temporalId="s12_1"><num value="1">(1)</num><content>The main function of the Commission is, when required by the Chief Executive to do so, to report to the Chief Executive in Council its recommendation about the amount of the prescribed minimum hourly wage rate.</content></subsection><subsection id="ID_1438413732341_012" name="2" temporalId="s12_2"><num value="2">(2)</num><content>The Commission has any other function given to it by the Chief Executive in writing.</content></subsection><subsection id="ID_1438413732356_005" name="3" temporalId="s12_3"><num value="3">(3)</num><leadIn>In performing its functions, the Commission must have regard to the need—</leadIn><paragraph id="ID_1438413732356_013" name="a" temporalId="s12_3_a"><num value="a">(a)</num><content>to maintain an appropriate balance between the objectives of forestalling excessively low wages and minimizing the loss of low-paid jobs; and</content></paragraph><paragraph id="ID_1438413732356_021" name="b" temporalId="s12_3_b"><num value="b">(b)</num><content>to sustain Hong Kong’s economic growth and competitiveness.</content></paragraph></subsection><subsection id="ID_1438413732356_028" name="4" temporalId="s12_4"><num value="4">(4)</num><leadIn>Before arriving at the recommendation to be included in its report, the Commission may as it thinks fit—</leadIn><paragraph id="ID_1438413732356_036" name="a" temporalId="s12_4_a"><num value="a">(a)</num><content>consult any organization representative of employers or employees or any other person;</content></paragraph><paragraph id="ID_1438413732356_044" name="b" temporalId="s12_4_b"><num value="b">(b)</num><content>consider any submission made to it in the course of its consultations; and</content></paragraph><paragraph id="ID_1438413732356_052" name="c" temporalId="s12_4_c"><num value="c">(c)</num><content>analyse and consider any data derived from, and consider any other information contained in, any research or study.</content></paragraph></subsection></section><section id="ID_1438403520540_001" name="s13" reason="inEffect" startPeriod="2017-02-15" status="operational" temporalId="s13"><num value="13">13.</num><heading>Powers of Commission</heading><subsection id="ID_1438413732419_035" name="1" temporalId="s13_1"><num value="1">(1)</num><content>The Commission has power to do all things that are necessary for, or incidental or conducive to, the performance of its functions.</content></subsection><subsection id="ID_1438413732434_005" name="2" temporalId="s13_2"><num value="2">(2)</num><content>Without limiting subsection (1), the Commission may form a committee for any purpose.</content></subsection></section><section id="ID_1438403520540_003" name="s14" reason="inEffect" startPeriod="2017-02-15" status="operational" temporalId="s14"><num value="14">14.</num><heading>Report of Commission</heading><subsection id="ID_1438413732481_004" name="1" temporalId="s14_1"><num value="1">(1)</num><content>The Chief Executive must require that a report under <ref>section 12(1)</ref> is made at least once in every 2 years.</content></subsection><subsection id="ID_1438413732481_012" name="2" temporalId="s14_2"><num value="2">(2)</num><content>The Chief Executive must, as soon as practicable after receiving a report made under <ref>section 12</ref>, cause a copy of it to be published.</content></subsection></section></part><part id="ID_1438403520540_005" name="P4" reason="inEffect" startPeriod="2017-02-15" status="operational" temporalId="P4"><num value="4">Part
+            4</num><heading>Miscellaneous</heading><section id="ID_1438403520556_002" name="s15" reason="inEffect" startPeriod="2017-02-15" status="operational" temporalId="s15"><num value="15">15.</num><heading>No contracting out</heading><content>A provision of a contract of employment (whether the contract was entered into before, on or after the commencement of this section) that purports to extinguish or reduce any right, benefit or protection conferred on the employee by this Ordinance is void.</content></section><section id="ID_1438403520556_004" name="s16" reason="inEffect" startPeriod="2017-02-15" status="operational" temporalId="s16"><num value="16">16.</num><heading>Amendment of <ref>Schedule 3</ref></heading><subsection id="ID_1438413732544_004" name="1" temporalId="s16_1"><num value="1">(1)</num><leadIn>The Chief Executive in Council may, by notice published in the Gazette, amend <ref>Schedule 3</ref> to—</leadIn><paragraph id="ID_1438413732544_012" name="a" temporalId="s16_1_a"><num value="a">(a)</num><content>specify in column 1 an hourly wage rate or increase or reduce the then current hourly wage rate specified in that column; and</content></paragraph><paragraph id="ID_1438413732544_020" name="b" temporalId="s16_1_b"><num value="b">(b)</num><content>specify in column 2 the effective date for any amendment referred to in paragraph (a).</content></paragraph></subsection><subsection id="ID_1438413732544_027" name="2" temporalId="s16_2"><num value="2">(2)</num><content>In exercising a power under subsection (1), the Chief Executive in Council may have regard to any recommendation included in a report made under <ref>section 12(1)</ref> but is not bound by the recommendation.</content></subsection><subsection id="ID_1438413732544_035" name="3" temporalId="s16_3"><num value="3">(3)</num><content>Subsection (1) only confers power to fix a single hourly wage rate that is applicable to all employees, whether directly or as a factor in calculating their minimum wage.</content></subsection><subsection id="ID_1438413732559_005" name="4" temporalId="s16_4"><num value="4">(4)</num><leadIn><ref>Section 34(2)</ref> of the Interpretation and General Clauses Ordinance (<ref href="/hk/cap1">Cap. 1</ref>) applies to a notice under subsection (1) as if—</leadIn><paragraph id="ID_1438413732559_013" name="a" temporalId="s16_4_a"><num value="a">(a)</num><content>for the words “amended in any manner whatsoever consistent with the power to make such subsidiary legislation” there were substituted the words “wholly revoked”; and</content></paragraph><paragraph id="ID_1438413732559_021" name="b" temporalId="s16_4_b"><num value="b">(b)</num><content>for the words “to be amended” there were substituted the words “to be wholly revoked”.</content></paragraph></subsection></section><section id="ID_1438403520572_001" name="s17" reason="inEffect" startPeriod="2017-02-15" status="operational" temporalId="s17"><num value="17">17.</num><heading>Amendment of <ref>Schedules 1</ref>, <ref>2</ref> and <ref>4</ref></heading><subsection id="ID_1438413732590_012" name="1" temporalId="s17_1"><num value="1">(1)</num><content>The Commissioner may, by notice published in the Gazette, amend <ref>Schedule 1</ref> or <ref>2</ref>.</content></subsection><subsection id="ID_1438413732590_020" name="2" temporalId="s17_2"><num value="2">(2)</num><content>The Chief Executive in Council may, by notice published in the Gazette, amend <ref>Schedule 4</ref>.</content></subsection></section><section id="ID_1438403520572_003" name="s18" reason="inEffect" startPeriod="2017-02-15" status="operational" temporalId="s18"><num value="18">18.</num><heading>Transitional provisions</heading><subsection id="ID_1438413732622_004" name="1" temporalId="s18_1"><num value="1">(1)</num><content>If the effective date of the first prescribed minimum hourly wage rate is a date after the beginning of a wage period of an employee, in calculating the minimum wage for the employee for that period no account is to be taken of any hour (including any part of an hour) worked by the employee in that period before that effective date nor of any wages payable to the employee for any such hour or part of an hour.</content></subsection><subsection id="ID_1438413732637_005" name="2" temporalId="s18_2"><num value="2">(2)</num><content>If the prescribed minimum hourly wage rate is increased or reduced under <ref>section 16(1)</ref> after the beginning of a wage period of an employee, in calculating the minimum wage for the employee for that period the increased or reduced rate only applies to any hour (including any part of an hour) worked by the employee on or after the effective date of the increase or reduction.</content></subsection><subsection id="ID_1438413732653_005" name="3" temporalId="s18_3"><num value="3">(3)</num><content>For the purposes of <ref>section 3</ref>, no account is to be taken of any period of employment that precedes the commencement of that section.</content></subsection></section></part><part id="ID_1438403520587_002" name="P5" reason="inEffect" startPeriod="2017-02-15" status="operational" temporalId="P5"><num value="5">Part 5</num><section id="ID_1438403520587_004" name="s19" reason="omittedAsSpent" startPeriod="2017-02-15" status="omitted" temporalId="s19"><num value="19">19.</num><sourceNote>(Omitted as spent—<ref href="hk/2017/er1">E.R. 1 of 2017</ref>)</sourceNote></section><section id="ID_1438403520603_002" name="s20" reason="omittedAsSpent" startPeriod="2017-02-15" status="omitted" temporalId="s20"><num value="20">20.</num><sourceNote>(Omitted as spent—<ref href="hk/2017/er1">E.R. 1 of 2017</ref>)</sourceNote></section><section id="ID_1438403520618_001" name="s21" reason="omittedAsSpent" startPeriod="2017-02-15" status="omitted" temporalId="s21"><num value="21">21.</num><sourceNote>(Omitted as spent—<ref href="hk/2017/er1">E.R. 1 of 2017</ref>)</sourceNote></section><section id="ID_1438403520618_003" name="s22" reason="omittedAsSpent" startPeriod="2017-02-15" status="omitted" temporalId="s22"><num value="22">22.</num><sourceNote>(Omitted as spent—<ref href="hk/2017/er1">E.R. 1 of 2017</ref>)</sourceNote></section><section id="ID_1438403520618_005" name="s23" reason="omittedAsSpent" startPeriod="2017-02-15" status="omitted" temporalId="s23"><num value="23">23.</num><sourceNote>(Omitted as spent—<ref href="hk/2017/er1">E.R. 1 of 2017</ref>)</sourceNote></section><section id="ID_1438403520634_001" name="s24" reason="omittedAsSpent" startPeriod="2017-02-15" status="omitted" temporalId="s24"><num value="24">24.</num><sourceNote>(Omitted as spent—<ref href="hk/2017/er1">E.R. 1 of 2017</ref>)</sourceNote></section></part><schedule id="ID_1438403520634_003" name="sch1" reason="inEffect" startPeriod="2021-09-01" status="operational" temporalId="sch1"><num value="1">Schedule 1</num><note role="crossReferences" type="inline">[<ref href="/hk/cap608/s2">ss. 2</ref> &amp; <ref href="/hk/cap608/s17">17</ref>]</note><heading>Education Institutions</heading><text>
+            <marker role="blank-line"></marker>
+        </text><section class="no_header" id="ID_1466564204402_001" name="s1" temporalId="sch1_s1"><num value="1">1.</num><content>The
+                Education
+                University
+                of Hong Kong
+                established
+                by The
+                Education
+                University
+                of Hong Kong
+                Ordinance
+                    (<ref href="/hk/cap444">Cap. 444</ref>).
+                <sourceNote>(Amended <ref href="/hk/2016/6">6 of 2016 s.
+                2</ref>)</sourceNote><marker role="blank-line"></marker></content></section><section class="no_header" id="ID_1466564204402_002" name="s2" temporalId="sch1_s2"><num value="2">2.</num><content>University of Hong Kong established by the University of Hong Kong Ordinance
+                    (<ref href="/hk/cap1053">Cap.
+                1053</ref>).<marker role="blank-line"></marker></content></section><section class="no_header" id="ID_1466564204402_003" name="s3" temporalId="sch1_s3"><num value="3">3.</num><content>The Hong Kong Polytechnic University established by The Hong Kong Polytechnic
+                University Ordinance (<ref href="/hk/cap1075">Cap.
+                1075</ref>).<marker role="blank-line"></marker></content></section><section class="no_header" id="ID_1466564204402_004" name="s4" temporalId="sch1_s4"><num value="4">4.</num><content>The Chinese University of Hong Kong established by The Chinese University of
+                Hong Kong Ordinance (<ref href="/hk/cap1109">Cap.
+                1109</ref>).<marker role="blank-line"></marker></content></section><section class="no_header" id="ID_1466564204402_005" name="s5" temporalId="sch1_s5"><num value="5">5.</num><content>Hong Kong Baptist University established by the Hong Kong Baptist University
+                Ordinance (<ref href="/hk/cap1126">Cap.
+                1126</ref>).<marker role="blank-line"></marker></content></section><section class="no_header" id="ID_1466564204402_006" name="s6" temporalId="sch1_s6"><num value="6">6.</num><content>City University of Hong Kong established by the City University of Hong Kong
+                Ordinance (<ref href="/hk/cap1132">Cap.
+                1132</ref>).<marker role="blank-line"></marker></content></section><section class="no_header" id="ID_1466564204402_007" name="s7" temporalId="sch1_s7"><num value="7">7.</num><content>The Hong Kong Academy for Performing Arts established by The Hong Kong Academy
+                for Performing Arts Ordinance (<ref href="/hk/cap1135">Cap.
+                1135</ref>).<marker role="blank-line"></marker></content></section><section class="no_header" id="ID_1466564204418_008" name="s8" temporalId="sch1_s8"><num value="8">8.</num><content>The Hong Kong University of Science and Technology established by The Hong Kong
+                University of Science and Technology Ordinance (<ref href="/hk/cap1141">Cap.
+                    1141</ref>).<marker role="blank-line"></marker></content></section><section class="no_header" id="ID_1466564204418_009" name="s9" temporalId="sch1_s9"><num value="9">9.</num><content>Hong
+                Kong Metropolitan University established by the Hong Kong Metropolitan
+                University
+                Ordinance (<ref href="/hk/cap1145">Cap. 1145</ref>).
+                <sourceNote>(Amended <ref href="/hk/2021/22">22 of 2021 s.
+                2</ref>)</sourceNote><marker role="blank-line"></marker></content></section><section class="no_header" id="ID_1466564204418_010" name="s10" temporalId="sch1_s10"><num value="10">10.</num><content>Lingnan University established by the Lingnan University Ordinance (<ref href="/hk/cap1165">Cap. 1165</ref>).<marker role="blank-line"></marker></content></section><section class="no_header" id="ID_1466564204418_011" name="s11" temporalId="sch1_s11"><num value="11">11.</num><content>Approved post secondary colleges registered under the Post Secondary Colleges
+                Ordinance (<ref href="/hk/cap320">Cap.
+                320</ref>).<marker role="blank-line"></marker></content></section><section class="no_header" id="ID_1466564204418_012" name="s12" temporalId="sch1_s12"><num value="12">12.</num><content>Bodies established under <ref>section 6(2)(h)</ref> of the Vocational Training
+                Council Ordinance (<ref href="/hk/cap1130">Cap.
+                1130</ref>).<marker role="blank-line"></marker></content></section><section class="no_header" id="ID_1466564204418_013" name="s13" temporalId="sch1_s13"><num value="13">13.</num><content>Schools registered or provisionally registered under the Education Ordinance
+                    (<ref href="/hk/cap279">Cap. 279</ref>).</content></section></schedule><schedule id="ID_1438403520650_001" name="sch2" reason="inEffect" startPeriod="2017-02-15" status="operational" temporalId="sch2"><num value="2">Schedule
+            2</num><note role="crossReferences" type="inline">[<ref href="/hk/cap608/s2">ss. 2</ref>, <ref href="/hk/cap608/s9">9</ref> &amp; <ref href="/hk/cap608/s17">17</ref>]</note><heading>Assessment
+            of Degree
+            of
+            Productivity
+            of
+            PWDs</heading><section id="ID_1438413732934_012" name="1" temporalId="sch2_1"><num value="1">1.</num><heading>Interpretation</heading><subsection id="ID_1438413732934_022" name="1" temporalId="sch2_1_1"><num value="1">(1)</num><leadIn>In this <ref>Schedule</ref>—</leadIn><def name="ApprovedAssessor">
+                    <leadIn><term>approved
+                            assessor</term>
+                            (<term xml:lang="zh-Hant-HK">認可評估員</term>) means a person who—</leadIn>
+                    <subparagraph id="ID_1438413732934_039" name="a" temporalId="sch2_1_1_a"><num value="a">(a)</num><content>is of a kind specified by the Commissioner for the purposes of this
+                            paragraph under subsection (2);</content></subparagraph>
+                    <subparagraph id="ID_1438413732934_048" name="b" temporalId="sch2_1_1_b"><num value="b">(b)</num><content>has the length of experience in the provision of vocational
+                            rehabilitation or other services in relation to the employment of
+                            persons with a disability that is specified by the Commissioner for the
+                            purposes of this paragraph under subsection (3); and</content></subparagraph>
+                    <subparagraph id="ID_1438413732934_057" name="c" temporalId="sch2_1_1_c"><num value="c">(c)</num><content>is approved by the Commissioner under <ref>section 6(4)</ref> of
+                            this <ref>Schedule</ref>;</content></subparagraph>
+                </def><def name="Assessment"><term>assessment</term>
+                        (<term xml:lang="zh-Hant-HK">評估</term>) means an assessment referred to in
+                        <ref>section 6</ref> of this <ref>Schedule</ref>.</def></subsection><subsection id="ID_1438413732949_014" name="2" temporalId="sch2_1_2"><num value="2">(2)</num><content>The Commissioner may, by notice published in the Gazette, specify kinds of
+                    persons for the purposes of paragraph (a) of the definition of
+                        <term>approved
+                        assessor</term>
+                    in subsection (1), whether by reference to the profession practised by them or
+                    the occupation or qualification held by them or on any other basis.</content></subsection><subsection id="ID_1438413732949_023" name="3" temporalId="sch2_1_3"><num value="3">(3)</num><content>The Commissioner may, by notice published in the Gazette, specify a length
+                    of experience for the purposes of paragraph (b) of the definition of
+                        <term>approved
+                        assessor</term>
+                    in subsection
+                    (1).<marker role="blank-line"></marker><marker role="blank-line"></marker></content></subsection></section><section id="ID_1438413732949_029" name="2" temporalId="sch2_2"><num value="2">2.</num><heading>Trial period of employment</heading><subsection id="ID_1438413732965_006" name="1" temporalId="sch2_2_1"><num value="1">(1)</num><leadIn>This section applies to a PWD—</leadIn><subsection id="ID_1438413732965_015" name="a" temporalId="sch2_2_1_a"><num value="a">(a)</num><content>who on or after the commencement of <ref>section 9</ref> is seeking to
+                        be engaged under a contract of employment; or</content></subsection><subsection id="ID_1438413732965_024" name="b" temporalId="sch2_2_1_b"><num value="b">(b)</num><content>the terms of whose contract of employment are to be varied on or after
+                        that commencement as to the kind of work to be done under that
+                        contract.</content></subsection></subsection><subsection id="ID_1438413732965_032" name="2" temporalId="sch2_2_2"><num value="2">(2)</num><content>A PWD may, if he or she chooses to do so, before commencing employment or
+                    before a variation of the terms of his or her contract of employment as to the
+                    kind of work to be done under that contract is due to take effect, agree with an
+                    employer to undergo a trial period of employment at not less than the minimum
+                    hourly wage rate provided by <ref>section 9(1)(a)</ref>.</content></subsection><subsection id="ID_1438413732980_007" name="3" temporalId="sch2_2_3"><num value="3">(3)</num><content>The purpose of the trial period is to provide an opportunity for an
+                    assessment to be made of the degree of productivity of the PWD.</content></subsection><subsection id="ID_1438413732980_016" name="4" temporalId="sch2_2_4"><num value="4">(4)</num><content>Subject to subsection (5), the length of the trial period is 4 weeks or
+                    until the end of the day on which the assessment of the degree of productivity
+                    of the PWD is completed, whichever period is the shorter.</content></subsection><subsection id="ID_1438413732980_025" name="5" temporalId="sch2_2_5"><num value="5">(5)</num><content>On an application made to the Commissioner jointly by the PWD and the
+                    employer before the end of the trial period, the Commissioner may, in
+                    exceptional circumstances, extend the length of the trial period applying to
+                    them by up to 4
+                    weeks.<marker role="blank-line"></marker><marker role="blank-line"></marker></content></subsection></section><section id="ID_1438413732980_031" name="3" temporalId="sch2_3"><num value="3">3.</num><heading>Percentage of prescribed minimum hourly wage rate applicable during trial
+                period of employment</heading><content>For
+                the purposes of <ref>section 9(1)(a)</ref>, the specified percentage is
+                50%.<marker role="blank-line"></marker><marker role="blank-line"></marker></content></section><section id="ID_1438413732996_028" name="4" temporalId="sch2_4"><num value="4">4.</num><heading>PWDs employed before commencement may opt for an assessment</heading><subsection id="ID_1438413732996_046" name="1" temporalId="sch2_4_1"><num value="1">(1)</num><leadIn>A PWD who—</leadIn><paragraph id="ID_1438413732996_055" name="a" temporalId="sch2_4_1_a"><num value="a">(a)</num><content>was employed immediately before the commencement of <ref>section
+                            9</ref>;</content></paragraph><paragraph id="ID_1438413732996_064" name="b" temporalId="sch2_4_1_b"><num value="b">(b)</num><content>continues to be employed to do the same work for the same employer;
+                        and</content></paragraph><paragraph id="ID_1438413732996_073" name="c" temporalId="sch2_4_1_c"><num value="c">(c)</num><content>is employed at an hourly wage rate that is less than the first
+                        prescribed minimum hourly wage rate,</content></paragraph><continued>may, before the effective date of the first prescribed minimum hourly
+                    wage rate, elect to have his or her degree of productivity in performing the
+                    work required under the contract of employment assessed under this
+                        <ref>Schedule</ref>.</continued></subsection><subsection id="ID_1438413732996_088" name="2" temporalId="sch2_4_2"><num value="2">(2)</num><content>An election is made by the employee signing an option form and giving it to
+                    his or her employer as soon as practicable after signing it.</content></subsection><subsection id="ID_1438413733012_007" name="3" temporalId="sch2_4_3"><num value="3">(3)</num><leadIn>An option form must—</leadIn><paragraph id="ID_1438413733012_016" name="a" temporalId="sch2_4_3_a"><num value="a">(a)</num><content>be in the form approved by the Commissioner;</content></paragraph><paragraph id="ID_1438413733012_025" name="b" temporalId="sch2_4_3_b"><num value="b">(b)</num><content>specify the hourly wage rate
+                            (<term>the
+                            current contractual
+                        rate</term>)
+                        at which the PWD is then employed; and</content></paragraph><paragraph id="ID_1438413733012_034" name="c" temporalId="sch2_4_3_c"><num value="c">(c)</num><content>specify the percentage of the first prescribed minimum hourly wage rate
+                        that the current contractual rate represents.</content></paragraph></subsection><subsection id="ID_1438413733012_042" name="4" temporalId="sch2_4_4"><num value="4">(4)</num><content>The employer must countersign the option form before the effective date of
+                    the first prescribed minimum hourly wage rate and give a copy of it to the
+                    employee as soon as practicable after doing so.</content></subsection><subsection id="ID_1438413733012_051" name="5" temporalId="sch2_4_5"><num value="5">(5)</num><content>This section is subject to <ref>section 6(6)</ref> of this
+                        <ref>Schedule</ref>.<marker role="blank-line"></marker><marker role="blank-line"></marker></content></subsection></section><section id="ID_1438413733027_004" name="5" temporalId="sch2_5"><num value="5">5.</num><heading>Other employees may opt for an assessment</heading><subsection id="ID_1438413733027_014" name="1" temporalId="sch2_5_1"><num value="1">(1)</num><content>An employee who is a PWD (other than a PWD to whom <ref>section 2</ref> of
+                    this <ref>Schedule</ref> applies who has chosen to undergo a trial period of
+                    employment or a PWD who is an assessment-opting PWD) may at any time, if he or
+                    she chooses to do so, seek to have his or her degree of productivity in
+                    performing the work required under the contract of employment assessed under
+                    this <ref>Schedule</ref>.</content></subsection><subsection id="ID_1438413733027_023" name="2" temporalId="sch2_5_2"><num value="2">(2)</num><content>This section is subject to <ref>section 6(6)</ref> of this
+                        <ref>Schedule</ref>.<marker role="blank-line"></marker><marker role="blank-line"></marker></content></subsection></section><section id="ID_1438413733043_004" name="6" temporalId="sch2_6"><num value="6">6.</num><heading>Assessment</heading><subsection id="ID_1438413733043_014" name="1" temporalId="sch2_6_1"><num value="1">(1)</num><leadIn>This section applies to an assessment under this <ref>Schedule</ref> with
+                    respect to the following employees—</leadIn><paragraph id="ID_1438413733043_023" name="a" temporalId="sch2_6_1_a"><num value="a">(a)</num><content>a PWD who has chosen to undergo a trial period of employment under
+                            <ref>section 2</ref> of this <ref>Schedule</ref>;</content></paragraph><paragraph id="ID_1438413733043_032" name="b" temporalId="sch2_6_1_b"><num value="b">(b)</num><content>an assessment-opting PWD;</content></paragraph><paragraph id="ID_1438413733043_041" name="c" temporalId="sch2_6_1_c"><num value="c">(c)</num><content>a PWD covered by <ref>section 5</ref> of this <ref>Schedule</ref> who
+                        has chosen to have an assessment made.</content></paragraph></subsection><subsection id="ID_1438413733043_049" name="2" temporalId="sch2_6_2"><num value="2">(2)</num><content>The purpose of an assessment is to determine the degree (if any) to which
+                    the productivity of the PWD in performing the work required under the contract
+                    of employment is affected by a disability.</content></subsection><subsection id="ID_1438413733043_058" name="3" temporalId="sch2_6_3"><num value="3">(3)</num><content>The assessment must be made by an approved assessor at a time agreed by the
+                    PWD and his or her employer. For a PWD who has chosen to undergo a trial period
+                    of employment under <ref>section 2</ref> of this <ref>Schedule</ref>, that time
+                    may be within the trial period of employment or after the expiry of that
+                    period.</content></subsection><subsection id="ID_1438413733058_007" name="4" temporalId="sch2_6_4"><num value="4">(4)</num><content>The Commissioner may, in writing, approve an assessor who satisfies the
+                    requirements of paragraphs (a) and (b) of the definition of
+                        <term>approved
+                        assessor</term>
+                    in <ref>section 1(1)</ref> of this <ref>Schedule</ref> for the purpose of making
+                    assessments under this <ref>Schedule</ref>.</content></subsection><subsection id="ID_1438413733058_016" name="5" temporalId="sch2_6_5"><num value="5">(5)</num><content>The Commissioner may, by notice published in the Gazette, specify methods
+                    of assessment for the purposes of this <ref>Schedule</ref>.</content></subsection><subsection id="ID_1438413733074_007" name="6" temporalId="sch2_6_6"><num value="6">(6)</num><content>A PWD in respect of whom an assessment of his or her degree of productivity
+                    has been completed cannot have any further assessment made for the same work
+                    with the same
+                    employer.<marker role="blank-line"></marker><marker role="blank-line"></marker></content></subsection></section><section id="ID_1438413733074_013" name="7" temporalId="sch2_7"><num value="7">7.</num><heading>Certificate of assessment</heading><subsection id="ID_1438413733074_023" name="1" temporalId="sch2_7_1"><num value="1">(1)</num><content>An approved assessor who makes an assessment of the degree (if any) to
+                    which the productivity of the PWD in performing the work required under the
+                    contract of employment is affected by a disability must provide to the PWD and
+                    the employer a certificate of assessment.</content></subsection><subsection id="ID_1438413733074_032" name="2" temporalId="sch2_7_2"><num value="2">(2)</num><leadIn>The certificate of assessment must—</leadIn><paragraph id="ID_1438413733074_041" name="a" temporalId="sch2_7_2_a"><num value="a">(a)</num><content>state the degree of productivity capable of being achieved by the PWD
+                        in performing the work;</content></paragraph><paragraph id="ID_1438413733090_008" name="b" temporalId="sch2_7_2_b"><num value="b">(b)</num><content>be in the form approved by the Commissioner; and</content></paragraph><paragraph id="ID_1438413733090_017" name="c" temporalId="sch2_7_2_c"><num value="c">(c)</num><content>be signed by the approved assessor.</content></paragraph></subsection><subsection id="ID_1438413733090_025" name="3" temporalId="sch2_7_3"><num value="3">(3)</num><content>The assessment of the degree of productivity of the PWD is completed for
+                    the purposes of this Ordinance when the certificate of assessment is signed by
+                    the approved assessor.</content></subsection><subsection id="ID_1438413733090_034" name="4" temporalId="sch2_7_4"><num value="4">(4)</num><content>The PWD and the employer must countersign the certificate provided to them
+                    under subsection (1). On and from the first day after their doing so the
+                    certificate has effect for the purposes of <ref>section 9(1)(b)</ref>.</content></subsection><subsection id="ID_1438413733090_043" name="5" temporalId="sch2_7_5"><num value="5">(5)</num><content>The countersigning by the PWD or the employer of a certificate of
+                    assessment must not be taken to indicate any agreement on their part to continue
+                    the employment
+                    relationship.<marker role="blank-line"></marker><marker role="blank-line"></marker></content></subsection></section><section id="ID_1438413733105_004" name="8" temporalId="sch2_8"><num value="8">8.</num><heading>Status of approved assessor</heading><content>In
+                making an assessment under this <ref>Schedule</ref>, an approved assessor (other
+                than a public officer doing so in his or her capacity as a public officer) is
+                neither a servant nor an agent of the Government.</content></section></schedule><schedule id="ID_1438403520665_001" name="sch3" reason="inEffect" startPeriod="2025-05-01" status="operational" temporalId="sch3"><num value="3">Schedule 3</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap608/s2">ss. 2</ref> &amp; <ref href="/hk/cap608/s16">16</ref>]</note><heading class="align_center">Prescribed Minimum Hourly Wage Rate</heading><text><sourceNote class="align_right">(Format changes—<ref href="/hk/2013/er1">E.R. 1 of
+                    2013</ref>)</sourceNote><marker role="blank-line"></marker></text><text>
+            
+            <table xmlns="http://www.w3.org/1999/xhtml" class="repeat_header">
+                
+                <col width="20%"></col>
+                
+                
+                <col width="30%"></col>
+                
+                <col width="50%"></col>
+                
+                <thead>
+                    <tr>
+                        <td colspan="2">
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Hourly wage
+                                rate</center>
+                        </td>
+                        <td>
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Effective
+                                date</center>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                        <td></td>
+                    </tr>
+                </thead>
+                
+                
+                <tr>
+                    
+                    <td></td>
+                    
+                    <td>$28</td>
+                    
+                    <td align="justify"><center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">1 May
+                            2011</center><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="align_justify">(Added <ref href="/hk/2010/ln145">L.N. 145 of 2010</ref>. Amended <ref href="/hk/2012/ln186">L.N. 186 of
+                        2012</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                </tr>
+                <tr>
+                    
+                    <td></td>
+                    
+                    <td>$30</td>
+                    
+                    <td class="align_center"><center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">1 May
+                            2013</center><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"> (Added <ref href="/hk/2012/ln186">L.N. 186 of
+                        2012</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                </tr>
+                <tr>
+                    
+                    <td></td>
+                    
+                    <td>$32.5</td>
+                    
+                    <td align="center"><center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">1 May
+                            2015</center><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="align_center">(Added <ref href="/hk/2015/ln6">L.N. 6 of
+                        2015</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                </tr>
+                
+                <tr>
+                    <td></td>
+                    <td>$34.5</td>
+                    
+                    <td align="center"><center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">1 May
+                            2017</center><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="align_center">(Added <ref href="/hk/2017/ln10">L.N. 10 of
+                        2017</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                </tr>
+                
+                
+                <tr>
+                    <td></td>
+                    <td>$37.5</td>
+                    <td align="center"><center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">1 May
+                            2019</center><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="align_center">(Added <ref href="/hk/2019/ln8">L.N. 8 of
+                                2019</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                </tr>
+                
+                
+                <tr>
+                    <td></td>
+                    <td>$40</td>
+                    <td align="center"><center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">1 May
+                            2023</center><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Added <ref href="/hk/2023/ln3">L.N. 3 of
+                        2023</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                </tr>
+                
+                
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td>$42.1</td>
+                    <td align="center"><center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">1 May
+                            2025</center><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Added <ref href="/hk/2025/ln30">L.N. 30 of
+                        2025</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                </tr>
+                
+            </table>
+        </text></schedule><schedule id="ID_1438403520665_003" name="sch4" reason="inEffect" startPeriod="2017-02-15" status="operational" temporalId="sch4"><num value="4">Schedule
+            4</num><note role="crossReferences" type="inline">[<ref href="/hk/cap608/s11">ss. 11</ref> &amp;
+                <ref href="/hk/cap608/s17">17</ref>]</note><heading>Minimum
+            Wage
+            Commission</heading><section id="ID_1438413733261_012" name="1" temporalId="sch4_1"><num value="1">1.</num><heading>Terms and conditions of appointment of members</heading><subsection id="ID_1438413733261_022" name="1" temporalId="sch4_1_1"><num value="1">(1)</num><leadIn>A member who is not a public officer—</leadIn><paragraph id="ID_1438413733261_031" name="a" temporalId="sch4_1_1_a"><num value="a">(a)</num><content>holds office for the term that is specified in his or her instrument of
+                        appointment and on any other terms and conditions of appointment that the
+                        Chief Executive may from time to time determine; and</content></paragraph><paragraph id="ID_1438413733261_040" name="b" temporalId="sch4_1_1_b"><num value="b">(b)</num><content>may resign from office by giving notice in writing to the Chief
+                        Executive.</content></paragraph></subsection><subsection id="ID_1438413733277_007" name="2" temporalId="sch4_1_2"><num value="2">(2)</num><content>A member who is a public officer holds office at the discretion of the
+                    Chief Executive.</content></subsection><subsection id="ID_1438413733277_016" name="3" temporalId="sch4_1_3"><num value="3">(3)</num><content>A member is eligible for reappointment.</content></subsection><subsection id="ID_1438413733277_025" name="4" temporalId="sch4_1_4"><num value="4">(4)</num><content>A resignation under subsection <ref>(1)(b)</ref> takes effect on the date
+                    specified in the notice or, if no date is specified, on the date the Chief
+                    Executive receives the
+                    notice.<marker role="blank-line"></marker><marker role="blank-line"></marker></content></subsection></section><section id="ID_1438413733277_031" name="2" temporalId="sch4_2"><num value="2">2.</num><heading>Removal of members</heading><content>The
+                Chief Executive may, by notice in writing, remove from office a member who is not a
+                public officer if the Chief Executive is satisfied that the member is unable or
+                unfit to carry out the duties of the office due to permanent incapacity or other
+                sufficient cause.<marker role="blank-line"></marker><marker role="blank-line"></marker></content></section><section id="ID_1438413733277_047" name="3" temporalId="sch4_3"><num value="3">3.</num><heading>Acting chairperson</heading><subsection id="ID_1438413733277_057" name="1" temporalId="sch4_3_1"><num value="1">(1)</num><leadIn>The Chief Executive may appoint another member who is not a public officer
+                    to act as chairperson—</leadIn><paragraph id="ID_1438413733277_066" name="a" temporalId="sch4_3_1_a"><num value="a">(a)</num><content>during a vacancy in the office of chairperson; or</content></paragraph><paragraph id="ID_1438413733292_008" name="b" temporalId="sch4_3_1_b"><num value="b">(b)</num><content>while the chairperson is absent from Hong Kong or is, for any other
+                        reason, unable or unfit to carry out the duties of the office of
+                        chairperson.</content></paragraph></subsection><subsection id="ID_1438413733292_016" name="2" temporalId="sch4_3_2"><num value="2">(2)</num><content>An acting chairperson has and may exercise all the powers, and must carry
+                    out all the duties, of the office of chairperson.</content></subsection><subsection id="ID_1438413733292_025" name="3" temporalId="sch4_3_3"><num value="3">(3)</num><leadIn>Anything done by or in relation to a person purporting to act as chairperson
+                    is not invalid merely because—</leadIn><paragraph id="ID_1438413733292_034" name="a" temporalId="sch4_3_3_a"><num value="a">(a)</num><content>there was a defect or irregularity in, or in connection with, the
+                        acting appointment; or</content></paragraph><paragraph id="ID_1438413733292_043" name="b" temporalId="sch4_3_3_b"><num value="b">(b)</num><content>the occasion for the person to act had not arisen or had
+                        ceased.<marker role="blank-line"></marker><marker role="blank-line"></marker></content></paragraph></subsection></section><section id="ID_1438413733292_048" name="4" temporalId="sch4_4"><num value="4">4.</num><heading>Meetings</heading><subsection id="ID_1438413733292_058" name="1" temporalId="sch4_4_1"><num value="1">(1)</num><content>Meetings of the Commission are to be held at the times and places appointed
+                    by the chairperson.</content></subsection><subsection id="ID_1438413733292_067" name="2" temporalId="sch4_4_2"><num value="2">(2)</num><content>The chairperson must preside at a meeting of the Commission.</content></subsection><subsection id="ID_1438413733308_007" name="3" temporalId="sch4_4_3"><num value="3">(3)</num><leadIn>The quorum for a meeting of the Commission is—</leadIn><paragraph id="ID_1438413733308_016" name="a" temporalId="sch4_4_3_a"><num value="a">(a)</num><content>the person presiding; plus</content></paragraph><paragraph id="ID_1438413733308_025" name="b" temporalId="sch4_4_3_b"><num value="b">(b)</num><content>not less than half of the other members in office for the time being
+                        including at least 3 members who are not public officers and at least one
+                        who is.</content></paragraph></subsection><subsection id="ID_1438413733308_033" name="4" temporalId="sch4_4_4"><num value="4">(4)</num><content>Subject to this <ref>Schedule</ref>, the Commission may regulate its own
+                    procedure.<marker role="blank-line"></marker><marker role="blank-line"></marker></content></subsection></section><section id="ID_1438413733308_039" name="5" temporalId="sch4_5"><num value="5">5.</num><heading>Status of Commission</heading><content>The
+                Commission is neither a servant nor an agent of the Government and does not enjoy
+                any status, immunity or privilege of the Government.</content></section></schedule></main></ordinance>

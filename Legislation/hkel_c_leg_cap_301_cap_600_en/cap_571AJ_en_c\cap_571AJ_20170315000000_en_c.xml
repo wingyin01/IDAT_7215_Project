@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?><subLeg xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd" xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:lang="en"><meta>  <docName>Cap. 571 sub. leg. AJ</docName>  <docType>cap</docType>  <docNumber>571AJ</docNumber>  <docStatus>In effect</docStatus>  <dc:identifier>/hk/cap571AJ!en</dc:identifier>  <dc:date>2017-03-15</dc:date>  <dc:subject>legislation</dc:subject>  <dc:language>en</dc:language>  <dc:publisher>DoJ</dc:publisher>  <dc:rights>the Government of the Hong Kong Special Administrative Region</dc:rights></meta><main xml:lang="en" xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd"><docTitle id="ID_1438403474396_001" name="shortTitle" reason="inEffect" status="operational" temporalId="shortTitle">Securities and Futures (Short Position Reporting) Rules</docTitle><text class="align_center">(<ref href="/hk/cap571">Cap. 571</ref>, <ref>section 397(1)</ref> and (2))</text><sourceNote>(Enacting provision omitted—<ref href="/hk/2012/er2">E.R. 2 of 2012</ref>)<marker role="blank-line"></marker><marker role="blank-line"></marker></sourceNote><commencementNote>[18 June 2012]</commencementNote><part id="ID_1438403474396_003" name="P1" reason="inEffect" startPeriod="2012-06-18" status="operational" temporalId="P1"><num value="1">Part 1</num><heading>Preliminary</heading><section id="ID_1438403474396_005" name="s1" reason="omittedAsSpent" role="rule" startPeriod="2013-04-25" status="omitted" temporalId="s1"><num value="1">1.</num><sourceNote>(Omitted as spent—<ref href="/hk/2013/er1">E.R. 1 of 2013</ref>)</sourceNote></section><section id="ID_1438403474411_002" name="s2" reason="inEffect" role="rule" startPeriod="2017-03-15" status="operational" temporalId="s2"><num value="2">2.</num><heading>Interpretation</heading><leadIn>In these Rules—</leadIn><def name="DailyReportingRequirementNotice"><term>daily reporting requirement notice</term>
+                (<term xml:lang="zh-Hant-HK">每日申報規定公告</term>) means a notice published under
+                <ref>rule 7(1)</ref>;</def><def name="ReportableShortPosition"><term>reportable short position</term> (<term xml:lang="zh-Hant-HK">須申報淡倉</term>) has the meaning given by <ref>rule
+            3</ref>;</def><def name="ReportingDay">
+            <leadIn><term>reporting day</term> (<term xml:lang="zh-Hant-HK">申報日</term>)
+                means—</leadIn>
+            <paragraph id="ID_1438413478392_026" name="a" temporalId="s2_a-1"><num value="a">(a)</num><content>unless paragraph (b) applies, the day specified in <ref>rule 4(1)</ref>;
+                    or</content></paragraph>
+            <paragraph id="ID_1438413478392_034" name="b" temporalId="s2_b-1"><num value="b">(b)</num><content>if a daily reporting requirement notice is in force, the day specified in
+                        <ref>rule 4(3)</ref>;</content></paragraph>
+        </def><def name="ReportingDeadline">
+            <leadIn><term>reporting deadline</term> (<term xml:lang="zh-Hant-HK">申報期限</term>)
+                means—</leadIn>
+            <paragraph id="ID_1438413478392_048" name="a" temporalId="s2_a-2"><num value="a">(a)</num><content>unless paragraph (b) applies, the period specified in <ref>rule 4(2)</ref>;
+                    or</content></paragraph>
+            <paragraph id="ID_1438413478392_056" name="b" temporalId="s2_b-2"><num value="b">(b)</num><content>if a daily reporting requirement notice is in force, the period specified
+                    in <ref>rule 4(4)</ref>;</content></paragraph>
+        </def><def name="SpecifiedATS"><term>specified ATS</term> (<term xml:lang="zh-Hant-HK">指明自動化交易服務</term>) means an authorized automated trading services specified in
+                <ref>Schedule 2</ref>;</def><def name="SpecifiedShares"><term>specified shares</term> (<term xml:lang="zh-Hant-HK">指明股份</term>) means shares in a
+            corporation,
+            or interests in a collective investment scheme (whether or not the interests are shares
+            in a corporation), which are listed or admitted to trading on the
+            Stock Exchange and specified in <ref>Schedule 1</ref>;
+            <sourceNote>(<ref href="hk/2016/ln39">L.N. 39 of 2016</ref>)</sourceNote></def><def name="StockExchange"><term>Stock Exchange</term> (<term xml:lang="zh-Hant-HK">證券交易所</term>) means the recognized stock market operated by the Stock Exchange
+            Company.</def><sourceNote>(<ref href="hk/2016/ln39">L.N. 39 of 2016</ref>)</sourceNote></section><section id="ID_1438403474427_001" name="s3" reason="inEffect" role="rule" startPeriod="2017-03-15" status="operational" temporalId="s3"><num value="3">3.</num><heading>Reportable short position</heading><subsection id="ID_1438413478439_004" name="1" temporalId="s3_1"><num value="1">(1)</num><leadIn>In these Rules, a person has a reportable short position—</leadIn><paragraph id="ID_1480652257918_001" name="a" temporalId="s3_1_a"><num value="a">(a)</num><content>in any specified shares, except specified shares which are interests in a
+                    collective investment scheme, if the person has a net short position value in
+                    the specified shares that is equal to or more than the threshold specified in
+                    subrule (2)(b); or</content></paragraph><paragraph id="ID_1480652257918_002" name="b" temporalId="s3_1_b"><num value="b">(b)</num><content>in any specified shares which are interests in a collective investment
+                    scheme, if the person has a net short position value in the specified shares
+                    that is equal to or more than the threshold specified in subrule (2)(ba).
+                        <sourceNote>(<ref href="hk/2016/ln39">L.N. 39 of 2016</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438413478454_004" name="2" temporalId="s3_2"><num value="2">(2)</num><leadIn>For the purposes of this rule—</leadIn><paragraph id="ID_1438413478454_012" name="a" temporalId="s3_2_a"><num value="a">(a)</num><content>the net short position value that a person has in any specified shares is
+                    calculated in accordance with the following formula—</content><content class="align_center ">(A
+                    –
+                    B)
+                    ×
+                    C</content><content>Where—</content><content>
+                    <table xmlns="http://www.w3.org/1999/xhtml" frame="void" width="100%">
+                        <caption></caption>
+                        
+                        <col width="7%"></col>
+                        
+                        <col width="93%"></col>
+                        <tbody>
+                            <tr>
+                                <td>A</td>
+                                
+                                <td class="align_justified">is the number of the specified shares in
+                                    the person’s short position;</td>
+                            </tr>
+                            <tr>
+                                <td>B</td>
+                                
+                                <td class="align_justified">is the number of the specified shares in
+                                    the person’s long position;</td>
+                            </tr>
+                            <tr>
+                                <td>C</td>
+                                
+                                <td class="align_justified">is the specified closing price of the
+                                    specified shares;</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </content></paragraph><paragraph id="ID_1438413478454_054" name="b" temporalId="s3_2_b"><num value="b">(b)</num><leadIn>in subrule
+                    (1)(a),
+                    the threshold in relation to a reporting day is the lower of—
+                    <sourceNote>(<ref href="hk/2016/ln39">L.N. 39 of 2016</ref>)</sourceNote></leadIn><subparagraph id="ID_1438413478454_062" name="i" temporalId="s3_2_b_i"><num value="i">(i)</num><content>$30 million; and</content></subparagraph><subparagraph id="ID_1438413478454_070" name="ii" temporalId="s3_2_b_ii"><num value="ii">(ii)</num><content>0.02% of the value of the total number of the specified shares issued
+                        by the corporation concerned, calculated in accordance with the following
+                        formula—</content><content class="align_center">C
+                        ×
+                        D</content><content>Where—</content><content>
+                        <table xmlns="http://www.w3.org/1999/xhtml" frame="void" width="100%">
+                            <caption></caption>
+                            
+                            <col width="7%"></col>
+                            
+                            <col width="93%"></col>
+                            <tbody>
+                                <tr>
+                                    <td>C</td>
+                                    
+                                    <td class="align_justified">is the specified closing price of
+                                        the specified shares;</td>
+                                </tr>
+                                <tr>
+                                    <td>D</td>
+                                    
+                                    <td class="align_justified">is the total number of the specified
+                                        shares issued by the corporation, as at the close of trading
+                                        on the Stock Exchange on the reporting day;</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </content></subparagraph></paragraph><paragraph id="ID_1480652257918_003" name="ba" temporalId="s3_2_ba"><num value="ba">(ba)</num><content>in subrule (1)(b), the threshold in relation to a reporting day is $30
+                    million; <sourceNote>(<ref href="hk/2016/ln39">L.N. 39 of 2016</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438413478454_104" name="c" temporalId="s3_2_c"><num value="c">(c)</num><leadIn>in paragraphs (a) and (b), specified closing price, in relation to any
+                    specified shares,
+                    is, subject
+                    to paragraph (d)—
+                    <sourceNote>(<ref href="hk/2016/ln39">L.N. 39 of
+                    2016</ref>)</sourceNote></leadIn><subparagraph id="ID_1438413478470_006" name="i" temporalId="s3_2_c_i"><num value="i">(i)</num><content>the closing price of the specified shares on the reporting day;
+                        or</content></subparagraph><subparagraph id="ID_1438413478470_014" name="ii" temporalId="s3_2_c_ii"><num value="ii">(ii)</num><content>if on the reporting day the specified shares are suspended from trading
+                        on the Stock Exchange, the last closing price of the specified shares before
+                        the suspension,</content></subparagraph><continued>as determined in accordance with the rules of the Stock Exchange
+                    Company;
+                            <sourceNote>(<ref href="hk/2016/ln39">L.N. 39 of
+                        2016</ref>)</sourceNote></continued></paragraph><paragraph id="ID_1480652257918_004" name="d" temporalId="s3_2_d"><num value="d">(d)</num><content>if, in relation to any specified shares, the closing price referred to in
+                    paragraph (c)(i) or (ii) is expressed in a currency other than Hong Kong
+                    dollars, the closing price is taken to be its equivalent in Hong Kong dollars on
+                    the reporting day, calculated using the rate of exchange for the currency that
+                    is the buying rate for telegraphic transfers at the commencement of business on
+                    the reporting day, as determined by the Monetary Authority. <sourceNote>(<ref href="hk/2016/ln39">L.N. 39 of 2016</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438413478470_026" name="3" temporalId="s3_3"><num value="3">(3)</num><leadIn>In this rule—</leadIn><def name="LongPosition"><term>long position</term> (<term xml:lang="zh-Hant-HK">好倉</term>), in relation to any specified shares, means the number of the specified shares that a person beneficially owns;</def><def name="ShortPosition"><leadIn><term>short position</term> (<term xml:lang="zh-Hant-HK">淡倉</term>), in relation to any specified shares, means the position in the specified shares that a person has as a result of selling the specified shares at or through the Stock Exchange or by means of any one or more specified ATS, or any combination of these methods of selling, where—</leadIn><paragraph id="ID_1438413478470_048" name="a" temporalId="s3_3_a"><num value="a">(a)</num><content>at the time of each sale comprised in the position, the person did not have a presently exercisable and unconditional right to vest the specified shares in the purchaser; or</content></paragraph><paragraph id="ID_1438413478470_056" name="b" temporalId="s3_3_b"><num value="b">(b)</num><content>each sale comprised in the position was the subject of a short selling order.</content></paragraph></def></subsection></section></part><part id="ID_1438403474427_003" name="P2" reason="inEffect" startPeriod="2012-06-18" status="operational" temporalId="P2"><num value="2">Part 2</num><heading>Reportable Short Positions</heading><section id="ID_1438403474427_005" name="s4" reason="inEffect" role="rule" startPeriod="2017-03-15" status="operational" temporalId="s4"><num value="4">4.</num><heading>Reportable short positions to be notified to Commission</heading><subsection id="ID_1438413478548_004" name="1" temporalId="s4_1"><num value="1">(1)</num><leadIn>Unless a daily reporting requirement notice is in force, subrule (2) applies to a person who has a reportable short position in any specified shares at the close of trading on the Stock Exchange on—</leadIn><paragraph id="ID_1438413478548_012" name="a" temporalId="s4_1_a"><num value="a">(a)</num><content>the Friday of any week; or</content></paragraph><paragraph id="ID_1438413478548_020" name="b" temporalId="s4_1_b"><num value="b">(b)</num><content>if the Stock Exchange does not open for trading on the Friday of any week, the last weekday before Friday on which the Stock Exchange is open for trading.</content></paragraph></subsection><subsection id="ID_1438413478548_027" name="2" temporalId="s4_2"><num value="2">(2)</num><content>A person to whom this subrule applies must notify the Commission of the
+                reportable short position within 2 business days after the day specified in subrule
+                (1) in accordance with this
+                rule and rule 4A.
+                <sourceNote>(<ref href="hk/2016/ln39">L.N. 39 of 2016</ref>)</sourceNote></content></subsection><subsection id="ID_1438413478548_035" name="3" temporalId="s4_3"><num value="3">(3)</num><content>If a daily reporting requirement notice is in force, subrule (4) applies to a
+                person who has a reportable short position in any specified shares
+                to which the
+                notice relates at the close of trading on the Stock Exchange on
+                each day on which the Stock Exchange is open for trading.
+                <sourceNote>(<ref href="hk/2016/ln39">L.N. 39 of 2016</ref>)</sourceNote></content></subsection><subsection id="ID_1438413478564_005" name="4" temporalId="s4_4"><num value="4">(4)</num><content>A person to whom this subrule applies must notify the Commission of the
+                reportable short position within 1 business day after the day specified in subrule
+                (3) in accordance with this
+                rule and rule 4A.
+                <sourceNote>(<ref href="hk/2016/ln39">L.N. 39 of 2016</ref>)</sourceNote></content></subsection><subsection id="ID_1438413478564_013" name="5" temporalId="s4_5"><num value="5">(5)</num><content>If a reportable short position in any specified shares is held on trust, the duty to notify under subrule (2) or (4) does not apply to a beneficiary of the trust and instead applies to the person who is the trustee of the trust as if that person were the beneficiary.</content></subsection><subsection id="ID_1438413478564_021" name="6" temporalId="s4_6"><num value="6">(6)</num><leadIn>In determining whether a corporation has a reportable short position in any specified shares—</leadIn><paragraph id="ID_1438413478564_029" name="a" temporalId="s4_6_a"><num value="a">(a)</num><content>the short position and the long position (if any) in the specified shares attributable to a particular collective investment scheme; and</content></paragraph><paragraph id="ID_1438413478579_006" name="b" temporalId="s4_6_b"><num value="b">(b)</num><content>those attributable to another collective investment scheme,</content></paragraph><continued>are to be treated separately and not to be aggregated.</continued></subsection><subsection id="ID_1438413478579_019" name="7" temporalId="s4_7"><num value="7">(7)</num><leadIn>In determining whether a person has a reportable short position in any specified shares—</leadIn><paragraph id="ID_1438413478579_027" name="a" temporalId="s4_7_a"><num value="a">(a)</num><content>the short position and the long position (if any) in the specified shares attributable to any partnership; and</content></paragraph><paragraph id="ID_1438413478579_035" name="b" temporalId="s4_7_b"><num value="b">(b)</num><content>those attributable to another partnership,</content></paragraph><continued>are to be treated separately and not to be aggregated.</continued></subsection><subsection id="ID_1438413478579_048" name="8" temporalId="s4_8"><num value="8">(8)</num><content>If the partners in a partnership have a reportable short position in any
+                specified shares attributable to the partnership, those partners are regarded as
+                having complied with the duty to notify under subrule (2) or (4) in respect of those
+                specified shares if one of those partners or another person authorized by all those
+                partners has submitted, on behalf of those partners, a notice that complies with
+                rule 4A.
+                <sourceNote>(<ref href="hk/2016/ln39">L.N. 39 of 2016</ref>)</sourceNote></content></subsection><subsection id="ID_1438413478595_005" name="9" temporalId="s4_9"><num value="9">(9)</num><content><sourceNote>(Repealed <ref href="hk/2016/ln39">L.N. 39 of 2016</ref>)</sourceNote></content></subsection></section><section id="ID_1480660968239_001" name="s4A" temporalId="s4A" startPeriod="2017-03-15" status="operational" reason="inEffect"><num value="4A">4A.</num><heading>Submitting
+            notification to Commission</heading><leadIn>Notification to the Commission required under rule 4(2) or (4)—</leadIn><paragraph id="ID_1480661818992_001" name="a" temporalId="s4A_a"><num value="a">(a)</num><leadIn>must contain—</leadIn><subparagraph id="ID_1480661818992_002" name="1" temporalId="s4A_1"><num value="1">(i)</num><content>particulars identifying the person who has a reportable short position in
+                    specified shares;</content></subparagraph><subparagraph id="ID_1480661818992_003" name="2" temporalId="s4A_2"><num value="2">(ii)</num><content>particulars of the net short position value and number of specified shares
+                    comprised in the reportable short position; and</content></subparagraph><subparagraph id="ID_1480661818992_004" name="3" temporalId="s4A_3"><num value="3">(iii)</num><content>the name and stock code of the specified shares comprised in the reportable
+                    short position; and</content></subparagraph></paragraph><paragraph id="ID_1480661818992_005" name="b" temporalId="s4A_b"><num value="b">(b)</num><leadIn>is to be regarded as duly submitted only if it is submitted—</leadIn><subparagraph id="ID_1480661818992_006" name="1" temporalId="s4A_1"><num value="1">(i)</num><content>by means of an electronic system designated by the Commission under rule
+                    5(1); and</content></subparagraph><subparagraph id="ID_1480661818992_007" name="2" temporalId="s4A_2"><num value="2">(ii)</num><content>in accordance with the directions and instructions relating to the system
+                    referred to in rule 5(2).</content></subparagraph></paragraph><sourceNote>(<ref href="hk/2016/ln39">L.N. 39 of 2016</ref>)</sourceNote></section><section id="ID_1438403474442_002" name="s5" reason="inEffect" role="rule" startPeriod="2017-03-15" status="operational" temporalId="s5"><num value="5">5.</num><heading>Commission
+            may designate electronic system</heading><subsection id="ID_1438413478673_004" name="1" temporalId="s5_1"><num value="1">(1)</num><content>The
+                Commission may, for the purposes of these Rules, designate one or more electronic
+                systems.</content></subsection><subsection id="ID_1438413478673_012" name="2" temporalId="s5_2"><num value="2">(2)</num><content>Where
+                the Commission designates an electronic system under subrule (1), it must as soon as
+                reasonably practicable publish, in the manner it considers appropriate, directions
+                and instructions relating to the use of, and the submission of notifications under
+                rule 4(2) or (4) by means of, that system.</content></subsection><sourceNote>(<ref href="hk/2016/ln39">L.N. 39 of 2016</ref>)</sourceNote></section><section id="ID_1438403474458_002" name="s6" reason="inEffect" role="rule" startPeriod="2012-09-07" status="operational" temporalId="s6"><num value="6">6.</num><heading>Commission to publish particulars of reported short positions</heading><subsection id="ID_1438413478704_016" name="1" temporalId="s6_1"><num value="1">(1)</num><content>Subject to subrules (2) and (3), the Commission must, as soon as reasonably practicable after the reporting deadline for a reporting day, publish in the manner that it considers appropriate the particulars of the reportable short positions notified to it in respect of the reporting day under <ref>rule 4(2)</ref> or (4) that it considers appropriate.</content></subsection><subsection id="ID_1438413478720_005" name="2" temporalId="s6_2"><num value="2">(2)</num><leadIn>Subrule (1) does not require the Commission to publish particulars—</leadIn><paragraph id="ID_1438413478720_013" name="a" temporalId="s6_2_a"><num value="a">(a)</num><content>earlier than 5 business days after the reporting day; or</content></paragraph><paragraph id="ID_1438413478720_021" name="b" temporalId="s6_2_b"><num value="b">(b)</num><content>if a daily reporting requirement notice is in force, more frequently than once a week.</content></paragraph></subsection><subsection id="ID_1438413478720_028" name="3" temporalId="s6_3"><num value="3">(3)</num><content>Any particulars published under subrule (1) must be, so far as reasonably practicable, presented in a way which prevents the identity of a person who has submitted a notice under <ref>rule 4(2)</ref> or (4) and that person’s reportable short position from being ascertained from it.</content></subsection></section></part><part id="ID_1438403474474_002" name="P3" reason="inEffect" startPeriod="2012-06-18" status="operational" temporalId="P3"><num value="3">Part 3</num><heading>Daily Reporting Requirements</heading><section id="ID_1438403474474_004" name="s7" reason="inEffect" role="rule" startPeriod="2017-03-15" status="operational" temporalId="s7"><num value="7">7.</num><heading>Daily reporting requirement notice</heading><subsection id="ID_1438413478798_004" name="1" temporalId="s7_1"><num value="1">(1)</num><leadIn>The Commission may publish a daily reporting requirement notice in accordance with this rule if the Commission believes that—</leadIn><paragraph id="ID_1438413478798_012" name="a" temporalId="s7_1_a"><num value="a">(a)</num><content>circumstances exist, in Hong Kong or elsewhere, which threaten or may threaten the financial stability of Hong Kong; and</content></paragraph><paragraph id="ID_1438413478798_020" name="b" temporalId="s7_1_b"><num value="b">(b)</num><content>as a result of those circumstances, the Commission needs to be notified of reportable short positions on a daily basis.</content></paragraph></subsection><subsection id="ID_1438413478798_027" name="2" temporalId="s7_2"><num value="2">(2)</num><leadIn>A daily reporting requirement notice—</leadIn><paragraph id="ID_1438413478798_035" name="a" temporalId="s7_2_a"><num value="a">(a)</num><content>must declare that, from the date specified in the notice, a person who has
+                    a reportable short position on each day on which the Stock Exchange is open for
+                    trading must notify the Commission of the reportable short position within 1
+                    business day;</content></paragraph><paragraph id="ID_1480664299159_001" name="ab" temporalId="s7_2_ab"><num value="ab">(ab)</num><content>must identify the specified shares to which the notice relates;
+                        <sourceNote>(<ref href="hk/2016/ln39">L.N. 39 of 2016</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438413478813_006" name="b" temporalId="s7_2_b"><num value="b">(b)</num><content>must be published in the Gazette at least 24 hours before the date
+                    specified in the notice; and</content></paragraph><paragraph id="ID_1438413478813_014" name="c" temporalId="s7_2_c"><num value="c">(c)</num><content>may be published or announced on the Commission’s website and in any other
+                    manner and at the times that the Commission considers appropriate.</content></paragraph></subsection><subsection id="ID_1438413478813_021" name="3" temporalId="s7_3"><num value="3">(3)</num><def name="CessationNotice">If a daily reporting requirement notice is in force and the
+                Commission believes that it no longer needs to be notified of reportable short
+                positions in
+                one or more of the specified shares to which the notice relates on
+                a daily basis, the Commission must publish on its website a notice (<term>cessation
+                    notice</term>) declaring that the daily reporting requirement notice is to cease
+                to have effect
+                in relation to
+                the specified shares identified in the cessation notice from the
+                date specified in the cessation notice.
+                <sourceNote>(<ref href="hk/2016/ln39">L.N. 39 of 2016</ref>)</sourceNote></def></subsection><subsection id="ID_1438413478813_028" name="4" temporalId="s7_4"><num value="4">(4)</num><content>Neither a daily reporting requirement notice nor a cessation notice is subsidiary legislation.</content></subsection></section></part><schedule id="ID_1438403474489_002" name="sch1" reason="inEffect" startPeriod="2017-03-15" status="operational" temporalId="sch1"><num value="1">Schedule 1</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap571AJ/s2">r.
+                2</ref>]</note><heading>Specified Shares</heading><text>
+            <marker role="blank-line"></marker>
+        </text><text>Shares,
+            or interests in a collective investment scheme, which are determined by the Stock
+            Exchange Company to be a “designated security” in accordance with the rules of the Stock
+            Exchange Company.</text><sourceNote>(<ref>Schedule 1</ref> replaced <ref href="hk/2016/ln39">L.N. 39 of 2016</ref>)</sourceNote></schedule><schedule id="ID_1438403474489_004" name="sch2" reason="inEffect" startPeriod="2012-06-18" status="operational" temporalId="sch2"><num value="2">Schedule 2</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap571AJ/s2">r.
+                2</ref>]</note><heading>Specified ATS</heading><text class="align_center">[This schedule is deliberately left blank]</text></schedule></main></subLeg>

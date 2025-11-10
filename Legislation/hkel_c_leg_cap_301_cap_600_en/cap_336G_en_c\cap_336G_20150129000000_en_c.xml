@@ -1,0 +1,1277 @@
+<?xml version="1.0" encoding="UTF-8"?><subLeg xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd" xml:lang="en"><meta><docName>Cap. 336 sub. leg. G</docName><docType>cap</docType><docNumber>336G</docNumber><docStatus>In effect</docStatus><dc:identifier>/hk/cap336G!en</dc:identifier><dc:date>2015-01-29</dc:date><dc:subject>legislation</dc:subject><dc:language>en</dc:language><dc:publisher>DoJ</dc:publisher><dc:rights>the Government of the Hong Kong Special Administrative Region</dc:rights></meta><main xml:lang="en" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd"><docTitle id="ID_1438403028176_001" name="shortTitle" reason="inEffect" status="operational" temporalId="shortTitle" startPeriod="2015-01-29">District Court Equal Opportunities Rules</docTitle><enactingFormula>(<ref href="/hk/cap336">Cap. 336</ref>, <ref href="/hk/cap336/s73B">sections 73B</ref>, <ref href="/hk/cap336/s73C">73C</ref>, <ref href="/hk/cap336/s73D">73D</ref> and <ref href="/hk/cap336/s73E">73E</ref>)</enactingFormula><sourceNote>(<ref href="/hk/1997/ln464">L.N. 464 of 1997</ref>)<marker role="blank-line"></marker><marker role="blank-line"></marker></sourceNote><sourceNote>(Enacting provision omitted—<ref href="/hk/2015/er1">E.R. 1 of 2015</ref>)</sourceNote><commencementNote>[20 September 1996]<sourceNote><inline class="width_6"> </inline><ref href="/hk/1996/ln393">L.N. 393 of 1996</ref></sourceNote></commencementNote><sourceNote>(Format changes—<ref href="/hk/2015/er1">E.R. 1 of 2015</ref>)</sourceNote><part id="ID_1438403028191_002" name="P1" reason="inEffect" startPeriod="2015-01-29" status="operational" temporalId="P1"><num value="1">Part 1</num><heading>Preliminary</heading><sourceNote>(<ref href="/hk/2014/ln86">L.N. 86 of 2014</ref>)</sourceNote><section id="ID_1438403028207_001" name="s1" reason="omittedAsSpent" role="rule" startPeriod="2015-01-29" status="omitted" temporalId="s1"><num value="1">1.</num><sourceNote>(Omitted as spent—<ref href="/hk/2015/er1">E.R. 1 of 2015</ref>)</sourceNote></section><section id="ID_1438403028207_003" name="s2" reason="inEffect" role="rule" startPeriod="2015-01-29" status="operational" temporalId="s2"><num value="2">2.</num><heading>Interpretation</heading><leadIn>In these Rules, unless the context otherwise requires—</leadIn><def name="Action"><term>action</term> (<term xml:lang="zh-Hant-HK">訴訟</term>) includes a matter, and any part of an action or matter;</def><def name="Claim"><term>claim</term> (<term xml:lang="zh-Hant-HK">申索</term>) includes part of a claim;</def><def name="Claimant"><term>claimant</term> (<term xml:lang="zh-Hant-HK">申索人</term>) means the person mentioned in <ref>rule 7(1)</ref>;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2014/ln86">L.N. 86 of 2014</ref>)</sourceNote></def><def name="Court"><term>Court</term> (<term xml:lang="zh-Hant-HK">區域法院</term>) has the meaning given by Order 1, <ref>rule 4(2)</ref> of the Rules of the District Court (<ref href="/hk/cap336H">Cap. 336 sub. leg. H</ref>);<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2014/ln86">L.N. 86 of 2014</ref>)</sourceNote></def><def name="NoticeInForm1"><term>notice in Form 1</term> (<term xml:lang="zh-Hant-HK">表格1通知書</term>)
+            means the notice of claim mentioned in <ref>rule 7(1)(a)</ref>;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2014/ln86">L.N. 86 of
+                2014</ref>)</sourceNote></def><def name="NoticeInForm2"><term>notice in Form 2</term> (<term xml:lang="zh-Hant-HK">表格2通知書</term>)
+            means the notice to the respondent mentioned in <ref>rule 8(1)</ref>;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2014/ln86">L.N. 86 of
+                    2014</ref>)</sourceNote></def><def name="NoticeInForm3"><term>notice in Form 3</term> (<term xml:lang="zh-Hant-HK">表格3通知書</term>)
+            means the notice of response mentioned in <ref>rule 10(1)(a)</ref>;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2014/ln86">L.N. 86 of
+                    2014</ref>)</sourceNote></def><def name="NoticeInForm4"><term>notice in Form 4</term> (<term xml:lang="zh-Hant-HK">表格4通知書</term>)
+            means the notice of request for further particulars mentioned in <ref>rule 9(1)(a)</ref>
+            or <ref>11(1)(a)</ref>;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2014/ln86">L.N. 86 of 2014</ref>)</sourceNote></def><def name="Party"><term>party</term> (<term xml:lang="zh-Hant-HK">一方</term>) means the claimant, the respondent or a person who is ordered under <ref>rule 12(1)</ref> to be joined in the proceeding under <ref>Part 2</ref>;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2014/ln86">L.N. 86 of 2014</ref>)</sourceNote></def><def name="Proceeding"><term>proceeding</term> (<term xml:lang="zh-Hant-HK">法律程序</term>) includes part of a proceeding;</def><def name="Register"><term>Register</term> (<term xml:lang="zh-Hant-HK">登記冊</term>) means the Equal Opportunities Register kept under <ref>rule 3(1)</ref>;</def><def name="RelevantOrdinance"><leadIn><term>relevant Ordinance</term> (<term xml:lang="zh-Hant-HK">有關條例</term>) means—</leadIn><paragraph id="ID_1438411985599_019" name="a" temporalId="s2_a"><num value="a">(a)</num><content>the Sex Discrimination Ordinance (<ref href="/hk/cap480">Cap. 480</ref>);<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1997/ln464">L.N. 464 of 1997</ref>)</sourceNote> </content></paragraph><paragraph id="ID_1438411985599_027" name="b" temporalId="s2_b"><num value="b">(b)</num><content>the Disability Discrimination Ordinance (<ref href="/hk/cap487">Cap. 487</ref>);<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1997/ln464">L.N. 464 of 1997</ref>; <ref href="/hk/2008/29">29 of 2008 s. 89</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411985599_035" name="c" temporalId="s2_c"><num value="c">(c)</num><content>the Family Status Discrimination Ordinance (<ref href="/hk/cap527">Cap. 527</ref>); or<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1997/ln464">L.N. 464 of 1997</ref>; <ref href="/hk/2008/29">29 of 2008 s. 89</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411985599_043" name="d" temporalId="s2_d"><num value="d">(d)</num><content>the Race Discrimination Ordinance (<ref href="/hk/cap602">Cap. 602</ref>);<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2008/29">29 of 2008 s. 89</ref>)</sourceNote></content></paragraph></def><def name="Respondent"><term>respondent</term> (<term xml:lang="zh-Hant-HK">答辯人</term>) means the person against whom a claim under a relevant Ordinance is made in accordance with <ref>rule 7</ref>;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2014/ln86">L.N. 86 of 2014</ref>)</sourceNote></def><def name="Tribunal"><term>tribunal</term> (<term xml:lang="zh-Hant-HK">審裁處</term>) means the tribunal within the meaning of <ref>section 2</ref> of the Labour Tribunal Ordinance (<ref href="/hk/cap25">Cap. 25</ref>).</def></section><section id="ID_1438403028222_002" name="s2A" reason="inEffect" role="rule" startPeriod="2015-01-29" status="operational" temporalId="s2A"><num value="2A">2A.</num><heading>Application to Government</heading><content>These Rules apply to any proceeding by or against the Government.</content><sourceNote>(<ref href="/hk/2014/ln86">L.N. 86 of 2014</ref>)</sourceNote></section><section id="ID_1438403028238_002" name="s3" reason="inEffect" role="rule" startPeriod="2015-01-29" status="operational" temporalId="s3"><num value="3">3.</num><heading>Equal Opportunities Register</heading><subsection id="ID_1438411985646_018" name="1" temporalId="s3_1"><num value="1">(1)</num><leadIn>The Registrar shall cause to be kept a register—</leadIn><paragraph id="ID_1438411985646_026" name="a" temporalId="s3_1_a"><num value="a">(a)</num><content>called the Equal Opportunities Register; and</content></paragraph><paragraph id="ID_1438411985646_034" name="b" temporalId="s3_1_b"><num value="b">(b)</num><content>in such form as he thinks fit, or in such form as the Chief Justice may from time to time direct.</content></paragraph></subsection><subsection id="ID_1438411985646_041" name="2" temporalId="s3_2"><num value="2">(2)</num><content>The Registrar shall cause the Register to be maintained by proper entries therein in relation to all actions and proceedings falling within the jurisdiction of the Court under each relevant Ordinance.</content></subsection><subsection id="ID_1438411985661_005" name="3" temporalId="s3_3"><num value="3">(3)</num><content>Every action or proceeding referred to in subrule (2) shall be numbered in each year according to the order in which it is commenced, and recorded in the Register accordingly.</content></subsection></section><section id="ID_1438403028254_001" name="s4" reason="inEffect" role="rule" startPeriod="2015-01-29" status="operational" temporalId="s4"><num value="4">4.</num><heading>Application of other rules</heading><subsection id="ID_1438411985677_004" name="1" temporalId="s4_1"><num value="1">(1)</num><content>Subject to <ref>sections 73B(8)</ref>, <ref>73C(8)</ref>, <ref>73D(8)</ref> and <ref>73E(8)</ref> of the Ordinance, the rules made under <ref>section 72</ref> or <ref>73</ref> of the Ordinance apply to and in relation to the jurisdiction given to the Court by virtue of a relevant Ordinance.</content></subsection><subsection id="ID_1438411985677_012" name="2" temporalId="s4_2"><num value="2">(2)</num><def name="DistrictCourtRules">In particular, the provisions of the Rules of the District Court (<ref href="/hk/cap336H">Cap. 336 sub. leg. H</ref>) (<term>District Court Rules</term>) made under <ref>section 72</ref> of the Ordinance apply, with any necessary modifications, to and in relation to an action or proceeding falling within that jurisdiction to the extent of any matter for which no provision is made by <ref>Part 2</ref>.</def></subsection><subsection id="ID_1438411985692_004" name="3" temporalId="s4_3"><num value="3">(3)</num><content>However, the Court may direct that any provision of the District Court Rules made under <ref>section 72</ref> of the Ordinance applies to and in relation to an action or proceeding falling within that jurisdiction as if <ref>Part 2</ref> had not been enacted.</content></subsection><sourceNote>(<ref href="/hk/2014/ln86">L.N. 86 of 2014</ref>)</sourceNote></section><editorialNote type="footnote" id="ID_1515385099274_001">
+        <content>Editorial Note:</content>
+        <content>This Rule was amended by section 6 of the District Court Equal Opportunities (Amendment) Rules 2014 (<ref href="hk/2014/ln86">L.N. 86 of 2014</ref>), please see the transitional provisions contained in section 9 of that Amendment Rule.</content>
+    </editorialNote><section id="ID_1438403028254_003" name="s5" reason="inEffect" role="rule" startPeriod="2015-01-29" status="operational" temporalId="s5"><num value="5">5.</num><heading>Transfer of claim to tribunal</heading><subsection id="ID_1438411985786_004" name="1" temporalId="s5_1"><num value="1">(1)</num><leadIn>Where the Court determines in respect of any action listed in the Register (and whether or not the action has commenced) that the action is a claim—</leadIn><paragraph id="ID_1438411985786_012" name="a" temporalId="s5_1_a"><num value="a">(a)</num><content>beyond the jurisdiction of the Court under any relevant Ordinance; and</content></paragraph><paragraph id="ID_1438411985786_020" name="b" temporalId="s5_1_b"><num value="b">(b)</num><content>within the jurisdiction of the tribunal,</content></paragraph><continued>then the Court shall order that the claim be transferred to the tribunal.</continued></subsection><subsection id="ID_1438411985786_033" name="2" temporalId="s5_2"><num value="2">(2)</num><content>Where the Court transfers under subrule (1) a claim to the tribunal, the Registrar shall send to the registrar, within the meaning of <ref>section 2</ref> of the Labour Tribunal Ordinance (<ref href="/hk/cap25">Cap. 25</ref>), a certified copy of the entries in the Register, and the documents in his custody, relating to the claim.</content></subsection></section><section id="ID_1438403028285_002" name="s6" reason="inEffect" role="rule" startPeriod="2015-01-29" status="operational" temporalId="s6"><num value="6">6.</num><heading>Right of audience</heading><leadIn>Without prejudice to the generality of <ref>section 15</ref> of the Ordinance in so far as it relates to persons who may address the Court, any person acting for a party to an action within the jurisdiction of the Court under any relevant Ordinance may, in relation to that action, appear in, conduct, defend and address the Court in, any proceeding therein if the person—</leadIn><paragraph id="ID_1438411985817_026" name="a" temporalId="s6_a"><num value="a">(a)</num><content>is a member of the Commission, or a committee, within the meaning of <ref>section 2</ref> of the Sex Discrimination Ordinance (<ref href="/hk/cap480">Cap. 480</ref>);</content></paragraph><paragraph id="ID_1438411985817_034" name="b" temporalId="s6_b"><num value="b">(b)</num><content>is employed or engaged under <ref>section 64(2)(d)</ref>, (e) or (f) of that Ordinance;</content></paragraph><paragraph id="ID_1438411985817_042" name="c" temporalId="s6_c"><num value="c">(c)</num><content>is an office bearer of a registered trade union, or of an association of employers, authorized in writing by the party to so act;</content></paragraph><paragraph id="ID_1438411985833_006" name="d" temporalId="s6_d"><num value="d">(d)</num><content>is an officer or servant of an unincorporated or incorporated company or a member of a partnership and that company or partnership, as the case may be, is the party;</content></paragraph><paragraph id="ID_1438411985833_014" name="e" temporalId="s6_e"><num value="e">(e)</num><content>is a carer, or an associate, within the meaning of <ref>section 2</ref> of the Disability Discrimination Ordinance (<ref href="/hk/cap487">Cap. 487</ref>), in respect of the party (including any case where the action is a claim under the Sex Discrimination Ordinance (<ref href="/hk/cap480">Cap. 480</ref>)).</content></paragraph></section></part><part id="ID_1438403028300_001" name="P2" reason="inEffect" startPeriod="2015-01-29" status="operational" temporalId="P2"><num value="2">Part 2</num><heading>Equal Opportunities Proceeding</heading><sourceNote>(<ref>Part 2</ref> added <ref href="/hk/2014/ln86">L.N. 86 of 2014</ref>)</sourceNote><division id="ID_1438403028300_003" name="D1" reason="inEffect" startPeriod="2015-01-29" status="operational" temporalId="P2_D1"><num value="1">Division 1</num><heading>Commencement and Forms</heading><section id="ID_1438403028316_002" name="s7" reason="inEffect" role="rule" startPeriod="2015-01-29" status="operational" temporalId="s7"><num value="7">7.</num><heading>Making claim: notice in Form 1</heading><subsection id="ID_1438411985880_004" name="1" temporalId="s7_1"><num value="1">(1)</num><leadIn>If a person wishes to make a claim under a relevant Ordinance, the person—</leadIn><paragraph id="ID_1438411985880_012" name="a" temporalId="s7_1_a"><num value="a">(a)</num><content>must file with the Court the notice of claim in Form 1 in the Appendix; and</content></paragraph><paragraph id="ID_1438411985880_020" name="b" temporalId="s7_1_b"><num value="b">(b)</num><content>must provide to the Court a copy of that notice in Form 1.</content></paragraph></subsection><subsection id="ID_1438411985880_027" name="2" temporalId="s7_2"><num value="2">(2)</num><content>The notice in Form 1 must be sealed with the seal of the Court.</content></subsection><subsection id="ID_1438411985880_035" name="3" temporalId="s7_3"><num value="3">(3)</num><leadIn>The notice in Form 1 must include—</leadIn><paragraph id="ID_1438411985880_043" name="a" temporalId="s7_3_a"><num value="a">(a)</num><leadIn>a concise statement of—</leadIn><subparagraph id="ID_1438411985880_051" name="i" temporalId="s7_3_a_i"><num value="i">(i)</num><content>the circumstances in which the claim is made;</content></subparagraph><subparagraph id="ID_1438411985880_059" name="ii" temporalId="s7_3_a_ii"><num value="ii">(ii)</num><content>the remedy or relief that the person claims; and</content></subparagraph><subparagraph id="ID_1438411985880_067" name="iii" temporalId="s7_3_a_iii"><num value="iii">(iii)</num><content>any question that the person wishes to have determined;</content></subparagraph></paragraph><paragraph id="ID_1438411985880_074" name="b" temporalId="s7_3_b"><num value="b">(b)</num><content>the person’s name and address; and</content></paragraph><paragraph id="ID_1438411985880_082" name="c" temporalId="s7_3_c"><num value="c">(c)</num><content>the name and address of the person against whom the claim is made.</content></paragraph></subsection></section><section id="ID_1438403028332_001" name="s8" reason="inEffect" role="rule" startPeriod="2015-01-29" status="operational" temporalId="s8"><num value="8">8.</num><heading>Notifying respondent: notice in Form 2</heading><subsection id="ID_1438411985895_088" name="1" temporalId="s8_1"><num value="1">(1)</num><content>As soon as practicable after the notice in Form 1 is filed under <ref>rule 7(1)(a)</ref>, the Court is to cause to be served on the respondent the notice to the respondent in Form 2 in the Appendix.</content></subsection><subsection id="ID_1438411985911_005" name="2" temporalId="s8_2"><num value="2">(2)</num><leadIn>The notice in Form 2 must state—</leadIn><paragraph id="ID_1438411985911_013" name="a" temporalId="s8_2_a"><num value="a">(a)</num><content>that if the respondent wishes to oppose the claim, the respondent must respond to the claim in accordance with <ref>rule 10</ref>; and</content></paragraph><paragraph id="ID_1438411985911_021" name="b" temporalId="s8_2_b"><num value="b">(b)</num><content>that in default of response or of appearance at the hearing time and place set out in that notice in Form 2, the Court may make an order under <ref>rule 13</ref> or <ref>14</ref>.</content></paragraph></subsection><subsection id="ID_1438411985911_028" name="3" temporalId="s8_3"><num value="3">(3)</num><content>The notice in Form 2 served under subrule (1) must be accompanied by a copy of the notice in Form 1.</content></subsection></section><section id="ID_1438403028332_003" name="s9" reason="inEffect" role="rule" startPeriod="2015-01-29" status="operational" temporalId="s9"><num value="9">9.</num><heading>Respondent’s request for further particulars: notice in Form 4</heading><subsection id="ID_1438411985926_042" name="1" temporalId="s9_1"><num value="1">(1)</num><leadIn>If the respondent wishes to request the claimant for further particulars of the grounds on which the claim is made, the respondent—</leadIn><paragraph id="ID_1438411985926_050" name="a" temporalId="s9_1_a"><num value="a">(a)</num><content>must specify the questions as to which the respondent wishes to have information in the notice of request for further particulars in Form 4 in the Appendix; and</content></paragraph><paragraph id="ID_1438411985942_006" name="b" temporalId="s9_1_b"><num value="b">(b)</num><leadIn>must, within 14 days after having been served with the notice in Form 2 accompanied by a copy of the notice in Form 1 under <ref>rule 8</ref>, or within any extended period that the Court may on application allow—</leadIn><subparagraph id="ID_1438411985942_014" name="i" temporalId="s9_1_b_i"><num value="i">(i)</num><content>file with the Court the notice in Form 4; and</content></subparagraph><subparagraph id="ID_1438411985942_022" name="ii" temporalId="s9_1_b_ii"><num value="ii">(ii)</num><content>serve on the claimant a copy of that notice in Form 4.</content></subparagraph></paragraph></subsection><subsection id="ID_1438411985942_028" name="2" temporalId="s9_2"><num value="2">(2)</num><leadIn>The claimant must, within 14 days after having been served with a copy of the notice in Form 4, or within any extended period that the Court may on application allow—</leadIn><paragraph id="ID_1438411985942_036" name="a" temporalId="s9_2_a"><num value="a">(a)</num><content>file with the Court a reply; and</content></paragraph><paragraph id="ID_1438411985942_044" name="b" temporalId="s9_2_b"><num value="b">(b)</num><content>serve on the respondent a copy of the reply.</content></paragraph></subsection><subsection id="ID_1438411985942_051" name="3" temporalId="s9_3"><num value="3">(3)</num><leadIn>If any request for further particulars made under subrule (1) appears to the Court to be unnecessary or vexatious, the Court—</leadIn><paragraph id="ID_1438411985942_059" name="a" temporalId="s9_3_a"><num value="a">(a)</num><content>may disallow, with costs, that request; and</content></paragraph><paragraph id="ID_1438411985942_067" name="b" temporalId="s9_3_b"><num value="b">(b)</num><content>may award against the respondent the costs of any reply to that request.</content></paragraph></subsection></section><section id="ID_1438403028347_002" name="s10" reason="inEffect" role="rule" startPeriod="2015-01-29" status="operational" temporalId="s10"><num value="10">10.</num><heading>Respondent’s response: notice in Form 3</heading><subsection id="ID_1438411985973_004" name="1" temporalId="s10_1"><num value="1">(1)</num><leadIn>If the respondent wishes to oppose the claim, the respondent must, within 28 days after having been served with the notice in Form 2 accompanied by a copy of the notice in Form 1 under <ref>rule 8</ref>, or within any extended period that the Court may on application allow—</leadIn><paragraph id="ID_1438411985973_012" name="a" temporalId="s10_1_a"><num value="a">(a)</num><content>file with the Court the notice of response in Form 3 in the Appendix; and</content></paragraph><paragraph id="ID_1438411985973_020" name="b" temporalId="s10_1_b"><num value="b">(b)</num><content>serve on the claimant a copy of that notice in Form 3.</content></paragraph></subsection><subsection id="ID_1438411985973_027" name="2" temporalId="s10_2"><num value="2">(2)</num><content>The notice in Form 3 must include a concise statement of the extent and grounds of the opposition.</content></subsection><subsection id="ID_1438411985973_035" name="3" temporalId="s10_3"><num value="3">(3)</num><content>Unless the Court orders otherwise, a request for further particulars made by the respondent under <ref>rule 9(1)</ref> does not lengthen or shorten the period specified in subrule (1).</content></subsection></section><section id="ID_1438403028363_001" name="s11" reason="inEffect" role="rule" startPeriod="2015-01-29" status="operational" temporalId="s11"><num value="11">11.</num><heading>Claimant’s request for further particulars: notice in Form 4</heading><subsection id="ID_1438411986004_004" name="1" temporalId="s11_1"><num value="1">(1)</num><leadIn>If the claimant wishes to request the respondent for further particulars of the grounds on which the claim is opposed, the claimant—</leadIn><paragraph id="ID_1438411986004_012" name="a" temporalId="s11_1_a"><num value="a">(a)</num><content>must specify the questions as to which the claimant wishes to have information in the notice of request for further particulars in Form 4 in the Appendix; and</content></paragraph><paragraph id="ID_1438411986004_020" name="b" temporalId="s11_1_b"><num value="b">(b)</num><leadIn>must, within 14 days after having been served with a copy of the notice in Form 3 under <ref>rule 10(1)(b)</ref>, or within any extended period that the Court may on application allow—</leadIn><subparagraph id="ID_1438411986004_028" name="i" temporalId="s11_1_b_i"><num value="i">(i)</num><content>file with the Court the notice in Form 4; and</content></subparagraph><subparagraph id="ID_1438411986004_036" name="ii" temporalId="s11_1_b_ii"><num value="ii">(ii)</num><content>serve on the respondent a copy of that notice in Form 4.</content></subparagraph></paragraph></subsection><subsection id="ID_1438411986004_042" name="2" temporalId="s11_2"><num value="2">(2)</num><leadIn>The respondent must, within 14 days after having been served with a copy of the notice in Form 4, or within any extended period that the Court may on application allow—</leadIn><paragraph id="ID_1438411986004_050" name="a" temporalId="s11_2_a"><num value="a">(a)</num><content>file with the Court a reply; and</content></paragraph><paragraph id="ID_1438411986004_058" name="b" temporalId="s11_2_b"><num value="b">(b)</num><content>serve on the claimant a copy of the reply.</content></paragraph></subsection><subsection id="ID_1438411986004_065" name="3" temporalId="s11_3"><num value="3">(3)</num><leadIn>If any request for further particulars made under subrule (1) appears to the Court to be unnecessary or vexatious, the Court—</leadIn><paragraph id="ID_1438411986004_073" name="a" temporalId="s11_3_a"><num value="a">(a)</num><content>may disallow, with costs, that request; and</content></paragraph><paragraph id="ID_1438411986020_006" name="b" temporalId="s11_3_b"><num value="b">(b)</num><content>may award against the claimant the costs of any reply to that request.</content></paragraph></subsection></section></division><division id="ID_1438403028363_003" name="D2" reason="inEffect" startPeriod="2015-01-29" status="operational" temporalId="P2_D2"><num value="2">Division 2</num><heading>Proceeding after Commencement</heading><section id="ID_1438403028378_001" name="s12" reason="inEffect" role="rule" startPeriod="2015-01-29" status="operational" temporalId="s12"><num value="12">12.</num><heading>Interested parties may be joined</heading><subsection id="ID_1438411986051_004" name="1" temporalId="s12_1"><num value="1">(1)</num><def name="InterestedPerson">On application of the claimant or respondent, or on its own motion, the Court may order a person appearing to the Court to be interested (<term>interested person</term>) to be joined in the proceeding under this Part.</def></subsection><subsection id="ID_1438411986067_004" name="2" temporalId="s12_2"><num value="2">(2)</num><leadIn>The claimant or respondent who wishes to apply for the order—</leadIn><paragraph id="ID_1438411986067_012" name="a" temporalId="s12_2_a"><num value="a">(a)</num><content>must file with the Court a notice of application; and</content></paragraph><paragraph id="ID_1438411986067_020" name="b" temporalId="s12_2_b"><num value="b">(b)</num><content>must serve on the interested person a copy of the notice.</content></paragraph></subsection><subsection id="ID_1438411986067_027" name="3" temporalId="s12_3"><num value="3">(3)</num><content>Unless the Court gives leave to the contrary, the copy of that notice must be served not less than 2 clear days before the hearing date set out in that notice.</content></subsection></section><section id="ID_1438403028378_003" name="s13" reason="inEffect" role="rule" startPeriod="2015-01-29" status="operational" temporalId="s13"><num value="13">13.</num><heading>Default of response</heading><subsection id="ID_1438411986082_012" name="1" temporalId="s13_1"><num value="1">(1)</num><leadIn>If no notice in Form 3 is filed by the respondent under <ref>rule 10(1)(a)</ref>, the claimant—</leadIn><paragraph id="ID_1438411986082_020" name="a" temporalId="s13_1_a"><num value="a">(a)</num><content>may apply to the Court for an order against the respondent in terms of the claim and for costs; and</content></paragraph><paragraph id="ID_1438411986082_028" name="b" temporalId="s13_1_b"><num value="b">(b)</num><content>(where there is more than one respondent) may proceed with the proceeding against other respondents.</content></paragraph></subsection><subsection id="ID_1438411986082_035" name="2" temporalId="s13_2"><num value="2">(2)</num><leadIn>On application under subrule <ref>(1)(a)</ref>, the Court may, with or without a hearing, make—</leadIn><paragraph id="ID_1438411986082_043" name="a" temporalId="s13_2_a"><num value="a">(a)</num><content>an order in favour of the claimant in terms of the application; or</content></paragraph><paragraph id="ID_1438411986082_051" name="b" temporalId="s13_2_b"><num value="b">(b)</num><content>any other order that the Court thinks just.</content></paragraph></subsection><subsection id="ID_1438411986082_058" name="3" temporalId="s13_3"><num value="3">(3)</num><leadIn>However, the Court may not make an order under subrule (2) if—</leadIn><paragraph id="ID_1438411986082_066" name="a" temporalId="s13_3_a"><num value="a">(a)</num><content>the Court is not satisfied that the respondent has been served with the notice in Form 2 accompanied by a copy of the notice in Form 1 under <ref>rule 8</ref>; or</content></paragraph><paragraph id="ID_1438411986098_006" name="b" temporalId="s13_3_b"><num value="b">(b)</num><content>before the order is to be made, the respondent has filed with the Court the notice in Form 3.</content></paragraph></subsection><subsection id="ID_1438411986098_013" name="4" temporalId="s13_4"><num value="4">(4)</num><content>The Court may, on any term that it thinks fit, set aside or vary any order made under subrule (2).</content></subsection></section><section id="ID_1438403028394_002" name="s14" reason="inEffect" role="rule" startPeriod="2015-01-29" status="operational" temporalId="s14"><num value="14">14.</num><heading>Default of appearance</heading><subsection id="ID_1438411986114_058" name="1" temporalId="s14_1"><num value="1">(1)</num><content>If no party appears at the time and place fixed for the hearing of the claim, the Court may by order strike out the claim for want of appearance.</content></subsection><subsection id="ID_1438411986114_066" name="2" temporalId="s14_2"><num value="2">(2)</num><leadIn>If only 1 party appears at that hearing, the Court may proceed in any or all of the following ways—</leadIn><paragraph id="ID_1438411986114_074" name="a" temporalId="s14_2_a"><num value="a">(a)</num><content>hear the evidence and submission of that party;</content></paragraph><paragraph id="ID_1438411986129_006" name="b" temporalId="s14_2_b"><num value="b">(b)</num><content>on the application of that party, strike out the claim for want of appearance;</content></paragraph><paragraph id="ID_1438411986129_014" name="c" temporalId="s14_2_c"><num value="c">(c)</num><content>adjourn the hearing on any term that the Court thinks fit.</content></paragraph></subsection></section><section id="ID_1438403028394_004" name="s15" reason="inEffect" role="rule" startPeriod="2015-01-29" status="operational" temporalId="s15"><num value="15">15.</num><heading>Discontinuance and withdrawal</heading><subsection id="ID_1438411986145_004" name="1" temporalId="s15_1"><num value="1">(1)</num><leadIn>The claimant—</leadIn><paragraph id="ID_1438411986145_012" name="a" temporalId="s15_1_a"><num value="a">(a)</num><leadIn>may, without leave of the Court, discontinue the proceeding under this Part against the respondent, or withdraw any part of the proceeding, by—</leadIn><subparagraph id="ID_1438411986145_020" name="i" temporalId="s15_1_a_i"><num value="i">(i)</num><content>filing with the Court a notice to that effect; and</content></subparagraph><subparagraph id="ID_1438411986145_028" name="ii" temporalId="s15_1_a_ii"><num value="ii">(ii)</num><content>serving on the respondent a copy of the notice; and</content></subparagraph></paragraph><paragraph id="ID_1438411986145_035" name="b" temporalId="s15_1_b"><num value="b">(b)</num><content>(where there is more than one respondent) may proceed with the proceeding against other respondents.</content></paragraph></subsection><subsection id="ID_1438411986145_042" name="2" temporalId="s15_2"><num value="2">(2)</num><content>The respondent may, within 14 days after having been served with a copy of that notice, or within any extended period that the Court may on application allow, apply to the Court for an order for costs.</content></subsection><subsection id="ID_1438411986145_050" name="3" temporalId="s15_3"><num value="3">(3)</num><content>Subject to <ref>sections 73B(3)</ref>, <ref>73C(3)</ref>, <ref>73D(3)</ref> and <ref>73E(3)</ref> of the Ordinance, the Court may make any order for costs that it thinks fit.</content></subsection></section></division><division id="ID_1438403028410_002" name="D3" reason="inEffect" startPeriod="2015-01-29" status="operational" temporalId="P2_D3"><num value="3">Division 3</num><heading>Service of Process</heading><section id="ID_1438403028425_001" name="s16" reason="inEffect" role="rule" startPeriod="2015-01-29" status="operational" temporalId="s16"><num value="16">16.</num><heading>Party’s name and address for service provided in first document</heading><leadIn>A party must provide in the first document that the party files with the Court for the proceeding under this Part—</leadIn><paragraph id="ID_1438411986176_012" name="a" temporalId="s16_a"><num value="a">(a)</num><content>the party’s name; and</content></paragraph><paragraph id="ID_1438411986176_020" name="b" temporalId="s16_b"><num value="b">(b)</num><content>the party’s address for service for the proceeding, which must not be a post office box number.</content></paragraph></section><section id="ID_1438403028425_003" name="s17" reason="inEffect" role="rule" startPeriod="2015-01-29" status="operational" temporalId="s17"><num value="17">17.</num><heading>Change of address for service</heading><leadIn>A party may change the party’s address for service for the proceeding under this Part by—</leadIn><paragraph id="ID_1438411986192_034" name="a" temporalId="s17_a"><num value="a">(a)</num><content>filing with the Court a notice to that effect; and</content></paragraph><paragraph id="ID_1438411986192_042" name="b" temporalId="s17_b"><num value="b">(b)</num><content>serving on the other party a copy of the notice.</content></paragraph></section><section id="ID_1438403028441_001" name="s18" reason="inEffect" role="rule" startPeriod="2015-01-29" status="operational" temporalId="s18"><num value="18">18.</num><heading>Manner of service</heading><subsection id="ID_1438411986207_026" name="1" temporalId="s18_1"><num value="1">(1)</num><leadIn>A document is taken to have been served for the proceeding under this Part on a person if the document—</leadIn><paragraph id="ID_1438411986207_034" name="a" temporalId="s18_1_a"><num value="a">(a)</num><content>is served on the person personally;</content></paragraph><paragraph id="ID_1438411986207_042" name="b" temporalId="s18_1_b"><num value="b">(b)</num><leadIn>is sent to the person’s address for service for the proceeding—</leadIn><subparagraph id="ID_1438411986207_050" name="i" temporalId="s18_1_b_i"><num value="i">(i)</num><content>(for the notice in Form 2 accompanied by a copy of the notice in Form 1) by registered post; or</content></subparagraph><subparagraph id="ID_1438411986207_058" name="ii" temporalId="s18_1_b_ii"><num value="ii">(ii)</num><content>(for any other document) by ordinary post or registered post;</content></subparagraph></paragraph><paragraph id="ID_1438411986207_065" name="c" temporalId="s18_1_c"><num value="c">(c)</num><content>is enclosed in a sealed envelope addressed to the person and is inserted through any letter box at that address; or</content></paragraph><paragraph id="ID_1438411986223_006" name="d" temporalId="s18_1_d"><num value="d">(d)</num><content>is served in any other manner that the Court directs.</content></paragraph></subsection><subsection id="ID_1438411986223_013" name="2" temporalId="s18_2"><num value="2">(2)</num><content>Where the person is represented by a solicitor, a document is also taken to have been served for the proceeding under this Part on a person if the document is delivered to or left for the solicitor, or sent by ordinary post addressed to the solicitor, at the solicitor’s place of business.</content></subsection></section><section id="ID_1438403028441_003" name="s19" reason="inEffect" role="rule" startPeriod="2015-01-29" status="operational" temporalId="s19"><num value="19">19.</num><heading>Time at which service by ordinary post is effected</heading><subsection id="ID_1438411986238_051" name="1" temporalId="s19_1"><num value="1">(1)</num><content>This rule applies to a document that is taken to have been served for the proceeding under this Part on a person by ordinary post under <ref>rule 18(1)(b)(ii)</ref> or (2).</content></subsection><subsection id="ID_1438411986238_059" name="2" temporalId="s19_2"><num value="2">(2)</num><content>Unless the contrary is proved, the document is taken to have been served for the proceeding under this Part on the person at the time at which the document would be delivered in the ordinary course of post.</content></subsection></section><section id="ID_1438403028456_002" name="s20" reason="inEffect" role="rule" startPeriod="2015-01-29" status="operational" temporalId="s20"><num value="20">20.</num><heading>Substituted service</heading><leadIn>If it appears to the Court that, after reasonable efforts, it has not been possible to serve on a person a document in such a way that the document would be taken to have been served on the person under <ref>rule 18</ref>, the Court—</leadIn><paragraph id="ID_1438411986270_012" name="a" temporalId="s20_a"><num value="a">(a)</num><content>may dispense with service on the person; and</content></paragraph><paragraph id="ID_1438411986270_020" name="b" temporalId="s20_b"><num value="b">(b)</num><content>may order substituted service in any form, whether by advertisement in a newspaper or otherwise, that the Court thinks fit.</content></paragraph></section></division><division id="ID_1438403028456_004" name="D4" reason="inEffect" startPeriod="2015-01-29" status="operational" temporalId="P2_D4"><num value="4">Division 4</num><heading>Miscellaneous</heading><section id="ID_1438403028472_002" name="s21" reason="inEffect" role="rule" startPeriod="2015-01-29" status="operational" temporalId="s21"><num value="21">21.</num><heading>Amendment of documents</heading><subsection id="ID_1438411986285_004" name="1" temporalId="s21_1"><num value="1">(1)</num><content>On application of a party or on its own motion, the Court may order a party to amend, in the manner that the Court directs, a document filed or served by the party under this Part.</content></subsection><subsection id="ID_1438411986301_005" name="2" temporalId="s21_2"><num value="2">(2)</num><content>The order may be made on any term that the Court thinks just.</content></subsection></section><section id="ID_1438403028472_004" name="s22" reason="inEffect" role="rule" startPeriod="2015-01-29" status="operational" temporalId="s22"><num value="22">22.</num><heading>Failure to comply with this Part</heading><content>Unless the Court directs otherwise, a failure by a party to comply with this Part does not render the proceeding under this Part, or anything done pursuant to the proceeding, invalid.</content></section><section id="ID_1438403028488_002" name="s23" reason="inEffect" role="rule" startPeriod="2015-01-29" status="operational" temporalId="s23"><num value="23">23.</num><heading>Forms</heading><content>The forms contained in the Appendix may be used for the proceeding under this Part with any variations that the circumstances require.</content></section></division></part><appendix id="ID_1438403028503_001" name="app0" reason="inEffect" startPeriod="2015-01-29" status="operational" temporalId="app0"><num value="0">Appendix</num><heading class="tied-tag-heading-center">Forms<marker role="blank-line"></marker><marker role="blank-line"></marker></heading><crossHeading class="align_center"><b>Form
+                1</b><inline class="not_bold"><br></br>(<ref>Rule
+            7(1)(a)</ref>)</inline><marker role="blank-line"></marker><marker role="blank-line"></marker></crossHeading><text class="align_right">DCEO <fillIn class=" width_63">.</fillIn> / 20<fillIn class=" width_18">.</fillIn><marker role="blank-line"></marker><marker role="blank-line"></marker></text><text class="align_center"><b>IN THE DISTRICT COURT OF THE</b><br></br><b>HONG KONG SPECIAL
+                ADMINISTRATIVE REGION</b><br></br><b>EQUAL OPPORTUNITIES ACTION NO.
+                ..........................
+                OF
+            20.......</b><marker role="blank-line"></marker><marker role="blank-line"></marker></text><text>
+            <table xmlns="http://www.w3.org/1999/xhtml">
+                <col width="3.5%"></col>
+                <col width="7%"></col>
+                <col width="3.5%"></col>
+                <col width="3.5%"></col>
+                <col width="7%"></col>
+                <col width="7%"></col>
+                <col width="65%"></col>
+                <col width="3.5%"></col>
+                <tbody>
+                    <tr>
+                        <td colspan="3">
+                            <p>Between</p>
+                        </td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td colspan="2">
+                            <p class="align_right">Claimant</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="3"></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td colspan="2"></td>
+                    </tr>
+                    <tr>
+                        <td colspan="8">
+                            <p class="align_center">AND</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="8"></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td colspan="2">
+                            <p class="align_right">Respondent</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td colspan="2"></td>
+                    </tr>
+                    <tr>
+                        <td colspan="8">
+                            <p class="align_center"><b><i>Notice of Claim</i></b></p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="8">
+                            <p>The Claimant applies for the remedies or reliefs set out in this
+                                claim.</p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                            <p>A.</p>
+                        </td>
+                        <td colspan="6">
+                            <p>Details of claim</p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td>
+                            <p class="align_right">1.</p>
+                        </td>
+                        <td></td>
+                        <td colspan="4">
+                            <p>The Claimant claims that:</p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td colspan="4" class="leaders_."></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td colspan="4">
+                            <p><i xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"> [Describe here the
+                                    unlawful act/acts the Claimant is complaining of. State whether
+                                    the Claimant has previously filed any complaint with the Equal
+                                    Opportunities Commission for any unlawful act/acts that is/are
+                                    the same or substantially the same as the unlawful act/acts that
+                                    is/are the subject of this claim.]</i></p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                            <p>B.</p>
+                        </td>
+                        <td colspan="6">
+                            <p>Legislation</p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td>
+                            <p class="align_right">2.</p>
+                        </td>
+                        <td></td>
+                        <td colspan="4">
+                            <p>The Claimant claims that the [*act/acts] complained of [*is/are]
+                                unlawful under one or more of the following Ordinances:</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td>
+                            <p>□</p>
+                        </td>
+                        <td colspan="3">
+                            <p>[*section/sections <fillIn xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class=" width_60">.</fillIn>of] the Sex Discrimination Ordinance (<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap480">Cap. 480</ref>);</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td>
+                            <p class="align_justified first_line_indent_0">□</p>
+                        </td>
+                        <td colspan="3">
+                            <p>[*section/sections <fillIn xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class=" width_60">.</fillIn> of] the Disability Discrimination Ordinance (<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap487">Cap. 487</ref>);</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td>
+                            <p>□</p>
+                        </td>
+                        <td colspan="3">
+                            <p>[*section/sections <fillIn xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class=" width_60">.</fillIn> of] the Family Status Discrimination Ordinance (<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap527">Cap. 527</ref>);</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td>
+                            <p>□</p>
+                        </td>
+                        <td colspan="3">
+                            <p>[*section/sections <fillIn xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class=" width_60">.</fillIn> of] the Race Discrimination Ordinance (<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap602">Cap. 602</ref>).</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td colspan="4">
+                            <p><i xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"> [State the
+                                    relevant section/sections of the Ordinance/Ordinances if
+                                    possible.]</i></p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                            <p>C.</p>
+                        </td>
+                        <td colspan="6">
+                            <p>Remedies or reliefs claimed</p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td>
+                            <p class="align_right">3.</p>
+                        </td>
+                        <td></td>
+                        <td colspan="4">
+                            <p>The Claimant asks the Court to grant one or more of the following
+                                remedies or reliefs:</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td>
+                            <p>□</p>
+                        </td>
+                        <td colspan="3">
+                            <p>a declaration that the Respondent has engaged in a conduct, or
+                                committed an act, that is unlawful under one or more of the
+                                following Ordinances:</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td>
+                            <p>□</p>
+                        </td>
+                        <td colspan="2">
+                            <p>the Sex Discrimination Ordinance (<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap480">Cap. 480</ref>);</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td>
+                            <p>□</p>
+                        </td>
+                        <td colspan="2">
+                            <p>the Disability Discrimination Ordinance (<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap487">Cap. 487</ref>);</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td>
+                            <p>□</p>
+                        </td>
+                        <td colspan="2">
+                            <p>the Family Status Discrimination Ordinance (<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap527">Cap. 527</ref>);</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td>
+                            <p>□</p>
+                        </td>
+                        <td colspan="2">
+                            <p>the Race Discrimination Ordinance (<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap602">Cap. 602</ref>),</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td colspan="3">
+                            <p>and an order that the Respondent must not repeat or continue the
+                                conduct or act;</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td>
+                            <p>□</p>
+                        </td>
+                        <td colspan="3" class="leaders_.">an order that the Respondent must perform
+                            the following reasonable act or course of conduct to redress any loss or
+                            damage suffered by the Claimant:</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td colspan="2" class="leaders_."></td>
+                        <td>
+                            <p>;</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td colspan="3">
+                            <p><i>[e.g. an apology from the Respondent]</i></p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td>
+                            <p>□</p>
+                        </td>
+                        <td colspan="3">
+                            <p>an order that the Respondent must employ or re-employ the
+                                Claimant;</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td>
+                            <p>□</p>
+                        </td>
+                        <td colspan="3">
+                            <p>an order that the Respondent must promote the Claimant;</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td>
+                            <p>□</p>
+                        </td>
+                        <td colspan="3">
+                            <p>an order that the Respondent must pay to the Claimant damages by way
+                                of compensation for any loss or damage suffered by reason of the
+                                Respondent’s conduct or act that is unlawful under one or more of
+                                the above-mentioned Ordinances;</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td colspan="3">
+                            <p><i>[If necessary, give details by way of statement of damages and
+                                    give details of amount claimed and calculations
+                                    (e.g.
+                                    loss of income).]</i></p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td>
+                            <p>□</p>
+                        </td>
+                        <td colspan="3">
+                            <p>an order that the Respondent must pay to the Claimant punitive or
+                                exemplary damages;</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td>
+                            <p>□</p>
+                        </td>
+                        <td colspan="3">
+                            <p>an order declaring void, in whole or in part, either from the
+                                beginning or from any date that may be specified in the order, any
+                                contract or agreement made in contravention of one or more of the
+                                above-mentioned Ordinances:
+                                    <fillIn xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class=" width_184">.</fillIn>;</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td colspan="3">
+                            <p><i>[Specify here details of the relevant contract or agreement, and
+                                    whether the contract or agreement is sought to be declared void
+                                    in whole or in part, and if in part, which part.] </i></p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td>
+                            <p>□</p>
+                        </td>
+                        <td colspan="3" class="leaders_."></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td colspan="3">
+                            <p><i>[Specify here any other remedy or relief that the Claimant wishes
+                                    to claim and the legislative provision under which it is
+                                    claimed, or any relevant question that the Claimant wishes to
+                                    have determined.]</i></p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                            <p>D.</p>
+                        </td>
+                        <td colspan="6">
+                            <p>Claimant’s details and special requirements</p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td>
+                            <p>4.</p>
+                        </td>
+                        <td></td>
+                        <td colspan="4" class="leaders_.">The Claimant’s relationship with the
+                            Respondent is </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td colspan="4" class="leaders_."></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td colspan="4">
+                            <p><i xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">[e.g. employee
+                                    /
+                                    former employee
+                                    /
+                                    co-employee
+                                    /
+                                    customer]
+                                </i></p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td>
+                            <p>5.</p>
+                        </td>
+                        <td></td>
+                        <td colspan="4">
+                            <p>The Claimant is [*18 years old or above
+                                /
+                                under
+                                18 years old].</p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td colspan="2">
+                            <p class="align_right">[*6.</p>
+                        </td>
+                        <td></td>
+                        <td colspan="4" class="leaders_.">The Claimant’s first language is</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td colspan="2"></td>
+                        <td></td>
+                        <td colspan="4" class="leaders_.">The Claimant requires an interpreter at
+                            the hearing in</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td colspan="2"></td>
+                        <td></td>
+                        <td colspan="4" class="leaders_."></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td colspan="2"></td>
+                        <td></td>
+                        <td colspan="4">
+                            <p><i xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">[Specify
+                                    language.]</i>]</p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td colspan="2">
+                            <p class="align_right">[*7.</p>
+                        </td>
+                        <td></td>
+                        <td colspan="4" class="leaders_.">The Claimant has the following special
+                            requirements for the hearing:</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td colspan="2"></td>
+                        <td></td>
+                        <td colspan="4">
+                            <p><i xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"> [Give details of
+                                    the special requirements that enable the hearing of this matter
+                                    to proceed in the Court (e.g. an anonymity order, a wheelchair
+                                    access, a hearing loop, sign language interpreting services, the
+                                    presence of personal assistant or carer).]</i>]</p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td colspan="2">
+                            <p class="align_right">[*8.</p>
+                        </td>
+                        <td></td>
+                        <td colspan="4" class="leaders_.">Details of representative:</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td colspan="2"></td>
+                        <td></td>
+                        <td colspan="4">
+                            <p><i xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"> [</i><term xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Representative</term>
+                                <i xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">means the person
+                                    who will act for the Claimant in appearing in, conducting,
+                                    defending and addressing the Court in, any proceeding in the
+                                    Court in relation to this claim. He or she may be a lawyer or a
+                                    person who is not a lawyer but is an eligible person under
+                                        <ref>rule 6</ref> of the District Court Equal Opportunities
+                                    Rules
+                                    </i><i xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="/hk/cap336G">Cap. 336 sub. leg.
+                                    G</ref>)</i><i xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">. The details
+                                    required include his or her name and role
+                                    (</i><i xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">e.g. a member of
+                                    the Equal Opportunities Commission, an office bearer of a
+                                    registered trade union, a carer or an associate of the
+                                    Claimant)</i><i xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">.]</i>]</p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="8">
+                            <p>Date: <fillIn xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class=" width_120">.</fillIn></p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="8">
+                            <p><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><fillIn xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class=" width_148">.</fillIn></p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="8">
+                            <p>Signed by <i xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">[Name]
+                                </i></p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="8">
+                            <p><i xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">[Insert capacity: Claimant
+                                    /
+                                    Solicitors
+                                    acting for the Claimant] </i></p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="8">
+                            <p><i xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">[Signed if this
+                                    Notice of Claim is indorsed.]</i></p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="8">
+                            <p class="left_indent_0 first_line_indent_36">#This claim must be
+                                verified by a statement of truth in accordance with Order 41A of the
+                                Rules of the District Court (<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap336H">Cap. 336 sub. leg. H</ref>).</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="8" class="leaders_."></td>
+                    </tr>
+                    <tr>
+                        <td colspan="8" class="left_indent_36 leaders_."><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>THIS
+                            CLAIM was issued by</td>
+                    </tr>
+                    <tr>
+                        <td colspan="8" class="leaders_.">of</td>
+                    </tr>
+                    <tr>
+                        <td colspan="8" class="leaders_.">Solicitors for the Claimant, whose address
+                            is</td>
+                    </tr>
+                    <tr>
+                        <td colspan="8" class="leaders_."></td>
+                    </tr>
+                    <tr>
+                        <td colspan="8" class="leaders_."></td>
+                    </tr>
+                    <tr>
+                        <td colspan="8">
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <p>OR if the Claimant sues in person:</p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="8" class="left_indent_36 leaders_.">THIS CLAIM was issued by
+                            the Claimant who resides at</td>
+                    </tr>
+                    <tr>
+                        <td colspan="8" class="leaders_."></td>
+                    </tr>
+                    <tr>
+                        <td colspan="8" class="leaders_."></td>
+                    </tr>
+                    <tr>
+                        <td colspan="8" class="leaders_.">and (if the Claimant does not reside
+                            within the jurisdiction) whose address for service is</td>
+                    </tr>
+                    <tr>
+                        <td colspan="8" class="leaders_."></td>
+                    </tr>
+                    <tr>
+                        <td colspan="8" class="leaders_. left_indent_36"><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>THIS
+                            CLAIM was issued against the Respondent who resides at </td>
+                    </tr>
+                    <tr>
+                        <td colspan="8" class="leaders_."></td>
+                    </tr>
+                    <tr>
+                        <td colspan="8" class="leaders_."></td>
+                    </tr>
+                    <tr>
+                        <td colspan="8" class="leaders_. align_justified">and (if the Respondent
+                            does not reside within the jurisdiction) whose address for service
+                            is</td>
+                    </tr>
+                    <tr>
+                        <td colspan="8" class="leaders_."></td>
+                    </tr>
+                    <tr>
+                        <td colspan="1">
+                            <p>*</p>
+                        </td>
+                        <td colspan="7">
+                            <p>
+                                <i xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"> Delete words
+                                    after asterisk in square brackets if inapplicable. </i></p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p>#</p>
+                        </td>
+                        <td colspan="7">
+                            <p><i xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Please refer to
+                                    Order 41A, <ref>rule 5(1)</ref></i>
+                                <i xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">of the Rules of
+                                    the District Court
+                                    (</i><i xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"><ref href="/hk/cap336H">Cap. 336 sub. leg.
+                                    H</ref>)
+                                    </i><i xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">for the form of
+                                    the statement of truth. An example is given below: </i></p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td colspan="7">
+                            <quotedText xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"> “<i>I believe
+                                    /
+                                    The
+                                    Claimant believes that the facts stated in this Notice of Claim
+                                    are true.</i>”<i>.</i></quotedText>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </text><crossHeading class="align_center"><fillIn class="width_57"><inline class="not_bold">__________</inline></fillIn></crossHeading><crossHeading class="align_center"><b>Form 2</b></crossHeading><text class="align_center">(<ref>Rule
+                8(1)</ref>)<marker role="blank-line"></marker><marker role="blank-line"></marker></text><text class="align_right">DCEO
+                <fillIn class=" width_105">.</fillIn>
+            /
+            20
+                <fillIn class=" width_30">.</fillIn><marker role="blank-line"></marker><marker role="blank-line"></marker></text><text class="align_center"><b>IN THE DISTRICT COURT OF THE</b><br></br><b>HONG KONG SPECIAL
+                ADMINISTRATIVE REGION</b><br></br><b>EQUAL OPPORTUNITIES ACTION NO.
+                .......................... OF
+            20.......</b><marker role="blank-line"></marker><marker role="blank-line"></marker></text><text>
+            <table xmlns="http://www.w3.org/1999/xhtml">
+                <col width="3.5%"></col>
+                <col width="46.5%"></col>
+                <col width="12%"></col>
+                <col width="34.5%"></col>
+                <col width="3.5%"></col>
+                <tbody>
+                    <tr>
+                        <td colspan="3">
+                            <p>Between</p>
+                        </td>
+                        <td colspan="2">
+                            <p class="align_right">Claimant</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="3"></td>
+                        <td colspan="2"></td>
+                    </tr>
+                    <tr>
+                        <td colspan="5">
+                            <p class="align_center">AND</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="5"></td>
+                    </tr>
+                    <tr>
+                        <td colspan="3"></td>
+                        <td colspan="2">
+                            <p class="align_right">Respondent</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="5">
+                            <p class="align_center"><i xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"><b>Notice to
+                                        Respondent</b></i></p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2" class="leaders_.">To</td>
+                        <td colspan="3" class="leaders_.">of</td>
+                    </tr>
+                    <tr>
+                        <td colspan="5">
+                            <p><i xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">[Name and address
+                                    of the Respondent]</i></p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="5">
+                            <p>TAKE NOTICE that, if you wish to oppose the claim of which a copy is
+                                served on you, you must file with this Court, within 28 days after
+                                the service of this notice on you, a written response to it
+                                containing a concise statement of the extent and grounds of your
+                                opposition and serve on the Claimant a copy of the written
+                                response.</p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="5">
+                            <p>AND FURTHER TAKE NOTICE that <fillIn xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class=" width_106">.</fillIn> the <fillIn xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class=" width_72">.</fillIn> day of <fillIn xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class=" width_52">.</fillIn> 20<fillIn xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class=" width_36">.</fillIn> at <fillIn xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class=" width_36">.</fillIn> [*a.m./p.m.], or so soon after that time as the
+                                claim can be heard, at the <fillIn xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class=" width_120">.</fillIn> at <fillIn xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class=" width_108">.</fillIn> has been fixed as the time and
+                                place for the hearing of the claim and that in default of your
+                                filing with this Court within the above-mentioned period a written
+                                response as required in this notice, or of your appearing at the
+                                above-mentioned time and place fixed for the hearing of the claim,
+                                this Court may make an order under <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">rule 13</ref> or
+                                    <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">14</ref> of
+                                the District Court Equal Opportunities Rules (<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap336G">Cap. 336 sub. leg. G</ref>).</p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="5">
+                            <p>Dated this <fillIn xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class=" width_72">.</fillIn> day of <fillIn xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class=" width_72">.</fillIn> 20<fillIn xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class=" width_24">.</fillIn></p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td colspan="3" class="leaders_."></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td colspan="3">
+                            <p class="align_center">District Court</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p>*</p>
+                        </td>
+                        <td colspan="4">
+                            <p><i xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Delete words after
+                                    asterisk in square brackets if inapplicable.</i></p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </text><crossHeading class="align_center"><fillIn class="width_57"><inline class="not_bold">__________</inline></fillIn></crossHeading><crossHeading class="align_center"><b>Form 3</b></crossHeading><text class="align_center">(<ref>Rule
+                10(1)(a)</ref>)<marker role="blank-line"></marker><marker role="blank-line"></marker></text><text class="align_right">DCEO <fillIn class=" width_105">.</fillIn>
+            /
+            20
+                <fillIn class=" width_30">.</fillIn><marker role="blank-line"></marker><marker role="blank-line"></marker></text><text class="align_center"><b>IN THE DISTRICT COURT OF THE</b><br></br><b>HONG KONG SPECIAL
+                ADMINISTRATIVE REGION</b><br></br><b>EQUAL OPPORTUNITIES ACTION NO.
+                .......................... OF
+            20.......</b><marker role="blank-line"></marker><marker role="blank-line"></marker><marker role="section-break"></marker></text><text>
+            <table xmlns="http://www.w3.org/1999/xhtml">
+                <col width="3.5%"></col>
+                <col width="6.95%"></col>
+                <col width="6.97%"></col>
+                <col width="22.58%"></col>
+                <col width="56.5%"></col>
+                <col width="3.5%"></col>
+                <tbody>
+                    <tr>
+                        <td colspan="4">
+                            <p>Between</p>
+                        </td>
+                        <td colspan="2">
+                            <p class="align_right">Claimant</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="4"></td>
+                        <td colspan="2"></td>
+                    </tr>
+                    <tr>
+                        <td colspan="6">
+                            <p class="align_center">AND</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="6"></td>
+                    </tr>
+                    <tr>
+                        <td colspan="4"></td>
+                        <td colspan="2">
+                            <p class="align_right">Respondent</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="6">
+                            <p class="align_center"><i xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"><b>Notice of Response</b></i></p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                            <p>A.</p>
+                        </td>
+                        <td colspan="4">
+                            <p>Details of response</p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2"></td>
+                        <td colspan="1">
+                            <p>1.</p>
+                        </td>
+                        <td colspan="3">
+                            <p>For the Claimant’s claim, the details of the Respondent’s response are as follows:</p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2"></td>
+                        <td colspan="1"></td>
+                        <td colspan="3" class="leaders_."></td>
+                    </tr>
+                    <tr>
+                        <td colspan="2"></td>
+                        <td colspan="1"></td>
+                        <td colspan="3">
+                            <p><i xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"> [State here whether the Respondent admits or denies the descriptions of the alleged unlawful act/acts the Claimant is complaining of. For denial, the Respondent must set out in full the grounds of denial.] </i></p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                            <p>B.</p>
+                        </td>
+                        <td colspan="4">
+                            <p>Legislation</p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2"></td>
+                        <td colspan="1">
+                            <p>2.</p>
+                        </td>
+                        <td colspan="3" class="leaders_."></td>
+                    </tr>
+                    <tr>
+                        <td colspan="2"></td>
+                        <td colspan="1"></td>
+                        <td colspan="3">
+                            <p><i xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"> [The Respondent must state here whether the Ordinance/Ordinances referred to by the Claimant is/are not applicable to the Claimant’s claim.] </i></p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                            <p>C.</p>
+                        </td>
+                        <td colspan="4">
+                            <p>Response to the remedies or reliefs claimed by the Claimant</p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2"></td>
+                        <td colspan="1">
+                            <p>3.</p>
+                        </td>
+                        <td colspan="3" class="leaders_."></td>
+                    </tr>
+                    <tr>
+                        <td colspan="2"></td>
+                        <td colspan="1"></td>
+                        <td colspan="3">
+                            <p><i xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"> [The Respondent must set out in full the grounds on which the remedies or reliefs are denied, or the grounds of rejecting any question to be determined.] </i></p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                            <p>D.</p>
+                        </td>
+                        <td colspan="4">
+                            <p>Response to the Claimant’s details and special requirements</p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2"></td>
+                        <td colspan="1">
+                            <p>4.</p>
+                        </td>
+                        <td colspan="3" class="leaders_."></td>
+                    </tr>
+                    <tr>
+                        <td colspan="2"></td>
+                        <td colspan="1"></td>
+                        <td colspan="3">
+                            <p><i xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"> [The Respondent must respond in relation to the Claimant’s relationship with the Respondent and state the Respondent’s position in relation to the Claimant’s special requirements (if any).]</i></p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="4" class="leaders_.">Date:</td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td colspan="4">
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                        <td>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td colspan="4" class="leaders_."></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td colspan="4">
+                            <p>Signed by <i xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">[Name]</i></p>
+                        </td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td colspan="6">
+                            <p><i xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">[Insert capacity: Respondent
+                                    /
+                                    Solicitors acting for the Respondent]</i></p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="6">
+                            <p><i xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">[Signed if this Notice of Response is indorsed.]</i></p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="6">
+                            <p class="left_indent_0 first_line_indent_36">#This response must be verified by a statement of truth in accordance with Order 41A of the Rules of the District Court (<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap336H">Cap. 336 sub. leg. H</ref>).</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="6" class="leaders_."></td>
+                    </tr>
+                    <tr>
+                        <td colspan="6" class="leaders_. left_indent_36"><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>THIS RESPONSE was issued by</td>
+                    </tr>
+                    <tr>
+                        <td colspan="6" class="leaders_.">of</td>
+                    </tr>
+                    <tr>
+                        <td colspan="6" class="leaders_.">Solicitors for the Respondent, whose address is</td>
+                    </tr>
+                    <tr>
+                        <td colspan="6" class="leaders_."></td>
+                    </tr>
+                    <tr>
+                        <td colspan="6" class="leaders_."></td>
+                    </tr>
+                    <tr>
+                        <td colspan="6">
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <p>OR if the Respondent is acting in person:</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="6" class="leaders_. left_indent_36">THIS RESPONSE was issued by the Respondent who resides at</td>
+                    </tr>
+                    <tr>
+                        <td colspan="6" class="leaders_."></td>
+                    </tr>
+                    <tr>
+                        
+                        <td colspan="6" class="leaders_. align_justified">and (if the Respondent does not reside within the jurisdiction) whose address for service is</td>
+                    </tr>
+                    <tr>
+                        <td colspan="6" class="leaders_."></td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <p>#</p>
+                        </td>
+                        <td colspan="5">
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <p><i xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Please refer to Order 41A, <ref>rule 5(1)</ref></i>
+                                <i xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">of the Rules of the District Court </i>(<i xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"><ref href="/hk/cap336H">Cap. 336 sub. leg. H</ref></i>) <i xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">for the form of the statement of truth. An example is given below: </i></p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td colspan="5">
+                            <quotedText xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"> “<i>I believe
+                                    /
+                                    The Respondent believes that the facts stated in this Notice of Response are true.</i>” <i>.</i></quotedText>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </text><crossHeading class="align_center"><fillIn class="width_57"><inline class="not_bold">__________</inline></fillIn></crossHeading><crossHeading><b>Form
+                4</b></crossHeading><text class="align_center">(<ref>Rules 9(1)(a)</ref> and
+                <ref>11(1)(a)</ref>)<marker role="blank-line"></marker><marker role="blank-line"></marker></text><text class="align_right">DCEO <fillIn class=" width_105">.</fillIn>
+            /
+            20
+                <fillIn class=" width_30">.</fillIn><marker role="blank-line"></marker><marker role="blank-line"></marker></text><text class="align_center"><b>IN THE DISTRICT COURT OF THE</b><br></br><b>HONG KONG SPECIAL
+                ADMINISTRATIVE REGION</b><br></br><b>EQUAL OPPORTUNITIES ACTION NO.
+                .......................... OF
+            20.......</b><marker role="blank-line"></marker><marker role="blank-line"></marker></text><text>
+            <table xmlns="http://www.w3.org/1999/xhtml">
+                <col width="48%"></col>
+                <col width="26%"></col>
+                <col width="22.5%"></col>
+                <col width="3.5%"></col>
+                <tbody>
+                    <tr>
+                        <td colspan="2">
+                            <p>Between</p>
+                        </td>
+                        <td colspan="2">
+                            <p class="align_right">Claimant</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="4"></td>
+                    </tr>
+                    <tr>
+                        <td colspan="4">
+                            <p class="align_center">AND</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="4"></td>
+                    </tr>
+                    <tr>
+                        <td colspan="2"></td>
+                        <td colspan="2">
+                            <p class="align_right">Respondent</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="4">
+                            <p class="align_center"><i xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"><b>Notice of
+                                        Request for Further Particulars</b></i></p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2" class="leaders_.">To</td>
+                        <td colspan="2" class="leaders_.">of </td>
+                    </tr>
+                    <tr>
+                        <td colspan="4">
+                            <p><i xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">[Name and address
+                                    of the Claimant or Respondent, as may be appropriate]</i></p>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    
+                    
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    
+                    
+                    <tr>
+                        <td colspan="4">
+                            <p>TAKE NOTICE that you are requested to reply to me in writing to the
+                                following questions:</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="4" class="leaders_."></td>
+                    </tr>
+                    <tr>
+                        <td colspan="4">
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <p>Dated this <fillIn xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class=" width_41">.</fillIn> day of <fillIn xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class=" width_54">.</fillIn> 20<fillIn xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class=" width_24">.</fillIn>
+                            </p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td colspan="3" class="leaders_."></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td colspan="3" class="leaders_."></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td colspan="3" class="leaders_."></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td colspan="3" class="align_center">
+                            <p><i xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">[Signature and
+                                    address of the person
+                                    </i><br xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"></br><i xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">making the
+                                    request]</i></p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </text><sourceNote>(<ref href="/hk/2014/ln86">L.N. 86 of
+        2014</ref>)</sourceNote></appendix></main></subLeg>

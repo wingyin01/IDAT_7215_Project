@@ -1,0 +1,1338 @@
+<?xml version="1.0" encoding="UTF-8"?><subLeg xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd" xml:lang="en"><meta><docName>Cap. 571 sub. leg. Y</docName><docType>cap</docType><docNumber>571Y</docNumber><docStatus>In effect</docStatus><dc:identifier>/hk/cap571Y!en</dc:identifier><dc:date>2025-07-02</dc:date><dc:subject>legislation</dc:subject><dc:language>en</dc:language><dc:publisher>DoJ</dc:publisher><dc:rights>the Government of the Hong Kong Special Administrative Region</dc:rights></meta><main xml:lang="en" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd"><docTitle id="ID_1438403477703_001" name="shortTitle" reason="inEffect" status="operational" temporalId="shortTitle" startPeriod="2012-02-09">Securities and Futures (Contracts
+            Limits and Reportable Positions) Rules</docTitle><enactingFormula role="empoweringSection">(<ref>Cap.
+                571, section 35(1)</ref>)</enactingFormula><sourceNote>(Enacting provision omitted—<ref href="/hk/2012/er1">E.R. 1 of
+            2012</ref>)<marker role="blank-line"></marker><marker role="blank-line"></marker></sourceNote><commencementNote>[1 April 2003]<sourceNote><inline class="width_3"> </inline><ref href="/hk/2003/ln12">L.N. 12 of 2003</ref></sourceNote></commencementNote><sourceNote>(Format changes—<ref href="/hk/2012/er1">E.R. 1 of 2012</ref>)</sourceNote><section id="ID_1438403477703_003" name="s1" reason="omittedAsSpent" startPeriod="2012-02-09" status="omitted" temporalId="s1"><num value="1">1.</num><sourceNote>(Omitted as spent—<ref href="/hk/2012/er1">E.R. 1 of 2012</ref>)</sourceNote></section><section id="ID_1438403477718_001" name="s2" reason="inEffect" startPeriod="2023-12-22" status="operational" temporalId="s2"><num value="2">2.</num><heading>Interpretation</heading><subsection id="ID_1438413503087_004" name="1" temporalId="s2_1"><num value="1">(1)</num><leadIn>In these Rules, unless the context otherwise requires—</leadIn><def name="AdequateFinancialCapability">
+                <leadIn><term>adequate financial capability</term> (<term xml:lang="zh-Hant-HK">充足財政能力</term>)—</leadIn>
+                <paragraph id="ID_1493107994703_001" name="a" temporalId="s2_1_a"><num value="a">(a)</num><leadIn>in relation to a clearing participant—means any of the clearing
+                        participant or its holding company having—</leadIn><subparagraph id="ID_1699517401866_001" name="1" temporalId="s2_1_a_1"><num value="1">(i)</num><content>a net asset value of not less than $5 billion as set out in its
+                            latest audited financial statements; or</content></subparagraph><subparagraph id="ID_1699517401867_002" name="2" temporalId="s2_1_a_2"><num value="2">(ii)</num><content>a qualifying credit rating; and</content></subparagraph></paragraph>
+                <paragraph name="a" temporalId="s2_1_a" id="ID_1699517401868_003"><num value="a">(b)</num><leadIn>in relation to an exchange participant or an affiliate of an exchange
+                        participant—means any one of the exchange participant, the affiliate of the
+                        exchange participant or their holding company having—</leadIn><subparagraph id="ID_1699517401869_004" name="1" temporalId="s2_1_a_1"><num value="1">(i)</num><content>a net asset value of not less than $5 billion as set out in its
+                            latest audited financial statements; or</content></subparagraph><subparagraph id="ID_1699517401870_005" name="2" temporalId="s2_1_a_2"><num value="2">(ii)</num><content>a qualifying credit rating; <sourceNote>(<ref href="hk/2023/ln149">L.N. 149 of 2023</ref>)</sourceNote></content></subparagraph></paragraph>
+            </def><def name="Affiliate"><term>affiliate</term> (<term xml:lang="zh-Hant-HK">聯屬公司</term>),
+                in relation to an exchange participant, means any corporation belonging to the same
+                group of companies as the exchange participant; <sourceNote>(<ref href="hk/2017/ln44">L.N. 44 of 2017</ref>)</sourceNote></def><def name="ConstitutiveDocuments"><term>constitutive documents</term> (<term xml:lang="zh-Hant-HK">組成文件</term>), in relation to a
+                fund,
+                means the principal documents governing the establishment of the
+                fund;
+                        <sourceNote>(<ref href="hk/2015/ln228">L.N. 228 of
+                    2015</ref>; <ref href="hk/2023/ln149">L.N. 149 of
+                    2023</ref>)</sourceNote></def><def name="ContractMultiplier">
+                <leadIn><term>contract multiplier</term> (<term xml:lang="zh-Hant-HK">合約乘數</term>)—</leadIn>
+                <paragraph name="a" temporalId="s2_1_a" id="ID_1699517402112_006"><num value="a">(a)</num><content>in relation to a stock index futures contract or a stock index options
+                        contract specified in item 4, 5 or 21 in Schedule 1 that has an index as an
+                        underlying index—means the cash value of one point of the index or otherwise
+                        as specified by the Futures Exchange Company to be the “contract multiplier”
+                        for the contract in its contract specifications set out in the rules of the
+                        Futures Exchange Company; or</content></paragraph>
+                <paragraph name="b" temporalId="s2_1_b" id="ID_1699517402113_007"><num value="b">(b)</num><content>in relation to a stock index futures options contract specified in item
+                        4, 5 or 21 in Schedule 1 that has a stock index futures contract as an
+                        underlying contract—means the cash value of one point of the stock index
+                        futures contract’s underlying index or otherwise as specified by the Futures
+                        Exchange Company to be the “contract multiplier” for the stock index futures
+                        options contract in its contract specifications set out in the rules of the
+                        Futures Exchange Company; <sourceNote>(<ref href="hk/2023/ln149">L.N. 149 of
+                                2023</ref>)</sourceNote></content></paragraph>
+            </def><def name="ExchangeTradedFund"><term>exchange traded fund</term> (<term xml:lang="zh-Hant-HK">交易所買賣基金</term>) means an open-ended
+                fund
+                the shares or units of which are listed or traded on a recognized stock market;
+                        <sourceNote>(<ref href="hk/2015/ln228">L.N. 228 of
+                    2015</ref>; <ref href="hk/2023/ln149">L.N. 149 of
+                    2023</ref>)</sourceNote></def><def name="Fund"><term>fund</term> (<term xml:lang="zh-Hant-HK">基金</term>) means a
+                collective investment scheme; <sourceNote>(<ref href="hk/2023/ln149">L.N. 149 of
+                        2023</ref>)</sourceNote></def><def name="HKFECC"><term>HKFECC</term> (<term xml:lang="zh-Hant-HK">期貨結算公司</term>) means
+                the recognized clearing house known as HKFE Clearing Corporation Limited;
+                        <sourceNote>(<ref href="hk/2023/ln149">L.N. 149 of
+                2023</ref>)</sourceNote></def><def name="ListingRules"><term>Listing Rules</term> (《<term xml:lang="zh-Hant-HK">上市規則</term>》) means the Rules Governing the Listing of Securities on the Stock
+                Exchange of Hong Kong Limited made by the Stock Exchange Company;</def><def name="OfferingDocument">
+                <leadIn><term>offering document</term> (<term xml:lang="zh-Hant-HK">要約文件</term>), in
+                    relation to a
+                    fund,
+                    means a document—
+                    <sourceNote>(<ref href="hk/2023/ln149">L.N. 149 of
+                    2023</ref>)</sourceNote></leadIn>
+                <paragraph id="ID_1468295614541_001" name="a" temporalId="s2_1_a"><num value="a">(a)</num><content>inviting participation in the
+                        fund
+                        by prospective shareholders or prospective unit holders of the
+                        fund;
+                        and</content></paragraph>
+                <paragraph id="ID_1468295614541_002" name="b" temporalId="s2_1_b"><num value="b">(b)</num><content>containing information relating to the establishment or administration
+                        of the
+                        fund;
+                                <sourceNote>(<ref href="hk/2015/ln228">L.N. 228 of
+                            2015</ref>; <ref href="hk/2023/ln149">L.N. 149 of
+                            2023</ref>)</sourceNote></content></paragraph>
+            </def><def name="OpenendedFund">
+                <leadIn><term>open-ended fund</term> (<term xml:lang="zh-Hant-HK">開放式基金</term>)
+                    means a fund the shares or units of which may be repurchased or redeemed at the
+                    request of any of its shareholders or unit holders—</leadIn>
+                <paragraph name="a" temporalId="s2_1_a" id="ID_1699517402387_008"><num value="a">(a)</num><content>at a price calculated wholly or mainly by reference to the net asset
+                        value of the fund; and</content></paragraph>
+                <paragraph name="b" temporalId="s2_1_b" id="ID_1699517402388_009"><num value="b">(b)</num><content>in accordance with the frequency for repurchase or redemption,
+                        requirements and procedures set out in the offering document or constitutive
+                        documents of the fund; <sourceNote>(<ref href="hk/2023/ln149">L.N. 149 of
+                                2023</ref>)</sourceNote></content></paragraph>
+            </def><def name="PrescribedLimit"><term>prescribed limit</term> (<term xml:lang="zh-Hant-HK">訂明上限</term>), in relation to a futures contract or a stock options contract,
+                means the limit on the number of contracts prescribed for it under <ref>section
+                    5</ref>;</def><def name="ReportablePosition"><term>reportable position</term> (<term xml:lang="zh-Hant-HK">須申報的持倉量</term>) means an open position in futures
+                contracts or stock options contracts the number of which is in excess of the
+                reporting level of such a contract; <sourceNote>(<ref href="hk/2023/ln149">L.N. 149
+                        of 2023</ref>)</sourceNote></def><def name="ReportingLevel">
+                <leadIn><term>reporting level</term> (<term xml:lang="zh-Hant-HK">須申報水平</term>)
+                    means—</leadIn>
+                <paragraph name="a" temporalId="s2_1_a" id="ID_1699517402422_010"><num value="a">(a)</num><content>in the case of a futures contract specified in column 2 of Schedule
+                        1—the number of contracts specified opposite to it in column 4 of that
+                        Schedule; and</content></paragraph>
+                <paragraph name="b" temporalId="s2_1_b" id="ID_1699517402423_011"><num value="b">(b)</num><content>in the case of a stock options contract specified in column 2 of
+                        Schedule 2—the number of contracts specified opposite to it in column 4 of
+                        that Schedule; <sourceNote>(<ref href="hk/2023/ln149">L.N. 149 of
+                            2023</ref>)</sourceNote></content></paragraph>
+            </def><def name="SchemeProperty"><term>scheme property</term> (<term xml:lang="zh-Hant-HK">計劃財產</term>), in relation to a fund, means the property under the fund;
+                        <sourceNote>(<ref href="hk/2023/ln149">L.N. 149 of
+                2023</ref>)</sourceNote></def><def name="SEOCH"><term>SEOCH</term> (<term xml:lang="zh-Hant-HK">期權結算公司</term>) means
+                the recognized clearing house known as The SEHK Options Clearing House Limited;
+                        <sourceNote>(<ref href="hk/2023/ln149">L.N. 149 of
+                2023</ref>)</sourceNote></def><def name="SpecifiedContract">
+                <leadIn><term>specified contract</term> (<term xml:lang="zh-Hant-HK">指明合約</term>)
+                    means—</leadIn>
+                <paragraph id="ID_1493107995031_003" name="a" temporalId="s2_1_a"><num value="a">(a)</num><leadIn>a stock index futures contract that has one of the following indices as
+                        an underlying index—</leadIn><subparagraph id="ID_1699517402472_012" name="1" temporalId="s2_1_a_1"><num value="1">(i)</num><content>Hang Seng Index;</content></subparagraph><subparagraph id="ID_1699517402473_013" name="2" temporalId="s2_1_a_2"><num value="2">(ii)</num><content>Hang Seng Index (Gross Total Return Index);</content></subparagraph><subparagraph id="ID_1699517402474_014" name="3" temporalId="s2_1_a_3"><num value="3">(iii)</num><content>Hang Seng Index (Net Total Return Index);</content></subparagraph><subparagraph id="ID_1699517402475_015" name="4" temporalId="s2_1_a_4"><num value="4">(iv)</num><content>Hang Seng China Enterprises Index;</content></subparagraph><subparagraph id="ID_1699517402476_016" name="5" temporalId="s2_1_a_5"><num value="5">(v)</num><content>Hang Seng China Enterprises Index (Gross Total Return
+                            Index);</content></subparagraph><subparagraph id="ID_1699517402476_017" name="6" temporalId="s2_1_a_6"><num value="6">(vi)</num><content>Hang Seng China Enterprises Index (Net Total Return
+                            Index);</content></subparagraph><subparagraph id="ID_1699517402477_018" name="7" temporalId="s2_1_a_7"><num value="7">(vii)</num><content>Hang Seng TECH Index;</content></subparagraph><subparagraph id="ID_1699517402478_019" name="8" temporalId="s2_1_a_8"><num value="8">(viii)</num><content>Hang Seng TECH Index (Gross Total Return Index);</content></subparagraph><subparagraph id="ID_1699517402479_020" name="9" temporalId="s2_1_a_9"><num value="9">(ix)</num><content>Hang Seng TECH Index (Net Total Return Index);</content></subparagraph></paragraph>
+                <paragraph id="ID_1493107995031_004" name="b" temporalId="s2_1_b"><num value="b">(b)</num><content>a stock index options contract that has one of the indices referred to
+                        in paragraph (a)(i), (ii), (iii), (iv), (v), (vi), (vii), (viii) and (ix) as
+                        an underlying index; or</content></paragraph>
+                <paragraph name="b" temporalId="s2_1_b" id="ID_1699517402480_021"><num value="b">(c)</num><content>a stock index futures options contract that has a stock index futures
+                        contract referred to in paragraph (a) as an underlying contract;
+                                <sourceNote>(<ref href="hk/2023/ln149">L.N. 149 of
+                            2023</ref>)</sourceNote></content></paragraph>
+            </def><def name="SpecifiedPercentage"><term>specified percentage</term> (<term xml:lang="zh-Hant-HK">指明百分率</term>) means 300%;
+                <sourceNote>(<ref href="hk/2017/ln44">L.N. 44 of
+                    2017</ref>; <ref href="hk/2023/ln149">L.N. 149 of
+                    2023</ref>)</sourceNote></def><def name="StockIndexFuturesOptionsContract"><term>stock index futures options
+                    contract</term> (<term xml:lang="zh-Hant-HK">股票指數期貨期權合約</term>) means a stock
+                index options contract that has a stock index futures contract as an underlying
+                contract; <sourceNote>(<ref href="hk/2023/ln149">L.N. 149 of
+                    2023</ref>)</sourceNote></def><def name="Subfund"><term>sub-fund</term> (<term xml:lang="zh-Hant-HK">子基金</term>), in
+                relation to an umbrella fund, means a separate part of the scheme property of the
+                umbrella fund where assets of the part belong exclusively to the part and can be
+                used to discharge the liabilities of, or the claims against, the part only;
+                        <sourceNote>(<ref href="hk/2023/ln149">L.N. 149 of
+                2023</ref>)</sourceNote></def><def name="UmbrellaFund"><term>umbrella fund</term> (<term xml:lang="zh-Hant-HK">傘子基金</term>) means a fund the constitutive documents of which provide for the
+                division of its scheme property into separate parts. <sourceNote>(<ref href="hk/2023/ln149">L.N. 149 of 2023</ref>)</sourceNote></def><sourceNote>(<ref href="/hk/2012/9">9 of 2012 s.
+                55</ref>; <ref href="hk/2023/ln149">L.N. 149 of
+                2023</ref>)</sourceNote></subsection><subsection id="ID_1438413503102_033" name="2" temporalId="s2_2"><num value="2">(2)</num><content>For the purposes of these Rules, a reference to control, in relation to futures
+                contracts or stock options contracts,
+                is
+                to be construed as a reference to control of such futures
+                contracts or stock options contracts, either directly or indirectly.
+                <sourceNote>(<ref href="hk/2023/ln149">L.N. 149 of
+                2023</ref>)</sourceNote></content></subsection><subsection name="2" temporalId="s2_2" id="ID_1699517402753_022"><num value="2">(3)</num><content>For the purposes of these Rules, each sub-fund of an umbrella fund is to be
+                regarded as separate from the umbrella fund and any of the other sub-funds of the
+                umbrella fund. <sourceNote>(<ref href="hk/2023/ln149">L.N. 149 of
+                    2023</ref>)</sourceNote></content></subsection><subsection name="2" temporalId="s2_2" id="ID_1699517402770_023"><num value="2">(4)</num><content>For the purposes of these Rules, a unit holder of a fund constituted as a trust
+                is not to be regarded, only by virtue of the unit holder holding one or more units
+                in the fund, as holding or controlling futures contracts or stock options contracts
+                in respect of the fund. <sourceNote>(<ref href="hk/2023/ln149">L.N. 149 of
+                        2023</ref>)</sourceNote></content></subsection></section><section id="ID_1438403477906_002" name="s3" reason="inEffect" startPeriod="2012-02-09" status="operational" temporalId="s3"><num value="3">3.</num><heading>Application</heading><content>These Rules apply to futures contracts and stock options contracts that are traded through the facilities of a recognized exchange company in accordance with the rules of the recognized exchange company.</content></section><section id="ID_1438403477921_002" name="s4" reason="inEffect" startPeriod="2023-12-22" status="operational" temporalId="s4"><num value="4">4.</num><heading>Restrictions on number of contracts held or controlled</heading><subsection id="ID_1438413503165_004" name="1" temporalId="s4_1"><num value="1">(1)</num><content>No person, other than a person referred to in subsections (2) and
+                (3),
+                may hold or control futures contracts or stock options contracts in excess of the
+                prescribed limit.
+                <sourceNote>(<ref href="hk/2017/ln44">L.N. 44 of
+                2017</ref>)</sourceNote></content></subsection><statutoryNote>
+            <paragraph name="0" temporalId="s4_1_0" id="ID_1703748591581_001"><content class="left_indent_60"><b>Note—</b><br></br>For funds, see also section 7A.
+                        <sourceNote class="font_size_11">(<ref href="hk/2023/ln149">L.N. 149 of
+                            2023</ref>)</sourceNote></content></paragraph>
+        </statutoryNote><subsection id="ID_1438413503165_012" name="2" temporalId="s4_2"><num value="2">(2)</num><content>A person specified in
+                section
+                4A
+                may be authorized under the rules of the recognized exchange company concerned to
+                hold or control futures contracts or stock options contracts in excess of the
+                prescribed limit.
+                <sourceNote>(<ref href="hk/2017/ln44">L.N. 44 of
+                2017</ref>)</sourceNote></content></subsection><subsection id="ID_1491812380739_001" name="3" temporalId="s4_3"><num value="3">(3)</num><content>A person may hold or control a futures contract or stock options contract in
+                excess of the prescribed limit if the person is authorized by the Commission to do
+                so under section 4B, 4C,
+                4D,
+                4E or
+                4F.
+                        <sourceNote>(<ref href="hk/2017/ln44">L.N. 44 of
+                    2017</ref>; <ref href="hk/2023/ln149">L.N. 149 of
+                    2023</ref>)</sourceNote></content></subsection><subsection id="ID_1491812380739_002" name="4" temporalId="s4_4"><num value="4">(4)</num><leadIn>The Commission may, under section 4B, 4C,
+                4D,
+                4E or
+                4F,
+                authorize a person to hold or control a futures contract or stock options contract
+                in excess of the prescribed limit—
+                <sourceNote>(<ref href="hk/2023/ln149">L.N. 149 of
+                2023</ref>)</sourceNote></leadIn><paragraph id="ID_1491812380739_003" name="a" temporalId="s4_4_a"><num value="a">(a)</num><content>except in circumstances where holding or controlling the excess for which
+                    authorization is sought may be authorized under the rules of the recognized
+                    exchange company concerned as referred to in subsection (2);</content></paragraph><paragraph id="ID_1491812380739_004" name="b" temporalId="s4_4_b"><num value="b">(b)</num><content>only if the Commission is satisfied that the excess would not be
+                    prejudicial to the interest of the investing public having regard to the
+                    prescribed limit and the liquidity of the futures contract or stock options
+                    contract in question; and</content></paragraph><paragraph id="ID_1491812380739_005" name="c" temporalId="s4_4_c"><num value="c">(c)</num><content>by giving the person a notice of authorization in writing.
+                            <sourceNote>(<ref href="hk/2017/ln44">L.N. 44 of
+                        2017</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1491812380739_006" name="5" temporalId="s4_5"><num value="5">(5)</num><leadIn>An authorization granted under section 4B, 4C,
+                4D,
+                4E or 4F—
+                <sourceNote>(<ref href="hk/2023/ln149">L.N. 149 of
+                2023</ref>)</sourceNote></leadIn><paragraph id="ID_1491812380739_007" name="a" temporalId="s4_5_a"><num value="a">(a)</num><content>subject to paragraph (b), is valid for the period (if any) that the
+                    Commission may specify in the notice of authorization given under subsection
+                    (4)(c);</content></paragraph><paragraph id="ID_1491812380739_008" name="b" temporalId="s4_5_b"><num value="b">(b)</num><content>may be withdrawn by the Commission, at any time, by at least 5 business
+                    days’ notice in writing to the person authorized and, where the person
+                    authorized is an affiliate of an exchange participant, also to the exchange
+                    participant; and</content></paragraph><paragraph id="ID_1491812380739_009" name="c" temporalId="s4_5_c"><num value="c">(c)</num><content>is subject to any reasonable conditions that the Commission may specify in
+                    the notice of authorization given under subsection (4)(c) and the Commission
+                    may, at any time, by at least 5 business days’ notice in writing to the person
+                    authorized and, where the person authorized is an affiliate of an exchange
+                    participant, also to the exchange participant, amend or revoke any condition or
+                    impose new conditions as may be reasonable in the circumstances.
+                            <sourceNote>(<ref href="hk/2017/ln44">L.N. 44 of
+                        2017</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438413503212_029" name="6" temporalId="s4_6"><num value="6">(6)-(10)</num><sourceNote>(Repealed <ref href="hk/2017/ln44">L.N. 44 of 2017</ref>)</sourceNote></subsection><subsection id="ID_1438413503290_018" name="11" temporalId="s4_11"><num value="11">(11)</num><sourceNote>(Added <ref href="/hk/2007/ln198">L.N. 198 of 2007</ref> and repealed <ref href="/hk/2007/ln241">L.N. 241 of 2007</ref>)</sourceNote></subsection></section><section id="ID_1491812547701_001" name="s4A" temporalId="s4A" startPeriod="2023-12-22" status="operational" reason="inEffect"><num value="4A">4A.</num><heading>Authorization
+            under rules of recognized exchange company to hold or control contracts in excess of
+            prescribed limit</heading><leadIn>A person who may be authorized for the purposes of section 4(2) is—</leadIn><paragraph id="ID_1491814075819_001" name="a" temporalId="s4A_a"><num value="a">(a)</num><content>a person registered with the Futures Exchange Company for the purpose of
+                performing market making or liquidity providing activities in respect of futures
+                contracts in accordance with its rules;</content></paragraph><paragraph id="ID_1491814075819_002" name="b" temporalId="s4A_b"><num value="b">(b)</num><leadIn>a person registered with the Stock Exchange Company for the purpose of
+                performing market making or liquidity providing activities, in accordance with its
+                rules—</leadIn><subparagraph id="ID_1491814075819_003" name="1" temporalId="s4A_b_1"><num value="1">(i)</num><content>in respect of stock options contracts; or</content></subparagraph><subparagraph id="ID_1491814075819_004" name="2" temporalId="s4A_b_2"><num value="2">(ii)</num><content>in respect of exchange traded funds, where the person holds or controls
+                    futures contracts or stock options contracts in the course of hedging the risks
+                    arising from performing market making or liquidity providing
+                    activities;</content></subparagraph></paragraph><paragraph id="ID_1491814075819_005" name="c" temporalId="s4A_c"><num value="c">(c)</num><content>an issuer of securities listed under Chapter 15A of the Listing Rules who holds
+                or controls futures contracts or stock options contracts in the course of hedging
+                the risks of positions previously acquired in such listed securities for the purpose
+                of performing liquidity providing activities in respect of such listed securities;
+                <sourceNote>(<ref href="hk/2023/ln149">L.N. 149 of
+                2023</ref>)</sourceNote></content></paragraph><paragraph id="ID_1491814075819_006" name="d" temporalId="s4A_d"><num value="d">(d)</num><content>a related corporation of an issuer of securities listed under Chapter 15A of
+                the Listing Rules, where the related corporation holds or controls futures contracts
+                or stock options contracts in the course of hedging the risks of positions
+                previously acquired in such listed securities for the purpose of performing
+                liquidity providing activities in respect of such listed
+                securities; or
+                <sourceNote>(<ref href="hk/2023/ln149">L.N. 149 of
+                2023</ref>)</sourceNote></content></paragraph><paragraph id="ID_1699340902492_001" name="b" temporalId="s4A_b"><num value="b">(e)</num><leadIn>a clearing participant of HKFECC or SEOCH that clears futures contracts or stock
+                options contracts for a person who is—</leadIn><subparagraph name="1" temporalId="s4A_b_1" id="ID_1699340902493_002"><num value="1">(i)</num><content>specified in paragraph (a), (b), (c) or (d); and</content></subparagraph><subparagraph name="2" temporalId="s4A_b_2" id="ID_1699340902494_003"><num value="2">(ii)</num><content>authorized under the rules of the recognized exchange company concerned to
+                    hold or control futures contracts or stock options contracts in excess of the
+                    prescribed limit. <sourceNote>(<ref href="hk/2023/ln149">L.N. 149 of
+                        2023</ref>)</sourceNote></content></subparagraph></paragraph></section><sourceNote>(<ref href="hk/2017/ln44">L.N. 44 of 2017</ref>)</sourceNote><section id="ID_1491814225438_001" name="s4B" temporalId="s4B" startPeriod="2017-06-01" status="operational" reason="inEffect"><num value="4B">4B.</num><heading>Authorization
+            by Commission to hold or control contracts in excess of prescribed limit in special
+            circumstances</heading><content>Subject to section 4(4)(a) and (b), the Commission may authorize a person to hold
+            or control a futures contract or stock options contract in excess of the prescribed
+            limit if the Commission is satisfied that there are special circumstances which warrant
+            the person holding or controlling the excess.</content><sourceNote>(<ref href="hk/2017/ln44">L.N. 44 of 2017</ref>)</sourceNote></section><section id="ID_1491815445271_001" name="s4C" temporalId="s4C" startPeriod="2017-06-01" status="operational" reason="inEffect"><num value="4C">4C.</num><heading>Authorization
+            by Commission to hold or control contracts in excess of prescribed limit for purposes of
+            facilitating provision of services to clients</heading><subsection id="ID_1491816140357_001" name="1" temporalId="s4C_1"><num value="1">(1)</num><content>Subject to subsection (2) and section 4(4)(a) and (b), the Commission may
+                authorize an exchange participant or an affiliate of an exchange participant to hold
+                or control a specified contract in excess of the prescribed limit by up to the
+                specified percentage.</content></subsection><subsection id="ID_1491816140357_002" name="2" temporalId="s4C_2"><num value="2">(2)</num><leadIn>The Commission must not authorize an exchange participant or an affiliate of an
+                exchange participant to hold or control a specified contract in excess of the
+                prescribed limit unless the exchange participant satisfies the Commission
+                that—</leadIn><paragraph id="ID_1491816140357_003" name="a" temporalId="s4C_2_a"><num value="a">(a)</num><content>the exchange participant or the affiliate (as the case may be) has a
+                    relevant business need for holding or controlling the excess for which
+                    authorization is sought;</content></paragraph><paragraph id="ID_1491816140357_004" name="b" temporalId="s4C_2_b"><num value="b">(b)</num><content>either the exchange participant or the affiliate has adequate financial
+                    capability to cover the potential risks arising from the excess; and</content></paragraph><paragraph id="ID_1491816140373_005" name="c" temporalId="s4C_2_c"><num value="c">(c)</num><content>the exchange participant has effective internal control procedures and risk
+                    management systems to manage the potential risks arising from the
+                    excess.</content></paragraph></subsection><subsection id="ID_1491816140373_006" name="3" temporalId="s4C_3"><num value="3">(3)</num><leadIn>In this section—</leadIn><def name="RelevantBusinessNeed"><term>relevant business need</term> (<term xml:lang="zh-Hant-HK">相關業務需要</term>), in
+                relation to an exchange participant or an affiliate of an exchange participant,
+                means a business need that requires the exchange participant or the affiliate to
+                engage in hedging activities to facilitate the provision of services to its
+                clients.</def></subsection><sourceNote>(<ref href="hk/2017/ln44">L.N. 44 of 2017</ref>)</sourceNote></section><section id="ID_1491816184718_001" name="s4D" temporalId="s4D" startPeriod="2017-06-01" status="operational" reason="inEffect"><num value="4D">4D.</num><heading>Authorization
+            by Commission to hold or control contracts in excess of prescribed limit for purposes of
+            index arbitrage activity</heading><subsection id="ID_1491816932643_001" name="1" temporalId="s4D_1"><num value="1">(1)</num><content>Subject to subsection (2) and section 4(4)(a) and (b), the Commission may
+                authorize an exchange participant or an affiliate of an exchange participant to hold
+                or control a specified contract in excess of the prescribed limit by up to the
+                specified percentage.</content></subsection><subsection id="ID_1491816932643_002" name="2" temporalId="s4D_2"><num value="2">(2)</num><leadIn>The Commission must not authorize an exchange participant or an affiliate of an
+                exchange participant to hold or control a specified contract in excess of the
+                prescribed limit unless the exchange participant satisfies the Commission
+                that—</leadIn><paragraph id="ID_1491816932643_003" name="a" temporalId="s4D_2_a"><num value="a">(a)</num><content>the exchange participant or the affiliate (as the case may be) engages in
+                    index arbitrage activities, and will, if authorization is granted, hold or
+                    control the excess for the purposes of those activities;</content></paragraph><paragraph id="ID_1491816932643_004" name="b" temporalId="s4D_2_b"><num value="b">(b)</num><content>either the exchange participant or the affiliate has adequate financial
+                    capability to cover the potential risks arising from the excess; and</content></paragraph><paragraph id="ID_1491816932643_005" name="c" temporalId="s4D_2_c"><num value="c">(c)</num><content>the exchange participant has effective internal control procedures and risk
+                    management systems to manage the potential risks arising from the
+                    excess.</content></paragraph></subsection><subsection id="ID_1491816932643_006" name="3" temporalId="s4D_3"><num value="3">(3)</num><leadIn>In this section—</leadIn><def name="IndexArbitrage">
+                <leadIn xml:lang="zh-Hant-HK"><term>index arbitrage</term> (<term xml:lang="zh-Hant-HK">指數套戥</term>), in relation to an exchange participant
+                    or an affiliate of an exchange participant, means a trading strategy engaged in
+                    by the exchange participant or the affiliate—</leadIn>
+                <paragraph id="ID_1491816932643_007" name="a" temporalId="s4D_3_a"><num value="a">(a)</num><leadIn>involving—</leadIn><subparagraph id="ID_1491816932643_008" name="1" temporalId="s4D_3_a_1"><num value="1">(i)</num><content>the purchase (or sale) of a stock index futures contract;
+                            or</content></subparagraph><subparagraph id="ID_1491816932643_009" name="2" temporalId="s4D_3_a_2"><num value="2">(ii)</num><content>the purchase (or sale) of a stock index call options contract
+                            together with the sale (or purchase) of a stock index put options
+                            contract, where both contracts have the same underlying index, expiry
+                            date and strike price;</content></subparagraph></paragraph>
+                <paragraph id="ID_1491816932643_010" name="b" temporalId="s4D_3_b"><num value="b">(b)</num><content>in conjunction with the sale (or purchase) of some or all of the stocks
+                        comprised in the underlying basket of stocks used to compile the index
+                        underlying the stock index futures contract or the stock index options
+                        contracts; and</content></paragraph>
+                <paragraph id="ID_1491816932643_011" name="c" temporalId="s4D_3_c"><num value="c">(c)</num><content>with a view to securing a profit from any difference in price between
+                        the stocks and the stock index futures contract or the stock index options
+                        contracts.</content></paragraph>
+            </def></subsection><sourceNote>(<ref href="hk/2017/ln44">L.N. 44 of 2017</ref>)</sourceNote></section><section id="ID_1491873029030_001" name="s4E" temporalId="s4E" startPeriod="2017-06-01" status="operational" reason="inEffect"><num value="4E">4E.</num><heading>Authorization
+            by Commission for asset manager to hold or control contracts in excess of prescribed
+            limit for purposes of asset management activity</heading><subsection id="ID_1491873590927_001" name="1" temporalId="s4E_1"><num value="1">(1)</num><content>Subject to subsection (2) and section 4(4)(a) and (b), the Commission may
+                authorize a person referred to in subsection (3) to hold or control a specified
+                contract in excess of the prescribed limit by up to the specified
+                percentage.</content></subsection><subsection id="ID_1491873590927_002" name="2" temporalId="s4E_2"><num value="2">(2)</num><leadIn>The Commission must not authorize a person referred to in subsection (3) to hold
+                or control a specified contract in excess of the prescribed limit unless the person
+                satisfies the Commission that—</leadIn><paragraph id="ID_1491873590927_003" name="a" temporalId="s4E_2_a"><num value="a">(a)</num><content>the person has a need for holding or controlling the excess for which
+                    authorization is sought, for the purposes of the asset management activity for
+                    which the person is licensed or registered; and</content></paragraph><paragraph id="ID_1491873590927_004" name="b" temporalId="s4E_2_b"><num value="b">(b)</num><content>the person has effective internal control procedures and risk management
+                    systems to manage the potential risks arising from the excess.</content></paragraph></subsection><subsection id="ID_1491873590927_005" name="3" temporalId="s4E_3"><num value="3">(3)</num><leadIn>Subsection (1) applies to a person that—</leadIn><paragraph id="ID_1491873590927_006" name="a" temporalId="s4E_3_a"><num value="a">(a)</num><content>is a licensed corporation that is licensed for, or a registered institution
+                    that is registered for, Type 9 regulated activity; and</content></paragraph><paragraph id="ID_1491873590927_007" name="b" temporalId="s4E_3_b"><num value="b">(b)</num><content>in the course of that regulated activity, manages assets having a total
+                    value of not less than $80 billion.</content></paragraph></subsection><sourceNote>(<ref href="hk/2017/ln44">L.N. 44 of 2017</ref>)</sourceNote></section><section id="ID_1699341358189_001" name="s4F" temporalId="s4F" startPeriod="2023-12-22" status="operational" reason="inEffect"><num value="4F">4F.</num><heading>Authorization by Commission for clearing participants</heading><subsection id="ID_1699341787096_001" name="1" temporalId="s4F_1"><num value="1">(1)</num><content>Subject to subsection (2) and section 4(4)(a) and (b), the Commission may
+                authorize a person referred to in subsection (3) to hold or control a specified
+                contract in excess of the prescribed limit by up to the specified
+                percentage.</content></subsection><subsection id="ID_1699341787097_002" name="2" temporalId="s4F_2"><num value="2">(2)</num><leadIn>The Commission must not authorize a person referred to in subsection (3) to hold
+                or control a specified contract in excess of the prescribed limit unless the person
+                satisfies the Commission that—</leadIn><paragraph id="ID_1699341787098_003" name="a" temporalId="s4F_2_a"><num value="a">(a)</num><content>the person has adequate financial capability to cover the potential risks
+                    arising from the excess; and</content></paragraph><paragraph id="ID_1699341787098_004" name="b" temporalId="s4F_2_b"><num value="b">(b)</num><content>the person has effective internal control procedures and risk management
+                    systems to manage the potential risks arising from the excess.</content></paragraph></subsection><subsection id="ID_1699341787099_005" name="3" temporalId="s4F_3"><num value="3">(3)</num><leadIn>Subsection (1) applies to a person that—</leadIn><paragraph id="ID_1699341787100_006" name="a" temporalId="s4F_3_a"><num value="a">(a)</num><content>is a clearing participant; and</content></paragraph><paragraph id="ID_1699341787101_007" name="b" temporalId="s4F_3_b"><num value="b">(b)</num><content>clears the specified contract for another person that has been authorized
+                    by the Commission under section 4C, 4D or 4E to hold or control the specified
+                    contract in excess of the prescribed limit.</content></paragraph></subsection></section><sourceNote>(<ref href="hk/2023/ln149">L.N. 149 of 2023</ref>)</sourceNote><section id="ID_1438403477968_001" name="s5" reason="inEffect" startPeriod="2012-02-09" status="operational" temporalId="s5"><num value="5">5.</num><heading>Prescribed limits</heading><leadIn>For the purposes of <ref>section 4(1)</ref>, the limit on the number of contracts that may be held or controlled is—</leadIn><paragraph id="ID_1438413503383_012" name="a" temporalId="s5_a"><num value="a">(a)</num><content>in the case of a futures contract specified in column 2 of <ref>Schedule 1</ref>, that specified opposite to it in column 3 of that <ref>Schedule</ref>; and</content></paragraph><paragraph id="ID_1438413503383_020" name="b" temporalId="s5_b"><num value="b">(b)</num><content>in the case of a stock options contract specified in column 2 of <ref>Schedule 2</ref>, that specified opposite to it in column 3 of that <ref>Schedule</ref>.</content></paragraph></section><section id="ID_1438403477984_001" name="s6" reason="inEffect" startPeriod="2023-12-22" status="operational" temporalId="s6"><num value="6">6.</num><heading>Notice of reportable positions</heading><subsection id="ID_1438413503399_026" name="1" temporalId="s6_1"><num value="1">(1)</num><leadIn>Subject
+                to subsection (1A), any person who holds or controls a reportable
+                position
+                must
+                lodge a notice in writing of that reportable position with the recognized exchange
+                company concerned within one business day
+                        following— <sourceNote>(<ref href="/hk/2012/9">9 of 2012 s.
+                    56</ref>; <ref href="hk/2023/ln149">L.N. 149 of
+                    2023</ref>)</sourceNote></leadIn><paragraph id="ID_1438413503414_005" name="a" temporalId="s6_1_a"><num value="a">(a)</num><content>the day on which the person first holds or controls that reportable
+                    position; and</content></paragraph><paragraph id="ID_1438413503414_013" name="b" temporalId="s6_1_b"><num value="b">(b)</num><content>each succeeding day on which the person continues to hold or control that
+                    reportable position.</content></paragraph></subsection><statutoryNote>
+            <paragraph name="0" temporalId="s6_1_0" id="ID_1699517421077_001"><content class="left_indent_60"><b>Note—</b><br></br>For funds, see also section 7A.
+                        <sourceNote class="font_size_11">(<ref href="hk/2023/ln149">L.N. 149 of
+                            2023</ref>)</sourceNote></content></paragraph>
+        </statutoryNote><subsection id="ID_1699517421078_002" name="2" temporalId="s6_2"><num value="2">(1A)</num><leadIn>If the reportable position held or controlled by a person is in any holiday
+                contract, the person must lodge a notice in writing of the reportable position with
+                the Futures Exchange Company within one holiday contract trading day
+                following—</leadIn><paragraph name="a" temporalId="s6_2_a" id="ID_1699517421079_003"><num value="a">(a)</num><content>the day on which the person first holds or controls the reportable
+                    position; and</content></paragraph><paragraph name="b" temporalId="s6_2_b" id="ID_1699517421080_004"><num value="b">(b)</num><content>each succeeding day on which the person continues to hold or control the
+                    reportable position. <sourceNote>(<ref href="hk/2023/ln149">L.N. 149 of
+                            2023</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1699517421097_005" name="2" temporalId="s6_2"><num value="2">(1B)</num><content>For the avoidance of doubt, for the purposes of subsection (1A), section
+                71(1)(b) and (c) of the Interpretation and General Clauses Ordinance (<ref href="/hk/cap1">Cap. 1</ref>) does not apply. <sourceNote>(<ref href="hk/2023/ln149">L.N. 149 of 2023</ref>)</sourceNote></content></subsection><subsection id="ID_1438413503414_020" name="2" temporalId="s6_2"><num value="2">(2)</num><leadIn>A notice referred to in subsection (1) or (1A) must be accompanied by the
+                following information—</leadIn><paragraph id="ID_1438413503414_028" name="a" temporalId="s6_2_a"><num value="a">(a)</num><content>the number of futures contracts or stock options contracts held or
+                    controlled by the person that comprise the reportable position in each relevant
+                    contract period (including contract month or contract week) or option series;
+                    and</content></paragraph><paragraph id="ID_1438413503414_036" name="b" temporalId="s6_2_b"><num value="b">(b)</num><leadIn>subject to section 7A(5), if the reportable position consists of a position
+                    held or controlled for any other person—</leadIn><subparagraph id="ID_1438413503414_044" name="i" temporalId="s6_2_b_i"><num value="i">(i)</num><content>the identity of each other person; and</content></subparagraph><subparagraph id="ID_1438413503414_052" name="ii" temporalId="s6_2_b_ii"><num value="ii">(ii)</num><content>the number of futures contracts or stock options contracts held or
+                        controlled for the person’s own account (if applicable) and for each other
+                        person that comprise the reportable position in each relevant contract
+                        period (including contract month or contract week) or option series.
+                                <sourceNote>(<ref href="hk/2023/ln149">L.N. 149 of
+                            2023</ref>)</sourceNote></content></subparagraph></paragraph></subsection><subsection id="ID_1699517421131_006" name="3" temporalId="s6_3"><num value="3">(3)</num><leadIn>In this section—</leadIn><def name="HolidayContract"><term>holiday contract</term> (<term xml:lang="zh-Hant-HK">假期合約</term>) means a futures contract that is determined by the Futures
+                Exchange Company to be a “holiday trading exchange contract” in accordance with the
+                rules of the Futures Exchange Company;</def><def name="HolidayContractTradingDay"><term>holiday contract trading day</term> (<term xml:lang="zh-Hant-HK">假期合約交易日</term>), in relation to a holiday contract, means
+                a day determined by the Futures Exchange Company to be a day on which the holiday
+                contract may be traded through the facilities of the Futures Exchange Company in
+                accordance with the rules of the Futures Exchange Company. <sourceNote>(<ref href="hk/2023/ln149">L.N. 149 of 2023</ref>)</sourceNote></def></subsection></section><section id="ID_1438403478030_001" name="s7" reason="inEffect" startPeriod="2023-12-22" status="operational" temporalId="s7"><num value="7">7.</num><heading>Compliance by certain persons</heading><subsection id="ID_1438413503446_041" name="1" temporalId="s7_1"><num value="1">(1)</num><leadIn>Subject
+                to section 7A, in their application to a person holding or
+                controlling futures contracts or stock options contracts for any other person, the
+                prescribed limits and
+                reporting
+                levels apply separately to any futures contracts or stock options
+                contracts held or controlled by the first person—
+                <sourceNote>(<ref href="hk/2023/ln149">L.N. 149 of
+                2023</ref>)</sourceNote></leadIn><paragraph id="ID_1438413503461_005" name="a" temporalId="s7_1_a"><num value="a">(a)</num><content>for
+                    the
+                    first person’s own account; and</content></paragraph><paragraph id="ID_1438413503461_013" name="b" temporalId="s7_1_b"><num value="b">(b)</num><content>for each other person.</content></paragraph></subsection><subsection id="ID_1438413503461_020" name="2" temporalId="s7_2"><num value="2">(2)</num><content>For the purposes of subsection (1), a person
+                is
+                not to be regarded as holding or controlling futures contracts or
+                stock options contracts for another person if
+                the
+                first person has discretion in relation to those futures contracts
+                or stock options contracts.</content></subsection><subsection id="ID_1438413503461_028" name="3" temporalId="s7_3"><num value="3">(3)</num><leadIn>Subject
+                to subsection (4), for the purposes of subsection (2), a person is to be regarded as
+                having discretion in relation to futures contracts or stock options contracts the
+                person holds or controls for another person if—
+                <sourceNote>(<ref href="hk/2023/ln149">L.N. 149 of
+                2023</ref>)</sourceNote></leadIn><paragraph id="ID_1438413503461_036" name="a" temporalId="s7_3_a"><num value="a">(a)</num><content>the
+                    first
+                    person
+                    may originate orders to acquire or dispose of any of the futures contracts or
+                    stock options contracts under a general authorization from the other person,
+                    whether the authorization is pursuant to a written agreement, power of attorney
+                    or otherwise; and</content></paragraph><paragraph id="ID_1438413503477_006" name="b" temporalId="s7_3_b"><num value="b">(b)</num><content>such authorization enables the first person to make specific acquisitions
+                    or disposals without requiring further consent or instruction from the other
+                    person.</content></paragraph></subsection><subsection id="ID_1699517438103_001" name="2" temporalId="s7_2"><num value="2">(4)</num><content>A clearing participant of HKFECC or SEOCH is not to be regarded as having
+                discretion in relation to futures contracts or stock options contracts the clearing
+                participant holds or controls for another person if the clearing participant’s power
+                to acquire or dispose of the other person’s futures contracts or stock options
+                contracts (as the case may be) may only be exercised in the event of a default in
+                meeting any contractual obligation by the other person. <sourceNote>(<ref href="hk/2023/ln149">L.N. 149 of 2023</ref>)</sourceNote></content></subsection><subsection id="ID_1699517438121_002" name="2" temporalId="s7_2"><num value="2">(5)</num><content>This section does not apply in relation to futures contracts or stock options
+                contracts held or controlled by a person in respect of funds. <sourceNote>(<ref href="hk/2023/ln149">L.N. 149 of 2023</ref>)</sourceNote></content></subsection><sourceNote>(<ref href="/hk/2004/ln35">L.N. 35 of
+            2004</ref>; <ref href="hk/2023/ln149">L.N. 149 of
+            2023</ref>)</sourceNote></section><section id="ID_1699407818588_001" name="s7A" temporalId="s7A" startPeriod="2023-12-22" status="operational" reason="inEffect"><num value="7A">7A.</num><heading>Compliance by persons with respect to funds</heading><subsection id="ID_1699414089768_001" name="1" temporalId="s7A_1"><num value="1">(1)</num><leadIn>Subject to subsections (2), (3) and (4), in their application to a person
+                holding or controlling futures contracts or stock options contracts in respect of
+                one or more funds, the prescribed limits and reporting levels apply separately to
+                any futures contracts or stock options contracts held or controlled by the
+                person—</leadIn><paragraph id="ID_1699414089769_002" name="a" temporalId="s7A_1_a"><num value="a">(a)</num><content>for the person’s own account; and</content></paragraph><paragraph id="ID_1699414089769_003" name="b" temporalId="s7A_1_b"><num value="b">(b)</num><content>in respect of each fund.</content></paragraph></subsection><subsection id="ID_1699414089769_004" name="2" temporalId="s7A_2"><num value="2">(2)</num><leadIn>Subject to subsections (3) and (4), in their application to a person holding or
+                controlling futures contracts or stock options contracts in respect of one or more
+                sub-funds of one or more umbrella funds, the prescribed limits and reporting levels
+                apply separately to any futures contracts or stock options contracts held or
+                controlled by the person—</leadIn><paragraph id="ID_1699414089770_005" name="a" temporalId="s7A_2_a"><num value="a">(a)</num><content>for the person’s own account; and</content></paragraph><paragraph id="ID_1699414089770_006" name="b" temporalId="s7A_2_b"><num value="b">(b)</num><content>in respect of each sub-fund.</content></paragraph></subsection><subsection id="ID_1699414089771_007" name="3" temporalId="s7A_3"><num value="3">(3)</num><leadIn>For the purposes of section 4(1), a person who holds or controls futures
+                contracts or stock options contracts in respect of one or more funds, or one or more
+                sub-funds of one or more umbrella funds, and has discretion in relation to those
+                contracts must, in applying the prescribed limits, ensure that none of the following
+                exceeds the prescribed limits for such contracts—</leadIn><paragraph id="ID_1699414089771_008" name="a" temporalId="s7A_3_a"><num value="a">(a)</num><leadIn>the aggregate number of contracts the person holds or controls—</leadIn><subparagraph id="ID_1699414089772_009" name="1" temporalId="s7A_3_a_1"><num value="1">(i)</num><content>for the person’s own account; and</content></subparagraph><subparagraph id="ID_1699414089772_010" name="2" temporalId="s7A_3_a_2"><num value="2">(ii)</num><content>in respect of all funds and sub-funds (as the case may be);</content></subparagraph></paragraph><paragraph id="ID_1699414089772_011" name="b" temporalId="s7A_3_b"><num value="b">(b)</num><content>the number of contracts the person holds or controls for the person’s own
+                    account;</content></paragraph><paragraph id="ID_1699414089773_012" name="c" temporalId="s7A_3_c"><num value="c">(c)</num><content>the number of contracts the person holds or controls in respect of each
+                    fund;</content></paragraph><paragraph id="ID_1699414089773_013" name="d" temporalId="s7A_3_d"><num value="d">(d)</num><content>the number of contracts the person holds or controls in respect of each
+                    sub-fund.</content></paragraph></subsection><subsection id="ID_1699414089774_014" name="4" temporalId="s7A_4"><num value="4">(4)</num><leadIn>For the purposes of section 6(1) or (1A), a person who holds or controls futures
+                contracts or stock options contracts in respect of one or more funds, or one or more
+                sub-funds of one or more umbrella funds, and has discretion in relation to those
+                contracts, is to be regarded as holding or controlling a reportable position when
+                the aggregate of the following reaches a reporting level—</leadIn><paragraph id="ID_1699414089774_015" name="a" temporalId="s7A_4_a"><num value="a">(a)</num><content>the number of contracts the person holds or controls for the person’s own
+                    account;</content></paragraph><paragraph id="ID_1699414089775_016" name="b" temporalId="s7A_4_b"><num value="b">(b)</num><content>the number of contracts the person holds or controls in respect of all
+                    funds and sub-funds (as the case may be).</content></paragraph></subsection><subsection id="ID_1699414089775_017" name="5" temporalId="s7A_5"><num value="5">(5)</num><leadIn>If a person is regarded as holding or controlling a reportable position under
+                subsection (4), a notice referred to in section 6(1) or (1A) must be accompanied by
+                the following information—</leadIn><paragraph id="ID_1699414089775_018" name="a" temporalId="s7A_5_a"><num value="a">(a)</num><content>the name of each fund and sub-fund (if applicable); and</content></paragraph><paragraph id="ID_1699414089776_019" name="b" temporalId="s7A_5_b"><num value="b">(b)</num><content>the number of futures contracts or stock options contracts held or
+                    controlled for the person’s own account (if applicable) and in respect of each
+                    fund and sub-fund (if applicable) that comprise the reportable position in each
+                    relevant contract period (including contract month or contract week) or option
+                    series.</content></paragraph></subsection><subsection id="ID_1699414089776_020" name="6" temporalId="s7A_6"><num value="6">(6)</num><leadIn>For the purposes of subsections (3) and (4), a person is to be regarded as
+                having discretion in relation to futures contracts or stock options contracts the
+                person holds or controls in respect of a fund or a sub-fund of an umbrella fund
+                if—</leadIn><paragraph id="ID_1699414089777_021" name="a" temporalId="s7A_6_a"><num value="a">(a)</num><content>the person may originate orders to acquire or dispose of any of the futures
+                    contracts or stock options contracts under a general authorization from the fund
+                    or umbrella fund (as the case may be), whether the authorization is pursuant to
+                    a written agreement, power of attorney or otherwise; and</content></paragraph><paragraph id="ID_1699414089777_022" name="b" temporalId="s7A_6_b"><num value="b">(b)</num><content>the general authorization enables the person to make specific acquisitions
+                    or disposals without requiring further consent or instruction from the fund or
+                    umbrella fund (as the case may be).</content></paragraph></subsection><subsection id="ID_1699414089778_023" name="7" temporalId="s7A_7"><num value="7">(7)</num><content>For the purposes of subsection (6), if the fund or sub-fund of an umbrella fund
+                does not have the status of a legal person under the law of the place under which it
+                is constituted, a reference to general authorization in subsection (6)(a) or further
+                consent or instruction in subsection (6)(b) is to be construed as a reference to
+                such an authorization, consent or instruction from the legal person holding the
+                legal title to the futures contracts or stock options contracts in respect of the
+                fund or the sub-fund.</content></subsection></section><sourceNote>(<ref href="hk/2023/ln149">L.N. 149 of 2023</ref>)</sourceNote><section id="ID_1438403478046_002" name="s8" reason="inEffect" startPeriod="2012-02-09" status="operational" temporalId="s8"><num value="8">8.</num><heading>Penalties</heading><leadIn>Any person who, without reasonable excuse, fails to comply with <ref>section 4(1)</ref> or <ref>6</ref> commits an offence and is liable—</leadIn><paragraph id="ID_1438413503508_012" name="a" temporalId="s8_a"><num value="a">(a)</num><content>on conviction on indictment to a fine at level 6 and to imprisonment for 2 years; or</content></paragraph><paragraph id="ID_1438413503508_020" name="b" temporalId="s8_b"><num value="b">(b)</num><content>on summary conviction to a fine at level 3 and to imprisonment for 6 months.</content></paragraph></section><schedule id="ID_1438403478093_001" name="sch1" reason="inEffect" startPeriod="2025-07-02" status="operational" temporalId="sch1"><num value="1">Schedule 1</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap571Y/s2">ss.
+                2(1)</ref> &amp; <ref href="/hk/cap571Y/s5">5(a)</ref>]</note><heading>Prescribed
+            Limit and Reporting Level for Futures Contracts</heading><text>
+            
+            <table xmlns="http://www.w3.org/1999/xhtml" frame="void" class="repeat_header">
+                <col width="7%"></col>
+                <col width="7%"></col>
+                <col width="7%"></col>
+                <col width="18%"></col>
+                <col width="33%"></col>
+                <col width="7%"></col>
+                <col width="21%"></col>
+                <thead>
+                    <tr>
+                        <td class="align_left">
+                            <p><span class="not_bold">Item</span></p>
+                        </td>
+                        <th class="cellpadding_right_9 align_left cellpadding_left_3" colspan="3">
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"><span xmlns="http://www.w3.org/1999/xhtml" class="not_bold">Futures
+                                    contract</span></center>
+                        </th>
+                        <th class="cellpadding_right_3 align_left">
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"><span xmlns="http://www.w3.org/1999/xhtml" class="not_bold">Prescribed
+                                    limit</span></center>
+                        </th>
+                        <th class="align_left cellpadding_left_6" colspan="2">
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"><span xmlns="http://www.w3.org/1999/xhtml" class="not_bold">Reporting
+                                    level</span></center>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>
+                            <p class="first_line_indent_0">1.</p>
+                        </td>
+                        <td class="cellpadding_right_9 align_left cellpadding_left_3" colspan="3">
+                            <p>Stock futures contract on shares listed on a stock market operated by
+                                the Stock Exchange Company <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="hk/2023/ln149">L.N. 149 of
+                                2023</ref>)</sourceNote></p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                        <td class="align_left cellpadding_right_3">
+                            <p>25 000 net long or short contracts for all contract months
+                                combined</p>
+                        </td>
+                        <td class="align_left cellpadding_left_6" colspan="2">
+                            <p>1 000 open contracts for any one contract month</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="first_line_indent_0">2.</p>
+                        </td>
+                        <td class="cellpadding_right_9 align_left cellpadding_left_3" colspan="3">
+                            <p>Three-Month Hong Kong Interbank Offered Rate futures contract</p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                        <td class="align_left cellpadding_right_3">
+                            <p>Nil</p>
+                        </td>
+                        <td class="align_left cellpadding_left_6" colspan="2">
+                            <p>1 000 open contracts for any one contract month; 4 000 open contracts
+                                for all contract months</p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="first_line_indent_0">3.</p>
+                        </td>
+                        <td class="cellpadding_right_9 align_left cellpadding_left_3" colspan="3">
+                            <p>One-Month Hong Kong Interbank Offered Rate futures contract</p>
+                        </td>
+                        <td class="align_left cellpadding_right_3">
+                            <p>Nil</p>
+                        </td>
+                        <td class="align_left cellpadding_left_6" colspan="2">
+                            <p>1 000 open contracts for any one contract month; 4 000 open contracts
+                                for all contract months</p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="first_line_indent_0">4.</p>
+                        </td>
+                        <td class="align_left cellpadding_left_3">
+                            <p>(a)</p>
+                        </td>
+                        <td colspan="2" class="cellpadding_right_9 align_left cellpadding_left_4">
+                            <p>Stock index futures contract that has one of the following indices as
+                                an underlying index—</p>
+                        </td>
+                        <td class="align_left cellpadding_right_3" rowspan="3">
+                            <p>15
+                                000 net long or short position delta limit for all contract periods
+                                (including contract months or contract weeks) combined
+                                <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="/hk/2025/ln69">L.N. 69 of
+                                2025</ref>)</sourceNote></p>
+                        </td>
+                        <td class="align_left cellpadding_right_6" rowspan="3">
+                            <p>(a)</p>
+                        </td>
+                        <td rowspan="4" class="align_left">
+                            <p>For a stock index futures contract, for any one contract period
+                                (including contract month or contract week), 500 open contracts
+                                multiplied by the ratio of HK$50 per index point to the contract
+                                multiplier in relation to the stock index futures contract</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td class="align_right cellpadding_right_7" colspan="2">
+                            <p>(i)</p>
+                        </td>
+                        <td class="cellpadding_right_9 align_left cellpadding_left_3">
+                            <p>Hang Seng Index;</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td class="align_right cellpadding_right_7" colspan="2">
+                            <p>(ii)</p>
+                        </td>
+                        <td class="cellpadding_right_9 align_left cellpadding_left_3">
+                            <p>Hang Seng Index (Gross Total Return Index);</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td class="align_right cellpadding_right_7" colspan="2">
+                            <p>(iii)</p>
+                        </td>
+                        <td class="cellpadding_right_9 align_left cellpadding_left_3" rowspan="2">
+                            <p>Hang Seng Index (Net Total Return Index)</p>
+                        </td>
+                        
+                        <td class="align_left cellpadding_right_3"></td>
+                        <td class="align_left cellpadding_right_6"></td>
+                        
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td class="align_right cellpadding_right_7" colspan="2"></td>
+                        <td class="align_left cellpadding_right_3"></td>
+                        <td class="align_left cellpadding_right_6">
+                            <p>(b)</p>
+                        </td>
+                        <td class="align_left" rowspan="3">
+                            <p>For a stock index options contract or a stock index futures options
+                                contract, for any one option series, 500 open contracts multiplied
+                                by the ratio of </p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td class="align_left cellpadding_left_3" rowspan="2">
+                            <p>(b)</p>
+                        </td>
+                        <td colspan="2" class="cellpadding_right_9 align_left cellpadding_left_4" rowspan="2">
+                            <p>Stock index options contract that has one of the indices referred to
+                                in paragraph (a)(i), (ii) and (iii) as an underlying index</p>
+                        </td>
+                        
+                        <td class="align_left cellpadding_right_3"></td>
+                        <td class="align_left cellpadding_right_6"></td>
+                        
+                    </tr>
+                    <tr>
+                        <td></td>
+                        
+                        <td class="align_left cellpadding_right_3"></td>
+                        <td class="align_left cellpadding_right_6"></td>
+                        
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td class="align_left cellpadding_left_3">
+                            <p>(c)</p>
+                        </td>
+                        <td colspan="2" class="cellpadding_right_9 align_left cellpadding_left_4">
+                            <p>Stock index futures options contract that has a stock index futures
+                                contract referred to in paragraph (a) as an underlying contract
+                                    <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="hk/2023/ln149">L.N. 149 of
+                                2023</ref>)</sourceNote></p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                        
+                        <td class="align_left cellpadding_right_3"></td>
+                        <td class="align_left cellpadding_right_6"></td>
+                        
+                        <td class="align_left">
+                            <p>HK$50 per index point to the contract multiplier in relation to the
+                                stock index options contract or the stock index futures options
+                                contract</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="first_line_indent_0">5.</p>
+                        </td>
+                        <td class="align_left cellpadding_left_3">
+                            <p>(a)</p>
+                        </td>
+                        <td colspan="2" class="align_left cellpadding_left_4 cellpadding_right_9">
+                            <p>Stock index futures contract that has one of the following indices as
+                                an underlying index—</p>
+                        </td>
+                        <td class="align_left cellpadding_right_3" rowspan="5">
+                            <p>25
+                                000 net long or short position delta limit for all contract periods
+                                (including contract months or contract weeks) combined
+                                <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="/hk/2025/ln69">L.N. 69 of
+                                2025</ref>)</sourceNote></p>
+                        </td>
+                        <td class="align_left cellpadding_right_6" rowspan="3">
+                            <p>(a)</p>
+                        </td>
+                        <td rowspan="3" class="align_left">
+                            <p>For a stock index futures contract, for any one contract period
+                                (including contract month or contract week), 500 open contracts
+                                multiplied by the ratio of HK$50 per index point to the contract
+                                multiplier in relation to the stock index futures contract</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td class="align_right cellpadding_right_7" colspan="2">
+                            <p>(i)</p>
+                        </td>
+                        <td class="align_left cellpadding_left_3 cellpadding_right_9">
+                            <p>Hang Seng China Enterprises Index;</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td class="align_right cellpadding_right_7" colspan="2">
+                            <p>(ii)</p>
+                        </td>
+                        <td class="align_left cellpadding_left_3 cellpadding_right_9" rowspan="2">
+                            <p>Hang Seng China Enterprises Index (Gross Total Return Index);</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td class="align_right cellpadding_right_7" colspan="2"></td>
+                        <td class="align_left cellpadding_right_6" rowspan="2">
+                            <p>(b)</p>
+                        </td>
+                        <td class="align_left" rowspan="2">
+                            <p>For a stock index options contract or a stock index futures options
+                                contract, for any one option </p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td class="align_right cellpadding_right_7" colspan="2">
+                            <p>(iii)</p>
+                        </td>
+                        <td class="align_left cellpadding_left_3 cellpadding_right_9">
+                            <p>Hang Seng China Enterprises Index (Net Total Return Index)</p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td class="align_left cellpadding_left_3">
+                            <p>(b)</p>
+                        </td>
+                        <td colspan="2" class="cellpadding_right_9 align_left cellpadding_left_4">
+                            <p>Stock index options contract that has one of the indices referred to
+                                in paragraph (a)(i), (ii) and (iii) as an underlying index</p>
+                        </td>
+                        <td class="align_left cellpadding_right_3"></td>
+                        <td class="align_left cellpadding_right_6"></td>
+                        <td class="align_left" rowspan="2">
+                            <p>series, 500 open contracts multiplied by the ratio of HK$50 per index
+                                point to the contract multiplier in relation to the stock index
+                                options contract or the stock index futures options contract</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td class="align_left cellpadding_left_3">
+                            <p>(c)</p>
+                        </td>
+                        <td colspan="2" class="cellpadding_right_9 align_left cellpadding_left_4">
+                            <p>Stock index futures options contract that has a stock index futures
+                                contract referred to in paragraph (a) as an underlying contract
+                                    <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="hk/2023/ln149">L.N. 149 of
+                                2023</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></p>
+                        </td>
+                        <td class="align_left cellpadding_right_3"></td>
+                        <td class="align_left cellpadding_right_6"></td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="first_line_indent_0">6.</p>
+                        </td>
+                        <td class="cellpadding_right_9 align_left cellpadding_left_3" colspan="3">
+                            <p>Hang Seng China H-Financials Index futures contract</p>
+                        </td>
+                        <td class="align_left cellpadding_right_3">
+                            <p>10 000 net long or short contracts for all contract months combined
+                                    <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="hk/2023/ln149">L.N. 149 of
+                                2023</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></p>
+                        </td>
+                        <td class="align_left cellpadding_left_6" colspan="2">
+                            <p>500 open contracts for any one contract month</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="first_line_indent_0">7.</p>
+                        </td>
+                        <td class="cellpadding_right_9 align_left cellpadding_left_3" colspan="6">
+                            <p><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="hk/2023/ln149">L.N. 149 of
+                                    2023</ref>)</sourceNote></p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="first_line_indent_0">8.</p>
+                        </td>
+                        <td class="cellpadding_right_9 align_left cellpadding_left_3" colspan="3">
+                            <p>Three Year Exchange Fund Note (EFN) futures contract</p>
+                        </td>
+                        <td class="align_left cellpadding_right_3">
+                            <p>5 000 open contracts for any one contract month except that the limit
+                                for the spot month contract during the last 6 trading days is 1 000
+                                open contracts</p>
+                        </td>
+                        <td class="align_left cellpadding_left_6" colspan="2">
+                            <p>1 000 open contracts for any one contract month except that the
+                                reporting level for the spot month contract during the last 6
+                                trading days is 200 open contracts <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="hk/2023/ln149">L.N. 149 of
+                                2023</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="first_line_indent_0">9.</p>
+                        </td>
+                        <td class="cellpadding_right_9 align_left cellpadding_left_3" colspan="6">
+                            <p><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="hk/2023/ln149">L.N. 149 of
+                                    2023</ref>)</sourceNote></p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="first_line_indent_0">10.</p>
+                        </td>
+                        <td class="cellpadding_right_9 align_left cellpadding_left_3" colspan="3">
+                            <p>HSI Dividend Point Index futures contract</p>
+                        </td>
+                        <td class="align_left cellpadding_right_3">
+                            <p>Nil</p>
+                        </td>
+                        <td class="align_left cellpadding_left_6" colspan="2">
+                            <p>1 000 open contracts for any one contract month</p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="first_line_indent_0">11.</p>
+                        </td>
+                        <td class="cellpadding_right_9 align_left cellpadding_left_3" colspan="3">
+                            <p>HSCEI Dividend Point Index futures contract</p>
+                        </td>
+                        <td class="align_left cellpadding_right_3">
+                            <p>Nil</p>
+                        </td>
+                        <td class="align_left cellpadding_left_6" colspan="2">
+                            <p>1 000 open contracts for any one contract month</p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p>12.</p>
+                        </td>
+                        <td class="cellpadding_right_9 align_left cellpadding_left_3" colspan="3">
+                            <p>HSI Volatility Index futures contract <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="/hk/2013/ln13">L.N. 13 of 2013</ref>)</sourceNote></p>
+                        </td>
+                        <td class="align_left cellpadding_right_3">
+                            <p>10 000 open contracts for any one contract month</p>
+                        </td>
+                        <td class="align_left cellpadding_left_6" colspan="2">
+                            <p>1 000 open contracts for any one contract month</p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p>13.</p>
+                        </td>
+                        <td class="cellpadding_right_9 align_left cellpadding_left_3" colspan="3">
+                            <p>US Dollar vs Renminbi (Hong Kong) futures contract and options
+                                contract, Mini US Dollar vs Renminbi (Hong Kong) futures contract,
+                                and Renminbi (Hong Kong) vs US Dollar futures contract <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="hk/2023/ln149">L.N. 149 of
+                                2023</ref>)</sourceNote></p>
+                        </td>
+                        <td class="align_left cellpadding_right_3">
+                            <p>30 000 net long or short position delta limit for all contract months
+                                combined, provided that the position delta for the spot month US
+                                Dollar vs Renminbi (Hong Kong) futures contracts and the spot month
+                                US Dollar vs Renminbi (Hong Kong) options contracts combined during
+                                the last 5 trading days must not exceed 15 000 long or short</p>
+                        </td>
+                        <td class="align_left cellpadding_left_6" colspan="2">
+                            <p>500 open US Dollar vs Renminbi (Hong Kong) futures contracts for any
+                                one contract month; 500 open US Dollar vs Renminbi (Hong Kong)
+                                options contracts for any one option series; 2 500 open Mini US
+                                Dollar vs Renminbi (Hong Kong) futures contracts for any one
+                                contract month; and 500 open Renminbi (Hong Kong) vs US Dollar
+                                futures contracts for any one contract month</p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p>14.</p>
+                        </td>
+                        <td class="cellpadding_right_9 align_left cellpadding_left_3" colspan="6">
+                            <p><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="hk/2023/ln149">L.N. 149 of
+                                    2023</ref>)</sourceNote></p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p>15.</p>
+                        </td>
+                        <td class="cellpadding_right_9 align_left cellpadding_left_3" colspan="6">
+                            <p><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="hk/2023/ln149">L.N. 149 of
+                                    2023</ref>)</sourceNote></p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p>16.</p>
+                        </td>
+                        <td class="cellpadding_right_9 align_left cellpadding_left_3" colspan="6">
+                            <p><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="hk/2023/ln149">L.N. 149 of
+                                    2023</ref>)</sourceNote></p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p>17.</p>
+                        </td>
+                        <td class="cellpadding_right_9 align_left cellpadding_left_3" colspan="3">
+                            <p>Stock futures contract on shares or units of exchange traded funds
+                                    <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="hk/2023/ln149">L.N. 149 of
+                                2023</ref>)</sourceNote></p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                        <td class="align_left cellpadding_right_3">
+                            <p>25 000 net long or short contracts for all contract months
+                                combined</p>
+                        </td>
+                        <td class="align_left cellpadding_left_6" colspan="2">
+                            <p>1 000 open contracts for any one contract month</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p>18.</p>
+                        </td>
+                        <td class="cellpadding_right_9 align_left cellpadding_left_3" colspan="6">
+                            <p><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="hk/2023/ln149">L.N. 149 of
+                                    2023</ref>)</sourceNote></p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p>19.</p>
+                        </td>
+                        <td class="cellpadding_right_9 align_left cellpadding_left_3" colspan="6">
+                            <p><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="hk/2023/ln149">L.N. 149 of
+                                    2023</ref>)</sourceNote></p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p>20.</p>
+                        </td>
+                        <td class="cellpadding_right_9 align_left cellpadding_left_3" colspan="6">
+                            <p><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="hk/2023/ln149">L.N. 149 of
+                                    2023</ref>)</sourceNote></p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="first_line_indent_0">21.</p>
+                        </td>
+                        <td class="align_left cellpadding_left_3">
+                            <p>(a)</p>
+                        </td>
+                        <td colspan="2" class="align_left cellpadding_right_9 cellpadding_left_4">
+                            <p>Stock index futures contract that has one of the following indices as
+                                an underlying index—</p>
+                        </td>
+                        <td class="align_left cellpadding_right_3" rowspan="4">
+                            <p>30
+                                000 net long or short position delta limit for all contract periods
+                                (including contract months or contract weeks) combined
+                                <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="/hk/2025/ln69">L.N. 69 of
+                                2025</ref>)</sourceNote></p>
+                        </td>
+                        <td class="align_left cellpadding_left_6" rowspan="4">
+                            <p>(a)</p>
+                        </td>
+                        <td rowspan="4" class="align_left">
+                            <p>For a stock index futures contract, for any one contract period
+                                (including contract month or contract week), 500 open contracts
+                                multiplied by the ratio of HK$50 per index point to the contract
+                                multiplier in relation to the stock index futures contract</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td class="align_right cellpadding_right_7" colspan="2">
+                            <p>(i)</p>
+                        </td>
+                        <td class="align_left cellpadding_right_9 cellpadding_left_3">
+                            <p>Hang Seng TECH Index;</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td class="align_right cellpadding_right_7" colspan="2">
+                            <p>(ii)</p>
+                        </td>
+                        <td class="align_left cellpadding_right_9 cellpadding_left_3">
+                            <p>Hang Seng TECH Index (Gross Total Return Index);</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td class="align_right cellpadding_right_7" colspan="2">
+                            <p>(iii)</p>
+                        </td>
+                        <td class="align_left cellpadding_right_9 cellpadding_left_3" rowspan="2">
+                            <p>Hang Seng TECH Index (Net Total Return Index)</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td class="align_right cellpadding_right_7" colspan="2"></td>
+                        <td class="align_left cellpadding_right_3"></td>
+                        <td class="align_left cellpadding_left_6">
+                            <p>(b)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>For a stock index options contract or a stock index futures options
+                                contract, for any one option series, 500 open contracts multiplied
+                                by the ratio of HK$50 per </p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td class="align_left cellpadding_left_3">
+                            <p>(b)</p>
+                        </td>
+                        <td colspan="2" class="align_left cellpadding_right_9 cellpadding_left_4">
+                            <p>Stock index options contract that has one of the indices referred to
+                                in paragraph (a)(i), (ii) and (iii) as an underlying index</p>
+                        </td>
+                        <td class="align_left cellpadding_right_3"></td>
+                        <td class="align_left cellpadding_left_6"></td>
+                        <td class="align_left">
+                            <p>index point to the contract multiplier in relation to the stock index
+                                options contract or the stock index futures options contract</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td class=" align_left cellpadding_left_3">
+                            <p>(c)</p>
+                        </td>
+                        <td colspan="2" class="align_left cellpadding_right_9 cellpadding_left_4">
+                            <p>Stock index futures options contract that has a stock index futures
+                                contract referred to in paragraph (a) as an underlying contract
+                                    <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="hk/2023/ln149">L.N. 149 of
+                                2023</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></p>
+                        </td>
+                        <td class="align_left cellpadding_right_3"></td>
+                        <td class="align_left cellpadding_left_6"></td>
+                        <td class="align_left"></td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p>22.</p>
+                        </td>
+                        <td class="cellpadding_right_9 align_left cellpadding_left_3" colspan="3">
+                            <p>MSCI China A 50 Connect (USD) Index futures contract <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="hk/2023/ln149">L.N. 149 of
+                                2023</ref>)</sourceNote></p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                        <td class="align_left cellpadding_right_3">
+                            <p>28 000 net long or short contracts for all contract months
+                                combined</p>
+                        </td>
+                        <td class="align_left cellpadding_left_6" colspan="2">
+                            <p>500 open contracts for any one contract month</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p>23.</p>
+                        </td>
+                        <td class="cellpadding_right_9 align_left cellpadding_left_3" colspan="3">
+                            <p>CES China 120 Index futures contract <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="hk/2023/ln149">L.N. 149 of
+                                2023</ref>)</sourceNote></p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                        <td class="align_left cellpadding_right_3">
+                            <p>30 000 net long or short contracts for all contract months
+                                combined</p>
+                        </td>
+                        <td class="align_left cellpadding_left_6" colspan="2">
+                            <p>1 500 open contracts for any one contract month</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p>24.</p>
+                        </td>
+                        <td class="cellpadding_right_9 align_left cellpadding_left_3" colspan="3">
+                            <p>Hang Seng Mainland Banks Index futures contract <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="hk/2023/ln149">L.N. 149 of
+                                2023</ref>)</sourceNote></p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                        <td class="align_left cellpadding_right_3">
+                            <p>15 000 net long or short contracts for all contract months
+                                combined</p>
+                        </td>
+                        <td class="align_left cellpadding_left_6" colspan="2">
+                            <p>500 open contracts for any one contract month</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p>25.</p>
+                        </td>
+                        <td class="cellpadding_right_9 align_left cellpadding_left_3" colspan="3">
+                            <p>MSCI China (USD) Index futures contract <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="hk/2023/ln149">L.N. 149 of
+                                2023</ref>)</sourceNote></p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                        <td class="align_left cellpadding_right_3">
+                            <p>35 000 net long or short contracts for all contract months
+                                combined</p>
+                        </td>
+                        <td class="align_left cellpadding_left_6" colspan="2">
+                            <p>500 open contracts for any one contract month</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p>26.</p>
+                        </td>
+                        <td class="cellpadding_right_9 align_left cellpadding_left_3" colspan="3">
+                            <p>MSCI China Net Total Return (USD) Index futures contract <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="hk/2023/ln149">L.N. 149 of
+                                2023</ref>)</sourceNote></p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                        <td class="align_left cellpadding_right_3">
+                            <p>53 000 net long or short contracts for all contract months
+                                combined</p>
+                        </td>
+                        <td class="align_left cellpadding_left_6" colspan="2">
+                            <p>500 open contracts for any one contract month</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p>27.</p>
+                        </td>
+                        <td class="cellpadding_right_9 align_left cellpadding_left_3" colspan="3">
+                            <p>MSCI Hong Kong Net Total Return (USD) Index futures contract
+                                    <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="hk/2023/ln149">L.N. 149 of
+                                2023</ref>)</sourceNote></p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                        <td class="align_left cellpadding_right_3">
+                            <p>8 000 net long or short contracts for all contract months
+                                combined</p>
+                        </td>
+                        <td class="align_left cellpadding_left_6" colspan="2">
+                            <p>500 open contracts for any one contract month</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p>28.</p>
+                        </td>
+                        <td class="cellpadding_right_9 align_left cellpadding_left_3" colspan="3">
+                            <p>Australian Dollar vs Renminbi (Hong Kong) futures contract
+                                    <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="hk/2023/ln149">L.N. 149 of
+                                2023</ref>)</sourceNote></p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                        <td class="align_left cellpadding_right_3">
+                            <p>12 000 net long or short contracts for all contract months
+                                combined</p>
+                        </td>
+                        <td class="align_left cellpadding_left_6" colspan="2">
+                            <p>500 open contracts for any one contract month</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p>29.</p>
+                        </td>
+                        <td class="cellpadding_right_9 align_left cellpadding_left_3" colspan="3">
+                            <p>Euro vs Renminbi (Hong Kong) futures contract <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="hk/2023/ln149">L.N. 149 of
+                                2023</ref>)</sourceNote></p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                        <td class="align_left cellpadding_right_3">
+                            <p>12 000 net long or short contracts for all contract months
+                                combined</p>
+                        </td>
+                        <td class="align_left cellpadding_left_6" colspan="2">
+                            <p>500 open contracts for any one contract month</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p>30.</p>
+                        </td>
+                        <td class="cellpadding_right_9 align_left cellpadding_left_3" colspan="3">
+                            <p>Indian Rupee vs Renminbi (Hong Kong) futures contract <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="hk/2023/ln149">L.N. 149 of
+                                2023</ref>)</sourceNote></p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                        <td class="align_left cellpadding_right_3">
+                            <p>30 000 net long or short contracts for all contract months
+                                combined</p>
+                        </td>
+                        <td class="align_left cellpadding_left_6" colspan="2">
+                            <p>500 open contracts for any one contract month</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p>31.</p>
+                        </td>
+                        <td class="cellpadding_right_9 align_left cellpadding_left_3" colspan="3">
+                            <p>Japanese Yen vs Renminbi (Hong Kong) futures contract <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="hk/2023/ln149">L.N. 149 of
+                                2023</ref>)</sourceNote></p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                        <td class="align_left cellpadding_right_3">12 000 net long or short
+                            contracts for all contract months combined</td>
+                        <td class="align_left cellpadding_left_6" colspan="2">
+                            <p>500 open contracts for any one contract month</p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            
+            
+            
+            
+            <marker role="blank-line"></marker>
+            
+        </text><sourceNote>(<ref>Schedule 1</ref> replaced <ref href="/hk/2011/ln117">L.N. 117 of
+                2011</ref>)</sourceNote></schedule><schedule id="ID_1438403478124_001" name="sch2" reason="inEffect" startPeriod="2025-07-02" status="operational" temporalId="sch2"><num value="2">Schedule 2</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap571Y/s2">ss.
+                2(1)</ref> &amp; <ref href="/hk/cap571Y/s5">5(b)</ref>]</note><heading>Prescribed
+            Limit and Reporting Level for Stock Options Contracts</heading><content>
+            
+            <table xmlns="http://www.w3.org/1999/xhtml">
+                
+                <col width="7%"></col>
+                
+                <col width="32%"></col>
+                
+                <col width="33%"></col>
+                
+                <col width="28%"></col>
+                
+                <tr>
+                    <td class="align_left"></td>
+                    <td class="cellpadding_right_9 align_left cellpadding_left_3 valign_bottom">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Stock
+                            options</center>
+                    </td>
+                    <td class="cellpadding_right_3 align_left"></td>
+                    <td class="align_left cellpadding_left_6"></td>
+                </tr>
+                
+                <tr>
+                    
+                    <td class="align_left">
+                        
+                        <p class="align_justified first_line_indent_0">Item</p>
+                    </td>
+                    
+                    <td class="cellpadding_right_9 align_left cellpadding_left_3 valign_top">
+                        
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"> contract</center>
+                        
+                        
+                    </td>
+                    
+                    <td class="cellpadding_right_3 align_left">
+                        
+                        
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Prescribed
+                            limit</center>
+                        
+                        
+                    </td>
+                    
+                    <td class="align_left cellpadding_left_6">
+                        
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Reporting
+                            level</center>
+                        
+                        
+                        
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                </tr>
+                <tr>
+                    
+                    <td class="align_left">
+                        <p class="first_line_indent_0">1.</p>
+                    </td>
+                    
+                    <td class="cellpadding_right_9 align_left cellpadding_left_3">
+                        
+                        <p class="first_line_indent_0">Stock options
+                            contract
+                            on shares listed on a stock market operated by the Stock Exchange Company
+                            <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="hk/2023/ln149">L.N. 149 of
+                            2023</ref>)</sourceNote></p>
+                        
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        
+                    </td>
+                    
+                    <td class="cellpadding_right_3 align_left">
+                        
+                        <p>250
+                            000 open contracts per option class in any one market
+                            direction for
+                            all
+                            expiries combined
+                            <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="/hk/2025/ln69">L.N. 69 of
+                            2025</ref>)</sourceNote></p>
+                        
+                    </td>
+                    
+                    <td class="align_left cellpadding_left_6">
+                        
+                        <p>1
+                            000 open contracts per option class
+                            per
+                            expiry <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="/hk/2025/ln69">L.N. 69 of
+                            2025</ref>)</sourceNote></p>
+                    </td>
+                </tr>
+                
+                
+                <tr>
+                    
+                    <td class="align_left">2.</td>
+                    
+                    <td class="cellpadding_right_9 align_left cellpadding_left_3">
+                        <p class="first_line_indent_0">Stock options
+                            contract
+                            on shares or units of exchange traded funds
+                            <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="hk/2023/ln149">L.N. 149 of
+                                2023</ref>)</sourceNote></p>
+                        
+                        
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        
+                        
+                    </td>
+                    
+                    <td class="cellpadding_right_3 align_left">
+                        
+                        <p>250
+                            000 open contracts per option class in any one market direction for
+                            all
+                            expiries combined
+                            <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="/hk/2025/ln69">L.N. 69 of
+                            2025</ref>)</sourceNote></p>
+                        
+                        
+                        
+                    </td>
+                    
+                    <td class="align_left cellpadding_left_6">
+                        
+                        <p>1 000 open contracts per option class
+                            per
+                            expiry <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="/hk/2025/ln69">L.N. 69 of
+                            2025</ref>)</sourceNote></p>
+                    </td>
+                </tr>
+                
+                
+                
+                
+                <tr>
+                    
+                    <td class="align_left">3-4.</td>
+                    
+                    <td colspan="2" class="cellpadding_right_9 align_left cellpadding_left_3"><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="hk/2015/ln228">L.N. 228 of 2015</ref>)</sourceNote></td>
+                    <td></td>
+                </tr>
+                
+            </table>
+            
+            <marker role="blank-line"></marker>
+            
+        </content><sourceNote>(<ref>Schedule 2</ref> replaced <ref href="/hk/2011/ln117">L.N. 117 of
+                2011</ref>)</sourceNote></schedule></main></subLeg>

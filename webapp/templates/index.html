@@ -1,0 +1,159 @@
+{% extends "base.html" %}
+
+{% block title %}Home - IDAT7215 Hong Kong Legal Expert System{% endblock %}
+
+{% block content %}
+<div class="card">
+    <h2>Welcome to the IDAT7215 Hong Kong Legal Expert System</h2>
+    <p style="margin-bottom: 1.5rem;">
+        <strong>IDAT7215 Group Project:</strong> A comprehensive expert system covering <strong>ALL Hong Kong law</strong> - criminal, civil, commercial, employment, property, family law, and more.
+        This system uses official e-Legislation XML data with rule-based reasoning and machine learning for legal analysis.
+    </p>
+    
+    <div class="alert alert-success">
+        <strong>📚 Comprehensive Knowledge Base:</strong> Loaded with <strong id="total-sections">52,269</strong> sections 
+        from <strong id="total-ordinances">2,234</strong> Hong Kong ordinances across <strong id="total-categories">11</strong> legal categories.
+    </div>
+</div>
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem;">
+    <div class="card" style="border-top: 4px solid #667eea;">
+        <h2>⚖️ Legal Consultation</h2>
+        <p>Describe case facts from any legal area to get rule-based analysis. The system identifies potential legal issues using forward chaining inference across all Hong Kong law.</p>
+        <a href="/consultation" class="btn btn-primary" style="margin-top: 1rem; display: inline-block; text-decoration: none;">Start Consultation →</a>
+    </div>
+    
+    <div class="card" style="border-top: 4px solid #764ba2;">
+        <h2>🔍 Case Search</h2>
+        <p>Find similar past cases from Hong Kong courts using TF-IDF vectorization and cosine similarity matching across criminal, civil, and commercial matters.</p>
+        <a href="/case-search" class="btn btn-primary" style="margin-top: 1rem; display: inline-block; text-decoration: none;">Search Cases →</a>
+    </div>
+    
+    <div class="card" style="border-top: 4px solid #f093fb;">
+        <h2>📄 Document Analysis</h2>
+        <p>Paste any legal document to automatically extract facts using NLP, identify legal issues, and get instant analysis with relevant ordinance references.</p>
+        <a href="/document-analysis" class="btn btn-primary" style="margin-top: 1rem; display: inline-block; text-decoration: none;">Analyze Document →</a>
+    </div>
+</div>
+
+<div class="card">
+    <h2>System Features</h2>
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem; margin-top: 1rem;">
+        <div>
+            <h3 style="color: #667eea; font-size: 1.1rem; margin-bottom: 0.5rem;">✓ Official Legislation</h3>
+            <p>All 2,234 ordinances from official HK e-Legislation XML database</p>
+        </div>
+        <div>
+            <h3 style="color: #667eea; font-size: 1.1rem; margin-bottom: 0.5rem;">✓ Rule-Based Reasoning</h3>
+            <p>Forward chaining inference engine with legal rule application</p>
+        </div>
+        <div>
+            <h3 style="color: #667eea; font-size: 1.1rem; margin-bottom: 0.5rem;">✓ Case Matching</h3>
+            <p>TF-IDF vectorization with cosine similarity for finding precedents</p>
+        </div>
+        <div>
+            <h3 style="color: #667eea; font-size: 1.1rem; margin-bottom: 0.5rem;">✓ Document Analysis</h3>
+            <p>NLP-based automatic fact extraction and legal issue identification</p>
+        </div>
+        <div>
+            <h3 style="color: #667eea; font-size: 1.1rem; margin-bottom: 0.5rem;">✓ Explanation Facility</h3>
+            <p>Clear reasoning chains with complete ordinance citations</p>
+        </div>
+        <div>
+            <h3 style="color: #667eea; font-size: 1.1rem; margin-bottom: 0.5rem;">✓ 11 Legal Categories</h3>
+            <p>Criminal, civil, commercial, employment, property, family, and more</p>
+        </div>
+    </div>
+</div>
+
+<div class="card">
+    <h2>📚 Legal Coverage - ALL Hong Kong Law</h2>
+    <div id="categories-display" style="margin-top: 1rem;">
+        <p style="text-align: center; color: #999;">Loading categories...</p>
+    </div>
+</div>
+
+<div class="card">
+    <h2>🎯 Key Statistics</h2>
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 2rem; margin-top: 1rem; text-align: center;">
+        <div style="background: #667eea; color: white; padding: 2rem; border-radius: 8px;">
+            <div style="font-size: 2.5rem; font-weight: bold;" id="stat-ordinances">2,234</div>
+            <div>Total Ordinances</div>
+        </div>
+        <div style="background: #764ba2; color: white; padding: 2rem; border-radius: 8px;">
+            <div style="font-size: 2.5rem; font-weight: bold;" id="stat-sections">52,269</div>
+            <div>Total Sections</div>
+        </div>
+        <div style="background: #f093fb; color: white; padding: 2rem; border-radius: 8px;">
+            <div style="font-size: 2.5rem; font-weight: bold;" id="stat-categories">11</div>
+            <div>Legal Categories</div>
+        </div>
+        <div style="background: #4facfe; color: white; padding: 2rem; border-radius: 8px;">
+            <div style="font-size: 2.5rem; font-weight: bold;" id="stat-cases">21</div>
+            <div>Case Precedents</div>
+        </div>
+    </div>
+</div>
+
+<script>
+// Load statistics
+fetch('/api/stats')
+    .then(response => response.json())
+    .then(data => {
+        if (data.success) {
+            document.getElementById('total-sections').textContent = data.stats.total_sections.toLocaleString();
+            document.getElementById('total-ordinances').textContent = data.stats.total_ordinances.toLocaleString();
+            document.getElementById('stat-ordinances').textContent = data.stats.total_ordinances.toLocaleString();
+            document.getElementById('stat-sections').textContent = data.stats.total_sections.toLocaleString();
+            document.getElementById('stat-cases').textContent = data.stats.total_cases;
+            
+            // Display categories
+            const categoriesDiv = document.getElementById('categories-display');
+            let html = '<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1rem;">';
+            
+            const sortedCategories = Object.entries(data.stats.categories).sort((a, b) => b[1].sections - a[1].sections);
+            const topCategories = sortedCategories.slice(0, 10);  // Show top 10 categories
+            
+            topCategories.forEach(([category, info]) => {
+                const color = getCategoryColor(category);
+                html += `
+                    <div style="padding: 1rem; background: linear-gradient(135deg, ${color}22 0%, ${color}11 100%); border-left: 4px solid ${color}; border-radius: 6px;">
+                        <h4 style="color: ${color}; margin-bottom: 0.5rem; font-size: 1rem;">${category}</h4>
+                        <p style="margin: 0; font-size: 0.9rem; color: #666;">
+                            ${info.count} ordinances<br>
+                            ${info.sections.toLocaleString()} sections
+                        </p>
+                    </div>
+                `;
+            });
+            
+            html += '</div>';
+            if (sortedCategories.length > 10) {
+                html += `<p style="margin-top: 1rem; text-align: center; color: #999;">...and ${sortedCategories.length - 10} more categories</p>`;
+            }
+            categoriesDiv.innerHTML = html;
+            
+            document.getElementById('total-categories').textContent = sortedCategories.length;
+            document.getElementById('stat-categories').textContent = sortedCategories.length;
+        }
+    })
+    .catch(error => console.error('Error loading stats:', error));
+
+function getCategoryColor(category) {
+    const colors = {
+        'Criminal Law': '#e74c3c',
+        'Civil Law': '#3498db',
+        'Commercial & Company': '#9b59b6',
+        'Employment Law': '#1abc9c',
+        'Property & Land': '#f39c12',
+        'Family Law': '#e91e63',
+        'Tax & Revenue': '#34495e',
+        'Immigration': '#16a085',
+        'Intellectual Property': '#8e44ad',
+        'Constitutional & Administrative': '#2c3e50',
+        'Other': '#95a5a6'
+    };
+    return colors[category] || '#667eea';
+}
+</script>
+{% endblock %}

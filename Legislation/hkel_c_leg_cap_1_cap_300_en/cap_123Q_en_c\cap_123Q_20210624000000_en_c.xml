@@ -1,0 +1,2159 @@
+<?xml version="1.0" encoding="UTF-8"?><subLeg xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd" identifier="/hk/cap123Q!en" xml:lang="en"><meta><docType>cap</docType><docNumber>123Q</docNumber><docStatus>In effect</docStatus><docName>Cap. 123 sub. leg. Q</docName><dc:identifier>/hk/cap123Q!en</dc:identifier><dc:date>2021-06-24</dc:date><dc:subject>legislation</dc:subject><dc:language>en</dc:language><dc:publisher>DoJ</dc:publisher><dc:rights>The Government of the Hong Kong Special Administrative Region</dc:rights></meta><main><docTitle startPeriod="2021-06-24" status="operational" reason="inEffect" id="ID_1578620304965_001" name="shortTitle" temporalId="shortTitle">
+      <content>Building (Construction) Regulation</content>
+    </docTitle><enactingFormula>(<ref href="/hk/cap123/s38">Cap. 123, section
+      38(1)</ref>)</enactingFormula><sourceNote>(Enacting provision omitted—<ref href="hk/2021/er3">E.R. 3 of 2021</ref>)</sourceNote><commencementNote><marker role="blank-line"></marker><marker role="blank-line"></marker>[1
+      February 2021]</commencementNote><part startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212645285_002" name="P1" temporalId="P1"><num value="1">Part 1</num><heading>Preliminary</heading><section startPeriod="2021-06-24" status="omitted" reason="omittedAsSpent" id="ID_1595212645285_003" name="s1" temporalId="s1"><num value="1">1.</num><sourceNote>(Omitted as spent—<ref href="hk/2021/er3">E.R. 3 of 2021</ref>)</sourceNote></section><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212645316_004" name="s2" temporalId="s2"><num value="2">2.</num><heading>Interpretation</heading><leadIn>In this Regulation—</leadIn><def name="Carriageway"><term>carriageway</term> (<term xml:lang="zh-Hant-HK">車路</term>) means a part of a private street, cul-de-sac or access road, used or intended to be used by vehicular traffic;</def><def name="DeadLoad"><term>dead load</term> (<term xml:lang="zh-Hant-HK">恆載</term>)—see <ref>section 4</ref>;</def><def name="Foundation"><term>foundation</term> (<term xml:lang="zh-Hant-HK">基礎</term>) means the part of a building, street, building works or street works that—<paragraph id="ID_1595212645363_005" name="a" temporalId="s2_a"><num value="a">(a)</num><content>is in direct contact with the ground; and</content></paragraph><paragraph id="ID_1595212645363_006" name="b" temporalId="s2_b"><num value="b">(b)</num><content>transmits load to the ground;</content></paragraph></def><def name="ImposedLoad"><term>imposed load</term> (<term xml:lang="zh-Hant-HK">外加荷載</term>)—see <ref>section 5</ref>;</def><def name="InaccessibleRoof"><term>inaccessible roof</term> (<term xml:lang="zh-Hant-HK">非開放屋頂</term>)—see <ref>section 36(2)</ref>;</def><def name="SiteInvestigation"><term>site investigation</term> (<term xml:lang="zh-Hant-HK">地盤勘測</term>), in relation to a site, means investigation of the physical characteristics of the site and includes documentary studies, site surveys and ground investigation;</def><def name="WindLoad"><term>wind load</term> (<term xml:lang="zh-Hant-HK">風荷載</term>)—see <ref>section 6</ref>.</def></section></part><part startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212645410_007" name="P2" temporalId="P2"><num value="2">Part 2</num><heading>Requirements for Materials</heading><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212645410_008" name="s3" temporalId="s3"><num value="3">3.</num><heading>Materials</heading><subsection id="ID_1595212645410_009" name="1" temporalId="s3_1"><num value="1">(1)</num><leadIn>All materials used in building works or street works must be—</leadIn><paragraph id="ID_1595212645441_010" name="a" temporalId="s3_1_a"><num value="a">(a)</num><content>of a nature and quality suitable for their intended use or purpose;</content></paragraph><paragraph id="ID_1595212645457_011" name="b" temporalId="s3_1_b"><num value="b">(b)</num><content>adequately mixed or prepared; and</content></paragraph><paragraph id="ID_1595212645457_012" name="c" temporalId="s3_1_c"><num value="c">(c)</num><content>applied, used or fixed so as to perform adequately their intended functions.</content></paragraph></subsection><subsection id="ID_1595212645457_013" name="2" temporalId="s3_2"><num value="2">(2)</num><content>To ensure that subsection (1) is complied with, the materials used must be adequately tested by recognized tests.</content></subsection></section></part><part startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212645472_014" name="P3" temporalId="P3"><num value="3">Part 3</num><heading>Loads</heading><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212645472_015" name="s4" temporalId="s4"><num value="4">4.</num><heading>Dead loads</heading><subsection id="ID_1595212645472_016" name="1" temporalId="s4_1"><num value="1">(1)</num><content>In this Regulation, a reference to dead load is to be construed according to this section.</content></subsection><subsection id="ID_1595212645488_017" name="2" temporalId="s4_2"><num value="2">(2)</num><content>Dead load is a load of permanent nature.</content></subsection><subsection id="ID_1595212645488_018" name="3" temporalId="s4_3"><num value="3">(3)</num><content>The dead load of any building, street, building works or street works is, in each case, the total weight of its walls, floors, roofs, finishes, permanent partitions and any other permanent constructions.</content></subsection><subsection id="ID_1595212645535_019" name="4" temporalId="s4_4"><num value="4">(4)</num><content>For the purposes of subsection (3), the dead load must be calculated on the basis of the unit weight of the materials derived from reliable data.</content></subsection></section><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212645551_020" name="s5" temporalId="s5"><num value="5">5.</num><heading>Imposed loads</heading><subsection id="ID_1595212645551_021" name="1" temporalId="s5_1"><num value="1">(1)</num><content>In this Regulation, a reference to imposed load is to be construed according to this section.</content></subsection><subsection id="ID_1595212645566_022" name="2" temporalId="s5_2"><num value="2">(2)</num><content>Imposed load is a load other than dead load or wind load.</content></subsection><subsection id="ID_1595212645566_023" name="3" temporalId="s5_3"><num value="3">(3)</num><content>The imposed load on any building, street, building works or street works is, in each case, the greatest applied load likely to arise from its intended use or purpose (including forces exerted by the adjacent ground).</content></subsection><subsection id="ID_1595212645566_024" name="4" temporalId="s5_4"><num value="4">(4)</num><content>For the purposes of subsection (3), the greatest applied load must be derived from reliable data.</content></subsection></section><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212645566_025" name="s6" temporalId="s6"><num value="6">6.</num><heading>Wind loads</heading><subsection id="ID_1595212645566_026" name="1" temporalId="s6_1"><num value="1">(1)</num><content>In this Regulation, a reference to wind load is to be construed according to this section.</content></subsection><subsection id="ID_1595212645566_027" name="2" temporalId="s6_2"><num value="2">(2)</num><content>Wind load is any load due to the effects of wind pressure or suction.</content></subsection><subsection id="ID_1595212645566_028" name="3" temporalId="s6_3"><num value="3">(3)</num><content>The wind load on any building, street, building works or street works must be based, in each case, on its response to the effect of winds from any direction.</content></subsection><subsection id="ID_1595212645566_029" name="4" temporalId="s6_4"><num value="4">(4)</num><content>The effect of winds referred to in subsection (3) must be suitably determined by considering the magnitude of winds having a return period of not less than 50 years.</content></subsection></section><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212645582_030" name="s7" temporalId="s7"><num value="7">7.</num><heading>Imposed loads to be applied</heading><subsection id="ID_1595212645582_031" name="1" temporalId="s7_1"><num value="1">(1)</num><leadIn>The minimum imposed load on a building, street, building works or street works must be whichever of the following that produces the greater adverse effect on the building, street, building works or street works—</leadIn><paragraph id="ID_1595212645582_032" name="a" temporalId="s7_1_a"><num value="a">(a)</num><content>the distributed load specified in column 3 of Table 1 in the <ref>Schedule </ref>applied uniformly on plan; or</content></paragraph><paragraph id="ID_1595212645582_033" name="b" temporalId="s7_1_b"><num value="b">(b)</num><leadIn>either of the following—</leadIn><subparagraph id="ID_1595212645582_034" name="1" temporalId="s7_1_b_1"><num value="1">(i)</num><content>the concentrated load specified in column 4 of the Table applied on plan over any square with a 50 mm side (or other dimension specified in that column);</content></subparagraph><subparagraph id="ID_1595212645597_035" name="2" temporalId="s7_1_b_2"><num value="2">(ii)</num><content>the line load specified in column 4 of the Table.</content></subparagraph></paragraph></subsection><subsection id="ID_1595212645597_036" name="2" temporalId="s7_2"><num value="2">(2)</num><leadIn>If the floor of a building is to support partitions but the positions of the partitions are not indicated on the plan of the building, the weight of the partitions—</leadIn><paragraph id="ID_1595212645597_037" name="a" temporalId="s7_2_a"><num value="a">(a)</num><content>is to be regarded as the distributed imposed load applied uniformly on plan; and</content></paragraph><paragraph id="ID_1595212645597_038" name="b" temporalId="s7_2_b"><num value="b">(b)</num><leadIn>in addition to other imposed loads—</leadIn><subparagraph id="ID_1595212645597_039" name="1" temporalId="s7_2_b_1"><num value="1">(i)</num><content>has to be not less than one-third of the weight per metre length of the partitions uniformly distributed per square metre; and</content></subparagraph><subparagraph id="ID_1595212645597_040" name="2" temporalId="s7_2_b_2"><num value="2">(ii)</num><content>has to be not less than 1 kPa if the floor is used for office purposes.</content></subparagraph></paragraph></subsection><subsection id="ID_1595212645613_041" name="3" temporalId="s7_3"><num value="3">(3)</num><content>If the floor of a building is to support equipment, machinery or displaying items that will result in an imposed load greater than that specified in Table 1, the load of the equipment, machinery or displaying items must be taken into account in determining the imposed load on the floor.</content></subsection></section><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212645613_042" name="s8" temporalId="s8"><num value="8">8.</num><heading>Reduction of imposed loads</heading><subsection id="ID_1595212645613_043" name="1" temporalId="s8_1"><num value="1">(1)</num><content>Subject to subsections (2), (3), (4) and (5), in determining the total imposed load on a column, pier, wall or foundation (<i><b>the </b></i><b><i>member</i></b><b><i> under consideration</i></b>), a reduction specified in Table 2 in the <ref>Schedule </ref>may be applied to the distributed imposed load on the roof and on every floor carried by the member under consideration.</content></subsection><subsection id="ID_1595212645613_044" name="2" temporalId="s8_2"><num value="2">(2)</num><content>If a single span of beam supports not less than 45 m<sup>2</sup> of floor at any level, for the purpose only of designing the beam, a reduction referred to in subsection (3) may be applied to the distributed imposed load on the floor that the beam supports.</content></subsection><subsection id="ID_1595212645613_045" name="3" temporalId="s8_3"><num value="3">(3)</num><leadIn>The reduction that may be applied is—</leadIn><paragraph id="ID_1595212645629_046" name="a" temporalId="s8_3_a"><num value="a">(a)</num><content>5% for each complete 45 m<sup>2</sup> of the floor that the beam supports; and</content></paragraph><paragraph id="ID_1595212645629_047" name="b" temporalId="s8_3_b"><num value="b">(b)</num><content>not more than 20% in total for the floor that the beam supports.</content></paragraph></subsection><subsection id="ID_1595212645629_048" name="4" temporalId="s8_4"><num value="4">(4)</num><content>For factories and workshops designed for a distributed imposed load of 7.5 kPa or more, the total imposed load must not be reduced below the value of the imposed load that is obtained if all the floors had been designed for a distributed imposed load of 7.5 kPa without the reduction specified in Table 2.</content></subsection><subsection id="ID_1595212645629_049" name="5" temporalId="s8_5"><num value="5">(5)</num><leadIn>The imposed loads must not be reduced in relation to—</leadIn><paragraph id="ID_1595212645629_050" name="a" temporalId="s8_5_a"><num value="a">(a)</num><content>floors of a building that support the equipment, machinery or displaying items referred to in <ref>section 7(3)</ref>;</content></paragraph><paragraph id="ID_1595212645629_051" name="b" temporalId="s8_5_b"><num value="b">(b)</num><content>floors of factories and workshops designed for a distributed imposed load of less than 7.5 kPa;</content></paragraph><paragraph id="ID_1595212645629_052" name="c" temporalId="s8_5_c"><num value="c">(c)</num><content>floors used by vehicles;</content></paragraph><paragraph id="ID_1595212645629_053" name="d" temporalId="s8_5_d"><num value="d">(d)</num><content>office areas used for storage and filing purposes;</content></paragraph><paragraph id="ID_1595212645629_054" name="e" temporalId="s8_5_e"><num value="e">(e)</num><content>forces produced by dynamic effects;</content></paragraph><paragraph id="ID_1595212645644_055" name="f" temporalId="s8_5_f"><num value="f">(f)</num><content>floors used for storage purposes; or</content></paragraph><paragraph id="ID_1595212645644_056" name="g" temporalId="s8_5_g"><num value="g">(g)</num><content>loads from partitions the positions of which are not indicated on the plan of the building.</content></paragraph></subsection></section><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212645644_057" name="s9" temporalId="s9"><num value="9">9.</num><heading>Imposed loads—design of protective barrier</heading><subsection id="ID_1595212645644_058" name="1" temporalId="s9_1"><num value="1">(1)</num><content>A protective barrier installed to restrict or control the movement of persons must be designed to resist the minimum horizontal imposed loads specified in Table 3 in the <ref>Schedule </ref>when separately applied (<i><b>relevant imposed load</b></i>).</content></subsection><subsection id="ID_1595212645644_059" name="2" temporalId="s9_2"><num value="2">(2)</num><content>If the wind load is applicable, the protective barrier must be designed to resist the relevant imposed load or the wind load, whichever produces the greater adverse effect.</content></subsection><subsection id="ID_1595212645644_060" name="3" temporalId="s9_3"><num value="3">(3)</num><leadIn>A vehicle barrier for a carriageway, floor, driveway or ramp used by vehicles must be designed to withstand the greatest impact force anticipated, subject to the following requirements—</leadIn><paragraph id="ID_1595212645644_061" name="a" temporalId="s9_3_a"><num value="a">(a)</num><leadIn>the minimum design impact force on a vehicle barrier is to be [0.5 Mv<sup>2</sup> / (δc + δb)] kN where—</leadIn><subparagraph class="left_indent_108 first_line_indent_-54" id="ID_1595212645644_062" name="M" temporalId="s9_3_a_M"><num value="M">M</num><content>is the gross mass in kg of the heaviest vehicle that would be allowed to use the carriageway, floor, driveway or ramp;</content></subparagraph><subparagraph class="left_indent_108 first_line_indent_-54" id="ID_1595212645660_063" name="5" temporalId="s9_3_a_5"><num value="5">v</num><content>is the velocity of the vehicle normal to the barrier in metre per second;</content></subparagraph><subparagraph class="left_indent_108 first_line_indent_-54" id="ID_1595212645660_064" name="c" temporalId="s9_3_a_c"><num value="c">δc</num><content>is the deformation of the vehicle in mm; and</content></subparagraph><subparagraph class="left_indent_108 first_line_indent_-54" id="ID_1595212645660_065" name="b" temporalId="s9_3_a_b"><num value="b">δb</num><content>is the deflection of the barrier in mm; and</content></subparagraph></paragraph><paragraph id="ID_1595212645660_066" name="b" temporalId="s9_3_b"><num value="b">(b)</num><content>the impact force is to be uniformly distributed over any length of 1.5 m and acting horizontally at the bumper height of the vehicle.</content></paragraph></subsection></section><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212645660_067" name="s10" temporalId="s10"><num value="10">10.</num><heading>Imposed loads—forces produced by dynamic effects</heading><subsection id="ID_1595212645676_068" name="1" temporalId="s10_1"><num value="1">(1)</num><content>Forces produced by dynamic effects are considered as additional imposed loads in the design of any building, street, building works and street works.</content></subsection><subsection id="ID_1595212645691_069" name="2" temporalId="s10_2"><num value="2">(2)</num><content>Subject to subsection (3), the forces produced by dynamic effects in a factory, workshop or other building for industrial use may be determined on the basis of information about the factory, workshop or building.</content></subsection><subsection id="ID_1595212645691_070" name="3" temporalId="s10_3"><num value="3">(3)</num><leadIn>If the forces referred to in subsection (2) are not determined on the basis of information about the factory, workshop or building—</leadIn><paragraph id="ID_1595212645691_071" name="a" temporalId="s10_3_a"><num value="a">(a)</num><content>for the purpose only of determining the design of slabs and beams—the forces are taken to be an additional vertical imposed load of 2.5 kPa; and</content></paragraph><paragraph id="ID_1595212645707_072" name="b" temporalId="s10_3_b"><num value="b">(b)</num><content>for the purpose of determining the design of structural frames and foundations—the forces are taken to be an additional horizontal force (which may be assumed not to act together with the wind load) of 10% of the imposed load specified in paragraph (a), acting simultaneously on the number of floors (<i><b>the number</b></i>) that will produce the greatest adverse effect, where the number should be a whole number not less than 0.2 times the total number of floors subject to dynamic effects.</content></paragraph></subsection></section><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212645707_073" name="s11" temporalId="s11"><num value="11">11.</num><heading>Notice as to load</heading><subsection id="ID_1595212645707_074" name="1" temporalId="s11_1"><num value="1">(1)</num><content>This section applies to industrial buildings and warehouses.</content></subsection><subsection id="ID_1595212645722_075" name="2" temporalId="s11_2"><num value="2">(2)</num><leadIn>A notice stating the designed distributed imposed load of a floor of an industrial building or warehouse must be displayed permanently and conspicuously at—</leadIn><paragraph id="ID_1595212645722_076" name="a" temporalId="s11_2_a"><num value="a">(a)</num><content>each staircase of every storey of the building or warehouse; or</content></paragraph><paragraph id="ID_1595212645722_077" name="b" temporalId="s11_2_b"><num value="b">(b)</num><content>another appropriate place of the building or warehouse.</content></paragraph></subsection><subsection id="ID_1595212645722_078" name="3" temporalId="s11_3"><num value="3">(3)</num><content>If different parts of a floor of the building or warehouse have different designed distributed imposed loads, a notice stating the designed distributed imposed load of each part of the floor must be displayed permanently and conspicuously at that part.</content></subsection><subsection id="ID_1595212645722_079" name="4" temporalId="s11_4"><num value="4">(4)</num><content>A notice referred to in subsection (2) or (3) must be legible and made of durable materials.</content></subsection><subsection id="ID_1595212645722_080" name="5" temporalId="s11_5"><num value="5">(5)</num><leadIn>In this section—</leadIn><def name="DesignedDistributedImposedLoad"><term>designed distributed imposed load</term> (<term xml:lang="zh-Hant-HK">設計分布外加荷載</term>), in relation to a floor of an industrial building or warehouse, means the distributed imposed load in terms of weight per square metre, excluding the dynamic effects, for which the floor of the industrial building or warehouse is designed.</def></subsection></section><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212645738_081" name="s12" temporalId="s12"><num value="12">12.</num><heading>Overloading</heading><subsection id="ID_1595212645738_082" name="1" temporalId="s12_1"><num value="1">(1)</num><content>Subject to subsection (2), any building, street, building works or street works is not to be subject to a load beyond its proper bearing capacity.</content></subsection><subsection id="ID_1595212645738_083" name="2" temporalId="s12_2"><num value="2">(2)</num><content>This section does not apply in relation to any load that may be required for the purpose of testing.</content></subsection></section></part><part startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212645738_084" name="P4" temporalId="P4"><num value="4">Part 4</num><heading>Requirements for Design and Construction</heading><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212645738_085" name="s13" temporalId="s13"><num value="13">13.</num><heading>Design methodology</heading><leadIn>The design for any building, street, building works and street works must be in conformity with—</leadIn><paragraph id="ID_1595212645738_086" name="a" temporalId="s13_a"><num value="a">(a)</num><content>the laws of mechanics;</content></paragraph><paragraph id="ID_1595212645754_087" name="b" temporalId="s13_b"><num value="b">(b)</num><content>recognized engineering principles; and</content></paragraph><paragraph id="ID_1595212645754_088" name="c" temporalId="s13_c"><num value="c">(c)</num><content>recognized engineering practices.</content></paragraph></section><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212645754_089" name="s14" temporalId="s14"><num value="14">14.</num><heading>Strength and serviceability considerations</heading><subsection id="ID_1595212645754_090" name="1" temporalId="s14_1"><num value="1">(1)</num><content>This section applies to the structure of any building, street, building works and street works.</content></subsection><subsection id="ID_1595212645754_091" name="2" temporalId="s14_2"><num value="2">(2)</num><leadIn>The structure must be capable of—</leadIn><paragraph id="ID_1595212645754_092" name="a" temporalId="s14_2_a"><num value="a">(a)</num><content>safely sustaining the combination of the dead loads, imposed loads and wind loads; and</content></paragraph><paragraph id="ID_1595212645754_093" name="b" temporalId="s14_2_b"><num value="b">(b)</num><content>safely transmitting the loads referred to in paragraph (a) to the ground.</content></paragraph></subsection><subsection id="ID_1595212645754_094" name="3" temporalId="s14_3"><num value="3">(3)</num><content>The structure must be designed and constructed with an adequate factor of safety.</content></subsection><subsection id="ID_1595212645754_095" name="4" temporalId="s14_4"><num value="4">(4)</num><leadIn>The design and construction of the structure must not—</leadIn><paragraph id="ID_1595212645754_096" name="a" temporalId="s14_4_a"><num value="a">(a)</num><leadIn>cause any cracks, deflection, deformation or other movement that may adversely affect the intended use or performance of—</leadIn><subparagraph id="ID_1595212645754_097" name="1" temporalId="s14_4_a_1"><num value="1">(i)</num><content>the whole or any part of the building, street, building works or street works; or</content></subparagraph><subparagraph id="ID_1595212645754_098" name="2" temporalId="s14_4_a_2"><num value="2">(ii)</num><content>the whole or any part of any other building, structure, land, street or services;</content></subparagraph></paragraph><paragraph id="ID_1595212645769_099" name="b" temporalId="s14_4_b"><num value="b">(b)</num><leadIn>cause any damage to—</leadIn><subparagraph id="ID_1595212645769_100" name="1" temporalId="s14_4_b_1"><num value="1">(i)</num><content>the building, street, building works or street works; or</content></subparagraph><subparagraph id="ID_1595212645785_101" name="2" temporalId="s14_4_b_2"><num value="2">(ii)</num><content>any other building, structure, land, street or services; or</content></subparagraph></paragraph><paragraph id="ID_1595212645785_102" name="c" temporalId="s14_4_c"><num value="c">(c)</num><content>render inadequate the factor of safety of any other building, street, building works or street works.</content></paragraph></subsection><subsection id="ID_1595212645801_103" name="5" temporalId="s14_5"><num value="5">(5)</num><content>The loads referred to in subsection <ref>(2)(a)</ref> are to be determined in accordance with <ref>Part 3</ref>.</content></subsection></section><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212645816_104" name="s15" temporalId="s15"><num value="15">15.</num><heading>Stability</heading><content>A building, street, building works or street works must be designed and constructed with an adequate margin of safety against instability.</content></section><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212645816_105" name="s16" temporalId="s16"><num value="16">16.</num><heading>Construction methods and procedures</heading><subsection id="ID_1595212645816_106" name="1" temporalId="s16_1"><num value="1">(1)</num><leadIn>In carrying out building works or street works—</leadIn><paragraph id="ID_1595212645816_107" name="a" temporalId="s16_1_a"><num value="a">(a)</num><content>appropriate construction methods and procedures must be adopted; and</content></paragraph><paragraph id="ID_1595212645832_108" name="b" temporalId="s16_1_b"><num value="b">(b)</num><content>appropriate precautionary measures must be taken.</content></paragraph></subsection><subsection id="ID_1595212645832_109" name="2" temporalId="s16_2"><num value="2">(2)</num><leadIn>Without limiting subsection (1), that subsection is not taken to be complied with in relation to a building, structure, land, street or services if—</leadIn><paragraph id="ID_1595212645832_110" name="a" temporalId="s16_2_a"><num value="a">(a)</num><content>the factor of safety or margin of safety against instability of the building, structure, land, street or services is rendered inadequate;</content></paragraph><paragraph id="ID_1595212645847_111" name="b" temporalId="s16_2_b"><num value="b">(b)</num><content>damage is caused to any building, structure, land, street or services; or</content></paragraph><paragraph id="ID_1595212645847_112" name="c" temporalId="s16_2_c"><num value="c">(c)</num><content>crack, undue deformation or other movement of the whole or any part of the building works or street works (whether in its temporary or permanent state) occurs to the extent that the structure of the works would exceed its acceptable dimensional tolerance.</content></paragraph></subsection></section></part><part startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212645847_113" name="P5" temporalId="P5"><num value="5">Part 5</num><heading>Requirements for Site Investigation</heading><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212645847_114" name="s17" temporalId="s17"><num value="17">17.</num><heading>Site investigation</heading><subsection id="ID_1595212645847_115" name="1" temporalId="s17_1"><num value="1">(1)</num><content>This section applies to a site investigation of a site in respect of building works or street works.</content></subsection><subsection id="ID_1595212645847_116" name="2" temporalId="s17_2"><num value="2">(2)</num><content>A site investigation that provides adequate geotechnical and any other relevant data for the design and construction of the works must be carried out in conformity with recognized standards.</content></subsection></section></part><part startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212645847_117" name="P6" temporalId="P6"><num value="6">Part 6</num><heading>Requirements for Foundations</heading><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212645847_118" name="s18" temporalId="s18"><num value="18">18.</num><heading>Foundations</heading><subsection id="ID_1595212645863_119" name="1" temporalId="s18_1"><num value="1">(1)</num><leadIn>A foundation of a building, street, building works or street works must be capable of—</leadIn><paragraph id="ID_1595212645894_120" name="a" temporalId="s18_1_a"><num value="a">(a)</num><content>safely sustaining the combination of the dead loads, imposed loads and wind loads from the building, street, building works or street works, and any other loads, exerted on the foundation; and</content></paragraph><paragraph id="ID_1595212645910_121" name="b" temporalId="s18_1_b"><num value="b">(b)</num><content>safely transmitting the loads referred to in paragraph (a) to the ground.</content></paragraph></subsection><subsection id="ID_1595212645910_122" name="2" temporalId="s18_2"><num value="2">(2)</num><leadIn>The design and construction of a foundation must take into account—</leadIn><paragraph id="ID_1595212645910_123" name="a" temporalId="s18_2_a"><num value="a">(a)</num><content>the conditions of the ground on which the foundation rests;</content></paragraph><paragraph id="ID_1595212645910_124" name="b" temporalId="s18_2_b"><num value="b">(b)</num><content>its installation method; and</content></paragraph><paragraph id="ID_1595212645910_125" name="c" temporalId="s18_2_c"><num value="c">(c)</num><content>the group effects of the foundation system.</content></paragraph></subsection><subsection id="ID_1595212645910_126" name="3" temporalId="s18_3"><num value="3">(3)</num><content>The foundation must be designed and constructed with an adequate factor of safety.</content></subsection><subsection id="ID_1595212645910_127" name="4" temporalId="s18_4"><num value="4">(4)</num><leadIn>The design and construction of a foundation of a building, street, building works or street works must not—</leadIn><paragraph id="ID_1595212645910_128" name="a" temporalId="s18_4_a"><num value="a">(a)</num><content>impair the stability of any other building, structure, land, street or services;</content></paragraph><paragraph id="ID_1595212645910_129" name="b" temporalId="s18_4_b"><num value="b">(b)</num><content>cause any damage to any other building, structure, land, street or services; or</content></paragraph><paragraph id="ID_1595212645910_130" name="c" temporalId="s18_4_c"><num value="c">(c)</num><content>render inadequate the factor of safety of any other building, structure, land, street or services.</content></paragraph></subsection><subsection id="ID_1595212645926_131" name="5" temporalId="s18_5"><num value="5">(5)</num><content>A site investigation of the relevant site must be carried out in compliance with <ref>section 17</ref> before a foundation is constructed.</content></subsection><subsection id="ID_1595212645926_132" name="6" temporalId="s18_6"><num value="6">(6)</num><leadIn>The ground on which the foundation of any building, street, building works or street works rests must be capable of safely sustaining the combination of the following loads with an adequate factor of safety—</leadIn><paragraph id="ID_1595212645926_133" name="a" temporalId="s18_6_a"><num value="a">(a)</num><content>the dead loads of the building, street, building works or street works;</content></paragraph><paragraph id="ID_1595212645926_134" name="b" temporalId="s18_6_b"><num value="b">(b)</num><content>the imposed loads on the building, street, building works or street works;</content></paragraph><paragraph id="ID_1595212645926_135" name="c" temporalId="s18_6_c"><num value="c">(c)</num><content>the wind loads on the building, street, building works or street works; and</content></paragraph><paragraph id="ID_1595212645926_136" name="d" temporalId="s18_6_d"><num value="d">(d)</num><content>any other loads exerted on the foundation.</content></paragraph></subsection></section><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212645926_137" name="s19" temporalId="s19"><num value="19">19.</num><heading>Building Authority may require on-site tests</heading><subsection id="ID_1595212645926_138" name="1" temporalId="s19_1"><num value="1">(1)</num><content>If the Building Authority has any doubt as to the design assumption or load carrying capacity of a foundation, the Building Authority may require tests to be carried out on-site.</content></subsection><subsection id="ID_1595212645926_139" name="2" temporalId="s19_2"><num value="2">(2)</num><leadIn>The tests may be carried out on the foundation or on the ground on which the foundation rests—</leadIn><paragraph id="ID_1595212645926_140" name="a" temporalId="s19_2_a"><num value="a">(a)</num><content>by means of imposition of test loads; or</content></paragraph><paragraph id="ID_1595212645926_141" name="b" temporalId="s19_2_b"><num value="b">(b)</num><content>by means of any other suitable method.</content></paragraph></subsection></section><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212645941_142" name="s20" temporalId="s20"><num value="20">20.</num><heading>Proof tests on foundation units</heading><subsection id="ID_1595212645941_143" name="1" temporalId="s20_1"><num value="1">(1)</num><content>To ascertain the performance of a foundation under load, representative foundation units of the foundation must be adequately tested by proof tests.</content></subsection><subsection id="ID_1595212645941_144" name="2" temporalId="s20_2"><num value="2">(2)</num><leadIn>The proof tests may be carried out by means of any of the following methods that is appropriate to the type of foundation—</leadIn><paragraph id="ID_1595212645941_145" name="a" temporalId="s20_2_a"><num value="a">(a)</num><content>imposition of test loads;</content></paragraph><paragraph id="ID_1595212645941_146" name="b" temporalId="s20_2_b"><num value="b">(b)</num><content>core drilling of the completed cast-in-place concrete foundation;</content></paragraph><paragraph id="ID_1595212645941_147" name="c" temporalId="s20_2_c"><num value="c">(c)</num><content>any other suitable method.</content></paragraph></subsection></section></part><part startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212645941_148" name="P7" temporalId="P7"><num value="7">Part 7</num><heading>Requirements for Site Formation Works</heading><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212645941_149" name="s21" temporalId="s21"><num value="21">21.</num><heading>Site formation works</heading><subsection id="ID_1595212645941_150" name="1" temporalId="s21_1"><num value="1">(1)</num><content>Site formation works must be designed and constructed so as to provide an adequate margin of safety of the works and the remainder of the site during and after the construction.</content></subsection><subsection id="ID_1595212645941_151" name="2" temporalId="s21_2"><num value="2">(2)</num><leadIn>The design and construction of site formation works must not—</leadIn><paragraph id="ID_1595212645941_152" name="a" temporalId="s21_2_a"><num value="a">(a)</num><content>cause any damage to any building, structure, land, street or services; or</content></paragraph><paragraph id="ID_1595212645941_153" name="b" temporalId="s21_2_b"><num value="b">(b)</num><content>render inadequate the margin of safety of any building, structure, land, street or services.</content></paragraph></subsection></section><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212645941_154" name="s22" temporalId="s22"><num value="22">22.</num><heading>Interpretation—<ref>sections 22</ref>, <ref>23</ref> and <ref>24</ref></heading><leadIn>In this section and <ref>sections 23</ref> and <ref>24</ref>—</leadIn><def name="MinorRetainingWall"><term>minor retaining wall</term> (<term xml:lang="zh-Hant-HK">小型擋土牆</term>) means a retaining wall that meets the following descriptions—<paragraph id="ID_1595212645957_155" name="a" temporalId="s22_a"><num value="a">(a)</num><content>the difference between the upper ground level, and the lower ground level, next to the wall does not exceed 1.5 m;</content></paragraph><paragraph id="ID_1595212645957_156" name="b" temporalId="s22_b"><num value="b">(b)</num><content>the average inclination of the ground on the upper ground level next to the wall does not exceed 15 degrees to the horizontal; and</content></paragraph><paragraph id="ID_1595212645957_157" name="c" temporalId="s22_c"><num value="c">(c)</num><content>the surcharges from the foundation or any other structures do not impose any loading on the wall;</content></paragraph></def><def name="RetainingWall"><term>retaining wall</term> (<term xml:lang="zh-Hant-HK">擋土牆</term>) means a permanent structure on land that retains earth or fill.</def></section><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212645972_158" name="s23" temporalId="s23"><num value="23">23.</num><heading>Retaining wall—design and construction</heading><subsection id="ID_1595212645972_159" name="1" temporalId="s23_1"><num value="1">(1)</num><leadIn>A retaining wall must be capable of safely supporting—</leadIn><paragraph id="ID_1595212645972_160" name="a" temporalId="s23_1_a"><num value="a">(a)</num><content>the earth or fill it retains; and</content></paragraph><paragraph id="ID_1595212645972_161" name="b" temporalId="s23_1_b"><num value="b">(b)</num><content>other loads exerted on the wall.</content></paragraph></subsection><subsection id="ID_1595212645972_162" name="2" temporalId="s23_2"><num value="2">(2)</num><leadIn>The design of a retaining wall must—</leadIn><paragraph id="ID_1595212645972_163" name="a" temporalId="s23_2_a"><num value="a">(a)</num><content>enable the function referred to in subsection (1) to be performed under the most onerous loading conditions during the wall’s construction and throughout the service life of the wall;</content></paragraph><paragraph id="ID_1595212645972_164" name="b" temporalId="s23_2_b"><num value="b">(b)</num><content>be in conformity with recognized engineering principles; and</content></paragraph><paragraph id="ID_1595212645972_165" name="c" temporalId="s23_2_c"><num value="c">(c)</num><content>be based on data from a site investigation of the relevant site carried out in compliance with <ref>section 17</ref>.</content></paragraph></subsection><subsection id="ID_1595212645972_166" name="3" temporalId="s23_3"><num value="3">(3)</num><leadIn>A retaining wall must be designed with an adequate factor of safety against—</leadIn><paragraph id="ID_1595212645972_167" name="a" temporalId="s23_3_a"><num value="a">(a)</num><content>sliding;</content></paragraph><paragraph id="ID_1595212645972_168" name="b" temporalId="s23_3_b"><num value="b">(b)</num><content>overturning;</content></paragraph><paragraph id="ID_1595212645988_169" name="c" temporalId="s23_3_c"><num value="c">(c)</num><content>ultimate bearing failure; and</content></paragraph><paragraph id="ID_1595212645988_170" name="d" temporalId="s23_3_d"><num value="d">(d)</num><content>failure on a surface passing beneath the wall.</content></paragraph></subsection><subsection id="ID_1595212645988_171" name="4" temporalId="s23_4"><num value="4">(4)</num><leadIn>The design and construction of a retaining wall must not—</leadIn><paragraph id="ID_1595212645988_172" name="a" temporalId="s23_4_a"><num value="a">(a)</num><content>impair the stability of any building, structure, land, street or services; or</content></paragraph><paragraph id="ID_1595212645988_173" name="b" temporalId="s23_4_b"><num value="b">(b)</num><content>cause any damage to any building, structure, land, street or services.</content></paragraph></subsection></section><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212645988_174" name="s24" temporalId="s24"><num value="24">24.</num><heading>Retaining wall—drainage and other requirements</heading><subsection id="ID_1595212645988_175" name="1" temporalId="s24_1"><num value="1">(1)</num><content>This section applies to a retaining wall other than a minor retaining wall.</content></subsection><subsection id="ID_1595212645988_176" name="2" temporalId="s24_2"><num value="2">(2)</num><leadIn>The design and construction of a filter of a retaining wall that is placed against soil must—</leadIn><paragraph id="ID_1595212645988_177" name="a" temporalId="s24_2_a"><num value="a">(a)</num><content>allow water to flow through the filter; and</content></paragraph><paragraph id="ID_1595212645988_178" name="b" temporalId="s24_2_b"><num value="b">(b)</num><content>restrain migration of particles from the soil.</content></paragraph></subsection><subsection id="ID_1595212645988_179" name="3" temporalId="s24_3"><num value="3">(3)</num><content>If a drainage system is provided for a retaining wall to reduce any water pressure that may be imposed on the wall, the system must be designed and constructed so that the performance of the system can be maintained throughout the service life of the wall.</content></subsection><subsection id="ID_1595212645988_180" name="4" temporalId="s24_4"><num value="4">(4)</num><content>Backfill of a retaining wall must consist of material that can be compacted to form a stable fill.</content></subsection><subsection id="ID_1595212645988_181" name="5" temporalId="s24_5"><num value="5">(5)</num><leadIn>To carry away any water seepage or surface water of a retaining wall, there must be, on both the upper ground level and the lower ground level next to the wall—</leadIn><paragraph id="ID_1595212646004_182" name="a" temporalId="s24_5_a"><num value="a">(a)</num><content>channels of suitable size; or</content></paragraph><paragraph id="ID_1595212646004_183" name="b" temporalId="s24_5_b"><num value="b">(b)</num><content>paving.</content></paragraph></subsection><subsection id="ID_1595212646004_184" name="6" temporalId="s24_6"><num value="6">(6)</num><content>The channels or paving referred to in subsection (5) must be laid to an adequate gradient to direct the water to flow into a surface water drain.</content></subsection></section><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212646004_185" name="s25" temporalId="s25"><num value="25">25.</num><heading>Bulk excavation in area number 1 of scheduled areas</heading><subsection id="ID_1595212646004_186" name="1" temporalId="s25_1"><num value="1">(1)</num><leadIn>In this section—</leadIn><def name="BulkExcavation"><term>bulk excavation</term> (<term xml:lang="zh-Hant-HK">大型挖掘工程</term>) means any kind of excavation except excavation for—<paragraph id="ID_1595212646004_187" name="a" temporalId="s25_1_a"><num value="a">(a)</num><content>ground investigation;</content></paragraph><paragraph id="ID_1595212646004_188" name="b" temporalId="s25_1_b"><num value="b">(b)</num><content>public utility trenches;</content></paragraph><paragraph id="ID_1595212646004_189" name="c" temporalId="s25_1_c"><num value="c">(c)</num><content>drains;</content></paragraph><paragraph id="ID_1595212646004_190" name="d" temporalId="s25_1_d"><num value="d">(d)</num><content>sewers; or</content></paragraph><paragraph id="ID_1595212646004_191" name="e" temporalId="s25_1_e"><num value="e">(e)</num><content>pile installation;</content></paragraph></def><def name="CumulativeAdverseEffect"><term>cumulative adverse effect</term> (<term xml:lang="zh-Hant-HK">累積不利影響</term>), in relation to area number 1 of the scheduled areas, means the overall adverse effects on the stability of the hillside in the area due to bulk excavation at 2 or more sites in the area.</def></subsection><subsection id="ID_1595212646019_192" name="2" temporalId="s25_2"><num value="2">(2)</num><content>Bulk excavation carried out in area number 1 of the scheduled areas must be limited to a level that minimizes the cumulative adverse effect to the area.</content></subsection></section></part><part startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212646019_193" name="P8" temporalId="P8"><num value="8">Part 8</num><heading>Requirements for External Wall, Cladding and Curtain Wall</heading><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212646019_194" name="s26" temporalId="s26"><num value="26">26.</num><heading>Interpretation—<ref>Part 8</ref></heading><subsection id="ID_1595212646019_195" name="1" temporalId="s26_1"><num value="1">(1)</num><leadIn>In this Part—</leadIn><def name="Cladding"><term>cladding</term> (<term xml:lang="zh-Hant-HK">覆蓋層</term>), in relation to a building, means a facing or architectural decoration additional to the structural elements of the building;</def><def name="CurtainWall"><term>curtain wall</term> (<term xml:lang="zh-Hant-HK">幕牆</term>), in relation to a building, means a non load-bearing enclosure of the building that is fixed on to a load-bearing structure of the building;</def><def name="NoncombustibleMaterials"><term>non-combustible materials</term> (<term xml:lang="zh-Hant-HK">不可燃物料</term>) means materials that pass a recognized non-combustibility test.</def></subsection><subsection id="ID_1595212646035_196" name="2" temporalId="s26_2"><num value="2">(2)</num><leadIn>In this Part, a structure of a building is load-bearing if it bears a load that is not due to—</leadIn><paragraph id="ID_1595212646035_197" name="a" temporalId="s26_2_a"><num value="a">(a)</num><content>its own weight; or</content></paragraph><paragraph id="ID_1595212646051_198" name="b" temporalId="s26_2_b"><num value="b">(b)</num><content>wind pressure on its surface.</content></paragraph></subsection></section><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212646051_199" name="s27" temporalId="s27"><num value="27">27.</num><heading>External wall</heading><subsection id="ID_1595212646051_200" name="1" temporalId="s27_1"><num value="1">(1)</num><leadIn>An external wall of a building must be constructed of materials that are—</leadIn><paragraph id="ID_1595212646051_201" name="a" temporalId="s27_1_a"><num value="a">(a)</num><content>permanent and impervious; and</content></paragraph><paragraph id="ID_1595212646051_202" name="b" temporalId="s27_1_b"><num value="b">(b)</num><content>non-combustible materials.</content></paragraph></subsection><subsection id="ID_1595212646051_203" name="2" temporalId="s27_2"><num value="2">(2)</num><content>Adequate means of access to the outer surface of an external wall of a building or a projection from the wall must be provided for the maintenance or repair of the wall or projection.</content></subsection></section><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212646051_204" name="s28" temporalId="s28"><num value="28">28.</num><heading>Cladding</heading><subsection id="ID_1595212646051_205" name="1" temporalId="s28_1"><num value="1">(1)</num><leadIn>A cladding of a building must be—</leadIn><paragraph id="ID_1595212646051_206" name="a" temporalId="s28_1_a"><num value="a">(a)</num><content>constructed of non-combustible materials;</content></paragraph><paragraph id="ID_1595212646051_207" name="b" temporalId="s28_1_b"><num value="b">(b)</num><content>of suitable thickness, strength and durability; and</content></paragraph><paragraph id="ID_1595212646051_208" name="c" temporalId="s28_1_c"><num value="c">(c)</num><content>fixed and supported in a suitable manner and sequence,</content></paragraph><continued>so as to maintain the long-term stability and integrity of the cladding.</continued></subsection><subsection id="ID_1595212646051_209" name="2" temporalId="s28_2"><num value="2">(2)</num><content>To allow differential movement between a cladding of a building and the structure of the building to which it is attached, the cladding must be permanently provided with a sufficient number of flexible joints horizontally and vertically.</content></subsection><subsection id="ID_1595212646066_210" name="3" temporalId="s28_3"><num value="3">(3)</num><content>Suitable metal dowels and fixings must be used to fix the cladding on to a building.</content></subsection><subsection id="ID_1595212646066_211" name="4" temporalId="s28_4"><num value="4">(4)</num><leadIn>The metal dowels and fixings referred to in subsection (3) must be—</leadIn><paragraph id="ID_1595212646066_212" name="a" temporalId="s28_4_a"><num value="a">(a)</num><content>permanently fixed on to the structural elements of the building throughout the service life of the dowels and fixings; and</content></paragraph><paragraph id="ID_1595212646066_213" name="b" temporalId="s28_4_b"><num value="b">(b)</num><content>adequately protected against corrosion.</content></paragraph></subsection><subsection id="ID_1595212646066_214" name="5" temporalId="s28_5"><num value="5">(5)</num><content>If the cladding of a building is exposed to weather, adequate means of access to the outer surface of the cladding or a projection from the cladding must be provided for the maintenance or repair of the cladding or projection.</content></subsection></section><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212646066_215" name="s29" temporalId="s29"><num value="29">29.</num><heading>Curtain wall—design</heading><subsection id="ID_1595212646066_216" name="1" temporalId="s29_1"><num value="1">(1)</num><leadIn>A curtain wall of a building must be capable of—</leadIn><paragraph id="ID_1595212646066_217" name="a" temporalId="s29_1_a"><num value="a">(a)</num><content>safely sustaining the combination of the dead loads, imposed loads and wind loads; and</content></paragraph><paragraph id="ID_1595212646066_218" name="b" temporalId="s29_1_b"><num value="b">(b)</num><content>safely transmitting the loads referred to in paragraph (a) to a load-bearing structure of the building,</content></paragraph><continued>without causing any deflection or deformation that may damage the wall or impair its stability.</continued></subsection><subsection id="ID_1595212646066_219" name="2" temporalId="s29_2"><num value="2">(2)</num><content>A curtain wall of a building must be designed in conformity with recognized engineering principles relating to the design and structural use of materials.</content></subsection><subsection id="ID_1595212646066_220" name="3" temporalId="s29_3"><num value="3">(3)</num><content>To prevent water seepage or condensation from damaging a curtain wall of a building, provision must be made for the collection and discharge of any water seepage or condensed water from the wall.</content></subsection></section><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212646066_221" name="s30" temporalId="s30"><num value="30">30.</num><heading>Curtain wall—materials</heading><subsection id="ID_1595212646066_222" name="1" temporalId="s30_1"><num value="1">(1)</num><content>A curtain wall of a building must be constructed of non-combustible materials only.</content></subsection><subsection id="ID_1595212646082_223" name="2" temporalId="s30_2"><num value="2">(2)</num><content>If any material used in the construction of a curtain wall of a building may be affected by electrolytic or chemical action due to its contact with other materials, the surface of the material must be satisfactorily treated or separated to prevent corrosion.</content></subsection><subsection id="ID_1595212646082_224" name="3" temporalId="s30_3"><num value="3">(3)</num><content>The materials used for anchors and fixings in a curtain wall system must be suitable and adequately protected against corrosion.</content></subsection></section><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212646082_225" name="s31" temporalId="s31"><num value="31">31.</num><heading>Curtain wall—fixing of supports and maintenance</heading><subsection id="ID_1595212646082_226" name="1" temporalId="s31_1"><num value="1">(1)</num><leadIn>A curtain wall support of a building must be fixed on to a load-bearing structure of the building—</leadIn><paragraph id="ID_1595212646082_227" name="a" temporalId="s31_1_a"><num value="a">(a)</num><content>by a cast-in anchorage in a structural concrete member of the structure; or</content></paragraph><paragraph id="ID_1595212646082_228" name="b" temporalId="s31_1_b"><num value="b">(b)</num><content>by welding or bolting to a structural steel member of the structure.</content></paragraph></subsection><subsection id="ID_1595212646082_229" name="2" temporalId="s31_2"><num value="2">(2)</num><leadIn>The fixing of a curtain wall support to a load-bearing structure of a building must not—</leadIn><paragraph id="ID_1595212646082_230" name="a" temporalId="s31_2_a"><num value="a">(a)</num><content>impair the structural integrity of the member of the structure to which the support is fixed; or</content></paragraph><paragraph id="ID_1595212646082_231" name="b" temporalId="s31_2_b"><num value="b">(b)</num><content>adversely affect the performance of the member.</content></paragraph></subsection><subsection id="ID_1595212646082_232" name="3" temporalId="s31_3"><num value="3">(3)</num><content>Adequate means of access to the outer surface of a curtain wall of a building or a projection from the wall must be provided for the maintenance or repair of the wall or projection.</content></subsection></section></part><part startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212646082_233" name="P9" temporalId="P9"><num value="9">Part 9</num><heading>Protection against Moisture and Water</heading><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212646082_234" name="s32" temporalId="s32"><num value="32">32.</num><heading>Walls—protection against moisture penetration</heading><content>A wall of a building that may be in contact with damp must be provided with adequate protection to prevent moisture penetration.</content></section><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212646082_235" name="s33" temporalId="s33"><num value="33">33.</num><heading>Floor and adjoining ground surface</heading><subsection id="ID_1595212646097_236" name="1" temporalId="s33_1"><num value="1">(1)</num><content>The ground surface within the external walls of a building must be covered with a suitable material to prevent moisture penetration.</content></subsection><subsection id="ID_1595212646097_237" name="2" temporalId="s33_2"><num value="2">(2)</num><content>Adequate means must be provided to prevent ingress of water from the ground surface outside a building to the adjoining floor of the building.</content></subsection><subsection id="ID_1595212646097_238" name="3" temporalId="s33_3"><num value="3">(3)</num><content>To carry away any surface water on the ground surface (except in any landscaped area) outside a building, the surface must be provided with paving laid to an adequate gradient to direct the water to flow into a surface water drain.</content></subsection><subsection id="ID_1595212646097_239" name="4" temporalId="s33_4"><num value="4">(4)</num><content>If a room of a building is provided with a water supply, the floor of the room must be constructed so as to prevent water penetration.</content></subsection><subsection id="ID_1595212646097_240" name="5" temporalId="s33_5"><num value="5">(5)</num><content>The floor of a balcony (including utility platform) and a verandah of a building must be constructed so as to prevent water penetration.</content></subsection></section><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212646097_241" name="s34" temporalId="s34"><num value="34">34.</num><heading>Roof</heading><subsection id="ID_1595212646097_242" name="1" temporalId="s34_1"><num value="1">(1)</num><content>The roof of a building must be designed and constructed so as to make it weatherproof.</content></subsection><subsection id="ID_1595212646097_243" name="2" temporalId="s34_2"><num value="2">(2)</num><content>Adequate means must be provided to prevent ingress of water from the roof of a building to the adjoining floor.</content></subsection><subsection id="ID_1595212646097_244" name="3" temporalId="s34_3"><num value="3">(3)</num><content>Adequate means of access to the roof of a building or a projection from the roof must be provided for the maintenance or repair of the roof or projection.</content></subsection></section></part><part startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212646097_245" name="P10" temporalId="P10"><num value="10">Part 10</num><heading>Requirements for Fire Safety</heading><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212646097_246" name="s35" temporalId="s35"><num value="35">35.</num><heading>Fire resisting construction</heading><leadIn>A building must be designed and constructed so as to, in case of fire—</leadIn><paragraph id="ID_1595212646097_247" name="a" temporalId="s35_a"><num value="a">(a)</num><content>inhibit the spread of fire within the building and to the buildings nearby;</content></paragraph><paragraph id="ID_1595212646097_248" name="b" temporalId="s35_b"><num value="b">(b)</num><leadIn>provide adequate resistance to the spread of fire and smoke—</leadIn><subparagraph id="ID_1595212646097_249" name="1" temporalId="s35_b_1"><num value="1">(i)</num><content>between different buildings; and</content></subparagraph><subparagraph id="ID_1595212646097_250" name="2" temporalId="s35_b_2"><num value="2">(ii)</num><content>in the building between different uses;</content></subparagraph></paragraph><paragraph id="ID_1595212646113_251" name="c" temporalId="s35_c"><num value="c">(c)</num><leadIn>maintain the stability of the building to—</leadIn><subparagraph id="ID_1595212646113_252" name="1" temporalId="s35_c_1"><num value="1">(i)</num><content>allow adequate time for safe evacuation;</content></subparagraph><subparagraph id="ID_1595212646113_253" name="2" temporalId="s35_c_2"><num value="2">(ii)</num><content>allow adequate time for rescue and firefighting operation; and</content></subparagraph><subparagraph id="ID_1595212646113_254" name="3" temporalId="s35_c_3"><num value="3">(iii)</num><content>avoid any consequential damage to the buildings nearby; and</content></subparagraph></paragraph><paragraph id="ID_1595212646113_255" name="d" temporalId="s35_d"><num value="d">(d)</num><content>provide adequate resistance to the spread of fire over the roof of the building to any other building having regard to the location of the building.</content></paragraph></section></part><part startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212646113_256" name="P11" temporalId="P11"><num value="11">Part 11</num><heading>Requirements for User Safety</heading><division startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212646113_257" name="D1" temporalId="P11_D1"><num value="1">Division 1</num><heading>Protective Barrier</heading><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212646113_258" name="s36" temporalId="s36"><num value="36">36.</num><heading>Application—<ref>Division 1</ref></heading><subsection id="ID_1595212646113_259" name="1" temporalId="s36_1"><num value="1">(1)</num><leadIn>This Division does not apply to—</leadIn><paragraph id="ID_1595212646113_260" name="a" temporalId="s36_1_a"><num value="a">(a)</num><content>a stage in an assembly hall;</content></paragraph><paragraph id="ID_1595212646113_261" name="b" temporalId="s36_1_b"><num value="b">(b)</num><content>a vehicle parking bay for loading and unloading of goods;</content></paragraph><paragraph id="ID_1595212646113_262" name="c" temporalId="s36_1_c"><num value="c">(c)</num><content>an inaccessible roof;</content></paragraph><paragraph id="ID_1595212646113_263" name="d" temporalId="s36_1_d"><num value="d">(d)</num><content>an inaccessible area; or</content></paragraph><paragraph id="ID_1595212646113_264" name="e" temporalId="s36_1_e"><num value="e">(e)</num><content>any space (other than an accessible roof) within domestic premises for occupation by 1 family.</content></paragraph></subsection><subsection id="ID_1595212646113_265" name="2" temporalId="s36_2"><num value="2">(2)</num><leadIn>In this section—</leadIn><def name="InaccessibleArea"><term>inaccessible area</term> (<term xml:lang="zh-Hant-HK">非開放地方</term>) means an area that—<paragraph id="ID_1595212646113_266" name="a" temporalId="s36_2_a"><num value="a">(a)</num><content>is not intended to be used for human occupation; and</content></paragraph><paragraph id="ID_1595212646129_267" name="b" temporalId="s36_2_b"><num value="b">(b)</num><content>is intended to be only accessible to personnel for maintenance or repair works;</content></paragraph></def><def name="InaccessibleRoof"><term>inaccessible roof</term> (<term xml:lang="zh-Hant-HK">非開放屋頂</term>) means a roof that—<paragraph id="ID_1595212646129_268" name="a" temporalId="s36_2_a"><num value="a">(a)</num><content>is not intended to be used for human occupation; and</content></paragraph><paragraph id="ID_1595212646129_269" name="b" temporalId="s36_2_b"><num value="b">(b)</num><content>is intended to be only accessible to personnel for maintenance or repair works.</content></paragraph></def></subsection></section><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212646129_270" name="s37" temporalId="s37"><num value="37">37.</num><heading>Provision of protective barrier</heading><subsection id="ID_1595212646129_271" name="1" temporalId="s37_1"><num value="1">(1)</num><content>A protective barrier must be provided at the edge of a balcony, verandah, floor, roof, staircase, landing or projection to restrict or control the movement of persons, objects and vehicles.</content></subsection><subsection id="ID_1595212646129_272" name="2" temporalId="s37_2"><num value="2">(2)</num><content>If the difference between 2 adjacent levels (whether or not within a building) exceeds 600 mm, a protective barrier must be provided at the higher level to restrict or control the movement of persons, objects and vehicles.</content></subsection></section><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212646129_273" name="s38" temporalId="s38"><num value="38">38.</num><heading>Protective barrier—design and construction</heading><leadIn>A protective barrier required under <ref>section 37</ref> must be designed and constructed so as to—</leadIn><paragraph id="ID_1595212646129_274" name="a" temporalId="s38_a"><num value="a">(a)</num><content>prevent a person or object from falling, rolling, sliding or slipping through the gap of the barrier; and</content></paragraph><paragraph id="ID_1595212646129_275" name="b" temporalId="s38_b"><num value="b">(b)</num><content>prevent a person from climbing over the barrier.</content></paragraph></section></division><division startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212646129_276" name="D2" temporalId="P11_D2"><num value="2">Division 2</num><heading>Lift and Escalator</heading><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212646129_277" name="s39" temporalId="s39"><num value="39">39.</num><heading>Application and interpretation—<ref>Division 2</ref></heading><subsection id="ID_1595212646129_278" name="1" temporalId="s39_1"><num value="1">(1)</num><leadIn>This Division applies to a building in which a lift or escalator is installed or is to be installed other than—</leadIn><paragraph id="ID_1595212646129_279" name="a" temporalId="s39_1_a"><num value="a">(a)</num><content>an amusement device, including an amusement ride as defined by <ref>section 2(1)</ref> of the Amusement Rides (Safety) Ordinance (<ref href="/hk/cap449">Cap. 449</ref>);</content></paragraph><paragraph id="ID_1595212646144_280" name="b" temporalId="s39_1_b"><num value="b">(b)</num><content>a belt, bucket, scoop or roller conveyor or any similar machine;</content></paragraph><paragraph id="ID_1595212646144_281" name="c" temporalId="s39_1_c"><num value="c">(c)</num><content>a hoist, including a skip hoist, used mainly for charging furnaces or similar appliances;</content></paragraph><paragraph id="ID_1595212646144_282" name="d" temporalId="s39_1_d"><num value="d">(d)</num><content>a hoist used solely for lifting or feeding material directly into a machine or used solely for both of those purposes;</content></paragraph><paragraph id="ID_1595212646144_283" name="e" temporalId="s39_1_e"><num value="e">(e)</num><leadIn>a lift the height of travel of which does not exceed 3.5 m and that—</leadIn><subparagraph id="ID_1595212646144_284" name="1" temporalId="s39_1_e_1"><num value="1">(i)</num><content>does not pass through any floor; and</content></subparagraph><subparagraph id="ID_1595212646144_285" name="2" temporalId="s39_1_e_2"><num value="2">(ii)</num><content>is used solely for the carriage, stacking, loading or unloading of any goods or materials or any 2 or more of those purposes;</content></subparagraph></paragraph><paragraph id="ID_1595212646144_286" name="f" temporalId="s39_1_f"><num value="f">(f)</num><leadIn>a lift the height of travel of which does not exceed 3.5 m and that—</leadIn><subparagraph id="ID_1595212646144_287" name="1" temporalId="s39_1_f_1"><num value="1">(i)</num><content>does not pass through any floor; and</content></subparagraph><subparagraph id="ID_1595212646144_288" name="2" temporalId="s39_1_f_2"><num value="2">(ii)</num><content>is used solely for raising motor vehicles;</content></subparagraph></paragraph><paragraph id="ID_1595212646144_289" name="g" temporalId="s39_1_g"><num value="g">(g)</num><leadIn>a lift that is provided, in connection with a building under construction, solely—</leadIn><subparagraph id="ID_1595212646144_290" name="1" temporalId="s39_1_g_1"><num value="1">(i)</num><content>for carrying persons employed in the construction of the building;</content></subparagraph><subparagraph id="ID_1595212646144_291" name="2" temporalId="s39_1_g_2"><num value="2">(ii)</num><content>for carrying materials used in connection with the construction of the building; or</content></subparagraph><subparagraph id="ID_1595212646144_292" name="3" temporalId="s39_1_g_3"><num value="3">(iii)</num><content>for carrying persons referred to in subparagraph (i) and materials referred to in subparagraph (ii);</content></subparagraph></paragraph><paragraph id="ID_1595212646144_293" name="h" temporalId="s39_1_h"><num value="h">(h)</num><content>a ramp that is connected to a wharf or pier;</content></paragraph><paragraph id="ID_1595212646144_294" name="1" temporalId="s39_1_1"><num value="1">(i)</num><content>a stage or orchestra lift;</content></paragraph><paragraph id="ID_1595212646144_295" name="j" temporalId="s39_1_j"><num value="j">(j)</num><content>a stairlift with a guided carriage for use by persons (whether or not with a wheelchair) that travels substantially along the direction of a flight of stairs; or</content></paragraph><paragraph id="ID_1595212646160_296" name="k" temporalId="s39_1_k"><num value="k">(k)</num><leadIn>a lifting platform for carrying persons with a disability (whether or not with a wheelchair) if—</leadIn><subparagraph id="ID_1595212646160_297" name="1" temporalId="s39_1_k_1"><num value="1">(i)</num><content>the platform travels between different levels; and</content></subparagraph><subparagraph id="ID_1595212646160_298" name="2" temporalId="s39_1_k_2"><num value="2">(ii)</num><content>the difference between the highest and lowest of the levels does not exceed 2 m.</content></subparagraph></paragraph></subsection><subsection id="ID_1595212646160_299" name="2" temporalId="s39_2"><num value="2">(2)</num><leadIn>In this Division—</leadIn><def name="AssociatedEquipmentOrMachinery"><term>associated equipment or machinery</term> (<term xml:lang="zh-Hant-HK">相聯設備或機械</term>), in relation to a lift or escalator, has the meaning given by <ref>section 2(1)</ref> of the Lifts and Escalators Ordinance (<ref href="/hk/cap618">Cap. 618</ref>);</def><def name="RestrictedSpace"><term>restricted space</term> (<term xml:lang="zh-Hant-HK">限進空間</term>) means—<paragraph id="ID_1595212646160_300" name="a" temporalId="s39_2_a"><num value="a">(a)</num><content>in relation to a lift—the lift shaft and the space containing the associated equipment or machinery of the lift; or</content></paragraph><paragraph id="ID_1595212646160_301" name="b" temporalId="s39_2_b"><num value="b">(b)</num><content>in relation to an escalator—the space containing the associated equipment or machinery of the escalator.</content></paragraph></def></subsection></section><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212646160_302" name="s40" temporalId="s40"><num value="40">40.</num><heading>Design and construction in connection with lift and escalator</heading><subsection id="ID_1595212646160_303" name="1" temporalId="s40_1"><num value="1">(1)</num><leadIn>A building must be designed and constructed so as to—</leadIn><paragraph id="ID_1595212646176_304" name="a" temporalId="s40_1_a"><num value="a">(a)</num><content>provide adequate structural strength, space, protection, access and ventilation for the safe operation, inspection and maintenance of a lift or escalator; and</content></paragraph><paragraph id="ID_1595212646176_305" name="b" temporalId="s40_1_b"><num value="b">(b)</num><content>ensure that the restricted space of a lift or escalator is inaccessible except for inspection, maintenance, repair or rescue.</content></paragraph></subsection><subsection id="ID_1595212646176_306" name="2" temporalId="s40_2"><num value="2">(2)</num><content>If a lift or escalator is added to a building after the completion of the building, the design and construction relating to the addition must comply with subsection (1).</content></subsection></section><section startPeriod="2021-02-01" status="operational" reason="inEffect" id="ID_1595212646176_307" name="s41" temporalId="s41"><num value="41">41.</num><heading>Warning notices on use of lift and escalator</heading><subsection id="ID_1595212646176_308" name="1" temporalId="s41_1"><num value="1">(1)</num><leadIn>A notice must be displayed permanently at a conspicuous location of a door or other form of access to the restricted space of a lift or escalator in a building, to caution against—</leadIn><paragraph id="ID_1595212646176_309" name="a" temporalId="s41_1_a"><num value="a">(a)</num><content>the danger of entering the restricted space; and</content></paragraph><paragraph id="ID_1595212646176_310" name="b" temporalId="s41_1_b"><num value="b">(b)</num><content>the danger of interfering with the operation of the lift or escalator.</content></paragraph></subsection><subsection id="ID_1595212646176_311" name="2" temporalId="s41_2"><num value="2">(2)</num><content>A notice must be displayed permanently at a conspicuous location of every
+                entrance of a lift to caution against using a lift when there is a
+                fire.<marker role="section-break"></marker></content></subsection><subsection id="ID_1595212646176_312" name="3" temporalId="s41_3"><num value="3">(3)</num><content>A notice referred to in subsection (1) or (2) must be legible and made of durable materials.</content></subsection></section></division></part><part startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212646176_313" name="P12" temporalId="P12"><num value="12">Part 12</num><heading>Miscellaneous</heading><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212646176_314" name="s42" temporalId="s42"><num value="42">42.</num><heading>Ground treatment</heading><subsection id="ID_1595212646176_315" name="1" temporalId="s42_1"><num value="1">(1)</num><content>If a ground treatment is to be carried out to improve the load carrying capacity of a ground, adequate proof of the suitability of the method and materials to be used for the treatment must be given to the Building Authority.</content></subsection><subsection id="ID_1595212646191_316" name="2" temporalId="s42_2"><num value="2">(2)</num><content>If a ground treatment has been carried out on a ground, the Building Authority may require adequate tests of the ground to be carried out.</content></subsection><subsection id="ID_1595212646191_317" name="3" temporalId="s42_3"><num value="3">(3)</num><content>If a ground treatment may affect any building, structure, land, street or services, adequate precautionary measures must be taken.</content></subsection></section><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212646191_318" name="s43" temporalId="s43"><num value="43">43.</num><heading>Well</heading><subsection id="ID_1595212646191_319" name="1" temporalId="s43_1"><num value="1">(1)</num><content>A well associated with a building or building works must not be sunk or reopened except with the permission of the Building Authority.</content></subsection><subsection id="ID_1595212646191_320" name="2" temporalId="s43_2"><num value="2">(2)</num><leadIn>The design, construction and operation of a well must not—</leadIn><paragraph id="ID_1595212646191_321" name="a" temporalId="s43_2_a"><num value="a">(a)</num><content>impair the stability of any building, structure, land, street or services; or</content></paragraph><paragraph id="ID_1595212646191_322" name="b" temporalId="s43_2_b"><num value="b">(b)</num><content>cause any damage to any building, structure, land, street or services.</content></paragraph></subsection><subsection id="ID_1595212646191_323" name="3" temporalId="s43_3"><num value="3">(3)</num><content>A well must not be sunk in the vicinity of a septic tank, cesspool, sewage sump or in a contaminated ground.</content></subsection><subsection id="ID_1595212646191_324" name="4" temporalId="s43_4"><num value="4">(4)</num><content>A well must be provided with adequate means to prevent surface water or sullage water from getting into the well from its top opening.</content></subsection><subsection id="ID_1595212646191_325" name="5" temporalId="s43_5"><num value="5">(5)</num><content>A well must be properly lined to prevent contamination.</content></subsection><subsection id="ID_1595212646191_326" name="6" temporalId="s43_6"><num value="6">(6)</num><content>If a well is likely to be adversely affected by accumulation of particles, a suitable filter must be provided.</content></subsection><subsection id="ID_1595212646191_327" name="7" temporalId="s43_7"><num value="7">(7)</num><content>A well must be designed and constructed so as to prevent unauthorized entry.</content></subsection></section><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212646191_328" name="s44" temporalId="s44"><num value="44">44.</num><heading>Chimney and flue</heading><subsection id="ID_1595212646191_329" name="1" temporalId="s44_1"><num value="1">(1)</num><leadIn>This section applies to a chimney and flue—</leadIn><paragraph id="ID_1595212646191_330" name="a" temporalId="s44_1_a"><num value="a">(a)</num><content>the internal diameter, breadth or width of which exceeds 200 mm; or</content></paragraph><paragraph id="ID_1595212646191_331" name="b" temporalId="s44_1_b"><num value="b">(b)</num><content>the height of which exceeds 3 m.</content></paragraph></subsection><subsection id="ID_1595212646207_332" name="2" temporalId="s44_2"><num value="2">(2)</num><leadIn>A chimney of a building—</leadIn><paragraph id="ID_1595212646207_333" name="a" temporalId="s44_2_a"><num value="a">(a)</num><content>must be constructed, positioned or shielded so as to prevent ignition of any part of the building or any other building; and</content></paragraph><paragraph id="ID_1595212646207_334" name="b" temporalId="s44_2_b"><num value="b">(b)</num><content>must be constructed so as to ensure that the temperature of its outer surface would not reach a level that may cause any danger to a person in or near the building.</content></paragraph></subsection><subsection id="ID_1595212646207_335" name="3" temporalId="s44_3"><num value="3">(3)</num><leadIn>A flue of a building, whether installed inside or outside the building—</leadIn><paragraph id="ID_1595212646207_336" name="a" temporalId="s44_3_a"><num value="a">(a)</num><content>must be constructed, positioned or shielded so as to prevent ignition of any part of the building or any other building; and</content></paragraph><paragraph id="ID_1595212646207_337" name="b" temporalId="s44_3_b"><num value="b">(b)</num><content>must be positioned or shielded so as to minimize the risk of accidental damage to the flue and the danger to a person in or near the building.</content></paragraph></subsection><subsection id="ID_1595212646207_338" name="4" temporalId="s44_4"><num value="4">(4)</num><content>To prevent a fire in a building, a flue must terminate at a position so that the products of combustion will not enter the windows or openings, fresh air inlets, mechanical ventilation inlets or exhausts of the building or any other building.</content></subsection><subsection id="ID_1595212646207_339" name="5" temporalId="s44_5"><num value="5">(5)</num><leadIn>In this section—</leadIn><def name="Chimney"><term>chimney</term> (<term xml:lang="zh-Hant-HK">煙囱</term>) means—<paragraph id="ID_1595212646207_340" name="a" temporalId="s44_5_a"><num value="a">(a)</num><content>a structure that performs the same functions as a flue; or</content></paragraph><paragraph id="ID_1595212646207_341" name="b" temporalId="s44_5_b"><num value="b">(b)</num><content>a structure enclosing a flue or flues;</content></paragraph></def><def name="Flue"><term>flue</term> (<term xml:lang="zh-Hant-HK">煙道</term>) means a duct through which products of combustion pass or are intended to pass before reaching the open air;</def><def name="ProductsOfCombustion"><term>products of combustion</term> (<term xml:lang="zh-Hant-HK">燃燒產物</term>) include—<paragraph id="ID_1595212646207_342" name="a" temporalId="s44_5_a"><num value="a">(a)</num><content>smoke;</content></paragraph><paragraph id="ID_1595212646207_343" name="b" temporalId="s44_5_b"><num value="b">(b)</num><content>fumes from a stove, oven or any other cooking apparatus; and</content></paragraph><paragraph id="ID_1595212646207_344" name="c" temporalId="s44_5_c"><num value="c">(c)</num><content>vitiated air.</content></paragraph></def></subsection></section><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212646222_345" name="s45" temporalId="s45"><num value="45">45.</num><heading>Fireplace</heading><content>A hearth or fireplace recess in a building must be constructed so as to prevent a fire in the building or any other building.</content></section><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212646222_346" name="s46" temporalId="s46"><num value="46">46.</num><heading>Habitation by vermin</heading><content>A building must be constructed so as not to provide a place of habitation for vermin.</content></section><section startPeriod="2021-02-01T00:00:00" status="operational" reason="inEffect" id="ID_1595212646222_347" name="s47" temporalId="s47"><num value="47">47.</num><heading>Duct</heading><leadIn>If the size of a duct allows a person to enter the duct, the duct—</leadIn><paragraph id="ID_1595212646222_348" name="a" temporalId="s47_a"><num value="a">(a)</num><content>must be fitted with an access opening to allow a person to enter it; and</content></paragraph><paragraph id="ID_1595212646222_349" name="b" temporalId="s47_b"><num value="b">(b)</num><content>must be constructed so as to bear the weight of the person.</content></paragraph></section></part><schedule startPeriod="2021-02-01" status="operational" reason="inEffect" id="ID_1595212646238_350" name="sch0" temporalId="sch0"><num value="0">Schedule </num><note role="crossReferences" type="inline" class="above_space_between_line_8 below_space_between_line_8 right_indent_1">[<ref href="/hk/cap123Q/s7">ss. 7</ref>, <ref href="/hk/cap123Q/s8">8</ref> &amp; <ref href="/hk/cap123Q/s9">9</ref>]</note><heading>Calculations in relation to Imposed
+            Loads<marker role="blank-line"></marker></heading><text class="align_center"><b>Table
+                1<marker role="blank-line"></marker></b></text><text class="align_center"><b>Minimum Imposed Loads</b><marker role="blank-line"></marker></text><leadIn>
+            <table xmlns="http://www.w3.org/1999/xhtml" width="444" class="left_indent_1 repeat_header">
+                <colgroup>
+                    <col width="14.16%"></col>
+                    <col width="7.03%"></col>
+                    <col width="0.23%"></col>
+                    <col width="7.04%"></col>
+                    <col width="24.4%"></col>
+                    <col width="23.12%"></col>
+                    <col width="24.02%"></col>
+                </colgroup>
+                <thead>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p class="align_center">Column 1</p>
+                        </td>
+                        <td class="align_left" colspan="4">
+                            <p class="align_center">Column 2</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">Column 3</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">Column 4</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left valign_bottom">
+                            <p>Class</p>
+                        </td>
+                        <td class="align_left valign_bottom" colspan="4">
+                            <p class="align_center">Use</p>
+                        </td>
+                        <td class="align_left valign_bottom">
+                            <p class="align_center">Distributed load in kPa to be applied uniformly
+                                on plan</p>
+                        </td>
+                        <td class="align_left valign_bottom">
+                            <p class="align_center">Concentrated load in kN to be applied on plan
+                                over any square with a 50 mm side (or other dimension specified in
+                                this column), or line load in kN per metre length</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left valign_bottom">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_bottom" colspan="4">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_bottom">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_bottom">
+                            <p></p>
+                        </td>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr class="break_rows">
+                        
+                        <td class="align_left" rowspan="1">
+                            <p>1</p>
+                        </td>
+                        <td class="align_left" colspan="4">
+                            <p>Floors for—</p>
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        
+                        <td class="align_left" colspan="3">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(a)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>domestic uses</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">2</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">2</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        
+                        <td class="align_left" colspan="3">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(b)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>dormitories</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">2</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">2</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        
+                        <td class="align_left" colspan="3">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(c)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>private sitting rooms, bedrooms and toilet rooms in hotels, motels
+                                and guesthouses</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">2</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">2</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        
+                        <td class="align_left" colspan="3">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(d)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>wards, bedrooms and toilet rooms in hospitals, nursing homes and
+                                residential care homes for elderly persons</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">2</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">2</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        
+                        <td class="align_left" colspan="3">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(e)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>bathrooms (load from Jacuzzi to be assessed separately), pantries and
+                                kitchens in domestic premises</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">2</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">2</p>
+                        </td>
+                    </tr>
+                    
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p>2</p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p>(1)</p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p>Floors for—</p>
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(a)</p>
+                        </td>
+                        <td class="align_left valign_center">
+                            <p>medical consulting or treatment rooms</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">2.5</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">3</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(b)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>hospital operating theatres and X-ray rooms</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">2.5</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">3</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p>(2)</p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p>Floors for—</p>
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(a)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>laboratories</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">3</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(b)</p>
+                        </td>
+                        <td class="align_left valign_center">
+                            <p>light workrooms with neither central power-driven machines nor
+                                storage</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">3</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(c)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>offices for general use</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">3</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(d)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>rooms for lightweight electrical and electronic installations</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">3</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(e)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>rooms for meters and not for storage</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">3</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(f)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>pantries in offices or non-industrial workplaces</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">3</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p class="align_justified">(3)</p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p>Floors for—</p>
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(a)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>banking halls</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(b)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>kitchens and laundries not in domestic premises</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p class="align_justified">(4)</p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p>Floors for projection rooms</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">5</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4.5</p>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                    </tr>
+                    
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p>3</p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p>(1)</p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p>Floors for childcare centres and kindergartens</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">2.5</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">3</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p>(2)</p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p>Floors for—</p>
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(a)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>billiard rooms and bowling alleys</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">3</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(b)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>classrooms, lecture rooms, tutorial rooms, computer rooms and reading
+                                rooms without book storage</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">3</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(c)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>internet computer services centres</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">3</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(d)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>dance practice rooms</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">3</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(e)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>leisure, recreational and amusement areas that cannot be used for
+                                assembly purposes</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">3</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(f)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>massage rooms, sauna rooms and bath houses (load from water pools and
+                                fountains, or the like, to be assessed separately)</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">3</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p>(3)</p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p>Floors for—</p>
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(a)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>assembly areas with fixed seating<sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(1)</sup></p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(b)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>chapels, churches and places of worship with fixed seating<sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(1)</sup></p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(c)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>columbaria (other than areas for niches)</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(d)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>restaurants, nightclubs, lounges, bars, canteens, fast food shops and
+                                dining rooms not in domestic premises</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(e)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>cafes, mahjong parlours and amusement game centres</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p>(4)</p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p>Floors for—</p>
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(a)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>art galleries and museums</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">5</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(b)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>grandstands</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">5</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(c)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>public halls</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">5</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(d)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>theatres and cinemas<sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(4)</sup></p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">5</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(e)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>concert halls</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">5</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(f)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>conference rooms and waiting rooms</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">5</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p>(5)</p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p>Floors for—</p>
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(a)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>assembly areas without fixed seating<sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(1)</sup></p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">5</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(b)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>dance halls and discotheques</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">5</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(c)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>footbridges between buildings</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">5</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(d)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>footpaths, terraces, plazas and areas used for pedestrian traffic</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">5</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(e)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>open areas in gardens (including short grass turf suitable for foot
+                                traffic)</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">5</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(f)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>karaoke establishments</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">5</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(g)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>gymnasia</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">5</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(h)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>refuge floors</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">5</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(i)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>ice rinks (weight of ice to be assessed separately), ball courts and
+                                golf driving ranges</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">5</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p>(6)</p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p>Floors for stages and television studios used as stages</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">7.5</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">9</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left" colspan="4">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p>4</p>
+                        </td>
+                        <td class="align_left" colspan="4">
+                            <p>Floors for department stores, supermarkets, markets and shops for
+                                display and sale of merchandise</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">5</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p>5</p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p>(1)</p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p>Floors for—</p>
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(a)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>library rooms with book storage (excluding library stack rooms)</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">5</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(b)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>offices for storage and normal filing purposes</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">5</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p>(2)</p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p>Floors for—</p>
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(a)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>stack rooms in bookstores and libraries</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="left_indent_9">3.5 for each metre of storage height<sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(2)</sup> but not
+                                less than 10</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="left_indent_9">to be determined according to the weight of
+                                storage material, but not less than 9</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(b)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>cold storage</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="left_indent_9">5 for each metre of storage height<sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(2)</sup> but not
+                                less than 15</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="left_indent_9">to be determined according to the weight of
+                                storage material, but not less than 9</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(c)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>paper storage in printing plants</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="left_indent_9">8 for each metre of storage height<sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(2)</sup></p>
+                        </td>
+                        <td class="align_left">
+                            <p class="left_indent_9">to be determined according to the weight of
+                                storage material, but not less than 9</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(d)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>battery rooms and uninterruptible power supply rooms</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="left_indent_9">10 for each metre of storage height<sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(2)</sup></p>
+                        </td>
+                        <td class="align_left">
+                            <p class="left_indent_9">to be determined according to the weight of
+                                storage material, but not less than 9</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(e)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>refuse storage or general storage other than those specified in (a),
+                                (b), (c) or (d) immediately above, including storage in
+                                warehouses</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="left_indent_9">2.5 for each metre of storage height<sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(2)</sup></p>
+                        </td>
+                        <td class="align_left">
+                            <p class="left_indent_9">to be determined according to the weight of
+                                storage material, but not less than 9</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p>(3)</p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p>Floors for plant rooms, boiler rooms, fan rooms, motor rooms and the
+                                like</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">7.5</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">9</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p>(4)</p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p>Floors for factories, workshops and other buildings or parts of
+                                buildings of similar category for industrial use—</p>
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        
+                        <td class="align_left" colspan="1">
+                            <p>(a)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>for light weight loads</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">5</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">9</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        
+                        <td class="align_left" colspan="1">
+                            <p>(b)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>for medium weight loads</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">7.5</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">9</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        
+                        <td class="align_left" colspan="1">
+                            <p>(c)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>for heavy weight loads</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">10</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">9</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        
+                        <td class="align_left" colspan="1">
+                            <p>(d)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>for printing plants</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">12.5</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">9</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left" colspan="4">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p>6</p>
+                        </td>
+                        <td class="align_left" colspan="4">
+                            <p>Areas for car parking, carriageways, floors, driveways and ramps used
+                                by vehicles—</p>
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p>(a)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>for vehicles not exceeding 3 000 kg gross weight</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">3</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="left_indent_9">20 to be applied on plan over any square with a
+                                200 mm side (instead of a 50 mm side)</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p>(b)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>for vehicles exceeding 3 000 kg gross weight</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="left_indent_9">to be determined according to recognized
+                                engineering principles</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="left_indent_9">to be determined according to recognized
+                                engineering principles</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p>7</p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p>(1)</p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p>Inaccessible roofs with a slope—</p>
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(a)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>of 5<sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">o</sup> or
+                                less</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">2</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">1.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(b)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>greater than 5<sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">o</sup> but of 20<sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">o</sup> or
+                                less</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">0.75</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">1.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(c)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>greater than 20<sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">o</sup> but less than 40<sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">o</sup></p>
+                        </td>
+                        <td class="align_left">
+                            <p class="left_indent_9">linear interpolation from 0.75 to 0 according
+                                to the slope</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">1.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(d)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>of 40<sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">o</sup> or
+                                greater</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">0</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">1.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p>(2)</p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p>Roofs (other than inaccessible roofs or roofs for use of Class 1, 2,
+                                3, 4, 5 or 6) with a slope—</p>
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(a)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>of 20<sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">o</sup> or
+                                less</p>
+                        </td>
+                        <td class="align_left valign_center">
+                            <p class="align_center">2</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">1.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(b)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>greater than 20<sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">o</sup> but less than 40<sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">o</sup></p>
+                        </td>
+                        <td class="align_left valign_center">
+                            <p class="left_indent_9">linear interpolation from 2 to 0 according to
+                                the slope</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">1.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(c)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>of 40<sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">o</sup> or
+                                greater</p>
+                        </td>
+                        <td class="align_left valign_center">
+                            <p class="align_center">0</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">1.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p>(3)</p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p>Canopies</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="left_indent_9 align_center">0.75<sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(3)</sup></p>
+                        </td>
+                        <td class="align_left">
+                            <p class="first_line_indent_33">1.5<sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(3)</sup></p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p>8</p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p>(1)</p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p>Floors for utility platforms</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="left_indent_9">same as the floors to which they give access,
+                                but not less than 4</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="left_indent_9">line load of 2 kN per metre length to be
+                                applied along the outer edge</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p>(2)</p>
+                        </td>
+                        <td class="align_left" colspan="2">
+                            <p>Floors for—</p>
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(a)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>balconies</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="left_indent_9">same as the floors to which they give access,
+                                but not less than 3</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="left_indent_9">line load of 2 kN per metre length to be
+                                applied along the outer edge</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(b)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>stairs, landings and corridors</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="left_indent_9">same as the floors to which they give access,
+                                but not less than 3 and not more than 5</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">4.5</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(c)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>projecting window hoods, air conditioner hoods (lower and upper
+                                slabs) and air conditioner platforms</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">—</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="left_indent_9">line load of 1.5 kN per metre length to be
+                                applied along the outer edge</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p></p>
+                        </td>
+                        <td class="align_left">
+                            <p>(d)</p>
+                        </td>
+                        <td class="align_left">
+                            <p>maintenance catwalks</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">—</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="left_indent_9">1 at 1 m centre</p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </leadIn><leadIn class="align_left font_size_11">Notes:</leadIn><subsection id="ID_1595212647035_351" name="1" temporalId="sch0_1" class="no_header left_indent_18 first_line_indent_-18"><num value="1" class="align_left"><sup>(1)</sup></num><content class="align_justified font_size_11">Seating is regarded as fixed if the
+                removal of the seating and the use of the relevant space for other purposes are
+                unlikely.</content></subsection><subsection id="ID_1595212647035_352" name="2" temporalId="sch0_2" class="no_header left_indent_18 first_line_indent_-18"><num value="2" class="align_left"><sup>(2)</sup></num><leadIn class="align_justified font_size_11"><term>Storage height</term> (<term xml:lang="zh-Hant-HK">儲存高度</term>) means the height of the space between the
+                floor and a physical constraint to the height of storage formed by—</leadIn><paragraph class="left_indent_64 first_line_indent_-64" id="ID_1595212647035_353" name="a" temporalId="sch0_2_a"><num value="a">(a)</num><content>a ceiling;</content></paragraph><paragraph class="left_indent_64 first_line_indent_-64" id="ID_1595212647035_354" name="b" temporalId="sch0_2_b"><num value="b">(b)</num><content>a soffit of a floor;</content></paragraph><paragraph class="left_indent_64 first_line_indent_-64" id="ID_1595212647035_355" name="c" temporalId="sch0_2_c"><num value="c">(c)</num><content>a roof; or</content></paragraph><paragraph class="left_indent_64 first_line_indent_-64" id="ID_1595212647035_356" name="d" temporalId="sch0_2_d"><num value="d">(d)</num><leadIn>any other obstruction.</leadIn></paragraph></subsection><subsection id="ID_1595212647035_357" name="3" temporalId="sch0_3" class="no_header left_indent_18 first_line_indent_-18"><num value="3" class="align_left"><sup>(3)</sup></num><content class="align_justified font_size_11">The minimum imposed loads to be applied
+                for canopies do not take into account uncontrolled accumulations of construction
+                materials that may occur during maintenance or repair.</content></subsection><subsection id="ID_1595212647035_358" name="4" temporalId="sch0_4" class="no_header left_indent_18 first_line_indent_-18"><num value="4" class="align_left"><sup>(4)</sup></num><content class="align_justified font_size_11"><term>Cinema</term> (<term xml:lang="zh-Hant-HK">電影院</term>) means a building or part of a building that is
+                designed for cinematographic displays.<marker role="blank-line"></marker></content></subsection><crossHeading class="align_center"><b>Table 2</b><marker role="blank-line"></marker></crossHeading><text class="align_center"><b>Reductions of Total Distributed Imposed
+            Loads</b><marker role="blank-line"></marker></text><leadIn><table xmlns="http://www.w3.org/1999/xhtml" width="448" class="left_indent_0 repeat_header">
+                <colgroup>
+                    <col width="37.5%"></col>
+                    <col width="25.07%"></col>
+                    <col width="37.43%"></col>
+                </colgroup>
+                <thead>
+                    <tr class="break_rows">
+                        <td class="align_left valign_center">
+                            <p class="align_center">Column 1</p>
+                        </td>
+                        <td class="align_left valign_center" colspan="2">
+                            <p class="align_center">Column 2</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left valign_bottom" rowspan="2">
+                            <p class="align_center">Number of floors (including the roof) with loads
+                                qualifying for reduction carried by the member under
+                                consideration<br></br> </p>
+                        </td>
+                        <td class="align_left valign_bottom" colspan="2">
+                            <p class="left_indent_6 align_center">Percentage reduction of total
+                                distributed imposed loads on every floor (including the roof)
+                                carried by the member under consideration</p>
+                            <p class="align_center left_indent_6">(%)</p>
+                        </td>
+                    </tr>
+                    <tr class="break_rows">
+                        <td class="align_left valign_bottom">
+                            <p class="align_center">Classes 1, 2, 3, 4 and 7 of Table 1<br></br> </p>
+                        </td>
+                        <td class="align_left valign_bottom">
+                            <p class="left_indent_12 align_center">Factories and workshops under
+                                Class 5(4) of Table 1 with distributed imposed load of not less than
+                                7.5 kPa<br></br> </p>
+                        </td>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="align_left valign_center">
+                            <p class="align_center">1<br></br> </p>
+                        </td>
+                        <td class="align_left valign_center">
+                            <p class="align_center">0<br></br> </p>
+                        </td>
+                        <td class="align_left valign_center">
+                            <p class="left_indent_12 align_center">0<br></br> </p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left valign_center">
+                            <p class="align_center">2<br></br> </p>
+                        </td>
+                        <td class="align_left valign_center">
+                            <p class="align_center">5<br></br> </p>
+                        </td>
+                        <td class="align_left valign_center">
+                            <p class="left_indent_12 align_center">10<br></br> </p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left valign_center">
+                            <p class="align_center">3<br></br> </p>
+                        </td>
+                        <td class="align_left valign_center">
+                            <p class="align_center">10<br></br> </p>
+                        </td>
+                        <td class="align_left valign_center">
+                            <p class="left_indent_12 align_center">20<br></br> </p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left valign_center">
+                            <p class="align_center">4<br></br> </p>
+                        </td>
+                        <td class="align_left valign_center">
+                            <p class="align_center">15<br></br> </p>
+                        </td>
+                        <td class="align_left">
+                            <p class="left_indent_12 align_center">25 maximum<br></br> </p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left valign_center">
+                            <p class="align_center">5<br></br><br></br><br></br> </p>
+                        </td>
+                        <td class="align_left valign_center">
+                            <p class="align_center">20<br></br><br></br><br></br> </p>
+                        </td>
+                        <td class="align_left valign_center">
+                            <p class="align_center left_indent_12">25 maximum<br></br><br></br><br></br> </p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left valign_center">
+                            <p class="align_center">6<br></br> </p>
+                        </td>
+                        <td class="align_left valign_center">
+                            <p class="align_center">25<br></br> </p>
+                        </td>
+                        <td class="align_left">
+                            <p class="left_indent_12 align_center">25 maximum<br></br> </p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left valign_center">
+                            <p class="align_center">7<br></br> </p>
+                        </td>
+                        <td class="align_left valign_center">
+                            <p class="align_center">30<br></br> </p>
+                        </td>
+                        <td class="align_left">
+                            <p class="left_indent_12 align_center">25 maximum<br></br> </p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left valign_center">
+                            <p class="align_center">8<br></br> </p>
+                        </td>
+                        <td class="align_left valign_center">
+                            <p class="align_center">35<br></br> </p>
+                        </td>
+                        <td class="align_left">
+                            <p class="left_indent_12 align_center">25 maximum<br></br> </p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left valign_center">
+                            <p class="align_center">over 8</p>
+                        </td>
+                        <td class="align_left valign_center">
+                            <p class="align_center">40 maximum</p>
+                        </td>
+                        <td class="align_left valign_center">
+                            <p class="align_center left_indent_12">25 maximum</p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table><marker role="section-break"></marker></leadIn><crossHeading class="align_center"><b>Table 3</b><marker role="blank-line"></marker></crossHeading><text class="align_center"><b>Minimum Horizontal Imposed Loads on Protective Barriers to
+                Restrict or Control Movement of Persons</b><marker role="blank-line"></marker></text><leadIn>
+            <table xmlns="http://www.w3.org/1999/xhtml" width="448" class="left_indent_0 repeat_header">
+                <colgroup>
+                    <col width="18.15%"></col>
+                    <col width="21.35%"></col>
+                    <col width="20.19%"></col>
+                    <col width="20.19%"></col>
+                    <col width="20.1%"></col>
+                </colgroup>
+                <thead>
+                    <tr>
+                        <td class="align_left valign_bottom cellpadding_bottom_1 cellpadding_top_1 cellpadding_left_1 cellpadding_right_1">
+                            <p>Column 1</p>
+                        </td>
+                        <td class="align_left valign_bottom">
+                            <p class="align_center">Column 2</p>
+                        </td>
+                        <td class="align_left valign_bottom">
+                            <p class="align_center">Column 3</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center left_indent_4">Column 4</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center left_indent_8">Column 5</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left valign_bottom cellpadding_bottom_1 cellpadding_top_1 cellpadding_left_1 cellpadding_right_1">
+                            <p>Item</p>
+                        </td>
+                        <td class="align_left valign_bottom">
+                            <p class="align_center">Category</p>
+                        </td>
+                        <td class="align_left valign_bottom">
+                            <p class="left_indent_0 first_line_indent_0 align_center">Line load to
+                                be applied<sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(1)</sup></p>
+                        </td>
+                        <td class="align_left valign_bottom">
+                            <p class="align_center left_indent_4">Uniformly distributed load to be
+                                applied on the infill between floor and top rail</p>
+                        </td>
+                        <td class="align_left valign_bottom">
+                            <p class="align_center left_indent_8">Concentrated load to be applied on
+                                any part of the infill between floor and top rail</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left valign_center cellpadding_bottom_1 cellpadding_top_1 cellpadding_left_1 cellpadding_right_1">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center cellpadding_bottom_1 cellpadding_top_1 cellpadding_left_1 cellpadding_right_1">
+                            <p></p>
+                        </td>
+                        <td class="align_left valign_center">
+                            <p class="align_center">(kN/m)<br></br> </p>
+                        </td>
+                        <td class="align_left valign_center">
+                            <p class="align_center left_indent_4">(kPa)<br></br> </p>
+                        </td>
+                        <td class="align_left valign_center">
+                            <p class="align_center left_indent_8">(kN)<br></br> </p>
+                        </td>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="align_left cellpadding_bottom_1 cellpadding_top_1 cellpadding_left_1 cellpadding_right_1">
+                            <p class="align_justified">1.</p>
+                        </td>
+                        <td class="align_left valign_center">
+                            <p>Areas where congregation of people is not expected<br></br> </p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">0.75</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="left_indent_4 align_center">1</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="left_indent_8 align_center">0.5</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left cellpadding_bottom_1 cellpadding_top_1 cellpadding_left_1 cellpadding_right_1">
+                            <p class="align_justified">2.</p>
+                        </td>
+                        <td class="align_left valign_center">
+                            <p>Areas where people may congregate but overcrowding is not
+                                expected<br></br> </p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">1.5</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="left_indent_4 align_center">1.5</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="left_indent_8 align_center">1.5</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_left cellpadding_bottom_1 cellpadding_top_1 cellpadding_left_1 cellpadding_right_1">
+                            <p class="align_justified">3.</p>
+                        </td>
+                        <td class="align_left valign_center">
+                            <p>Areas susceptible to overcrowding</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center">3</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center left_indent_4">1.5</p>
+                        </td>
+                        <td class="align_left">
+                            <p class="align_center left_indent_8">1.5</p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </leadIn><leadIn class="align_left font_size_11">Note:</leadIn><subsection id="ID_1595212647098_359" name="1" temporalId="sch0_1" class="no_header left_indent_18 first_line_indent_-18"><num value="1" class="align_left"><sup>(1)</sup></num><leadIn class="align_left font_size_11">The line load is to be applied at—</leadIn><paragraph class="left_indent_64 first_line_indent_-64" id="ID_1595212647098_360" name="a" temporalId="sch0_1_a"><num value="a">(a)</num><content>a height of 1.1 m above the floor level; or</content></paragraph><paragraph class="left_indent_64 first_line_indent_-64" id="ID_1595212647098_361" name="b" temporalId="sch0_1_b"><num value="b">(b)</num><content>the top edge of the protective barrier,</content></paragraph><continued>whichever is the lower.</continued></subsection></schedule></main></subLeg>

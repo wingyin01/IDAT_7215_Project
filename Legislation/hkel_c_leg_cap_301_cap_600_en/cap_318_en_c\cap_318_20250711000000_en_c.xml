@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="UTF-8"?><ordinance xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd" xml:lang="en"><meta><docName>Cap. 318</docName><docType>cap</docType><docNumber>318</docNumber><docStatus>In effect</docStatus><dc:identifier>/hk/cap318!en</dc:identifier><dc:date>2025-07-11</dc:date><dc:subject>legislation</dc:subject><dc:language>en</dc:language><dc:publisher>DoJ</dc:publisher><dc:rights>the Government of the Hong Kong Special Administrative Region</dc:rights></meta><main xml:lang="en" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd"><longTitle id="ID_1438402987569_001" name="longTitle" reason="inEffect" status="operational" temporalId="longTitle" startPeriod="2023-03-16">
+            <content>To establish the Clothing Industry Training Authority; to provide for
+                facilities for the training of persons employed in the clothing industry and for a
+                levy to be paid by exporters of clothing
+                items.<marker role="blank-line"></marker><marker role="blank-line"></marker></content>
+        </longTitle><commencementNote>[5 September 1975]<sourceNote><inline class="width_3"> </inline><ref href="/hk/1975/ln214">L.N. 214 of 1975</ref></sourceNote></commencementNote><sourceNote>(Format changes—<ref href="hk/2023/er1">E.R. 1 of 2023</ref>)</sourceNote><part id="ID_1438402987584_002" name="P1" reason="inEffect" startPeriod="2023-03-16" status="operational" temporalId="P1"><num value="1">Part
+            I</num><heading>Preliminary</heading><section id="ID_1438402987600_001" name="s1" reason="inEffect" startPeriod="2023-03-16" status="operational" temporalId="s1"><num value="1">1.</num><heading>Short title</heading><content>This Ordinance may be cited as the <shortTitle>Industrial Training (Clothing Industry) Ordinance</shortTitle>.</content></section><section id="ID_1438402987600_003" name="s2" reason="inEffect" startPeriod="2025-07-11" status="operational" temporalId="s2"><num value="2">2.</num><heading>Interpretation</heading><leadIn>In this Ordinance, unless the context otherwise requires—</leadIn><def name="ATACarnet">
+            <leadIn><term>A.T.A.
+                    Carnet</term>
+                    (<term xml:lang="zh-Hant-HK">暫准進口證</term>) means a document—</leadIn>
+            <paragraph id="ID_1438411910797_019" name="a" temporalId="s2_a"><num value="a">(a)</num><content>in the form set out in the annex to the Customs Convention on the A.T.A.
+                    Carnet for the temporary admission of goods (otherwise known as the
+                            <b><i>A.T.A.
+                            Convention</i></b>) agreed at Brussels on 6th December 1961, or set out
+                    in Appendix 1 to Annex A to the Convention on Temporary Admission agreed at
+                    Istanbul on 26th June 1990; or
+                    <sourceNote>(Amended <ref href="/hk/1995/2">2 of 1995 s.
+                    2</ref>)</sourceNote></content></paragraph>
+            <paragraph id="ID_1438411910797_027" name="b" temporalId="s2_b"><num value="b">(b)</num><content>in such other form as may from time to time be provided by any amendment to
+                    the A.T.A. Convention, so long as it applies to Hong Kong, or by any amendment
+                    to the Convention on Temporary Admission, so long as Hong Kong remains a
+                    contracting party to it;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1995/2">2 of 1995 s. 2</ref>; <ref href="/hk/2000/56">56
+                            of 2000 s. 3</ref>)</sourceNote></content></paragraph>
+        </def><def name="Authority"><term>Authority</term>
+                (<term xml:lang="zh-Hant-HK">訓練局</term>) means the Clothing Industry Training
+            Authority established by <ref>section 4</ref>;</def><def name="AuthorizedOfficer"><term>authorized
+                officer</term>
+                (<term xml:lang="zh-Hant-HK">獲授權人員</term>) means an authorized officer under the
+            Import and
+            Export
+            Ordinance (<ref href="/hk/cap60">Cap. 60</ref>);
+            <sourceNote>(Amended <ref href="hk/2023/er1">E.R. 1 of
+            2023</ref>)</sourceNote></def><def name="Chairman"><term>chairman</term>
+                (<term xml:lang="zh-Hant-HK">主席</term>) means the chairman of the Authority
+            appointed under <ref>section 8</ref>;</def><def name="ClothingIndustry"><term>clothing
+                industry</term>
+                (<term xml:lang="zh-Hant-HK">製衣業</term>) means the industry of manufacturing and
+            marketing clothing items;</def><def name="ClothingItem"><term>clothing
+                item</term>
+                (<term xml:lang="zh-Hant-HK">成衣製品</term>) means any item of apparel which is
+            specified in <ref>Schedule 1</ref> and manufactured in Hong Kong;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1993/93">93 of 1993 s.
+                2</ref>)</sourceNote></def><def name="Commissioner"><term>Commissioner</term>
+                (<term xml:lang="zh-Hant-HK">關長</term>) means the Commissioner of Customs and Excise
+            and any Deputy or Assistant Commissioner of Customs and Excise;<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/1982/ln294">L.N. 294 of 1982</ref>. Amended <ref href="/hk/2000/56">56 of 2000 s. 3</ref>)</sourceNote></def><def name="Export"><term>export</term>
+                (<term xml:lang="zh-Hant-HK">出口</term>) means to take, or cause to be taken, out of
+            Hong Kong any clothing item;</def><def name="Exporter"><term>exporter</term>
+                (<term xml:lang="zh-Hant-HK">出口商</term>) means a person who exports clothing
+            items;</def><def name="FOBValue"><term>F.O.B.
+                value</term>
+                (<term xml:lang="zh-Hant-HK">離岸價值</term>) means value comprising the cost of
+            clothing items to a buyer outside Hong Kong until the clothing items have been loaded
+            onto the exporting ship, vehicle or aircraft;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1998/23">23 of 1998 s.
+                2</ref>)</sourceNote></def><def name="FinancialYear"><term>financial
+                year</term>
+                (<term xml:lang="zh-Hant-HK">財政年度</term>) means the period fixed by the Authority
+            under <ref>section 15(2)</ref>;</def><def name="Information"><term>information</term>
+                (<term xml:lang="zh-Hant-HK">資料</term>) has the meaning given to that term by
+                <ref>section 2(1)</ref> of the Electronic Transactions Ordinance (<ref href="/hk/cap553">Cap. 553</ref>);<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/2002/24">24 of 2002 s.
+                4</ref>)</sourceNote></def><def name="Levy"><term>levy</term>
+                (<term xml:lang="zh-Hant-HK">徵款</term>)
+            means the clothing industry training levy prescribed under <ref>section 22</ref>;</def><def name="Manufactured"><term>manufactured</term>
+                (<term xml:lang="zh-Hant-HK">製造</term>), in relation to a clothing item, includes
+            any process involved in the manufacture of the item;</def><def name="Member"><term>member</term>
+                (<term xml:lang="zh-Hant-HK">委員</term>) means a member of the Authority appointed
+            under <ref>section 7</ref>;</def><def name="SecurityDevice"><term>security
+                device</term>
+                (<term xml:lang="zh-Hant-HK">保安裝置</term>) means a device issued to a person to be
+            used for authenticating that person as the sender of information using services provided
+            by a specified body;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1995/31">31 of 1995 s. 2</ref>. Amended <ref href="/hk/2002/24">24 of
+                    2002 s. 4</ref>)</sourceNote></def><def name="ServicesProvidedByASpecifiedBody,SpecifiedAgent,SpecifiedBody"><term>services
+                provided by a specified
+            body</term>
+                (<term xml:lang="zh-Hant-HK">指定團體提供的服務</term>),
+                <term>specified
+                agent</term>
+                (<term xml:lang="zh-Hant-HK">指定代理人</term>) and
+                <term>specified
+                body</term>
+                (<term xml:lang="zh-Hant-HK">指定團體</term>) have the respective meanings assigned to
+            them by the Import and Export Ordinance (<ref href="/hk/cap60">Cap. 60</ref>);<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1995/31">31 of 1995 s.
+                    2</ref>)</sourceNote></def><def name="SpecifiedSystem"><term>specified system</term> (<term xml:lang="zh-Hant-HK">指明系統</term>) has the meaning given by <ref>section 2</ref> of the Import and Export
+            Ordinance (<ref href="/hk/cap60">Cap. 60</ref>); <sourceNote>(Added <ref href="/hk/2025/30">30 of 2025 s. 90</ref>)</sourceNote></def><def name="Surcharge"><term>surcharge</term>
+                (<term xml:lang="zh-Hant-HK">附加費</term>) means the surcharge under <ref>section
+                25(3)</ref>.</def></section><section id="ID_1438402987631_001" name="s3" reason="inEffect" startPeriod="2023-03-16" status="operational" temporalId="s3"><num value="3">3.</num><heading>Application</heading><leadIn>This Ordinance shall not apply to or in respect of clothing items which—</leadIn><paragraph id="ID_1438411910875_039" name="a" temporalId="s3_a"><num value="a">(a)</num><content>are exported by the Hong Kong Government;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/2012/2">2 of 2012 s.
+                    3</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411910875_047" name="b" temporalId="s3_b"><num value="b">(b)</num><content>form part of the stores of any ship or aircraft which leaves Hong Kong and
+                which are for use on board that ship or aircraft;</content></paragraph><paragraph id="ID_1438411910875_055" name="c" temporalId="s3_c"><num value="c">(c)</num><content>are worn by, or form part of the personal effects of, a person leaving Hong
+                Kong;</content></paragraph><paragraph id="ID_1438411910890_006" name="d" temporalId="s3_d"><num value="d">(d)</num><content>are contained in a postal packet sent out of Hong Kong if the value of the
+                contents of the packet does not exceed $4,000;</content></paragraph><paragraph id="ID_1438411910890_014" name="e" temporalId="s3_e"><num value="e">(e)</num><content>consist solely of and are marked clearly as samples of clothing items and which
+                the Commissioner is satisfied are intended to be distributed free of charge for the
+                purpose of advertising such clothing items;</content></paragraph><paragraph id="ID_1438411910890_022" name="f" temporalId="s3_f"><num value="f">(f)</num><content>are valued at less than $1,000 and consist solely of samples of clothing items
+                and which the Commissioner is satisfied are intended to be used for the purpose of
+                advertising such clothing items;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1984/4">4 of 1984 s.
+                    2</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411910890_030" name="g" temporalId="s3_g"><num value="g">(g)</num><content>are exported solely for the purpose of exhibition and which the Commissioner is
+                satisfied are intended to be returned to Hong Kong after the exhibition;</content></paragraph><paragraph id="ID_1438411910890_038" name="h" temporalId="s3_h"><num value="h">(h)</num><content>are exported under and in accordance with an A.T.A. Carnet;</content></paragraph><paragraph id="ID_1438411910890_046" name="i" temporalId="s3_i"><num value="i">(i)</num><content>are gifts of a personal nature where no payment is or is to be made by the
+                receiver thereof.</content></paragraph></section></part><part id="ID_1438402987631_003" name="P2" reason="inEffect" startPeriod="2023-03-16" status="operational" temporalId="P2"><num value="2">Part
+            II</num><heading>Clothing
+            Industry
+            Training
+            Authority</heading><section id="ID_1438402987647_001" name="s4" reason="inEffect" startPeriod="2023-03-16" status="operational" temporalId="s4"><num value="4">4.</num><heading>Establishment of Clothing Industry Training Authority</heading><subsection id="ID_1438411910937_004" name="1" temporalId="s4_1"><num value="1">(1)</num><content>There is hereby established an authority, to be known as the Clothing Industry Training Authority, which shall in that name be a body corporate with perpetual succession and shall be capable of suing and being sued.</content></subsection><subsection id="ID_1438411910937_012" name="2" temporalId="s4_2"><num value="2">(2)</num><content>The Authority shall have a common seal, the affixing of which shall be authenticated by the signature of any 2 members.</content></subsection><subsection id="ID_1438411910937_020" name="3" temporalId="s4_3"><num value="3">(3)</num><content>Any document purporting to be a document duly executed under the seal of the Authority shall be received in evidence and shall, unless the contrary is provided, be deemed to be a document so executed.</content></subsection></section><section id="ID_1438402987647_003" name="s5" reason="inEffect" startPeriod="2023-03-16" status="operational" temporalId="s5"><num value="5">5.</num><heading>Functions of the Authority</heading><leadIn>The Authority shall have the following functions—</leadIn><paragraph id="ID_1438411910953_035" name="a" temporalId="s5_a"><num value="a">(a)</num><content>to provide training courses for the clothing industry;</content></paragraph><paragraph id="ID_1438411910953_043" name="b" temporalId="s5_b"><num value="b">(b)</num><content>to establish and maintain industrial training centres therefor;</content></paragraph><paragraph id="ID_1438411910953_051" name="c" temporalId="s5_c"><num value="c">(c)</num><content>to assist in the placement of persons completing training courses;</content></paragraph><paragraph id="ID_1438411910953_059" name="d" temporalId="s5_d"><num value="d">(d)</num><content>to make recommendations with respect to the rate of levy.</content></paragraph></section><section id="ID_1438402987662_002" name="s6" reason="inEffect" startPeriod="2023-03-16" status="operational" temporalId="s6"><num value="6">6.</num><heading>General powers of the Authority</heading><subsection id="ID_1438411910968_049" name="1" temporalId="s6_1"><num value="1">(1)</num><leadIn>The Authority may do all such things as are necessary for, or incidental or
+                conducive to, the better carrying out of the functions of the Authority and may in
+                particular, but without prejudice to the generality of the foregoing—</leadIn><paragraph id="ID_1438411910984_005" name="a" temporalId="s6_1_a"><num value="a">(a)</num><content>hold, acquire or lease all kinds of property, whether movable or
+                    immovable;</content></paragraph><paragraph id="ID_1438411910984_013" name="b" temporalId="s6_1_b"><num value="b">(b)</num><content>subject to subsection (2), sell or otherwise dispose of all kinds of
+                    property whether movable or immovable;</content></paragraph><paragraph id="ID_1438411910984_021" name="c" temporalId="s6_1_c"><num value="c">(c)</num><content>enter into, assign or accept the assignment of, and vary or rescind any
+                    contract or obligation;</content></paragraph><paragraph id="ID_1438411910984_029" name="d" temporalId="s6_1_d"><num value="d">(d)</num><content>subject to subsection (3), meet expenditure on any item shown in the
+                    approved estimates of expenditure of the Authority, borrow or otherwise raise
+                    money on such security as may be necessary, and for that purpose, charge all or
+                    any of the property of the Authority;</content></paragraph><paragraph id="ID_1438411910984_037" name="e" temporalId="s6_1_e"><num value="e">(e)</num><content>make charges for the use of any facility or service provided by the
+                    Authority.</content></paragraph></subsection><subsection id="ID_1438411910984_044" name="2" temporalId="s6_2"><num value="2">(2)</num><content>The Authority shall not sell or otherwise dispose of land granted at nil
+                premium by the Government except with the prior approval of the Chief
+                    Executive.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/2000/56">56 of 2000 s. 3</ref>)</sourceNote></content></subsection><subsection id="ID_1438411910984_052" name="3" temporalId="s6_3"><num value="3">(3)</num><content>Except with the prior approval of the Financial Secretary, no sum shall be
+                borrowed or otherwise raised under subsection <ref>(1)(d)</ref> which itself, or
+                together with all other sums previously borrowed or otherwise raised under that
+                subsection and still outstanding, exceeds, or in the aggregate exceeds, 10 per cent
+                of the approved total estimated expenditure for the current financial
+                year.</content></subsection></section><section id="ID_1438402987662_004" name="s7" reason="inEffect" startPeriod="2023-03-16" status="operational" temporalId="s7"><num value="7">7.</num><heading>Constitution of the Authority</heading><subsection id="ID_1438411911015_066" name="1" temporalId="s7_1"><num value="1">(1)</num><content>The Authority shall consist of such persons specified in <ref>section 1 of
+                    Schedule 2</ref> as are appointed by the Chief Executive.<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/1993/93">93 of 1993 s.
+                    3</ref>)</sourceNote></content></subsection><subsection id="ID_1438411911031_005" name="2" temporalId="s7_2"><num value="2">(2)</num><content>A member who is not a public officer referred to in <ref>section
+                    1(l)
+                    of Schedule 2</ref> shall, unless his appointment is terminated or otherwise
+                ceases, hold office for such period as the Chief Executive may specify.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1993/93">93 of
+                        1993 s. 3</ref>)</sourceNote></content></subsection><subsection id="ID_1438411911031_013" name="3" temporalId="s7_3"><num value="3">(3)</num><content>On the expiration of his period of appointment or reappointment, as the case
+                may be, any such member shall be eligible for reappointment for such further term as
+                the Chief Executive may specify.</content></subsection><subsection id="ID_1438411911031_021" name="4" temporalId="s7_4"><num value="4">(4)</num><content>Any such member may at any time resign from office by giving notice in writing
+                to the Chief Executive, and he shall cease to be a member from the date specified in
+                the notice or, if no date is specified, from the date of the receipt by the Chief
+                Executive of the notice.</content></subsection><subsection id="ID_1438411911031_029" name="5" temporalId="s7_5"><num value="5">(5)</num><content>If any member other than the chairman is absent from Hong Kong or is for any
+                other reason unable to exercise the powers or perform the duties of his office as
+                member, the Chief Executive may appoint another person to be a temporary member in
+                his place during his absence or incapacity.</content></subsection><sourceNote>(Amended <ref href="/hk/2000/56">56 of 2000 s. 3</ref>)</sourceNote></section><section id="ID_1438402987678_002" name="s8" reason="inEffect" startPeriod="2023-03-16" status="operational" temporalId="s8"><num value="8">8.</num><heading>Chairman of the Authority</heading><subsection id="ID_1438411911062_034" name="1" temporalId="s8_1"><num value="1">(1)</num><content>The Chief Executive shall appoint a member to be chairman of the
+                Authority.</content></subsection><subsection id="ID_1438411911062_042" name="2" temporalId="s8_2"><num value="2">(2)</num><content>If the chairman is absent from Hong Kong or is for any other reason unable to
+                act as chairman, the Chief Executive may appoint another member to be chairman in
+                his place during his absence or incapacity.</content></subsection><sourceNote>(Amended <ref href="/hk/2000/56">56 of 2000 s. 3</ref>)</sourceNote></section><section id="ID_1438402987693_001" name="s9" reason="inEffect" startPeriod="2023-03-16" status="operational" temporalId="s9"><num value="9">9.</num><heading>Meetings and proceedings of the Authority</heading><subsection id="ID_1438411911078_033" name="1" temporalId="s9_1"><num value="1">(1)</num><content>Meetings of the Authority shall be held at such times and places as the chairman may appoint.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1993/ln386">L.N. 386 of 1993</ref>)</sourceNote></content></subsection><subsection id="ID_1438411911078_041" name="2" temporalId="s9_2"><num value="2">(2)</num><content>The quorum for meetings of the Authority shall be such quorum as is specified in <ref>section 2 of Schedule 2</ref>.<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/1993/93">93 of 1993 s. 4</ref>)</sourceNote></content></subsection><subsection id="ID_1438411911093_006" name="3" temporalId="s9_3"><num value="3">(3)</num><content>At any meeting of the Authority the chairman shall preside.</content></subsection><subsection id="ID_1438411911093_014" name="4" temporalId="s9_4"><num value="4">(4)</num><content>If the chairman is absent from any meeting of the Authority, the members present at the meeting may elect one of their number to act as chairman in his place.</content></subsection><subsection id="ID_1438411911093_022" name="5" temporalId="s9_5"><num value="5">(5)</num><content>The chairman or the member acting in his place shall have a deliberative vote on all matters coming before the Authority and in the case of an equality of votes he shall also have a casting vote.</content></subsection><subsection id="ID_1438411911093_030" name="6" temporalId="s9_6"><num value="6">(6)</num><content>If a member has a pecuniary interest, whether direct or indirect, in any contract or proposed contract or in any other matter, and is present at a meeting of the Authority at which the contract or other matter is the subject of consideration, he shall, as soon as practicable after the commencement of the meeting, disclose to the Authority the fact and nature of his interest.</content></subsection><subsection id="ID_1438411911109_005" name="7" temporalId="s9_7"><num value="7">(7)</num><content>Such member shall, if so required by the meeting, withdraw from the meeting while the Authority is considering the contract or matter and in any case shall not vote thereon.</content></subsection><subsection id="ID_1438411911109_013" name="8" temporalId="s9_8"><num value="8">(8)</num><content>Subject to this Ordinance, the Authority may determine its own procedure at meetings.</content></subsection></section><section id="ID_1438402987693_003" name="s10" reason="inEffect" startPeriod="2023-03-16" status="operational" temporalId="s10"><num value="10">10.</num><heading>Transaction of business by circulation of papers</heading><content>The Authority may transact any of its business by the circulation of papers, and a resolution in writing which is approved in writing by a majority of the members shall be as valid and effectual as if it had been passed at a meeting of the Authority by the votes of the members so approving the resolution.</content></section><section id="ID_1438402987709_001" name="s11" reason="inEffect" startPeriod="2023-03-16" status="operational" temporalId="s11"><num value="11">11.</num><heading>Committees</heading><subsection id="ID_1438411911140_018" name="1" temporalId="s11_1"><num value="1">(1)</num><content>The Authority may appoint committees for the better discharge of its functions under this Ordinance.</content></subsection><subsection id="ID_1438411911140_026" name="2" temporalId="s11_2"><num value="2">(2)</num><content><leadIn>The Authority may in writing delegate to any committee appointed under subsection (1) any of its powers and functions:</leadIn><proviso name="proviso" temporalId="s11_2_proviso">Provided that no delegation made under this subsection shall preclude the Authority from exercising or performing at any time any power or function so delegated.</proviso></content></subsection><subsection id="ID_1438411911156_004" name="3" temporalId="s11_3"><num value="3">(3)</num><content>Each committee may determine its own procedure at meetings.</content></subsection></section><section id="ID_1438402987709_003" name="s12" reason="inEffect" startPeriod="2023-03-16" status="operational" temporalId="s12"><num value="12">12.</num><heading>Appointment of employees and conditions of employment</heading><content>The Authority may appoint such employees as it thinks fit and determine all matters relating to their remuneration and terms and conditions of appointment or employment.</content></section><section id="ID_1438402987725_002" name="s13" reason="inEffect" startPeriod="2023-03-16" status="operational" temporalId="s13"><num value="13">13.</num><heading>Staff benefits</heading><subsection id="ID_1438411911202_011" name="1" temporalId="s13_1"><num value="1">(1)</num><leadIn>The Authority may—</leadIn><paragraph id="ID_1438411911202_019" name="a" temporalId="s13_1_a"><num value="a">(a)</num><content>grant, or make provision for the grant of, pensions, gratuities and retirement benefits to its employees;</content></paragraph><paragraph id="ID_1438411911202_027" name="b" temporalId="s13_1_b"><num value="b">(b)</num><content>provide other benefits for the welfare of its employees and their dependants;</content></paragraph><paragraph id="ID_1438411911202_035" name="c" temporalId="s13_1_c"><num value="c">(c)</num><content>make payments, whether ex gratia or legally due, to the personal representative of a deceased employee or to any person who was dependent on such employee at his death.</content></paragraph></subsection><subsection id="ID_1438411911202_042" name="2" temporalId="s13_2"><num value="2">(2)</num><content>The Authority may establish, manage and control or enter into an arrangement with any company or association for the establishment, management and control by such company or association either alone or jointly with the Authority of any fund or scheme for the purpose of providing for the pensions, gratuities, benefits and payments referred to in subsection (1).</content></subsection><subsection id="ID_1438411911218_005" name="3" temporalId="s13_3"><num value="3">(3)</num><content>The Authority may make contributions to any fund or scheme referred to in subsection (1) and may require its employees to make contributions thereto.</content></subsection><subsection id="ID_1438411911218_013" name="4" temporalId="s13_4"><num value="4">(4)</num><def name="Employees">In this section
+                    <term>employees</term>
+                    (<term xml:lang="zh-Hant-HK">僱員</term>) includes any class of employee which the
+                Authority may specify and in subsection (1) includes former employees.</def></subsection></section></part><part id="ID_1438402987725_004" name="P3" reason="inEffect" startPeriod="2023-03-16" status="operational" temporalId="P3"><num value="3">Part
+            III</num><heading>Financial
+            Provisions</heading><section id="ID_1438402987740_002" name="s14" reason="inEffect" startPeriod="2023-03-16" status="operational" temporalId="s14"><num value="14">14.</num><heading>Funds and property of the Authority</heading><leadIn>The funds and property of the Authority shall consist of—</leadIn><paragraph id="ID_1438411911249_012" name="a" temporalId="s14_a"><num value="a">(a)</num><content>subject to <ref>section 27(2)</ref>, all amounts of levy and surcharge collected by the Commissioner;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1982/ln294">L.N. 294 of 1982</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411911249_020" name="b" temporalId="s14_b"><num value="b">(b)</num><content>any moneys received by the Authority by way of grants, loans, donations, fees, rent or interest;</content></paragraph><paragraph id="ID_1438411911249_028" name="c" temporalId="s14_c"><num value="c">(c)</num><content>all moneys derived from the sale of any property held by or on behalf of the Authority; and</content></paragraph><paragraph id="ID_1438411911249_036" name="d" temporalId="s14_d"><num value="d">(d)</num><content>all other moneys and property lawfully received by the Authority for its purposes.</content></paragraph></section><section id="ID_1438402987756_001" name="s15" reason="inEffect" startPeriod="2023-03-16" status="operational" temporalId="s15"><num value="15">15.</num><heading>Estimates and financial year</heading><subsection id="ID_1438411911265_056" name="1" temporalId="s15_1"><num value="1">(1)</num><content>
+                <leadIn>In each financial year, before a date to be appointed by the Chief
+                    Executive, the Authority shall submit to the Chief Executive a programme of its
+                    proposed activities and estimates of its income and expenditure for the next
+                    financial year:</leadIn>
+                <proviso name="proviso" temporalId="s15_1_proviso">Provided that the programme and
+                    estimates for the first financial year of the Authority shall be forwarded as
+                    soon as is practicable after the
+                        commencement<inline class="force_orig_font">*</inline> of this
+                    Ordinance.</proviso>
+            </content></subsection><subsection id="ID_1438411911280_004" name="2" temporalId="s15_2"><num value="2">(2)</num><content>The Authority may, from time to time, with the prior approval of the Chief
+                Executive, fix a period to be the financial year of the Authority.</content></subsection><sourceNote>(Amended <ref href="/hk/2000/56">56 of 2000 s. 3</ref>)</sourceNote><editorialNote type="footnote" id="ID_1672798855224_001">
+            <content>Editorial Note:</content>
+            <content><inline class="force_orig_font">*</inline> Commencement date: 5 September
+                1975.</content>
+        </editorialNote></section><section id="ID_1438402987756_003" name="s16" reason="inEffect" startPeriod="2023-03-16" status="operational" temporalId="s16"><num value="16">16.</num><heading>Bank account</heading><subsection id="ID_1438411911296_004" name="1" temporalId="s16_1"><num value="1">(1)</num><content>The Authority shall open and maintain an account with a bank approved by the Director of Accounting Services.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1977/ln16">L.N. 16 of 1977</ref>)</sourceNote></content></subsection><subsection id="ID_1438411911296_012" name="2" temporalId="s16_2"><num value="2">(2)</num><content>The Authority shall pay all moneys received by it into the account referred to in subsection (1).</content></subsection></section><section id="ID_1438402987771_001" name="s17" reason="inEffect" startPeriod="2023-03-16" status="operational" temporalId="s17"><num value="17">17.</num><heading>Investment of funds</heading><leadIn>All funds of the Authority that are not immediately required may be—</leadIn><paragraph id="ID_1438411911312_012" name="a" temporalId="s17_a"><num value="a">(a)</num><content>deposited on fixed deposit in any bank or savings bank nominated by the Financial Secretary either generally or, in any particular case, for that purpose; or</content></paragraph><paragraph id="ID_1438411911312_020" name="b" temporalId="s17_b"><num value="b">(b)</num><content>subject to the prior approval of the Financial Secretary invested in such investments as the Authority thinks fit.</content></paragraph></section><section id="ID_1438402987771_003" name="s18" reason="inEffect" startPeriod="2023-03-16" status="operational" temporalId="s18"><num value="18">18.</num><heading>Accounts</heading><subsection id="ID_1438411911327_018" name="1" temporalId="s18_1"><num value="1">(1)</num><content>The Authority shall maintain proper accounts and records of all income and expenditure.</content></subsection><subsection id="ID_1438411911327_026" name="2" temporalId="s18_2"><num value="2">(2)</num><content>After the end of each financial year, the Authority shall cause to be prepared statements of income and expenditure during the previous financial year and of the assets and liabilities of the Authority on the last day thereof.</content></subsection></section><section id="ID_1438402987787_001" name="s19" reason="inEffect" startPeriod="2023-03-16" status="operational" temporalId="s19"><num value="19">19.</num><heading>Auditors</heading><subsection id="ID_1438411911343_019" name="1" temporalId="s19_1"><num value="1">(1)</num><content>The Authority shall appoint auditors, who shall be entitled at any time to have access to all books of account, vouchers and other financial records of the Authority and to require such information and explanations thereof as they may think fit.</content></subsection><subsection id="ID_1438411911343_027" name="2" temporalId="s19_2"><num value="2">(2)</num><content>The auditors shall audit the statements prepared under <ref>section 18(2)</ref> and shall report thereon to the Authority.</content></subsection></section><section id="ID_1438402987787_003" name="s20" reason="inEffect" startPeriod="2023-03-16" status="operational" temporalId="s20"><num value="20">20.</num><heading>Statements and reports to be laid on table of Legislative Council</heading><subsection id="ID_1438411911358_026" name="1" temporalId="s20_1"><num value="1">(1)</num><content>The Authority shall, within 6 months after the end of each financial year or
+                such further time as the Chief Executive may in any particular year allow, submit to
+                the Chief Executive a report on the activities of the Authority and copies of the
+                statements prepared under <ref>section 18(2)</ref> and the report made under
+                    <ref>section 19(2)</ref>.</content></subsection><subsection id="ID_1438411911374_005" name="2" temporalId="s20_2"><num value="2">(2)</num><content>The Chief Executive shall cause the reports and statements received by him
+                under subsection (1) to be laid on the table of the Legislative Council.</content></subsection><sourceNote>(Amended <ref href="/hk/2000/56">56 of 2000 s. 3</ref>)</sourceNote></section></part><part id="ID_1438402987803_002" name="P4" reason="inEffect" startPeriod="2023-03-16" status="operational" temporalId="P4"><num value="4">Part
+            IV</num><heading>Levy</heading><section id="ID_1438402987803_004" name="s21" reason="inEffect" startPeriod="2023-03-16" status="operational" temporalId="s21"><num value="21">21.</num><heading>Imposition of clothing industry training levy</heading><subsection id="ID_1438411911390_011" name="1" temporalId="s21_1"><num value="1">(1)</num><content>A levy, to be known as the clothing industry training levy, shall be imposed in accordance with this Ordinance on the F.O.B. value of clothing items exported.</content></subsection><subsection id="ID_1438411911405_005" name="2" temporalId="s21_2"><num value="2">(2)</num><content>A levy imposed under subsection (1) shall be payable by the exporter of the clothing items.</content></subsection></section><section id="ID_1438402987818_002" name="s22" reason="inEffect" startPeriod="2023-03-16" status="operational" temporalId="s22"><num value="22">22.</num><heading>Rate of levy</heading><subsection id="ID_1438411911421_004" name="1" temporalId="s22_1"><num value="1">(1)</num><content>The Legislative Council may by resolution prescribe the rate of levy.</content></subsection><subsection id="ID_1438411911421_012" name="2" temporalId="s22_2"><num value="2">(2)</num><content>The rate of levy prescribed under subsection (1) shall be based on the F.O.B. value of the clothing items exported.</content></subsection><subsection id="ID_1438411911421_020" name="3" temporalId="s22_3"><num value="3">(3)</num><content>The rate of levy prescribed under subsection (1) shall come into effect 30 days after the publication of the resolution in the Gazette.</content></subsection></section><section id="ID_1438402987834_002" name="s23" reason="inEffect" startPeriod="2025-07-11" status="operational" temporalId="s23"><num value="23">23.</num><heading>Exporters of clothing items to make export declarations and pay levy</heading><subsection id="ID_1438411911436_034" name="1" temporalId="s23_1"><num value="1">(1)</num><content>Every exporter shall,
+                not later than
+                14 days after the day
+                of
+                export of clothing items, lodge with the Commissioner a declaration using
+                the specified
+                system,
+                in accordance with the requirements that the Commissioner specifies under
+                    <ref>section 34(2)</ref>, stating the clothing items exported by him, their
+                F.O.B. value and such other particulars as may be required.<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/1999/82">82 of 1999 s.
+                    2</ref>)</sourceNote></content></subsection><subsection id="ID_1438411911452_005" name="2" temporalId="s23_2"><num value="2">(2)</num><content>The levy in respect of the F.O.B. value of the clothing items stated in a
+                declaration lodged under subsection (1) shall be paid in the manner
+                specified by
+                the
+                    Commissioner.<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/1999/82">82 of
+                        1999 s. 2</ref>)</sourceNote></content></subsection><subsection id="ID_1438411911452_013" name="3" temporalId="s23_3"><num value="3">(3)-(3A)</num><sourceNote>(Repealed <ref href="/hk/1999/82">82 of 1999 s. 2</ref>)</sourceNote></subsection><subsection id="ID_1438411911452_029" name="3B" temporalId="s23_3B"><num value="3B">(3B)</num><content>Until the levy is paid the declaration is deemed not to have been lodged with
+                the Commissioner.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1995/31">31 of 1995 s. 3</ref>)</sourceNote></content></subsection><subsection id="ID_1438411911452_037" name="4" temporalId="s23_4"><num value="4">(4)</num><content>Any exporter who, without reasonable excuse, fails to lodge a declaration under
+                and in accordance with
+                subsection
+                (1)
+                shall be guilty of an offence and shall be liable on conviction to a fine
+                at
+                level
+                    1.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="hk/2023/er1">E.R. 1 of
+                        2023</ref>)</sourceNote></content></subsection><subsection id="ID_1752485979355_001" name="5" temporalId="s23_5"><num value="5">(5)</num><content>A person who has submitted a pre-shipment export declaration before the export
+                of the clothing items to which the declaration relates must update, using the
+                specified system, any inaccuracy in a material particular in the declaration before
+                the export in order to make the declaration accurate and complete.
+                    <sourceNote>(Added <ref href="/hk/2025/30">30 of 2025 s.
+                91</ref>)</sourceNote></content></subsection><subsection id="ID_1752485979386_002" name="6" temporalId="s23_6"><num value="6">(6)</num><content>A person who, without reasonable excuse, contravenes subsection (5) commits an
+                offence and is liable on conviction to a fine at level 3. <sourceNote>(Added <ref href="/hk/2025/30">30 of 2025 s. 91</ref>)</sourceNote></content></subsection><subsection id="ID_1752485979417_003" name="7" temporalId="s23_7"><num value="7">(7)</num><leadIn>In this section—</leadIn><def name="PreshipmentExportDeclaration"><term>pre-shipment export declaration</term>
+                    (<term xml:lang="zh-Hant-HK">付運前出口申報書</term>) means a declaration lodged under
+                subsection (1) before the export of the clothing items to which the declaration
+                relates. <sourceNote>(Added <ref href="/hk/2025/30">30 of 2025 s.
+                    91</ref>)</sourceNote></def></subsection><sourceNote>(Amended <ref href="/hk/1982/ln294">L.N. 294 of
+            1982</ref>; <ref href="/hk/2025/30">30 of 2025 s. 91</ref>)</sourceNote></section><section id="ID_1438402987849_002" name="s24" reason="inEffect" startPeriod="2025-07-11" status="operational" temporalId="s24"><num value="24">24.</num><heading>Commissioner may require particulars in declarations to be verified</heading><subsection id="ID_1438411911483_004" name="1" temporalId="s24_1"><num value="1">(1)</num><content>The Commissioner may at any time by notice require an exporter who has lodged with him a declaration under <ref>section 23</ref> to verify any particulars stated in the declaration to his satisfaction, either by the production of documentary evidence or by statutory declaration or other means.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1995/31">31 of 1995 s. 4</ref>)</sourceNote></content></subsection><subsection id="ID_1438411911483_012" name="1A" temporalId="s24_1A"><num value="1A">(1A)</num><leadIn>A notice under subsection (1) may be given to the exporter—</leadIn><paragraph id="ID_1438411911483_020" name="a" temporalId="s24_1A_a"><num value="a">(a)</num><content>in writing served personally or sent by post; or</content></paragraph><paragraph id="ID_1438411911483_028" name="b" temporalId="s24_1A_b"><num value="b">(b)</num><content>by sending it using
+                    the
+                    specified
+                        system.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1995/31">31 of
+                            1995 s.
+                        4</ref>. Amended <ref href="/hk/2025/30">30 of 2025 s.
+                        92</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438411911483_035" name="2" temporalId="s24_2"><num value="2">(2)</num><content>Any person who, without reasonable excuse, fails to comply with a notice under
+                subsection (1) within 14 days after the notice is served or sent, or within such
+                further time as the Commissioner may in any case allow, shall be guilty of an
+                offence and shall be liable on conviction to a fine
+                at level
+                    2.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="hk/2023/er1">E.R. 1 of
+                        2023</ref>)</sourceNote></content></subsection><subsection id="ID_1438411911499_005" name="3" temporalId="s24_3"><num value="3">(3)</num><content>Where a person is charged under subsection (2) with the offence of failing to comply with a notice under subsection (1), the court dealing with the charge may, whether or not it convicts him of the offence, order him to comply with the notice within such period as may be specified in the order.</content></subsection><subsection id="ID_1438411911499_013" name="4" temporalId="s24_4"><num value="4">(4)</num><content>Without prejudice to the law relating to contempt of court, any person, who,
+                without reasonable excuse, fails to comply with an order made under subsection (3)
+                shall be guilty of an offence and shall be liable on conviction to a fine
+                at level
+                2
+                and, commencing with the day following the date of conviction for the offence, to a
+                further fine of $100 for every day during which the offence
+                    continues.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="hk/2023/er1">E.R. 1 of
+                        2023</ref>)</sourceNote></content></subsection><sourceNote>(Amended <ref href="/hk/1982/ln294">L.N. 294 of 1982</ref>)</sourceNote></section><section id="ID_1438402987865_001" name="s25" reason="inEffect" startPeriod="2025-07-11" status="operational" temporalId="s25"><num value="25">25.</num><heading>Power of Commissioner to impose levy and surcharge</heading><subsection id="ID_1438411911530_027" name="1" temporalId="s25_1"><num value="1">(1)</num><content>If after a levy has been paid under <ref>section 23</ref> on the F.O.B. value of the clothing items stated in the declaration lodged under that section, the Commissioner has reason to believe that the F.O.B. value of the clothing items has been understated, he may assess the F.O.B. value of the clothing items and calculate the amount of levy due in respect of that value, and by notice require the exporter to pay the difference between the levy calculated under this subsection and the levy paid within such period, being not less than 7 days, as may be specified in the notice.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1995/31">31 of 1995 s. 5</ref>)</sourceNote></content></subsection><subsection id="ID_1438411911546_005" name="1A" temporalId="s25_1A"><num value="1A">(1A)</num><leadIn>A notice under subsection (1) may be given to the exporter—</leadIn><paragraph id="ID_1438411911546_013" name="a" temporalId="s25_1A_a"><num value="a">(a)</num><content>in writing served personally or sent by post; or</content></paragraph><paragraph id="ID_1438411911546_021" name="b" temporalId="s25_1A_b"><num value="b">(b)</num><content>by sending it using
+                    the
+                    specified
+                        system.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1995/31">31 of
+                            1995 s.
+                        5</ref>. Amended <ref href="/hk/2025/30">30 of 2025 s.
+                        93</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438411911561_005" name="2" temporalId="s25_2"><num value="2">(2)</num><content>Where the Commissioner has reason to believe that an exporter has not lodged a declaration when required to do so by <ref>section 23</ref>, he may assess the F.O.B. value of the clothing items and calculate the amount of levy due in respect of that value and by notice require the exporter to pay the levy so calculated within such period, being not less than 7 days, as may be specified in the notice.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1995/31">31 of 1995 s. 5</ref>)</sourceNote></content></subsection><subsection id="ID_1438411911561_013" name="2A" temporalId="s25_2A"><num value="2A">(2A)</num><leadIn>A notice under subsection (2) may be given to an exporter—</leadIn><paragraph id="ID_1438411911561_021" name="a" temporalId="s25_2A_a"><num value="a">(a)</num><content>in writing served personally or sent by post; or</content></paragraph><paragraph id="ID_1438411911561_029" name="b" temporalId="s25_2A_b"><num value="b">(b)</num><content>by sending it using
+                    the
+                    specified
+                        system.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1995/31">31 of
+                            1995 s.
+                        5</ref>. Amended <ref href="/hk/2025/30">30 of 2025 s.
+                        93</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438411911561_036" name="3" temporalId="s25_3"><num value="3">(3)</num><leadIn>Where the Commissioner has reason to believe that—</leadIn><paragraph id="ID_1438411911561_044" name="a" temporalId="s25_3_a"><num value="a">(a)</num><content>an exporter has understated the F.O.B. value of the clothing items in a declaration lodged under <ref>section 23</ref>; or</content></paragraph><paragraph id="ID_1438411911577_006" name="b" temporalId="s25_3_b"><num value="b">(b)</num><content>an exporter has failed to lodge a declaration when required to do so by <ref>section 23</ref>,</content></paragraph><continued>he may impose on the exporter a surcharge not exceeding 20 times the difference which an exporter is required to pay under subsection (1) or, as the case may be, the levy which an exporter is required to pay under subsection (2), and the surcharge imposed under this subsection shall be included in and payable in accordance with the notice under subsection (1) or (2), as the case may be:<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1995/31">31 of 1995 s. 5</ref>)</sourceNote></continued><proviso name="proviso" temporalId="s25_3_proviso">Provided that no surcharge imposed under this subsection shall exceed $10,000.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1984/4">4 of 1984 s. 4</ref>)</sourceNote></proviso></subsection><subsection id="ID_1438411911577_026" name="4" temporalId="s25_4"><num value="4">(4)</num><content>If, in making an assessment under subsection (1) or (2) the actual F.O.B. value of the clothing items is not known to the Commissioner and cannot reasonably be ascertained by him, he may assess the F.O.B. value of the clothing items at such amount as in his opinion represents the fair value for those clothing items.</content></subsection><subsection id="ID_1438411911577_034" name="5" temporalId="s25_5"><num value="5">(5)</num><content>An exporter shall comply with a notice under subsection (1) or (2) notwithstanding that he may wish to object to the levy or surcharge imposed under this section.</content></subsection><subsection id="ID_1438411911577_042" name="6" temporalId="s25_6"><num value="6">(6)</num><leadIn>No levy under subsection (1) or (2) and no surcharge under subsection (3) shall be imposed—</leadIn><paragraph id="ID_1438411911592_005" name="a" temporalId="s25_6_a"><num value="a">(a)</num><content>2 years after the export of the clothing items; or</content></paragraph><paragraph id="ID_1438411911592_013" name="b" temporalId="s25_6_b"><num value="b">(b)</num><content>1 year after evidence of facts, sufficient in the opinion of the Commissioner to justify the imposition of the levy or surcharge, comes to his knowledge,</content></paragraph><continued>whichever is the later.</continued></subsection><sourceNote>(Amended <ref href="/hk/1982/ln294">L.N. 294 of 1982</ref>)</sourceNote></section><section id="ID_1438402987865_003" name="s26" reason="inEffect" startPeriod="2023-03-16" status="operational" temporalId="s26"><num value="26">26.</num><heading>Recovery of levy</heading><subsection id="ID_1438411911624_034" name="1" temporalId="s26_1"><num value="1">(1)</num><content>Any amount of levy or surcharge due shall be recoverable in the District Court as a debt due to the Commissioner.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1982/ln294">L.N. 294 of 1982</ref>)</sourceNote></content></subsection><subsection id="ID_1438411911624_042" name="2" temporalId="s26_2"><num value="2">(2)</num><content>An action under subsection (1) may be brought notwithstanding that the amount due exceeds $20,000.</content></subsection></section><section id="ID_1438402987881_002" name="s27" reason="inEffect" startPeriod="2023-03-16" status="operational" temporalId="s27"><num value="27">27.</num><heading>Commissioner to surrender levy and surcharge to Authority</heading><subsection id="ID_1438411911639_026" name="1" temporalId="s27_1"><num value="1">(1)</num><content>The Commissioner shall, subject to subsection (2), surrender to the Authority all amounts of levy and surcharge collected by him under this Ordinance.</content></subsection><subsection id="ID_1438411911639_034" name="2" temporalId="s27_2"><num value="2">(2)</num><content>The Commissioner may deduct from the amounts of levy and surcharge collected by him such proportion of the costs of collection and enforcement as the Financial Secretary may approve.</content></subsection><subsection id="ID_1438411911655_005" name="3" temporalId="s27_3"><num value="3">(3)</num><content>The amounts deducted under subsection (2) shall be paid into the general revenue of Hong Kong.</content></subsection><sourceNote>(Amended <ref href="/hk/1982/ln294">L.N. 294 of 1982</ref>)</sourceNote></section></part><part id="ID_1438402987896_001" name="P5" reason="inEffect" startPeriod="2023-03-16" status="operational" temporalId="P5"><num value="5">Part
+            V</num><heading>Objections
+            and
+            Appeals</heading><section id="ID_1438402987896_003" name="s28" reason="inEffect" startPeriod="2023-03-16" status="operational" temporalId="s28"><num value="28">28.</num><heading>Objections</heading><subsection id="ID_1438411911670_004" name="1" temporalId="s28_1"><num value="1">(1)</num><content>Any person who is required to pay a levy or surcharge under <ref>section 23</ref> or <ref>25</ref> may, by notice in writing served on the Commissioner within 21 days after lodging a declaration under <ref>section 23</ref> or the receipt of the notice under <ref>section 25</ref>, as the case may be, object to the levy or surcharge.</content></subsection><subsection id="ID_1438411911686_005" name="2" temporalId="s28_2"><num value="2">(2)</num><content>A notice of objection under subsection (1) shall state precisely the grounds of objection and shall be accompanied by all written statements and other documentary evidence relied upon by the objector in support of the objection.</content></subsection><subsection id="ID_1438411911686_013" name="3" temporalId="s28_3"><num value="3">(3)</num><content>An objection under subsection (1) shall be considered by the Commissioner, who may uphold, cancel or reduce the levy or surcharge.</content></subsection><subsection id="ID_1438411911686_021" name="4" temporalId="s28_4"><num value="4">(4)</num><content>The Commissioner shall notify the objector of the decision under subsection (3) within 28 days after the receipt by the Commissioner of the notice of objection under subsection (1) and, if a levy or surcharge is cancelled or reduced, the amount of levy or surcharge cancelled or reduced shall forthwith be repaid by the Commissioner to the objector.</content></subsection><sourceNote>(Amended <ref href="/hk/1982/ln294">L.N. 294 of 1982</ref>)</sourceNote></section><section id="ID_1438402987912_001" name="s29" reason="inEffect" startPeriod="2023-03-16" status="operational" temporalId="s29"><num value="29">29.</num><heading>Appeals</heading><subsection id="ID_1438411911717_011" name="1" temporalId="s29_1"><num value="1">(1)</num><content>An objector who is aggrieved with a decision notified to him under <ref>section 28(4)</ref> may appeal to the District Court against that decision.</content></subsection><subsection id="ID_1438411911717_019" name="2" temporalId="s29_2"><num value="2">(2)</num><content>An appeal under subsection (1) shall be lodged within 30 days after the receipt of the notification under <ref>section 28(4)</ref> by the objector.</content></subsection><subsection id="ID_1438411911717_027" name="3" temporalId="s29_3"><num value="3">(3)</num><content>An appeal under this section shall not be heard unless the appellant has paid the amount of the levy or surcharge which is the subject-matter of the appeal.</content></subsection><subsection id="ID_1438411911717_035" name="4" temporalId="s29_4"><num value="4">(4)</num><leadIn>On hearing any appeal under this section the District Court may—</leadIn><paragraph id="ID_1438411911717_043" name="a" temporalId="s29_4_a"><num value="a">(a)</num><content>uphold, cancel or reduce the levy or surcharge;</content></paragraph><paragraph id="ID_1438411911733_006" name="b" temporalId="s29_4_b"><num value="b">(b)</num><content>if it cancels or reduces a levy or surcharge, order the repayment of the amount of levy or surcharge cancelled or reduced, with interest from the date of payment to the Commissioner at such rate as the court may determine or without interest; and<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1982/ln294">L.N. 294 of 1982</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411911733_014" name="c" temporalId="s29_4_c"><num value="c">(c)</num><content>make such order as it thinks fit as to the payment of the costs of the hearing.</content></paragraph></subsection><subsection id="ID_1438411911733_021" name="5" temporalId="s29_5"><num value="5">(5)</num><content>The Chief Justice may make rules of court for the purposes of this section.</content></subsection></section></part><part id="ID_1752477198655_001" name="P5A" temporalId="P5A" startPeriod="2025-07-11" status="operational" reason="inEffect"><num value="5A">Part VA</num><heading>Transmitting
+            Information Using Specified System by Value-added Service
+            Providers</heading><sourceNote>(<ref>Part VA</ref> added <ref href="hk/2025/30">30 of 2025 s.
+            94</ref>)</sourceNote><section id="ID_1752477214928_001" name="s29A" temporalId="s29A" startPeriod="2025-07-11" status="operational" reason="inEffect"><num value="29A">29A.</num><heading>Interpretation
+            (Part VA)</heading><leadIn>In this Part—</leadIn><def name="PracticeGuidelines"><term>practice guidelines</term> (<term xml:lang="zh-Hant-HK">實務指引</term>) means the guidelines issued under <ref>section 29B(1)</ref>, and
+            includes the amendments to those guidelines under <ref>section 29B(5)</ref>;</def><def name="SpecifiedInformation"><term>specified information</term> (<term xml:lang="zh-Hant-HK">指明資料</term>) means the classes of information specified in the
+            practice guidelines;</def><def name="Transmit"><term>transmit</term> (<term xml:lang="zh-Hant-HK">傳送</term>), in
+            relation to any information, includes send, deliver, give, lodge, submit and furnish the
+            information;</def><def name="ValueaddedServiceProvider"><term>value-added service provider</term> (<term xml:lang="zh-Hant-HK">增值服務提供者</term>) means a person approved under <ref>section
+                29D(2)</ref> to transmit, on behalf of another person, any specified information
+            using the specified system.</def></section><section id="ID_1752477233632_001" name="s29B" temporalId="s29B" startPeriod="2025-07-11" status="operational" reason="inEffect"><num value="29B">29B.</num><heading>Commissioner
+            may issue practice guidelines</heading><subsection id="ID_1752634261841_001" name="1" temporalId="s29B_1"><num value="1">(1)</num><content>For the purposes of <ref>section 29C</ref>, the Commissioner may issue
+                guidelines specifying any class of information to which this Part applies.</content></subsection><subsection id="ID_1752634261841_002" name="2" temporalId="s29B_2"><num value="2">(2)</num><leadIn>The Commissioner may also specify in the practice guidelines any or all of the
+                following—</leadIn><paragraph id="ID_1752634261841_003" name="a" temporalId="s29B_2_a"><num value="a">(a)</num><content>the manner in which an application under <ref>section 29D(1)</ref> is to be
+                    made;</content></paragraph><paragraph id="ID_1752634261841_004" name="b" temporalId="s29B_2_b"><num value="b">(b)</num><content>the specific matters that the Commissioner may have regard to for the
+                    purposes of <ref>section 29D(3)</ref>;</content></paragraph><paragraph id="ID_1752634261841_005" name="c" temporalId="s29B_2_c"><num value="c">(c)</num><content>the standard at which a value-added service provider is expected to provide
+                    its services.</content></paragraph></subsection><subsection id="ID_1752634261841_006" name="3" temporalId="s29B_3"><num value="3">(3)</num><leadIn>The Commissioner—</leadIn><paragraph id="ID_1752634261856_007" name="a" temporalId="s29B_3_a"><num value="a">(a)</num><content>must publish the practice guidelines in a manner appropriate to bring them
+                    to the notice of the persons affected by them; and</content></paragraph><paragraph id="ID_1752634261856_008" name="b" temporalId="s29B_3_b"><num value="b">(b)</num><content>must make copies of the practice guidelines available to the public
+                    (whether in hard copy form or electronic form).</content></paragraph></subsection><subsection id="ID_1752634261856_009" name="4" temporalId="s29B_4"><num value="4">(4)</num><content>The practice guidelines are not subsidiary legislation.</content></subsection><subsection id="ID_1752634261856_010" name="5" temporalId="s29B_5"><num value="5">(5)</num><content>The Commissioner may amend or revoke any of the practice guidelines.</content></subsection><subsection id="ID_1752634261856_011" name="6" temporalId="s29B_6"><num value="6">(6)</num><content>Subsections (3) and (4) apply to an amendment or revocation of the practice
+                guidelines in the same way as they apply to the practice guidelines.</content></subsection></section><section id="ID_1752477251897_001" name="s29C" temporalId="s29C" startPeriod="2025-07-11" status="operational" reason="inEffect"><num value="29C">29C.</num><heading>Only
+            value-added service providers may transmit specified information using specified system
+            on behalf of other persons</heading><subsection id="ID_1752634364466_001" name="1" temporalId="s29C_1"><num value="1">(1)</num><content>A person who is not a value-added service provider must not transmit, on behalf
+                of another person, any specified information using the specified system.</content></subsection><subsection id="ID_1752634364466_002" name="2" temporalId="s29C_2"><num value="2">(2)</num><content>A value-added service provider must not transmit, on behalf of another person,
+                any specified information using the specified system except with that other person’s
+                written authorization.</content></subsection><subsection id="ID_1752634364466_003" name="3" temporalId="s29C_3"><num value="3">(3)</num><content>A person who contravenes subsection (1) or (2) commits an offence and is liable
+                on conviction to a fine at level 3.</content></subsection></section><section id="ID_1752477270459_001" name="s29D" temporalId="s29D" startPeriod="2025-07-11" status="operational" reason="inEffect"><num value="29D">29D.</num><heading>Application
+            to be approved as value-added service providers</heading><subsection id="ID_1752634480330_001" name="1" temporalId="s29D_1"><num value="1">(1)</num><content>A person who holds a valid business registration certificate issued under
+                    <ref>section 6</ref> of the Business Registration Ordinance (<ref href="/hk/cap310">Cap. 310</ref>) may apply to the Commissioner for approval to
+                transmit, on behalf of another person, any specified information using the specified
+                system.</content></subsection><subsection id="ID_1752634480330_002" name="2" temporalId="s29D_2"><num value="2">(2)</num><content>On an application made under subsection (1), the Commissioner may grant, or
+                refuse to grant, the approval.</content></subsection><subsection id="ID_1752634480330_003" name="3" temporalId="s29D_3"><num value="3">(3)</num><content>In considering an application, the Commissioner may have regard to any matters
+                that the Commissioner considers relevant, including whether the applicant has failed
+                to comply with any practice guidelines.</content></subsection><subsection id="ID_1752634480330_004" name="4" temporalId="s29D_4"><num value="4">(4)</num><content>On granting an approval, the Commissioner may impose terms or conditions on the
+                approval that the Commissioner considers appropriate.</content></subsection></section><section id="ID_1752477288864_001" name="s29E" temporalId="s29E" startPeriod="2025-07-11" status="operational" reason="inEffect"><num value="29E">29E.</num><heading>Commissioner’s
+            powers relating to value-added service providers’
+            misconducts</heading><subsection id="ID_1752634628073_001" name="1" temporalId="s29E_1"><num value="1">(1)</num><leadIn>If, in the opinion of the Commissioner—</leadIn><paragraph id="ID_1752634628073_002" name="a" temporalId="s29E_1_a"><num value="a">(a)</num><content>a value-added service provider contravenes any terms or conditions imposed
+                    under <ref>section 29D(4)</ref> on the provider’s approval; or</content></paragraph><paragraph id="ID_1752634628073_003" name="b" temporalId="s29E_1_b"><num value="b">(b)</num><content>a value-added service provider is no longer fit to be such a
+                    provider,</content></paragraph><continued>the Commissioner may take any of the actions specified in subsection (2)
+                against the provider.</continued></subsection><subsection id="ID_1752634628073_004" name="2" temporalId="s29E_2"><num value="2">(2)</num><leadIn>The actions are—</leadIn><paragraph id="ID_1752634628073_005" name="a" temporalId="s29E_2_a"><num value="a">(a)</num><content>to issue a warning letter to the provider;</content></paragraph><paragraph id="ID_1752634628073_006" name="b" temporalId="s29E_2_b"><num value="b">(b)</num><content>to suspend or revoke the provider’s approval.</content></paragraph></subsection><subsection id="ID_1752634628073_007" name="3" temporalId="s29E_3"><num value="3">(3)</num><content>In forming an opinion for the purposes of subsection <ref>(1)(b)</ref>, the
+                Commissioner may have regard to any matters that the Commissioner considers
+                relevant, including whether the value-added service provider has failed to comply
+                with any practice guidelines.</content></subsection><subsection id="ID_1752634628073_008" name="4" temporalId="s29E_4"><num value="4">(4)</num><leadIn>For the purposes of subsection <ref>(2)(b)</ref>, the Commissioner—</leadIn><paragraph id="ID_1752634628073_009" name="a" temporalId="s29E_4_a"><num value="a">(a)</num><content>may determine the period that the Commissioner considers appropriate during
+                    which an approval will be suspended; and</content></paragraph><paragraph id="ID_1752634628073_010" name="b" temporalId="s29E_4_b"><num value="b">(b)</num><content>may determine that an approval will be suspended until such terms or
+                    conditions as imposed by the Commissioner are complied with to the
+                    Commissioner’s satisfaction.</content></paragraph></subsection></section><section id="ID_1752477307584_001" name="s29F" temporalId="s29F" startPeriod="2025-07-11" status="operational" reason="inEffect"><num value="29F">29F.</num><heading>Presumption
+            regarding information transmitted by value-added service providers using specified
+            system</heading><subsection id="ID_1752634726379_001" name="1" temporalId="s29F_1"><num value="1">(1)</num><leadIn>This section applies if—</leadIn><paragraph id="ID_1752634726379_002" name="a" temporalId="s29F_1_a"><num value="a">(a)</num><content>any information is received by the Commissioner or the Director-General of
+                    Trade and Industry; and</content></paragraph><paragraph id="ID_1752634726379_003" name="b" temporalId="s29F_1_b"><num value="b">(b)</num><content>the information is transmitted to the Commissioner or the Director-General
+                    of Trade and Industry using the specified system.</content></paragraph></subsection><subsection id="ID_1752634726379_004" name="2" temporalId="s29F_2"><num value="2">(2)</num><leadIn>Where the information was transmitted, on behalf of another person, by a
+                value-added service provider with that other person’s written
+                authorization—</leadIn><paragraph id="ID_1752634726379_005" name="a" temporalId="s29F_2_a"><num value="a">(a)</num><content>a person named in the information as the person who transmitted the
+                    information is, in the absence of evidence to the contrary, to be regarded for
+                    the purposes of this Ordinance as the person who transmitted the information;
+                    and</content></paragraph><paragraph id="ID_1752634726379_006" name="b" temporalId="s29F_2_b"><num value="b">(b)</num><content>a person named in the information as the person who made a statement or
+                    declaration contained in the information is, in the absence of evidence to the
+                    contrary, to be regarded for the purposes of this Ordinance as the person who
+                    made the statement or declaration.</content></paragraph></subsection></section></part><part id="ID_1438402987912_003" name="P6" reason="inEffect" startPeriod="2023-03-16" status="operational" temporalId="P6"><num value="6">Part
+            VI</num><heading>Miscellaneous</heading><section id="ID_1438402987927_002" name="s30" reason="inEffect" startPeriod="2023-03-16" status="operational" temporalId="s30"><num value="30">30.</num><heading>Furnishing of information and production of documents</heading><subsection id="ID_1438411911764_004" name="1" temporalId="s30_1"><num value="1">(1)</num><leadIn>Every person who is concerned (whether as manufacturer or exporter, or in any other capacity) with the manufacture or export of clothing items shall—</leadIn><paragraph id="ID_1438411911764_012" name="a" temporalId="s30_1_a"><num value="a">(a)</num><content>provide the Commissioner, or an authorized officer, within such time and in such form as the Commissioner or such officer may specify, with such information relating to the manufacture or export of clothing items, or the name and address of the person for or by whom the clothing items are manufactured or exported, as the Commissioner or such officer may require;</content></paragraph><paragraph id="ID_1438411911780_006" name="b" temporalId="s30_1_b"><num value="b">(b)</num><content>on being so required by the Commissioner or such officer produce or cause to be produced any documents or records in his possession relating to the manufacture or export of clothing items for inspection by the Commissioner or such officer and permit the Commissioner or such officer to take copies or make extracts from them or to remove them from his possession for a reasonable period.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1982/ln294">L.N. 294 of 1982</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438411911780_013" name="2" temporalId="s30_2"><num value="2">(2)</num><content>Subject to subsection (3), no person shall disclose otherwise than to the Commissioner, or to a public officer employed by the Customs and Excise Department in his official capacity, any information provided or obtained under subsection (1) (including information obtained from documents or records) without the consent of the person who provided it or from whom it was obtained.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1982/ln294">L.N. 294 of 1982</ref>)</sourceNote></content></subsection><subsection id="ID_1438411911795_005" name="3" temporalId="s30_3"><num value="3">(3)</num><leadIn>Subsection (2) does not apply—</leadIn><paragraph id="ID_1438411911795_013" name="a" temporalId="s30_3_a"><num value="a">(a)</num><content>to the disclosure of information in the form of a summary of similar information provided by or obtained from a number of manufacturers or exporters of clothing items if the summary is so framed as not to enable particulars relating to the business of any particular manufacturer or exporter to be ascertained from it; or</content></paragraph><paragraph id="ID_1438411911795_021" name="b" temporalId="s30_3_b"><num value="b">(b)</num><content>to any disclosure of information made for the purpose of any legal proceedings brought under this Ordinance, or for the purposes of any report of such proceedings.</content></paragraph></subsection><subsection id="ID_1438411911795_028" name="4" temporalId="s30_4"><num value="4">(4)</num><content>Any person who, without reasonable excuse, fails to comply with a requirement
+                under subsection (1) shall be guilty of an offence and shall be liable on conviction
+                to a fine
+                at
+                level 1.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="hk/2023/er1">E.R. 1 of
+                2023</ref>)</sourceNote></content></subsection><subsection id="ID_1438411911795_036" name="5" temporalId="s30_5"><num value="5">(5)</num><content>Any person who intentionally discloses any information in contravention of
+                subsection (2) shall be guilty of an offence and shall be liable on conviction to a
+                fine
+                at
+                level
+                    1.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="hk/2023/er1">E.R. 1 of
+                        2023</ref>)</sourceNote></content></subsection></section><section id="ID_1438402987943_001" name="s30A" reason="inEffect" startPeriod="2023-03-16" status="operational" temporalId="s30A"><num value="30A">30A.</num><heading>Presumption regarding information sent using services provided by specified body</heading><subsection id="ID_1438411911826_043" name="1" temporalId="s30A_1"><num value="1">(1)</num><leadIn>Where information received by the Commissioner was sent using services provided by a specified body, evidence which shows that the identity of the sender of the information was authenticated by the use of a security device is, in the absence of evidence to the contrary—</leadIn><paragraph id="ID_1438411911842_005" name="a" temporalId="s30A_1_a"><num value="a">(a)</num><content>proof that the person issued with the security device furnished the information; and</content></paragraph><paragraph id="ID_1438411911842_013" name="b" temporalId="s30A_1_b"><num value="b">(b)</num><content>proof that the person issued with the security device made a statement or declaration contained in the information.</content></paragraph></subsection><subsection id="ID_1438411911842_020" name="2" temporalId="s30A_2"><num value="2">(2)</num><leadIn>Where information received by the Commissioner and sent using services provided by a specified body was sent by a specified agent who has obtained an authorization in accordance with <ref>section 30C</ref>—</leadIn><paragraph id="ID_1438411911842_028" name="a" temporalId="s30A_2_a"><num value="a">(a)</num><content>a person named in the information as the person who furnished the information is, in the absence of evidence to the contrary, regarded for the purposes of this Ordinance as the person who furnished the information; and</content></paragraph><paragraph id="ID_1438411911842_036" name="b" temporalId="s30A_2_b"><num value="b">(b)</num><content>a person named in the information as the person who made a statement or declaration contained in the information is, in the absence of evidence to the contrary, regarded for the purposes of this Ordinance as the person who made the statement or declaration.</content></paragraph></subsection><sourceNote>(Replaced <ref href="/hk/2002/24">24 of 2002 s. 4</ref>)</sourceNote></section><section id="ID_1438402987943_003" name="s30B" reason="inEffect" startPeriod="2023-03-16" status="operational" temporalId="s30B"><num value="30B">30B.</num><heading>Safekeeping of security device</heading><leadIn>A person who has been issued with a security device—</leadIn><paragraph id="ID_1438411911873_012" name="a" temporalId="s30B_a"><num value="a">(a)</num><content>shall not authorize or allow any other person to use the device in connection with the sending of information to the Commissioner under this Ordinance using services provided by a specified body;</content></paragraph><paragraph id="ID_1438411911873_020" name="b" temporalId="s30B_b"><num value="b">(b)</num><content>shall take all reasonable steps and exercise due diligence to prevent any other person from using the device in connection with the sending of information to the Commissioner under this Ordinance using services provided by a specified body.</content></paragraph><sourceNote>(Added <ref href="/hk/1995/31">31 of 1995 s. 6</ref>. Amended <ref href="/hk/2002/24">24 of 2002 s. 4</ref>)</sourceNote></section><section id="ID_1438402987959_001" name="s30C" reason="inEffect" startPeriod="2023-03-16" status="operational" temporalId="s30C"><num value="30C">30C.</num><heading>Duty of specified agent</heading><content>A specified agent shall not send any information on behalf of a person using services provided by a specified body unless the specified agent has obtained from the person an authorization in writing to do so.</content><sourceNote>(Added <ref href="/hk/1995/31">31 of 1995 s. 6</ref>)</sourceNote></section><section id="ID_1438402987959_003" name="s31" reason="inEffect" startPeriod="2023-03-16" status="operational" temporalId="s31"><num value="31">31.</num><heading>Evidence by certificate</heading><leadIn>A certificate purporting to be signed by the Commissioner or an authorized officer—  <sourceNote>(Amended <ref href="/hk/1982/ln294">L.N. 294 of 1982</ref>)</sourceNote></leadIn><paragraph id="ID_1438411911904_012" name="a" temporalId="s31_a"><num value="a">(a)</num><content>that any declaration required to be lodged under <ref>section 23</ref> has or has not been lodged or has or has not been lodged at any date;</content></paragraph><paragraph id="ID_1438411911904_020" name="b" temporalId="s31_b"><num value="b">(b)</num><content>that any notice required by or under this Ordinance has or has not been given or has or has not been given at any date; or</content></paragraph><paragraph id="ID_1438411911904_028" name="c" temporalId="s31_c"><num value="c">(c)</num><content>that any amount of levy or surcharge due under this Ordinance has not been paid,</content></paragraph><continued>shall be sufficient evidence of that fact until the contrary is proved.</continued></section><section id="ID_1438402987974_002" name="s31A" reason="inEffect" startPeriod="2025-07-11" status="operational" temporalId="s31A"><num value="31A">31A.</num><heading>Certificate of record of information sent using
+            specified
+            system</heading><sourceNote>(Amended <ref href="/hk/2025/30">30 of 2025 s. 96</ref>)</sourceNote><subsection id="ID_1438411911920_041" name="1" temporalId="s31A_1"><num value="1">(1)</num><leadIn>A document purporting—</leadIn><paragraph id="ID_1438411911920_049" name="a" temporalId="s31A_1_a"><num value="a">(a)</num><content>to be a copy of the record of any information sent using
+                    the
+                    specified
+                    system
+                    and produced from one of the Commissioner’s computer systems; and</content></paragraph><paragraph id="ID_1438411911920_057" name="b" temporalId="s31A_1_b"><num value="b">(b)</num><content>to be certified by the Commissioner,</content></paragraph><continued>shall be admitted in any proceedings under this Ordinance before a court or
+                magistrate on its production without further proof.</continued></subsection><subsection id="ID_1438411911936_011" name="2" temporalId="s31A_2"><num value="2">(2)</num><leadIn>Where a document is produced and admitted as evidence under subsection
+                (1)—</leadIn><paragraph id="ID_1438411911936_019" name="a" temporalId="s31A_2_a"><num value="a">(a)</num><leadIn>the court or magistrate before which it is produced shall, until the
+                    contrary is proved, presume—</leadIn><subparagraph id="ID_1438411911936_027" name="i" temporalId="s31A_2_a_i"><num value="i">(i)</num><content>that it was certified under subsection <ref>(1)(b)</ref>;</content></subparagraph><subparagraph id="ID_1438411911936_035" name="ii" temporalId="s31A_2_a_ii"><num value="ii">(ii)</num><content>that the document is a true copy of the record of information so sent;
+                        and</content></subparagraph><subparagraph id="ID_1438411911936_043" name="iii" temporalId="s31A_2_a_iii"><num value="iii">(iii)</num><content>that the record was duly made at the time referred to in the document;
+                        and</content></subparagraph></paragraph><paragraph id="ID_1438411911936_050" name="b" temporalId="s31A_2_b"><num value="b">(b)</num><content>the document is evidence of the contents of the information sent by the
+                    sender using the
+                    specified
+                    system.</content></paragraph></subsection><subsection id="ID_1438411911936_057" name="3" temporalId="s31A_3"><num value="3">(3)</num><content>Where a document is produced and admitted as evidence under subsection (1), the
+                court or magistrate may, if it or he thinks fit, on its or his own motion or on the
+                application of any party to the proceedings, summon the person who certified the
+                document and examine him as to its subject-matter.</content></subsection><sourceNote>(Added <ref href="/hk/1995/31">31 of 1995 s.
+            6</ref>. Amended <ref href="/hk/2025/30">30 of 2025 s. 96</ref>)</sourceNote></section><section id="ID_1438402987974_004" name="s32" reason="inEffect" startPeriod="2023-03-16" status="operational" temporalId="s32"><num value="32">32.</num><heading>Authentication, and production in evidence of documents</heading><subsection id="ID_1438411911967_011" name="1" temporalId="s32_1"><num value="1">(1)</num><content>Any notice or other document given or issued by the Authority may be signed by an officer of the Authority, authorized by the Authority for the purposes of this subsection.</content></subsection><subsection id="ID_1438411911967_019" name="2" temporalId="s32_2"><num value="2">(2)</num><content>Any document purporting to be a notice or other document given or issued by the Authority and purporting to be signed by an officer of the Authority authorized under subsection (1) shall be received in evidence and shall until the contrary is proved be deemed to be such a notice or other document.</content></subsection></section><section id="ID_1438402987990_002" name="s33" reason="inEffect" startPeriod="2023-03-16" status="operational" temporalId="s33"><num value="33">33.</num><heading>Offences</heading><subsection id="ID_1438411911982_019" name="1" temporalId="s33_1"><num value="1">(1)</num><content>Any person who is knowingly concerned in, or in the taking of steps with a view
+                to, the fraudulent evasion of the payment of a levy, whether due from him or from
+                any other person, shall be guilty of an offence and shall be liable on conviction to
+                a fine
+                at
+                level 3 or 20 times the amount of levy that was or was intended to
+                be evaded by his conduct, whichever is the
+                    greater.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="hk/2023/er1">E.R. 1 of
+                        2023</ref>)</sourceNote></content></subsection><subsection id="ID_1438411911998_005" name="2" temporalId="s33_2"><num value="2">(2)</num><leadIn>Any person who—</leadIn><paragraph id="ID_1438411911998_013" name="a" temporalId="s33_2_a"><num value="a">(a)</num><content>knowingly lodges, produces, supplies or sends for the purposes of this Ordinance or otherwise makes use for those purposes of any declaration or other document, or record, which is false in a material particular; or</content></paragraph><paragraph id="ID_1438411911998_021" name="b" temporalId="s33_2_b"><num value="b">(b)</num><content>in providing any information for the purposes of this Ordinance, makes any statement which he knows to be false in a material particular or recklessly makes a statement which is false in a material particular,</content></paragraph><continued>shall be guilty of an offence and shall be liable on conviction to a fine
+                at
+                level 3 or 20 times the amount of any levy that was or was
+                intended to be evaded by his conduct, whichever is the greater.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1984/4">4 of 1984
+                        s.
+                    5</ref>; <ref href="hk/2023/er1">E.R. 1 of
+                2023</ref>)</sourceNote></continued></subsection><subsection id="ID_1438411911998_034" name="3" temporalId="s33_3"><num value="3">(3)</num><content>Where a person who has been issued with a security device contravenes <ref>section 30B(a)</ref> or (b), he commits an offence and is liable to a fine at level 3.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1995/31">31 of 1995 s. 7</ref>)</sourceNote></content></subsection><subsection id="ID_1438411912014_005" name="4" temporalId="s33_4"><num value="4">(4)</num><content>A specified agent who contravenes <ref>section 30C</ref> commits an offence and is liable to a fine at level 3.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1995/31">31 of 1995 s. 7</ref>)</sourceNote></content></subsection></section><section id="ID_1752477333121_001" name="s33A" temporalId="s33A" startPeriod="2025-07-11" status="operational" reason="inEffect"><num value="33A">33A.</num><heading>Reasonable
+            excuse</heading><subsection id="ID_1752635473013_001" name="1" temporalId="s33A_1"><num value="1">(1)</num><content>This section applies if a provision of this Ordinance creating an offence makes
+                a reference to a reasonable excuse for an act or omission.</content></subsection><subsection id="ID_1752635473013_002" name="2" temporalId="s33A_2"><num value="2">(2)</num><content>The reference to a reasonable excuse is to be construed as providing for a
+                defence to a charge in relation to the act or omission.</content></subsection><subsection id="ID_1752635473013_003" name="3" temporalId="s33A_3"><num value="3">(3)</num><leadIn>A person is taken to have established that the person had a reasonable excuse
+                for the act or omission if—</leadIn><paragraph id="ID_1752635473013_004" name="a" temporalId="s33A_3_a"><num value="a">(a)</num><content>sufficient evidence is adduced to raise an issue that the person had such a
+                    reasonable excuse; and</content></paragraph><paragraph id="ID_1752635473013_005" name="b" temporalId="s33A_3_b"><num value="b">(b)</num><content>the contrary is not proved by the prosecution beyond reasonable
+                    doubt.</content></paragraph></subsection><sourceNote>(Added <ref href="/hk/2025/30">30 of 2025 s. 98</ref>)</sourceNote></section><section id="ID_1438402988005_001" name="s34" reason="inEffect" startPeriod="2025-07-11" status="operational" temporalId="s34"><num value="34">34.</num><heading>Commissioner may specify forms</heading><subsection id="ID_1438411912029_034" name="1" temporalId="s34_1"><num value="1">(1)</num><content>The Commissioner may specify the form of any forms necessary for the purposes of this Ordinance.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1995/31">31 of 1995 s. 8</ref>; <ref href="/hk/1999/82">82 of 1999 s. 3</ref>)</sourceNote></content></subsection><subsection id="ID_1438411912029_042" name="2" temporalId="s34_2"><num value="2">(2)</num><content>The Commissioner may specify the requirements for lodging declarations under
+                    <ref>section 23</ref> using
+                the
+                specified system.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1995/31">31 of 1995 s.
+                    8</ref>. Amended <ref href="/hk/2025/30">30 of 2025 s.
+                    99</ref>)</sourceNote></content></subsection><sourceNote>(Amended <ref href="/hk/1982/ln294">L.N. 294 of 1982</ref>)</sourceNote></section><section id="ID_1438402988005_003" name="s35" reason="inEffect" startPeriod="2025-07-11" status="operational" temporalId="s35"><num value="35">35.</num><heading>Regulations</heading><subsection id="ID_1752723557307_001" name="1" temporalId="s35_1"><num value="1">(1)</num><leadIn>The Chief Executive in Council may by regulation provide
+                    for— <sourceNote>(Amended <ref href="/hk/2000/56">56 of 2000 s. 3</ref>; <ref href="/hk/2025/30">30 of 2025 s. 100</ref>)</sourceNote></leadIn><paragraph id="ID_1438411912060_012" name="a" temporalId="s35_1_a"><num value="a">(a)</num><content>records to be kept by manufacturers and exporters of clothing
+                    items;</content></paragraph><paragraph id="ID_1438411912060_020" name="b" temporalId="s35_1_b"><num value="b">(b)</num><content>information to be supplied by manufacturers and exporters of clothing
+                    items;</content></paragraph><paragraph id="ID_1752723557447_002" name="ba" temporalId="s35_1_ba"><num value="ba">(ba)</num><content>any fees to be collected by the Commissioner in respect of any information
+                    transmitted using the specified system and the mode and time of payment of such
+                    fees; <sourceNote>(Added <ref href="/hk/2025/30">30 of 2025 s.
+                        100</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411912060_028" name="c" temporalId="s35_1_c"><num value="c">(c)</num><content>any matter which is to be or may be prescribed;</content></paragraph><paragraph id="ID_1438411912060_036" name="d" temporalId="s35_1_d"><num value="d">(d)</num><content>generally for the better carrying out of the provisions and purposes of
+                    this Ordinance.</content></paragraph></subsection><subsection id="ID_1752723557479_003" name="2" temporalId="s35_2"><num value="2">(2)</num><content>Regulations made for the purposes of subsection <ref>(1)(ba)</ref> may provide
+                that any fee payable in connection with information that is transmitted using the
+                specified system must be paid in the manner specified by the Commissioner.
+                    <sourceNote>(Added <ref href="/hk/2025/30">30 of 2025 s.
+                100</ref>)</sourceNote></content></subsection></section><section id="ID_1438402988021_002" name="s36" reason="inEffect" startPeriod="2023-03-16" status="operational" temporalId="s36"><num value="36">36.</num><heading>Amendment of <ref>Schedule</ref></heading><subsection id="ID_1438411912076_035" name="1" temporalId="s36_1"><num value="1">(1)</num><content>The Chief Executive in Council may, by order published in the Gazette, amend
+                    <ref>Schedule 1</ref>.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1993/93">93 of 1993 s. 5</ref>)</sourceNote></content></subsection><subsection id="ID_1438411912076_043" name="2" temporalId="s36_2"><num value="2">(2)</num><content>The Chief Executive may, by order published in the Gazette, amend <ref>Schedule
+                    2</ref>.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1993/93">93 of 1993 s. 5</ref>)</sourceNote></content></subsection><sourceNote>(Amended <ref href="/hk/2000/56">56 of 2000 s. 3</ref>)</sourceNote></section><section id="ID_1752477353793_001" name="s37" temporalId="s37" startPeriod="2025-07-11" status="operational" reason="inEffect"><num value="37">37.</num><heading>Transitional
+            and saving provisions for Import and Export (Amendment) Ordinance
+            2025</heading><subsection id="ID_1752742043526_001" name="1" temporalId="s37_1"><num value="1">(1)</num><leadIn>For the period specified in subsection (3), a reference in <ref>section
+                23</ref>, <ref>24</ref>, <ref>25</ref> or <ref>34</ref> to using the specified
+                system is to be construed as a reference to—</leadIn><paragraph id="ID_1752742043542_002" name="a" temporalId="s37_1_a"><num value="a">(a)</num><content>using services provided by a specified body (within the meaning of the
+                    pre-amended Ordinance); or</content></paragraph><paragraph id="ID_1752742043542_003" name="b" temporalId="s37_1_b"><num value="b">(b)</num><content>using the specified system.</content></paragraph></subsection><subsection id="ID_1752742043542_004" name="2" temporalId="s37_2"><num value="2">(2)</num><leadIn>For the period specified in subsection (3), a reference in <ref>section
+                    23(2)</ref> to the manner specified by the Commissioner is to be construed as a
+                reference to—</leadIn><paragraph id="ID_1752742043542_005" name="a" temporalId="s37_2_a"><num value="a">(a)</num><content>if the declaration is lodged under <ref>section 23(1)</ref> using services
+                    provided by a specified body (within the meaning of the pre-amended
+                    Ordinance)—the manner agreed by the Government and the specified body providing
+                    the services (within the meaning of the pre-amended Ordinance); or</content></paragraph><paragraph id="ID_1752742043542_006" name="b" temporalId="s37_2_b"><num value="b">(b)</num><content>if the declaration is lodged under <ref>section 23(1)</ref> using the
+                    specified system—the manner specified by the Commissioner.</content></paragraph></subsection><subsection id="ID_1752742043542_007" name="3" temporalId="s37_3"><num value="3">(3)</num><leadIn>The period specified for the purposes of subsections (1) and (2) is the
+                period—</leadIn><paragraph id="ID_1752742043542_008" name="a" temporalId="s37_3_a"><num value="a">(a)</num><content>beginning on the gazettal date; and</content></paragraph><paragraph id="ID_1752742043557_009" name="b" temporalId="s37_3_b"><num value="b">(b)</num><content>ending at midnight on the date to be appointed by the Commissioner of
+                    Customs and Excise for the purposes of this subsection by notice published in
+                    the Gazette.</content></paragraph></subsection><subsection id="ID_1752742043557_010" name="4" temporalId="s37_4"><num value="4">(4)</num><content>A notice under subsection <ref>(3)(b)</ref> may appoint different dates in
+                relation to different classes of persons or information.</content></subsection><subsection id="ID_1752742043557_011" name="5" temporalId="s37_5"><num value="5">(5)</num><content>A notice under subsection <ref>(3)(b)</ref> is subsidiary
+                legislation.</content></subsection><subsection id="ID_1752742043557_012" name="6" temporalId="s37_6"><num value="6">(6)</num><content>A reference in <ref>section 31A</ref> to using the specified system includes a
+                reference to using services provided by a specified body (within the meaning of the
+                pre-amended Ordinance).</content></subsection><subsection id="ID_1752742043557_013" name="7" temporalId="s37_7"><num value="7">(7)</num><leadIn>In this section—</leadIn><def name="GazettalDate">*<term>gazettal date</term> (<term xml:lang="zh-Hant-HK">刊憲日期</term>) means the date on which the Import and Export (Amendment)
+                Ordinance 2025 (<ref href="hk/2025/30">30 of 2025</ref>) is published in the
+                Gazette;</def><def name="PreamendedOrdinance"><term>pre-amended Ordinance</term> (<term xml:lang="zh-Hant-HK">《原有條例》</term>) means this Ordinance as in force
+                immediately before the gazettal date.</def></subsection><sourceNote>(Added <ref href="/hk/2025/30">30 of 2025 s. 101</ref>)</sourceNote><editorialNote type="footnote" id="ID_1752742043698_014">
+            <content>Editorial Note:</content>
+            <content><inline class="force_orig_font">*</inline> Gazettal date: 11 July
+                2025.</content>
+        </editorialNote></section></part><schedule id="ID_1438402988037_001" name="sch1" reason="inEffect" startPeriod="2023-03-16" status="operational" temporalId="sch1"><num value="1">Schedule
+            1</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap318/s2">ss. 2</ref> &amp; <ref href="/hk/cap318/s36">36(1)</ref>]</note><heading>Clothing
+            Items</heading><section id="ID_1438411912092_040" name="s1" temporalId="sch1_s1" class="no_header"><num value="1">1.</num><leadIn>In this <ref>Schedule</ref>—</leadIn><paragraph id="ID_1438411912092_050" name="a" temporalId="sch1_s1_a"><num value="a">(a)</num><def name="ClassificationList"><term>Classification
+                        List</term>
+                        (<term xml:lang="zh-Hant-HK">分類表</term>) means the Hong Kong Imports and
+                    Exports Classification List (Harmonized System) 2007 Edition issued by the
+                    Commissioner of Customs and Excise by Government Notice (S.) 59 of 2006
+                    published in the Gazette;</def></paragraph><paragraph id="ID_1438411912107_006" name="b" temporalId="sch1_s1_b"><num value="b">(b)</num><content>the descriptions of items of apparel set out in column 3 of the Table below
+                    are for ease of reference
+                    only.</content></paragraph></section><section id="ID_1438411912107_012" name="s2" temporalId="sch1_s2" class="no_header"><num value="2">2.</num><content>The items of apparel which under the Classification List fall within the
+                classification set out in column 2 of the Table below are specified for the purposes
+                of the definition of
+                        <b><i>clothing
+                        item</i></b>
+                in <ref>section 2</ref> of this
+                Ordinance.</content></section><crossHeading class="align_center"><inline class="not_bold">Table</inline></crossHeading><text><table xmlns="http://www.w3.org/1999/xhtml" class="repeat_header">
+                <col width="16.8958%"></col>
+                <col width="38.0451%"></col>
+                <col width="45.0625%"></col>
+                <thead>
+                    <tr>
+                        <td>
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Category<br></br>no.<br></br> </center>
+                        </td>
+                        <td>
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Chapter/heading/<br></br>subheading/item no.</center>
+                        </td>
+                        <td>
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"> <br></br>Description</center>
+                        </td>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="align_center">1.</td>
+                        <td>Subheading 3926 20 </td>
+                        <td>Articles of apparel and clothing accessories (including gloves, mittens
+                            and mitts) of plastics and of other materials of headings 3901 to 3914
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_center">2.</td>
+                        <td>Subheading 4015 90 </td>
+                        <td>Articles of apparel and clothing accessories (excluding gloves, mittens
+                            and mitts) of vulcanised rubber other than hard rubber
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_center">3.</td>
+                        <td>Heading 4203 </td>
+                        <td>Articles of apparel and clothing accessories of leather or of
+                            composition leather
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_center">4.</td>
+                        <td>Heading 4303 </td>
+                        <td>Articles of apparel, clothing accessories and other articles of furskin
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_center">5.</td>
+                        <td>Heading 4304 </td>
+                        <td>Artificial fur and articles of artificial fur
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_center">6.</td>
+                        <td>Chapter 61 </td>
+                        <td>Articles of apparel and clothing accessories, knitted or crocheted
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_center">7.</td>
+                        <td>Chapter 62 </td>
+                        <td>Articles of apparel and clothing accessories, not knitted or crocheted
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_center">8.</td>
+                        <td>Chapter 64 <i>except</i>
+                            <br></br>
+                        </td>
+                        <td>Footwear, gaiters and the like; parts of such articles, <i>except</i>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_center"></td>
+                        <td>items 6406 1000 </td>
+                        <td>uppers and parts of uppers, other than stiffeners </td>
+                    </tr>
+                    <tr>
+                        <td class="align_center"></td>
+                        <td>and</td>
+                        <td>and</td>
+                    </tr>
+                    <tr>
+                        <td class="align_center"></td>
+                        <td>6406 2000 </td>
+                        <td>outer soles and heels, of rubber or plastics
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_center">9.</td>
+                        <td>Heading 6504 </td>
+                        <td>Hats and other headgear, plaited or made by assembling strips of any
+                            material, whether or not lined or trimmed
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_center">10.</td>
+                        <td>Heading 6505 </td>
+                        <td>Hats and other headgear, knitted or crocheted, or made up from lace,
+                            felt or other textile fabric, in the piece (but not in strips), whether
+                            or not lined or trimmed; hair-nets of any material, whether or not lined
+                            or trimmed
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_center">11.</td>
+                        <td>Heading 6506 <i>except</i>
+                            <br></br>
+                        </td>
+                        <td>Other headgear, whether or not lined or trimmed, <i>except</i>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_center"></td>
+                        <td>subheading 6506 10 </td>
+                        <td>safety headgear
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_center">12.</td>
+                        <td>Heading 6507 </td>
+                        <td>Head-bands, linings, covers, hat foundations, hat frames, peaks and
+                            chinstraps, for headgear
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="align_center">13.</td>
+                        <td>Item 9113 9020 </td>
+                        <td>Watch straps, watch bands and watch bracelets, and parts of them, of
+                            textile materials </td>
+                    </tr>
+                </tbody>
+            </table><sourceNote>(<ref>Schedule 1</ref> replaced <ref href="/hk/2009/ln118">L.N. 118
+                    of 2009</ref>)</sourceNote></text></schedule><schedule id="ID_1438402988052_002" name="sch2" reason="inEffect" startPeriod="2023-03-16" status="operational" temporalId="sch2"><num value="2">Schedule
+            2</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap318/s7">ss. 7</ref>, <ref href="/hk/cap318/s9">9</ref> &amp; <ref href="/hk/cap318/s36">36</ref>]</note><heading>Members
+            of
+            the Authority
+            and Quorum
+            of
+            Meetings</heading><section id="ID_1438411912154_012" name="s1" temporalId="sch2_s1"><num value="1">1.</num><heading>Members of the
+                Authority</heading><leadIn>The Authority shall consist of 17 members of whom—</leadIn><paragraph id="ID_1438411912154_030" name="a" temporalId="sch2_s1_a"><num value="a">(a)</num><content>2 shall be persons nominated by the Federation of Hong Kong Garment
+                    Manufacturers;</content></paragraph><paragraph id="ID_1438411912154_039" name="b" temporalId="sch2_s1_b"><num value="b">(b)</num><content>2 shall be persons nominated by the Hong Kong Garment Manufacturers’
+                    Association;</content></paragraph><paragraph id="ID_1438411912154_048" name="c" temporalId="sch2_s1_c"><num value="c">(c)</num><content>2 shall be persons nominated by the
+                    Fashion
+                    and
+                    Textile
+                    Training Board of the Vocational Training Council;
+                    <sourceNote>(Amended <ref href="/hk/1999/ln200">L.N. 200 of
+                            1999</ref>; <ref href="/hk/2017/ln138">L.N. 138 of
+                        2017</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411912154_057" name="d" temporalId="sch2_s1_d"><num value="d">(d)</num><content>1 shall be a person nominated by the Federation of Hong Kong
+                    Industries;</content></paragraph><paragraph id="ID_1438411912154_066" name="e" temporalId="sch2_s1_e"><num value="e">(e)</num><content>1 shall be a person nominated by the Chinese Manufacturers’ Association of
+                    Hong Kong;</content></paragraph><paragraph id="ID_1438411912154_075" name="f" temporalId="sch2_s1_f"><num value="f">(f)</num><content>1 shall be a person nominated by the Hong Kong Woollen and Synthetic
+                    Knitting Manufacturers’ Association;</content></paragraph><paragraph id="ID_1438411912154_084" name="g" temporalId="sch2_s1_g"><num value="g">(g)</num><content>1 shall be a person nominated by the Hong Kong Exporters’
+                    Association;</content></paragraph><paragraph id="ID_1438411912154_093" name="h" temporalId="sch2_s1_h"><num value="h">(h)</num><content>1 shall be a person nominated by the Hong Kong General Chamber of
+                    Commerce;</content></paragraph><paragraph id="ID_1438411912170_007" name="i" temporalId="sch2_s1_i"><num value="i">(i)</num><content>1 shall be a person who holds office as an official of a trade union which
+                    is registered in Hong Kong and connected with the clothing industry;</content></paragraph><paragraph id="ID_1438411912170_016" name="j" temporalId="sch2_s1_j"><num value="j">(j)</num><content>1 shall be a person nominated by the Executive Director of the Vocational
+                    Training Council;</content></paragraph><paragraph id="ID_1438411912170_025" name="k" temporalId="sch2_s1_k"><num value="k">(k)</num><content>1 shall be a person nominated by the Hongkong Knitwear Exporters &amp;
+                    Manufacturers Association Limited<inline class="font_size_13"> </inline>香港毛織出口廠商會有限公司;</content></paragraph><paragraph id="ID_1438411912170_034" name="l" temporalId="sch2_s1_l"><num value="l">(l)</num><content>2 shall be public officers; and</content></paragraph><paragraph id="ID_1438411912170_043" name="m" temporalId="sch2_s1_m"><num value="m">(m)</num><content>1 shall be a person, not being a public officer or person connected with
+                    any of the organizations mentioned in paragraphs (a) to
+                    (k).<marker role="blank-line"></marker><marker role="blank-line"></marker></content></paragraph></section><section id="ID_1438411912170_049" name="s2" temporalId="sch2_s2"><num value="2">2.</num><heading>Quorum of
+                meetings</heading><content>The quorum for meetings of the Authority shall be 9 members.</content><sourceNote>(<ref>Schedule 2</ref> added <ref href="/hk/1993/93">93 of 1993 s.
+                7</ref>)</sourceNote></section></schedule></main></ordinance>

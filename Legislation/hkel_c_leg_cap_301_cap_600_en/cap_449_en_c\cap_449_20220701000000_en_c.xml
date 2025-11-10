@@ -1,0 +1,830 @@
+<?xml version="1.0" encoding="UTF-8"?><ordinance xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd" xml:lang="en"><meta><docName>Cap. 449</docName><docType>cap</docType><docNumber>449</docNumber><docStatus>In effect</docStatus><dc:identifier>/hk/cap449!en</dc:identifier><dc:date>2022-07-01</dc:date><dc:subject>legislation</dc:subject><dc:language>en</dc:language><dc:publisher>DoJ</dc:publisher><dc:rights>the Government of the Hong Kong Special Administrative Region</dc:rights></meta><main xml:lang="en" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd"><longTitle id="ID_1438403209744_001" name="longTitle" reason="inEffect" status="operational" temporalId="longTitle" startPeriod="2022-02-24">
+            <content>An Ordinance to provide for the design, manufacture and installation of
+                amusement rides, the regulation of the operation, maintenance and examination of
+                amusement rides, the avoidance of dangerous conduct in relation thereto, and for
+                matters ancillary thereto or connected therewith.</content>
+            <content>
+                <marker role="blank-line"></marker>
+                <marker role="blank-line"></marker>
+            </content>
+        </longTitle><commencementNote>[8 December 1994]<sourceNote><inline class="width_3"> </inline><ref href="/hk/1994/ln486">L.N. 486 of 1994</ref></sourceNote></commencementNote><sourceNote>(Format changes—<ref href="/hk/2022/er1">E.R. 1 of 2022</ref>)</sourceNote><enactingFormula>
+            <content><sourceNote>(Enacting provision omitted—<ref href="/hk/2022/er1">E.R. 1 of
+                        2022</ref>)</sourceNote></content>
+            <marker role="blank-line"></marker>
+            <marker role="blank-line"></marker>
+        </enactingFormula><part id="ID_1438403209760_002" name="P1" reason="inEffect" startPeriod="2022-02-24" status="operational" temporalId="P1"><num value="1">Part
+            I</num><heading>Preliminary</heading><section id="ID_1438403209760_004" name="s1" reason="inEffect" startPeriod="2022-02-24" status="operational" temporalId="s1"><num value="1">1.</num><heading>Short title</heading><sourceNote>(Amended <ref href="hk/2022/er1">E.R. 1 of 2022</ref>)</sourceNote><subsection id="ID_1438412552285_011" name="1" temporalId="s1_1"><num value="1">(1)</num><content>This Ordinance may be cited as the <shortTitle>Amusement Rides (Safety)
+                    Ordinance</shortTitle>.</content></subsection><subsection id="ID_1438412552285_019" name="2" temporalId="s1_2"><num value="2">(2)</num><sourceNote>(Omitted as spent—<ref href="hk/2022/er1">E.R. 1 of 2022</ref>)</sourceNote></subsection></section><section id="ID_1438403209775_002" name="s2" reason="inEffect" startPeriod="2022-07-01" status="operational" temporalId="s2"><num value="2">2.</num><heading>Interpretation</heading><subsection id="ID_1438412552301_011" name="1" temporalId="s2_1"><num value="1">(1)</num><leadIn>In this Ordinance, unless the context otherwise requires—  <sourceNote>(Amended <ref href="/hk/1995/72">72 of 1995 s. 11</ref>)</sourceNote></leadIn><def name="AmusementRide">
+                <leadIn><term>amusement
+                        ride</term>
+                        (<term xml:lang="zh-Hant-HK">機動遊戲機</term>) means a power driven device,
+                    together with the machinery, equipment and plant connected to, or used in
+                    connection with, such device, which is designed to be driven or ridden by
+                    members of the public primarily for amusement purposes—</leadIn>
+                <paragraph id="ID_1438412552301_026" name="a" temporalId="s2_1_a"><num value="a">(a)</num><content>and includes any such device that is capable of being moved from one
+                        place of operation to another;</content></paragraph>
+                <paragraph id="ID_1438412552301_034" name="b" temporalId="s2_1_b"><num value="b">(b)</num><content>but does not include any such device which is driven solely either by
+                        human physical effort or by gravity or partly by such effort and partly by
+                        gravity only (that is, it is neither wholly nor partly power driven), other
+                        than a device which is specified in <ref>Schedule 2</ref>;<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/1995/72">72 of 1995 s. 11</ref>)</sourceNote></content></paragraph>
+            </def><def name="Appeal"><term>appeal</term>
+                    (<term xml:lang="zh-Hant-HK">上訴</term>) means an appeal under <ref>section
+                    23(1)</ref>;</def><def name="AppealBoard"><term>appeal
+                    board</term>
+                    (<term xml:lang="zh-Hant-HK">上訴委員會</term>) means an appeal board appointed under
+                    <ref>section 25</ref>;</def><def name="AppointedDay"><inline class="force_orig_font">*</inline><term>appointed
+                    day</term>
+                    (<term xml:lang="zh-Hant-HK">指定日期</term>) means the day appointed under
+                    <ref>section 1(2)</ref>;</def><def name="CodeOfPractice">
+                <leadIn><term>code
+                        of
+                    practice</term>
+                        (<term xml:lang="zh-Hant-HK">實務守則</term>) includes—</leadIn>
+                <paragraph id="ID_1438412552317_033" name="a" temporalId="s2_1_a"><num value="a">(a)</num><content>a standard;</content></paragraph>
+                <paragraph id="ID_1438412552317_041" name="b" temporalId="s2_1_b"><num value="b">(b)</num><content>a specification; and</content></paragraph>
+                <paragraph id="ID_1438412552317_049" name="c" temporalId="s2_1_c"><num value="c">(c)</num><content>any other documentary form of practical guidance;</content></paragraph>
+            </def><def name="DailyPenalty"><term>daily
+                    penalty</term>
+                    (<term xml:lang="zh-Hant-HK">每日罰款</term>) means a penalty for each day on which
+                the offence concerned is continued after conviction therefor;</def><def name="DesignatedEmployee"><term>designated
+                    employee</term>
+                    (<term xml:lang="zh-Hant-HK">指定僱員</term>) means a person employed by the owner
+                of an amusement ride who has been designated under <ref>section 21(1)</ref> as a
+                person who may exercise the powers conferred by <ref>sections 19</ref> and
+                    <ref>20</ref>;</def><def name="Director"><term>Director</term>
+                    (<term xml:lang="zh-Hant-HK">署長</term>) means the Director of Electrical and
+                Mechanical Services;</def><def name="Examine"><term>examine</term>
+                    (<term xml:lang="zh-Hant-HK">檢查</term>), in relation to an amusement ride,
+                includes test;</def><def name="ExistingAmusementRide"><term>existing
+                    amusement
+                ride</term>
+                    (<term xml:lang="zh-Hant-HK">原有機動遊戲機</term>) means an amusement ride in respect
+                of which installation works have been completed before the appointed day, and
+                whether or not immediately before that day there was in force in respect of that
+                ride a permit granted under <ref>section 8</ref> of the Places of Public
+                Entertainment Ordinance (<ref href="/hk/cap172">Cap. 172</ref>);</def><def name="Inspect"><term>inspect</term>
+                    (<term xml:lang="zh-Hant-HK">視察</term>) includes examine;</def><def name="InstallationWorks"><term>installation
+                    works</term>
+                    (<term xml:lang="zh-Hant-HK">安裝工程</term>), in relation to an amusement ride,
+                means all works relating to the installation of the ride, other than building works
+                relating to the construction of any buildings or structures connected with the
+                ride;</def><def name="KiddieRide">
+                <leadIn><term>kiddie
+                        ride</term>
+                        (<term xml:lang="zh-Hant-HK">小童機動遊戲機</term>) means an amusement
+                    ride—</leadIn>
+                <paragraph id="ID_1438412552332_026" name="a" temporalId="s2_1_a"><num value="a">(a)</num><content>designed primarily for use by children aged not more than 12 years;
+                        and</content></paragraph>
+                <paragraph id="ID_1438412552332_034" name="b" temporalId="s2_1_b"><num value="b">(b)</num><leadIn>having—</leadIn><subparagraph id="ID_1438412552332_042" name="i" temporalId="s2_1_b_i"><num value="i">(i)</num><content>a designed carrying capacity of not more than 100
+                            kilograms;
+                            and</content></subparagraph><subparagraph id="ID_1438412552332_050" name="ii" temporalId="s2_1_b_ii"><num value="ii">(ii)</num><content>a motive power of not more than 1.1 kilowatts;</content></subparagraph></paragraph>
+            </def><def name="LegalOfficer"><term>legal
+                    officer</term>
+                    (<term xml:lang="zh-Hant-HK">律政人員</term>) means a legal officer within the
+                meaning of the Legal Officers Ordinance (<ref href="/hk/cap87">Cap. 87</ref>);</def><def name="NoticeOfAppeal"><term>notice
+                    of
+                appeal</term>
+                    (<term xml:lang="zh-Hant-HK">上訴通知</term>) means a notice of appeal under
+                    <ref>section 23(1)</ref>;</def><def name="Officer"><term>officer</term>
+                    (<term xml:lang="zh-Hant-HK">高級人員</term>), in relation to a body corporate,
+                means an officer within the meaning of <ref>section 2(1)</ref> of the Companies
+                Ordinance (<ref href="/hk/cap622">Cap. 622</ref>);<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/2012/28">28 of 2012 ss. 912</ref> &amp; 920)</sourceNote></def><def name="Owner">
+                <leadIn><term>owner</term>
+                        (<term xml:lang="zh-Hant-HK">擁有人</term>), in relation to an amusement
+                    ride—</leadIn>
+                <paragraph id="ID_1438412552348_005" name="a" temporalId="s2_1_a"><num value="a">(a)</num><leadIn>includes—</leadIn><subparagraph id="ID_1438412552348_013" name="i" temporalId="s2_1_a_i"><num value="i">(i)</num><content>where the ride is presented or carried on in or on a place of
+                            public entertainment within the meaning of <ref>section 2</ref> of the
+                            Places of Public Entertainment Ordinance (<ref href="/hk/cap172">Cap.
+                                172</ref>), and notwithstanding that the ride is not an
+                            entertainment within the meaning of that section, the holder of a
+                            licence under that Ordinance in respect of that public
+                            entertainment;</content></subparagraph><subparagraph id="ID_1438412552348_021" name="ii" temporalId="s2_1_a_ii"><num value="ii">(ii)</num><content>where the ride is situated in an amusement game centre within the
+                            meaning of the Amusement Game Centres Ordinance (<ref href="/hk/cap435">Cap. 435</ref>), the holder of a licence, if any, granted under
+                            that Ordinance in respect of that centre; and</content></subparagraph><subparagraph id="ID_1438412552348_029" name="iii" temporalId="s2_1_a_iii"><num value="iii">(iii)</num><content>a lessee or hirer of the ride;</content></subparagraph></paragraph>
+                <paragraph id="ID_1438412552348_036" name="b" temporalId="s2_1_b"><num value="b">(b)</num><content>where the use of the ride by members of the public is, by whatever
+                        means, by way of a leasing or hiring arrangement, does not include a member
+                        of the public who is the lessee or hirer of the ride under such an
+                        arrangement;</content></paragraph>
+            </def><def name="Panel"><term>panel</term>
+                    (<term xml:lang="zh-Hant-HK">上訴委員團</term>) means the appeal board panel
+                appointed under <ref>section 24</ref>;</def><def name="PowerDriven"><term>power
+                    driven</term>
+                    (<term xml:lang="zh-Hant-HK">以動力推動</term>) includes magnetically, pneumatically,
+                hydraulically, electrically or otherwise mechanically driven but does not include
+                driven by human physical effort;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1995/72">72 of 1995 s. 11</ref>)</sourceNote></def><def name="Secretary"><term>Secretary</term>
+                means the Secretary for Home and Youth Affairs. <sourceNote>(Amended <ref href="/hk/1996/ln372">L.N. 372 of 1996</ref>; <ref href="/hk/1998/ln192">L.N. 192 of 1998</ref>; <ref href="/hk/1998/ln206">L.N. 206 of 1998</ref>; <ref href="/hk/2022/ln144">L.N. 144 of
+                2022</ref>)</sourceNote></def></subsection><subsection id="ID_1438412552363_025" name="2" temporalId="s2_2"><num value="2">(2)</num><content>For the purposes of this Ordinance, a device shall be regarded as being wholly
+                or, where appropriate, partly driven by a particular kind of power if it is so
+                driven by that kind of power at any stage of its operation or propulsion.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1995/72">72 of 1995
+                        s. 11</ref>)</sourceNote></content></subsection><editorialNote type="footnote" id="ID_1653881260046_001">
+            <content>Editorial Note:</content>
+            <content><inline class="force_orig_font">*</inline> Appointed date: 8 December
+                1994.<marker role="section-break"></marker></content>
+        </editorialNote></section><section id="ID_1438403209791_002" name="s3" reason="inEffect" startPeriod="2022-02-24" status="operational" temporalId="s3"><num value="3">3.</num><heading>Application of Ordinance to existing amusement rides</heading><content>Unless otherwise specified in this Ordinance, this Ordinance shall apply to an existing amusement ride as it applies to any other amusement ride.</content></section></part><part id="ID_1438403209807_002" name="P2" reason="inEffect" startPeriod="2022-02-24" status="operational" temporalId="P2"><num value="2">Part
+            II</num><heading>Installation
+            of Amusement Rides</heading><section id="ID_1438403209822_002" name="s4" reason="inEffect" startPeriod="2022-02-24" status="operational" temporalId="s4"><num value="4">4.</num><heading>Application of this Part</heading><leadIn>This Part shall not apply to—</leadIn><paragraph id="ID_1438412552441_019" name="a" temporalId="s4_a"><num value="a">(a)</num><content>an existing amusement ride;</content></paragraph><paragraph id="ID_1438412552441_027" name="b" temporalId="s4_b"><num value="b">(b)</num><content>a kiddie ride;</content></paragraph><paragraph id="ID_1438412552441_035" name="c" temporalId="s4_c"><num value="c">(c)</num><content>any other amusement ride in respect of which the Director has determined that installation works have been carried out before the appointed day to such an extent that it would be impracticable for this Part to apply to the ride.</content></paragraph></section><section id="ID_1438403209838_002" name="s5" reason="inEffect" startPeriod="2022-02-24" status="operational" temporalId="s5"><num value="5">5.</num><heading>Designs, etc.</heading><leadIn>A person wishing to install an amusement ride shall submit to the Director—</leadIn><paragraph id="ID_1438412552473_012" name="a" temporalId="s5_a"><num value="a">(a)</num><content>the designs and specifications of the machinery, equipment and plant connected with the ride;</content></paragraph><paragraph id="ID_1438412552473_020" name="b" temporalId="s5_b"><num value="b">(b)</num><content>the proposed method and programme of installation of the ride; and</content></paragraph><paragraph id="ID_1438412552473_028" name="c" temporalId="s5_c"><num value="c">(c)</num><content>such other information, plans or calculations connected with the ride as may be required by the Director.</content></paragraph></section><section id="ID_1438403209838_004" name="s6" reason="inEffect" startPeriod="2022-02-24" status="operational" temporalId="s6"><num value="6">6.</num><heading>Installation not to be carried out until designs, etc. approved</heading><subsection id="ID_1438412552488_041" name="1" temporalId="s6_1"><num value="1">(1)</num><leadIn>A person wishing to install an amusement ride shall not carry out any part of the installation works until—</leadIn><paragraph id="ID_1438412552488_049" name="a" temporalId="s6_1_a"><num value="a">(a)</num><content>the designs and specifications (including any plans and calculations) connected with the ride; and</content></paragraph><paragraph id="ID_1438412552504_006" name="b" temporalId="s6_1_b"><num value="b">(b)</num><content>the method and programme of installation of the ride,</content></paragraph><continued>have been approved by the Director.</continued></subsection><subsection id="ID_1438412552504_019" name="2" temporalId="s6_2"><num value="2">(2)</num><content>An approval under subsection (1) may be limited to any stage in the installation of the amusement ride to which the approval relates.</content></subsection></section><section id="ID_1438403209853_002" name="s7" reason="inEffect" startPeriod="2022-02-24" status="operational" temporalId="s7"><num value="7">7.</num><heading>Amusement ride to be installed in accordance with designs, etc.</heading><subsection id="ID_1438412552519_027" name="1" temporalId="s7_1"><num value="1">(1)</num><leadIn>All installation works in respect of an amusement ride shall be carried out by the person installing the ride in accordance with—</leadIn><paragraph id="ID_1438412552535_005" name="a" temporalId="s7_1_a"><num value="a">(a)</num><content>the designs and specifications (including any plans and calculations) connected with the ride; and</content></paragraph><paragraph id="ID_1438412552535_013" name="b" temporalId="s7_1_b"><num value="b">(b)</num><content>the method and programme of installation of the ride,</content></paragraph><continued>as approved under <ref>section 6</ref>, subject to such modifications as may be made from time to time by that person with the prior approval of the Director.</continued></subsection><subsection id="ID_1438412552535_026" name="2" temporalId="s7_2"><num value="2">(2)</num><leadIn>Where, in respect of any part of any installation works in respect of an amusement ride, the Director is of the opinion that—</leadIn><paragraph id="ID_1438412552535_034" name="a" temporalId="s7_2_a"><num value="a">(a)</num><content>the provisions of this Ordinance relating to the installation of the ride are not being complied with; or</content></paragraph><paragraph id="ID_1438412552535_042" name="b" temporalId="s7_2_b"><num value="b">(b)</num><leadIn>the installation works are dangerous or liable to become dangerous to persons—</leadIn><subparagraph id="ID_1438412552535_050" name="i" temporalId="s7_2_b_i"><num value="i">(i)</num><content>employed in connection with the installation works; or</content></subparagraph><subparagraph id="ID_1438412552535_058" name="ii" temporalId="s7_2_b_ii"><num value="ii">(ii)</num><content>using, operating, or being in the vicinity of, the ride,</content></subparagraph></paragraph><continued>he may direct the person installing the ride to discontinue any such part and any such part shall not be continued until the Director is satisfied that—</continued><paragraph id="ID_1438412552535_071" name="i" temporalId="s7_2_i"><num value="i">(i)</num><content>any further installation works will comply with such provisions; or</content></paragraph><paragraph id="ID_1438412552535_079" name="ii" temporalId="s7_2_ii"><num value="ii">(ii)</num><content>the installation works are no longer so dangerous or liable to become so dangerous,</content></paragraph><continued>as the case may be.</continued></subsection></section><section id="ID_1438403209869_001" name="s8" reason="inEffect" startPeriod="2022-02-24" status="operational" temporalId="s8"><num value="8">8.</num><heading>Power to enter and inspect</heading><subsection id="ID_1438412552566_018" name="1" temporalId="s8_1"><num value="1">(1)</num><leadIn>The Director may at any reasonable time enter the place at which an amusement ride is being installed—</leadIn><paragraph id="ID_1438412552566_026" name="a" temporalId="s8_1_a"><num value="a">(a)</num><content>to ascertain whether the person installing the ride is complying with the provisions of this Ordinance relating to the installation of the ride;</content></paragraph><paragraph id="ID_1438412552566_034" name="b" temporalId="s8_1_b"><num value="b">(b)</num><leadIn>to ascertain whether the installation works are dangerous or liable to become dangerous to persons—</leadIn><subparagraph id="ID_1438412552566_042" name="i" temporalId="s8_1_b_i"><num value="i">(i)</num><content>employed in connection with the installation works; or</content></subparagraph><subparagraph id="ID_1438412552582_007" name="ii" temporalId="s8_1_b_ii"><num value="ii">(ii)</num><content>using, operating, or being in the vicinity of, the ride; and</content></subparagraph></paragraph><paragraph id="ID_1438412552582_014" name="c" temporalId="s8_1_c"><num value="c">(c)</num><content>to examine the machinery, equipment and plant connected with the ride.</content></paragraph></subsection><subsection id="ID_1438412552582_021" name="2" temporalId="s8_2"><num value="2">(2)</num><content>The person installing an amusement ride shall, without cost, afford the Director such facilities and assistance as he may reasonably require for the purposes of subsection (1).</content></subsection></section><section id="ID_1438403209869_003" name="s9" reason="inEffect" startPeriod="2022-02-24" status="operational" temporalId="s9"><num value="9">9.</num><heading>Approval of designs, etc. not to confer title to land, etc.</heading><leadIn>Neither—</leadIn><paragraph id="ID_1438412552597_043" name="a" temporalId="s9_a"><num value="a">(a)</num><content>the approval of designs and specifications (including any plans and calculations) connected with an amusement ride, and the method and programme of installation of the ride, under <ref>section 6</ref>; nor</content></paragraph><paragraph id="ID_1438412552597_051" name="b" temporalId="s9_b"><num value="b">(b)</num><content>the approval of commencement of operation of the ride under <ref>section 10</ref>,</content></paragraph><continued>shall—</continued><paragraph id="ID_1438412552613_012" name="i" temporalId="s9_i"><num value="i">(i)</num><content>confer any title to land;</content></paragraph><paragraph id="ID_1438412552613_020" name="ii" temporalId="s9_ii"><num value="ii">(ii)</num><content>act as a waiver of any term in any lease, licence or permit;</content></paragraph><paragraph id="ID_1438412552613_028" name="iii" temporalId="s9_iii"><num value="iii">(iii)</num><content>grant any exemption from, or permit any contravention of, this Ordinance or any other enactment.</content></paragraph></section></part><part id="ID_1438403209885_002" name="P3" reason="inEffect" startPeriod="2022-02-24" status="operational" temporalId="P3"><num value="3">Part
+            III</num><heading>Operation,
+            Maintenance, Repair and Alteration of Amusement Rides</heading><section id="ID_1438403209885_004" name="s10" reason="inEffect" startPeriod="2022-02-24" status="operational" temporalId="s10"><num value="10">10.</num><heading>Approval required before amusement ride can operate</heading><leadIn>The owner of an amusement ride (other than an existing amusement ride) shall not operate the ride for the use of members of the public until—</leadIn><paragraph id="ID_1438412552644_012" name="a" temporalId="s10_a"><num value="a">(a)</num><content>the Director has approved the commencement of operation of the ride; and</content></paragraph><paragraph id="ID_1438412552644_020" name="b" temporalId="s10_b"><num value="b">(b)</num><content>he has paid to the Director the prescribed fee for such approval.</content></paragraph></section><section id="ID_1438403209900_002" name="s11" reason="inEffect" startPeriod="2022-02-24" status="operational" temporalId="s11"><num value="11">11.</num><heading>Amusement ride to be maintained in safe condition</heading><subsection id="ID_1438412552660_033" name="1" temporalId="s11_1"><num value="1">(1)</num><content>The owner of an amusement ride shall maintain the ride in a safe condition.</content></subsection><subsection id="ID_1438412552660_041" name="2" temporalId="s11_2"><num value="2">(2)</num><content>The Director may require the owner of an amusement ride to effect such repairs or alterations to the ride as the Director considers necessary for the proper maintenance of the ride and for the obviation of fire and other hazards.</content></subsection><subsection id="ID_1438412552675_005" name="3" temporalId="s11_3"><num value="3">(3)</num><content>Where the owner of an amusement ride fails to comply with a requirement under subsection (2), the Director may direct the owner to close the ride forthwith.</content></subsection><subsection id="ID_1438412552675_013" name="4" temporalId="s11_4"><num value="4">(4)</num><content>Where at any time there exist, in the opinion of the Director, any circumstances requiring the immediate putting into effect of repairs or alterations referred to in subsection (2) in respect of an amusement ride, he may require the owner of the ride to effect the repairs or alterations forthwith or, if he thinks fit, may forthwith effect the repairs or alterations with or without notice to the owner.</content></subsection><subsection id="ID_1438412552675_021" name="5" temporalId="s11_5"><num value="5">(5)</num><content>The expense of repairs or alterations referred to in this section shall be borne by the owner of the amusement ride in respect of which they were effected and where any such repairs or alterations are effected by the Director the expense of such repairs or alterations is recoverable from the owner as a civil debt due to the Government.</content></subsection></section><section id="ID_1438403209916_001" name="s12" reason="inEffect" startPeriod="2022-02-24" status="operational" temporalId="s12"><num value="12">12.</num><heading>Closure of amusement ride for repairs or alterations</heading><subsection id="ID_1438412552722_004" name="1" temporalId="s12_1"><num value="1">(1)</num><content>The owner of an amusement ride may, or if so required by the Director shall, close or partially close the ride to the use of members of the public to enable repairs or alterations to be effected to the ride.</content></subsection><subsection id="ID_1438412552722_012" name="2" temporalId="s12_2"><num value="2">(2)</num><content>Where a closure of an amusement ride is effected under this section pursuant to a requirement of the Director, the ride or such part of the ride affected by the requirement shall not thereafter be operated for the use of members of the public without the prior consent of the Director.</content></subsection></section><section id="ID_1438403209916_003" name="s13" reason="inEffect" startPeriod="2022-02-24" status="operational" temporalId="s13"><num value="13">13.</num><heading>Closure of amusement ride for safety reasons</heading><subsection id="ID_1438412552753_004" name="1" temporalId="s13_1"><num value="1">(1)</num><content>The owner of an amusement ride shall not operate the ride in a manner that endangers the safety of persons using, operating, or being in the vicinity of, the ride.</content></subsection><subsection id="ID_1438412552753_012" name="2" temporalId="s13_2"><num value="2">(2)</num><leadIn>The owner of an amusement ride may, or if so required by the Director or a police officer shall, close or partially close the ride to the use of members of the public whenever such action appears reasonably necessary—</leadIn><paragraph id="ID_1438412552753_020" name="a" temporalId="s13_2_a"><num value="a">(a)</num><content>for the safety of persons using, operating, or being in the vicinity of, the ride; or</content></paragraph><paragraph id="ID_1438412552753_028" name="b" temporalId="s13_2_b"><num value="b">(b)</num><content>in the case of an emergency.</content></paragraph></subsection><subsection id="ID_1438412552753_035" name="3" temporalId="s13_3"><num value="3">(3)</num><content>The owner of an amusement ride shall forthwith notify the Director of a closure of the ride effected under this section except such a closure required by the Director.</content></subsection><subsection id="ID_1438412552753_043" name="4" temporalId="s13_4"><num value="4">(4)</num><leadIn>Where a closure of an amusement ride is effected under this section pursuant to
+                a requirement of the Director or a police officer, the ride or such part of the ride
+                affected by the requirement shall not thereafter be operated for the use of members
+                of the
+                public—</leadIn><paragraph id="ID_1438412552769_005" name="a" temporalId="s13_4_a"><num value="a">(a)</num><content>in the case of such a requirement by the Director, without the prior
+                    consent of the Director;</content></paragraph><paragraph id="ID_1438412552769_013" name="b" temporalId="s13_4_b"><num value="b">(b)</num><leadIn>in the case of such a requirement by a police officer—</leadIn><subparagraph id="ID_1438412552769_021" name="i" temporalId="s13_4_b_i"><num value="i">(i)</num><content>without prejudice to any exercise of the Director’s power under
+                        subsection (2) in respect of the ride, unless 24 hours have elapsed since
+                        such requirement was imposed; or</content></subparagraph><subparagraph id="ID_1438412552769_029" name="ii" temporalId="s13_4_b_ii"><num value="ii">(ii)</num><content>without the prior consent of the
+                        Director,</content></subparagraph><continued>whichever first occurs.</continued></paragraph></subsection></section><section id="ID_1438403209931_001" name="s14" reason="inEffect" startPeriod="2022-02-24" status="operational" temporalId="s14"><num value="14">14.</num><heading>Prohibition on major alterations to amusement ride without permission</heading><content>Except with the prior consent of the Director, the owner of an amusement ride shall not effect any major alterations to the ride.</content></section><section id="ID_1438403209931_003" name="s15" reason="inEffect" startPeriod="2022-02-24" status="operational" temporalId="s15"><num value="15">15.</num><heading>Examination of amusement ride to which major alterations have been effected</heading><subsection id="ID_1438412552816_018" name="1" temporalId="s15_1"><num value="1">(1)</num><content>Where any major alterations have been effected to an amusement ride, the Director shall, before the use and operation of the ride is resumed, require the owner of the ride to cause a person approved by the Director to examine the ride so far as may be necessary to determine that the ride is in safe working order.</content></subsection><subsection id="ID_1438412552831_005" name="2" temporalId="s15_2"><num value="2">(2)</num><leadIn>Where the Director—</leadIn><paragraph id="ID_1438412552831_013" name="a" temporalId="s15_2_a"><num value="a">(a)</num><content>is satisfied that an amusement ride referred to in subsection (1) is in safe working order, he shall, upon payment to him by the owner of the ride of the prescribed fee, permit the use and operation of the ride to be resumed;</content></paragraph><paragraph id="ID_1438412552831_021" name="b" temporalId="s15_2_b"><num value="b">(b)</num><content>is not so satisfied, he shall refuse to permit the use and operation of the ride to be resumed.</content></paragraph></subsection><subsection id="ID_1438412552831_028" name="3" temporalId="s15_3"><num value="3">(3)</num><content>The owner of an amusement ride referred to in subsection (1) shall not resume the use and operation of the ride without the permission of the Director under subsection (2).</content></subsection></section><section id="ID_1438403209947_002" name="s16" reason="inEffect" startPeriod="2022-02-24" status="operational" temporalId="s16"><num value="16">16.</num><heading>Power to enter and inspect</heading><subsection id="ID_1438412552863_004" name="1" temporalId="s16_1"><num value="1">(1)</num><leadIn>The Director may (whether for the purpose of carrying out an investigation into an accident or otherwise) at any reasonable time—</leadIn><paragraph id="ID_1438412552863_012" name="a" temporalId="s16_1_a"><num value="a">(a)</num><content>enter any land in order to inspect an amusement ride on that land or passing over that land;</content></paragraph><paragraph id="ID_1438412552863_020" name="b" temporalId="s16_1_b"><num value="b">(b)</num><content>enter and inspect any building or structure connected with the ride.</content></paragraph></subsection><subsection id="ID_1438412552863_027" name="2" temporalId="s16_2"><num value="2">(2)</num><content>The owner of an amusement ride and, if different, the owner of any land, building or structure referred to in subsection (1) shall, without cost, afford the Director such facilities and assistance as he may reasonably require for the purposes of subsection (1).</content></subsection></section></part><part id="ID_1438403209947_004" name="P4" reason="inEffect" startPeriod="2022-02-24" status="operational" temporalId="P4"><num value="4">Part
+            IV</num><heading>Conduct
+            Impairing Safety of Amusement Rides</heading><section id="ID_1438403209963_002" name="s17" reason="inEffect" startPeriod="2022-02-24" status="operational" temporalId="s17"><num value="17">17.</num><heading>Offence to endanger safety of persons using, etc. amusement ride</heading><content>No person shall wilfully or negligently do or omit to do anything in relation to an amusement ride if such act or omission is likely to render the ride unsafe for persons using, operating, or being in the vicinity of, the ride.</content></section><section id="ID_1438403209978_001" name="s18" reason="inEffect" startPeriod="2022-02-24" status="operational" temporalId="s18"><num value="18">18.</num><heading>Trespassing on amusement ride</heading><leadIn>No person shall, without lawful excuse, enter any part of an area which is fenced or enclosed for the purposes of an amusement ride if at the time of entry there is displayed in respect of that part a notice in the English and Chinese languages—</leadIn><paragraph id="ID_1438412552941_012" name="a" temporalId="s18_a"><num value="a">(a)</num><content>forbidding any member of the public, except in specified circumstances, if any, from entering that part; and</content></paragraph><paragraph id="ID_1438412552941_020" name="b" temporalId="s18_b"><num value="b">(b)</num><content>that may be readily seen and read by a member of the public before he enters that part.</content></paragraph></section><section id="ID_1438403209978_003" name="s19" reason="inEffect" startPeriod="2022-02-24" status="operational" temporalId="s19"><num value="19">19.</num><heading>Power of designated employee to give directions</heading><content>A designated employee may give to a person using or being in the immediate vicinity of an amusement ride a signal or verbal direction for the purpose of preventing an act or omission by the person which is likely to render the ride unsafe for persons using, operating, or being in the vicinity of, the ride.</content></section><section id="ID_1438403209994_001" name="s20" reason="inEffect" startPeriod="2022-02-24" status="operational" temporalId="s20"><num value="20">20.</num><heading>Power of designated employee to arrest</heading><subsection id="ID_1438412552972_019" name="1" temporalId="s20_1"><num value="1">(1)</num><leadIn>A designated employee may—</leadIn><paragraph id="ID_1438412552972_027" name="a" temporalId="s20_1_a"><num value="a">(a)</num><content>require a person whom he reasonably suspects of having contravened <ref>section 18</ref> or who fails to comply with a signal or direction given to him under <ref>section 19</ref> immediately to give his correct name and address to the employee;</content></paragraph><paragraph id="ID_1438412552987_006" name="b" temporalId="s20_1_b"><num value="b">(b)</num><content>arrest without warrant a person whom he reasonably suspects of having contravened <ref>section 17</ref> or who, without reasonable excuse, fails to comply with a requirement under paragraph (a).</content></paragraph></subsection><subsection id="ID_1438412552987_013" name="2" temporalId="s20_2"><num value="2">(2)</num><content>A designated employee who arrests a person under subsection (1) shall take the person forthwith to a police station, to be dealt with there in accordance with the Police Force Ordinance (<ref href="/hk/cap232">Cap. 232</ref>) or deliver him into the custody of a police officer for that purpose.</content></subsection><subsection id="ID_1438412552987_021" name="3" temporalId="s20_3"><num value="3">(3)</num><content>Where a person forcibly resists or attempts to evade arrest under this section, the designated employee may use such force as is reasonably necessary to effect the arrest.</content></subsection></section><section id="ID_1438403209994_003" name="s21" reason="inEffect" startPeriod="2022-02-24" status="operational" temporalId="s21"><num value="21">21.</num><heading>Director may designate employees for purposes of <ref>sections 19</ref> and <ref>20</ref></heading><subsection id="ID_1438412553003_049" name="1" temporalId="s21_1"><num value="1">(1)</num><content>The Director may, upon payment to him of the prescribed fee by the owner of an amusement ride, designate by name those persons employed by the owner who may exercise the powers conferred by <ref>sections 19</ref> and <ref>20</ref>, and may at any time revoke a designation so made.</content></subsection><subsection id="ID_1438412553019_005" name="2" temporalId="s21_2"><num value="2">(2)</num><content>The Director shall issue to every designated employee a card bearing the name and photograph of the employee and a statement signed by the Director certifying that the employee is authorized to exercise the powers conferred by <ref>sections 19</ref> and <ref>20</ref>.</content></subsection><subsection id="ID_1438412553019_013" name="3" temporalId="s21_3"><num value="3">(3)</num><content>A designated employee shall produce the card issued to him under subsection (2) for inspection by a person who questions his authority to exercise any power conferred by <ref>section 19</ref> or <ref>20</ref>.</content></subsection><subsection id="ID_1438412553019_021" name="4" temporalId="s21_4"><num value="4">(4)</num><content>A person who ceases to be a designated employee shall forthwith deliver to the Director the card issued to him under subsection (2).</content></subsection></section><section id="ID_1438403210009_002" name="s22" reason="inEffect" startPeriod="2022-02-24" status="operational" temporalId="s22"><num value="22">22.</num><heading>Owner to display notices of prohibited conduct</heading><leadIn>The owner of an amusement ride shall—</leadIn><paragraph id="ID_1438412553050_012" name="a" temporalId="s22_a"><num value="a">(a)</num><content>in the case of an existing amusement ride, not later than 1 month after the appointed day;</content></paragraph><paragraph id="ID_1438412553050_020" name="b" temporalId="s22_b"><num value="b">(b)</num><content>in any other case, before approval is given under <ref>section 10</ref> to the commencement of operation of the ride,</content></paragraph><continued>display, and thereafter keep displayed, not less than 1 notice in the prescribed form in the English and Chinese languages—</continued><paragraph id="ID_1438412553050_034" name="i" temporalId="s22_i"><num value="i">(i)</num><content>containing a summary of <ref>sections 17</ref> and <ref>19</ref> and the penalties which may be imposed for a contravention of those sections; and</content></paragraph><paragraph id="ID_1438412553050_042" name="ii" temporalId="s22_ii"><num value="ii">(ii)</num><content>that may be readily seen and read by a member of the public being in the vicinity of the ride but, in any case, before he uses the ride.</content></paragraph></section></part><part id="ID_1438403210025_001" name="P5" reason="inEffect" startPeriod="2022-02-24" status="operational" temporalId="P5"><num value="5">Part
+            V</num><heading>Appeals</heading><section id="ID_1438403210025_003" name="s23" reason="inEffect" startPeriod="2022-02-24" status="operational" temporalId="s23"><num value="23">23.</num><heading>Appeal against decision of Director</heading><subsection id="ID_1438412553081_011" name="1" temporalId="s23_1"><num value="1">(1)</num><leadIn>Where a person is aggrieved by—</leadIn><paragraph id="ID_1438412553081_019" name="a" temporalId="s23_1_a"><num value="a">(a)</num><content>a requirement made or a direction given by the Director under this Ordinance;</content></paragraph><paragraph id="ID_1438412553081_027" name="b" temporalId="s23_1_b"><num value="b">(b)</num><content>a refusal by the Director to give a consent, approval or permission under this Ordinance; or</content></paragraph><paragraph id="ID_1438412553081_035" name="c" temporalId="s23_1_c"><num value="c">(c)</num><content>a revocation by the Director of a consent, approval or permission given under this Ordinance,</content></paragraph><continued>the person may appeal against the decision to an appeal board by serving on the Director a notice of appeal in writing—</continued><paragraph id="ID_1438412553081_049" name="i" temporalId="s23_1_i"><num value="i">(i)</num><content>not later than 28 days after notice of that decision was served on the person or, in the case of a decision which is a requirement of the Director under <ref>section 13(2)</ref>, not later than 28 days after that requirement was made; and</content></paragraph><paragraph id="ID_1438412553097_006" name="ii" temporalId="s23_1_ii"><num value="ii">(ii)</num><content>specifying the substance of his grievance.</content></paragraph></subsection><subsection id="ID_1438412553097_013" name="2" temporalId="s23_2"><num value="2">(2)</num><content>Within 14 days after the receipt of a notice of appeal, the Director shall forward it to the Secretary unless, before the expiration of that period, the appellant has withdrawn the notice.</content></subsection><subsection id="ID_1438412553097_021" name="3" temporalId="s23_3"><num value="3">(3)</num><content>An appeal does not suspend the decision to which the appeal relates unless the Director decides otherwise.</content></subsection></section><section id="ID_1438403210041_001" name="s24" reason="inEffect" startPeriod="2022-02-24" status="operational" temporalId="s24"><num value="24">24.</num><heading>Appeal board panel</heading><subsection id="ID_1438412553112_072" name="1" temporalId="s24_1"><num value="1">(1)</num><leadIn>The Secretary shall appoint, to be members of an appeal board panel—</leadIn><paragraph id="ID_1438412553112_080" name="a" temporalId="s24_1_a"><num value="a">(a)</num><leadIn>not more than 20 persons nominated by The Hong Kong Institution of Engineers, of whom—</leadIn><subparagraph id="ID_1438412553128_006" name="i" temporalId="s24_1_a_i"><num value="i">(i)</num><content>not more than 5 shall be qualified as mechanical engineers;</content></subparagraph><subparagraph id="ID_1438412553128_014" name="ii" temporalId="s24_1_a_ii"><num value="ii">(ii)</num><content>not more than 5 shall be qualified as electrical or electronic engineers;</content></subparagraph><subparagraph id="ID_1438412553128_022" name="iii" temporalId="s24_1_a_iii"><num value="iii">(iii)</num><content>not more than 5 shall be qualified as structural engineers; and</content></subparagraph><subparagraph id="ID_1438412553128_030" name="iv" temporalId="s24_1_a_iv"><num value="iv">(iv)</num><content>not more than 5 shall be qualified as engineers of other disciplines; and</content></subparagraph></paragraph><paragraph id="ID_1438412553128_037" name="b" temporalId="s24_1_b"><num value="b">(b)</num><content>not more than 5 persons representing owners of amusement rides.</content></paragraph></subsection><subsection id="ID_1438412553128_044" name="2" temporalId="s24_2"><num value="2">(2)</num><content>A public officer is not eligible for appointment to the panel.</content></subsection><subsection id="ID_1438412553128_052" name="3" temporalId="s24_3"><num value="3">(3)</num><content>Subject to subsection (4), a member of the panel shall hold office for 3 years but shall be eligible for reappointment.</content></subsection><subsection id="ID_1438412553128_060" name="4" temporalId="s24_4"><num value="4">(4)</num><content>A member of the panel may resign at any time by notice in writing delivered to the Secretary and the Secretary may at any time and for any reason revoke the appointment of any person as a member of the panel.</content></subsection><subsection id="ID_1438412553128_068" name="5" temporalId="s24_5"><num value="5">(5)</num><content>An appointment under subsection (1) shall be notified in the Gazette.</content></subsection></section><section id="ID_1438403210041_003" name="s25" reason="inEffect" startPeriod="2022-02-24" status="operational" temporalId="s25"><num value="25">25.</num><heading>Appeal board</heading><subsection id="ID_1438412553159_004" name="1" temporalId="s25_1"><num value="1">(1)</num><content>Within 21 days after receipt of a notice of appeal, the Secretary shall appoint an appeal board to hear the appeal to which the notice relates.</content></subsection><subsection id="ID_1438412553159_012" name="2" temporalId="s25_2"><num value="2">(2)</num><leadIn>The appeal board shall consist of—</leadIn><paragraph id="ID_1438412553159_020" name="a" temporalId="s25_2_a"><num value="a">(a)</num><leadIn>4 persons who are members of the panel, of whom—</leadIn><subparagraph id="ID_1438412553159_028" name="i" temporalId="s25_2_a_i"><num value="i">(i)</num><content>one shall be qualified as a mechanical engineer;</content></subparagraph><subparagraph id="ID_1438412553159_036" name="ii" temporalId="s25_2_a_ii"><num value="ii">(ii)</num><content>one shall be qualified as an electrical or electronic engineer; and</content></subparagraph><subparagraph id="ID_1438412553159_044" name="iii" temporalId="s25_2_a_iii"><num value="iii">(iii)</num><content>one shall represent owners of amusement rides; and</content></subparagraph></paragraph><paragraph id="ID_1438412553159_051" name="b" temporalId="s25_2_b"><num value="b">(b)</num><content>a public officer who does not work in the same department of the Government as the Director.</content></paragraph></subsection><subsection id="ID_1438412553159_058" name="3" temporalId="s25_3"><num value="3">(3)</num><content>Subject to subsection (4), the members referred to in subsection <ref>(2)(a)</ref> shall choose one of their number to be the chairman of the appeal board.</content></subsection><subsection id="ID_1438412553175_005" name="4" temporalId="s25_4"><num value="4">(4)</num><content>No member of the appeal board shall be the chairman of the appeal board at any hearing of an appeal in respect of which such member has made a disclosure under <ref>section 26(2)</ref>.</content></subsection><subsection id="ID_1438412553175_013" name="5" temporalId="s25_5"><num value="5">(5)</num><content>The members of the appeal board, other than the member who is a public officer, shall be remunerated out of money provided by the Legislative Council for the purpose at such rate as the Secretary for Financial Services and the Treasury may determine from time to time or in any particular case.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/2002/ln106">L.N. 106 of 2002</ref>)</sourceNote></content></subsection><subsection id="ID_1438412553175_021" name="6" temporalId="s25_6"><num value="6">(6)</num><content>The quorum at any meeting of the appeal board shall be 4 members.</content></subsection></section><section id="ID_1438403210056_002" name="s26" reason="inEffect" startPeriod="2022-02-24" status="operational" temporalId="s26"><num value="26">26.</num><heading>Determination of appeal</heading><subsection id="ID_1438412553206_004" name="1" temporalId="s26_1"><num value="1">(1)</num><content>The appeal board shall conduct a hearing into the grounds for the Director’s decision to which the appeal before it relates.</content></subsection><subsection id="ID_1438412553206_012" name="2" temporalId="s26_2"><num value="2">(2)</num><leadIn>Where a member of the appeal board is in any way directly or indirectly interested in any appeal—</leadIn><paragraph id="ID_1438412553206_020" name="a" temporalId="s26_2_a"><num value="a">(a)</num><content>he shall disclose the nature of his interest at a meeting of the appeal board;</content></paragraph><paragraph id="ID_1438412553206_028" name="b" temporalId="s26_2_b"><num value="b">(b)</num><content>the disclosure shall be recorded in the minutes of the appeal board; and</content></paragraph><paragraph id="ID_1438412553206_036" name="c" temporalId="s26_2_c"><num value="c">(c)</num><content>he shall not, without the permission of the chairman of the appeal board, take any part in any deliberation or determination of the appeal board in respect of that appeal.</content></paragraph></subsection><subsection id="ID_1438412553206_043" name="3" temporalId="s26_3"><num value="3">(3)</num><content>Where the chairman of an appeal board does not permit a member of the appeal board who has made a disclosure under subsection (2) to take any part in any deliberation or determination of the appeal board in respect of the appeal to which that disclosure relates, the member shall not be counted for the purpose of forming a quorum of the appeal board at any hearing of that appeal.</content></subsection><subsection id="ID_1438412553221_005" name="4" temporalId="s26_4"><num value="4">(4)</num><leadIn>For the purposes of subsection (1), the appeal board hearing an appeal shall have all the powers of the Director in respect of the decision of the Director against which the appeal is made, and shall determine the appeal by an order in writing—</leadIn><paragraph id="ID_1438412553221_013" name="a" temporalId="s26_4_a"><num value="a">(a)</num><content>confirming or revoking;</content></paragraph><paragraph id="ID_1438412553221_021" name="b" temporalId="s26_4_b"><num value="b">(b)</num><content>varying in such manner as it thinks fit; or</content></paragraph><paragraph id="ID_1438412553221_029" name="c" temporalId="s26_4_c"><num value="c">(c)</num><content>substituting its own decision for,</content></paragraph><continued>such decision.</continued></subsection><subsection id="ID_1438412553221_042" name="5" temporalId="s26_5"><num value="5">(5)</num><content>The Director shall do all such things as are necessary to give effect to an order under subsection (4).</content></subsection><subsection id="ID_1438412553221_050" name="6" temporalId="s26_6"><num value="6">(6)</num><content>The appeal board may in an order under subsection (4) give such directions as it thinks fit with respect to the costs of the hearing of the appeal to which the order relates and the costs of the Director or of the appellant.</content></subsection><subsection id="ID_1438412553237_005" name="7" temporalId="s26_7"><num value="7">(7)</num><content>Any costs awarded or imposed by virtue of any directions referred to in subsection (6) are recoverable as a civil debt.</content></subsection></section><section id="ID_1438403210072_001" name="s27" reason="inEffect" startPeriod="2022-02-24" status="operational" temporalId="s27"><num value="27">27.</num><heading>Conduct of hearing</heading><subsection id="ID_1438412553268_004" name="1" temporalId="s27_1"><num value="1">(1)</num><content>Subject to this Part, the procedure of any hearing shall be determined by the appeal board.</content></subsection><subsection id="ID_1438412553268_012" name="2" temporalId="s27_2"><num value="2">(2)</num><content>In conducting a hearing, the appeal board may receive such evidence as it thinks fit and neither the provisions of the Evidence Ordinance (<ref href="/hk/cap8">Cap. 8</ref>) nor any other rule of law relating to the admissibility of evidence shall apply in relation to the hearing.</content></subsection><subsection id="ID_1438412553268_020" name="3" temporalId="s27_3"><num value="3">(3)</num><content>A counsel, solicitor or legal officer may be present at a hearing to advise the chairman of the appeal board on any matter.</content></subsection></section><section id="ID_1438403210072_003" name="s28" reason="inEffect" startPeriod="2022-02-24" status="operational" temporalId="s28"><num value="28">28.</num><heading>Summons, etc.</heading><leadIn>The appeal board may, for the purposes of a hearing—</leadIn><paragraph id="ID_1438412553284_035" name="a" temporalId="s28_a"><num value="a">(a)</num><leadIn>by notice in writing under the signature of the chairman of the appeal board and served on a person, require—</leadIn><subparagraph id="ID_1438412553284_043" name="i" temporalId="s28_a_i"><num value="i">(i)</num><content>the attendance of the person before the appeal board;</content></subparagraph><subparagraph id="ID_1438412553284_051" name="ii" temporalId="s28_a_ii"><num value="ii">(ii)</num><content>the production to the appeal board of relevant documents specified in the notice which are in the possession or under the control of the person;</content></subparagraph></paragraph><paragraph id="ID_1438412553284_058" name="b" temporalId="s28_b"><num value="b">(b)</num><leadIn>by notice in writing under the signature of the chairman of the appeal board—</leadIn><subparagraph id="ID_1438412553284_066" name="i" temporalId="s28_b_i"><num value="i">(i)</num><content>order the inspection of any premises in which any amusement ride has been installed or in which any installation works in respect of an amusement ride have been carried out;</content></subparagraph><subparagraph id="ID_1438412553299_007" name="ii" temporalId="s28_b_ii"><num value="ii">(ii)</num><content>authorize the entry upon and the viewing of such premises.</content></subparagraph></paragraph></section><section id="ID_1438403210087_002" name="s29" reason="inEffect" startPeriod="2022-02-24" status="operational" temporalId="s29"><num value="29">29.</num><heading>Representation</heading><subsection id="ID_1438412553315_004" name="1" temporalId="s29_1"><num value="1">(1)</num><leadIn>The appellant at a hearing may be represented at the hearing by—</leadIn><paragraph id="ID_1438412553315_012" name="a" temporalId="s29_1_a"><num value="a">(a)</num><content>a counsel or solicitor; or</content></paragraph><paragraph id="ID_1438412553315_020" name="b" temporalId="s29_1_b"><num value="b">(b)</num><content>an agent.</content></paragraph></subsection><subsection id="ID_1438412553315_027" name="2" temporalId="s29_2"><num value="2">(2)</num><content>The Director may be represented at a hearing by a counsel, solicitor, agent or legal officer.</content></subsection><subsection id="ID_1438412553315_035" name="3" temporalId="s29_3"><num value="3">(3)</num><content>A counsel, solicitor, agent or legal officer appearing before the appeal board at a hearing shall have the same liabilities, protection and immunity as a counsel has in appearing for a party in proceedings before the District Court.</content></subsection></section><section id="ID_1438403210103_001" name="s30" reason="inEffect" startPeriod="2022-02-24" status="operational" temporalId="s30"><num value="30">30.</num><heading>Evidence</heading><subsection id="ID_1438412553346_011" name="1" temporalId="s30_1"><num value="1">(1)</num><content>A person appearing before the appeal board to give evidence at a hearing shall, where required by the appeal board, take an oath.</content></subsection><subsection id="ID_1438412553346_019" name="2" temporalId="s30_2"><num value="2">(2)</num><leadIn>The chairman of the appeal board may—</leadIn><paragraph id="ID_1438412553346_027" name="a" temporalId="s30_2_a"><num value="a">(a)</num><content>administer an oath to a person appearing before the appeal board to give evidence at a hearing; and</content></paragraph><paragraph id="ID_1438412553346_035" name="b" temporalId="s30_2_b"><num value="b">(b)</num><content>require a person to answer any question relevant to the appeal before it.</content></paragraph></subsection><subsection id="ID_1438412553346_042" name="3" temporalId="s30_3"><num value="3">(3)</num><content>A person appearing before the appeal board to give evidence at a hearing shall have the same liabilities, protection and immunity as a witness has in proceedings before the District Court.</content></subsection></section><section id="ID_1438403210103_003" name="s31" reason="inEffect" startPeriod="2022-02-24" status="operational" temporalId="s31"><num value="31">31.</num><heading>Effect of determination</heading><content>Where the appeal board determines an appeal under <ref>section 26</ref>, the determination shall take effect on the date specified by the appeal board in its order under that section.</content></section><section id="ID_1438403210119_002" name="s32" reason="inEffect" startPeriod="2022-02-24" status="operational" temporalId="s32"><num value="32">32.</num><heading>Majority decision</heading><content>The determination under <ref>section 26</ref> by the appeal board of an appeal shall be that of the majority of the members of the appeal board present, except that in the case of an equality of votes, the chairman of the appeal board shall have a casting as well as a deliberative vote.</content></section><section id="ID_1438403210119_004" name="s33" reason="inEffect" startPeriod="2022-02-24" status="operational" temporalId="s33"><num value="33">33.</num><heading>Notification to appellant</heading><content>The Director shall, as soon as practicable after an order has been made under <ref>section 26</ref> in respect of an appeal, serve a copy of that order on the appellant.</content></section></part><part id="ID_1438403210134_002" name="P6" reason="inEffect" startPeriod="2022-02-24" status="operational" temporalId="P6"><num value="6">Part
+            VI</num><heading>Offences
+            and Penalties</heading><section id="ID_1438403210134_004" name="s34" reason="inEffect" startPeriod="2022-02-24" status="operational" temporalId="s34"><num value="34">34.</num><heading>Offences and penalties</heading><subsection id="ID_1438412553424_004" name="1" temporalId="s34_1"><num value="1">(1)</num><leadIn>Any person who—</leadIn><paragraph id="ID_1438412553424_012" name="a" temporalId="s34_1_a"><num value="a">(a)</num><content>contravenes <ref>section 6</ref>, <ref>7(1)</ref>, <ref>10</ref>,
+                        <ref>11(1)</ref>, <ref>12(2)</ref>, <ref>13(1)</ref>, (3) or (4), 14, 15(3),
+                    17, 18, 21(4) or 22; or</content></paragraph><paragraph id="ID_1438412553424_020" name="b" temporalId="s34_1_b"><num value="b">(b)</num><content>fails, without reasonable excuse, to comply with a requirement under
+                        <ref>section 8(2)</ref>, <ref>11(2)</ref> or (4), 12(1), 13(2), 15(1), 16(2)
+                    or 39 or to comply with a direction given to him under <ref>section 7(2)</ref>
+                    or <ref>11(3)</ref> or a signal or direction given to him under <ref>section
+                        19</ref>,</content></paragraph><continued>commits an offence and is liable to the penalty set out in columns 2, 3 and 4
+                of <ref>Schedule 1</ref> opposite the reference to that section in column 1 of
+                    <ref>Schedule 1</ref>.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1995/72">72 of 1995 s. 12</ref>)</sourceNote></continued></subsection><subsection id="ID_1438412553424_033" name="2" temporalId="s34_2"><num value="2">(2)</num><leadIn>Any person who, without reasonable excuse, obstructs—</leadIn><paragraph id="ID_1438412553424_041" name="a" temporalId="s34_2_a"><num value="a">(a)</num><content>the Director in the exercise of his powers under <ref>section 8(1)</ref> or
+                        <ref>16(1)</ref>; or</content></paragraph><paragraph id="ID_1438412553440_006" name="b" temporalId="s34_2_b"><num value="b">(b)</num><content>any designated employee in the exercise of his powers under <ref>section
+                        20</ref>,</content></paragraph><continued>commits an offence and is liable on conviction to a fine
+                at
+                level 3 and to imprisonment for 6
+                months.</continued></subsection><subsection id="ID_1438412553440_019" name="3" temporalId="s34_3"><num value="3">(3)</num><leadIn>Any person who, without reasonable excuse—</leadIn><paragraph id="ID_1438412553440_027" name="a" temporalId="s34_3_a"><num value="a">(a)</num><content>fails to comply with a requirement specified in a notice under <ref>section
+                        28(a)</ref> or to comply with a requirement under <ref>section 30(1)</ref>
+                    or (2)(b); or</content></paragraph><paragraph id="ID_1438412553440_035" name="b" temporalId="s34_3_b"><num value="b">(b)</num><content>obstructs the inspection of premises or the entry upon or viewing of
+                    premises pursuant to a<inline class="width_3"> </inline>notice under
+                        <ref>section 28(b)</ref>,</content></paragraph><continued>commits an offence and is liable on conviction to a fine
+                at
+                level 3 and to imprisonment for 6
+                months.</continued></subsection><sourceNote>(Amended <ref href="/hk/2022/er1">E.R. 1 of 2022</ref>)</sourceNote></section><section id="ID_1438403210150_002" name="s35" reason="inEffect" startPeriod="2022-02-24" status="operational" temporalId="s35"><num value="35">35.</num><heading>Director to specify period for certain requirements, etc.</heading><subsection id="ID_1438412553471_004" name="1" temporalId="s35_1"><num value="1">(1)</num><content>Without limiting the generality of <ref>section 40</ref>, where the Director requires or directs that anything be done under any of the provisions referred to in <ref>section 34(1)(b)</ref>, he shall make the requirement or give the direction by notice in writing served on the person to whom the requirement or direction relates, and shall in the notice specify a period within which the requirement or direction is to be complied with.</content></subsection><subsection id="ID_1438412553471_012" name="2" temporalId="s35_2"><num value="2">(2)</num><content>No person shall be held to have failed to comply with a requirement or direction referred to in subsection (1) until the expiration of the period specified in the requirement or direction, as the case may be, or such further period as the Director may allow.</content></subsection><subsection id="ID_1438412553487_005" name="3" temporalId="s35_3"><num value="3">(3)</num><content>This section shall not apply to a requirement of the Director under <ref>section 13(2)</ref>.</content></subsection></section><section id="ID_1438403210165_001" name="s36" reason="inEffect" startPeriod="2022-02-24" status="operational" temporalId="s36"><num value="36">36.</num><heading>Liability for offences by body corporate</heading><content>Where an offence under this Ordinance has been committed by a body corporate, any person who at the time of commission of the offence was an officer of the body corporate, or who was purporting to act in any such capacity, shall also be guilty of such offence unless he proves that the offence was committed without his consent or connivance, and that he exercised all such diligence to prevent the commission of the offence as he ought to have exercised having regard to the nature of his functions in that capacity and to all the circumstances.</content></section><section id="ID_1438403210165_003" name="s37" reason="inEffect" startPeriod="2022-02-24" status="operational" temporalId="s37"><num value="37">37.</num><heading>Prosecution of offences</heading><subsection id="ID_1438412553518_018" name="1" temporalId="s37_1"><num value="1">(1)</num><content>Subject to subsection (2), proceedings for offences against this Ordinance may be instituted in the name of the Director, and may be commenced and conducted by a public officer appointed under <ref>section 13</ref> of the Magistrates Ordinance (<ref href="/hk/cap227">Cap. 227</ref>).</content></subsection><subsection id="ID_1438412553518_026" name="2" temporalId="s37_2"><num value="2">(2)</num><content>Nothing in this section shall be deemed to derogate from the powers of the Secretary for Justice in relation to the prosecution of offences.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1997/ln362">L.N. 362 of 1997</ref>)</sourceNote></content></subsection></section><section id="ID_1438403210181_002" name="s38" reason="inEffect" startPeriod="2022-02-24" status="operational" temporalId="s38"><num value="38">38.</num><heading>Limitation of time for proceedings in respect of offences</heading><leadIn>Proceedings for the prosecution of an offence under this Ordinance shall be instituted within—</leadIn><paragraph id="ID_1438412553549_005" name="a" temporalId="s38_a"><num value="a">(a)</num><content>6 months from the discovery of such offence by the Director; or</content></paragraph><paragraph id="ID_1438412553549_013" name="b" temporalId="s38_b"><num value="b">(b)</num><content>6 years after the commission of such offence,</content></paragraph><continued>whichever is the earlier.</continued></section></part><part id="ID_1438403210181_004" name="P7" reason="inEffect" startPeriod="2022-02-24" status="operational" temporalId="P7"><num value="7">Part
+            VII</num><heading>Miscellaneous</heading><section id="ID_1438403210197_002" name="s39" reason="inEffect" startPeriod="2022-02-24" status="operational" temporalId="s39"><num value="39">39.</num><heading>Information to be supplied by owner of amusement ride</heading><content>For the purpose of enabling the Director to ascertain any arrangements which are made or are about to be made by the owner of an amusement ride for the fulfilment of the owner’s obligations under this Ordinance, the owner shall, if required by the Director, forthwith furnish him with such information as to the operation or maintenance of the ride or any building, structure, machinery, equipment and plant connected with the ride as the Director may require.</content></section><section id="ID_1438403210212_001" name="s40" reason="inEffect" startPeriod="2022-02-24" status="operational" temporalId="s40"><num value="40">40.</num><heading>Director’s determinations, etc. to be in writing, etc.</heading><subsection id="ID_1438412553580_018" name="1" temporalId="s40_1"><num value="1">(1)</num><content>Every determination, specification, requirement (except a requirement of the Director under <ref>section 13(2)</ref>), direction, authorization or exemption to be made or given by the Director under this Ordinance shall be given or made in writing.</content></subsection><subsection id="ID_1438412553580_026" name="2" temporalId="s40_2"><num value="2">(2)</num><content>Where a person applies to the Director for a consent, approval or permission to be given under this Ordinance, the Director shall, as soon as is practicable, by notice in writing served on the person, give or refuse to give that consent, approval or permission, as the case may be.</content></subsection><subsection id="ID_1438412553596_005" name="3" temporalId="s40_3"><num value="3">(3)</num><leadIn>Where the Director—</leadIn><paragraph id="ID_1438412553596_013" name="a" temporalId="s40_3_a"><num value="a">(a)</num><content>makes a requirement or gives a direction under this Ordinance; or</content></paragraph><paragraph id="ID_1438412553596_021" name="b" temporalId="s40_3_b"><num value="b">(b)</num><content>refuses to give a consent, approval or permission under this Ordinance,</content></paragraph><continued>he shall specify in the requirement, direction or refusal, as the case may be, the grounds for his decision.</continued></subsection></section><section id="ID_1438403210212_003" name="s41" reason="inEffect" startPeriod="2022-02-24" status="operational" temporalId="s41"><num value="41">41.</num><heading>Authorized officers</heading><content>The Director may authorize any public officer to perform any functions and exercise any powers imposed or conferred on the Director by this Ordinance except the power conferred by this section.</content></section><section id="ID_1438403210228_002" name="s42" reason="inEffect" startPeriod="2022-02-24" status="operational" temporalId="s42"><num value="42">42.</num><heading>Power of Director to prescribe forms</heading><subsection id="ID_1438412553627_018" name="1" temporalId="s42_1"><num value="1">(1)</num><content>Subject to subsection (2), the Director may prescribe the form of any document required under this Ordinance to be in the prescribed form and the form of such other documents required for the purposes of this Ordinance as he thinks fit.</content></subsection><subsection id="ID_1438412553627_026" name="2" temporalId="s42_2"><num value="2">(2)</num><content>The Director’s power under subsection (1) shall be subject to any express requirement under this Ordinance for a form, whether prescribed or otherwise, to comply with that requirement, but that requirement shall not restrict the exercise of that power in respect of that form to the extent that, in the opinion of the Director, his exercise of that power in respect of that form does not contravene that requirement.</content></subsection><subsection id="ID_1438412553643_005" name="3" temporalId="s42_3"><num value="3">(3)</num><leadIn>For the avoidance of doubt, it is hereby declared that—</leadIn><paragraph id="ID_1438412553643_013" name="a" temporalId="s42_3_a"><num value="a">(a)</num><def name="Form">for the purposes of this section,
+                        <term>form</term>
+                        (<term xml:lang="zh-Hant-HK">格式</term>) includes, where appropriate, manner;
+                    and</def></paragraph><paragraph id="ID_1438412553643_020" name="b" temporalId="s42_3_b"><num value="b">(b)</num><content>the Director’s power under subsection (1) may be exercised in such a way as to prescribe 2 or more forms of any document referred to in that subsection, whether as alternatives, or to provide for particular circumstances or particular cases, as he thinks fit.</content></paragraph></subsection></section><section id="ID_1438403210228_004" name="s43" reason="inEffect" startPeriod="2022-02-24" status="operational" temporalId="s43"><num value="43">43.</num><heading>Exemptions</heading><leadIn>The Director may—</leadIn><paragraph id="ID_1438412553658_056" name="a" temporalId="s43_a"><num value="a">(a)</num><content>exempt any amusement ride; or</content></paragraph><paragraph id="ID_1438412553674_006" name="b" temporalId="s43_b"><num value="b">(b)</num><content>by notice in the Gazette, exempt any class of amusement rides,</content></paragraph><continued>from all or any of the provisions of this Ordinance specified in the
+            exemption—</continued><paragraph id="ID_1438412553674_020" name="i" temporalId="s43_i"><num value="i">(i)</num><content>where the Director is of the opinion that the safety of members of the public will not be prejudiced by such exemption; and</content></paragraph><paragraph id="ID_1438412553674_028" name="ii" temporalId="s43_ii"><num value="ii">(ii)</num><content>subject to such conditions as the Director thinks fit specified in such exemption.</content></paragraph></section><section id="ID_1438403210243_002" name="s44" reason="inEffect" startPeriod="2022-02-24" status="operational" temporalId="s44"><num value="44">44.</num><heading>Proof of certain matters</heading><subsection id="ID_1438412553689_004" name="1" temporalId="s44_1"><num value="1">(1)</num><content>A specified document is admissible in evidence in any proceedings (whether under this Ordinance or otherwise) without further proof and is, in the absence of evidence to the contrary, proof of the matters contained in the document.</content></subsection><subsection id="ID_1438412553689_012" name="2" temporalId="s44_2"><num value="2">(2)</num><def name="SpecifiedDocument"><leadIn>In this section,
+                        <term>specified
+                        document</term>
+                        (<term xml:lang="zh-Hant-HK">指明文件</term>) means—</leadIn><paragraph id="ID_1438412553689_020" name="a" temporalId="s44_2_a"><num value="a">(a)</num><content>a document purporting to be signed or issued by or on behalf of the Director under this Ordinance; or</content></paragraph><paragraph id="ID_1438412553689_028" name="b" temporalId="s44_2_b"><num value="b">(b)</num><content>a document purporting to be a copy of a document referred to in paragraph (a) certified by or on behalf of the Director to be a true copy.</content></paragraph></def></subsection></section><section id="ID_1438403210259_001" name="s45" reason="inEffect" startPeriod="2022-02-24" status="operational" temporalId="s45"><num value="45">45.</num><heading>Service</heading><leadIn>A notice or other document authorized or required to be served under this Ordinance on a person shall be deemed to be so served if—</leadIn><paragraph id="ID_1438412553705_049" name="a" temporalId="s45_a"><num value="a">(a)</num><leadIn>in the case of an individual, it is—</leadIn><subparagraph id="ID_1438412553721_006" name="i" temporalId="s45_a_i"><num value="i">(i)</num><content>delivered to him;</content></subparagraph><subparagraph id="ID_1438412553721_014" name="ii" temporalId="s45_a_ii"><num value="ii">(ii)</num><content>left at his last known address; or</content></subparagraph><subparagraph id="ID_1438412553721_022" name="iii" temporalId="s45_a_iii"><num value="iii">(iii)</num><content>sent by post to him at such address;</content></subparagraph></paragraph><paragraph id="ID_1438412553721_029" name="b" temporalId="s45_b"><num value="b">(b)</num><leadIn>in the case of a body corporate, it is—</leadIn><subparagraph id="ID_1438412553721_037" name="i" temporalId="s45_b_i"><num value="i">(i)</num><content>given to or served on an officer of the body corporate;</content></subparagraph><subparagraph id="ID_1438412553721_045" name="ii" temporalId="s45_b_ii"><num value="ii">(ii)</num><content>left at the body corporate’s last known address; or</content></subparagraph><subparagraph id="ID_1438412553721_053" name="iii" temporalId="s45_b_iii"><num value="iii">(iii)</num><content>sent by post to the body corporate at such address; and</content></subparagraph></paragraph><paragraph id="ID_1438412553721_060" name="c" temporalId="s45_c"><num value="c">(c)</num><leadIn>in the case of a partnership, it
+                is—</leadIn><subparagraph id="ID_1438412553721_068" name="i" temporalId="s45_c_i"><num value="i">(i)</num><content>delivered, left or sent in accordance with paragraph (a) on any partner who
+                    is an individual; or</content></subparagraph><subparagraph id="ID_1438412553721_076" name="ii" temporalId="s45_c_ii"><num value="ii">(ii)</num><content>given, served, left or sent in accordance with paragraph (b) on any partner
+                    which is a body corporate.</content></subparagraph></paragraph></section><section id="ID_1438403210259_003" name="s46" reason="inEffect" startPeriod="2022-02-24" status="operational" temporalId="s46"><num value="46">46.</num><heading>Limitation of public liability</heading><content>No liability shall rest upon the Government or upon a public officer by reason of the fact that an amusement ride is subject to examination by a public officer under this Ordinance or the carrying out of any other work by a public officer pursuant to this Ordinance.</content></section><section id="ID_1438403210275_002" name="s47" reason="inEffect" startPeriod="2022-02-24" status="operational" temporalId="s47"><num value="47">47.</num><heading>Regulations—general powers</heading><subsection id="ID_1438412553752_032" name="1" temporalId="s47_1"><num value="1">(1)</num><leadIn>The Secretary may make regulations to provide for—</leadIn><paragraph id="ID_1438412553767_005" name="a" temporalId="s47_1_a"><num value="a">(a)</num><leadIn>the manner of making application for, and granting of, approval—</leadIn><subparagraph id="ID_1438412553767_013" name="i" temporalId="s47_1_a_i"><num value="i">(i)</num><leadIn>of—</leadIn><subparagraph id="ID_1438412553767_020" name="A" role="subSubParagraph" temporalId="s47_1_a_i_A"><num value="A">(A)</num><content>designs and specifications (including plans and calculations)
+                            connected with amusement rides; and</content></subparagraph><subparagraph id="ID_1438412553767_028" name="B" role="subSubParagraph" temporalId="s47_1_a_i_B"><num value="B">(B)</num><content>the method and programme of installation of amusement
+                            rides;</content></subparagraph></subparagraph><subparagraph id="ID_1438412553767_036" name="ii" temporalId="s47_1_a_ii"><num value="ii">(ii)</num><content>to commence operation of an amusement ride;</content></subparagraph></paragraph><paragraph id="ID_1438412553767_043" name="b" temporalId="s47_1_b"><num value="b">(b)</num><leadIn>the design, manufacture and installation of amusement rides, including—</leadIn><subparagraph id="ID_1438412553767_051" name="i" temporalId="s47_1_b_i"><num value="i">(i)</num><content>the properties and design strength of materials to be used;</content></subparagraph><subparagraph id="ID_1438412553767_059" name="ii" temporalId="s47_1_b_ii"><num value="ii">(ii)</num><content>speed;</content></subparagraph><subparagraph id="ID_1438412553767_067" name="iii" temporalId="s47_1_b_iii"><num value="iii">(iii)</num><content>rescue equipment;</content></subparagraph><subparagraph id="ID_1438412553767_075" name="iv" temporalId="s47_1_b_iv"><num value="iv">(iv)</num><content>drives and brakes;</content></subparagraph><subparagraph id="ID_1438412553767_083" name="v" temporalId="s47_1_b_v"><num value="v">(v)</num><content>safety devices;</content></subparagraph><subparagraph id="ID_1438412553767_091" name="vi" temporalId="s47_1_b_vi"><num value="vi">(vi)</num><content>signalling and communication;</content></subparagraph><subparagraph id="ID_1438412553767_099" name="vii" temporalId="s47_1_b_vii"><num value="vii">(vii)</num><content>anchorages and tensioning devices;</content></subparagraph><subparagraph id="ID_1438412553767_107" name="viii" temporalId="s47_1_b_viii"><num value="viii">(viii)</num><content>testing; and</content></subparagraph><subparagraph id="ID_1438412553767_115" name="ix" temporalId="s47_1_b_ix"><num value="ix">(ix)</num><content>calculations;</content></subparagraph></paragraph><paragraph id="ID_1438412553767_122" name="c" temporalId="s47_1_c"><num value="c">(c)</num><leadIn>the operation, maintenance and examination of amusement rides, including—</leadIn><subparagraph id="ID_1438412553767_130" name="i" temporalId="s47_1_c_i"><num value="i">(i)</num><leadIn>empowering the Director to approve, and to revoke the approval of, persons who may—</leadIn><subparagraph id="ID_1438412553767_137" name="A" role="subSubParagraph" temporalId="s47_1_c_i_A"><num value="A">(A)</num><content>be in charge of rides;</content></subparagraph><subparagraph id="ID_1438412553767_145" name="B" role="subSubParagraph" temporalId="s47_1_c_i_B"><num value="B">(B)</num><content>be employed in the control, operation and maintenance of rides;</content></subparagraph><subparagraph id="ID_1438412553783_007" name="C" role="subSubParagraph" temporalId="s47_1_c_i_C"><num value="C">(C)</num><content>carry out examinations of rides;</content></subparagraph></subparagraph><subparagraph id="ID_1438412553783_015" name="ii" temporalId="s47_1_c_ii"><num value="ii">(ii)</num><content>records, including manuals and log books;</content></subparagraph><subparagraph id="ID_1438412553783_023" name="iii" temporalId="s47_1_c_iii"><num value="iii">(iii)</num><content>reports of accidents and investigations into accidents; and</content></subparagraph><subparagraph id="ID_1438412553783_031" name="iv" temporalId="s47_1_c_iv"><num value="iv">(iv)</num><content>empowering the Director to seize and detain any part of an amusement ride which has been involved in any occurrence specified in the regulations;</content></subparagraph></paragraph><paragraph id="ID_1438412553783_038" name="d" temporalId="s47_1_d"><num value="d">(d)</num><content>the safety of persons using, operating, or being in the vicinity of, amusement rides;</content></paragraph><paragraph id="ID_1438412553783_046" name="e" temporalId="s47_1_e"><num value="e">(e)</num><content>the prohibition of goods or persons to be carried on amusement rides;</content></paragraph><paragraph id="ID_1438412553783_054" name="f" temporalId="s47_1_f"><num value="f">(f)</num><content>the prevention and abatement of nuisances arising from the use and operation of an amusement ride;</content></paragraph><paragraph id="ID_1438412553783_062" name="g" temporalId="s47_1_g"><num value="g">(g)</num><content>the abatement of fire hazards in relation to an amusement ride;</content></paragraph><paragraph id="ID_1438412553783_070" name="h" temporalId="s47_1_h"><num value="h">(h)</num><content>the illumination or marking of an amusement ride;</content></paragraph><paragraph id="ID_1438412553783_078" name="i" temporalId="s47_1_i"><num value="i">(i)</num><content>the number of persons who may be carried on an amusement ride;</content></paragraph><paragraph id="ID_1438412553783_086" name="j" temporalId="s47_1_j"><num value="j">(j)</num><content>what are major alterations to an amusement ride for the purposes of this Ordinance;</content></paragraph><paragraph id="ID_1438412553783_094" name="k" temporalId="s47_1_k"><num value="k">(k)</num><content>empowering the Director to impose requirements where such requirements relate to any other matter specified in this subsection;</content></paragraph><paragraph id="ID_1438412553783_102" name="l" temporalId="s47_1_l"><num value="l">(l)</num><content>the better and more effectual carrying out of the provisions of this Ordinance, including incidental, consequential, evidential and supplemental provisions.</content></paragraph></subsection><subsection id="ID_1438412553799_005" name="2" temporalId="s47_2"><num value="2">(2)</num><content>Regulations made under this section may provide that a contravention of any
+                specified provision shall be an offence and may prescribe a penalty for the offence
+                not exceeding a fine
+                at
+                level 5 and imprisonment for 2 years and, in the case of a
+                continuing offence, to a daily penalty not exceeding
+                    $1,000.<inline class="width_6"> </inline><sourceNote>(Amended <ref href="/hk/2022/er1">E.R. 1
+                        of 2022</ref>)</sourceNote></content></subsection><subsection id="ID_1438412553799_013" name="3" temporalId="s47_3"><num value="3">(3)</num><leadIn>Where regulations made under this section impose any obligation upon any person employed by the owner of an amusement ride to be in charge of the ride or in the control, operation or maintenance of the ride, the regulations may make the following provisions—</leadIn><paragraph id="ID_1438412553799_021" name="a" temporalId="s47_3_a"><num value="a">(a)</num><content>that the owner shall cause the obligation to be complied with;</content></paragraph><paragraph id="ID_1438412553799_029" name="b" temporalId="s47_3_b"><num value="b">(b)</num><content>that, if it is not complied with and the owner does not exculpate himself, the owner commits an offence (whether or not any other person is also convicted of the offence) and is liable to such penalty as may be provided for in the regulations; and</content></paragraph><paragraph id="ID_1438412553814_006" name="c" temporalId="s47_3_c"><num value="c">(c)</num><content>that in order to exculpate himself as provided in paragraph (b), the owner must satisfy a magistrate or court that he took all such precautions to prevent the non-compliance as the magistrate or court considers reasonable in the circumstances.</content></paragraph></subsection></section><section id="ID_1438403210290_001" name="s48" reason="inEffect" startPeriod="2022-02-24" status="operational" temporalId="s48"><num value="48">48.</num><heading>Regulations—fees</heading><subsection id="ID_1438412553861_004" name="1" temporalId="s48_1"><num value="1">(1)</num><leadIn>The Financial Secretary may make regulations to provide for fees and, without prejudice to the generality of that power, any such regulations may provide for a fee to be calculated on a scale dependent upon—</leadIn><paragraph id="ID_1438412553861_012" name="a" temporalId="s48_1_a"><num value="a">(a)</num><content>the number of persons the amusement ride to which the fee relates is permitted to carry;</content></paragraph><paragraph id="ID_1438412553861_020" name="b" temporalId="s48_1_b"><num value="b">(b)</num><content>the number of amusement rides to which the fee relates; or</content></paragraph><paragraph id="ID_1438412553861_028" name="c" temporalId="s48_1_c"><num value="c">(c)</num><content>a combination of the number of persons each amusement ride to which the fee relates is permitted to carry and the number of such rides.</content></paragraph></subsection><subsection id="ID_1438412553861_035" name="2" temporalId="s48_2"><num value="2">(2)</num><content>Any fees prescribed under this section may be fixed at levels which provide for the recovery of expenditure incurred or likely to be incurred by the Government or other authority in relation generally to the administration, regulation and control of the matters to which this Ordinance relates, and shall not be limited by reference to the amount of administrative or other costs incurred or likely to be incurred in the provision of any particular service, facility or matter.</content></subsection></section><section id="ID_1438403210290_003" name="s49" reason="inEffect" startPeriod="2022-02-24" status="operational" temporalId="s49"><num value="49">49.</num><heading>Approval of codes of practice by the Director</heading><subsection id="ID_1438412553892_049" name="1" temporalId="s49_1"><num value="1">(1)</num><leadIn>For the purpose of providing practical guidance in respect of any provision of this Ordinance (including any requirement or direction of the Director under any such provision), the Director may—</leadIn><paragraph id="ID_1438412553908_006" name="a" temporalId="s49_1_a"><num value="a">(a)</num><content>approve and issue such codes of practice (whether prepared by him or not) as in his opinion are suitable for that purpose; and</content></paragraph><paragraph id="ID_1438412553908_014" name="b" temporalId="s49_1_b"><num value="b">(b)</num><content>approve such codes of practice issued or proposed to be issued otherwise than by him as in his opinion are suitable for that purpose.</content></paragraph></subsection><subsection id="ID_1438412553908_021" name="2" temporalId="s49_2"><num value="2">(2)</num><leadIn>Where a code of practice is approved under subsection (1), the Director shall, by notice in the Gazette—</leadIn><paragraph id="ID_1438412553908_029" name="a" temporalId="s49_2_a"><num value="a">(a)</num><content>identify the code concerned and specify the date on which its approval is to take effect; and</content></paragraph><paragraph id="ID_1438412553908_037" name="b" temporalId="s49_2_b"><num value="b">(b)</num><content>specify for which provision of this Ordinance the code is so approved.</content></paragraph></subsection><subsection id="ID_1438412553908_044" name="3" temporalId="s49_3"><num value="3">(3)</num><leadIn>The Director may—</leadIn><paragraph id="ID_1438412553908_052" name="a" temporalId="s49_3_a"><num value="a">(a)</num><content>from time to time revise the whole or any part of any code of practice prepared by him pursuant to this section;</content></paragraph><paragraph id="ID_1438412553908_060" name="b" temporalId="s49_3_b"><num value="b">(b)</num><content>approve any revision or proposed revision of the whole or any part of any code of practice for the time being approved under this section,</content></paragraph><continued>and the provisions of subsection (2) shall, with the necessary modifications, apply in relation to the approval of any revision under this subsection as they apply in relation to the approval of a code of practice under subsection (1).</continued></subsection><subsection id="ID_1438412553908_073" name="4" temporalId="s49_4"><num value="4">(4)</num><content>The Director may at any time withdraw his approval from any code of practice approved under this section.</content></subsection><subsection id="ID_1438412553923_005" name="5" temporalId="s49_5"><num value="5">(5)</num><content>Where under subsection (4) the Director withdraws his approval from a code of practice approved under this section, he shall, by notice in the Gazette, identify the code concerned and specify the date on which his approval of it is to cease to have effect.</content></subsection><subsection id="ID_1438412553923_013" name="6" temporalId="s49_6"><num value="6">(6)</num><content>References in this Ordinance to an approved code of practice are references to that code as it has effect for the time being by virtue of any revision of the whole or any part of it approved under this section.</content></subsection><subsection id="ID_1438412553923_021" name="7" temporalId="s49_7"><num value="7">(7)</num><content>The power of the Director under subsection <ref>(1)(b)</ref> to approve a code
+                of practice issued or proposed to be issued otherwise than by him shall include
+                power to approve a part of such a code and, accordingly, in this Ordinance
+                    <term>code
+                    of
+                practice</term>
+                (實務守則) may be read as including a part of such a code.</content></subsection></section><section id="ID_1438403210337_001" name="s50" reason="inEffect" startPeriod="2022-02-24" status="operational" temporalId="s50"><num value="50">50.</num><heading>Use of approved codes of practice in criminal proceedings</heading><subsection id="ID_1438412553955_064" name="1" temporalId="s50_1"><num value="1">(1)</num><content>A failure on the part of any person to observe any provision of an approved code of practice shall not of itself render him liable to any civil or criminal proceedings but where in any criminal proceedings a party is alleged to have committed an offence by reason of a contravention of a provision of this Ordinance, being a provision of this Ordinance for which there was an approved code of practice at the time of the alleged contravention, subsection (2) shall have effect with respect to such code in relation to those proceedings.</content></subsection><subsection id="ID_1438412553970_005" name="2" temporalId="s50_2"><num value="2">(2)</num><content>Any code of practice which appears to a magistrate or court to be relevant to a provision of this Ordinance alleged to have been contravened shall be admissible in evidence in the criminal proceedings concerned and if it is proved that there was at any material time a failure to observe any provision of the code which appears to the magistrate or court to be relevant to any matter which it is necessary for the prosecution to prove in order to establish a contravention of that provision of this Ordinance, that matter shall be taken as proved unless the magistrate or court is satisfied that that provision of this Ordinance was in respect of that matter complied with otherwise than by way of observance of that provision of the code.</content></subsection><subsection id="ID_1438412554001_005" name="3" temporalId="s50_3"><num value="3">(3)</num><content>In any criminal proceedings, a code of practice which appears to a magistrate or court to be the subject of a notice under <ref>section 49(2)</ref> shall, in the absence of contrary evidence, be taken to be the subject of such notice.</content></subsection></section><section id="ID_1438403210353_001" name="s51" reason="inEffect" startPeriod="2022-02-24" status="operational" temporalId="s51"><num value="51">51.</num><heading>Ordinance not to derogate from certain other Ordinances</heading><subsection id="ID_1438412554033_004" name="1" temporalId="s51_1"><num value="1">(1)</num><content>Subject to subsection (2), the provisions of this Ordinance are in addition to, and do not derogate from, the provisions of the Buildings Ordinance (<ref href="/hk/cap123">Cap. 123</ref>) and the Places of Public Entertainment Ordinance (<ref href="/hk/cap172">Cap. 172</ref>).</content></subsection><subsection id="ID_1438412554033_012" name="2" temporalId="s51_2"><num value="2">(2)</num><content>Where there is any conflict or inconsistency between any of the provisions of this Ordinance and any of the provisions of the Buildings Ordinance (<ref href="/hk/cap123">Cap. 123</ref>) or the Places of Public Entertainment Ordinance (<ref href="/hk/cap172">Cap. 172</ref>), the provisions of this Ordinance shall, to the extent of any such conflict or inconsistency, prevail over the provisions of the Buildings Ordinance (<ref href="/hk/cap123">Cap. 123</ref>) or the Places of Public Entertainment Ordinance (<ref href="/hk/cap172">Cap. 172</ref>), as the case may be.</content></subsection></section><section id="ID_1438403210353_003" name="s51A" reason="inEffect" startPeriod="2022-07-01" status="operational" temporalId="s51A"><num value="51A">51A.</num><heading>Amendment of <ref>Schedule 2</ref></heading><content><ref>Schedule 2</ref> may be amended by regulations made by the Secretary
+            for
+            Home and Youth Affairs. </content><sourceNote>(Added <ref href="/hk/1995/72">72 of 1995 s. 13</ref>. Amended <ref href="/hk/1996/ln372">L.N. 372 of 1996</ref>; <ref href="/hk/1998/ln192">L.N. 192 of
+                1998</ref>; <ref href="/hk/1998/ln206">L.N. 206 of 1998</ref>; <ref href="/hk/2022/ln144">L.N. 144 of 2022</ref>)</sourceNote></section><section id="ID_1438403210368_002" name="s52" reason="omittedAsSpent" startPeriod="2022-02-24" status="omitted" temporalId="s52"><num value="52">52.</num><sourceNote>(Omitted as spent—<ref href="/hk/2022/er1">E.R.
+                1
+                of 2022</ref>)</sourceNote></section><section id="ID_1438403210368_004" name="s53" reason="omittedAsSpent" startPeriod="2022-02-24" status="omitted" temporalId="s53"><num value="53">53.</num><sourceNote>(Omitted as spent—<ref href="/hk/2022/er1">E.R.
+                1
+                of 2022</ref>)</sourceNote></section></part><schedule id="ID_1438403210384_002" name="sch1" reason="inEffect" startPeriod="2022-02-24" status="operational" temporalId="sch1"><num value="1">Schedule
+            1</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap449/s34">s. 34</ref>]<sourceNote>(Amended <ref href="/hk/1995/72">72 of
+                    1995 s.
+            14</ref>)</sourceNote></note><heading>Penalties
+            for Offences</heading><text>
+            
+            <table xmlns="http://www.w3.org/1999/xhtml" width="100%" class="repeat_header">
+                <col width="25%"></col>
+                <col width="25%"></col>
+                <col width="25%"></col>
+                <col width="25%"></col>
+                
+                <thead>
+                    <tr>
+                        
+                        <td class="valign_bottom">
+                            
+                            <p class="align_center">Section</p>
+                        </td>
+                        
+                        <td class="valign_bottom">
+                            <p class="align_center">Level
+                                of fine</p>
+                        </td>
+                        <td>
+                            <p class="align_center">Period of
+                                <br></br>imprisonment</p>
+                        </td>
+                        
+                        <td class="valign_bottom">
+                            <p class="align_center">Daily penalty</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        
+                        <td class="align_center "></td>
+                        <td></td>
+                        <td class="align_center">$</td>
+                    </tr>
+                </thead>
+                
+                <tbody>
+                    <tr>
+                        
+                        <td class="cellpadding_right_18">
+                            
+                            <p class="align_center">6</p>
+                        </td>
+                        
+                        <td class="cellpadding_right_28">
+                            
+                            <p class="align_right">Level
+                                3</p>
+                        </td>
+                        
+                        <td class="cellpadding_left_22">
+                            
+                            <p>6 months</p>
+                        </td>
+                        
+                        <td class="cellpadding_right_28">
+                            
+                            <p class="align_right "> 100</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        
+                        <td class="cellpadding_right_5">
+                            
+                            <p class="align_center">7(1)</p>
+                        </td>
+                        
+                        <td class="cellpadding_right_28">
+                            
+                            <p class="align_right">Level
+                                5</p>
+                        </td>
+                        
+                        <td class="cellpadding_left_22">
+                            
+                            <p>2 years</p>
+                        </td>
+                        
+                        <td class="cellpadding_right_28">
+                            
+                            <p class="align_right ">1,000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        
+                        <td class="cellpadding_right_5">
+                            
+                            <p class="align_center">7(2)</p>
+                        </td>
+                        
+                        <td class="cellpadding_right_28">
+                            
+                            <p class="align_right ">Level
+                                5</p>
+                        </td>
+                        
+                        <td class="cellpadding_left_22">
+                            
+                            <p>2 years</p>
+                        </td>
+                        
+                        <td class="cellpadding_right_28">
+                            
+                            <p class="align_right">1,000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        
+                        <td class="cellpadding_right_5">
+                            
+                            <p class="align_center">8(2)</p>
+                        </td>
+                        
+                        <td class="cellpadding_right_28">
+                            
+                            <p class="align_right ">Level
+                                3</p>
+                        </td>
+                        
+                        <td class="cellpadding_left_22">
+                            
+                            <p>6 months</p>
+                        </td>
+                        
+                        <td class="cellpadding_right_28">
+                            
+                            <p class="align_right "> 100</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        
+                        <td class="cellpadding_left_26">
+                            
+                            <p>10</p>
+                        </td>
+                        
+                        <td class="cellpadding_right_28">
+                            
+                            <p class="align_right ">Level
+                                3</p>
+                        </td>
+                        
+                        <td class="cellpadding_left_22">
+                            
+                            <p>6 months</p>
+                        </td>
+                        
+                        <td class="cellpadding_right_28">
+                            
+                            <p class="align_right"> 100</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        
+                        <td class="cellpadding_left_26">
+                            
+                            <p>11(1)</p>
+                        </td>
+                        
+                        <td class="cellpadding_right_28">
+                            
+                            <p class="align_right ">Level
+                                5</p>
+                        </td>
+                        
+                        <td class="cellpadding_left_22">
+                            
+                            <p>2 years</p>
+                        </td>
+                        
+                        <td class="cellpadding_right_28">
+                            
+                            <p class="align_right">1,000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        
+                        <td class="cellpadding_left_26">
+                            
+                            <p>11(2)</p>
+                        </td>
+                        
+                        <td class="cellpadding_right_28">
+                            
+                            <p class="align_right ">Level
+                                5</p>
+                        </td>
+                        
+                        <td class="cellpadding_left_22">
+                            
+                            <p>2 years</p>
+                        </td>
+                        
+                        <td class="cellpadding_right_28">
+                            
+                            <p class="align_right ">1,000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        
+                        <td class="cellpadding_left_26">
+                            
+                            <p>11(3)</p>
+                        </td>
+                        
+                        <td class="cellpadding_right_28">
+                            
+                            <p class="align_right ">Level
+                                5</p>
+                        </td>
+                        
+                        <td class="cellpadding_left_22">
+                            
+                            <p>2 years</p>
+                        </td>
+                        
+                        <td class="cellpadding_right_28">
+                            
+                            <p class="align_right">1,000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        
+                        <td colspan="1" class="cellpadding_left_26">
+                            
+                            <p>11(4)</p>
+                        </td>
+                        
+                        <td class="cellpadding_right_28">
+                            
+                            <p class="align_right ">Level
+                                5</p>
+                        </td>
+                        
+                        <td class="cellpadding_left_22">
+                            
+                            <p>2 years</p>
+                        </td>
+                        
+                        <td class="cellpadding_right_28">
+                            
+                            <p class="align_right ">1,000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        
+                        <td class="cellpadding_left_26">
+                            
+                            <p>12(1)</p>
+                        </td>
+                        
+                        <td class="cellpadding_right_28">
+                            
+                            <p class="align_right ">Level
+                                3</p>
+                        </td>
+                        
+                        <td class="cellpadding_left_22">
+                            
+                            <p>6 months</p>
+                        </td>
+                        
+                        <td class="cellpadding_right_28">
+                            
+                            <p class="align_right "> 100</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        
+                        <td class="cellpadding_left_26">
+                            
+                            <p>12(2)</p>
+                        </td>
+                        
+                        <td class="cellpadding_right_28">
+                            
+                            <p class="align_right ">Level
+                                3</p>
+                        </td>
+                        
+                        <td class="cellpadding_left_22">
+                            
+                            <p>6 months</p>
+                        </td>
+                        
+                        <td class="cellpadding_right_28">
+                            
+                            <p class="align_right"> 100</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        
+                        <td class="cellpadding_left_26">
+                            
+                            <p>13(1)</p>
+                        </td>
+                        
+                        <td class="cellpadding_right_28">
+                            
+                            <p class="align_right ">Level
+                                5</p>
+                        </td>
+                        
+                        <td class="cellpadding_left_22">
+                            
+                            <p>2 years</p>
+                        </td>
+                        
+                        <td class="cellpadding_right_28">
+                            
+                            <p class="align_right ">1,000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        
+                        <td class="cellpadding_left_26">
+                            
+                            <p>13(2)</p>
+                        </td>
+                        
+                        <td class="cellpadding_right_28">
+                            
+                            <p class="align_right ">Level
+                                5</p>
+                        </td>
+                        
+                        <td class="cellpadding_left_22">
+                            
+                            <p>2 years</p>
+                        </td>
+                        
+                        <td class="cellpadding_right_28">
+                            
+                            <p class="align_right ">1,000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        
+                        <td class="cellpadding_left_26">
+                            
+                            <p>13(3)</p>
+                        </td>
+                        
+                        <td class="cellpadding_right_28">
+                            
+                            <p class="align_right ">Level
+                                2</p>
+                        </td>
+                        
+                        <td class="cellpadding_left_35">
+                            
+                            <p>—</p>
+                        </td>
+                        
+                        <td class="cellpadding_left_41">
+                            
+                            <p>—</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        
+                        <td class="cellpadding_left_26">
+                            
+                            <p>13(4)</p>
+                        </td>
+                        
+                        <td class="cellpadding_right_28">
+                            
+                            <p class="align_right">Level
+                                5</p>
+                        </td>
+                        
+                        <td class="cellpadding_left_22">
+                            
+                            <p>2 years</p>
+                        </td>
+                        
+                        <td class="cellpadding_right_28">
+                            
+                            <p class="align_right ">1,000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        
+                        <td class="cellpadding_left_26">
+                            
+                            <p>14</p>
+                        </td>
+                        
+                        <td class="cellpadding_right_28">
+                            
+                            <p class="align_right ">Level
+                                3</p>
+                        </td>
+                        
+                        <td class="cellpadding_left_22">
+                            
+                            <p>6 months</p>
+                        </td>
+                        
+                        <td class="cellpadding_right_33">
+                            
+                            <p class="align_right">—</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        
+                        <td class="cellpadding_left_26">
+                            
+                            <p>15(1)</p>
+                        </td>
+                        
+                        <td class="cellpadding_right_28">
+                            
+                            <p class="align_right">Level
+                                3</p>
+                        </td>
+                        
+                        <td class="cellpadding_left_22">
+                            
+                            <p>6 months</p>
+                        </td>
+                        
+                        <td class="cellpadding_right_28">
+                            
+                            <p class="align_right"> 100</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        
+                        <td class="cellpadding_left_26">
+                            
+                            <p>15(3)</p>
+                        </td>
+                        
+                        <td class="cellpadding_right_28">
+                            
+                            <p class="align_right">Level
+                                5</p>
+                        </td>
+                        
+                        <td class="cellpadding_left_22">
+                            
+                            <p>2 years</p>
+                        </td>
+                        
+                        <td class="cellpadding_right_28">
+                            
+                            <p class="align_right ">1,000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        
+                        <td colspan="1" class="cellpadding_left_26">
+                            
+                            <p>16(2)</p>
+                        </td>
+                        
+                        <td class="cellpadding_right_28">
+                            
+                            <p class="align_right ">Level
+                                3</p>
+                        </td>
+                        
+                        <td class="cellpadding_left_22">
+                            
+                            <p>6 months</p>
+                        </td>
+                        
+                        <td class="cellpadding_right_28">
+                            
+                            <p class="align_right"> 100</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        
+                        <td class="cellpadding_left_26">
+                            
+                            <p>17</p>
+                        </td>
+                        
+                        <td class="cellpadding_right_28">
+                            
+                            <p class="align_right">Level
+                                3</p>
+                        </td>
+                        
+                        <td class="cellpadding_left_22">
+                            
+                            <p>2 years</p>
+                        </td>
+                        
+                        <td class="cellpadding_right_33">
+                            
+                            <p class="align_right ">—</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        
+                        <td class="cellpadding_left_26">
+                            
+                            <p>18</p>
+                        </td>
+                        
+                        <td class="cellpadding_right_28">
+                            
+                            <p class="align_right">Level
+                                2</p>
+                        </td>
+                        
+                        <td class="cellpadding_left_22">
+                            
+                            <p>6 months</p>
+                        </td>
+                        
+                        <td class="cellpadding_right_33">
+                            
+                            <p class="align_right ">—</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        
+                        <td class="cellpadding_left_26">
+                            
+                            <p>19</p>
+                        </td>
+                        
+                        <td class="cellpadding_right_28">
+                            
+                            <p class="align_right ">Level
+                                2</p>
+                        </td>
+                        
+                        <td class="cellpadding_left_22">
+                            
+                            <p>6 months</p>
+                        </td>
+                        
+                        <td class="cellpadding_right_33">
+                            
+                            <p class="align_right">—</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        
+                        <td class="cellpadding_left_26">
+                            
+                            <p>21(4)</p>
+                        </td>
+                        
+                        <td class="cellpadding_right_28">
+                            
+                            <p class="align_right ">Level
+                                2</p>
+                        </td>
+                        
+                        <td class="cellpadding_left_35">
+                            
+                            <p>—</p>
+                        </td>
+                        
+                        <td class="cellpadding_right_33">
+                            
+                            <p class="align_right ">—</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        
+                        <td class="cellpadding_left_26">
+                            
+                            <p>22</p>
+                        </td>
+                        
+                        <td class="cellpadding_right_28">
+                            
+                            <p class="align_right ">Level
+                                2</p>
+                        </td>
+                        
+                        <td class="cellpadding_left_35">
+                            
+                            <p>—</p>
+                        </td>
+                        
+                        <td class="cellpadding_right_28">
+                            
+                            <p class="align_right ">50</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        
+                        <td class="cellpadding_left_26">
+                            
+                            <p>39</p>
+                        </td>
+                        
+                        <td class="cellpadding_right_28">
+                            
+                            <p class="align_right">Level
+                                3</p>
+                        </td>
+                        
+                        <td class="cellpadding_left_22">
+                            
+                            <p>6 months</p>
+                        </td>
+                        
+                        <td class="cellpadding_right_33">
+                            
+                            <p class="align_right">—</p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </text><sourceNote>(Amended <ref href="/hk/2022/er1">E.R. 1 of
+        2022</ref>)</sourceNote></schedule><schedule id="ID_1438403210399_002" name="sch2" reason="inEffect" startPeriod="2022-02-24" status="operational" temporalId="sch2"><num value="2">Schedule
+            2</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap449/s2">ss. 2</ref> &amp; <ref href="/hk/cap449/s51A">51A</ref>]</note><heading>Devices
+            which are Amusement Rides</heading><section id="ID_1438412554157_012" name="s1" temporalId="sch2_s1"><num value="1">1.</num><content>A bungee
+                cord.</content></section><section id="ID_1438412554157_020" name="s2" temporalId="sch2_s2"><num value="2">2.</num><leadIn>A device which is driven solely by human physical effort, solely by gravity or
+                partly by human physical effort and partly by gravity only (that is, it is neither
+                wholly nor partly power driven),
+                and—</leadIn><paragraph id="ID_1438412554173_006" name="a" temporalId="sch2_s2_a"><num value="a">(a)</num><content>whose operation requires the assistance of an individual other than the
+                    person who is riding on the device; or</content></paragraph><paragraph id="ID_1438412554173_015" name="b" temporalId="sch2_s2_b"><num value="b">(b)</num><content>in relation to which the person who is riding on the device may revolve
+                    about a
+                    horizontal
+                    or inclined axis through an angle greater than
+                    90°
+                    on either side of a theoretical vertical plane on which the axis of the device
+                    lies.</content></paragraph></section><section id="ID_1438412554173_022" name="s3" temporalId="sch2_s3"><num value="3">3.</num><def name="Revolve">In this <ref>Schedule</ref>
+                <term>revolve</term>
+                    (<term xml:lang="zh-Hant-HK">旋轉</term>) means rotate or otherwise move in a
+                circular or any other orbit.</def><sourceNote>(Added <ref href="/hk/1995/72">72 of 1995 s. 14</ref>)</sourceNote></section></schedule></main></ordinance>

@@ -1,0 +1,786 @@
+<?xml version="1.0" encoding="UTF-8"?><subLeg xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd" identifier="/hk/cap638E!en" xml:lang="en"><meta><docType>cap</docType><docNumber>638E</docNumber><docStatus>In effect</docStatus><docName>Cap. 638 sub. leg. E</docName><dc:identifier>/hk/cap638E!en</dc:identifier><dc:date>2024-10-31</dc:date><dc:subject>legislation</dc:subject><dc:language>en</dc:language><dc:publisher>DoJ</dc:publisher><dc:rights>The Government of the Hong Kong Special Administrative Region</dc:rights></meta><main><docTitle startPeriod="2022-02-24" status="operational" reason="inEffect" id="ID_1622773152669_001" name="shortTitle" temporalId="shortTitle">
+            <content>Court Proceedings (Electronic Technology) (District Court) (Electronic Fees)
+                Rules</content>
+        </docTitle><enactingFormula>(<ref href="/hk/cap638/s29">Cap. 638, section
+            29</ref>)</enactingFormula><sourceNote>(Enacting provision omitted—<ref href="hk/2022/er1">E.R. 1 of 2022</ref>)</sourceNote><commencementNote>[1 October 2021]</commencementNote><part startPeriod="2021-10-01T00:00:00" status="operational" reason="inEffect" id="ID_1626314544940_002" name="P1" temporalId="P1"><num value="1">Part 1</num><heading>Preliminary</heading><section startPeriod="2022-02-24" status="omitted" reason="omittedAsSpent" id="ID_1626314544974_003" name="s1" temporalId="s1"><num value="1">1.</num><sourceNote>(Omitted as spent—<ref href="hk/2022/er1">E.R. 1 of 2022</ref>)</sourceNote></section><section startPeriod="2022-12-21" status="operational" reason="inEffect" id="ID_1626314544996_004" name="s2" temporalId="s2"><num value="2">2.</num><heading>Interpretation</heading><leadIn>In these Rules—</leadIn><def name="ConcessionaryPeriod"><term>concessionary period</term> (<term xml:lang="zh-Hant-HK">寬減期</term>) means the
+            period of 5 years beginning on the earliest date specified under <ref>section
+                32(2)</ref> of the Ordinance in relation to the District Court; <sourceNote>(<ref href="hk/2022/ln188">L.N. 188 of 2022</ref>)</sourceNote></def><def name="CourtrelatedMatter"><term>court-related matter</term> (<term xml:lang="zh-Hant-HK">法院相關事宜</term>) means—<paragraph id="ID_1626314545068_005" name="a" temporalId="s2_a"><num value="a">(a)</num><content>an act or matter that relates to a proceeding in the District Court;
+                    or</content></paragraph><paragraph id="ID_1626314545080_006" name="b" temporalId="s2_b"><num value="b">(b)</num><content>a service, or other matter, made available or provided by the District
+                    Court, the Registry or an office of the District Court;</content></paragraph></def><def name="DCFeesRules"><term>DC Fees Rules</term> (<term xml:lang="zh-Hant-HK">《區院費用規則》</term>) means the District Court (Fees) Rules (<ref href="/hk/cap336C">Cap. 336 sub. leg. C</ref>);</def><def name="EARegulation"><term>EA Regulation</term> (<term xml:lang="zh-Hant-HK">《地產代理規例》</term>) means the Estate Agents (Registration of Determination and Appeal)
+            Regulation (<ref href="/hk/cap511E">Cap. 511 sub. leg. E</ref>);</def><def name="Efee"><term>e-fee</term> (<term xml:lang="zh-Hant-HK">電子費用</term>) means a fee
+            that is payable under these Rules for a court-related matter that is carried out by
+            means of an e-system;</def><def name="LTFeesRules"><term>LT Fees Rules</term> (<term xml:lang="zh-Hant-HK">《審裁處費用規則》</term>) means the Labour Tribunal (Fees) Rules (<ref href="/hk/cap25B">Cap. 25 sub. leg. B</ref>);</def><def name="RDC"><term>RDC</term> (<term xml:lang="zh-Hant-HK">《區院規則》</term>) means the Rules
+            of the District Court (<ref href="/hk/cap336H">Cap. 336 sub. leg. H</ref>);</def><def name="Registrar"><term>Registrar</term> (<term xml:lang="zh-Hant-HK">司法常務官</term>) has
+            the meaning given by <ref>section 2</ref> of the District Court Ordinance (<ref href="/hk/cap336">Cap. 336</ref>);</def><def name="Registry"><term>Registry</term> (<term xml:lang="zh-Hant-HK">登記處</term>) means
+            the registry of the District Court.</def></section></part><part startPeriod="2021-10-01T00:00:00" status="operational" reason="inEffect" id="ID_1626314545181_007" name="P2" temporalId="P2"><num value="2">Part 2</num><heading>Application</heading><section startPeriod="2021-10-01T00:00:00" status="operational" reason="inEffect" id="ID_1626314545183_008" name="s3" temporalId="s3"><num value="3">3.</num><heading>Application</heading><content>These Rules apply in relation to a court-related matter that is carried out by means of an e-system.</content></section></part><part startPeriod="2021-10-01T00:00:00" status="operational" reason="inEffect" id="ID_1626314545188_009" name="P3" temporalId="P3"><num value="3">Part 3</num><heading>e-fees Payable for Certain Proceedings in District Court</heading><section startPeriod="2021-10-01T00:00:00" status="operational" reason="inEffect" id="ID_1626314545210_010" name="s4" temporalId="s4"><num value="4">4.</num><heading>e-fees payable for District Court civil proceedings</heading><subsection id="ID_1626314545212_011" name="1" temporalId="s4_1"><num value="1">(1)</num><leadIn>Subject to subrule (2), the following e-fee is payable for a court-related matter described in column 2 (<b><i>relevant matter</i></b>)—</leadIn><paragraph id="ID_1626314545216_012" name="a" temporalId="s4_1_a"><num value="a">(a)</num><content>during a period other than the concessionary period—the DC civil fee for the item that bears the item number specified in column 3 opposite to the relevant matter;</content></paragraph><paragraph id="ID_1626314545224_013" name="b" temporalId="s4_1_b"><num value="b">(b)</num><content>during the concessionary period—a fee of an amount equivalent to 80% of the DC civil fee for the item that bears the item number specified in column 3 opposite to the relevant matter.</content></paragraph></subsection><subsection id="ID_1626314545228_014" name="2" temporalId="s4_2"><num value="2">(2)</num><content>No e-fee is payable for item <ref>4(a)</ref> of <ref>Part 1</ref> of the Schedule.</content></subsection><subsection id="ID_1626314545232_015" name="3" temporalId="s4_3"><num value="3">(3)</num><content>In this rule, a reference to a column is a reference to a column of <ref>Part 1</ref> of the Schedule.</content></subsection><subsection id="ID_1626314545235_016" name="4" temporalId="s4_4"><num value="4">(4)</num><leadIn>In this rule—</leadIn><def name="DCCivilFee"><term>DC civil fee</term> (<term xml:lang="zh-Hant-HK">區院民事費用</term>), in relation to an item, means a fee specified or described for the item in <ref>Part 1</ref> of the <ref>Schedule </ref>to the DC Fees Rules.</def></subsection></section><section startPeriod="2021-10-01T00:00:00" status="operational" reason="inEffect" id="ID_1626314545258_017" name="s5" temporalId="s5"><num value="5">5.</num><heading>e-fees payable for District Court criminal proceedings</heading><subsection id="ID_1626314545260_018" name="1" temporalId="s5_1"><num value="1">(1)</num><leadIn>Subject to subrule (2), the following e-fee is payable for a court-related matter described in column 2 (<b><i>relevant matter</i></b>)—</leadIn><paragraph id="ID_1626314545263_019" name="a" temporalId="s5_1_a"><num value="a">(a)</num><content>during a period other than the concessionary period—the DC criminal fee for the item that bears the item number specified in column 3 opposite to the relevant matter;</content></paragraph><paragraph id="ID_1626314545267_020" name="b" temporalId="s5_1_b"><num value="b">(b)</num><content>during the concessionary period—a fee of an amount equivalent to 80% of the DC criminal fee for the item that bears the item number specified in column 3 opposite to the relevant matter.</content></paragraph></subsection><subsection id="ID_1626314545269_021" name="2" temporalId="s5_2"><num value="2">(2)</num><content>No e-fee is payable for item <ref>2(a)</ref> of <ref>Part 2</ref> of the Schedule.</content></subsection><subsection id="ID_1626314545272_022" name="3" temporalId="s5_3"><num value="3">(3)</num><content>In this rule, a reference to a column is a reference to a column of <ref>Part 2</ref> of the Schedule.</content></subsection><subsection id="ID_1626314545274_023" name="4" temporalId="s5_4"><num value="4">(4)</num><leadIn>In this rule—</leadIn><def name="DCCriminalFee"><term>DC criminal fee</term> (<term xml:lang="zh-Hant-HK">區院刑事費用</term>), in relation to an item, means a fee specified for the item in <ref>Part 2</ref> of the <ref>Schedule </ref>to the DC Fees Rules.</def></subsection></section><section startPeriod="2021-10-01T00:00:00" status="operational" reason="inEffect" id="ID_1626314545295_024" name="s6" temporalId="s6"><num value="6">6.</num><heading>e-fees payable for proceedings under Part III of <ref href="/hk/cap7">Cap. 7</ref></heading><subsection id="ID_1626314545300_025" name="1" temporalId="s6_1"><num value="1">(1)</num><leadIn>The following e-fee is payable for distraint for rent under Part III of <ref href="/hk/cap7">Cap. 7</ref>—</leadIn><paragraph id="ID_1626314545311_026" name="a" temporalId="s6_1_a"><num value="a">(a)</num><content>during a period other than the concessionary period—the distraint fee specified for the sum sued for;</content></paragraph><paragraph id="ID_1626314545314_027" name="b" temporalId="s6_1_b"><num value="b">(b)</num><content>during the concessionary period—a fee of an amount equivalent to 80% of the distraint fee specified for the sum sued for.</content></paragraph></subsection><subsection id="ID_1626314545315_028" name="2" temporalId="s6_2"><num value="2">(2)</num><leadIn>In this rule—</leadIn><def name="Cap7"><term><ref href="/hk/cap7">Cap. 7</ref></term> (<term xml:lang="zh-Hant-HK">《<ref href="/hk/cap7">第7章</ref>》</term>) means the Landlord and Tenant (Consolidation) Ordinance (<ref href="/hk/cap7">Cap. 7</ref>);</def><def name="DistraintFee"><term>distraint fee</term> (<term xml:lang="zh-Hant-HK">財物扣押費</term>) means a fee specified under the column headed “Fee for every affidavit, warrant to distrain, notice or other document” in the <ref>Fourth Schedule </ref>to <ref href="/hk/cap7">Cap. 7</ref>.</def></subsection></section><section startPeriod="2021-10-01T00:00:00" status="operational" reason="inEffect" id="ID_1626314545370_029" name="s7" temporalId="s7"><num value="7">7.</num><heading>e-fees in relation to Labour Tribunal proceedings</heading><subsection id="ID_1626314545372_030" name="1" temporalId="s7_1"><num value="1">(1)</num><leadIn>The following e-fee is payable for a court-related matter described in column 2 (<i><b>relevant matter</b></i>)—</leadIn><paragraph id="ID_1626314545376_031" name="a" temporalId="s7_1_a"><num value="a">(a)</num><content>during a period other than the concessionary period—the LT fee for the item that bears the item number specified in column 3 opposite to the relevant matter;</content></paragraph><paragraph id="ID_1626314545385_032" name="b" temporalId="s7_1_b"><num value="b">(b)</num><content>during the concessionary period—a fee of an amount equivalent to 80% of the LT fee for the item that bears the item number specified in column 3 opposite to the relevant matter.</content></paragraph></subsection><subsection id="ID_1626314545387_033" name="2" temporalId="s7_2"><num value="2">(2)</num><content>In this rule, a reference to a column is a reference to a column in <ref>Part 3</ref> of the Schedule.</content></subsection><subsection id="ID_1626314545390_034" name="3" temporalId="s7_3"><num value="3">(3)</num><leadIn>In this rule—</leadIn><def name="LTFee"><term>LT fee</term> (<term xml:lang="zh-Hant-HK">審裁處費用</term>), in relation to an item, means a fee specified for the item in the <ref>Schedule </ref>to the LT Fees Rules.</def></subsection></section><section startPeriod="2021-10-01T00:00:00" status="operational" reason="inEffect" id="ID_1626314545397_035" name="s8" temporalId="s8"><num value="8">8.</num><heading>e-fees in relation to proceedings under EA Regulation</heading><subsection id="ID_1626314545404_036" name="1" temporalId="s8_1"><num value="1">(1)</num><leadIn>The following e-fee is payable for a court-related matter described in column 2 (<b><i>relevant matter</i></b>)—</leadIn><paragraph id="ID_1626314545409_037" name="a" temporalId="s8_1_a"><num value="a">(a)</num><content>during a period other than the concessionary period—the EA fee for the item that bears the item number specified in column 3 opposite to the relevant matter;</content></paragraph><paragraph id="ID_1626314545417_038" name="b" temporalId="s8_1_b"><num value="b">(b)</num><content>during the concessionary period—a fee of an amount equivalent to 80% of the EA fee for the item that bears the item number specified in column 3 opposite to the relevant matter.</content></paragraph></subsection><subsection id="ID_1626314545438_039" name="2" temporalId="s8_2"><num value="2">(2)</num><content>In this rule, a reference to a column is a reference to a column in <ref>Part 4</ref> of the Schedule.</content></subsection><subsection id="ID_1626314545443_040" name="3" temporalId="s8_3"><num value="3">(3)</num><leadIn>In this rule—</leadIn><def name="EAFee"><term>EA fee</term> (<term xml:lang="zh-Hant-HK">地產代理費用</term>), in relation to an item, means a fee specified for the item in <ref>Schedule 2</ref> to the EA Regulation.</def></subsection></section><section id="ID_1726196558380_001" name="s8A" temporalId="s8A" startPeriod="2024-10-31" status="operational" reason="inEffect"><num value="8A">8A.</num><heading>e-fees payable
+            for applications for certified copies of Hong Kong Judgments</heading><leadIn>The following e-fee is payable for an application under section 33(1) of the
+            Mainland Judgments in Civil and Commercial Matters (Reciprocal Enforcement) Ordinance
+                (<ref href="/hk/cap645">Cap.
+                645</ref>)—</leadIn><paragraph name="a" temporalId="s8A_a" id="ID_1726197045313_001"><num value="a">(a)</num><content>during a period other than the concessionary period—the prescribed fee
+                mentioned in section 33(2)(b) of that Ordinance;</content></paragraph><paragraph name="b" temporalId="s8A_b" id="ID_1726197045313_002"><num value="b">(b)</num><content>during the concessionary period—a fee of an amount equivalent to 80% of that
+                prescribed fee.</content></paragraph><sourceNote>(<ref href="/hk/2024/ln114">L.N. 114 of 2024</ref>)</sourceNote></section></part><part startPeriod="2021-10-01T00:00:00" status="operational" reason="inEffect" id="ID_1626314545448_041" name="P4" temporalId="P4"><num value="4">Part 4</num><heading>Miscellaneous</heading><section startPeriod="2024-10-31" status="operational" reason="inEffect" id="ID_1626314545450_042" name="s9" temporalId="s9"><num value="9">9.</num><heading>Rounding rule for e-fees payable during concessionary period</heading><subsection id="ID_1626314545453_043" name="1" temporalId="s9_1"><num value="1">(1)</num><content>A concessionary fee that is less than $5 must be rounded to the nearest 10 cents.</content></subsection><subsection id="ID_1626314545457_044" name="2" temporalId="s9_2"><num value="2">(2)</num><content>A concessionary fee that is $5 or more but less than $10 must be rounded to the nearest 50 cents.</content></subsection><subsection id="ID_1626314545459_045" name="3" temporalId="s9_3"><num value="3">(3)</num><content>A concessionary fee that is $10 or more but less than $100 must be rounded to the nearest whole dollar.</content></subsection><subsection id="ID_1626314545461_046" name="4" temporalId="s9_4"><num value="4">(4)</num><content>A concessionary fee that is $100 or more but less than $1,000 and is not a multiplier of $5 must be rounded to the nearest multiplier of $5.</content></subsection><subsection id="ID_1626314545463_047" name="5" temporalId="s9_5"><num value="5">(5)</num><content>A concessionary fee that is $1,000 or more but less than $10,000 and is not a multiplier of $10 must be rounded to the nearest multiplier of $10.</content></subsection><subsection id="ID_1626314545465_048" name="6" temporalId="s9_6"><num value="6">(6)</num><content>A concessionary fee that is $10,000 or more but less than $100,000 and is not a multiplier of $50 must be rounded to the nearest multiplier of $50.</content></subsection><subsection id="ID_1626314545468_049" name="7" temporalId="s9_7"><num value="7">(7)</num><content>A concessionary fee that is $100,000 or more and is not a multiplier of $100 must be rounded to the nearest multiplier of $100.</content></subsection><subsection id="ID_1626314545470_050" name="8" temporalId="s9_8"><num value="8">(8)</num><leadIn>In this rule—</leadIn><def name="ConcessionaryFee"><term>concessionary fee</term> (<term xml:lang="zh-Hant-HK">寬減費用</term>) means the e-fee payable under <ref>rule 4(1)(b)</ref>,
+                    <ref>5(1)(b)</ref>, <ref>6(1)(b)</ref>,
+                <ref>7(1)(b)</ref>,
+                    <ref>8(1)(b)</ref> or <ref>8A(b).</ref>
+                <sourceNote>(<ref href="/hk/2024/ln114">L.N. 114 of
+                2024</ref>)</sourceNote></def></subsection></section><section startPeriod="2021-10-01T00:00:00" status="operational" reason="inEffect" id="ID_1626314545480_051" name="s10" temporalId="s10"><num value="10">10.</num><heading>Specific fee payable instead of general fee</heading><content>If an e-fee is specified specifically for a court-related matter, that fee is payable in substitution for and not in addition to any other general e-fee that is also payable for the matter.</content></section><section startPeriod="2021-10-01T00:00:00" status="operational" reason="inEffect" id="ID_1626314545483_052" name="s11" temporalId="s11"><num value="11">11.</num><heading>Power of Registrar</heading><subsection id="ID_1626314545484_053" name="1" temporalId="s11_1"><num value="1">(1)</num><content>The Registrar may reduce, remit or defer payment of an e-fee as the Registrar considers appropriate in a particular case.</content></subsection><subsection id="ID_1626314545485_054" name="2" temporalId="s11_2"><num value="2">(2)</num><content>If the Registrar exercises the power under subrule (1), the Registrar must endorse on the relevant document a note of the reduction, remission or deferment and the reason for it.</content></subsection></section></part><schedule startPeriod="2021-10-01" status="operational" reason="inEffect" id="ID_1626314545499_055" name="sch0" temporalId="sch0"><num value="0">Schedule </num><note role="crossReferences" type="inline">[<ref href="/hk/cap638E/s4">rr. 4</ref>,
+                <ref href="/hk/cap638E/s5">5</ref>,
+                <ref href="/hk/cap638E/s7">7</ref> &amp;
+                <ref href="/hk/cap638E/s8">8</ref>]</note><heading>e-fees</heading><part id="ID_1626314545503_056" name="P1" temporalId="sch0_P1"><num value="1">Part 1</num><heading>Fees Specified or Described in <ref>Part 1</ref> of <ref>Schedule </ref>to DC
+                Fees
+                Rules</heading><content alignTo="P1Table" name="P1Table">
+                <table xmlns="http://www.w3.org/1999/xhtml" width="447" class="left_indent_0 repeat_header">
+                    <colgroup>
+                        <col width="14.31%"></col>
+                        <col width="53.67%"></col>
+                        <col width="32.02%"></col>
+                    </colgroup>
+                    <thead>
+                        <tr>
+                            <td class="align_left valign_bottom">
+                                
+                                <p class="align_justified above_space_between_line_4 below_space_between_line_0">Column 1</p>
+                            </td>
+                            <td class="align_left valign_bottom">
+                                
+                                <p class="align_center above_space_between_line_4 below_space_between_line_0">Column 2</p>
+                            </td>
+                            <td class="align_left valign_bottom">
+                                
+                                <p class="align_center above_space_between_line_4 below_space_between_line_0">Column 3</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="align_left valign_bottom">
+                                <p></p>
+                            </td>
+                            <td class="align_left valign_bottom">
+                                <p></p>
+                            </td>
+                            <td class="align_left valign_bottom">
+                                <p></p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="align_left valign_bottom">
+                                <p class="align_justified">Item</p>
+                            </td>
+                            <td class="align_left valign_bottom">
+                                <p class="align_center">Description</p>
+                            </td>
+                            <td class="align_left valign_bottom">
+                                <p class="align_center">Corresponding item in <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Part 1</ref>
+                                    of <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Schedule
+                                    </ref>to DC Fees Rules</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="align_left valign_bottom">
+                                <p></p>
+                            </td>
+                            <td class="align_left valign_bottom">
+                                <p></p>
+                            </td>
+                            <td class="align_left valign_bottom">
+                                <p></p>
+                            </td>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td class="align_left">
+                                <p class="align_justified">1.</p>
+                            </td>
+                            <td class="align_left">
+                                <p>On sealing—</p>
+                            </td>
+                            <td class="align_left">
+                                <p></p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="align_left">
+                                <p></p>
+                            </td>
+                            <td class="align_left">
+                                <paragraph xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" id="ID_1626314545629_057" name="a" temporalId="sch0_P1_a" class="left_indent_24 first_line_indent_-24 below_space_between_line_4"><num value="a">(a)</num><content class="align_left font_size_11">a writ of summons
+                                        (except a concurrent, renewed or amended writ), per
+                                        writ</content></paragraph>
+                            </td>
+                            <td class="align_left">
+                                <p class="align_center">1(a)</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="align_left">
+                                <p></p>
+                            </td>
+                            <td class="align_left">
+                                <paragraph xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" id="ID_1626314545636_058" name="b" temporalId="sch0_P1_b" class="left_indent_24 first_line_indent_-24 below_space_between_line_4"><num value="b">(b)</num><content class="align_left font_size_11">an originating summons,
+                                        per summons</content></paragraph>
+                            </td>
+                            <td class="align_left">
+                                <p class="align_center">1(b)</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="align_left">
+                                <p></p>
+                            </td>
+                            <td class="align_left">
+                                <paragraph xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" id="ID_1626314545640_059" name="c" temporalId="sch0_P1_c" class="left_indent_24 first_line_indent_-24 below_space_between_line_4"><num value="c">(c)</num><content class="align_left font_size_11">an originating ex parte
+                                        application, per application</content></paragraph>
+                            </td>
+                            <td class="align_left">
+                                <p class="align_center">1(c)</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="align_left">
+                                <p></p>
+                            </td>
+                            <td class="align_left">
+                                <paragraph xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" id="ID_1626314545644_060" name="d" temporalId="sch0_P1_d" class="left_indent_24 first_line_indent_-24 below_space_between_line_4"><num value="d">(d)</num><content class="align_left font_size_11">any other originating
+                                        document, per document</content></paragraph>
+                            </td>
+                            <td class="align_left">
+                                <p class="align_center">1(d)</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="align_left valign_bottom">
+                                <p></p>
+                            </td>
+                            <td class="align_left valign_bottom">
+                                <p></p>
+                            </td>
+                            <td class="align_left valign_bottom">
+                                <p></p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="align_left">
+                                <p class="align_justified">2.</p>
+                            </td>
+                            <td class="align_left">
+                                <paragraph xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" id="ID_1626314545664_061" name="a" temporalId="sch0_P1_a" class="left_indent_24 first_line_indent_-24 below_space_between_line_4"><num value="a">(a)</num><content class="align_left font_size_11">Setting down a cause or
+                                        issue for hearing</content></paragraph>
+                            </td>
+                            <td class="align_left">
+                                <p class="align_center">2(a)</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="align_left">
+                                <p></p>
+                            </td>
+                            <td class="align_left">
+                                <paragraph xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" id="ID_1626314545671_062" name="b" temporalId="sch0_P1_b" class="left_indent_24 first_line_indent_-24 below_space_between_line_4"><num value="b">(b)</num><content class="align_left font_size_11">Setting down a civil
+                                        appeal, motion or summons for hearing</content></paragraph>
+                            </td>
+                            <td class="align_left">
+                                <p class="align_center">2(b)</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="align_left">
+                                <p></p>
+                            </td>
+                            <td class="align_left">
+                                <paragraph xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" id="ID_1626314545680_063" name="c" temporalId="sch0_P1_c" class="left_indent_24 first_line_indent_-24 below_space_between_line_4"><num value="c">(c)</num><content class="align_left font_size_11">Entering a reference
+                                        for hearing of an assessment of damages by a judge or the
+                                        Registrar</content></paragraph>
+                            </td>
+                            <td class="align_left">
+                                <p class="align_center">2(c)</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="align_left valign_bottom">
+                                <p></p>
+                            </td>
+                            <td class="align_left valign_bottom">
+                                <p></p>
+                            </td>
+                            <td class="align_left valign_bottom">
+                                <p></p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="align_left">
+                                <p class="align_justified">3.</p>
+                            </td>
+                            <td class="align_left">
+                                <p>Copy of a document typed in the Registry and certifying same, per
+                                    page</p>
+                            </td>
+                            <td class="align_left">
+                                <p class="align_center">8(a)</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="align_left valign_bottom">
+                                <p></p>
+                            </td>
+                            <td class="align_left valign_bottom">
+                                <p></p>
+                            </td>
+                            <td class="align_left valign_bottom">
+                                <p></p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="align_left">
+                                <p class="align_justified">4.</p>
+                            </td>
+                            <td class="align_left">
+                                <paragraph xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" id="ID_1626314545723_064" name="a" temporalId="sch0_P1_a" class="left_indent_24 first_line_indent_-24 below_space_between_line_4"><num value="a">(a)</num><content class="align_left font_size_11">Copy of a document
+                                        obtained from an e-system</content></paragraph>
+                            </td>
+                            <td class="align_left">
+                                <p class="align_center">9(a)</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="align_left">
+                                <p></p>
+                            </td>
+                            <td class="align_left">
+                                <paragraph xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" id="ID_1626314545730_065" name="b" temporalId="sch0_P1_b" class="left_indent_24 first_line_indent_-24 below_space_between_line_4"><num value="b">(b)</num><content class="align_left font_size_11">Copy of a document made
+                                        in the Registry and certification, per page</content></paragraph>
+                            </td>
+                            <td class="align_left">
+                                <p class="align_center">9(b)</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="align_left valign_bottom">
+                                <p></p>
+                            </td>
+                            <td class="align_left valign_bottom">
+                                <p></p>
+                            </td>
+                            <td class="align_left valign_bottom">
+                                <p></p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="align_left">
+                                <p class="align_justified">5.</p>
+                            </td>
+                            <td class="align_left">
+                                <paragraph xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" id="ID_1626314545765_066" name="a" temporalId="sch0_P1_a" class="left_indent_24 first_line_indent_-24 below_space_between_line_4"><num value="a">(a)</num><content class="align_left font_size_11">Translation made in the
+                                        Registry of a document from Chinese into English, or vice
+                                        versa, including certificate, per page</content></paragraph>
+                            </td>
+                            <td class="align_left">
+                                <p class="align_center">10(a)</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="align_left">
+                                <p></p>
+                            </td>
+                            <td class="align_left">
+                                <paragraph xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" id="ID_1626314545769_067" name="b" temporalId="sch0_P1_b" class="left_indent_24 first_line_indent_-24 below_space_between_line_4"><num value="b">(b)</num><content class="align_left font_size_11">Transcription and
+                                        translation made in the Registry from Chinese into English,
+                                        or vice versa, of a tape or recording including certificate,
+                                        per page</content></paragraph>
+                            </td>
+                            <td class="align_left">
+                                <p class="align_center">10(b)</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="align_left valign_bottom">
+                                <p></p>
+                            </td>
+                            <td class="align_left valign_bottom">
+                                <p></p>
+                            </td>
+                            <td class="align_left valign_bottom">
+                                <p></p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="align_left">
+                                <p class="align_justified">6.</p>
+                            </td>
+                            <td class="align_left">
+                                <paragraph xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" id="ID_1626314545774_068" name="a" temporalId="sch0_P1_a" class="left_indent_24 first_line_indent_-24 below_space_between_line_4"><num value="a">(a)</num><content class="align_left font_size_11">Certifying translation
+                                        made outside the Registry from Chinese into English, or vice
+                                        versa, per page</content></paragraph>
+                            </td>
+                            <td class="align_left">
+                                <p class="align_center">11(a)</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="align_left">
+                                <p></p>
+                            </td>
+                            <td class="align_left">
+                                <paragraph xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" id="ID_1626314545777_069" name="b" temporalId="sch0_P1_b" class="left_indent_24 first_line_indent_-24 below_space_between_line_4"><num value="b">(b)</num><content class="align_left font_size_11">Certifying
+                                        transcription made outside the Registry from Chinese into
+                                        English, or vice versa, of a tape or recording, per
+                                        page</content></paragraph>
+                            </td>
+                            <td class="align_left">
+                                <p class="align_center">11(b)</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="align_left valign_bottom">
+                                <p></p>
+                            </td>
+                            <td class="align_left valign_bottom">
+                                <p></p>
+                            </td>
+                            <td class="align_left valign_bottom">
+                                <p></p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="align_left">
+                                <p class="align_justified">7.</p>
+                            </td>
+                            <td class="align_left">
+                                <p>Search in the Registry, for each document or file referred to or
+                                    required</p>
+                            </td>
+                            <td class="align_left">
+                                <p class="align_center">12</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="align_left valign_bottom">
+                                <p></p>
+                            </td>
+                            <td class="align_left valign_bottom">
+                                <p></p>
+                            </td>
+                            <td class="align_left valign_bottom">
+                                <p></p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="align_left">
+                                <p class="align_justified">8.</p>
+                            </td>
+                            <td class="align_left">
+                                <p>On sealing—</p>
+                            </td>
+                            <td class="align_left">
+                                <p></p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="align_left">
+                                <p></p>
+                            </td>
+                            <td class="align_left">
+                                <paragraph xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" id="ID_1626314545800_070" name="a" temporalId="sch0_P1_a" class="left_indent_24 first_line_indent_-24 below_space_between_line_4"><num value="a">(a)</num><content class="align_left font_size_11">a warrant for arrest of
+                                        a defendant or for the attachment of property before
+                                        judgment, per warrant</content></paragraph>
+                            </td>
+                            <td class="align_left">
+                                <p class="align_center">16(a)</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="align_left">
+                                <p></p>
+                            </td>
+                            <td class="align_left">
+                                <paragraph xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" id="ID_1626314545804_071" name="b" temporalId="sch0_P1_b" class="left_indent_24 first_line_indent_-24 below_space_between_line_4"><num value="b">(b)</num><content class="align_left font_size_11">a writ of execution or
+                                        writ of possession, per writ</content></paragraph>
+                            </td>
+                            <td class="align_left">
+                                <p class="align_center">16(b)</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="align_left">
+                                <p></p>
+                            </td>
+                            <td class="align_left">
+                                <paragraph xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" id="ID_1626314545807_072" name="c" temporalId="sch0_P1_c" class="left_indent_24 first_line_indent_-24 below_space_between_line_4"><num value="c">(c)</num><content class="align_left font_size_11">a prohibitory order,
+                                        per order</content></paragraph>
+                            </td>
+                            <td class="align_left">
+                                <p class="align_center">16(c)</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="align_left">
+                                <p></p>
+                            </td>
+                            <td class="align_left">
+                                <paragraph xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" id="ID_1626314545809_073" name="d" temporalId="sch0_P1_d" class="left_indent_24 first_line_indent_-24 below_space_between_line_4"><num value="d">(d)</num><content class="align_left font_size_11">an order for the
+                                        examination of a judgment debtor (or an officer of a
+                                        judgment debtor), per order</content></paragraph>
+                            </td>
+                            <td class="align_left">
+                                <p class="align_center">16(d)</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="align_left">
+                                <p></p>
+                            </td>
+                            <td class="align_left">
+                                <paragraph xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" id="ID_1626314545813_074" name="e" temporalId="sch0_P1_e" class="left_indent_24 first_line_indent_-24 below_space_between_line_4"><num value="e">(e)</num><content class="align_left font_size_11">a prohibition order,
+                                        per order</content></paragraph>
+                            </td>
+                            <td class="align_left">
+                                <p class="align_center">16(e)</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="align_left valign_bottom">
+                                <p></p>
+                            </td>
+                            <td class="align_left valign_bottom">
+                                <p></p>
+                            </td>
+                            <td class="align_left valign_bottom">
+                                <p></p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="align_left">
+                                <p class="align_justified">9.</p>
+                            </td>
+                            <td class="align_left">
+                                <p>On the filing of a notice of commencement of taxation under Order
+                                    62, <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">rule
+                                        21(1)</ref> of the RDC or on any assessment or determination
+                                    of costs pursuant to any court order or Ordinance (except
+                                    assessment under Order 62, <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">rule 9</ref>
+                                    or <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">9A</ref>
+                                    of the RDC), for every $100 or fraction of $100 of the amount
+                                    claimed</p>
+                            </td>
+                            <td class="align_left">
+                                <p class="align_center">20</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="align_left valign_bottom">
+                                <p></p>
+                            </td>
+                            <td class="align_left valign_bottom">
+                                <p></p>
+                            </td>
+                            <td class="align_left valign_bottom">
+                                <p></p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="align_left">
+                                <p class="align_justified">10.</p>
+                            </td>
+                            <td class="align_left">
+                                <p>Withdrawal of a bill of costs within 7 days after the application
+                                    for setting down the taxation under Order 62, <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">rule
+                                        21A(1)</ref> of the RDC is made</p>
+                            </td>
+                            <td class="align_left">
+                                <p class="align_center">20a</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="align_left valign_bottom">
+                                <p></p>
+                            </td>
+                            <td class="align_left valign_bottom">
+                                <p></p>
+                            </td>
+                            <td class="align_left valign_bottom">
+                                <p></p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="align_left">
+                                <p class="align_justified">11.</p>
+                            </td>
+                            <td class="align_left">
+                                <p>Authentication of a document by the Registrar</p>
+                            </td>
+                            <td class="align_left">
+                                <p class="align_center">21</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="align_left">
+                                <p class="align_justified">12.</p>
+                            </td>
+                            <td class="align_left">
+                                <p>On sealing a notice in Form No. 80 under Order 50, <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">rule
+                                        11(2)</ref> of the RDC, per notice</p>
+                            </td>
+                            <td class="align_left">
+                                <p class="align_center">22</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="align_left valign_bottom">
+                                <p></p>
+                            </td>
+                            <td class="align_left valign_bottom">
+                                <p></p>
+                            </td>
+                            <td class="align_left valign_bottom">
+                                <p></p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="align_left">
+                                <p class="align_justified">13.</p>
+                            </td>
+                            <td class="align_left">
+                                <p>On sealing an injunction order undertaken before commencement of
+                                    a cause, per order</p>
+                            </td>
+                            <td class="align_left">
+                                <p class="align_center">23</p>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </content></part><part id="ID_1626314545847_075" name="P2" temporalId="sch0_P2"><num value="2">Part 2</num><heading>Fees Specified in <ref>Part 2</ref> of <ref>Schedule </ref>to DC Fees
+                Rules<marker role="blank-line"></marker></heading><content>
+                <table xmlns="http://www.w3.org/1999/xhtml" width="440" class="left_indent_0 repeat_header">
+                    <colgroup>
+                        <col width="14.55%"></col>
+                        <col width="54.55%"></col>
+                        <col width="30.91%"></col>
+                    </colgroup>
+                    <thead>
+                        <tr class="break_rows">
+                            <td class="align_left valign_bottom">
+                                
+                                <p class="align_justified above_space_between_line_4 below_space_between_line_0">Column 1</p>
+                            </td>
+                            <td class="align_left valign_bottom">
+                                
+                                <p class="align_center above_space_between_line_4 below_space_between_line_0">Column 2</p>
+                            </td>
+                            <td class="align_left valign_bottom">
+                                
+                                <p class="align_center above_space_between_line_4 below_space_between_line_0">Column 3</p>
+                            </td>
+                        </tr>
+                        <tr class="break_rows">
+                            <td class="align_left valign_bottom">
+                                <p></p>
+                            </td>
+                            <td class="align_left valign_bottom">
+                                <p></p>
+                            </td>
+                            <td class="align_left valign_bottom">
+                                <p></p>
+                            </td>
+                        </tr>
+                        <tr class="break_rows">
+                            <td class="align_left valign_bottom">
+                                <p class="align_justified">Item</p>
+                            </td>
+                            <td class="align_left valign_bottom">
+                                <p class="align_center">Description</p>
+                            </td>
+                            <td class="align_left valign_bottom">
+                                <p class="align_center">Corresponding item in <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Part 2</ref>
+                                    of <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Schedule
+                                    </ref>to DC Fees Rules</p>
+                            </td>
+                        </tr>
+                        <tr class="break_rows">
+                            <td class="align_left valign_bottom">
+                                <p></p>
+                            </td>
+                            <td class="align_left valign_bottom">
+                                <p></p>
+                            </td>
+                            <td class="align_left valign_bottom">
+                                <p></p>
+                            </td>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td class="align_left">
+                                <p>1.</p>
+                            </td>
+                            <td class="align_left">
+                                <p>Copy of a document typed in the Registry and certifying same, per
+                                    page</p>
+                            </td>
+                            <td class="align_left">
+                                <p class="align_center">1(a)</p>
+                            </td>
+                        </tr>
+                        <tr class="break_rows">
+                            <td class="align_left valign_bottom">
+                                <p></p>
+                            </td>
+                            <td class="align_left valign_bottom">
+                                <p></p>
+                            </td>
+                            <td class="align_left valign_bottom">
+                                <p></p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="align_left">
+                                <p>2.</p>
+                            </td>
+                            <td class="align_left">
+                                <paragraph xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" id="ID_1626314545965_076" name="a" temporalId="sch0_P2_a" class="left_indent_24 first_line_indent_-24 below_space_between_line_4"><num value="a">(a)</num><content class="align_left font_size_11">Copy of a document
+                                        obtained from an e-system</content></paragraph>
+                            </td>
+                            <td class="align_left">
+                                <p class="align_center">2(a)</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="align_left">
+                                <p></p>
+                            </td>
+                            <td class="align_left">
+                                <paragraph xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" id="ID_1626314545979_077" name="b" temporalId="sch0_P2_b" class="left_indent_24 first_line_indent_-24 below_space_between_line_4"><num value="b">(b)</num><content class="align_left font_size_11">Copy of a document made
+                                        in the Registry and certification, per page</content></paragraph>
+                            </td>
+                            <td class="align_left">
+                                <p class="align_center">2(b)</p>
+                            </td>
+                        </tr>
+                        <tr class="break_rows">
+                            <td class="align_left valign_bottom">
+                                <p></p>
+                            </td>
+                            <td class="align_left valign_bottom">
+                                <p></p>
+                            </td>
+                            <td class="align_left valign_bottom">
+                                <p></p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="align_left">
+                                <p>3.</p>
+                            </td>
+                            <td class="align_left">
+                                <p>Search in the Registry, for each document or file referred to or
+                                    required</p>
+                            </td>
+                            <td class="align_left">
+                                <p class="align_center">3</p>
+                            </td>
+                        </tr>
+                        <tr class="break_rows">
+                            <td class="align_left valign_bottom">
+                                <p></p>
+                            </td>
+                            <td class="align_left valign_bottom">
+                                <p></p>
+                            </td>
+                            <td class="align_left valign_bottom">
+                                <p></p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="align_left">
+                                <p>4.</p>
+                            </td>
+                            <td class="align_left">
+                                <p>Authentication of a document by the Registrar</p>
+                            </td>
+                            <td class="align_left">
+                                <p class="align_center">4</p>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </content></part><part id="ID_1626314545992_078" name="P3" temporalId="sch0_P3"><num value="3">Part 3</num><heading>Fees Specified in <ref>Schedule </ref>to LT Fees
+                Rules<marker role="blank-line"></marker></heading><content alignTo="P3Table" name="P3Table">
+                <table xmlns="http://www.w3.org/1999/xhtml" width="448" class="left_indent_0 repeat_header">
+                    <colgroup>
+                        <col width="14.29%"></col>
+                        <col width="55.36%"></col>
+                        <col width="30.36%"></col>
+                    </colgroup>
+                    <thead>
+                        <tr class="break_rows">
+                            <td class="align_left valign_bottom">
+                                
+                                <p class="align_center above_space_between_line_4 below_space_between_line_0">Column 1</p>
+                            </td>
+                            <td class="align_left valign_bottom">
+                                
+                                <p class="align_center above_space_between_line_4 below_space_between_line_0">Column 2</p>
+                            </td>
+                            <td class="align_left valign_bottom">
+                                
+                                <p class="align_center above_space_between_line_4 below_space_between_line_0">Column 3</p>
+                            </td>
+                        </tr>
+                        <tr class="break_rows">
+                            <td class="align_left valign_bottom">
+                                <p></p>
+                            </td>
+                            <td class="align_left valign_bottom">
+                                <p></p>
+                            </td>
+                            <td class="align_left valign_bottom">
+                                <p></p>
+                            </td>
+                        </tr>
+                        <tr class="break_rows">
+                            <td class="align_left valign_bottom">
+                                <p class="align_justified">Item</p>
+                            </td>
+                            <td class="align_left valign_bottom">
+                                <p class="align_center">Description</p>
+                            </td>
+                            <td class="align_left valign_bottom">
+                                <p class="align_center">Corresponding item in <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Schedule
+                                    </ref>to LT Fees Rules</p>
+                            </td>
+                        </tr>
+                        <tr class="break_rows">
+                            <td class="align_left valign_bottom">
+                                <p></p>
+                            </td>
+                            <td class="align_left valign_bottom">
+                                <p></p>
+                            </td>
+                            <td class="align_left valign_bottom">
+                                <p></p>
+                            </td>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td class="align_left">
+                                <p>1.</p>
+                            </td>
+                            <td class="align_left">
+                                <p>Registration of an award or order with the District Court</p>
+                            </td>
+                            <td class="align_left">
+                                <p class="align_center">6</p>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </content></part><part id="ID_1626314546074_079" name="P4" temporalId="sch0_P4"><num value="4">Part 4</num><heading>Fees Specified in <ref>Schedule 2</ref> to EA Regulation<marker role="blank-line"></marker></heading><content><table xmlns="http://www.w3.org/1999/xhtml" width="440" class="left_indent_0 repeat_header"><colgroup><col width="14.55%"></col><col width="56.36%"></col><col width="29.09%"></col></colgroup><thead><tr class="break_rows"><td class="align_left valign_bottom">
+                                
+                                <p class="align_justified above_space_between_line_4 below_space_between_line_0">Column 1</p>
+                            </td><td class="align_left valign_bottom">
+                                
+                                <p class="align_center above_space_between_line_4 below_space_between_line_0">Column 2</p>
+                            </td><td class="align_left valign_bottom">
+                                
+                                <p class="align_center above_space_between_line_4 below_space_between_line_0">Column 3</p>
+                            </td></tr><tr class="break_rows"><td class="align_left valign_bottom"><p></p></td><td class="align_left valign_bottom"><p></p></td><td class="align_left valign_bottom"><p></p></td></tr><tr class="break_rows"><td class="align_left valign_bottom"><p class="align_justified">Item</p></td><td class="align_left valign_bottom"><p class="align_center">Description</p></td><td class="align_left valign_bottom"><p class="align_center">Corresponding item in <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Schedule 2</ref> to EA Regulation</p></td></tr><tr class="break_rows"><td class="align_left valign_bottom"><p></p></td><td class="align_left valign_bottom"><p></p></td><td class="align_left valign_bottom"><p></p></td></tr></thead><tbody><tr><td class="align_left"><p>1.</p></td><td class="align_left"><p>Registration of a determination with the District Court</p></td><td class="align_left"><p class="align_center">2</p></td></tr><tr class="break_rows"><td class="align_left valign_bottom"><p></p></td><td class="align_left valign_bottom"><p></p></td><td class="align_left valign_bottom"><p></p></td></tr><tr><td class="align_left"><p>2.</p></td><td class="align_left"><p>Filing of notice of appeal in the District Court</p></td><td class="align_left"><p class="align_center">3</p></td></tr><tr class="break_rows"><td class="align_left valign_bottom"><p></p></td><td class="align_left valign_bottom"><p></p></td><td class="align_left valign_bottom"><p></p></td></tr><tr><td class="align_left"><p>3.</p></td><td class="align_left"><p>Copy of document in the register and certification for each page or portion of a page</p></td><td class="align_left"><p class="align_center">4</p></td></tr></tbody></table></content></part></schedule></main></subLeg>

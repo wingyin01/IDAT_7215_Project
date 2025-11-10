@@ -1,0 +1,710 @@
+<?xml version="1.0" encoding="UTF-8"?><subLeg xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd" xml:lang="en"><meta><docName>Cap. 369 sub. leg. Z</docName><docType>cap</docType><docNumber>369Z</docNumber><docStatus>In effect</docStatus><dc:identifier>/hk/cap369Z!en</dc:identifier><dc:date>2024-09-05</dc:date><dc:subject>legislation</dc:subject><dc:language>en</dc:language><dc:publisher>DoJ</dc:publisher><dc:rights>the Government of the Hong Kong Special Administrative Region</dc:rights></meta><main xml:lang="en" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd"><docTitle id="ID_1438403107221_001" name="shortTitle" reason="inEffect" status="operational" temporalId="shortTitle" startPeriod="2024-09-05">Merchant
+            Shipping
+            (Safety)
+            (Gas
+            Carriers)
+            Regulations</docTitle><enactingFormula role="empoweringSection">(<ref href="/hk/cap369">Cap. 369</ref>, <ref href="/hk/cap369/s101">sections 101</ref>,
+                <ref href="/hk/cap369/s107">107</ref> and <ref href="/hk/cap369/s112B">112B</ref>)</enactingFormula><sourceNote>(Enacting provision omitted—<ref href="/hk/2024/er5">E.R. 5 of
+            2024</ref>)</sourceNote><commencementNote>[2 August 1991]</commencementNote><sourceNote>(Format changes—<ref href="/hk/2024/er5">E.R. 5 of 2024</ref>)</sourceNote><part id="ID_1438403107221_003" name="P1" reason="inEffect" startPeriod="2024-09-05" status="operational" temporalId="P1"><num value="1">Part
+            I</num><heading>Preliminary</heading><section id="ID_1438403107236_002" name="s1" reason="inEffect" role="regulation" startPeriod="2024-09-05" status="operational" temporalId="s1"><num value="1">1.</num><heading>Citation</heading><sourceNote>(<ref href="/hk/2024/er5">E.R. 5 of 2024</ref>)</sourceNote><subsection id="ID_1438412239770_011" name="1" temporalId="s1_1"><num value="1">(1)</num><content>These regulations may be cited as the <shortTitle>Merchant Shipping (Safety)
+                    (Gas Carriers) Regulations</shortTitle>.</content></subsection><subsection id="ID_1438412239770_019" name="2" temporalId="s1_2"><num value="2">(2)</num><sourceNote>(Omitted as spent—<ref href="/hk/2024/er5">E.R. 5 of
+                2024</ref>)</sourceNote></subsection></section><section id="ID_1438403107252_002" name="s2" reason="inEffect" role="regulation" startPeriod="2024-09-05" status="operational" temporalId="s2"><num value="2">2.</num><heading>Interpretation</heading><subsection id="ID_1438412239786_026" name="1" temporalId="s2_1"><num value="1">(1)</num><leadIn>In these regulations, unless the context otherwise requires—</leadIn><def name="1983IGCCode"><term>1983 IGC Code</term> (《<term xml:lang="zh-Hant-HK">1983年國際氣體規則</term>》) means the International Code for the Construction and
+                Equipment of Ships Carrying Liquefied Gases in Bulk set out in the Annex to
+                Resolution MSC. <ref>5(48)</ref> adopted by the Maritime Safety Committee of IMO on
+                17 June 1983, as amended by Resolutions MSC. <ref>17(58)</ref>, MSC.
+                    <ref>103(73)</ref> and MSC. <ref>177(79)</ref> adopted by the Committee and by
+                    <ref>Schedule 1</ref>; <sourceNote>(<ref href="/hk/1996/ln420">L.N. 420 of
+                        1996</ref>; <ref href="hk/2018/ln74">L.N. 74 of
+                2018</ref>)</sourceNote></def><def name="1993IGCCode"><term>1993 IGC Code</term> (《<term xml:lang="zh-Hant-HK">1993年國際氣體規則</term>》) means the International Code for the Construction and
+                Equipment of Ships Carrying Liquefied Gases in Bulk set out in the Annex to
+                Resolution MSC. <ref>5(48)</ref> adopted by the Maritime Safety Committee of IMO on
+                17 June 1983, as amended by Resolutions MSC. <ref>17(58)</ref>, MSC.
+                    <ref>30(61)</ref>, MSC. <ref>32(63)</ref>, MSC. <ref>59(67)</ref>, MSC.
+                    <ref>103(73)</ref>, MSC. <ref>177(79)</ref> and MSC. <ref>220(82)</ref> adopted
+                by the Committee; <sourceNote>(<ref href="/hk/1996/ln420">L.N. 420 of 1996</ref>; <ref href="hk/2018/ln74">L.N. 74 of 2018</ref>)</sourceNote></def><def name="2014IGCCode"><term>2014 IGC Code</term> (<term xml:lang="zh-Hant-HK">《2014年國際氣體規則》</term>) means the International Code for the Construction and
+                Equipment of Ships Carrying Liquefied Gases in Bulk set out in the Annex to
+                Resolution MSC. <ref>370(93)</ref> adopted by the Maritime Safety Committee of IMO
+                on 22 May 2014, as from time to time revised or amended by any revision or amendment
+                that applies to Hong Kong; <sourceNote>(<ref href="hk/2018/ln74">L.N. 74 of
+                        2018</ref>)</sourceNote></def><def name="AnniversaryDate"><term>anniversary date</term> (<term xml:lang="zh-Hant-HK">周年日期</term>), in relation to an International Certificate of Fitness that is in
+                force, means the day and month of each year which corresponds to the expiry date of
+                the certificate; <sourceNote>(<ref href="hk/2018/ln74">L.N. 74 of
+                    2018</ref>)</sourceNote></def><def name="ApplicableIGCCode"><term>applicable IGC Code</term> (<term xml:lang="zh-Hant-HK">適用《國際氣體規則》</term>), in relation to a ship, means the 1983
+                IGC Code, 1993 IGC Code or 2014 IGC Code that the ship is required to comply with
+                under <ref>regulation 4</ref>; <sourceNote>(<ref href="hk/2018/ln74">L.N. 74 of
+                        2018</ref>)</sourceNote></def><def name="CargoShipSafetyConstructionCertificate,CargoShipSafetyEquipmentCertificate,CargoShipSafetyRadioCertificate,CargoShipSafetyCertificate"><term>Cargo
+                    Ship Safety Construction Certificate</term> (<term xml:lang="zh-Hant-HK">貨船構造安全證書</term>), <term>Cargo Ship Safety Equipment Certificate</term> (<term xml:lang="zh-Hant-HK">貨船設備安全證書</term>), <term>Cargo Ship Safety Radio
+                    Certificate</term> (<term xml:lang="zh-Hant-HK">貨船無線電安全證書</term>) and
+                    <term>Cargo Ship Safety Certificate</term> (<term xml:lang="zh-Hant-HK">貨船安全證書</term>) mean respectively the certificates so
+                entitled, issued in conformity with the 1974 SOLAS Convention and, in the case of a
+                Hong Kong ship, under or pursuant to the Ordinance;
+                <sourceNote>(<ref href="hk/2018/ln74">L.N. 74 of
+                2018</ref>)</sourceNote></def><def name="Constructed">
+                <leadIn><term>constructed</term> (<term xml:lang="zh-Hant-HK">建造</term>), in
+                        <ref>regulations 3(1)</ref> and <ref>4(3)</ref>, (4) and (5), in relation to
+                    a ship, means the stage at which—</leadIn>
+                <paragraph id="ID_1531972184053_001" name="a" temporalId="s2_1_a"><num value="a">(a)</num><content>the keel of the ship is laid; or</content></paragraph>
+                <paragraph id="ID_1531972184053_002" name="b" temporalId="s2_1_b"><num value="b">(b)</num><content>construction identifiable with the ship begins, and assembly of the
+                        ship has commenced comprising at least 50 tonnes or 1% of the estimated mass
+                        of all structural material, whichever is the less; <sourceNote>(<ref href="hk/2018/ln74">L.N. 74 of 2018</ref>)</sourceNote></content></paragraph>
+            </def><def name="Director"><term>Director</term>
+                    (<term xml:lang="zh-Hant-HK">處長</term>) means the Director of Marine;</def><def name="GasCarrier">
+                <leadIn><term>gas carrier</term> (<term xml:lang="zh-Hant-HK">氣體運輸船</term>) means a
+                    cargo ship constructed or adapted and used for the carriage in bulk of—</leadIn>
+                <paragraph id="ID_1531972184069_003" name="a" temporalId="s2_1_a"><num value="a">(a)</num><content>any liquefied gas listed in Chapter 19 of the applicable IGC Code;
+                        or</content></paragraph>
+                <paragraph id="ID_1531972184069_004" name="b" temporalId="s2_1_b"><num value="b">(b)</num><content>any other substance listed in that Chapter; <sourceNote>(<ref href="hk/2018/ln74">L.N. 74 of 2018</ref>)</sourceNote></content></paragraph>
+            </def><def name="GovernmentSurveyor"><term>Government surveyor</term> (<term xml:lang="zh-Hant-HK">政府驗船師</term>) means a Government surveyor appointed under
+                    <ref>section 5</ref> of the Ordinance; <sourceNote>(<ref href="hk/2018/ln74">L.N. 74 of 2018</ref>)</sourceNote></def><def name="HongKongShip"><term>Hong
+                    Kong
+                ship</term>
+                    (<term xml:lang="zh-Hant-HK">香港船舶</term>) means a ship registered in Hong
+                Kong;</def><def name="IBCCode"><term>IBC
+                    Code</term>
+                    (《<term xml:lang="zh-Hant-HK">國際散化規則</term>》) means the International Code for
+                the Construction and Equipment of Ships Carrying Dangerous Chemicals in Bulk
+                set
+                out in the Annex to Resolution MSC. <ref>4(48)</ref> adopted by the Maritime Safety
+                Committee of IMO on 17 June 1983, as from time to time revised or amended by any
+                revision or amendment that applies to Hong Kong; <sourceNote>(<ref href="/hk/1996/ln420">L.N. 420 of
+                    1996</ref>; <ref href="hk/2018/ln74">L.N. 74 of
+                    2018</ref>)</sourceNote></def><def name="IMO"><term>IMO</term> means the International Maritime Organization;
+                        <sourceNote>(<ref href="hk/2018/ln74">L.N. 74 of
+                2018</ref>)</sourceNote></def><def name="InBulk"><term>in
+                    bulk</term>
+                    (<term xml:lang="zh-Hant-HK">散裝</term>) means directly and without intermediate
+                form of containment in a tank forming an integral part of, or permanently located
+                on, a ship;</def><def name="InternationalCertificateOfFitness">
+                <leadIn><term>International Certificate of Fitness </term> (<term xml:lang="zh-Hant-HK">國際適裝證書</term>) means—</leadIn>
+                <paragraph id="ID_1531972184350_005" name="a" temporalId="s2_1_a"><num value="a">(a)</num><content>for a Hong Kong ship—a certificate issued under <ref>regulation
+                        7</ref>; and</content></paragraph>
+                <paragraph id="ID_1531972184350_006" name="b" temporalId="s2_1_b"><num value="b">(b)</num><content>for any other ship—a certificate issued in conformity with Chapter 1 of
+                        the applicable IGC Code by or on behalf of the Administration of the State
+                        in which the ship is registered; <sourceNote>(<ref href="hk/2018/ln74">L.N.
+                                74 of 2018</ref>)</sourceNote></content></paragraph>
+            </def><def name="IssuingAuthority">
+                <leadIn><term>issuing authority</term> (<term xml:lang="zh-Hant-HK">發證當局</term>)
+                    means—</leadIn>
+                <paragraph id="ID_1531972184350_007" name="a" temporalId="s2_1_a"><num value="a">(a)</num><content>the Director; or</content></paragraph>
+                <paragraph id="ID_1531972184350_008" name="b" temporalId="s2_1_b"><num value="b">(b)</num><content>an organization approved under <ref>section 8</ref> of the Ordinance;
+                                <sourceNote>(<ref href="hk/2018/ln74">L.N. 74 of
+                            2018</ref>)</sourceNote></content></paragraph>
+            </def><def name="Surveyor">
+                <leadIn><term>surveyor</term> (<term xml:lang="zh-Hant-HK">驗船師</term>)
+                    means—</leadIn>
+                <paragraph id="ID_1531972184350_009" name="a" temporalId="s2_1_a"><num value="a">(a)</num><content>a surveyor appointed by the Director under <ref>regulation 6(1)</ref>;
+                        or</content></paragraph>
+                <paragraph id="ID_1531972184365_010" name="b" temporalId="s2_1_b"><num value="b">(b)</num><content>a Government surveyor; <sourceNote>(<ref href="hk/2018/ln74">L.N. 74 of
+                                2018</ref>)</sourceNote></content></paragraph>
+            </def><def name="The1974SOLASConvention"><term>the
+                    1974 SOLAS
+                Convention</term>
+                    (《<term xml:lang="zh-Hant-HK">1974年海上人命安全公約</term>》) means the International
+                Convention for the Safety of Life at
+                Sea
+                signed in London on 1 November 1974, or any convention that replaces that Convention
+                or any successor convention, as amended from time to time and as applicable to Hong Kong.
+                <sourceNote>(<ref href="hk/2018/ln74">L.N. 74 of
+                2018</ref>)</sourceNote></def></subsection><sourceNote>(<ref href="hk/2018/ln74">L.N. 74 of
+            2018</ref>; <ref href="/hk/2024/er5">E.R. 5 of
+            2024</ref>)</sourceNote><subsection id="ID_1438412239833_004" name="2" temporalId="s2_2"><num value="2">(2)</num><leadIn>For the purposes of the 1983 IGC Code, 1993 IGC Code and 2014 IGC Code—
+                        <sourceNote>(<ref href="hk/2018/ln74">L.N. 74 of
+                2018</ref>)</sourceNote></leadIn><paragraph id="ID_1438412239833_012" name="a" temporalId="s2_2_a"><num value="a">(a)</num><content>the requirements of the 1983 IGC Code, 1993 IGC Code and 2014 IGC Code
+                    having been made mandatory under <ref>regulation 4</ref> the language thereof
+                    shall be construed accordingly; <sourceNote>(<ref href="hk/2018/ln74">L.N. 74 of
+                            2018</ref>)</sourceNote></content></paragraph><paragraph id="ID_1531972184365_011" name="b" temporalId="s2_2_b"><num value="b">(b)</num><content>the definitions set out in Chapter 1 of the 1983 IGC Code, 1993 IGC Code or
+                    2014 IGC Code apply in relation to the Code concerned; and <sourceNote>(<ref href="hk/2018/ln74">L.N. 74 of 2018</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438412239833_028" name="c" temporalId="s2_2_c"><num value="c">(c)</num><content>references to the Administration shall, in relation to Hong Kong ships, be
+                    references to the Director; and references to the Port Administration shall, in
+                    relation to all ships in the waters of Hong Kong, be references to the Director.
+                            <sourceNote>(<ref href="hk/2018/ln74">L.N. 74 of
+                        2018</ref>)</sourceNote></content></paragraph><paragraph id="ID_1531972184381_012" name="d" temporalId="s2_2_d"><num value="d">(d)</num><sourceNote>(Repealed <ref href="hk/2018/ln74">L.N. 74 of 2018</ref>)</sourceNote></paragraph><def name="1983IGCCode,1993IGCCode">
+                
+                <paragraph id="ID_1438412239833_044" name="e" temporalId="s2_2_d_e"><num value="e">(e)</num><sourceNote>(Repealed <ref href="/hk/1996/ln420">L.N. 420 of
+                        1996</ref>)</sourceNote></paragraph>
+                
+                <paragraph id="ID_1531972184412_013" name="f" temporalId="s2_2_d_f"><num value="f">(f)</num><sourceNote>(Repealed <ref href="hk/2018/ln74">L.N. 74 of
+                        2018</ref>)</sourceNote></paragraph>
+                
+                
+            </def></subsection><sourceNote>(<ref href="/hk/1996/ln420">L.N. 420 of 1996</ref>)</sourceNote></section><section id="ID_1438403107268_002" name="s3" reason="inEffect" role="regulation" startPeriod="2024-09-05" status="operational" temporalId="s3"><num value="3">3.</num><heading>Application</heading><subsection id="ID_1438412239895_004" name="1" temporalId="s3_1"><num value="1">(1)</num><leadIn>These regulations apply, subject to subregulations (2) and (3) and <ref>regulation 11</ref>—</leadIn><paragraph id="ID_1438412239895_012" name="a" temporalId="s3_1_a"><num value="a">(a)</num><content>to gas carriers which are constructed on or after 1 July 1986;</content></paragraph><paragraph id="ID_1438412239895_020" name="b" temporalId="s3_1_b"><num value="b">(b)</num><content>to ships which are converted to being gas carriers on or after that date; and</content></paragraph><paragraph id="ID_1438412239895_028" name="c" temporalId="s3_1_c"><num value="c">(c)</num><content>to gas carriers which were constructed before that date but which have undergone repairs, alterations or modifications of a major character on or after that date.</content></paragraph></subsection><subsection id="ID_1438412239895_035" name="2" temporalId="s3_2"><num value="2">(2)</num><content>Where a ship is constructed or adapted to carry one or more of the substances listed both in Chapter 17 of the IBC Code and in Chapter 19 of the 1983 IGC Code, 1993 IGC Code or 2014 IGC Code and is not constructed or adapted to carry any substance listed only in Chapter 19 of the 1983 IGC Code, 1993 IGC Code or 2014 IGC Code then these regulations shall not apply to that ship.
+                <sourceNote>(<ref href="/hk/1996/ln420">L.N. 420 of 1996</ref>; <ref href="hk/2018/ln74">L.N. 74 of 2018</ref>)</sourceNote></content></subsection><subsection id="ID_1438412239911_005" name="3" temporalId="s3_3"><num value="3">(3)</num><leadIn>These regulations apply to ships specified in subregulation (1) which are—</leadIn><paragraph id="ID_1438412239911_013" name="a" temporalId="s3_3_a"><num value="a">(a)</num><content>Hong Kong ships; or</content></paragraph><paragraph id="ID_1438412239911_021" name="b" temporalId="s3_3_b"><num value="b">(b)</num><content>ships other than Hong Kong ships within the waters of Hong Kong.</content></paragraph></subsection></section><section id="ID_1438403107283_001" name="s4" reason="inEffect" role="regulation" startPeriod="2024-09-05" status="operational" temporalId="s4"><num value="4">4.</num><heading>Compliance with the 1983 IGC Code, 1993 IGC Code or 2014 IGC Code</heading><sourceNote>(<ref href="hk/2018/ln74">L.N. 74 of 2018</ref>)</sourceNote><subsection id="ID_1438412239926_065" name="1" temporalId="s4_1"><num value="1">(1)</num><content>Subject to subregulation (2), a ship to which these regulations apply shall be constructed, equipped and operated in accordance with the requirements relevant to it of Chapter 1, <ref>paragraphs 1</ref>.1.4.1 to 1.1.4.4, and Chapters 2 to 19 of the 1983 IGC Code, 1993 IGC Code or 2014 IGC Code that the ship is required to comply with under subregulation (3), (4) or (5). 
+                <sourceNote>(<ref href="/hk/1996/ln420">L.N. 420 of 1996</ref>; <ref href="hk/2018/ln74">L.N. 74 of 2018</ref>)</sourceNote></content></subsection><subsection id="ID_1528702564807_001" name="2" temporalId="s4_2"><num value="2">(2)</num><leadIn>If, after 22 May 2014, IMO adopts a specified resolution that affects the requirements of the 1983 IGC Code or 1993 IGC Code referred to in subregulation (1) (<b><i>existing requirements</i></b>), then for a ship that is required to comply with the 1983 IGC Code or 1993 IGC Code under subregulation (3) or (4), the reference in subregulation (1) to the requirements relevant to the ship is to be read as—</leadIn><paragraph id="ID_1528702564807_002" name="a" temporalId="s4_2_a"><num value="a">(a)</num><content>if an additional requirement is imposed on the ship by the resolution—including the additional requirement; or</content></paragraph><paragraph id="ID_1528702564807_003" name="b" temporalId="s4_2_b"><num value="b">(b)</num><content>if the existing requirements are revised or amended by the resolution—the existing requirements as so revised or amended. <sourceNote>(<ref href="hk/2018/ln74">L.N. 74 of 2018</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1528702564807_004" name="3" temporalId="s4_3"><num value="3">(3)</num><leadIn>The following ships must comply with the 1983 IGC Code—</leadIn><paragraph id="ID_1528702564807_005" name="a" temporalId="s4_3_a"><num value="a">(a)</num><content>a gas carrier that was constructed on or after 1 July 1986 but before 1 October 1994 (<b><i>specified period A</i></b>);</content></paragraph><paragraph id="ID_1528702564807_006" name="b" temporalId="s4_3_b"><num value="b">(b)</num><content>a ship that was converted into a gas carrier within the specified period A;</content></paragraph><paragraph id="ID_1528702564807_007" name="c" temporalId="s4_3_c"><num value="c">(c)</num><content>a gas carrier that was constructed before 1 July 1986 but has undergone any repair, alteration or modification of a major character within the specified period A. <sourceNote>(<ref href="hk/2018/ln74">L.N. 74 of 2018</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1528702564807_008" name="4" temporalId="s4_4"><num value="4">(4)</num><leadIn>The following ships must comply with the 1993 IGC Code—</leadIn><paragraph id="ID_1528702564823_009" name="a" temporalId="s4_4_a"><num value="a">(a)</num><content>a gas carrier that was constructed on or after 1 October 1994 but before 1 July 2016 (<b><i>specified period B</i></b>);</content></paragraph><paragraph id="ID_1528702564823_010" name="b" temporalId="s4_4_b"><num value="b">(b)</num><content>a ship that was converted into a gas carrier within the specified period B;</content></paragraph><paragraph id="ID_1528702564823_011" name="c" temporalId="s4_4_c"><num value="c">(c)</num><content>a gas carrier that was constructed before 1 October 1994 but has undergone any repair, alteration or modification of a major character within the specified period B. <sourceNote>(<ref href="hk/2018/ln74">L.N. 74 of 2018</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1528702564823_012" name="5" temporalId="s4_5"><num value="5">(5)</num><leadIn>The following ships must comply with the 2014 IGC Code—</leadIn><paragraph id="ID_1528702564823_013" name="a" temporalId="s4_5_a"><num value="a">(a)</num><content>a gas carrier that was constructed on or after 1 July 2016;</content></paragraph><paragraph id="ID_1528702564823_014" name="b" temporalId="s4_5_b"><num value="b">(b)</num><content>a ship that was converted into a gas carrier on or after 1 July 2016;</content></paragraph><paragraph id="ID_1528702564823_015" name="c" temporalId="s4_5_c"><num value="c">(c)</num><content>a gas carrier that was constructed before 1 July 2016 but has undergone any repair, alteration or modification of a major character on or after that date. <sourceNote>(<ref href="hk/2018/ln74">L.N. 74 of 2018</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1528702564823_016" name="6" temporalId="s4_6"><num value="6">(6)</num><leadIn>In this regulation—</leadIn><def name="SpecifiedResolution">
+                <leadIn><term>specified resolution</term> (<term xml:lang="zh-Hant-HK">指明決議</term>) means a resolution—</leadIn>
+                <paragraph id="ID_1528702564823_017" name="a" temporalId="s4_6_a"><num value="a">(a)</num><content>that revises or amends the 2014 IGC Code; and</content></paragraph>
+                <paragraph id="ID_1528702564823_018" name="b" temporalId="s4_6_b"><num value="b">(b)</num><content>that applies to Hong Kong. <sourceNote>(<ref href="hk/2018/ln74">L.N. 74 of 2018</ref>)</sourceNote></content></paragraph>
+            </def></subsection></section></part><part id="ID_1438403107283_003" name="P2" reason="inEffect" startPeriod="2024-09-05" status="operational" temporalId="P2"><num value="2">Part
+            II</num><heading>Survey
+            and
+            Certificate</heading><section id="ID_1528446206485_001" name="s4A" temporalId="s4A" startPeriod="2024-09-05" status="operational" reason="inEffect"><num value="4A">4A.</num><heading>Interpretation of <ref>Part II</ref></heading><leadIn>In this Part—</leadIn><def name="1983Ship"><term>1983 ship</term> (<term xml:lang="zh-Hant-HK">1983年船舶</term>) means a ship that is required to comply with the 1983 IGC Code under <ref>regulation 4</ref>;</def><def name="1993Ship"><term>1993 ship</term> (<term xml:lang="zh-Hant-HK">1993年船舶</term>) means a ship that is required to comply with the 1993 IGC Code under <ref>regulation 4</ref>;</def><def name="2014Ship"><term>2014 ship</term> (<term xml:lang="zh-Hant-HK">2014年船舶</term>) means a ship that is required to comply with the 2014 IGC Code under <ref>regulation 4</ref>.</def><sourceNote>(<ref href="hk/2018/ln74">L.N. 74 of 2018</ref>)</sourceNote></section><section id="ID_1438403107299_002" name="s5" reason="inEffect" role="regulation" startPeriod="2024-09-05" status="operational" temporalId="s5"><num value="5">5.</num><heading>Survey requirements</heading><subsection id="ID_1438412239989_011" name="1" temporalId="s5_1"><num value="1">(1)</num><leadIn>The structure, equipment, fittings, arrangements and materials (other than items in respect of which a Cargo Ship Safety Construction Certificate, Cargo Ship Safety Equipment Certificate, Cargo Ship Safety Radio Certificate or Cargo Ship Safety Certificate is issued) of a ship must, unless stipulated otherwise, be subject to the following surveys—
+                <sourceNote>(<ref href="hk/2018/ln74">L.N. 74 of 2018</ref>)</sourceNote></leadIn><paragraph id="ID_1438412239989_019" name="a" temporalId="s5_1_a"><num value="a">(a)</num><content>an initial survey before the ship is put in service or before an International Certificate of Fitness is issued in respect of the ship for the first time, which shall include a complete examination of its structure, equipment, fittings, arrangements and materials in so far as the ship is covered by the applicable IGC
+                    Code; such a survey shall be such as to ensure that the structure, equipment, fittings, arrangements and materials fully comply with the applicable provisions of the applicable IGC Code; </content></paragraph><paragraph id="ID_1438412240004_006" name="b" temporalId="s5_1_b"><num value="b">(b)</num><content>a renewal survey at intervals not exceeding 5 years which shall be such as to ensure that the structure, equipment, fittings, arrangements and materials fully comply with the applicable IGC Code;</content></paragraph><paragraph id="ID_1528703710594_001" name="c" temporalId="s5_1_c"><num value="c">(c)</num><content>an intermediate survey within the period commencing 3 months before and ending 3 months after either the second anniversary date or third anniversary date of the International Certificate of Fitness issued in respect of the ship to ensure that the safety equipment and other equipment, as well as the associated pump and piping systems fully comply with the applicable IGC Code and are in good working order; the survey must be endorsed by the surveyor on the certificate; <sourceNote>(<ref href="hk/2018/ln74">L.N. 74 of 2018</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438412240051_006" name="d" temporalId="s5_1_d"><num value="d">(d)</num><content>subject to subregulation (1A), an annual survey within the period commencing 3 months before and ending 3 months after the anniversary date of the International Certificate of Fitness issued in respect of the ship which shall include a general examination to ensure that the structure, equipment, fittings, arrangements and materials remain
+                    satisfactory for the service for which the ship is intended; the survey must be endorsed by the surveyor on the certificate;</content></paragraph><paragraph id="ID_1438412240067_006" name="e" temporalId="s5_1_e"><num value="e">(e)</num><leadIn>an additional survey, either general or partial according to the circumstances, shall be made when it has been determined under <ref>regulation 9(3)</ref> to be necessary, or whenever any important repairs or renewals are made; such a survey shall ensure that the necessary repairs or renewals have been effectively made, that the materials and workmanship of such repairs or renewals are satisfactory, and that the ship is fit to proceed to sea without—
+                    <sourceNote>(<ref href="/hk/1996/ln420">L.N. 420 of 1996</ref>; <ref href="hk/2018/ln74">L.N. 74 of 2018</ref>)</sourceNote></leadIn><subparagraph id="ID_1528703710657_002" name="1" temporalId="s5_1_e_1"><num value="1">(i)</num><content>posing any danger to the ship or persons on board; or</content></subparagraph><subparagraph id="ID_1528703710657_003" name="2" temporalId="s5_1_e_2"><num value="2">(ii)</num><content>presenting any unreasonable threat of harm to the marine environment.</content></subparagraph></paragraph></subsection><subsection id="ID_1528703710657_004" name="1A" temporalId="s5_1A"><num value="1A">(1A)</num><content>If an intermediate survey of a ship has been carried out under subregulation <ref>(1)(c)</ref> by reference to an anniversary date, the annual survey of the ship by reference to the anniversary date for the relevant year is not required to be carried out. <sourceNote>(<ref href="hk/2018/ln74">L.N. 74 of 2018</ref>)</sourceNote></content></subsection><subsection id="ID_1438412240098_005" name="2" temporalId="s5_2"><num value="2">(2)</num><content>Every such survey of a Hong Kong ship shall be carried out by a surveyor, and application for such a survey shall be made by or on behalf of the owner to an issuing authority.</content></subsection><sourceNote>(<ref href="hk/2018/ln74">L.N. 74 of 2018</ref>)</sourceNote></section><section id="ID_1438403107314_001" name="s6" reason="inEffect" role="regulation" startPeriod="2024-09-05" status="operational" temporalId="s6"><num value="6">6.</num><heading>Power of Director in respect of
+            appointments</heading><sourceNote>(<ref href="hk/2023/24">24 of 2023 s. 30</ref>)</sourceNote><subsection id="ID_1438412240129_027" name="1" temporalId="s6_1"><num value="1">(1)</num><content>The Director may, in writing, appoint persons to be surveyors for the purposes
+                of these regulations.</content></subsection><subsection id="ID_1438412240129_035" name="2" temporalId="s6_2"><num value="2">(2)</num><content>A surveyor shall have such powers, functions and duties as are prescribed,
+                respectively, in these regulations.</content></subsection><subsection id="ID_1438412240145_005" name="3,4" temporalId="s6_3,4"><num value="3,4">(3)-(4)</num><sourceNote>(Repealed <ref href="hk/2023/24">24 of 2023 s. 30</ref>)</sourceNote></subsection></section><section id="ID_1438403107314_003" name="s7" reason="inEffect" role="regulation" startPeriod="2024-09-05" status="operational" temporalId="s7"><num value="7">7.</num><heading>Issue of International Certificate of Fitness</heading><subsection id="ID_1528703726406_001" name="1" temporalId="s7_1"><num value="1">(1)</num><content>If, after completion of an initial or renewal survey, the issuing authority is satisfied that the ship complies with the relevant requirements of the applicable IGC Code, the issuing authority must issue an International Certificate of Fitness for the Carriage of Liquefied Gases in Bulk in respect of the ship. <sourceNote>(<ref href="hk/2018/ln74">L.N. 74 of 2018</ref>)</sourceNote></content></subsection><subsection id="ID_1438412240176_005" name="2" temporalId="s7_2"><num value="2">(2)</num><leadIn>A certificate shall cease to be valid—</leadIn><paragraph id="ID_1438412240176_013" name="a" temporalId="s7_2_a"><num value="a">(a)</num><content>if any survey required by <ref>regulation 5(1)(c)</ref> or (d) is not completed within the period specified for that survey;</content></paragraph><paragraph id="ID_1528703726406_002" name="ab" temporalId="s7_2_ab"><num value="ab">(ab)</num><content>if it is not endorsed after an intermediate survey has been carried out under <ref>regulation 5(1)(c)</ref>; <sourceNote>(<ref href="hk/2018/ln74">L.N. 74 of 2018</ref>)</sourceNote></content></paragraph><paragraph id="ID_1528703726406_003" name="ac" temporalId="s7_2_ac"><num value="ac">(ac)</num><content>if it is not endorsed after an annual survey has been carried out under <ref>regulation 5(1)(d)</ref>; <sourceNote>(<ref href="hk/2018/ln74">L.N. 74 of 2018</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438412240176_021" name="b" temporalId="s7_2_b"><num value="b">(b)</num><content>if any survey required by <ref>regulation 5(1)(e)</ref> is not completed within such reasonable time as the surveyor may specify; or</content></paragraph><paragraph id="ID_1438412240176_029" name="c" temporalId="s7_2_c"><num value="c">(c)</num><content>upon transfer of the ship to registry in another State.</content></paragraph></subsection><subsection id="ID_1528703726422_004" name="3" temporalId="s7_3"><num value="3">(3)</num><content>If a certificate ceases to be valid under subregulation <ref>(2)(a)</ref>, (ab), (ac) or (b), the owner of the ship in respect of which the certificate is issued must deliver up the certificate to the Director on demand. <sourceNote>(<ref href="hk/2018/ln74">L.N. 74 of 2018</ref>)</sourceNote></content></subsection><subsection id="ID_1438412240176_044" name="4" temporalId="s7_4"><num value="4">(4)</num><leadIn>In the case of a ship which has been transferred from registry in another State to registry in Hong Kong the Director may, subject to such requirements as to survey or otherwise as he may think fit, if he is satisfied that, notwithstanding that the surveys were not carried out as required by <ref>regulation 5(2)</ref>—</leadIn><paragraph id="ID_1438412240176_052" name="a" temporalId="s7_4_a"><num value="a">(a)</num><content>the ship has already been subjected to a satisfactory initial or renewal survey and to any intermediate, annual or additional surveys required; and</content></paragraph><paragraph id="ID_1438412240191_006" name="b" temporalId="s7_4_b"><num value="b">(b)</num><content>the ship was issued by or on behalf of the Administration of that other State with an International Certificate of Fitness which would, but for the change of registry, have remained valid; and</content></paragraph><paragraph id="ID_1438412240191_014" name="c" temporalId="s7_4_c"><num value="c">(c)</num><content>the condition of the ship and its equipment has been maintained in conformity with the requirements of the applicable IGC Code; and
+                    <sourceNote>(<ref href="/hk/1996/ln420">L.N. 420 of 1996</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438412240191_022" name="d" temporalId="s7_4_d"><num value="d">(d)</num><content>since completion of the surveys referred to in paragraph (a) no change has been made in the structure, equipment, fittings, arrangements and materials covered by those surveys, without the sanction of the Administration of that other State or of the Director, except by direct replacement,</content></paragraph><continued>issue to that ship an International Certificate of Fitness for a period to be determined by the Director, but not exceeding the expiry date of the certificate referred to in paragraph (b).
+                <sourceNote>(<ref href="hk/2018/ln74">L.N. 74 of 2018</ref>)</sourceNote></continued></subsection><subsection id="ID_1438412240191_035" name="5" temporalId="s7_5"><num value="5">(5)</num><content>The International Certificate of Fitness shall be kept on board ship and shall be available for inspection at all reasonable times.
+                <sourceNote>(<ref href="hk/2018/ln74">L.N. 74 of 2018</ref>)</sourceNote></content></subsection></section><section id="ID_1528446279308_001" name="s7A" temporalId="s7A" startPeriod="2024-09-05" status="operational" reason="inEffect"><num value="7A">7A.</num><heading>Duration of International Certificate of Fitness—general</heading><content>Subject to <ref>regulations 7(2)</ref>, <ref>7B</ref>, <ref>7C</ref> and <ref>7D</ref>, an International Certificate of Fitness issued in respect of a ship is valid for the period not exceeding 5 years as specified by the issuing authority in the certificate.</content><sourceNote>(<ref href="hk/2018/ln74">L.N. 74 of 2018</ref>)</sourceNote></section><section id="ID_1528446279402_002" name="s7B" temporalId="s7B" startPeriod="2024-09-05" status="operational" reason="inEffect"><num value="7B">7B.</num><heading>Duration of International Certificate of Fitness issued after renewal surveys</heading><leadIn>An International Certificate of Fitness issued in respect of a ship as a result of the completion of a renewal survey required under <ref>regulation 5(1)(b)</ref> is valid for the period specified by the issuing authority in the certificate in accordance with—</leadIn><paragraph id="ID_1528705287336_001" name="a" temporalId="s7B_a"><num value="a">(a)</num><content>for a 1983 ship—Paragraph 1.5.6 of the 1983 IGC Code;</content></paragraph><paragraph id="ID_1528705287336_002" name="b" temporalId="s7B_b"><num value="b">(b)</num><content>for a 1993 ship—Paragraph 1.5.6 of the 1993 IGC Code; or</content></paragraph><paragraph id="ID_1528705287336_003" name="c" temporalId="s7B_c"><num value="c">(c)</num><content>for a 2014 ship—Paragraph 1.4.6 of the 2014 IGC Code.</content></paragraph><sourceNote>(<ref href="hk/2018/ln74">L.N. 74 of 2018</ref>)</sourceNote></section><section id="ID_1528446279495_003" name="s7C" temporalId="s7C" startPeriod="2024-09-05" status="operational" reason="inEffect"><num value="7C">7C.</num><heading>Duration of International Certificate of Fitness after early completion of surveys</heading><subsection id="ID_1528705298418_001" name="1" temporalId="s7C_1"><num value="1">(1)</num><leadIn>This regulation applies if—</leadIn><paragraph id="ID_1528705298418_002" name="a" temporalId="s7C_1_a"><num value="a">(a)</num><content>an intermediate survey of a ship is completed before the period within which the survey is required to be completed under <ref>regulation 5(1)(c)</ref>; or</content></paragraph><paragraph id="ID_1528705298418_003" name="b" temporalId="s7C_1_b"><num value="b">(b)</num><content>an annual survey of a ship is completed before the period within which the survey is required to be completed under <ref>regulation 5(1)(d)</ref>.</content></paragraph></subsection><subsection id="ID_1528705298418_004" name="2" temporalId="s7C_2"><num value="2">(2)</num><content>After a survey of a ship is completed as described in subregulation (1), the existing International Certificate of Fitness issued in respect of the ship must be endorsed to show a date described on the endorsement as the “new anniversary date” (<b><i>new anniversary date</i></b>), which must be a date within 3 months from the date of completion of the survey.</content></subsection><subsection id="ID_1528705298418_005" name="3" temporalId="s7C_3"><num value="3">(3)</num><content>For the purposes of any intermediate survey or annual survey to be carried out in respect of the ship under <ref>regulation 5(1)(c)</ref> or (d) in any year subsequent to the endorsement, the period within which the survey must be completed is to be ascertained by reference to the new anniversary date.</content></subsection><subsection id="ID_1528705298418_006" name="4" temporalId="s7C_4"><num value="4">(4)</num><leadIn>The duration of the existing International Certificate of Fitness issued in respect of the ship may be varied by the Director in accordance with—</leadIn><paragraph id="ID_1528705298418_007" name="a" temporalId="s7C_4_a"><num value="a">(a)</num><content>for a 1983 ship—Paragraph 1.5.6 of the 1983 IGC Code;</content></paragraph><paragraph id="ID_1528705298418_008" name="b" temporalId="s7C_4_b"><num value="b">(b)</num><content>for a 1993 ship—Paragraph 1.5.6 of the 1993 IGC Code; or</content></paragraph><paragraph id="ID_1528705298418_009" name="c" temporalId="s7C_4_c"><num value="c">(c)</num><content>for a 2014 ship—Paragraph 1.4.6 of the 2014 IGC Code.</content></paragraph></subsection><sourceNote>(<ref href="hk/2018/ln74">L.N. 74 of 2018</ref>)</sourceNote></section><section id="ID_1528446279620_004" name="s7D" temporalId="s7D" startPeriod="2024-09-05" status="operational" reason="inEffect"><num value="7D">7D.</num><heading>Extension of validity period of International Certificate of Fitness in certain circumstances</heading><subsection id="ID_1528705311043_001" name="1" temporalId="s7D_1"><num value="1">(1)</num><leadIn>The Director may, or with the Director’s consent an organization approved under <ref>section 8</ref> of the Ordinance may, extend the validity period of an existing International Certificate of Fitness issued in respect of a ship if—</leadIn><paragraph id="ID_1528705311043_002" name="a" temporalId="s7D_1_a"><num value="a">(a)</num><content>the certificate is valid for a period of less than 5 years;</content></paragraph><paragraph id="ID_1528705311043_003" name="b" temporalId="s7D_1_b"><num value="b">(b)</num><content>a new International Certificate of Fitness cannot be issued or placed on board the ship before the expiry of the certificate;</content></paragraph><paragraph id="ID_1528705311043_004" name="c" temporalId="s7D_1_c"><num value="c">(c)</num><content>the ship is not in the port in which it is to be surveyed when the certificate expires; or</content></paragraph><paragraph id="ID_1528705311043_005" name="d" temporalId="s7D_1_d"><num value="d">(d)</num><content>the ship is engaged in short voyages.</content></paragraph></subsection><subsection id="ID_1528705311043_006" name="2" temporalId="s7D_2"><num value="2">(2)</num><leadIn>An extension under subregulation (1) is to be granted in accordance with—</leadIn><paragraph id="ID_1528705311043_007" name="a" temporalId="s7D_2_a"><num value="a">(a)</num><content>for a 1983 ship—Paragraph 1.5.6 of the 1983 IGC Code;</content></paragraph><paragraph id="ID_1528705311059_008" name="b" temporalId="s7D_2_b"><num value="b">(b)</num><content>for a 1993 ship—Paragraph 1.5.6 of the 1993 IGC Code; or</content></paragraph><paragraph id="ID_1528705311059_009" name="c" temporalId="s7D_2_c"><num value="c">(c)</num><content>for a 2014 ship—Paragraph 1.4.6 of the 2014 IGC Code.</content></paragraph></subsection><sourceNote>(<ref href="hk/2018/ln74">L.N. 74 of 2018</ref>)</sourceNote></section><section id="ID_1438403107330_002" name="s8" reason="inEffect" role="regulation" startPeriod="2024-09-05" status="operational" temporalId="s8"><num value="8">8.</num><heading>Fees</heading><content>Fees shall be payable in respect of surveys and other services provided
+            by a Government
+            surveyor under these regulations and shall be determined as prescribed
+            by the Merchant Shipping (Fees) Regulations (<ref href="/hk/cap281F">Cap. 281 sub. leg.
+                F</ref>) and, as respects the time involved, by reference to the hourly rate
+            calculated in accordance with those regulations.</content><sourceNote>(<ref href="hk/2018/ln74">L.N. 74 of
+            2018</ref>; <ref href="/hk/2024/er5">E.R. 5 of
+            2024</ref>)</sourceNote></section><section id="ID_1438403107346_001" name="s9" reason="inEffect" role="regulation" startPeriod="2024-09-05" status="operational" temporalId="s9"><num value="9">9.</num><heading>Maintenance of condition after survey</heading><subsection id="ID_1438412240238_032" name="1" temporalId="s9_1"><num value="1">(1)</num><leadIn>The condition of the ship and its equipment shall be maintained so as
+                to ensure that—
+                <sourceNote>(<ref href="/hk/1996/ln420">L.N. 420 of
+                    1996</ref>; <ref href="hk/2018/ln74">L.N. 74 of
+                    2018</ref>)</sourceNote></leadIn><paragraph id="ID_1528774094594_001" name="a" temporalId="s9_1_a"><num value="a">(a)</num><content>the requirements of the applicable IGC Code are complied with;
+                    and</content></paragraph><paragraph id="ID_1528774094594_002" name="b" temporalId="s9_1_b"><num value="b">(b)</num><leadIn>the ship remains fit to proceed to sea without—</leadIn><subparagraph id="ID_1528774094594_003" name="1" temporalId="s9_1_b_1"><num value="1">(i)</num><content>posing any danger to the ship or persons on board; or</content></subparagraph><subparagraph id="ID_1528774094594_004" name="2" temporalId="s9_1_b_2"><num value="2">(ii)</num><content>presenting any unreasonable threat of harm to the marine
+                        environment.</content></subparagraph></paragraph></subsection><subsection id="ID_1438412240254_006" name="2" temporalId="s9_2"><num value="2">(2)</num><content>After any survey of the ship under <ref>regulation 5</ref> has been completed,
+                no change shall be made in the structure, equipment, fittings, arrangements and
+                materials covered by the survey, without the sanction of the Director, except by
+                direct replacement.</content></subsection><subsection id="ID_1438412240254_014" name="3" temporalId="s9_3"><num value="3">(3)</num><content>If a
+                reportable incident within the meaning of subregulation (4) happens to a
+                ship,
+                the master or owner of the ship shall report at the earliest opportunity to the
+                Director, who shall determine whether an additional survey is necessary and if the
+                ship is in a port of another State, the master or owner shall also report
+                immediately to the appropriate authority of the government of the State in which the
+                port is situated.</content></subsection><subsection id="ID_1528774094594_005" name="4" temporalId="s9_4"><num value="4">(4)</num><leadIn>In subregulation (3)—</leadIn><def name="ReportableIncident">
+                <leadIn><term>reportable incident</term> (<term xml:lang="zh-Hant-HK">須報告事故</term>)
+                    means the occurrence of an accident that affects the following matter or the
+                    discovery of a defect in a ship that affects the following matter—</leadIn>
+                <paragraph id="ID_1528774094594_006" name="a" temporalId="s9_4_a"><num value="a">(a)</num><content>the safety of the ship or persons on
+                        board;<marker role="section-break"></marker></content></paragraph>
+                <paragraph id="ID_1528774094594_007" name="b" temporalId="s9_4_b"><num value="b">(b)</num><content>the efficiency or completeness of the ship’s lifesaving appliances or
+                        other equipment required by the applicable IGC Code. <sourceNote>(<ref href="hk/2018/ln74">L.N. 74 of 2018</ref>)</sourceNote></content></paragraph>
+            </def></subsection><sourceNote>(<ref href="hk/2018/ln74">L.N. 74 of 2018</ref>)</sourceNote></section></part><part id="ID_1438403107346_003" name="P3" reason="inEffect" startPeriod="2024-09-05" status="operational" temporalId="P3"><num value="3">Part
+            III</num><heading>Miscellaneous</heading><section id="ID_1438403107361_002" name="s10" reason="inEffect" role="regulation" startPeriod="2024-09-05" status="operational" temporalId="s10"><num value="10">10.</num><heading>Equivalents</heading><content>Where the applicable IGC Code requires that a particular fitting, material, appliance, apparatus, item of equipment or type thereof should be fitted or carried in a ship, or that any particular provision should be made, or any procedure or arrangement should be complied with, the Director may allow any other fitting, material, appliance, apparatus, item of equipment or type thereof to be fitted or carried, or any other provision, procedure or arrangement to be made in that ship, if he is satisfied by trial thereof or otherwise that such fitting, material, appliance,
+            apparatus, item of equipment or type thereof, or that any particular provision, procedure or arrangement is at least as effective as that required by the applicable IGC Code.</content><sourceNote>(<ref href="/hk/1996/ln420">L.N. 420 of 1996</ref>; <ref href="hk/2018/ln74">L.N. 74 of 2018</ref>)</sourceNote></section><section id="ID_1438403107361_004" name="s11" reason="inEffect" role="regulation" startPeriod="2024-09-05" status="operational" temporalId="s11"><num value="11">11.</num><heading>Exemptions</heading><leadIn>The Director may on such terms (if any) as he may specify grant exemptions from—</leadIn><paragraph id="ID_1438412240332_012" name="a" temporalId="s11_a"><num value="a">(a)</num><content>all or any of the provisions of these regulations for any gas carrier referred to in <ref>regulation 3(1)(c)</ref> or any class of such gas carrier;</content></paragraph><paragraph id="ID_1438412240332_020" name="b" temporalId="s11_b"><num value="b">(b)</num><content>all or any of the provisions of <ref>regulation 4</ref> for any ship or any class of ship.</content></paragraph></section><section id="ID_1438403107377_002" name="s12" reason="inEffect" role="regulation" startPeriod="2024-09-05" status="operational" temporalId="s12"><num value="12">12.</num><heading>Loading and carriage in bulk of dangerous substances</heading><leadIn>A ship must not load in bulk or carry in bulk any of the substances listed in Chapter 19 of the applicable IGC Code unless—
+            <sourceNote>(<ref href="hk/2018/ln74">L.N. 74 of 2018</ref>)</sourceNote></leadIn><paragraph id="ID_1438412240347_012" name="a" temporalId="s12_a"><num value="a">(a)</num><content>there is in force in respect of that ship a valid International Certificate of Fitness covering the substance; or <sourceNote>(<ref href="hk/2018/ln74">L.N. 74 of 2018</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438412240347_020" name="b" temporalId="s12_b"><num value="b">(b)</num><content>the Director has given specific approval to its carriage.</content></paragraph><sourceNote>(<ref href="/hk/1996/ln420">L.N. 420 of 1996</ref>)</sourceNote></section><section id="ID_1438403107392_001" name="s13" reason="inEffect" role="regulation" startPeriod="2024-09-05" status="operational" temporalId="s13"><num value="13">13.</num><heading>Penalties</heading><subsection id="ID_1528706075325_001" name="1" temporalId="s13_1"><num value="1">(1)</num><content>If <ref>regulation 4</ref>, <ref>5(1)</ref>, <ref>9</ref> or <ref>12</ref> is contravened in relation to a ship, the owner and master of the ship each commits an offence and is liable to a fine at level 3. <sourceNote>(<ref href="hk/2018/ln74">L.N. 74 of 2018</ref>)</sourceNote></content></subsection><subsection id="ID_1438412240363_041" name="2" temporalId="s13_2"><num value="2">(2)</num><content>Where there is a contravention of <ref>regulation 5(2)</ref> the owner of the
+                ship concerned commits an offence and is liable to a fine
+                at
+                level
+                    3.<inline class="width_3"></inline><sourceNote>(<ref href="/hk/2024/er5">E.R. 5 of
+                    2024</ref>)</sourceNote></content></subsection><subsection id="ID_1528706075340_002" name="2A" temporalId="s13_2A"><num value="2A">(2A)</num><content>If <ref>regulation 7(3)</ref> or (5) is contravened in relation to a ship, the owner and master of the ship each commits an offence and is liable to a fine at level 2. <sourceNote>(<ref href="hk/2018/ln74">L.N. 74 of 2018</ref>)</sourceNote></content></subsection><subsection id="ID_1438412240363_049" name="3" temporalId="s13_3"><num value="3">(3)</num><content>It shall be a defence for a person charged with an offence under these regulations to prove that he took all reasonable steps to ensure that the regulations were complied with.</content></subsection></section></part><schedule id="ID_1438403107392_003" name="sch1" reason="inEffect" startPeriod="2024-09-05" status="operational" temporalId="sch1"><num value="1">Schedule
+            1</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap369Z/s2">reg. 2</ref>]</note><heading>Amendments
+            to
+            1983 IGC
+            Code
+            (Resolution MSC. 5(48))</heading><text class="align_center">(Paragraph numbers and
+            amended text refer to the IMO’s<br></br>authentic text of the 1983 IGC Code<br></br>in the
+            English language)<marker role="blank-line"></marker><marker role="blank-line"></marker></text><text>
+            
+            <table xmlns="http://www.w3.org/1999/xhtml" class="repeat_header" width="100%">
+                <col width="19.0590%"></col>
+                <col width="80.9375%"></col>
+                <thead>
+                    <tr>
+                        <td>
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Paragraph</center>
+                        </td>
+                        <td>
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Amendments</center>
+                        </td>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">2.7.8.1</p>
+                        </td>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">Amend
+                                reference to read 2.9.1.1.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">2.7.8.2</p>
+                        </td>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">Amend
+                                reference to read 2.9.2.1.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">2.9.2.1</p>
+                        </td>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">Fifth line,
+                                replace “m/rad.” by “m.rad”.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">3.2.4</p>
+                        </td>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">Second
+                                line, insert “, machinery spaces” between “spaces” and “and”. Fourth
+                                line, insert “(L)” between “length” and “of the ship”. Fourth and
+                                fifth lines, replace “house” by “superstructure or
+                                deckhouse”.<br></br>Seventh
+                                line, replace “houses” by “superstructures or deckhouses”.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">3.2.5</p>
+                        </td>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">Second
+                                line, replace “are to” by “or deckhouse should”.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">3.2.6</p>
+                        </td>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">Third line,
+                                replace “are to” by “shall”.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">3.8.4</p>
+                        </td>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">Sixth line,
+                                replace “house” by “superstructure or deckhouse”.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">4.3.2</p>
+                        </td>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">Replace<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_3"> </inline>“h<sub>eq</sub>”,
+                                    “h<sub>gd</sub>”<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_3"> </inline>and “(h<sub>gd</sub>)<sub>max</sub>” by “P<sub>eq</sub>”,
+                                    “P<sub>gd</sub>” and “(P<sub>gd</sub>)<sub>max</sub>”.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">4.3.2.1</p>
+                        </td>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">First line,
+                                delete “head”.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">4.3.2.2</p>
+                        </td>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">Third line,
+                                insert “liquid” after
+                                “internal”.<br></br>Fourth
+                                line, delete “head”.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">4.4.5.1</p>
+                        </td>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">Last
+                                paragraph, replace “analyses” by “analysis” in three places.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">4.4.5.6</p>
+                        </td>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">Note
+                                    C<sub>w</sub>,
+                                delete“=”.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">4.7.6.1</p>
+                        </td>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">Last two
+                                lines, replace “in way of” by “adjacent to”.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">4.8.1</p>
+                        </td>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">Third line,
+                                replace “service” by “design”.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">4.8.2</p>
+                        </td>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">Fourth
+                                line, replace “service” by “design”.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">4.9.9</p>
+                        </td>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">Last line,
+                                insert “cargo” between “the” and “containment”.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">4.10.9.1</p>
+                        </td>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">Second
+                                line, amend to read “and workmanship such as out-of-roundness, local
+                                deviations from the”.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">4.10.9.2.1</p>
+                        </td>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">Last line,
+                                replace “or” by “of”.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">4.10.18</p>
+                        </td>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">Last line,
+                                replace “rises” by “raisers”.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">5.2.1.1</p>
+                        </td>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">First line,
+                                replace “this section” by “<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">sections
+                                5</ref>.2 to 5.5”.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">5.2.3.2</p>
+                        </td>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">Last line,
+                                replace “system” by “systems”.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">5.4.6</p>
+                        </td>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">Heading,
+                                replace “treatments” by “treatment”.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">5.4.6.2</p>
+                        </td>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">First line,
+                                replace “treatments” by “treatment”.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">5.4.6.3.1</p>
+                        </td>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">Second
+                                line, replace “service” by “design”.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">5.4.6.3.2</p>
+                        </td>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">First line,
+                                insert “not covered by 5.4.6.3.1” after “pipes”.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">Table
+                                6.1</p>
+                        </td>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">Line 16,
+                                replace “PLATE” by “PLATES”.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">Table
+                                6.2</p>
+                        </td>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">Line 17,
+                                replace “SECTIONS” by “SECTIONS AND FORGINGS”.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">6.3.6.3</p>
+                        </td>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">First line,
+                                amend the reference to read “6.3.6.2.1”.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">8.2.8.3</p>
+                        </td>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">Last line,
+                                insert “spare” between “maintained” and “valve”.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">8.3.1.1</p>
+                        </td>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">First line,
+                                replace “pressuure” by “pressure”.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">8.5.2</p>
+                        </td>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">Definition
+                                of “D”: replace “K” by “k”.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">9.5.3</p>
+                        </td>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">Fourth
+                                line, delete “tank”.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">10.2.5.2</p>
+                        </td>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">First and
+                                second lines: replace “cargo products” by “cargoes”.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">11.1.1.1</p>
+                        </td>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">Amend
+                                reference to read “56.6”.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">11.6.1</p>
+                        </td>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">In the
+                                table, delete “below
+                                2,000
+                                    m<sup>3</sup><inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_15"> </inline>2”, replace “between
+                                2,000
+                                    m<sup>3</sup> and
+                                5,000
+                                    m<sup>3</sup>” by
+                                “5,000
+                                    m<sup>3</sup> and below”.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">Chapter
+                                12</p>
+                        </td>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">Preamble,
+                                replace “replace” by “should be substituted for”.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">13.6.11</p>
+                        </td>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">Sixth line,
+                                replace “sampling and detecting” by “monitoring”.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">14.2.3.1</p>
+                        </td>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">First line,
+                                insert “spare” between “charged” and “air”.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">15.1.2</p>
+                        </td>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">First line,
+                                replace “should” by “may”.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">15.1.4.2</p>
+                        </td>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">Penultimate
+                                line, replace “relief<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_3"> </inline>valve” by “relieving system”.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">15.2</p>
+                        </td>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">First line,
+                                replace “tank filling” by “loading”.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">17.14.3.1</p>
+                        </td>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">First line,
+                                replace “are to” by “shall”.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">17.14.4.3.1</p>
+                        </td>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">Delete
+                                “cargo”.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">17.14.5.1</p>
+                        </td>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">Fourth
+                                line, delete “remainder of the”.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">17.16.5</p>
+                        </td>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">Replace
+                                “17.20.6.3” by “17.20.5.3”.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">17.20.4</p>
+                        </td>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">Second
+                                line, delete “pit”.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">17.20.13.1</p>
+                        </td>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">Fourth
+                                line, replace “the product” by “these products”.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">17.20.13.3</p>
+                        </td>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">First line,
+                                replace “Before loading the product,” by “Before each initial
+                                loading of these products and before every subsequent return to such
+                                service,”.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">17.20.17</p>
+                        </td>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">Eighth
+                                line, replace “atmospheric” by “ambient”.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">18.1.1.7</p>
+                        </td>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">Insert
+                                “allowable” between “minimum” and “inner”.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">18.2.1</p>
+                        </td>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">First line,
+                                replace “character” by
+                                “characteristics”.<br></br>Last
+                                line, replace “if so” by “as”.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0"><i>Appendix</i></p>
+                        </td>
+                        <td>
+                            <p class="align_justified left_indent_2 first_line_indent_0">Model form
+                                of certificate, footnote 5, third line, insert “or their compatible
+                                mixture having physical proportions within the limitations of tank
+                                design” between “Code” and “should”.</p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </text><sourceNote>(<ref href="/hk/1996/ln420">L.N. 420 of
+        1996</ref>)</sourceNote></schedule><schedule id="ID_1438403107408_002" name="sch2" reason="repealed" startPeriod="2018-07-09" status="repealed" temporalId="sch2"><num value="2">Schedule
+            2</num><sourceNote>(Repealed <ref href="hk/2018/ln74">L.N. 74 of
+        2018</ref>)</sourceNote></schedule></main></subLeg>

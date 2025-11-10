@@ -1,0 +1,860 @@
+<?xml version="1.0" encoding="UTF-8"?><ordinance xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd" xml:lang="en"><meta><docName>Cap. 133</docName><docType>cap</docType><docNumber>133</docNumber><docStatus>In effect</docStatus><dc:identifier>/hk/cap133!en</dc:identifier><dc:date>2024-03-20</dc:date><dc:subject>legislation</dc:subject><dc:language>en</dc:language><dc:publisher>DoJ</dc:publisher><dc:rights>the Government of the Hong Kong Special Administrative Region</dc:rights></meta><main xml:lang="en" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd"><longTitle id="ID_1438402699280_003" name="longTitle" reason="inEffect" status="operational" temporalId="longTitle" startPeriod="2020-07-09">
+            <content>To provide for the registration and control of pesticides and for matters
+                connected therewith.</content>
+        </longTitle><sourceNote>(Amended <ref href="/hk/1990/79">79 of 1990 s.
+            2</ref>)</sourceNote><sourceNote>(Format changes—<ref href="hk/2020/er4">E.R. 4 of
+            2020</ref>)<marker role="blank-line"></marker><marker role="blank-line"></marker></sourceNote><commencementNote>[15 July 1977]<sourceNote><inline class="width_3"> </inline><ref href="/hk/1977/ln166">L.N. 166 of 1977</ref></sourceNote></commencementNote><part id="ID_1438402699296_002" name="P1" reason="inEffect" startPeriod="2014-04-10" status="operational" temporalId="P1"><num value="1">Part 1</num><heading>Preliminary</heading><sourceNote>(Format changes—<ref href="/hk/2014/er2">E.R. 2 of 2014</ref>)</sourceNote><section id="ID_1438402699311_001" name="s1" reason="inEffect" startPeriod="2014-04-10" status="operational" temporalId="s1"><num value="1">1.</num><heading>Short title</heading><content>This Ordinance may be cited as the <shortTitle>Pesticides Ordinance</shortTitle>.</content><sourceNote>(Amended <ref href="/hk/1990/79">79 of 1990 s. 3</ref>)</sourceNote></section><section id="ID_1438402699311_003" name="s2" reason="inEffect" startPeriod="2014-04-10" status="operational" temporalId="s2"><num value="2">2.</num><heading>Interpretation</heading><subsection id="ID_1438411241665_032" name="1" temporalId="s2_1"><num value="1">(1)</num><leadIn>In this Ordinance, unless the context otherwise requires—  <sourceNote>(Amended <ref href="/hk/2013/14">14 of 2013 s. 3</ref>)</sourceNote></leadIn><def name="ActiveIngredient"><term>active ingredient</term> (<term xml:lang="zh-Hant-HK">活性成分</term>), in relation to a pesticide, means any substance, mixture of substances or biological agent in the pesticide which is the biologically active part of the pesticide;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1990/79">79 of 1990 s. 4</ref>)</sourceNote></def><def name="AuthorizedOfficer"><term>authorized officer</term> (<term xml:lang="zh-Hant-HK">獲授權人員</term>) means a public officer appointed to be an authorized officer under <ref>section 14</ref>;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/2013/14">14 of 2013 s. 3</ref>)</sourceNote></def><def name="Director"><term>Director</term> (<term xml:lang="zh-Hant-HK">署長</term>) means the Director of Agriculture, Fisheries and Conservation and the Deputy Director of Agriculture, Fisheries and Conservation;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1999/ln331">L.N. 331 of 1999</ref>)</sourceNote></def><def name="Function"><term>function</term> (<term xml:lang="zh-Hant-HK">職能</term>) includes duty;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/2013/14">14 of 2013 s. 3</ref>)</sourceNote></def><def name="InertIngredient"><term>inert ingredient</term> (<term xml:lang="zh-Hant-HK">非主成分</term>), in relation to a pesticide, means any ingredient of the pesticide which is not an active ingredient;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1990/79">79 of 1990 s. 4</ref>)</sourceNote></def><def name="Inspector"><term>inspector</term> (<term xml:lang="zh-Hant-HK">督察</term>) means any public officer authorized to be an inspector under <ref>section 14</ref>;</def><def name="Licence"><term>licence</term> (<term xml:lang="zh-Hant-HK">牌照</term>) means a licence to import, manufacture, sell or supply registered pesticides issued under <ref>section 9</ref>;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1990/79">79 of 1990 s. 4</ref>; <ref href="/hk/2013/14">14 of 2013 s. 3</ref>)</sourceNote></def><def name="MemberOfTheCustomsAndExciseService"><term>member of the Customs and Excise Service</term> (<term xml:lang="zh-Hant-HK">海關人員</term>) means any person holding an office specified in <ref>Schedule 1</ref> to the Customs and Excise Service Ordinance (<ref href="/hk/cap342">Cap. 342</ref>);<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1977/46">46 of 1977 s. 18</ref>; <ref href="/hk/1995/68">68 of 1995 s. 2</ref>)</sourceNote></def><def name="Permit"><leadIn><term>permit</term> (<term xml:lang="zh-Hant-HK">許可證</term>) means—</leadIn><paragraph id="ID_1438411241680_068" name="a" temporalId="s2_1_a"><num value="a">(a)</num><content>a permit to import, manufacture, sell, supply, be in possession of or use a scheduled pesticide or any other unregistered pesticide issued under <ref>section 9</ref>; or </content></paragraph><paragraph id="ID_1438411241696_006" name="b" temporalId="s2_1_b"><num value="b">(b)</num><content>a permit to export a scheduled pesticide issued under <ref>section 9</ref>;<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/2013/14">14 of 2013 s. 3</ref>)</sourceNote></content></paragraph></def><def name="Pesticide"><leadIn><term>pesticide</term> (<term xml:lang="zh-Hant-HK">除害劑</term>) means—</leadIn><paragraph id="ID_1438411241696_020" name="a" temporalId="s2_1_a-1"><num value="a">(a)</num><content>any insecticide, fungicide, herbicide, acaricide or any substance (whether organic or inorganic) or mixture of substances used or intended to be used for preventing, destroying, repelling, attracting, inhibiting or controlling any insect, rodent, bird, nematode, bacterium, fungus, weed or other form of plant or animal life or any virus, which is a pest; or</content></paragraph><paragraph id="ID_1438411241696_028" name="b" temporalId="s2_1_b-1"><num value="b">(b)</num><content>any substance or mixture of substances used or intended to be used as a plant growth regulator, defoliant or desiccant,</content></paragraph><continued>but does not include—</continued><paragraph id="ID_1438411241696_042" name="i" temporalId="s2_1_i"><num value="i">(i)</num><content>any purely mechanical device for trapping or catching insects, rodents or other animals;</content></paragraph><paragraph id="ID_1438411241696_050" name="ii" temporalId="s2_1_ii"><num value="ii">(ii)</num><content>any purely electromagnetic or ultrasonic device for the control of mosquitoes, rodents or other pests;</content></paragraph><paragraph id="ID_1438411241712_006" name="iii" temporalId="s2_1_iii"><num value="iii">(iii)</num><content>any antiseptic, disinfecting solution or preparation in clinical or sanitary applications that is neither specified in <ref>Schedule 1</ref> nor in <ref>Part 1 of Schedule 2</ref>;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/2013/14">14 of 2013 s. 3</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411241712_014" name="iv" temporalId="s2_1_iv"><num value="iv">(iv)</num><content>any pharmaceutical product within the meaning of <ref>section 2</ref> of the Pharmacy and Poisons Ordinance (<ref href="/hk/cap138">Cap. 138</ref>); and<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1990/79">79 of 1990 s. 4</ref>. Amended <ref href="/hk/2013/14">14 of 2013 s. 3</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411241712_022" name="v" temporalId="s2_1_v"><num value="v">(v)</num><leadIn>any insecticide, fungicide, herbicide, acaricide or any substance (whether organic or inorganic) or mixture of substances described in paragraph (a) or (b), if—</leadIn><subparagraph id="ID_1438411241712_030" name="A" temporalId="s2_1_v_A"><num value="A">(A)</num><content>it is neither specified in <ref>Schedule 1</ref> nor in <ref>Part 1 of Schedule 2</ref>; </content></subparagraph><subparagraph id="ID_1438411241712_038" name="B" temporalId="s2_1_v_B"><num value="B">(B)</num><content>it is contained in an individual package or container and does not exceed 10 g or 10 mL; and </content></subparagraph><subparagraph id="ID_1438411241712_046" name="C" temporalId="s2_1_v_C"><num value="C">(C)</num><leadIn>it is used or intended to be used indoors—</leadIn><subparagraph id="ID_1438411241712_053" name="I" role="subSubParagraph" temporalId="s2_1_v_C_I"><num value="I">(I)</num><content>for laboratory research; </content></subparagraph><subparagraph id="ID_1438411241712_061" name="II" role="subSubParagraph" temporalId="s2_1_v_C_II"><num value="II">(II)</num><content>for chemical analysis; or </content></subparagraph><subparagraph id="ID_1438411241712_069" name="III" role="subSubParagraph" temporalId="s2_1_v_C_III"><num value="III">(III)</num><content>as a reference standard;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/2013/14">14 of 2013 s. 3</ref>)</sourceNote></content></subparagraph></subparagraph></paragraph></def><def name="Plants"><term>plants</term> (<term xml:lang="zh-Hant-HK">植物</term>) include trees, bushes and seeds;</def><def name="Register"><term>register</term> (<term xml:lang="zh-Hant-HK">註冊紀錄冊</term>) means the register of pesticides maintained under <ref>section 4</ref>;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1990/79">79 of 1990 s. 4</ref>)</sourceNote></def><def name="RegisteredPesticide"><term>registered pesticide</term> (<term xml:lang="zh-Hant-HK">註冊除害劑</term>) means a pesticide which is registered in the register;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1990/79">79 of 1990 s. 4</ref>)</sourceNote></def><def name="RotterdamConvention"><term>Rotterdam Convention</term> (《<term xml:lang="zh-Hant-HK">鹿特丹公約</term>》) means the Rotterdam Convention on the Prior Informed Consent Procedure for Certain Hazardous Chemicals and Pesticides in International Trade adopted on 10 September 1998 as amended from time to time and as applied to Hong Kong;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/2013/14">14 of 2013 s. 3</ref>)</sourceNote></def><def name="ScheduledPesticide"><leadIn><term>scheduled pesticide</term> (<term xml:lang="zh-Hant-HK"><ref>附表</ref>所列除害劑</term>) means an unregistered pesticide specified in—</leadIn><paragraph id="ID_1438411241727_033" name="a" temporalId="s2_1_a-2"><num value="a">(a)</num><content><ref>Schedule 1</ref> or <ref>Part 1 of Schedule 2</ref>; or </content></paragraph><paragraph id="ID_1438411241727_041" name="b" temporalId="s2_1_b-2"><num value="b">(b)</num><content>both <ref>Schedule 1</ref> and <ref>Part 1 of Schedule 2</ref>;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/2013/14">14 of 2013 s. 3</ref>)</sourceNote></content></paragraph></def><def name="StockholmConvention"><term>Stockholm Convention</term> (《<term xml:lang="zh-Hant-HK">斯德哥爾摩公約</term>》) means the Stockholm Convention on Persistent Organic Pollutants adopted on 22 May 2001 as amended from time to time and as applied to Hong Kong;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/2013/14">14 of 2013 s. 3</ref>)</sourceNote></def><def name="UnregisteredPesticide"><term>unregistered pesticide</term> (<term xml:lang="zh-Hant-HK">未經註冊除害劑</term>) means a pesticide which is not registered in the register.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1990/79">79 of 1990 s. 4</ref>)</sourceNote></def></subsection><sourceNote>(Amended <ref href="/hk/1990/79">79 of 1990 s. 4</ref>; <ref href="/hk/2013/14">14 of 2013 s. 3</ref>)</sourceNote><subsection id="ID_1438411241727_068" name="2" temporalId="s2_2"><num value="2">(2)</num><content>In this Ordinance, a reference to manufacture, in relation to a scheduled pesticide or any other unregistered pesticide, includes causing the pesticide to be manufactured.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/2013/14">14 of 2013 s. 3</ref>)</sourceNote></content></subsection><subsection id="ID_1438411241743_005" name="3" temporalId="s2_3"><num value="3">(3)</num><content>To avoid doubt, a scheduled pesticide or any other unregistered pesticide is not regarded as having been manufactured if it is produced incidentally in the course of the manufacture of another thing.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/2013/14">14 of 2013 s. 3</ref>)</sourceNote></content></subsection><subsection id="ID_1438411241743_013" name="4" temporalId="s2_4"><num value="4">(4)</num><leadIn>For the purposes of this Ordinance, a pesticide is in transhipment if—</leadIn><paragraph id="ID_1438411241743_021" name="a" temporalId="s2_4_a"><num value="a">(a)</num><content>it is consigned on a through bill of lading or air waybill from a place outside Hong Kong to another place outside Hong Kong; and </content></paragraph><paragraph id="ID_1438411241743_029" name="b" temporalId="s2_4_b"><num value="b">(b)</num><leadIn>it is or is to be removed from the ship, vehicle, train or aircraft in which it was imported into Hong Kong and—</leadIn><subparagraph id="ID_1438411241743_037" name="i" temporalId="s2_4_b_i"><num value="i">(i)</num><content>returned to the same ship, vehicle, train or aircraft before being exported from Hong Kong; or </content></subparagraph><subparagraph id="ID_1438411241743_045" name="ii" temporalId="s2_4_b_ii"><num value="ii">(ii)</num><content>transferred to another ship, vehicle, train or aircraft before being exported from Hong Kong.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/2013/14">14 of 2013 s. 3</ref>)</sourceNote></content></subparagraph></paragraph></subsection><subsection id="ID_1438411241743_051" name="5" temporalId="s2_5"><num value="5">(5)</num><leadIn>Subsection <ref>(4)(b)</ref> applies whether—</leadIn><paragraph id="ID_1438411241743_059" name="a" temporalId="s2_5_a"><num value="a">(a)</num><content>the pesticide is or is to be transferred directly between the ships, vehicles, trains or aircraft; or </content></paragraph><paragraph id="ID_1438411241758_006" name="b" temporalId="s2_5_b"><num value="b">(b)</num><content>the pesticide is to be landed in Hong Kong after its importation and stored, pending exportation.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/2013/14">14 of 2013 s. 3</ref>)</sourceNote></content></paragraph></subsection></section><section id="ID_1438402699343_001" name="s3" reason="inEffect" startPeriod="2014-04-10" status="operational" temporalId="s3"><num value="3">3.</num><heading>Application</heading><subsection id="ID_1438411241836_026" name="1" temporalId="s3_1"><num value="1">(1)</num><leadIn>This Ordinance does not apply to a pesticide that—</leadIn><paragraph id="ID_1438411241836_034" name="a" temporalId="s3_1_a"><num value="a">(a)</num><content>is in transit; </content></paragraph><paragraph id="ID_1438411241836_042" name="b" temporalId="s3_1_b"><num value="b">(b)</num><content>is not a scheduled pesticide and is transhipped in Hong Kong; or </content></paragraph><paragraph id="ID_1438411241852_006" name="c" temporalId="s3_1_c"><num value="c">(c)</num><content>is a scheduled pesticide and is air transhipment cargo.<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/2013/14">14 of 2013 s. 4</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438411241852_013" name="2" temporalId="s3_2"><num value="2">(2)</num><sourceNote>(Repealed <ref href="/hk/1990/79">79 of 1990 s. 5</ref>)</sourceNote></subsection><subsection id="ID_1438411241852_021" name="3" temporalId="s3_3"><num value="3">(3)</num><content>For the purposes of subsection <ref>(1)(a)</ref>, a pesticide is in transit if it is destined for a place outside Hong Kong and is passing through Hong Kong on the same ship, aircraft or vehicle without transhipment.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/2013/14">14 of 2013 s. 4</ref>)</sourceNote></content></subsection><subsection id="ID_1438411241852_029" name="4" temporalId="s3_4"><num value="4">(4)</num><leadIn>In this section—</leadIn><def name="AirTranshipmentCargo"><term>air transhipment cargo</term> (<term xml:lang="zh-Hant-HK">航空轉運貨物</term>) means an article in transhipment that is both imported and consigned for export in an aircraft and which, during the period between its import and export, remains within the cargo transhipment area of Hong Kong International Airport; </def><def name="CargoTranshipmentAreaOfHongKongInternationalAirport"><term>cargo transhipment area of Hong Kong International Airport</term> (<term xml:lang="zh-Hant-HK">機場貨物轉運區</term>) has the meaning given by <ref>section 2</ref> of the Import and Export Ordinance (<ref href="/hk/cap60">Cap. 60</ref>).<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/2013/14">14 of 2013 s. 4</ref>)</sourceNote></def></subsection><sourceNote>(Amended <ref href="/hk/1990/79">79 of 1990 s. 5</ref>)</sourceNote></section><section id="ID_1438402699343_003" name="s3A" reason="inEffect" startPeriod="2022-07-01" status="operational" temporalId="s3A"><num value="3A">3A.</num><heading>Ordinance applies to Government etc.</heading><subsection id="ID_1438411241883_004" name="1" temporalId="s3A_1"><num value="1">(1)</num><content>This Ordinance applies to the Government. </content></subsection><subsection id="ID_1438411241883_012" name="2" temporalId="s3A_2"><num value="2">(2)</num><leadIn>Despite subsection (1), the Government—</leadIn><paragraph id="ID_1438411241883_020" name="a" temporalId="s3A_2_a"><num value="a">(a)</num><content>is not liable to be prosecuted for an offence under this Ordinance; and
+                </content></paragraph><paragraph id="ID_1438411241883_028" name="b" temporalId="s3A_2_b"><num value="b">(b)</num><content>is not required to pay any prescribed fee. </content></paragraph></subsection><subsection id="ID_1438411241883_035" name="3" temporalId="s3A_3"><num value="3">(3)</num><content>If the Director has reasonable grounds to believe that there has been or is a
+                contravention by the Government of this Ordinance, the Director must report the
+                matter to the Secretary for
+                Environment
+                and Ecology. </content></subsection><subsection id="ID_1438411241883_043" name="4" temporalId="s3A_4"><num value="4">(4)</num><leadIn>The report must contain the advice of the Director on—</leadIn><paragraph id="ID_1438411241883_051" name="a" temporalId="s3A_4_a"><num value="a">(a)</num><content>whether the contravention has been terminated; and </content></paragraph><paragraph id="ID_1438411241883_059" name="b" temporalId="s3A_4_b"><num value="b">(b)</num><content>if the contravention has been terminated, whether it has been terminated to
+                    the Director’s satisfaction. </content></paragraph></subsection><subsection id="ID_1438411241899_005" name="5" temporalId="s3A_5"><num value="5">(5)</num><content>On receiving the report from the Director, the Secretary for
+                Environment
+                and Ecology must enquire into the matter to which the report
+                relates. </content></subsection><subsection id="ID_1438411241899_013" name="6" temporalId="s3A_6"><num value="6">(6)</num><content>If the enquiry shows that there has been a contravention referred to in
+                subsection (3) and the contravention is likely to be repeated, the Secretary for
+                Environment
+                and Ecology must take the best practicable steps to avoid the
+                recurrence of a like contravention. </content></subsection><text><marker role="section-break"></marker></text><subsection id="ID_1438411241899_021" name="7" temporalId="s3A_7"><num value="7">(7)</num><content>If the enquiry shows that there is a contravention referred to in subsection
+                (3) and the contravention is continuing, the Secretary for
+                Environment
+                and Ecology must take the best practicable steps to stop the
+                contravention.</content></subsection><sourceNote>(Added <ref href="/hk/2013/14">14 of 2013 s.
+            5</ref>. Amended <ref href="/hk/2022/ln144">L.N.
+                144
+                of 2022</ref>)</sourceNote></section></part><part id="ID_1438402699358_002" name="P2" reason="inEffect" startPeriod="2014-04-10" status="operational" temporalId="P2"><num value="2">Part 2</num><heading>Registration of Pesticides</heading><sourceNote>(Format changes—<ref href="/hk/2014/er2">E.R. 2 of 2014</ref>)</sourceNote><section id="ID_1438402699374_001" name="s4" reason="inEffect" startPeriod="2014-04-10" status="operational" temporalId="s4"><num value="4">4.</num><heading>Register of pesticides</heading><leadIn>The Director shall maintain a register of pesticides in which—</leadIn><paragraph id="ID_1438411241961_012" name="a" temporalId="s4_a"><num value="a">(a)</num><content>Part I shall contain a list of all pesticides which are in a form ready for immediate use without going through any treatment or process and which are for general domestic use; and</content></paragraph><paragraph id="ID_1438411241961_020" name="b" temporalId="s4_b"><num value="b">(b)</num><content>Part II shall contain a list of all other pesticides.</content></paragraph><sourceNote>(Replaced <ref href="/hk/1990/79">79 of 1990 s. 6</ref>)</sourceNote></section><section id="ID_1438402699374_003" name="s5" reason="inEffect" startPeriod="2014-04-10" status="operational" temporalId="s5"><num value="5">5.</num><heading>Registration</heading><subsection id="ID_1438411241977_033" name="1" temporalId="s5_1"><num value="1">(1)</num><content>Any person may apply to the Director for registration of a pesticide.</content></subsection><subsection id="ID_1438411241977_041" name="2" temporalId="s5_2"><num value="2">(2)</num><content>An application under subsection (1) must be made in writing in the prescribed manner.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/2013/14">14 of 2013 s. 6</ref>)</sourceNote></content></subsection><subsection id="ID_1438411241977_049" name="3" temporalId="s5_3"><num value="3">(3)</num><leadIn>After considering an application under subsection (1) the Director may—</leadIn><paragraph id="ID_1438411241977_057" name="a" temporalId="s5_3_a"><num value="a">(a)</num><content>register the pesticide in Part I or II of the register; or</content></paragraph><paragraph id="ID_1438411241977_065" name="b" temporalId="s5_3_b"><num value="b">(b)</num><content>refuse to register it.</content></paragraph></subsection><subsection id="ID_1438411241977_072" name="3A" temporalId="s5_3A"><num value="3A">(3A)</num><leadIn>The Director must not register—</leadIn><paragraph id="ID_1438411241977_080" name="a" temporalId="s5_3A_a"><num value="a">(a)</num><content>a scheduled pesticide; or </content></paragraph><paragraph id="ID_1438411241992_007" name="b" temporalId="s5_3A_b"><num value="b">(b)</num><content>a pesticide that consists of a scheduled pesticide.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/2013/14">14 of 2013 s. 6</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438411241992_014" name="4" temporalId="s5_4"><num value="4">(4)</num><content>The Director may register a pesticide in Part I or Part II of the register although an application for registration of the pesticide has not been made under subsection (1).</content></subsection><subsection id="ID_1438411241992_022" name="5" temporalId="s5_5"><num value="5">(5)</num><content>The Director may register a pesticide subject to such conditions as he may think fit.</content></subsection><sourceNote>(Amended <ref href="/hk/1990/79">79 of 1990 s. 7</ref>)</sourceNote></section><section id="ID_1438402699389_002" name="s6" reason="inEffect" startPeriod="2014-04-10" status="operational" temporalId="s6"><num value="6">6.</num><heading>Power of Director to cancel or modify registration</heading><leadIn>The Director may at any time—</leadIn><paragraph id="ID_1438411242008_073" name="a" temporalId="s6_a"><num value="a">(a)</num><content>cancel the registration of a pesticide in Part I of the register and register it in Part II of the register;</content></paragraph><paragraph id="ID_1438411242024_005" name="ab" temporalId="s6_ab"><num value="ab">(ab)</num><content>cancel the registration of a pesticide if the pesticide is listed under the Rotterdam Convention or the Stockholm Convention;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/2013/14">14 of 2013 s. 7</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411242024_013" name="b" temporalId="s6_b"><num value="b">(b)</num><content>modify or add to, or cancel, any condition imposed by him under this Part in respect of the registration of a pesticide; or</content></paragraph><paragraph id="ID_1438411242024_021" name="c" temporalId="s6_c"><num value="c">(c)</num><content>cancel or suspend the registration of a pesticide if it appears to him to be necessary in the interests of public safety.</content></paragraph><sourceNote>(Amended <ref href="/hk/1990/79">79 of 1990 s. 8</ref>)</sourceNote></section></part><part id="ID_1438402699405_001" name="P3" reason="inEffect" startPeriod="2014-04-10" status="operational" temporalId="P3"><num value="3">Part 3</num><heading>Control of Pesticides</heading><sourceNote>(Format changes—<ref href="/hk/2014/er2">E.R. 2 of 2014</ref>)</sourceNote><section id="ID_1438402699421_001" name="s7" reason="inEffect" startPeriod="2014-04-10" status="operational" temporalId="s7"><num value="7">7.</num><heading>Control of registered pesticides</heading><subsection id="ID_1438411242055_004" name="1" temporalId="s7_1"><num value="1">(1)</num><leadIn>Save under and in accordance with a licence, no person shall—</leadIn><paragraph id="ID_1438411242070_005" name="a" temporalId="s7_1_a"><num value="a">(a)</num><content>import into or cause to be imported into Hong Kong;</content></paragraph><paragraph id="ID_1438411242070_013" name="aa" temporalId="s7_1_aa"><num value="aa">(aa)</num><content>manufacture;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1990/79">79 of 1990 s. 9</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411242070_021" name="b" temporalId="s7_1_b"><num value="b">(b)</num><content>sell or offer or expose for sale; or</content></paragraph><paragraph id="ID_1438411242070_029" name="c" temporalId="s7_1_c"><num value="c">(c)</num><content>supply or offer to supply,</content></paragraph><continued>any registered
+                    pesticide.<inline class="width_3"></inline><sourceNote>(Amended <ref href="/hk/1990/79">79 of 1990 s.
+                        9</ref>)</sourceNote></continued></subsection><subsection id="ID_1438411242070_042" name="2" temporalId="s7_2"><num value="2">(2)</num><leadIn>Subsection <ref>(1)(b)</ref> and (c) shall not apply to any person who—</leadIn><paragraph id="ID_1438411242070_050" name="a" temporalId="s7_2_a"><num value="a">(a)</num><content>is not engaged in the trade or business, whether for wholesale, retail or
+                    otherwise, of selling, offering or exposing for sale, supplying or offering to
+                    supply pesticides;
+                        and<inline class="width_3"></inline><sourceNote>(Amended <ref href="/hk/1990/79">79 of 1990 s.
+                            9</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411242070_058" name="b" temporalId="s7_2_b"><num value="b">(b)</num><content>sells, offers or exposes for sale, supplies or offers to supply any
+                    pesticide which he acquired for his own
+                        use.<inline class="width_3"></inline><sourceNote>(Amended <ref href="/hk/1990/79">79 of 1990 s.
+                            9</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438411242070_065" name="3" temporalId="s7_3"><num value="3">(3)</num><leadIn>Subsection (1) does not apply to an authorized officer or a member of the
+                Customs and Excise Service who is—</leadIn><paragraph id="ID_1438411242070_073" name="a" temporalId="s7_3_a"><num value="a">(a)</num><content>exercising a power or purporting to exercise a power under this Ordinance
+                    or doing anything in connection with or incidental to the exercise or purported
+                    exercise of the power; or </content></paragraph><paragraph id="ID_1438411242070_081" name="b" temporalId="s7_3_b"><num value="b">(b)</num><content>performing a function or purporting to perform a function under this
+                    Ordinance or doing anything in connection with or incidental to the performance
+                    or purported performance of the function.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/2013/14">14 of 2013 s.
+                        8</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438411242086_005" name="4" temporalId="s7_4"><num value="4">(4)</num><leadIn>Subsection (1) does not apply to a public officer who is—</leadIn><paragraph id="ID_1438411242086_013" name="a" temporalId="s7_4_a"><num value="a">(a)</num><leadIn>exercising a power or purporting to exercise a power under—</leadIn><subparagraph id="ID_1438411242086_021" name="i" temporalId="s7_4_a_i"><num value="i">(i)</num><content>the Import and Export Ordinance (<ref href="/hk/cap60">Cap. 60</ref>);
+                    </content></subparagraph><subparagraph id="ID_1438411242086_029" name="ii" temporalId="s7_4_a_ii"><num value="ii">(ii)</num><content>the Public Health and Municipal Services Ordinance (<ref href="/hk/cap132">Cap. 132</ref>); </content></subparagraph><subparagraph id="ID_1438411242086_037" name="iii" temporalId="s7_4_a_iii"><num value="iii">(iii)</num><content>the Dangerous Goods Ordinance (<ref href="/hk/cap295">Cap. 295</ref>);
+                        or</content></subparagraph><subparagraph id="ID_1438411242086_045" name="iv" temporalId="s7_4_a_iv"><num value="iv">(iv)</num><content>any Ordinance other than this Ordinance; or </content></subparagraph></paragraph><paragraph id="ID_1438411242086_052" name="b" temporalId="s7_4_b"><num value="b">(b)</num><content>doing anything in connection with or incidental to the exercise or
+                    purported exercise of the power.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/2013/14">14 of 2013 s.
+                        8</ref>)</sourceNote></content></paragraph></subsection></section><section id="ID_1438402699436_001" name="s8" reason="inEffect" startPeriod="2014-01-27" status="operational" temporalId="s8"><num value="8">8.</num><heading>Control of scheduled pesticides and other unregistered pesticides</heading><subsection id="ID_1438411242117_020" name="1" temporalId="s8_1"><num value="1">(1)</num><leadIn>Subject to <ref>Part 2 of Schedule 2</ref>, except under and in accordance with a permit, a person must not—</leadIn><paragraph id="ID_1438411242117_028" name="a" temporalId="s8_1_a"><num value="a">(a)</num><content>import into or cause to be imported into Hong Kong; </content></paragraph><paragraph id="ID_1438411242117_036" name="b" temporalId="s8_1_b"><num value="b">(b)</num><content>manufacture; </content></paragraph><paragraph id="ID_1438411242117_044" name="c" temporalId="s8_1_c"><num value="c">(c)</num><content>sell or offer or expose for sale; </content></paragraph><paragraph id="ID_1438411242117_052" name="d" temporalId="s8_1_d"><num value="d">(d)</num><content>supply or offer to supply; </content></paragraph><paragraph id="ID_1438411242117_060" name="e" temporalId="s8_1_e"><num value="e">(e)</num><content>be in possession of; or </content></paragraph><paragraph id="ID_1438411242117_068" name="f" temporalId="s8_1_f"><num value="f">(f)</num><content>use, </content></paragraph><continued>a scheduled pesticide or any other unregistered pesticide. </continued></subsection><subsection id="ID_1438411242133_011" name="2" temporalId="s8_2"><num value="2">(2)</num><content>Subject to <ref>Part 2 of Schedule 2</ref>, except under and in accordance with a permit, a person must not export or cause to be exported a scheduled pesticide. </content></subsection><subsection id="ID_1438411242133_019" name="3" temporalId="s8_3"><num value="3">(3)</num><leadIn>Subsections (1) and (2) do not apply to a scheduled pesticide if—</leadIn><paragraph id="ID_1438411242133_027" name="a" temporalId="s8_3_a"><num value="a">(a)</num><content>it is contained in an individual package or container and does not exceed 10 g or 10 mL; and</content></paragraph><paragraph id="ID_1438411242133_035" name="b" temporalId="s8_3_b"><num value="b">(b)</num><leadIn>it is used or intended to be used indoors—</leadIn><subparagraph id="ID_1438411242133_043" name="i" temporalId="s8_3_b_i"><num value="i">(i)</num><content>for laboratory research; </content></subparagraph><subparagraph id="ID_1438411242133_051" name="ii" temporalId="s8_3_b_ii"><num value="ii">(ii)</num><content>for chemical analysis; or </content></subparagraph><subparagraph id="ID_1438411242133_059" name="iii" temporalId="s8_3_b_iii"><num value="iii">(iii)</num><content>as a reference standard. </content></subparagraph></paragraph></subsection><subsection id="ID_1438411242133_065" name="4" temporalId="s8_4"><num value="4">(4)</num><content>Subsection <ref>(1)(e)</ref> and (f) does not apply to a person to whom the scheduled pesticide or unregistered pesticide is sold or supplied by a permit holder in accordance with the permit conditions. </content></subsection><subsection id="ID_1438411242133_073" name="5" temporalId="s8_5"><num value="5">(5)</num><leadIn>If the registration of a pesticide is cancelled under <ref>section 6(ab)</ref> or (c), subsection (1) does not apply to a person in respect of the pesticide—</leadIn><paragraph id="ID_1438411242133_081" name="a" temporalId="s8_5_a"><num value="a">(a)</num><content>for a period of 3 months from the date of cancellation; or </content></paragraph><paragraph id="ID_1438411242133_089" name="b" temporalId="s8_5_b"><num value="b">(b)</num><content>if before the expiry of that period the person applies for a permit for the pesticide under <ref>section 9(1)</ref>, until the permit is issued or refused under <ref>section 9(2)</ref>. </content></paragraph></subsection><subsection id="ID_1438411242148_005" name="6" temporalId="s8_6"><num value="6">(6)</num><content>If the registration of a pesticide is suspended under <ref>section 6(c)</ref>, subsection <ref>(1)(e)</ref> does not apply to a person who has been in possession of the pesticide since the time immediately before the suspension. </content></subsection><subsection id="ID_1438411242148_013" name="7" temporalId="s8_7"><num value="7">(7)</num><content>If a person is in possession of a pesticide under a permit immediately before the date on which a notice to add the pesticide to <ref>Schedule 1</ref> or <ref>2</ref> is published under <ref>section 19A(1)(a)</ref>, subsection (2) does not apply to the person in respect of the pesticide until the permit expires. </content></subsection><subsection id="ID_1438411242148_021" name="8" temporalId="s8_8"><num value="8">(8)</num><leadIn>Subsections (1) and (2) do not apply to an authorized officer or a member of the Customs and Excise Service who is—</leadIn><paragraph id="ID_1438411242148_029" name="a" temporalId="s8_8_a"><num value="a">(a)</num><content>exercising a power or purporting to exercise a power under this Ordinance or doing anything in connection with or incidental to the exercise or purported exercise of the power; or </content></paragraph><paragraph id="ID_1438411242164_006" name="b" temporalId="s8_8_b"><num value="b">(b)</num><content>performing a function or purporting to perform a function under this Ordinance or doing anything in connection with or incidental to the performance or purported performance of the function. </content></paragraph></subsection><subsection id="ID_1438411242164_013" name="9" temporalId="s8_9"><num value="9">(9)</num><leadIn>Subsection (1) does not apply to a public officer who is—</leadIn><paragraph id="ID_1438411242164_021" name="a" temporalId="s8_9_a"><num value="a">(a)</num><leadIn>exercising a power or purporting to exercise a power under—</leadIn><subparagraph id="ID_1438411242164_029" name="i" temporalId="s8_9_a_i"><num value="i">(i)</num><content>the Import and Export Ordinance (<ref href="/hk/cap60">Cap. 60</ref>); </content></subparagraph><subparagraph id="ID_1438411242164_037" name="ii" temporalId="s8_9_a_ii"><num value="ii">(ii)</num><content>the Public Health and Municipal Services Ordinance (<ref href="/hk/cap132">Cap. 132</ref>); </content></subparagraph><subparagraph id="ID_1438411242164_045" name="iii" temporalId="s8_9_a_iii"><num value="iii">(iii)</num><content>the Dangerous Goods Ordinance (<ref href="/hk/cap295">Cap. 295</ref>); or </content></subparagraph><subparagraph id="ID_1438411242164_053" name="iv" temporalId="s8_9_a_iv"><num value="iv">(iv)</num><content>any Ordinance other than this Ordinance; or </content></subparagraph></paragraph><paragraph id="ID_1438411242164_060" name="b" temporalId="s8_9_b"><num value="b">(b)</num><content>doing anything in connection with or incidental to the exercise or purported exercise of the power.</content></paragraph></subsection><sourceNote>(Replaced <ref href="/hk/2013/14">14 of 2013 s. 9</ref>)</sourceNote></section><section id="ID_1438402699436_003" name="s9" reason="inEffect" startPeriod="2014-04-10" status="operational" temporalId="s9"><num value="9">9.</num><heading>Licence or permit for pesticides</heading><subsection id="ID_1438411242226_004" name="1" temporalId="s9_1"><num value="1">(1)</num><content>An application for a licence or permit must be made in writing to the Director in the prescribed manner.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/2013/14">14 of 2013 s. 10</ref>)</sourceNote></content></subsection><subsection id="ID_1438411242226_012" name="2" temporalId="s9_2"><num value="2">(2)</num><leadIn>After considering an application under subsection (1) the Director may—</leadIn><paragraph id="ID_1438411242226_020" name="a" temporalId="s9_2_a"><num value="a">(a)</num><content>issue to the applicant a licence or a permit, as the case may be; or</content></paragraph><paragraph id="ID_1438411242226_028" name="b" temporalId="s9_2_b"><num value="b">(b)</num><content>refuse to issue a licence or permit.</content></paragraph></subsection><subsection id="ID_1438411242226_035" name="3" temporalId="s9_3"><num value="3">(3)</num><content>Where the Director refuses to issue a licence or a permit, the Director must send to the applicant a notice of the refusal and state in the notice the reasons for the refusal.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/2013/14">14 of 2013 s. 10</ref>)</sourceNote></content></subsection><subsection id="ID_1438411242242_005" name="4" temporalId="s9_4"><num value="4">(4)</num><leadIn>A licence may authorize the holder in respect of—</leadIn><paragraph id="ID_1438411242242_013" name="a" temporalId="s9_4_a"><num value="a">(a)</num><content>registered pesticides generally;</content></paragraph><paragraph id="ID_1438411242242_021" name="b" temporalId="s9_4_b"><num value="b">(b)</num><content>all pesticides registered in Part I of the register or any such pesticides as may be specified in the licence; or</content></paragraph><paragraph id="ID_1438411242242_029" name="c" temporalId="s9_4_c"><num value="c">(c)</num><content>all pesticides registered in Part II of the register or any such pesticides as may be specified in the licence.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1990/79">79 of 1990 s. 11</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438411242242_036" name="5" temporalId="s9_5"><num value="5">(5)</num><content>Subject to subsection (6), the Director may issue a licence subject to the conditions that the Director thinks fit.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1990/79">79 of 1990 s. 11</ref>; <ref href="/hk/2013/14">14 of 2013 s. 10</ref>)</sourceNote></content></subsection><subsection id="ID_1438411242242_044" name="6" temporalId="s9_6"><num value="6">(6)</num><content>A licence authorizing the sale of a pesticide is subject to the conditions of registration of that pesticide.<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/1990/79">79 of 1990 s. 11</ref>. Amended <ref href="/hk/2013/14">14 of 2013 s. 10</ref>)</sourceNote></content></subsection><subsection id="ID_1438411242242_052" name="7" temporalId="s9_7"><num value="7">(7)</num><content>The Director may issue a permit subject to the conditions that the Director thinks fit.<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/2013/14">14 of 2013 s. 10</ref>)</sourceNote></content></subsection><subsection id="ID_1438411242242_060" name="7A" temporalId="s9_7A"><num value="7A">(7A)</num><content>A permit must specify the scheduled pesticide or unregistered pesticide to which it relates.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/2013/14">14 of 2013 s. 10</ref>)</sourceNote></content></subsection><subsection id="ID_1438411242242_068" name="8" temporalId="s9_8"><num value="8">(8)</num><content>The Director may at any time vary the particulars of a licence or permit or modify, add to, or cancel, the conditions of a licence or permit.</content></subsection></section><section id="ID_1438402699452_002" name="s10" reason="inEffect" startPeriod="2014-04-10" status="operational" temporalId="s10"><num value="10">10.</num><heading>Cancellation or suspension of licence</heading><leadIn>Subject to <ref>section 12</ref>, the Director may cancel, or suspend for such period as he may think fit, a licence—</leadIn><paragraph id="ID_1438411242273_059" name="a" temporalId="s10_a"><num value="a">(a)</num><content>for breach of this Ordinance;</content></paragraph><paragraph id="ID_1438411242273_067" name="b" temporalId="s10_b"><num value="b">(b)</num><content>for breach of any of the conditions of the licence; or</content></paragraph><paragraph id="ID_1438411242273_075" name="c" temporalId="s10_c"><num value="c">(c)</num><content>if it appears to him to be necessary in the interests of public safety.</content></paragraph></section><section id="ID_1438402699467_002" name="s11" reason="inEffect" startPeriod="2014-04-10" status="operational" temporalId="s11"><num value="11">11.</num><heading>Cancellation of permit</heading><leadIn>Subject to <ref>section 12</ref>, the Director may cancel a permit—</leadIn><paragraph id="ID_1438411242304_049" name="a" temporalId="s11_a"><num value="a">(a)</num><content>for breach of this Ordinance;</content></paragraph><paragraph id="ID_1438411242304_057" name="b" temporalId="s11_b"><num value="b">(b)</num><content>for breach of any of the conditions of the permit; or</content></paragraph><paragraph id="ID_1438411242304_065" name="c" temporalId="s11_c"><num value="c">(c)</num><content>if it appears to him to be necessary in the interests of public safety.</content></paragraph></section><section id="ID_1438402699483_001" name="s12" reason="inEffect" startPeriod="2020-07-09" status="operational" temporalId="s12"><num value="12">12.</num><heading>Notice of intention to cancel or suspend</heading><subsection id="ID_1438411242320_041" name="1" temporalId="s12_1"><num value="1">(1)</num><content>Where the Director intends to cancel or suspend a licence under <ref>section 10</ref> or cancel a permit under <ref>section 11</ref>, he shall give to the holder of the licence or permit 14 days’ notice in writing of his intention to cancel or suspend the licence or cancel the permit as the case may be and the notice shall specify the grounds for the intended cancellation or suspension.</content></subsection><subsection id="ID_1438411242336_005" name="2" temporalId="s12_2"><num value="2">(2)</num><content>The holder of a licence or permit may, within the
+                14-day
+                period referred to in subsection (1), make written submissions to the Director as to
+                why his licence or permit should not be cancelled or his licence suspended as the
+                case may be.
+                <sourceNote>(Amended <ref href="hk/2020/er4">E.R. 4 of
+                2020</ref>)</sourceNote></content></subsection></section><section id="ID_1438402699483_003" name="s13" reason="inEffect" startPeriod="2014-04-10" status="operational" temporalId="s13"><num value="13">13.</num><heading>Directions on disposal of pesticide where licence or permit cancelled</heading><subsection id="ID_1438411242351_026" name="1" temporalId="s13_1"><num value="1">(1)</num><content>Where the Director cancels a licence or a permit under <ref>section 10</ref> or <ref>11</ref> he may give to the licence holder or permit holder such directions as he thinks fit for the disposal of the pesticide to which the licence or permit relates and for the disposal of any container containing that pesticide.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1990/79">79 of 1990 s. 12</ref>)</sourceNote></content></subsection><subsection id="ID_1438411242367_005" name="1A" temporalId="s13_1A"><num value="1A">(1A)</num><content>When considering whether to give a direction or what directions to give under subsection (1), the Director must have regard to other enactments that govern the disposal of the pesticide.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/2013/14">14 of 2013 s. 11</ref>)</sourceNote></content></subsection><subsection id="ID_1438411242367_013" name="2" temporalId="s13_2"><num value="2">(2)</num><content>A licence holder or permit holder referred to in subsection (1) may apply in writing to the Director for a variation of any direction given under that subsection, stating the grounds of the application and the facts and circumstances relied upon in support of those grounds.</content></subsection><subsection id="ID_1438411242367_021" name="3" temporalId="s13_3"><num value="3">(3)</num><leadIn>The Director must—</leadIn><paragraph id="ID_1438411242367_029" name="a" temporalId="s13_3_a"><num value="a">(a)</num><content>consider an application under subsection (2); and </content></paragraph><paragraph id="ID_1438411242367_037" name="b" temporalId="s13_3_b"><num value="b">(b)</num><content>within 14 days from receiving the application, advise the licence holder or permit holder in writing of the Director’s decision to confirm or vary the directions given under subsection (1).<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/2013/14">14 of 2013 s. 11</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438411242367_044" name="4" temporalId="s13_4"><num value="4">(4)</num><content>If a licence holder or permit holder referred to in subsection (2) appeals under <ref>section 16A</ref> against a decision under subsection (3), a period for compliance specified in the direction referred to in subsection (2) is extended by the period between presentation of the appeal and notification of the Administrative Appeals Board’s decision.<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/2013/14">14 of 2013 s. 11</ref>)</sourceNote></content></subsection><subsection id="ID_1438411242382_005" name="5" temporalId="s13_5"><num value="5">(5)</num><content>Any act done or omitted to be done in the carrying out of any direction given under this section does not constitute an offence under this Ordinance.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/2013/14">14 of 2013 s. 11</ref>)</sourceNote></content></subsection></section><section id="ID_1438402699499_002" name="s13A" reason="inEffect" startPeriod="2014-04-10" status="operational" temporalId="s13A"><num value="13A">13A.</num><heading>Prohibited or controlled inert ingredients</heading><leadIn>Where the Director is of the opinion that the use of a particular inert ingredient in the manufacture of pesticides, or that the import, sale or supply of pesticides containing a particular inert ingredient should, in the interest of public safety, be prohibited or controlled, he may, by notice in the Gazette—</leadIn><paragraph id="ID_1438411242414_012" name="a" temporalId="s13A_a"><num value="a">(a)</num><content>prohibit the use of the inert ingredient in the manufacture of pesticides;</content></paragraph><paragraph id="ID_1438411242414_020" name="b" temporalId="s13A_b"><num value="b">(b)</num><content>prohibit for all or any purposes the import, sale or supply of pesticides containing the inert ingredient;</content></paragraph><paragraph id="ID_1438411242414_028" name="c" temporalId="s13A_c"><num value="c">(c)</num><content>control the use of the inert ingredient in the manufacture of pesticides by imposing such conditions on such use as he thinks fit and specifies in the notice;</content></paragraph><paragraph id="ID_1438411242414_036" name="d" temporalId="s13A_d"><num value="d">(d)</num><content>control the import, sale or supply of pesticides containing the inert ingredient by imposing such conditions on such import, sale or supply as he thinks fit and specifies in the notice.</content></paragraph><sourceNote>(Added <ref href="/hk/1990/79">79 of 1990 s. 13</ref>)</sourceNote></section></part><part id="ID_1438402699514_002" name="P4" reason="inEffect" startPeriod="2014-04-10" status="operational" temporalId="P4"><num value="4">Part 4</num><heading>Miscellaneous</heading><sourceNote>(Format changes—<ref href="/hk/2014/er2">E.R. 2 of 2014</ref>)</sourceNote><section id="ID_1438402699530_001" name="s14" reason="inEffect" startPeriod="2014-01-27" status="operational" temporalId="s14"><num value="14">14.</num><heading>Appointment of inspectors and authorized officers</heading><content>The Director may appoint in writing a public officer to be an inspector or authorized officer (or both) for the purposes of this Ordinance.</content><sourceNote>(Replaced <ref href="/hk/2013/14">14 of 2013 s. 12</ref>)</sourceNote></section><section id="ID_1438402699530_003" name="s15" reason="inEffect" startPeriod="2014-04-10" status="operational" temporalId="s15"><num value="15">15.</num><heading>Powers of entry, seizure, etc.</heading><subsection id="ID_1438411242476_004" name="1" temporalId="s15_1"><num value="1">(1)</num><content>If it appears to a magistrate upon the oath of any person that there is
+                reasonable cause to suspect that there is in any place or premises any pesticide in
+                respect of which an offence under this Ordinance is being or has been committed, the
+                magistrate may by warrant authorize any inspector or member of the Customs and
+                Excise Service with such assistants as may be necessary to enter the place or
+                premises, by force if necessary, and search the place or premises named in the
+                    warrant.<inline class="width_3"></inline><sourceNote>(Amended <ref href="/hk/1990/79">79 of 1990 s.
+                        14</ref>)</sourceNote></content></subsection><subsection id="ID_1438411242476_012" name="2" temporalId="s15_2"><num value="2">(2)</num><leadIn>In any premises or place entered pursuant to subsection (1) an inspector or
+                member of the Customs and Excise Service may—</leadIn><paragraph id="ID_1438411242476_020" name="a" temporalId="s15_2_a"><num value="a">(a)</num><content>seize and detain any article, document or thing which appears to him to be
+                    or to contain evidence of an offence under this Ordinance;</content></paragraph><paragraph id="ID_1438411242492_006" name="b" temporalId="s15_2_b"><num value="b">(b)</num><content>open and examine any article, document or thing specified in paragraph
+                    (a).</content></paragraph></subsection><subsection id="ID_1438411242492_013" name="3" temporalId="s15_3"><num value="3">(3)</num><sourceNote>(Repealed <ref href="/hk/2013/14">14 of 2013 s. 13</ref>)</sourceNote></subsection><sourceNote>(Amended <ref href="/hk/1977/46">46 of 1977 s.
+            18</ref>)</sourceNote></section><section id="ID_1438402699545_002" name="s15A" reason="inEffect" startPeriod="2014-01-27" status="operational" temporalId="s15A"><num value="15A">15A.</num><heading>Power to enter premises, etc. without warrant</heading><subsection id="ID_1438411242523_004" name="1" temporalId="s15A_1"><num value="1">(1)</num><content>Any of the powers in this section may be exercised for the purpose of ascertaining whether this Ordinance has been or is being complied with. </content></subsection><subsection id="ID_1438411242523_012" name="2" temporalId="s15A_2"><num value="2">(2)</num><content>An inspector or a member of the Customs and Excise Service may without a warrant enter, at any reasonable time, a relevant premises on which the inspector or member reasonably suspects a pesticide is being manufactured, used, kept, stored, sold, offered or exposed for sale, or supplied or offered to be supplied. </content></subsection><subsection id="ID_1438411242523_020" name="3" temporalId="s15A_3"><num value="3">(3)</num><leadIn>After entering the relevant premises, the inspector or member may—</leadIn><paragraph id="ID_1438411242523_028" name="a" temporalId="s15A_3_a"><num value="a">(a)</num><leadIn>require the production of, inspect and examine—</leadIn><subparagraph id="ID_1438411242538_006" name="i" temporalId="s15A_3_a_i"><num value="i">(i)</num><content>a thing that is or the inspector or member reasonably believes to be a pesticide; or </content></subparagraph><subparagraph id="ID_1438411242538_014" name="ii" temporalId="s15A_3_a_ii"><num value="ii">(ii)</num><content>a thing that contains or the inspector or member reasonably believes to contain a pesticide, including a thing that the inspector or member reasonably believes to have a pesticide as its part;</content></subparagraph></paragraph><paragraph id="ID_1438411242538_021" name="b" temporalId="s15A_3_b"><num value="b">(b)</num><leadIn>require the production or provision of, inspect and examine—</leadIn><subparagraph id="ID_1438411242538_029" name="i" temporalId="s15A_3_b_i"><num value="i">(i)</num><content>a licence, permit or any other document to which a pesticide relates, including a document relating to the pesticide’s origin or nature; and </content></subparagraph><subparagraph id="ID_1438411242538_037" name="ii" temporalId="s15A_3_b_ii"><num value="ii">(ii)</num><content>any other document, information or thing that the inspector or member reasonably believes to be relevant to an offence under this Ordinance; </content></subparagraph></paragraph><paragraph id="ID_1438411242538_044" name="c" temporalId="s15A_3_c"><num value="c">(c)</num><content>take and make copies of a licence, permit, document and information referred to in paragraph (b); and </content></paragraph><paragraph id="ID_1438411242538_052" name="d" temporalId="s15A_3_d"><num value="d">(d)</num><content>take a sample of a thing that the inspector or member may reasonably require for an examination and investigation in order to determine whether an offence has been committed against this Ordinance. </content></paragraph></subsection><subsection id="ID_1438411242538_059" name="4" temporalId="s15A_4"><num value="4">(4)</num><content>The inspector or member may take a sample without payment, but must issue a receipt for it. </content></subsection><subsection id="ID_1438411242538_067" name="5" temporalId="s15A_5"><num value="5">(5)</num><leadIn>After completing an examination and investigation in relation to a sample, the Director may direct that the sample or remaining part of the sample be—</leadIn><paragraph id="ID_1438411242554_005" name="a" temporalId="s15A_5_a"><num value="a">(a)</num><content>returned to its owner or the relevant premises from which it was taken; or </content></paragraph><paragraph id="ID_1438411242554_013" name="b" temporalId="s15A_5_b"><num value="b">(b)</num><content>disposed of in any other way that the Director considers appropriate. </content></paragraph></subsection><subsection id="ID_1438411242554_020" name="6" temporalId="s15A_6"><num value="6">(6)</num><content>An inspector must produce written evidence of his or her authority as an inspector before exercising a power under this section. </content></subsection><subsection id="ID_1438411242554_028" name="7" temporalId="s15A_7"><num value="7">(7)</num><leadIn>In this section—</leadIn><def name="RelevantPremises"><leadIn><term>relevant premises</term> (<term xml:lang="zh-Hant-HK">有關處所</term>) means—</leadIn><paragraph id="ID_1438411242554_043" name="a" temporalId="s15A_7_a"><num value="a">(a)</num><content>any premises or place (whether domestic or not) the address of which is stated in an application under <ref>regulation 6(c)</ref> of the Pesticides Regulations (<ref href="/hk/cap133A">Cap. 133 sub. leg. A</ref>); or </content></paragraph><paragraph id="ID_1438411242554_051" name="b" temporalId="s15A_7_b"><num value="b">(b)</num><content>any other premises or place (other than domestic premises).</content></paragraph></def></subsection><sourceNote>(Added <ref href="/hk/2013/14">14 of 2013 s. 14</ref>)</sourceNote></section><section id="ID_1438402699561_001" name="s16" reason="repealed" startPeriod="2014-01-27" status="repealed" temporalId="s16"><num value="16">16.</num><sourceNote>(Repealed <ref href="/hk/2013/14">14 of 2013 s. 15</ref>)</sourceNote></section><section id="ID_1438402699561_003" name="s16A" reason="inEffect" startPeriod="2014-01-27" status="operational" temporalId="s16A"><num value="16A">16A.</num><heading>Appeals to Administrative Appeals Board</heading><subsection id="ID_1438411242601_004" name="1" temporalId="s16A_1"><num value="1">(1)</num><leadIn>A person aggrieved by any of the following decisions of the Director may appeal to the Administrative Appeals Board against the decision within 28 days after receiving notice of the decision—</leadIn><paragraph id="ID_1438411242601_012" name="a" temporalId="s16A_1_a"><num value="a">(a)</num><content>a decision to refuse to register a pesticide under <ref>section 5(3)(b)</ref>; </content></paragraph><paragraph id="ID_1438411242601_020" name="b" temporalId="s16A_1_b"><num value="b">(b)</num><content>a decision to register a pesticide subject to conditions under <ref>section 5(5)</ref>; </content></paragraph><paragraph id="ID_1438411242601_028" name="c" temporalId="s16A_1_c"><num value="c">(c)</num><content>a decision to cancel or suspend the registration of a pesticide, or to modify, add to or cancel any condition, under <ref>section 6</ref>; </content></paragraph><paragraph id="ID_1438411242601_036" name="d" temporalId="s16A_1_d"><num value="d">(d)</num><content>a decision to refuse to issue a licence or permit under <ref>section 9(2)(b)</ref>; </content></paragraph><paragraph id="ID_1438411242616_006" name="e" temporalId="s16A_1_e"><num value="e">(e)</num><content>a decision to issue a licence subject to conditions under <ref>section 9(5)</ref>;</content></paragraph><paragraph id="ID_1438411242616_014" name="f" temporalId="s16A_1_f"><num value="f">(f)</num><content>a decision to issue a permit subject to conditions under <ref>section 9(7)</ref>; </content></paragraph><paragraph id="ID_1438411242616_022" name="g" temporalId="s16A_1_g"><num value="g">(g)</num><content>a decision to vary the particulars of a licence or permit, or to modify, add to or cancel the conditions of a licence or permit, under <ref>section 9(8)</ref>; </content></paragraph><paragraph id="ID_1438411242616_030" name="h" temporalId="s16A_1_h"><num value="h">(h)</num><content>a decision to cancel or suspend a licence under <ref>section 10</ref>; </content></paragraph><paragraph id="ID_1438411242616_038" name="i" temporalId="s16A_1_i"><num value="i">(i)</num><content>a decision to cancel a permit under <ref>section 11</ref>; </content></paragraph><paragraph id="ID_1438411242616_046" name="j" temporalId="s16A_1_j"><num value="j">(j)</num><content>a decision to confirm or vary under <ref>section 13(3)(b)</ref> the directions given under <ref>section 13(1)</ref>. </content></paragraph></subsection><subsection id="ID_1438411242616_053" name="2" temporalId="s16A_2"><num value="2">(2)</num><content>Subject to <ref>section 13(4)</ref>, a decision referred to in subsection (1) has immediate effect, or has effect from a date specified in the decision (if applicable), despite any appeal against the decision.</content></subsection><sourceNote>(Added <ref href="/hk/2013/14">14 of 2013 s. 16</ref>)</sourceNote></section><section id="ID_1438402699577_001" name="s17" reason="inEffect" startPeriod="2020-07-09" status="operational" temporalId="s17"><num value="17">17.</num><heading>Offences and penalties</heading><subsection id="ID_1438411242648_004" name="1" temporalId="s17_1"><num value="1">(1)</num><content>Any person who contravenes <ref>section 7</ref> or <ref>8</ref> commits an offence and is liable on conviction to a fine at level 5 and to imprisonment for 1 year.</content></subsection><subsection id="ID_1438411242648_012" name="2" temporalId="s17_2"><num value="2">(2)</num><content>Any holder of a licence who contravenes any of the conditions of his licence or any holder of a permit who contravenes any of the conditions of his permit commits an offence and is liable on conviction to a fine at level 4 and to imprisonment for 6 months.</content></subsection><subsection id="ID_1438411242648_020" name="3" temporalId="s17_3"><num value="3">(3)</num><leadIn>Any person who—</leadIn><paragraph id="ID_1438411242648_028" name="a" temporalId="s17_3_a"><num value="a">(a)</num><content>wilfully obstructs an inspector or member of the Customs and Excise Service in the exercise of any power under <ref>section 15</ref> or <ref>15A</ref>;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1977/46">46 of 1977 s. 18</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411242663_006" name="b" temporalId="s17_3_b"><num value="b">(b)</num><content>refuses to allow any sample to be taken in accordance with <ref>section 15A</ref>;</content></paragraph><paragraph id="ID_1438411242663_014" name="c" temporalId="s17_3_c"><num value="c">(c)</num><content>fails without reasonable excuse to produce any thing, licence, permit or document, or to give any information, when required to do so under <ref>section 15A</ref>; or</content></paragraph><paragraph id="ID_1438411242663_022" name="d" temporalId="s17_3_d"><num value="d">(d)</num><content>fails without reasonable excuse to obey a direction given by the Director under <ref>section 13</ref>,</content></paragraph><continued>commits an offence and is liable on conviction to a fine at level 3 and to imprisonment for 6 months.</continued></subsection><subsection id="ID_1438411242663_035" name="4" temporalId="s17_4"><num value="4">(4)</num><leadIn>A holder of a licence or permit who, in the manufacture of pesticides—
+                <sourceNote>(Amended <ref href="hk/2020/er4">E.R. 4 of 2020</ref>)</sourceNote></leadIn><paragraph id="ID_1438411242663_043" name="a" temporalId="s17_4_a"><num value="a">(a)</num><content>uses any inert ingredient the use of which is prohibited by notice under
+                        <ref>section 13A(a)</ref>; or</content></paragraph><paragraph id="ID_1438411242663_051" name="b" temporalId="s17_4_b"><num value="b">(b)</num><content>uses any inert ingredient the use of which is subject to conditions
+                    specified by notice under <ref>section 13A(c)</ref> in contravention of any
+                    condition so specified,</content></paragraph><continued>commits an offence and is liable to a fine at level 1 and to imprisonment for
+                6 months.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1990/79">79 of 1990 s. 15</ref>)</sourceNote></continued></subsection><subsection id="ID_1438411242663_064" name="5" temporalId="s17_5"><num value="5">(5)</num><leadIn>A holder of a licence or permit who imports or causes to be imported, sells or offers or exposes for sale, supplies or offers to supply for use in Hong Kong—</leadIn><paragraph id="ID_1438411242679_005" name="a" temporalId="s17_5_a"><num value="a">(a)</num><content>any pesticide the import, sale or supply of which, as may be appropriate, is prohibited by notice under <ref>section 13A(b)</ref>; or</content></paragraph><paragraph id="ID_1438411242679_013" name="b" temporalId="s17_5_b"><num value="b">(b)</num><content>any pesticide the import, sale or supply of which, as may be appropriate, is subject to conditions specified by notice under <ref>section 13A(d)</ref> in contravention of any condition so specified,</content></paragraph><continued>commits an offence and is liable to a fine at level 1 and to imprisonment for 6 months.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1990/79">79 of 1990 s. 15</ref>)</sourceNote></continued></subsection><sourceNote>(Amended <ref href="/hk/2013/14">14 of 2013 s. 17</ref>)</sourceNote></section><section id="ID_1438402699577_003" name="s18" reason="inEffect" startPeriod="2014-04-10" status="operational" temporalId="s18"><num value="18">18.</num><heading>Forfeiture</heading><subsection id="ID_1438411242741_004" name="1" temporalId="s18_1"><num value="1">(1)</num><content>A magistrate may, on application by the Government, order to be forfeited any pesticide, or any container containing any pesticide, with respect to which any offence under this Ordinance has been committed, whether or not any person has been convicted of such offence and upon the making of an order of forfeiture such pesticide or container shall be deemed to be the property of the Government free from all rights of any person.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/2000/60">60 of 2000 s. 3</ref>)</sourceNote></content></subsection><subsection id="ID_1438411242757_005" name="2" temporalId="s18_2"><num value="2">(2)</num><content>In any proceedings under subsection (1), any statement or other indication of the nature of any pesticide written upon or indicated on the container, or on any box or other covering of whatever nature enclosing the pesticide or the container, shall, until the contrary is proved, be deemed to be a true description of the pesticide or of the contents of the container, as the case may be.</content></subsection><sourceNote>(Amended <ref href="/hk/1990/79">79 of 1990 s. 16</ref>)</sourceNote></section><section id="ID_1438402699608_001" name="s18A" reason="inEffect" startPeriod="2014-01-27" status="operational" temporalId="s18A"><num value="18A">18A.</num><heading>Director may exercise powers for implementing requirements of Rotterdam Convention or Stockholm Convention</heading><content>The Director may exercise the Director’s powers under this Ordinance for the purpose of implementing the requirements of the Rotterdam Convention or the Stockholm Convention.</content><sourceNote>(Added <ref href="/hk/2013/14">14 of 2013 s. 18</ref>)</sourceNote></section><section id="ID_1438402699608_003" name="s19" reason="inEffect" startPeriod="2022-07-01" status="operational" temporalId="s19"><num value="19">19.</num><heading>Regulations</heading><subsection id="ID_1438411242804_011" name="1" temporalId="s19_1"><num value="1">(1)</num><leadIn>The Director of Agriculture, Fisheries and Conservation may by regulation
+                provide for—  <sourceNote>(Amended <ref href="/hk/1997/80">80 of 1997 s. 4</ref>; <ref href="/hk/1999/ln331">L.N. 331 of 1999</ref>)</sourceNote></leadIn><paragraph id="ID_1438411242804_019" name="a" temporalId="s19_1_a"><num value="a">(a)</num><content>applications for registration of pesticides including the information to be
+                    supplied by applicants therefor;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1990/79">79 of 1990 s.
+                            17</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411242804_027" name="b" temporalId="s19_1_b"><num value="b">(b)</num><content>the imposition of conditions on registration;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1990/79">79 of 1990 s.
+                            17</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411242804_035" name="c" temporalId="s19_1_c"><num value="c">(c)</num><sourceNote>(Repealed <ref href="/hk/1997/80">80 of 1997 s. 4</ref>)</sourceNote></paragraph><paragraph id="ID_1438411242804_043" name="d" temporalId="s19_1_d"><num value="d">(d)</num><content>the form and contents of the register;</content></paragraph><paragraph id="ID_1438411242804_051" name="e" temporalId="s19_1_e"><num value="e">(e)</num><content>the proof of matters relating to registration by the production of
+                    certificates;</content></paragraph><paragraph id="ID_1438411242804_059" name="f" temporalId="s19_1_f"><num value="f">(f)</num><leadIn>the issue of licences and permits including—</leadIn><subparagraph id="ID_1438411242804_067" name="i" temporalId="s19_1_f_i"><num value="i">(i)</num><content>the information to be supplied by applicants therefor;</content></subparagraph><subparagraph id="ID_1438411242804_075" name="ii" temporalId="s19_1_f_ii"><num value="ii">(ii)</num><content>the imposition of conditions thereof;</content></subparagraph><subparagraph id="ID_1438411242804_083" name="iii" temporalId="s19_1_f_iii"><num value="iii">(iii)</num><content>the cancellation and suspension for any period thereof;</content></subparagraph></paragraph><paragraph id="ID_1438411242819_006" name="g" temporalId="s19_1_g"><num value="g">(g)</num><content>the duration of licences and permits and the renewal of licences;</content></paragraph><paragraph id="ID_1438411242819_014" name="h" temporalId="s19_1_h"><num value="h">(h)</num><content>the surrender of licences and permits;</content></paragraph><paragraph id="ID_1438411242819_022" name="i" temporalId="s19_1_i"><num value="i">(i)</num><content>the issue of duplicate licences and permits;</content></paragraph><paragraph id="ID_1438411242819_030" name="j" temporalId="s19_1_j"><num value="j">(j)</num><leadIn>the containers for pesticides or classes or types of pesticides
+                        including—  <sourceNote>(Amended <ref href="/hk/1990/79">79 of 1990 s.
+                            17</ref>)</sourceNote></leadIn><subparagraph id="ID_1438411242819_038" name="i" temporalId="s19_1_j_i"><num value="i">(i)</num><content>the shape and size;</content></subparagraph><subparagraph id="ID_1438411242819_046" name="ii" temporalId="s19_1_j_ii"><num value="ii">(ii)</num><content>the design and colour;</content></subparagraph><subparagraph id="ID_1438411242819_054" name="iii" temporalId="s19_1_j_iii"><num value="iii">(iii)</num><content>the composition; and</content></subparagraph><subparagraph id="ID_1438411242819_062" name="iv" temporalId="s19_1_j_iv"><num value="iv">(iv)</num><content>the labelling and marking,</content></subparagraph><continued>of such containers;</continued></paragraph><paragraph id="ID_1438411242819_075" name="k" temporalId="s19_1_k"><num value="k">(k)</num><content>the storage of pesticides and conditions under which they are to be
+                        kept;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1990/79">79 of 1990 s. 17</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411242819_083" name="l" temporalId="s19_1_l"><num value="l">(l)</num><content>the approval of premises for the storage, repackaging or sale of
+                        pesticides;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1990/79">79 of 1990 s. 17</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411242819_091" name="m" temporalId="s19_1_m"><num value="m">(m)</num><content>the sale and supply of pesticides;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1990/79">79 of 1990 s.
+                            17</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411242819_099" name="n" temporalId="s19_1_n"><num value="n">(n)</num><content>the advertisement of pesticides;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1990/79">79 of 1990 s.
+                            17</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411242819_107" name="o" temporalId="s19_1_o"><num value="o">(o)</num><content>the forms to be used.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1997/80">80 of 1997 s. 4</ref>)</sourceNote></content></paragraph><paragraph id="ID_1551325167893_001" name="p...r" temporalId="s19_1_p...r"><num value="p...r" startValue="p" endValue="r">(p)-(r)</num><content><sourceNote>(Repealed <ref href="/hk/1997/80">80 of 1997
+                            s. 4</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438411242819_121" name="1A" temporalId="s19_1A"><num value="1A">(1A)</num><leadIn>The Chief Executive in Council may by regulation provide
+                    for—  <sourceNote>(Amended <ref href="/hk/2000/60">60 of 2000 s.
+                    3</ref>)</sourceNote></leadIn><paragraph id="ID_1438411242819_129" name="a" temporalId="s19_1A_a"><num value="a">(a)</num><content>fees and charges;</content></paragraph><paragraph id="ID_1438411242819_137" name="b" temporalId="s19_1A_b"><num value="b">(b)</num><content>exemption by the Director from compliance with any regulation made under
+                    this Ordinance, either generally or in a particular case.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1997/80">80 of 1997 s.
+                        4</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438411242835_005" name="1B" temporalId="s19_1B"><num value="1B">(1B)</num><leadIn>The Secretary for
+                Environment
+                and Ecology may by regulation provide for—  <sourceNote>(Amended <ref href="/hk/1999/78">78 of 1999 s. 7</ref>; <ref href="/hk/2002/ln106">L.N. 106 of 2002</ref>; <ref href="/hk/2007/ln130">L.N. 130 of
+                    2007</ref>; <ref href="/hk/2022/ln144">L.N.
+                        144
+                        of 2022</ref>)</sourceNote></leadIn><paragraph id="ID_1438411242835_013" name="a" temporalId="s19_1B_a"><num value="a">(a)</num><content>the cancellation and suspension for any period of registration of a
+                    pesticide;</content></paragraph><paragraph id="ID_1438411242835_021" name="b" temporalId="s19_1B_b"><num value="b">(b)</num><content>generally, the better carrying out of the provisions of this
+                        Ordinance.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1997/80">80 of 1997 s. 4</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438411242835_028" name="1C" temporalId="s19_1C"><num value="1C">(1C)</num><content>Subsection (1B) shall not be construed as enabling the Secretary for
+                Environment
+                and Ecology to make regulations as regards any matter in relation
+                to which regulations may be made under subsection (1) or (1A).<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1997/80">80 of 1997
+                        s. 4</ref>. Amended <ref href="/hk/1999/78">78 of 1999 s. 7</ref>; <ref href="/hk/2002/ln106">L.N. 106 of 2002</ref>; <ref href="/hk/2007/ln130">L.N. 130 of
+                    2007</ref>; <ref href="/hk/2022/ln144">L.N.
+                        144
+                        of 2022</ref>)</sourceNote></content></subsection><subsection id="ID_1438411242835_036" name="2" temporalId="s19_2"><num value="2">(2)</num><content>Regulations made under this section may provide that a contravention of
+                specified provisions thereof shall be an offence and may provide penalties therefor
+                not exceeding a fine at level 3 and imprisonment for 1 year.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/2013/14">14 of 2013 s.
+                    19</ref>)</sourceNote></content></subsection></section><section id="ID_1438402699623_002" name="s19A" reason="inEffect" startPeriod="2022-07-01" status="operational" temporalId="s19A"><num value="19A">19A.</num><heading>Power of Secretary for
+            Environment
+            and Ecology to amend <ref>Schedules</ref></heading><sourceNote>(Amended <ref href="/hk/2022/ln144">L.N.
+                144
+                of
+            2022</ref>)</sourceNote><subsection id="ID_1438411242882_028" name="1" temporalId="s19A_1"><num value="1">(1)</num><leadIn>The Secretary for
+                Environment
+                and Ecology may by notice published in the Gazette—
+                <sourceNote>(Amended <ref href="/hk/2022/ln144">L.N.
+                        144
+                        of
+                    2022</ref>)</sourceNote></leadIn><paragraph id="ID_1438411242897_005" name="a" temporalId="s19A_1_a"><num value="a">(a)</num><content>add any Convention-regulated pesticide, including its Chemical Abstracts
+                    Service (<i><b>CAS</b></i>) registry number or other description, to
+                        <ref>Schedule 1</ref> or <ref>2</ref>; </content></paragraph><paragraph id="ID_1438411242897_013" name="b" temporalId="s19A_1_b"><num value="b">(b)</num><content>remove any specified pesticide, including its CAS registry number or other
+                    description, from <ref>Schedule 1</ref> or <ref>2</ref>; </content></paragraph><paragraph id="ID_1438411242897_021" name="c" temporalId="s19A_1_c"><num value="c">(c)</num><content>make any amendment to <ref>Part 2 of Schedule 2</ref> that only relates to
+                    a Convention-regulated pesticide or the removal of a specified pesticide; and
+                </content></paragraph><paragraph id="ID_1438411242897_029" name="d" temporalId="s19A_1_d"><num value="d">(d)</num><content>make any amendment to <ref>Schedule 1</ref> or <ref>2</ref> that is
+                    consequential, incidental or related to an addition, removal or amendment made
+                    under paragraph (a), (b) or (c). </content></paragraph></subsection><subsection id="ID_1438411242897_036" name="2" temporalId="s19A_2"><num value="2">(2)</num><leadIn>For the purposes of subsection (1)—</leadIn><paragraph id="ID_1438411242897_044" name="a" temporalId="s19A_2_a"><num value="a">(a)</num><content>a pesticide is a Convention-regulated pesticide if the pesticide is subject
+                    to the regulation of the Rotterdam Convention or the Stockholm Convention on the
+                    publication day; and </content></paragraph><paragraph id="ID_1438411242897_052" name="b" temporalId="s19A_2_b"><num value="b">(b)</num><content>a pesticide is a specified pesticide if, at some time before the
+                    publication day, the pesticide has been subject to the regulation of the
+                    Rotterdam Convention or the Stockholm Convention but is no longer subject to the
+                    regulation on that day. </content></paragraph></subsection><subsection id="ID_1438411242913_005" name="3" temporalId="s19A_3"><num value="3">(3)</num><leadIn>In subsection (2)—</leadIn><def name="PublicationDay"><term>publication day</term> (<term xml:lang="zh-Hant-HK">刊登日期</term>) means the day on which a notice to add or remove the pesticide
+                concerned is published under subsection <ref>(1)(a)</ref> or (b). </def></subsection><sourceNote>(Added <ref href="/hk/2013/14">14 of 2013 s. 20</ref>)</sourceNote></section><section id="ID_1438402699639_001" name="s19B" reason="inEffect" startPeriod="2014-01-27" status="operational" temporalId="s19B"><num value="19B">19B.</num><heading>Protection of public officers</heading><subsection id="ID_1438411242928_065" name="1" temporalId="s19B_1"><num value="1">(1)</num><leadIn>A public officer is not personally liable for an act done or omitted to be done by the public officer in good faith—</leadIn><paragraph id="ID_1438411242928_073" name="a" temporalId="s19B_1_a"><num value="a">(a)</num><content>in the exercise of a power or purported exercise of a power under this Ordinance; or</content></paragraph><paragraph id="ID_1438411242944_006" name="b" temporalId="s19B_1_b"><num value="b">(b)</num><content>in the performance of a function or purported performance of a function under this Ordinance. </content></paragraph></subsection><subsection id="ID_1438411242944_013" name="2" temporalId="s19B_2"><num value="2">(2)</num><content>Subsection (1) does not affect the liability of the Government for the act or omission.</content></subsection><sourceNote>(Added <ref href="/hk/2013/14">14 of 2013 s. 20</ref>)</sourceNote></section><section id="ID_1438402699655_001" name="s20" reason="inEffect" startPeriod="2014-04-10" status="operational" temporalId="s20"><num value="20">20.</num><heading>Trade marks, trade descriptions, patents and copyright not affected</heading><content>The registration of, or issue of any licence or permit in respect of, a pesticide by the Director under <ref>section 5</ref> or <ref>9</ref> respectively shall not grant to any person any proprietary right in respect of that pesticide and shall not confer or affect any rights under the Trade Marks Ordinance (<ref href="/hk/cap559">Cap. 559</ref>), the Trade Descriptions Ordinance (<ref href="/hk/cap362">Cap. 362</ref>), the Patents Ordinance (<ref href="/hk/cap514">Cap. 514</ref>) or the Copyright Ordinance (<ref href="/hk/cap528">Cap. 528</ref>).</content><sourceNote>(Amended <ref href="/hk/1979/25">25 of 1979 s. 12</ref>; <ref href="/hk/1980/69">69 of 1980 s. 37</ref>; <ref href="/hk/1990/79">79 of 1990 s. 18</ref>; <ref href="/hk/1997/52">52 of 1997 s. 161</ref>; <ref href="/hk/1997/92">92 of 1997 s. 280</ref>; <ref href="/hk/2000/35">35 of 2000 s. 98</ref>)</sourceNote></section><section id="ID_1438402699670_002" name="s21" reason="inEffect" startPeriod="2014-04-10" status="operational" temporalId="s21"><num value="21">21.</num><heading>Pharmacy and Poisons Ordinance not to apply to pesticides</heading><content>The Pharmacy and Poisons Ordinance (<ref href="/hk/cap138">Cap. 138</ref>) shall not apply to any pesticide to which this Ordinance applies.</content><sourceNote>(Amended <ref href="/hk/1990/79">79 of 1990 s. 19</ref>)</sourceNote></section><section id="ID_1438402699670_004" name="s22" reason="inEffect" startPeriod="2014-04-10" status="operational" temporalId="s22"><num value="22">22.</num><heading>Dangerous Goods Ordinance to apply</heading><content>Nothing in this Ordinance shall derogate from the provisions of the Dangerous Goods Ordinance (<ref href="/hk/cap295">Cap. 295</ref>).</content></section><section id="ID_1438402699686_002" name="s23" reason="inEffect" startPeriod="2014-01-27" status="operational" temporalId="s23"><num value="23">23.</num><heading>Transitional and savings provisions relating to Pesticides (Amendment) Ordinance 2013</heading><subsection id="ID_1438411243022_004" name="1" temporalId="s23_1"><num value="1">(1)</num><content>If a person was in possession of an unregistered pesticide under a permit immediately before the commencement date, <ref>section 8(1)(f)</ref> or (2) does not apply to the person in respect of the pesticide until the permit expires. </content></subsection><subsection id="ID_1438411243022_012" name="2" temporalId="s23_2"><num value="2">(2)</num><content>A right of appeal existing immediately before the commencement date under the repealed <ref>section 16</ref> is to be treated as being a right of appeal to the Administrative Appeals Board under <ref>section 16A</ref>. </content></subsection><subsection id="ID_1438411243022_020" name="3" temporalId="s23_3"><num value="3">(3)</num><content>An appeal pending immediately before the commencement date under the repealed <ref>section 16</ref> is to be treated and disposed of as if it were an appeal pending under <ref>section 16A</ref>. </content></subsection><subsection id="ID_1438411243022_028" name="4" temporalId="s23_4"><num value="4">(4)</num><content>If an appeal that is pending as referred to in subsection (3) was made by a licence holder or permit holder against a decision under <ref>section 13(3)</ref>, a period for compliance specified in the direction referred to in <ref>section 13(2)</ref> is extended by the period between presentation of the appeal and notification of the Administrative Appeals Board’s decision.</content></subsection><subsection id="ID_1438411243038_005" name="5" temporalId="s23_5"><num value="5">(5)</num><leadIn>In this section—</leadIn><def name="CommencementDate">*<term>commencement date</term> (<term xml:lang="zh-Hant-HK">生效日期</term>) means the date on which the Pesticides (Amendment) Ordinance 2013 (<ref href="/hk/2013/14">14 of 2013</ref>) comes into operation; </def><def name="RepealedSection16"><term>repealed <ref>section 16</ref></term> (<term xml:lang="zh-Hant-HK">已廢除的<ref>第16條</ref></term>) means <ref>section 16</ref> repealed by <ref>section 15</ref> of the Pesticides (Amendment) Ordinance 2013 (<ref href="/hk/2013/14">14 of 2013</ref>).</def></subsection><sourceNote>(Replaced <ref href="/hk/2013/14">14 of 2013 s. 21</ref>)</sourceNote><editorialNote type="footnote"><content>Editorial Note:</content><content>* Commencement date: 27 January 2014.</content></editorialNote></section></part><schedule id="ID_1438402699701_001" name="sch1" reason="inEffect" startPeriod="2023-10-20" status="operational" temporalId="sch1"><num value="1">Schedule 1</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap133/s2">ss.
+                2</ref>, <ref href="/hk/cap133/s8">8</ref> &amp; <ref href="/hk/cap133/s19A">19A</ref> &amp; <ref href="/hk/cap133/sch2">Sch. 2</ref>]</note><heading>Pesticides
+            Listed under Stockholm Convention</heading><text>
+            
+            <table xmlns="http://www.w3.org/1999/xhtml" class="repeat_header" width="446">
+                
+                <col width="10%"></col>
+                
+                <col width="52%"></col>
+                
+                <col width="38%"></col>
+                
+                <thead>
+                    
+                    <tr>
+                        
+                        <th class="align_left">
+                            
+                            <p><span class="not_bold">Item</span></p>
+                        </th>
+                        <th>
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"><inline class="not_bold">Pesticide</inline></center>
+                        </th>
+                        <th>
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"><inline class="not_bold">CAS registry
+                                number</inline></center>
+                        </th>
+                    </tr>
+                </thead>
+                <tr>
+                    <td>1.</td>
+                    <td>
+                        <p class="align_justified first_line_indent_0">Aldrin</p>
+                    </td>
+                    <td>
+                        <p class="align_justified first_line_indent_0">309-00-2</p>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                </tr>
+                <tr>
+                    <td>2.</td>
+                    <td>
+                        <p class="align_justified first_line_indent_0">Chlordane</p>
+                    </td>
+                    <td>
+                        <p class="align_justified first_line_indent_0">57-74-9</p>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                </tr>
+                <tr>
+                    <td>3.</td>
+                    <td>
+                        <p class="align_justified first_line_indent_0">DDT</p>
+                    </td>
+                    <td>
+                        <p class="align_justified first_line_indent_0">50-29-3</p>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                </tr>
+                <tr>
+                    <td>4.</td>
+                    <td>
+                        <p class="align_justified first_line_indent_0">Dieldrin</p>
+                    </td>
+                    <td>
+                        <p class="align_justified first_line_indent_0">60-57-1</p>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                </tr>
+                <tr>
+                    <td>5.</td>
+                    <td>
+                        <p class="align_justified first_line_indent_0">Endrin</p>
+                    </td>
+                    <td>
+                        <p class="align_justified first_line_indent_0">72-20-8</p>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                </tr>
+                <tr>
+                    <td>6.</td>
+                    <td>
+                        <p class="align_justified first_line_indent_0">Heptachlor</p>
+                    </td>
+                    <td>
+                        <p class="align_justified first_line_indent_0">76-44-8</p>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                </tr>
+                <tr>
+                    <td>7.</td>
+                    <td>
+                        <p class="align_justified first_line_indent_0">Hexachlorobenzene (HCB)</p>
+                    </td>
+                    <td>
+                        <p class="align_justified first_line_indent_0">118-74-1</p>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                </tr>
+                <tr>
+                    <td>8.</td>
+                    <td>
+                        <p class="align_justified first_line_indent_0">Mirex</p>
+                    </td>
+                    <td>
+                        <p class="align_justified first_line_indent_0">2385-85-5</p>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                </tr>
+                <tr>
+                    <td>9.</td>
+                    <td>
+                        <p class="align_justified first_line_indent_0">Toxaphene</p>
+                    </td>
+                    <td>
+                        <p class="align_justified first_line_indent_0">8001-35-2</p>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                </tr>
+                <tr>
+                    <td>10.</td>
+                    <td>
+                        
+                        <p>Alpha
+                            hexachlorocyclohexane</p>
+                    </td>
+                    <td>
+                        
+                        <p>319-84-6</p>
+                        
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td>11.</td>
+                    <td>
+                        
+                        <p>Beta hexachlorocyclohexane</p>
+                        
+                        
+                    </td>
+                    <td>
+                        
+                        
+                        <p>319-85-7</p>
+                        
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td>12.</td>
+                    <td>
+                        
+                        <p>Chlordecone</p>
+                    </td>
+                    <td>
+                        
+                        <p>143-50-0</p>
+                        
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td>13.</td>
+                    <td>
+                        
+                        <p>Lindane</p>
+                    </td>
+                    <td>
+                        
+                        <p>58-89-9</p>
+                        
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td>14.</td>
+                    <td>
+                        
+                        <p>Pentachlorobenzene</p>
+                        
+                        
+                    </td>
+                    <td>
+                        
+                        <p>608-93-5</p>
+                        
+                        
+                        
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td>15.</td>
+                    
+                    <td class="cellpadding_right_25">
+                        
+                        
+                        
+                        <p class="align_left">Technical endosulfan
+                            and
+                            its related isomers</p>
+                        
+                        <p></p>
+                        
+                    </td>
+                    <td>
+                        
+                        
+                        <p>115-29-7;</p>
+                        
+                        
+                        <p>959-98-8;</p>
+                        
+                        
+                        <p>33213-65-9</p>
+                        
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        
+                    </td>
+                </tr>
+                
+                <tr>
+                    <td>16.</td>
+                    <td class="cellpadding_right_25">
+                        <p class="align_left">Pentachlorophenol and its salts and esters</p>
+                    </td>
+                    <td>
+                        <p class="align_left">87-86-5 (for parent compound only)</p>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                </tr>
+                
+            </table>
+        </text><sourceNote>(<ref>Schedule 1</ref> added <ref href="/hk/2013/14">14 of 2013 s.
+                22</ref>. Amended <ref href="/hk/2014/ln43">L.N. 43 of
+            2014</ref>; <ref href="/hk/2023/ln95">L.N. 95 of
+        2023</ref>)</sourceNote></schedule><schedule id="ID_1438402699733_001" name="sch2" reason="inEffect" startPeriod="2024-03-20" status="operational" temporalId="sch2"><num value="2">Schedule 2</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap133/s2">ss. 2</ref>, <ref href="/hk/cap133/s8">8</ref> &amp; <ref href="/hk/cap133/s19A">19A</ref>]</note><heading>Pesticides Listed under Rotterdam Convention and Limitations on Application of
+                <ref>Section 8</ref></heading><part id="ID_1438411243100_009" name="P1" temporalId="sch2_P1"><num value="1"><b>Part
+                1</b></num><heading>Pesticides Listed under Rotterdam
+                Convention</heading><text>
+                <table xmlns="http://www.w3.org/1999/xhtml" class="repeat_header" width="446">
+                    <col width="10%"></col>
+                    <col width="50%"></col>
+                    <col width="5%"></col>
+                    <col width="35%"></col>
+                    <thead>
+                        <tr>
+                            <th class="align_left">
+                                <p><span class="not_bold">Item</span></p>
+                            </th>
+                            <th>
+                                <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"><inline class="not_bold">Pesticide</inline></center>
+                            </th>
+                            <th></th>
+                            <th>
+                                <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"><inline class="not_bold">CAS registry number</inline></center>
+                            </th>
+                        </tr>
+                    </thead>
+                    <tr>
+                        <td>1.</td>
+                        <td>2, 4, 5-T and its salts and esters </td>
+                        <td></td>
+                        <td>
+                            <p class="align_left">93-76-5 (for parent compound only)</p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>2.</td>
+                        <td>Alachlor </td>
+                        <td></td>
+                        <td>
+                            <p>15972-60-8</p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>3.</td>
+                        <td>Aldicarb </td>
+                        <td></td>
+                        <td>
+                            <p>116-06-3 </p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>4.</td>
+                        <td>Aldrin </td>
+                        <td></td>
+                        <td>
+                            <p>309-00-2 </p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>5.</td>
+                        <td>Azinphos-methyl </td>
+                        <td></td>
+                        <td>
+                            <p>86-50-0</p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>6.</td>
+                        <td>Binapacryl </td>
+                        <td></td>
+                        <td>
+                            <p>485-31-4</p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>7.</td>
+                        <td>Captafol </td>
+                        <td></td>
+                        <td>
+                            <p>2425-06-1</p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>8.</td>
+                        <td>Chlordane </td>
+                        <td></td>
+                        <td>
+                            <p>57-74-9</p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>9.</td>
+                        <td>Chlordimeform </td>
+                        <td></td>
+                        <td>
+                            <p>6164-98-3</p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>10.</td>
+                        <td>Chlorobenzilate </td>
+                        <td></td>
+                        <td>
+                            <p>510-15-6</p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>11.</td>
+                        <td>DDT </td>
+                        <td></td>
+                        <td>
+                            <p>50-29-3</p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>12.</td>
+                        <td>Dieldrin </td>
+                        <td></td>
+                        <td>
+                            <p>60-57-1</p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>13.</td>
+                        <td>Dinitro-ortho-cresol (DNOC) and its salts (such as ammonium salt,
+                            potassium salt and sodium salt) </td>
+                        <td></td>
+                        <td>534-52-1; <br></br>2980-64-5; <br></br>5787-96-2;
+                            <br></br>2312-76-7<marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td>14.</td>
+                        <td>Dinoseb and its salts and esters </td>
+                        <td></td>
+                        <td>
+                            <p class="align_left">88-85-7 (for parent compound only)</p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>15.</td>
+                        <td>1, 2-dibromoethane (EDB) </td>
+                        <td></td>
+                        <td>
+                            <p>106-93-4</p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>16.</td>
+                        <td>Endosulfan </td>
+                        <td></td>
+                        <td>
+                            <p>115-29-7</p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>17.</td>
+                        <td>Ethylene dichloride </td>
+                        <td></td>
+                        <td>
+                            <p>107-06-2</p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>18.</td>
+                        <td>Ethylene oxide </td>
+                        <td></td>
+                        <td>
+                            <p>75-21-8</p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>19.</td>
+                        <td>Fluoroacetamide </td>
+                        <td></td>
+                        <td>
+                            <p>640-19-7</p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>20.</td>
+                        <td>HCH (mixed isomers) </td>
+                        <td></td>
+                        <td>
+                            <p>608-73-1</p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>21.</td>
+                        <td>Heptachlor </td>
+                        <td></td>
+                        <td>
+                            <p>76-44-8</p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>22.</td>
+                        <td>Hexachlorobenzene (HCB) </td>
+                        <td></td>
+                        <td>
+                            <p>118-74-1</p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>23.</td>
+                        <td>Lindane (gamma-HCH) </td>
+                        <td></td>
+                        <td>
+                            <p>58-89-9</p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>24.</td>
+                        <td>Mercury compounds, including inorganic mercury compounds, alkyl mercury
+                            compounds and alkyloxyalkyl and aryl mercury
+                            compounds<marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                        <td></td>
+                        <td>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>25.</td>
+                        <td>Monocrotophos </td>
+                        <td></td>
+                        <td>
+                            <p>6923-22-4</p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>26.</td>
+                        <td>Parathion </td>
+                        <td></td>
+                        <td>
+                            <p>56-38-2</p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>27.</td>
+                        <td>Pentachlorophenol and its salts and esters </td>
+                        <td></td>
+                        <td>
+                            <p class="align_left">87-86-5 (for parent compound only)</p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>28.</td>
+                        <td>Toxaphene </td>
+                        <td></td>
+                        <td>
+                            <p>8001-35-2</p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>29.</td>
+                        <td>All tributyltin compounds including—</td>
+                        <td></td>
+                        <td>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                        <td>– Tributyltin oxide</td>
+                        <td></td>
+                        <td>
+                            <p>56-35-9</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                        <td>– Tributyltin fluoride </td>
+                        <td></td>
+                        <td>
+                            <p>1983-10-4</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                        <td>– Tributyltin methacrylate </td>
+                        <td></td>
+                        <td>
+                            <p>2155-70-6</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                        <td>– Tributyltin benzoate </td>
+                        <td></td>
+                        <td>
+                            <p>4342-36-3</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                        <td>– Tributyltin chloride </td>
+                        <td></td>
+                        <td>
+                            <p>1461-22-9</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                        <td>– Tributyltin linoleate </td>
+                        <td></td>
+                        <td>24124-25-2</td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                        <td>– Tributyltin naphthenate </td>
+                        <td></td>
+                        <td>
+                            <p>85409-17-2</p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>30.</td>
+                        <td>Dustable powder formulations containing a combination of—</td>
+                        <td></td>
+                        <td>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                        <td>– Benomyl at or above 7% </td>
+                        <td></td>
+                        <td>
+                            <p>17804-35-2</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                        <td>– Carbofuran at or above 10%</td>
+                        <td></td>
+                        <td>
+                            <p>1563-66-2 </p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                        <td>– Thiram at or above 15%</td>
+                        <td></td>
+                        <td>
+                            <p>137-26-8</p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>31.</td>
+                        <td><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="hk/2015/ln201">L.N. 201 of
+                            2015</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>32.</td>
+                        <td>Methyl-parathion (Emulsifiable concentrates at or above 19.5% active
+                            ingredient and dusts at or above 1.5% active
+                            ingredient)<marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                        <td></td>
+                        <td>
+                            <p>298-00-0</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>33.</td>
+                        <td>Phosphamidon (Soluble liquid formulations of the substance that exceed 1
+                            000 g active ingredient per
+                            litre)<marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                        <td></td>
+                        <td>
+                            <p>13171-21-6</p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>34.</td>
+                        <td>Methamidophos <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Added <ref href="hk/2015/ln201">L.N. 201 of
+                                2015</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                        <td></td>
+                        <td>
+                            <p>10265-92-6</p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>35.</td>
+                        <td>Carbofuran <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Added <ref href="hk/2018/ln55">L.N. 55 of
+                            2018</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                        <td></td>
+                        <td>
+                            <p>1563-66-2</p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>36.</td>
+                        <td>Trichlorfon <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Added <ref href="hk/2018/ln55">L.N. 55 of
+                            2018</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                        <td></td>
+                        <td>
+                            <p>52-68-6</p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>37.</td>
+                        <td>Phorate <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Added <ref href="hk/2019/ln148">L.N. 148 of
+                                2019</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                        <td></td>
+                        <td>
+                            <p>298-02-2</p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    
+                    
+                    <tr>
+                        <td>38.</td>
+                        <td>Terbufos <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Added <ref href="hk/2024/ln4">L.N. 4 of
+                            2024</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                        <td></td>
+                        <td>
+                            <p>13071-79-9</p>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    
+                    
+                </table>
+                <marker role="blank-line"></marker>
+                <marker role="blank-line"></marker>
+            </text></part><part id="ID_1438411243116_001" name="P2" temporalId="sch2_P2"><num value="2"><b>Part
+                2</b></num><heading>Extent to which <ref>Section 8</ref> does not Apply to
+                Pesticides Specified in <ref>Part 1</ref> of this
+                    <ref>Schedule</ref></heading><section id="ID_1438411243116_028" name="s1" temporalId="sch2_P2_s1"><num value="1">1.</num><heading>Limitations on application of <ref>section 8</ref> to pesticides specified
+                    in <ref>Part 1</ref> of this <ref>Schedule</ref>
+                    </heading><leadIn><ref>Section 8</ref> does not apply to a pesticide specified in <ref>Part
+                        1</ref> of this <ref>Schedule</ref> if the pesticide—</leadIn><paragraph id="ID_1438411243116_046" name="a" temporalId="sch2_P2_s1_a"><num value="a">(a)</num><content>is not specified in <ref>Schedule 1</ref>; and</content></paragraph><paragraph id="ID_1438411243116_055" name="b" temporalId="sch2_P2_s1_b"><num value="b">(b)</num><leadIn>is, or is a part of, any of the following—</leadIn><subparagraph id="ID_1438411243116_064" name="i" temporalId="sch2_P2_s1_b_i"><num value="i">(i)</num><content>food as defined by <ref>section 2(1)</ref> of the Public Health and
+                            Municipal Services Ordinance (<ref href="/hk/cap132">Cap. 132</ref>);
+                        </content></subparagraph><subparagraph id="ID_1438411243131_008" name="ii" temporalId="sch2_P2_s1_b_ii"><num value="ii">(ii)</num><content>additive as defined by <ref>regulation 2(1)</ref> of the Food and
+                            Drugs (Composition and Labelling) Regulations (<ref href="/hk/cap132W">Cap. 132 sub. leg. W</ref>); </content></subparagraph><subparagraph id="ID_1438411243131_017" name="iii" temporalId="sch2_P2_s1_b_iii"><num value="iii">(iii)</num><content>radioactive substance as defined by <ref>section 2</ref> of the
+                            Radiation Ordinance (<ref href="/hk/cap303">Cap. 303</ref>); </content></subparagraph><subparagraph id="ID_1438411243131_026" name="iv" temporalId="sch2_P2_s1_b_iv"><num value="iv">(iv)</num><content>waste as defined by <ref>section 2(1)</ref> of the Waste Disposal
+                            Ordinance (<ref href="/hk/cap354">Cap. 354</ref>); </content></subparagraph><subparagraph id="ID_1438411243131_035" name="v" temporalId="sch2_P2_s1_b_v"><num value="v">(v)</num><content>chemical weapons as defined by <ref>section 2(1)</ref> of the
+                            Chemical Weapons (Convention) Ordinance (<ref href="/hk/cap578">Cap.
+                                578</ref>); </content></subparagraph><subparagraph id="ID_1438411243131_044" name="vi" temporalId="sch2_P2_s1_b_vi"><num value="vi">(vi)</num><content>a thing listed in <ref>Schedule</ref> I or II of the Single
+                            Convention on Narcotic Drugs, 1961 which was adopted on 30 March 1961,
+                            as amended by the 1972 Protocol Amending the Single Convention on
+                            Narcotic Drugs, 1961 which was adopted on 24 March 1972; </content></subparagraph><subparagraph id="ID_1438411243131_053" name="vii" temporalId="sch2_P2_s1_b_vii"><num value="vii">(vii)</num><content>a thing listed in the Convention on Psychotropic Substances, 1971
+                            which was adopted on 21 February 1971.</content></subparagraph></paragraph><sourceNote>(<ref>Schedule 2</ref> added <ref href="/hk/2013/14">14 of 2013 s.
+                        22</ref>)</sourceNote></section></part></schedule></main></ordinance>

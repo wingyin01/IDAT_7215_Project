@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?><subLeg xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd" xml:lang="en"><meta><docName>Cap. 413 sub. leg. E</docName><docType>cap</docType><docNumber>413E</docNumber><docStatus>In effect</docStatus><dc:identifier>/hk/cap413E!en</dc:identifier><dc:date>2024-12-05</dc:date><dc:subject>legislation</dc:subject><dc:language>en</dc:language><dc:publisher>DoJ</dc:publisher><dc:rights>the Government of the Hong Kong Special Administrative Region</dc:rights></meta><main xml:lang="en" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd"><docTitle id="ID_1438403171587_001" name="shortTitle" reason="inEffect" status="operational" temporalId="shortTitle" startPeriod="2024-12-05">Merchant Shipping (IBC Code)
+            Regulations</docTitle><enactingFormula role="empoweringSection">(<ref href="/hk/cap413/s3">Cap. 413, section
+                3</ref>)<marker role="blank-line"></marker></enactingFormula><commencementNote>[6 May 1987]</commencementNote><sourceNote>(Format changes—<ref href="/hk/2024/er6">E.R. 6 of 2024</ref>)</sourceNote><section id="ID_1438403171602_001" name="s1" reason="inEffect" role="regulation" startPeriod="2024-12-05" status="operational" temporalId="s1"><num value="1">1.</num><heading>Citation and interpretation</heading><subsection id="ID_1438412449091_067" name="1" temporalId="s1_1"><num value="1">(1)</num><content>These regulations may be cited as the Merchant Shipping (IBC Code)
+                Regulations.</content></subsection><subsection id="ID_1438412449107_005" name="2" temporalId="s1_2"><num value="2">(2)</num><leadIn>In these regulations the following expressions have the following
+                meanings—</leadIn><def name="1974SOLASConvention"><term>1974
+                    SOLAS
+                Convention</term>
+                    (《<term xml:lang="zh-Hant-HK">1974年國際海上人命安全公約</term>》) means the International
+                Convention for the Safety of Life at Sea,
+                1974,
+                or any convention that replaces that Convention or any successor convention, as
+                amended from time to time and as applicable to Hong Kong; <sourceNote>(<ref href="hk/2018/ln94">L.N. 94 of
+                2018</ref>)</sourceNote></def><def name="Administration"><term>Administration</term> (<term xml:lang="zh-Hant-HK">主管機關</term>), in relation to a ship, means the government of any place outside
+                Hong Kong whose flag the ship is entitled to fly; <sourceNote>(<ref href="hk/2018/ln94">L.N. 94 of 2018</ref>)</sourceNote></def><def name="AnniversaryDate"><term>anniversary date</term> (<term xml:lang="zh-Hant-HK">周年日期</term>), in relation to an International Certificate of Fitness for the
+                Carriage of Dangerous Chemicals in Bulk in force in respect of a ship, means the day
+                and month of each year which corresponds to the date of expiry of the Certificate;
+                        <sourceNote>(<ref href="hk/2018/ln94">L.N. 94 of
+                2018</ref>)</sourceNote></def><def name="ApplicableIGCCode"><term>applicable IGC Code</term> (<term xml:lang="zh-Hant-HK">適用的IGC規則</term>), in relation to a ship, means the code
+                that the ship is required to comply with under <ref>regulation 4</ref> of the
+                Merchant Shipping (Safety) (Gas Carriers) Regulations (<ref href="/hk/cap369Z">Cap.
+                    369 sub. leg. Z</ref>); <sourceNote>(<ref href="hk/2018/ln94">L.N. 94 of
+                        2018</ref>)</sourceNote></def><def name="BCHCode"><term>BCH
+                    Code</term>
+                    (<term xml:lang="zh-Hant-HK">散化規則</term>) means the Code for the Construction
+                and Equipment of Ships Carrying Dangerous Chemicals in Bulk
+                published
+                by the International Maritime Organization, as from time to time revised or amended
+                by any revision or amendment that applies to Hong Kong;
+                        <sourceNote>(<ref href="/hk/1995/ln185">L.N. 185 of
+                        1995</ref>; <ref href="hk/2018/ln94">L.N. 94 of
+                    2018</ref>)</sourceNote></def><def name="CargoShipSafetyConstructionCertificate,CargoShipSafetyEquipmentCertificate,CargoShipSafetyRadiotelegraphyCertificate,CargoShipSa"><term>Cargo
+                    Ship Safety Construction
+                Certificate</term>
+                    (<term xml:lang="zh-Hant-HK">貨船構造安全證書</term>),
+                    <term>Cargo
+                    Ship Safety Equipment
+                Certificate</term>
+                    (<term xml:lang="zh-Hant-HK">貨船設備安全證書</term>),
+                    <term>Cargo
+                    Ship Safety
+                    Radio
+                    Certificate</term>
+                (<term xml:lang="zh-Hant-HK">貨船無線電安全證書</term>)
+                and <term>Cargo Ship Safety Certificate</term> (<term xml:lang="zh-Hant-HK">貨船安全證書</term>) mean respectively the certificates so entitled
+                issued in conformity with the 1974 SOLAS Convention and, in the case of a Hong Kong
+                ship, under or pursuant to the Merchant Shipping (Safety) Ordinance (<ref href="/hk/cap369">Cap. 369</ref>);
+                <sourceNote>(<ref href="hk/2018/ln94">L.N. 94 of
+                2018</ref>)</sourceNote></def><def name="ChemicalTanker"><term>chemical tanker</term> (<term xml:lang="zh-Hant-HK">化學品液貨船</term>) means a ship constructed or adapted for the carriage in bulk of
+                any liquid substance listed in Chapter 17 of the IBC Code; <sourceNote>(<ref href="hk/2018/ln94">L.N. 94 of 2018</ref>)</sourceNote></def><def name="Constructed,SimilarStageOfConstruction">
+                <leadIn><term>constructed</term>
+                        (<term xml:lang="zh-Hant-HK">建造</term>)
+                    means,
+                    in relation to a ship, having its keel laid or being at a similar stage of
+                    construction; and
+                        <term>similar
+                        stage of
+                    construction</term>
+                        (<term xml:lang="zh-Hant-HK">相若建造階段</term>) means the stage at which—
+                    <sourceNote>(<ref href="hk/2018/ln94">L.N. 94 of
+                    2018</ref>)</sourceNote></leadIn>
+                <paragraph id="ID_1438412449122_019" name="a" temporalId="s1_2_a"><num value="a">(a)</num><content>construction identifiable with a specific ship begins; and</content></paragraph>
+                <paragraph id="ID_1438412449122_027" name="b" temporalId="s1_2_b"><num value="b">(b)</num><content>assembly of that ship has commenced comprising at least 50 tonnes or 1
+                        per cent of the estimated mass of all structural material, whichever is the
+                        less;</content></paragraph>
+            </def><def name="ControlOfPollutionByNoxiousLiquidSubstancesRegulations"><term>Control
+                    of Pollution by Noxious Liquid Substances
+                Regulations</term>
+                    (<term xml:lang="zh-Hant-HK">控制有毒液體物質污染規例</term>) means the Merchant Shipping
+                (Control of Pollution by Noxious Liquid Substances in Bulk) Regulations (<ref href="/hk/cap413B">Cap. 413 sub. leg. B</ref>);</def><def name="Convention"><term>Convention</term> (<term xml:lang="zh-Hant-HK">《公約》</term>)
+                means the International Convention for the Prevention of Pollution from Ships, 1973,
+                including its protocols and appendices, and Annex II (but no other Annex), as from
+                time to time revised or amended by any revision or amendment to any provision of
+                such Convention that applies to Hong Kong; <sourceNote>(<ref href="hk/2018/ln94">L.N. 94 of 2018</ref>)</sourceNote></def><def name="ConventionCountry"><term>Convention country</term> (<term xml:lang="zh-Hant-HK">公約國</term>) means a country which is a party to the
+                Convention; <sourceNote>(<ref href="hk/2018/ln94">L.N. 94 of
+                    2018</ref>)</sourceNote></def><def name="Director"><term>Director</term>
+                    (<term xml:lang="zh-Hant-HK">處長</term>) means the Director of Marine;</def><def name="GovernmentSurveyor"><term>Government surveyor</term> (<term xml:lang="zh-Hant-HK">政府驗船師</term>) means a person appointed under
+                    <ref>regulation 2A(1)</ref> to be a Government surveyor; <sourceNote>(<ref href="hk/2018/ln94">L.N. 94 of 2018</ref>)</sourceNote></def><def name="IBCCode"><term>IBC
+                    Code</term>
+                    (<term xml:lang="zh-Hant-HK">國際散化規則</term>) means the International Code for the
+                Construction and Equipment of Ships Carrying Dangerous
+                Chemicals
+                in Bulk published by the International Maritime Organization, as from time to time
+                revised or amended by any revision or amendment that applies to Hong Kong;
+                        <sourceNote>(<ref href="/hk/1995/ln185">L.N. 185 of
+                        1995</ref>; <ref href="hk/2018/ln94">L.N. 94 of
+                    2018</ref>)</sourceNote></def><def name="InBulk"><term>in
+                    bulk</term>
+                    (<term xml:lang="zh-Hant-HK">散裝</term>) means directly and without intermediate
+                form of containment in a tank forming an integral part of, or permanently located
+                on, a ship;</def><def name="InternationalCertificateOfFitnessForTheCarriageOfDangerousChemicalsInBulk"><term>International Certificate of Fitness for the Carriage of Dangerous
+                    Chemicals in Bulk</term> (<term xml:lang="zh-Hant-HK">國際散裝運輸危險化學品適裝證書</term>)
+                    means—<paragraph id="ID_1531982651078_002" name="a" temporalId="s1_2_a"><num value="a">(a)</num><content>a certificate issued under <ref>regulation 5</ref>;</content></paragraph><paragraph id="ID_1531982651078_003" name="b" temporalId="s1_2_b"><num value="b">(b)</num><content>an International Certificate of Fitness for the Carriage of Dangerous
+                        Chemicals in Bulk issued by a recognized organization; or</content></paragraph><paragraph id="ID_1531982651078_004" name="c" temporalId="s1_2_c"><num value="c">(c)</num><content>an International Certificate of Fitness for the Carriage of Dangerous
+                        Chemicals in Bulk issued by or under the authority of an Administration;
+                                <sourceNote>(<ref href="hk/2018/ln94">L.N. 94 of
+                            2018</ref>)</sourceNote></content></paragraph></def><def name="PollutionHazardSubstance"><term>pollution
+                    hazard
+                substance</term>
+                    (<term xml:lang="zh-Hant-HK">有污染危險的物質</term>) means a substance listed in column
+                “a” of the table in Chapter 17 of the IBC Code and having against it in column “d”
+                thereof an entry “p”
+                only;
+                        <sourceNote>(<ref href="hk/2018/ln94">L.N. 94 of
+                2018</ref>)</sourceNote></def><def name="RecognizedOrganization"><term>recognized organization</term> (<term xml:lang="zh-Hant-HK">認可機構</term>) means an organization recognized under
+                    <ref>regulation 2AB</ref>; <sourceNote>(<ref href="hk/2018/ln94">L.N. 94 of
+                        2018</ref>)</sourceNote></def><def name="Sea"><term>sea</term> (<term xml:lang="zh-Hant-HK">海、海域</term>) includes all
+                waters navigable by sea-going ships. <sourceNote>(<ref href="hk/2018/ln94">L.N. 94
+                        of 2018</ref>)</sourceNote></def></subsection><sourceNote>(<ref href="/hk/1995/ln185">L.N. 185 of
+            1995</ref>; <ref href="hk/2018/ln94">L.N. 94 of 2018</ref>)</sourceNote><subsection id="ID_1438412449138_039" name="3" temporalId="s1_3"><num value="3">(3)</num><leadIn>In interpreting the IBC Code—</leadIn><paragraph id="ID_1438412449138_047" name="a" temporalId="s1_3_a"><num value="a">(a)</num><content>the provisions of the IBC Code having been made mandatory under
+                        <ref>regulation 3</ref> the language thereof shall be construed
+                    accordingly;</content></paragraph><paragraph id="ID_1438412449154_006" name="b" temporalId="s1_3_b"><num value="b">(b)</num><content>the definitions set out in Chapter I, <ref>paragraph 1</ref>.3 thereof,
+                    shall
+                    apply;
+                    and <sourceNote>(<ref href="hk/2018/ln94">L.N. 94 of
+                    2018</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438412449154_014" name="c" temporalId="s1_3_c"><num value="c">(c)</num><content>references to the Administration shall, in relation to Hong Kong ships, be
+                    references to the
+                    Director;
+                    and references to the Port Administration shall, in relation to all ships in the
+                    waters of Hong
+                    Kong,
+                    be references to the Director.
+                            <sourceNote>(<ref href="/hk/2002/ln106">L.N. 106 of 2002</ref>; <ref href="/hk/2007/ln130">L.N. 130 of
+                        2007</ref>; <ref href="hk/2018/ln94">L.N. 94 of
+                        2018</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438412449154_022" name="d,e" temporalId="s1_3_d,e"><num value="d,e">(d)-(e)</num><sourceNote>(Repealed <ref href="hk/2018/ln94">L.N. 94 of 2018</ref>)</sourceNote></paragraph></subsection><sourceNote>(<ref href="/hk/1990/37">37 of 1990 s. 12</ref>; <ref href="/hk/1992/ln86">L.N.
+                86 of 1992</ref>)</sourceNote></section><section id="ID_1438403171618_001" name="s2" reason="inEffect" role="regulation" startPeriod="2024-12-05" status="operational" temporalId="s2"><num value="2">2.</num><heading>Application</heading><subsection id="ID_1438412449247_004" name="1" temporalId="s2_1"><num value="1">(1)</num><leadIn>These regulations apply, subject to the following provisions of this
+                regulation—</leadIn><paragraph id="ID_1438412449247_012" name="a" temporalId="s2_1_a"><num value="a">(a)</num><content>to chemical tankers constructed on or after 1 July 1986;</content></paragraph><paragraph id="ID_1438412449247_020" name="b" temporalId="s2_1_b"><num value="b">(b)</num><leadIn>to ships converted to being chemical tankers on or after that date except
+                    oil tankers—</leadIn><subparagraph id="ID_1438412449247_028" name="i" temporalId="s2_1_b_i"><num value="i">(i)</num><content>which were built before that date; and</content></subparagraph><subparagraph id="ID_1438412449247_036" name="ii" temporalId="s2_1_b_ii"><num value="ii">(ii)</num><content>which are converted for the purpose of carrying pollution hazard
+                        substances only; and</content></subparagraph><subparagraph id="ID_1438412449247_044" name="iii" temporalId="s2_1_b_iii"><num value="iii">(iii)</num><sourceNote>(Repealed <ref href="hk/2018/ln94">L.N. 94 of 2018</ref>)</sourceNote></subparagraph></paragraph><paragraph id="ID_1438412449247_051" name="c" temporalId="s2_1_c"><num value="c">(c)</num><content>(to the extent that the Director considers reasonable and practicable) to
+                    chemical tankers which were constructed before, but undergo repairs, alterations
+                    and modifications of a major character on or after, that date.</content></paragraph></subsection><subsection id="ID_1438412449263_005" name="2" temporalId="s2_2"><num value="2">(2)</num><leadIn>Where a chemical tanker is constructed or adapted to carry both—</leadIn><paragraph id="ID_1438412449263_013" name="a" temporalId="s2_2_a"><num value="a">(a)</num><content>one or more of the substances listed both in Chapter 17 of the IBC Code and
+                    in Chapter 19 of the
+                    applicable
+                    IGC
+                    Code;
+                    and</content></paragraph><paragraph id="ID_1438412449263_021" name="b" temporalId="s2_2_b"><num value="b">(b)</num><content>one or more of the substances listed in Chapter 19 of the
+                    applicable
+                    IGC Code, but not in Chapter 17 of the IBC Code,</content></paragraph><continued>then to the extent that the requirements of those two Codes are inconsistent,
+                the requirements of the
+                applicable IGC
+                Code
+                shall prevail.
+                <sourceNote>(<ref href="/hk/1995/ln185">L.N. 185 of 1995</ref>)</sourceNote></continued></subsection><subsection id="ID_1438412449263_034" name="3" temporalId="s2_3"><num value="3">(3)</num><content>
+                <leadIn>These regulations apply to all ships specified in paragraph (1) which are
+                    Hong Kong ships wherever they may be and to other such ships while they are
+                    within the waters of Hong Kong:</leadIn>
+                <proviso name="proviso" temporalId="s2_3_proviso">Provided that in the case of a
+                    ship registered in a State which is not a party to the
+                    Convention
+                    or to the 1974 SOLAS Convention they shall not apply by reason
+                    of its being within the waters of Hong Kong if it would not have been there but
+                    for stress of weather or any circumstances which could not have been prevented
+                    by the owner, the master or the charterer (if any).</proviso>
+            </content></subsection><subsection id="ID_1531814009143_001" name="4" temporalId="s2_4"><num value="4">(4)</num><leadIn>These regulations do not apply to—</leadIn><paragraph id="ID_1531814009144_002" name="a" temporalId="s2_4_a"><num value="a">(a)</num><content>a warship;</content></paragraph><paragraph id="ID_1531814009145_003" name="b" temporalId="s2_4_b"><num value="b">(b)</num><content>a naval auxiliary; or</content></paragraph><paragraph id="ID_1531814009146_004" name="c" temporalId="s2_4_c"><num value="c">(c)</num><content>any other ship owned or operated by a government and used only on
+                    government non-commercial service. <sourceNote>(<ref href="hk/2018/ln94">L.N. 94 of 2018</ref>)</sourceNote></content></paragraph></subsection><sourceNote>(<ref href="hk/2018/ln94">L.N. 94 of 2018</ref>)</sourceNote></section><section id="ID_1438403171618_003" name="s2A" reason="inEffect" role="regulation" startPeriod="2024-12-05" status="operational" temporalId="s2A"><num value="2A">2A.</num><heading>Power of Director in respect of
+            appointments</heading><sourceNote>(<ref href="hk/2023/24">24 of 2023 s. 36</ref>)</sourceNote><subsection id="ID_1438412449294_025" name="1" temporalId="s2A_1"><num value="1">(1)</num><content>The Director may, in writing, appoint persons to be
+                Government
+                surveyors for the purposes of these regulations.
+                <sourceNote>(<ref href="hk/2018/ln94">L.N. 94 of
+                2018</ref>)</sourceNote></content></subsection><subsection id="ID_1438412449294_033" name="2,3" temporalId="s2A_2,3"><num value="2,3">(2)-(3)</num><sourceNote>(Repealed <ref href="hk/2023/24">24 of 2023 s. 36</ref>)</sourceNote></subsection></section><section id="ID_1531731085016_001" name="s2AB" temporalId="s2AB" startPeriod="2024-12-05" status="operational" reason="inEffect"><num value="2AB">2AB.</num><heading>Director may
+            recognize organizations to survey ships and issue International Certificates of Fitness
+            etc.</heading><leadIn>The Director may recognize an organization for—</leadIn><paragraph id="ID_1531731182488_001" name="a" temporalId="s2AB_a"><num value="a">(a)</num><content>carrying out surveys of Hong Kong ships;</content></paragraph><paragraph id="ID_1531731182489_002" name="b" temporalId="s2AB_b"><num value="b">(b)</num><content>issuing International Certificates of Fitness for the Carriage of Dangerous
+                Chemicals in Bulk in respect of Hong Kong ships;</content></paragraph><paragraph id="ID_1531731182490_003" name="c" temporalId="s2AB_c"><num value="c">(c)</num><content>making endorsements on the International Certificates of Fitness for the
+                Carriage of Dangerous Chemicals in Bulk issued by the organization;</content></paragraph><paragraph id="ID_1531731182490_004" name="d" temporalId="s2AB_d"><num value="d">(d)</num><content>with the prior written consent of the Director, granting extensions of the
+                validity periods of the International Certificates of Fitness for the Carriage of
+                Dangerous Chemicals in Bulk issued by the organization;</content></paragraph><paragraph id="ID_1531731182491_005" name="e" temporalId="s2AB_e"><num value="e">(e)</num><content>altering any particulars contained in the International Certificates of Fitness
+                for the Carriage of Dangerous Chemicals in Bulk issued by the
+                organization;</content></paragraph><paragraph id="ID_1531731182492_006" name="f" temporalId="s2AB_f"><num value="f">(f)</num><content>issuing certified true copies of the International Certificates of Fitness for
+                the Carriage of Dangerous Chemicals in Bulk issued by the organization;
+                and</content></paragraph><paragraph id="ID_1531731182492_007" name="g" temporalId="s2AB_g"><num value="g">(g)</num><content>specifying any corrective actions which the organization considers necessary to
+                be taken in respect of Hong Kong ships.</content></paragraph><sourceNote>(<ref href="hk/2018/ln94">L.N. 94 of 2018</ref>)</sourceNote></section><section id="ID_1531731097030_001" name="s2AC" temporalId="s2AC" startPeriod="2024-12-05" status="operational" reason="inEffect"><num value="2AC">2AC.</num><heading>Director may
+            request Convention countries to survey Hong Kong ships and issue or endorse
+            International Certificates of Fitness</heading><leadIn>The Director may request any Convention country—</leadIn><paragraph id="ID_1531731240106_001" name="a" temporalId="s2AC_a"><num value="a">(a)</num><content>to carry out a survey of a Hong Kong ship on behalf of the Director in
+                conformity with Chapter 1 of the IBC Code; and</content></paragraph><paragraph id="ID_1531731240107_002" name="b" temporalId="s2AC_b"><num value="b">(b)</num><leadIn>to do the following—</leadIn><subparagraph id="ID_1531731240107_003" name="1" temporalId="s2AC_b_1"><num value="1">(i)</num><content>issue an International Certificate of Fitness for the Carriage of Dangerous
+                    Chemicals in Bulk in respect of the ship in conformity with Chapter 1 of the IBC
+                    Code; or</content></subparagraph><subparagraph id="ID_1531731240108_004" name="2" temporalId="s2AC_b_2"><num value="2">(ii)</num><content>endorse on an International Certificate of Fitness for the Carriage of
+                    Dangerous Chemicals in Bulk issued in respect of the ship in conformity with
+                    Chapter 1 of the IBC Code.</content></subparagraph></paragraph><sourceNote>(<ref href="hk/2018/ln94">L.N. 94 of 2018</ref>)</sourceNote></section><section id="ID_1531731109087_001" name="s2AD" temporalId="s2AD" startPeriod="2024-12-05" status="operational" reason="inEffect"><num value="2AD">2AD.</num><heading>Director may at
+            request of Convention countries survey non-Hong Kong ships and issue or endorse
+            International Certificates of Fitness</heading><leadIn>The Director may, at the request of any Convention country—</leadIn><paragraph id="ID_1531973514616_001" name="a" temporalId="s2AD_a"><num value="a">(a)</num><content>cause a non-Hong Kong ship that is within the waters of Hong Kong to be
+                surveyed under <ref>regulation 4</ref> as if the ship were a Hong Kong ship;
+                and</content></paragraph><paragraph id="ID_1531973514616_002" name="b" temporalId="s2AD_b"><num value="b">(b)</num><leadIn>do the following—</leadIn><subparagraph id="ID_1531973514616_003" name="1" temporalId="s2AD_b_1"><num value="1">(i)</num><content>issue an International Certificate of Fitness for the Carriage of Dangerous
+                    Chemicals in Bulk in respect of the ship under <ref>regulation 5</ref> as if the
+                    ship were a Hong Kong ship; or</content></subparagraph><subparagraph id="ID_1531973514616_004" name="2" temporalId="s2AD_b_2"><num value="2">(ii)</num><content>endorse on an International Certificate of Fitness for the Carriage of
+                    Dangerous Chemicals in Bulk issued in respect of the ship in conformity with
+                    Chapter 1 of the IBC Code.</content></subparagraph></paragraph><sourceNote>(<ref href="hk/2018/ln94">L.N. 94 of 2018</ref>)</sourceNote></section><section id="ID_1438403171633_002" name="s2B" reason="inEffect" role="regulation" startPeriod="2024-12-05" status="operational" temporalId="s2B"><num value="2B">2B.</num><heading>Fees</heading><content>Fees shall be payable in respect of surveys and other
+            services
+            provided by the
+            Director or a Government surveyor under these regulations
+            and
+            shall be determined as prescribed by the Merchant Shipping
+            (Prevention
+            and Control of Pollution) (Fees) Regulation (<ref href="/hk/cap413L">Cap. 413 sub. leg.
+                L</ref>) and, as respects the time involved, by reference to the
+            hourly rate calculated in accordance with
+            the
+            Regulation.</content><sourceNote>(<ref href="hk/2018/ln94">L.N. 94 of 2018</ref>)</sourceNote></section><section id="ID_1438403171649_001" name="s3" reason="inEffect" role="regulation" startPeriod="2024-12-05" status="operational" temporalId="s3"><num value="3">3.</num><heading>Compliance with Code</heading><content>Every ship to which these regulations apply shall be constructed, equipped and operated in
+            accordance with the requirements relevant to it of Chapters
+            2–17
+            inclusive, 19 and 20 of the IBC Code.</content><sourceNote>(<ref href="/hk/1995/ln185">L.N. 185 of 1995</ref>)</sourceNote></section><section id="ID_1438403171649_003" name="s3A" reason="inEffect" role="regulation" startPeriod="2024-12-05" status="operational" temporalId="s3A"><num value="3A">3A.</num><heading>Application of amendment to IBC Code</heading><content>Where any amendment to the IBC Code involves changes to the structure or equipment and fittings of ships due to the upgrading of the requirements for the carriage of certain substances, the Director may by notice published in the Gazette modify or delay for a specified period the application of such amendment to ships constructed before the date of entry into force of the amendment, if he considers that the immediate application of the amendment is unreasonable or impracticable.</content><sourceNote>(<ref href="/hk/1995/ln185">L.N. 185 of 1995</ref>)</sourceNote></section><section id="ID_1438403171665_001" name="s4" reason="inEffect" role="regulation" startPeriod="2024-12-05" status="operational" temporalId="s4"><num value="4">4.</num><heading>Survey requirements</heading><subsection id="ID_1438412449388_011" name="1" temporalId="s4_1"><num value="1">(1)</num><leadIn>The structure, equipment, fittings, arrangements and materials (other than items
+                in respect of which a Cargo Ship Safety Construction Certificate, Cargo Ship Safety
+                Equipment
+                Certificate and
+                Cargo Ship Safety Radio Certificate or Cargo Ship
+                Safety
+                Certificate is issued) of a chemical tanker shall be subjected to the following surveys—
+                <sourceNote>(<ref href="hk/2018/ln94">L.N. 94 of
+                2018</ref>)</sourceNote></leadIn><paragraph id="ID_1438412449403_005" name="a" temporalId="s4_1_a"><num value="a">(a)</num><content>an
+                    initial survey before the ship is put in service or before the International
+                    Certificate of Fitness for the Carriage of Dangerous Chemicals in Bulk is issued
+                    in respect of the ship for the first time; an initial survey
+                    shall be such as to ensure that the structure, equipment, fittings, arrangements
+                    and materials fully comply with the relevant provisions of the IBC
+                    Code;</content></paragraph><paragraph id="ID_1438412449403_013" name="b" temporalId="s4_1_b"><num value="b">(b)</num><content>a
+                    renewal
+                    survey at intervals not exceeding 5 years which shall be such as to ensure that
+                    the structure, equipment, fittings, arrangements and materials
+                    fully
+                    comply with the relevant provisions of the IBC Code;</content></paragraph><paragraph id="ID_1438412449419_006" name="c" temporalId="s4_1_c"><num value="c">(c)</num><content>an
+                    intermediate survey within the period commencing 3 months before and ending 3
+                    months after the second anniversary date of the International Certificate of
+                    Fitness for the Carriage of Dangerous Chemicals in Bulk issued in respect of the
+                    ship or within the period commencing 3 months before and ending 3 months after
+                    the third anniversary date of the International Certificate of Fitness for the
+                    Carriage of Dangerous Chemicals in Bulk issued in respect of the
+                    ship; intermediate surveys shall be such as to ensure that the
+                    equipment and associated pump and piping systems
+                    fully
+                    comply with the relevant provisions of the IBC Code and are in good working
+                    order; a record of such surveys in the form appropriate to an
+                    intermediate survey included in the form entitled “Endorsement for Annual and
+                    Intermediate Surveys” set out in the appendix to the IBC Code shall be endorsed
+                    by the surveyor on the International Certificate of Fitness for the Carriage of
+                    Dangerous Chemicals in Bulk;</content></paragraph><paragraph id="ID_1438412449450_006" name="d" temporalId="s4_1_d"><num value="d">(d)</num><content>an annual survey within
+                    the
+                    period commencing 3 months before and ending 3 months after each anniversary
+                    date of the International Certificate of Fitness for the Carriage of Dangerous
+                    Chemicals in Bulk issued in respect of the ship which is to include a general
+                    inspection of the structure, equipment, fittings, arrangements and materials
+                    referred to in subparagraph (a) to ensure that they have been maintained in
+                    accordance with <ref>regulation 6</ref> and that they remain
+                    satisfactory for the service for which the ship is intended; a record of such
+                    survey in the form appropriate to an annual survey included in the form entitled
+                    “Endorsement for Annual and Intermediate Surveys” set out in the appendix to the
+                    IBC Code shall be endorsed by the surveyor on the International Certificate of
+                    Fitness for the Carriage of Dangerous Chemicals in Bulk;</content></paragraph><paragraph id="ID_1438412449466_006" name="e" temporalId="s4_1_e"><num value="e">(e)</num><content>an additional survey, either general or partial according to the
+                    circumstances, shall be made when it has been determined under <ref>regulation
+                        6(3)</ref> to be necessary, or whenever any important repairs or renewals
+                    are made; such a survey shall ensure that the necessary repairs or renewals have
+                    been effectively made, that the materials and workmanship of such repairs or
+                    renewals are satisfactory, and that the ship is fit to proceed to sea without
+                    danger to the ship or persons on
+                    board
+                    or without presenting any unreasonable threat of harm to the marine environment.
+                            <sourceNote>(<ref href="hk/2018/ln94">L.N. 94 of
+                        2018</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1531973623510_002" name="2" temporalId="s4_2"><num value="2">(2)</num><content>If an intermediate survey of the ship has been carried out by reference to an
+                anniversary date, the annual survey of the ship by reference to the anniversary date
+                for the relevant year is not required to be carried out. <sourceNote>(<ref href="hk/2018/ln94">L.N. 94 of 2018</ref>)</sourceNote></content></subsection></section><section id="ID_1438403171680_002" name="s5" reason="inEffect" role="regulation" startPeriod="2024-12-05" status="operational" temporalId="s5"><num value="5">5.</num><heading>Issue of International Certificate of Fitness</heading><subsection id="ID_1438412449544_011" name="1" temporalId="s5_1"><num value="1">(1)</num><content>Upon satisfactory completion
+                by
+                a Government surveyor of an initial or renewal survey under
+                    <ref>regulation 4</ref> of these regulations and under <ref>regulation 23</ref>
+                of the Control of Pollution by Noxious Liquid Substances Regulations the Director
+                shall issue to a ship which complies with the relevant requirements of the IBC Code
+                and of
+                Annex
+                II to the Convention an International Certificate of Fitness for the Carriage of
+                Dangerous Chemicals in Bulk. <sourceNote>(<ref href="hk/2018/ln94">L.N. 94 of
+                        2018</ref>)</sourceNote></content></subsection><subsection id="ID_1531982733545_002" name="2" temporalId="s5_2"><num value="2">(2)</num><content>The Certificate is valid for the period specified by the Director in the
+                Certificate. <sourceNote>(<ref href="hk/2018/ln94">L.N. 94 of
+                    2018</ref>)</sourceNote></content></subsection><subsection id="ID_1531982733545_003" name="3" temporalId="s5_3"><num value="3">(3)</num><content>The period specified by the Director must not exceed 5 years from the date of
+                issue stated in the Certificate. <sourceNote>(<ref href="hk/2018/ln94">L.N. 94 of
+                        2018</ref>)</sourceNote></content></subsection><subsection id="ID_1438412449575_044" name="4" temporalId="s5_4"><num value="4">(4)</num><leadIn>In the case of a ship which has transferred from registry in
+                another
+                Convention country to registry in Hong Kong the Director may,
+                subject to such requirements as to survey or otherwise as he may think fit, if he is
+                satisfied, notwithstanding that the surveys
+                referred
+                to in <ref>regulation 4</ref> were not carried out by a Government
+                surveyor, that—
+                <sourceNote>(<ref href="hk/2018/ln94">L.N. 94 of
+                2018</ref>)</sourceNote></leadIn><paragraph id="ID_1438412449575_052" name="a" temporalId="s5_4_a"><num value="a">(a)</num><content>the ship
+                    has,
+                    in conformity with Chapter 1 of the IBC Code, already been subjected to an
+                    initial or renewal survey and to any intermediate, annual or
+                    additional surveys required; and</content></paragraph><paragraph id="ID_1438412449575_060" name="b" temporalId="s5_4_b"><num value="b">(b)</num><content>the ship was issued by or on behalf of the
+                    Convention
+                    country concerned with an International Certificate of Fitness for the Carriage
+                    of Dangerous Chemicals in Bulk which would, but for the change
+                    of registry, have remained valid; and</content></paragraph><paragraph id="ID_1438412449590_006" name="c" temporalId="s5_4_c"><num value="c">(c)</num><content>the condition of the ship and its equipment has been maintained in
+                    conformity with the provisions of the IBC Code; and</content></paragraph><paragraph id="ID_1438412449590_014" name="d" temporalId="s5_4_d"><num value="d">(d)</num><content>since completion of the surveys referred to in
+                    subparagraph
+                    (a) no change has been made in the structure, equipment, fittings, arrangements
+                    and materials covered by those surveys without the sanction of the
+                    Convention
+                    country concerned or of the Director, except by direct
+                    replacement,</content></paragraph><continued>issue to that ship an International Certificate of Fitness for the Carriage
+                of Dangerous Chemicals in
+                Bulk.
+                        <sourceNote>(<ref href="hk/2018/ln94">L.N. 94 of
+                2018</ref>)</sourceNote></continued></subsection><subsection id="ID_1531982733560_004" name="5" temporalId="s5_5"><num value="5">(5)</num><content>The Certificate issued under paragraph (4) must not expire after the expiry
+                date of the Certificate mentioned in subparagraph (b) of that paragraph.
+                        <sourceNote>(<ref href="hk/2018/ln94">L.N. 94 of
+                2018</ref>)</sourceNote></content></subsection><subsection id="ID_1438412449606_005" name="6,7,8" temporalId="s5_6,7,8"><num value="6,7,8">(6)-(8)</num><sourceNote>(Repealed <ref href="hk/2018/ln94">L.N. 94 of 2018</ref>)</sourceNote></subsection></section><section id="ID_1531732114321_001" name="s5A" temporalId="s5A" startPeriod="2024-12-05" status="operational" reason="inEffect"><num value="5A">5A.</num><heading>Keeping and
+            inspection of International Certificate of Fitness</heading><content>An International Certificate of Fitness for the Carriage of Dangerous Chemicals in
+            Bulk must be kept on board the ship and must be readily available for inspection at all
+            reasonable times.</content><sourceNote>(<ref href="hk/2018/ln94">L.N. 94 of 2018</ref>)</sourceNote></section><section id="ID_1531732123019_001" name="s5B" temporalId="s5B" startPeriod="2024-12-05" status="operational" reason="inEffect"><num value="5B">5B.</num><heading>Duration of
+            International Certificate of Fitness issued after renewal
+            survey</heading><content>A new International Certificate of Fitness for the Carriage of Dangerous Chemicals
+            in Bulk issued in respect of a ship as a result of a renewal survey under
+                <ref>regulation 4</ref> is valid for such period as may be specified by the Director
+            in the Certificate in accordance with <ref>paragraph 1</ref>.5.6 of Chapter 1 of the IBC
+            Code.</content><sourceNote>(<ref href="hk/2018/ln94">L.N. 94 of 2018</ref>)</sourceNote></section><section id="ID_1531732130566_001" name="s5C" temporalId="s5C" startPeriod="2024-12-05" status="operational" reason="inEffect"><num value="5C">5C.</num><heading>Duration of
+            International Certificate of Fitness after early completion of
+            surveys</heading><subsection id="ID_1531732327958_001" name="1" temporalId="s5C_1"><num value="1">(1)</num><leadIn>This regulation applies if—</leadIn><paragraph id="ID_1531732327959_002" name="a" temporalId="s5C_1_a"><num value="a">(a)</num><content>an intermediate survey of a ship is completed before the period within
+                    which the survey is required to be completed under <ref>regulation
+                    4(1)(c)</ref>; or</content></paragraph><paragraph id="ID_1531732327960_003" name="b" temporalId="s5C_1_b"><num value="b">(b)</num><content>an annual survey of a ship is completed before the period within which the
+                    survey is required to be completed under <ref>regulation
+                    4(1)(d)</ref>.</content></paragraph></subsection><subsection id="ID_1531732327961_004" name="2" temporalId="s5C_2"><num value="2">(2)</num><content>After a survey in respect of a ship is completed as described in paragraph (1),
+                the existing International Certificate of Fitness for the Carriage of Dangerous
+                Chemicals in Bulk issued in respect of the ship must be endorsed to show a date
+                described on the endorsement as the “new anniversary date”, which must be a date
+                that is within 3 months from the date of completion of the survey (<b><i>new
+                        anniversary date</i></b>).</content></subsection><subsection id="ID_1531732327961_005" name="3" temporalId="s5C_3"><num value="3">(3)</num><content>For the purposes of any intermediate survey or annual survey to be carried out
+                in respect of the ship under <ref>regulation 4(1)(c)</ref> or (d) in any year
+                subsequent to the endorsement, the period within which the survey must be carried
+                out is to be ascertained by reference to the new anniversary date.</content></subsection><subsection id="ID_1531732327962_006" name="4" temporalId="s5C_4"><num value="4">(4)</num><content>The duration of an existing International Certificate of Fitness for the
+                Carriage of Dangerous Chemicals in Bulk issued in respect of the ship may be varied
+                by the Director in accordance with <ref>paragraph 1</ref>.5.6 of Chapter 1 of the
+                IBC Code.</content></subsection><sourceNote>(<ref href="hk/2018/ln94">L.N. 94 of 2018</ref>)</sourceNote></section><section id="ID_1531732136700_001" name="s5D" temporalId="s5D" startPeriod="2024-12-05" status="operational" reason="inEffect"><num value="5D">5D.</num><heading>Extension of
+            validity period of International Certificate of Fitness in certain
+            circumstances</heading><leadIn>The Director may extend the validity period of an existing International Certificate
+            of Fitness for the Carriage of Dangerous Chemicals in Bulk issued in respect of a ship
+            in accordance with <ref>paragraph 1</ref>.5.6 of Chapter 1 of the IBC Code if—</leadIn><paragraph id="ID_1531732391126_001" name="a" temporalId="s5D_a"><num value="a">(a)</num><content>the Certificate is valid for a period of less than 5 years;</content></paragraph><paragraph id="ID_1531732391127_002" name="b" temporalId="s5D_b"><num value="b">(b)</num><content>a new International Certificate of Fitness for the Carriage of Dangerous
+                Chemicals in Bulk cannot be issued or placed on board the ship before the expiry of
+                the Certificate;</content></paragraph><paragraph id="ID_1531732391127_003" name="c" temporalId="s5D_c"><num value="c">(c)</num><content>the ship is not in the port in which it is to be surveyed when the Certificate
+                expires; or</content></paragraph><paragraph id="ID_1531732391128_004" name="d" temporalId="s5D_d"><num value="d">(d)</num><content>the ship is engaged in short voyages.</content></paragraph><sourceNote>(<ref href="hk/2018/ln94">L.N. 94 of 2018</ref>)</sourceNote></section><section id="ID_1531732143817_001" name="s5E" temporalId="s5E" startPeriod="2024-12-05" status="operational" reason="inEffect"><num value="5E">5E.</num><heading>International
+            Certificate of Fitness ceases to be valid</heading><subsection id="ID_1531732450220_001" name="1" temporalId="s5E_1"><num value="1">(1)</num><leadIn>An International Certificate of Fitness for the Carriage of Dangerous Chemicals
+                in Bulk issued in respect of a Hong Kong ship ceases to be valid if—</leadIn><paragraph id="ID_1531732450221_002" name="a" temporalId="s5E_1_a"><num value="a">(a)</num><content>after a survey, without the sanction of the Director, a material change has
+                    been made to the structure, equipment, fittings, arrangements or materials
+                    covered by the survey, other than the direct replacement of them;</content></paragraph><paragraph id="ID_1531732450221_003" name="b" temporalId="s5E_1_b"><num value="b">(b)</num><content>a survey referred to in <ref>regulation 4(1)(b)</ref>, (c) or (d) is not
+                    carried out within the period specified for the survey in that
+                    regulation;</content></paragraph><paragraph id="ID_1531732450223_004" name="c" temporalId="s5E_1_c"><num value="c">(c)</num><content>an additional survey referred to in <ref>regulation 4(1)(e)</ref> is not
+                    carried out within such reasonable time as the Government surveyor or recognized
+                    organization may specify;</content></paragraph><paragraph id="ID_1531732450224_005" name="d" temporalId="s5E_1_d"><num value="d">(d)</num><content>the Certificate is not endorsed under <ref>regulation 4(1)(c)</ref> or
+                    under Chapter 1 of the IBC Code, after an intermediate survey of the ship is
+                    carried out;</content></paragraph><paragraph id="ID_1531732450225_006" name="e" temporalId="s5E_1_e"><num value="e">(e)</num><content>the Certificate is not endorsed under <ref>regulation 4(1)(d)</ref> or
+                    under Chapter 1 of the IBC Code, after an annual survey of the ship is carried
+                    out; or</content></paragraph><paragraph id="ID_1531732450226_007" name="f" temporalId="s5E_1_f"><num value="f">(f)</num><content>the ship is transferred to the registry of a place outside Hong
+                    Kong.</content></paragraph></subsection><subsection id="ID_1531732450227_008" name="2" temporalId="s5E_2"><num value="2">(2)</num><content>In any of the cases specified in paragraph <ref>(1)(b)</ref>, (c), (d) or (e),
+                the owner of the ship must deliver the Certificate to the Director on
+                demand.</content></subsection><sourceNote>(<ref href="hk/2018/ln94">L.N. 94 of 2018</ref>)</sourceNote></section><section id="ID_1531732152000_001" name="s5F" temporalId="s5F" startPeriod="2024-12-05" status="operational" reason="inEffect"><num value="5F">5F.</num><heading>International
+            Certificates of Fitness issued under <ref>regulation 5</ref> regarded as International
+            Certificates of Fitness in Chapter 1 of IBC Code</heading><content>For the purposes of <ref>regulations 5B</ref>, <ref>5C</ref> and <ref>5D</ref>, a
+            certificate issued under <ref>regulation 5</ref> is to be regarded as an International
+            Certificate of Fitness for the Carriage of Dangerous Chemicals in Bulk referred to in
+                <ref>paragraph 1</ref>.5 of Chapter 1 of the IBC Code.</content><sourceNote>(<ref href="hk/2018/ln94">L.N. 94 of 2018</ref>)</sourceNote></section><section id="ID_1531732160068_001" name="s5G" temporalId="s5G" startPeriod="2024-12-05" status="operational" reason="inEffect"><num value="5G">5G.</num><heading>Withdrawal of
+            International Certificate of Fitness</heading><subsection id="ID_1531732547515_001" name="1" temporalId="s5G_1"><num value="1">(1)</num><content>A Government surveyor may, by written notice, require the owner or master of a
+                Hong Kong ship in respect of which an International Certificate of Fitness for the
+                Carriage of Dangerous Chemicals in Bulk has been issued to take such corrective
+                action which the surveyor considers necessary if on a survey (other than an initial
+                survey) of the ship referred to in <ref>regulation 4</ref>, the surveyor determines
+                that the condition of the ship or its equipment does not correspond substantially
+                with the particulars in the Certificate.</content></subsection><subsection id="ID_1531732547516_002" name="2" temporalId="s5G_2"><num value="2">(2)</num><content>The surveyor must, on giving notice under paragraph (1), inform the
+                Director.</content></subsection><subsection id="ID_1531732547517_003" name="3" temporalId="s5G_3"><num value="3">(3)</num><content>If the corrective action is not taken within the period specified by the
+                surveyor, the surveyor must inform the Director and the Director may, by written
+                notice to the owner and master of the ship, withdraw the Certificate.</content></subsection><subsection id="ID_1531732547517_004" name="4" temporalId="s5G_4"><num value="4">(4)</num><content>On receiving a notice under paragraph (3), the owner and master of the ship
+                must deliver the Certificate to the Director immediately.</content></subsection><subsection id="ID_1531732547518_005" name="5" temporalId="s5G_5"><num value="5">(5)</num><content>The owner or master of the ship may, after the corrective action in respect of
+                the ship has been taken, apply to the Director for the return of the
+                Certificate.</content></subsection><subsection id="ID_1531732547519_006" name="6" temporalId="s5G_6"><num value="6">(6)</num><content>On receiving an application under paragraph (5), if the Director is satisfied
+                that the corrective action in respect of the ship has been taken, the Director must,
+                by written notice to the owner or master of the ship, return the Certificate to the
+                owner or master.</content></subsection><sourceNote>(<ref href="hk/2018/ln94">L.N. 94 of 2018</ref>)</sourceNote></section><section id="ID_1531732170085_001" name="s5H" temporalId="s5H" startPeriod="2024-12-05" status="operational" reason="inEffect"><num value="5H">5H.</num><heading>Cancellation of
+            International Certificate of Fitness</heading><subsection id="ID_1531732595374_001" name="1" temporalId="s5H_1"><num value="1">(1)</num><content>The Director may, by written notice to the owner and master of a Hong Kong
+                ship, cancel an International Certificate of Fitness for the Carriage of Dangerous
+                Chemicals in Bulk issued in respect of the ship in the circumstances set out in
+                paragraph (2).</content></subsection><subsection id="ID_1531732595374_002" name="2" temporalId="s5H_2"><num value="2">(2)</num><content>The circumstances are that the Director has reasonable grounds to believe that
+                the Certificate was issued, or any endorsement on it was made, on the basis of false
+                or erroneous information.</content></subsection><subsection id="ID_1531732595375_003" name="3" temporalId="s5H_3"><num value="3">(3)</num><content>The Director must give reasons for cancelling the Certificate in the notice
+                under paragraph (1).</content></subsection><subsection id="ID_1531732595376_004" name="4" temporalId="s5H_4"><num value="4">(4)</num><content>On receiving a notice under paragraph (1), the owner and master of the ship
+                must deliver the Certificate to the Director immediately.</content></subsection><sourceNote>(<ref href="hk/2018/ln94">L.N. 94 of 2018</ref>)</sourceNote></section><section id="ID_1531732178572_001" name="s5I" temporalId="s5I" startPeriod="2024-12-05" status="operational" reason="inEffect"><num value="5I">5I.</num><heading>Form of
+            International Certificate of Fitness</heading><content>The Director may specify the form of an International Certificate of Fitness for
+            the Carriage of Dangerous Chemicals in Bulk.</content><sourceNote>(<ref href="hk/2018/ln94">L.N. 94 of 2018</ref>)</sourceNote></section><section id="ID_1531732187519_001" name="s5J" temporalId="s5J" startPeriod="2024-12-05" status="operational" reason="inEffect"><num value="5J">5J.</num><heading>Alteration of
+            International Certificate of Fitness</heading><subsection id="ID_1531732686821_001" name="1" temporalId="s5J_1"><num value="1">(1)</num><content>The owner of a ship in respect of which an International Certificate of Fitness
+                for the Carriage of Dangerous Chemicals in Bulk has been issued by the Director may
+                request the Director to alter any of the particulars contained in the
+                Certificate.</content></subsection><subsection id="ID_1531732686821_002" name="2" temporalId="s5J_2"><num value="2">(2)</num><content>The Director may refuse to make the alteration if the Director considers it to
+                be a material alteration.</content></subsection><subsection id="ID_1531732686822_003" name="3" temporalId="s5J_3"><num value="3">(3)</num><content>If the Director agrees to make the alteration, the Director must, on payment of
+                the prescribed fee, alter the Certificate.</content></subsection><sourceNote>(<ref href="hk/2018/ln94">L.N. 94 of 2018</ref>)</sourceNote></section><section id="ID_1531732196608_001" name="s5K" temporalId="s5K" startPeriod="2024-12-05" status="operational" reason="inEffect"><num value="5K">5K.</num><heading>Certified true
+            copies of International Certificate of Fitness</heading><subsection id="ID_1531974479692_001" name="1" temporalId="s5K_1"><num value="1">(1)</num><content>The owner of a ship in respect of which an International Certificate of Fitness
+                for the Carriage of Dangerous Chemicals in Bulk has been issued by the Director may
+                apply to the Director for the issue of a certified true copy of the
+                Certificate.</content></subsection><subsection id="ID_1531974479692_002" name="2" temporalId="s5K_2"><num value="2">(2)</num><content>The application must be accompanied by the prescribed fee for the certified
+                true copy.</content></subsection><sourceNote>(<ref href="hk/2018/ln94">L.N. 94 of 2018</ref>)</sourceNote></section><section id="ID_1438403171696_001" name="s6" reason="inEffect" role="regulation" startPeriod="2024-12-05" status="operational" temporalId="s6"><num value="6">6.</num><heading>Maintenance of conditions after survey</heading><subsection id="ID_1438412449668_004" name="1" temporalId="s6_1"><num value="1">(1)</num><content>The condition of the ship and its equipment shall be
+                                                maintained so as to conform to the provisions of the
+                                                IBC Code.</content></subsection><subsection id="ID_1438412449668_012" name="2" temporalId="s6_2"><num value="2">(2)</num><content>After any survey
+                                                referred
+                                                to in <ref>regulation 4</ref> has been completed in
+                                                respect of a Hong Kong ship, no
+                                                change shall be made in the structure, equipment,
+                                                fittings, arrangements and materials covered by the
+                                                survey, without the sanction of the Director, except
+                                                by direct
+                                                replacement.</content></subsection><subsection id="ID_1438412449668_020" name="3" temporalId="s6_3"><num value="3">(3)</num><content>Whenever an accident occurs to a ship or a defect is
+                                                discovered, either of which affects the safety
+                                                of
+                                                the ship or the efficiency or completeness of its
+                                                life-saving appliances or other equipment covered by
+                                                the IBC Code, the master or owner
+                                                of the ship shall report at the earliest opportunity
+                                                to the Director, who
+                                                shall,
+                                                in the case of a Hong Kong ship, cause
+                                                investigations to be initiated to
+                                                determine whether an additional
+                                                survey is necessary. If the ship is in a port
+                                                other
+                                                than a port in Hong Kong, the
+                                                master or owner shall also report immediately to the
+                                                appropriate authority of the government of the State
+                                                in which the port is situated.</content></subsection><sourceNote>(<ref href="hk/2018/ln94">L.N. 94 of 2018</ref>)</sourceNote></section><section id="ID_1438403171696_003" name="s7" reason="inEffect" role="regulation" startPeriod="2024-12-05" status="operational" temporalId="s7"><num value="7">7.</num><heading>Equivalents</heading><content>Where the IBC Code requires that a particular fitting, material, appliance, apparatus, item of equipment or type thereof should be fitted or carried in a ship, or that any particular provision should be made, or any procedure or arrangement should be complied with, the Director may allow any other fitting, material, appliance, apparatus, item of equipment or type thereof to be fitted or carried, or any other provision, procedure or arrangement to be made in that ship, if he is satisfied by trial thereof or otherwise that such fitting, material, appliance, apparatus, item of equipment or type thereof, or any particular provision, procedure or arrangement is at least as effective as that required by the IBC Code.</content></section><section id="ID_1438403171711_002" name="s8" reason="inEffect" role="regulation" startPeriod="2024-12-05" status="operational" temporalId="s8"><num value="8">8.</num><heading>Exemptions</heading><content>The Director may exempt any ship or class or description of ship from any of the requirements of these regulations or of the IBC Code, subject to such conditions as he may specify, and may alter or cancel any exemption so granted.</content></section><section id="ID_1531732905931_001" name="s8A" temporalId="s8A" startPeriod="2024-12-05" status="operational" reason="inEffect"><num value="8A">8A.</num><heading>General power
+            of Government surveyors to inspect, examine etc. ships</heading><subsection id="ID_1531733039508_001" name="1" temporalId="s8A_1"><num value="1">(1)</num><content>Any of the powers conferred by this regulation may be exercised for
+                ascertaining whether these regulations have been or are being complied
+                with.</content></subsection><subsection id="ID_1531733039509_002" name="2" temporalId="s8A_2"><num value="2">(2)</num><leadIn>A Government surveyor may, at any reasonable time—</leadIn><paragraph id="ID_1531733039510_003" name="a" temporalId="s8A_2_a"><num value="a">(a)</num><content>board a ship that is within the waters of Hong Kong; and</content></paragraph><paragraph id="ID_1531733039511_004" name="b" temporalId="s8A_2_b"><num value="b">(b)</num><content>take with the surveyor any other person and any equipment or materials
+                    required to assist the surveyor.</content></paragraph></subsection><subsection id="ID_1531733039512_005" name="3" temporalId="s8A_3"><num value="3">(3)</num><leadIn>After boarding the ship, the surveyor may—</leadIn><paragraph id="ID_1531733039513_006" name="a" temporalId="s8A_3_a"><num value="a">(a)</num><content>inspect the ship;</content></paragraph><paragraph id="ID_1531733039514_007" name="b" temporalId="s8A_3_b"><num value="b">(b)</num><content>make any examination and investigation as the surveyor considers
+                    necessary;</content></paragraph><paragraph id="ID_1531733039515_008" name="c" temporalId="s8A_3_c"><num value="c">(c)</num><content>take samples of any article or substance found on the ship that the
+                    surveyor may reasonably require for the inspection, examination or
+                    investigation;</content></paragraph><paragraph id="ID_1531733039516_009" name="d" temporalId="s8A_3_d"><num value="d">(d)</num><content>inspect, seize and remove from the ship any article or substance in respect
+                    of which the surveyor suspects on reasonable grounds that an offence under these
+                    regulations has been committed;</content></paragraph><paragraph id="ID_1531733039516_010" name="e" temporalId="s8A_3_e"><num value="e">(e)</num><leadIn>detain the article or substance for so long as is necessary—</leadIn><subparagraph id="ID_1531733039517_011" name="1" temporalId="s8A_3_e_1"><num value="1">(i)</num><content>for the inspection, examination or investigation; and</content></subparagraph><subparagraph id="ID_1531733039518_012" name="2" temporalId="s8A_3_e_2"><num value="2">(ii)</num><content>to ensure that it is available for use as evidence in any proceedings
+                        for an offence under these regulations;</content></subparagraph></paragraph><paragraph id="ID_1531733039519_013" name="f" temporalId="s8A_3_f"><num value="f">(f)</num><content>take any measurements and photographs and make any recordings that the
+                    surveyor may reasonably require for the inspection, examination or
+                    investigation;</content></paragraph><paragraph id="ID_1531733039520_014" name="g" temporalId="s8A_3_g"><num value="g">(g)</num><content>require that the ship, or any part of the ship, or anything on the ship, is
+                    to be left undisturbed (whether generally or in particular respects) for so long
+                    as is necessary for the inspection, examination or investigation;</content></paragraph><paragraph id="ID_1531733039521_015" name="h" temporalId="s8A_3_h"><num value="h">(h)</num><leadIn>require any person who the surveyor reasonably believes is able to give any
+                    information relevant to the inspection, examination or investigation—</leadIn><subparagraph id="ID_1531733039522_016" name="1" temporalId="s8A_3_h_1"><num value="1">(i)</num><content>to attend at a place and time specified by the surveyor;</content></subparagraph><subparagraph id="ID_1531733039523_017" name="2" temporalId="s8A_3_h_2"><num value="2">(ii)</num><content>to answer the questions that the surveyor thinks fit to ask;
+                        and</content></subparagraph><subparagraph id="ID_1531733039524_018" name="3" temporalId="s8A_3_h_3"><num value="3">(iii)</num><content>to sign a declaration of the truth of the person’s answers;</content></subparagraph></paragraph><paragraph id="ID_1531733039525_019" name="1" temporalId="s8A_3_1"><num value="1">(i)</num><leadIn>require the production of, and inspect and take copies of or of any entry
+                    in—</leadIn><subparagraph id="ID_1531733039526_020" name="1" temporalId="s8A_3_1_1"><num value="1">(i)</num><content>any certificates, books or documents that are required to be kept under
+                        these regulations; and</content></subparagraph><subparagraph id="ID_1531733039527_021" name="2" temporalId="s8A_3_1_2"><num value="2">(ii)</num><content>any other certificates, books or documents that the surveyor considers
+                        necessary for the inspection, examination or investigation; and</content></subparagraph></paragraph><paragraph id="ID_1531733039528_022" name="j" temporalId="s8A_3_j"><num value="j">(j)</num><content>require any person to afford the surveyor such facilities and assistance
+                    with respect to any matters or things within that person’s control or in
+                    relation to which that person has responsibilities as the surveyor considers
+                    necessary to enable the surveyor to exercise any power conferred by this
+                    regulation.</content></paragraph></subsection><subsection id="ID_1531733039529_023" name="4" temporalId="s8A_4"><num value="4">(4)</num><content>If an inspection of a ship under paragraph (3) reveals a deficiency, the
+                Director may give a direction to the master of the ship requiring the master to
+                cause the ship not to proceed to sea until the deficiency is rectified.</content></subsection><subsection id="ID_1531733039530_024" name="5" temporalId="s8A_5"><num value="5">(5)</num><leadIn>A master to whom a direction is given under paragraph (4) must—</leadIn><paragraph id="ID_1531733039531_025" name="a" temporalId="s8A_5_a"><num value="a">(a)</num><content>comply with the direction;</content></paragraph><paragraph id="ID_1531733039532_026" name="b" temporalId="s8A_5_b"><num value="b">(b)</num><content>take steps to rectify the deficiency; and</content></paragraph><paragraph id="ID_1531733039533_027" name="c" temporalId="s8A_5_c"><num value="c">(c)</num><content>inform the Director once the deficiency is rectified.</content></paragraph></subsection><subsection id="ID_1531733039534_028" name="6" temporalId="s8A_6"><num value="6">(6)</num><content>If the ship is a Hong Kong ship and the deficiency is not rectified within the
+                period specified by the Director, the Director may, by written notice to the owner
+                and master of the ship, require the surrender of the International Certificate of
+                Fitness for the Carriage of Dangerous Chemicals in Bulk issued in respect of the
+                ship to the Director.</content></subsection><subsection id="ID_1531733039534_029" name="7" temporalId="s8A_7"><num value="7">(7)</num><content>On receiving a notice under paragraph (6), the owner and master of the ship
+                must deliver the Certificate to the Director immediately.</content></subsection><subsection id="ID_1531733039535_030" name="8" temporalId="s8A_8"><num value="8">(8)</num><content>The owner or master of the ship may, after the deficiency in respect of the
+                ship has been rectified, apply to the Director for the return of the
+                Certificate.</content></subsection><subsection id="ID_1531733039536_031" name="9" temporalId="s8A_9"><num value="9">(9)</num><content>On receiving an application under paragraph (8), if the Director is satisfied
+                that the deficiency in respect of the ship has been rectified, the Director must, by
+                written notice to the applicant, return the Certificate to the applicant.</content></subsection><sourceNote>(<ref href="hk/2018/ln94">L.N. 94 of 2018</ref>)</sourceNote></section><section id="ID_1531732915404_001" name="s8B" temporalId="s8B" startPeriod="2024-12-05" status="operational" reason="inEffect"><num value="8B">8B.</num><heading>Obstruction and
+            non-compliance with requirements</heading><subsection id="ID_1531974517591_001" name="1" temporalId="s8B_1"><num value="1">(1)</num><leadIn>A person must not—</leadIn><paragraph id="ID_1531974517591_002" name="a" temporalId="s8B_1_a"><num value="a">(a)</num><content>wilfully obstruct a Government surveyor in the exercise of any power
+                    conferred by <ref>regulation 8A</ref>; or</content></paragraph><paragraph id="ID_1531974517591_003" name="b" temporalId="s8B_1_b"><num value="b">(b)</num><content>make a statement or sign a declaration that the person knows is false, or
+                    recklessly make a statement or sign a declaration that is false, in purported
+                    compliance with a requirement under <ref>regulation 8A(3)(h)</ref>.</content></paragraph></subsection><subsection id="ID_1531974517591_004" name="2" temporalId="s8B_2"><num value="2">(2)</num><content>A person must comply with a requirement imposed on the person under
+                    <ref>regulation 8A(3)</ref>.</content></subsection><sourceNote>(<ref href="hk/2018/ln94">L.N. 94 of 2018</ref>)</sourceNote></section><section id="ID_1438403171711_004" name="s9" reason="inEffect" role="regulation" startPeriod="2024-12-05" status="operational" temporalId="s9"><num value="9">9.</num><heading>Loading and carriage in bulk of listed chemicals</heading><leadIn>No ship to which these regulations apply shall load in bulk or carry in bulk any of the substances listed in Chapter 17 of the IBC Code unless—</leadIn><paragraph id="ID_1438412449731_033" name="a" temporalId="s9_a"><num value="a">(a)</num><subparagraph id="ID_1438412449746_001" name="i" temporalId="s9_a_i"><num value="i">(i)</num><content>there is in force in respect of that ship an International Certificate of Fitness for the Carriage of Dangerous Chemicals in Bulk covering the substance which the ship is loading or carrying; and</content></subparagraph><subparagraph id="ID_1438412449746_008" name="ii" temporalId="s9_a_ii"><num value="ii">(ii)</num><content>the loading and carriage is in accordance with the terms of that certificate; or</content></subparagraph></paragraph><paragraph id="ID_1438412449746_015" name="b" temporalId="s9_b"><num value="b">(b)</num><subparagraph id="ID_1438412449746_018" name="i" temporalId="s9_b_i"><num value="i">(i)</num><content>either the Director or
+                    an
+                    Administration has given written permission for its carriage; and
+                    <sourceNote>(<ref href="hk/2018/ln94">L.N. 94 of 2018</ref>)</sourceNote></content></subparagraph><subparagraph id="ID_1438412449746_025" name="ii" temporalId="s9_b_ii"><num value="ii">(ii)</num><content>any conditions subject to which that permission was given are complied
+                    with.</content></subparagraph></paragraph></section><section id="ID_1438403171727_002" name="s10" reason="inEffect" role="regulation" startPeriod="2024-12-05" status="operational" temporalId="s10"><num value="10">10.</num><heading>Penalties</heading><subsection id="ID_1438412449778_044" name="1" temporalId="s10_1"><num value="1">(1)</num><leadIn>If in respect of any ship there is a contravention of <ref>regulation 3</ref>,
+                    <ref>5A</ref>,
+                    <ref>5G(4)</ref>, <ref>5H(4)</ref>, <ref>6</ref>, <ref>8A(5)</ref> and
+                    <ref>(7)</ref>, <ref>8B</ref> or <ref>9</ref>, the owner and
+                the master of the ship each commits an offence and is liable—
+                <sourceNote>(<ref href="hk/2018/ln94">L.N. 94 of 2018</ref>)</sourceNote></leadIn><paragraph id="ID_1438412449793_002" name="a" temporalId="s10_1_a"><num value="a">(a)</num><content>on conviction upon indictment, to a fine
+                    at
+                    level 6;</content></paragraph><paragraph id="ID_1438412449793_010" name="b" temporalId="s10_1_b"><num value="b">(b)</num><content>on summary conviction, to a fine
+                    at
+                    level 3.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1990/37">37 of 1990 s.
+                        12</ref>; <ref href="/hk/2024/er6">E.R. 6 of
+                        2024</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438412449793_017" name="1A" temporalId="s10_1A"><num value="1A">(1A)</num><sourceNote>(Repealed <ref href="hk/2018/ln94">L.N. 94 of 2018</ref>)</sourceNote></subsection><subsection id="ID_1438412449793_040" name="2" temporalId="s10_2"><num value="2">(2)</num><content>It shall be a defence for a person charged with an offence under these
+                regulations to prove that he took all reasonable steps to ensure that the
+                regulations were complied with.</content></subsection><subsection id="ID_1531733235854_001" name="3" temporalId="s10_3"><num value="3">(3)</num><content>If an offence under this regulation is committed or would, but for the
+                operation of paragraph (2), have been committed by the owner or master of a ship due
+                to the act or omission of some other person, that other person also commits the
+                offence and may be charged with and convicted of the offence whether or not
+                proceedings are taken against the owner or master. <sourceNote>(<ref href="hk/2018/ln94">L.N. 94 of 2018</ref>)</sourceNote></content></subsection></section><section id="ID_1438403171743_001" name="s11" reason="inEffect" role="regulation" startPeriod="2024-12-05" status="operational" temporalId="s11"><num value="11">11.</num><heading>Power to detain</heading><subsection id="ID_1438412449809_057" name="1" temporalId="s11_1"><num value="1">(1)</num><content>The Director may, if he has reason to believe that a contravention of these regulations has occurred in respect of a ship, detain the ship.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1990/37">37 of 1990 s. 12</ref>)</sourceNote></content></subsection><subsection id="ID_1438412449809_065" name="2" temporalId="s11_2"><num value="2">(2)</num><content>Where a ship other than a Hong Kong ship is detained under paragraph (1), the Director shall immediately inform the consul or diplomatic representative of the State whose flag the ship is entitled to fly or the appropriate maritime authorities of that State.</content></subsection></section><schedule id="ID_1438403171743_003" name="sch0" reason="repealed" startPeriod="2018-07-17" status="repealed" temporalId="sch0"><num value="0">Schedule</num><sourceNote>(Repealed <ref href="hk/2018/ln94">L.N. 94 of
+                2018</ref>)</sourceNote></schedule></main></subLeg>

@@ -1,0 +1,122 @@
+{% extends "base.html" %}
+
+{% block title %}Legal Consultation - HK Criminal Law Expert System{% endblock %}
+
+{% block content %}
+<div class="card">
+    <h2>⚖️ Legal Consultation</h2>
+    <p>Describe the facts of your case, and the system will analyze potential criminal offences and defenses under Hong Kong law.</p>
+    
+    <div class="alert alert-warning">
+        <strong>⚠️ Important:</strong> This is NOT legal advice. For actual legal matters, consult a qualified solicitor.
+    </div>
+</div>
+
+<div class="card">
+    <form id="consultation-form">
+        <div class="form-group">
+            <label for="facts-text">Case Facts:</label>
+            <textarea id="facts-text" class="form-control" placeholder="Describe what happened... For example: A person entered a store, took items worth HK$5,000 without paying, and left. They were arrested with the items." required></textarea>
+        </div>
+        
+        <button type="submit" class="btn btn-primary">Analyze Case</button>
+    </form>
+</div>
+
+<div id="loader" class="loader">
+    <div class="spinner"></div>
+    <p>Analyzing case...</p>
+</div>
+
+<div id="results" style="display: none;">
+    <div class="card">
+        <h2>📋 Analysis Results</h2>
+        <div id="results-content"></div>
+    </div>
+</div>
+
+<script>
+document.getElementById('consultation-form').addEventListener('submit', async function(e) {
+    e.preventDefault();
+    
+    const factsText = document.getElementById('facts-text').value;
+    const loader = document.getElementById('loader');
+    const results = document.getElementById('results');
+    
+    // Show loader
+    loader.classList.add('active');
+    results.style.display = 'none';
+    
+    try {
+        // First analyze document to extract facts
+        const docResponse = await fetch('/api/analyze-document', {
+            method: 'POST',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({text: factsText})
+        });
+        
+        const docData = await docResponse.json();
+        
+        if (!docData.success) {
+            throw new Error(docData.error);
+        }
+        
+        // Display results
+        let html = '';
+        
+        // Show inference results if available
+        if (docData.inference_results && docData.inference_results.offences.length > 0) {
+            html += '<div class="result"><h3>🔴 Potential Offences</h3>';
+            docData.inference_results.offences.forEach((offence, idx) => {
+                html += `
+                    <div class="offence-item">
+                        <h4>${idx + 1}. ${offence.name}</h4>
+                        <p><strong>Legal Basis:</strong> ${offence.ordinance_ref}</p>
+                        <p><strong>Maximum Penalty:</strong> ${offence.penalty}</p>
+                    </div>
+                `;
+            });
+            html += '</div>';
+            
+            // Show full explanation
+            html += '<div class="result"><h3>📖 Detailed Reasoning</h3><pre>' + 
+                    docData.inference_results.explanation + '</pre></div>';
+        } else {
+            html += '<div class="alert alert-info">No specific offences identified based on the facts provided. More details may be needed.</div>';
+        }
+        
+        // Show document analysis
+        html += '<div class="result"><h3>🔍 Document Analysis</h3>';
+        html += `<p><strong>Summary:</strong> ${docData.analysis.summary}</p>`;
+        
+        if (docData.analysis.offences.length > 0) {
+            html += '<p><strong>Potential Offence Categories:</strong></p><ul>';
+            docData.analysis.offences.forEach(o => {
+                html += `<li>${o.type.replace('_', ' ').toUpperCase()} (Confidence: ${(o.confidence * 100).toFixed(0)}%)</li>`;
+            });
+            html += '</ul>';
+        }
+        
+        if (docData.analysis.legal_issues.length > 0) {
+            html += '<p><strong>Legal Issues to Consider:</strong></p><ul>';
+            docData.analysis.legal_issues.forEach(issue => {
+                html += `<li>${issue}</li>`;
+            });
+            html += '</ul>';
+        }
+        
+        html += '</div>';
+        
+        document.getElementById('results-content').innerHTML = html;
+        results.style.display = 'block';
+        results.scrollIntoView({behavior: 'smooth'});
+        
+    } catch (error) {
+        alert('Error: ' + error.message);
+    } finally {
+        loader.classList.remove('active');
+    }
+});
+</script>
+{% endblock %}
+

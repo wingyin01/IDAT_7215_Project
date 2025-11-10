@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="UTF-8"?><subLeg xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd" xml:lang="en"><meta><docName>Cap. 81 sub. leg. A</docName><docType>cap</docType><docNumber>81A</docNumber><docStatus>In effect</docStatus><dc:identifier>/hk/cap81A!en</dc:identifier><dc:date>2024-03-14</dc:date><dc:subject>legislation</dc:subject><dc:language>en</dc:language><dc:publisher>DoJ</dc:publisher><dc:rights>the Government of the Hong Kong Special Administrative Region</dc:rights></meta><main xml:lang="en" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd"><docTitle id="ID_1438403566358_002" name="shortTitle" reason="inEffect" status="operational" temporalId="shortTitle" startPeriod="2021-03-18">Port
+                                    Control (Cargo Working Areas)
+                                    Regulations</docTitle><enactingFormula role="empoweringSection">(<ref href="/hk/cap81/s6">Cap. 81,
+                                                section
+                                    6</ref>)<marker role="blank-line"></marker><marker role="blank-line"></marker></enactingFormula><commencementNote>[26 July 1974]</commencementNote><sourceNote>(Format changes—<ref href="hk/2021/er1">E.R. 1 of 2021</ref>)</sourceNote><part id="ID_1438403566358_004" name="P1" reason="inEffect" startPeriod="2021-03-18" status="operational" temporalId="P1"><num value="1">Part
+            I</num><heading>Preliminary</heading><section id="ID_1438403566373_001" name="s1" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s1"><num value="1">1.</num><heading>Citation</heading><content>These regulations may be cited as the <shortTitle>Port Control (Cargo Working Areas) Regulations</shortTitle>.</content></section><section id="ID_1438403566373_003" name="s2" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s2"><num value="2">2.</num><heading>Interpretation</heading><leadIn>In these regulations, unless the context otherwise requires—</leadIn><def name="BerthingPermit"><term>berthing
+                permit</term>
+                (<term xml:lang="zh-Hant-HK">停泊許可證</term>) means a berthing permit issued under
+                <ref>regulation 5B(1)</ref>;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1982/ln332">L.N. 332 of 1982</ref>)</sourceNote></def><def name="CargoDepositingPermit"><term>cargo
+                depositing
+            permit</term>
+                (<term xml:lang="zh-Hant-HK">貨物存放許可證</term>) means a cargo depositing permit issued
+            under <ref>regulation 7(1)</ref>;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1982/ln332">L.N. 332 of 1982</ref>)</sourceNote></def><def name="CargoWorkingBerth"><term>cargo
+                working
+            berth</term>
+                (<term xml:lang="zh-Hant-HK">貨物裝卸停泊位</term>) means a berth for the loading or
+            unloading of any cargo or cargo container into or from any vessel;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1982/ln332">L.N. 332 of
+                    1982</ref>)</sourceNote></def><def name="ChinaTradeCargo"><term>China
+                trade
+            cargo</term>
+                (<term xml:lang="zh-Hant-HK">中國貿易貨物</term>) means any cargo or cargo container
+            originating in and carried from Mainland of China;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1984/ln226">L.N. 226 of 1984</ref>; <ref href="/hk/1999/64">64 of 1999 s. 3</ref>)</sourceNote></def><def name="Driver"><term>driver</term>
+                (<term xml:lang="zh-Hant-HK">駕駛人</term>), in relation to a vehicle, means any person
+            who is in charge of or assisting in the control of the vehicle;</def><def name="ForkLiftTruckPermit"><term>fork
+                lift truck
+            permit</term>
+                (<term xml:lang="zh-Hant-HK">叉式起重車許可證</term>) means a fork lift truck permit issued
+            under <ref>regulation 7B(1)</ref>;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1985/ln125">L.N. 125 of 1985</ref>)</sourceNote></def><def name="GoodsVehicle"><leadIn><term>goods
+                    vehicle</term>
+                    (<term xml:lang="zh-Hant-HK">貨車</term>) means—</leadIn><paragraph id="ID_1438414060392_005" name="a" temporalId="s2_a"><num value="a">(a)</num><content>a motor vehicle which is constructed or adapted for use for the carriage of goods or equipment;</content></paragraph><paragraph id="ID_1438414060392_013" name="b" temporalId="s2_b"><num value="b">(b)</num><content>a trailer which is constructed or adapted for use for the carriage of goods or equipment; and</content></paragraph><paragraph id="ID_1438414060392_021" name="c" temporalId="s2_c"><num value="c">(c)</num><content>a motor vehicle, other than a motor vehicle within the meaning of paragraph (a), which is constructed or adapted for hauling a trailer constructed or adapted for use for the carriage of goods or equipment;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1977/ln2">L.N. 2 of 1977</ref>)</sourceNote></content></paragraph></def><def name="Layby"><term>lay-by</term>
+                (<term xml:lang="zh-Hant-HK">讓船處</term>) means an area of water forming part of a
+            public cargo working area or public water-front set aside as a lay-by for vessels under
+                <ref>regulation 5(1)</ref>;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1982/ln332">L.N. 332 of 1982</ref>)</sourceNote></def><def name="MobileCranePermit"><term>mobile
+                crane
+            permit</term>
+                (<term xml:lang="zh-Hant-HK">流動起重機許可證</term>) means a mobile crane permit issued
+            under <ref>regulation 7A(1)</ref>;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1985/ln125">L.N. 125 of 1985</ref>)</sourceNote></def><def name="MobileOfficePermit"><term>mobile
+                office
+            permit</term>
+                (<term xml:lang="zh-Hant-HK">流動辦公室許可證</term>) means a mobile office permit issued
+            under <ref>regulation 7C(1)</ref>;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1985/ln125">L.N. 125 of 1985</ref>)</sourceNote></def><def name="MobileShelterPermit"><term>mobile
+                shelter
+            permit</term>
+                (<term xml:lang="zh-Hant-HK">流動遮蔽處許可證</term>) means a mobile shelter permit issued
+            under <ref>regulation 7C(1)</ref>;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1985/ln125">L.N. 125 of 1985</ref>)</sourceNote></def><def name="OperatingHours"><term>operating
+                hours</term>
+                (<term xml:lang="zh-Hant-HK">操作時間</term>) means the hours specified by the Director
+            under <ref>regulation 4A(1)</ref>;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1999/ln279">L.N. 279 of 1999</ref>)</sourceNote></def><def name="OperationAreaPermit"><term>operation
+                area
+            permit</term>
+                (<term xml:lang="zh-Hant-HK">操作區許可證</term>) means an operation area permit issued
+            under <ref>regulation 7D</ref>;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1999/ln71">L.N. 71 of 1999</ref>)</sourceNote></def><def name="Prescribed"><term>prescribed</term>
+                (<term xml:lang="zh-Hant-HK">訂明</term>), in relation to any fee or charge, means
+            prescribed under <ref>regulation 22</ref>;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1982/ln332">L.N. 332 of
+                1982</ref>)</sourceNote></def><def name="Supervisor"><term>supervisor</term>
+                (<term xml:lang="zh-Hant-HK">主管</term>) means a person appointed by the Director
+            under <ref>regulation 3</ref> to be a supervisor at a public cargo working area or
+            public water-front;</def><def name="VanningAndDevanningPermit"><term>vanning
+                and devanning
+            permit</term>
+                (<term xml:lang="zh-Hant-HK">貨櫃裝箱拆箱許可證</term>) means a vanning and devanning permit
+            issued under <ref>regulation 7E(1)</ref>;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1999/ln279">L.N. 279 of
+                1999</ref>)</sourceNote></def><def name="Vehicle"><term>vehicle</term>
+                (<term xml:lang="zh-Hant-HK">車輛</term>) includes a fork lift truck and a mobile
+                crane;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1985/ln125">L.N.
+                    125 of 1985</ref>)</sourceNote></def><def name="VehicleEntryTicket"><term>vehicle
+                entry
+            ticket</term>
+                (<term xml:lang="zh-Hant-HK">車輛通行票證</term>) means a vehicle entry ticket issued
+            under <ref>regulation 14</ref>.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1999/ln71">L.N. 71 of 1999</ref>)</sourceNote></def><sourceNote>(<ref href="/hk/1999/ln71">L.N. 71 of 1999</ref>)</sourceNote></section><section id="ID_1438403566389_002" name="s3" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s3"><num value="3">3.</num><heading>Supervisors</heading><subsection id="ID_1438414060470_004" name="1" temporalId="s3_1"><num value="1">(1)</num><content>The Director shall appoint such persons as he thinks fit to be supervisors at a public cargo working area or public water-front for the purposes of these regulations.</content></subsection><subsection id="ID_1438414060470_012" name="2" temporalId="s3_2"><num value="2">(2)</num><leadIn>The Director—</leadIn><paragraph id="ID_1438414060470_020" name="a" temporalId="s3_2_a"><num value="a">(a)</num><content>shall issue a warrant card; and</content></paragraph><paragraph id="ID_1438414060470_028" name="b" temporalId="s3_2_b"><num value="b">(b)</num><content>may issue a uniform and a badge,</content></paragraph><continued>to each supervisor.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1982/ln332">L.N. 332 of 1982</ref>)</sourceNote></continued></subsection><subsection id="ID_1438414060470_041" name="3" temporalId="s3_3"><num value="3">(3)</num><leadIn>A supervisor shall, whilst on duty in a public cargo working area or public water-front—
+                <sourceNote>(<ref href="hk/2021/er1">E.R. 1 of 2021</ref>)</sourceNote></leadIn><paragraph id="ID_1438414060486_005" name="a" temporalId="s3_3_a"><num value="a">(a)</num><content>if issued with a uniform, wear his
+                        uniform;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1982/ln332">L.N. 332
+                            of 1982</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438414060486_013" name="b" temporalId="s3_3_b"><num value="b">(b)</num><content>if issued with a badge, display his
+                        badge;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1982/ln332">L.N. 332
+                            of 1982</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438414060486_021" name="c" temporalId="s3_3_c"><num value="c">(c)</num><content>carry his warrant card;</content><content><marker role="section-break"></marker></content></paragraph><paragraph id="ID_1438414060486_029" name="d" temporalId="s3_3_d"><num value="d">(d)</num><content>produce his warrant card to any person in the public cargo working area or
+                    public water-front having reasonable grounds for asking for the
+                    same.</content></paragraph></subsection></section></part><part id="ID_1438403566389_004" name="P2" reason="inEffect" startPeriod="2021-03-18" status="operational" temporalId="P2"><num value="2">Part
+            II</num><heading>Excluded
+            Water-Fronts</heading><section id="ID_1438403566404_002" name="s4" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s4"><num value="4">4.</num><heading>Use of excluded water-fronts</heading><subsection id="ID_1438414060533_004" name="1" temporalId="s4_1"><num value="1">(1)</num><leadIn>Subject to paragraph (2), no person shall without the permission in writing of the Director—</leadIn><paragraph id="ID_1438414060533_012" name="a" temporalId="s4_1_a"><num value="a">(a)</num><content>berth any vessel or cause any vessel to be berthed;</content></paragraph><paragraph id="ID_1438414060533_020" name="b" temporalId="s4_1_b"><num value="b">(b)</num><content>load or unload any cargo or cargo container, or cause any cargo or cargo container to be loaded or unloaded, into or from any vessel or vehicle; or</content></paragraph><paragraph id="ID_1438414060533_028" name="c" temporalId="s4_1_c"><num value="c">(c)</num><content>deposit any cargo or cargo container, or cause any cargo or cargo container to be deposited,</content></paragraph><continued>at or in an excluded water-front.</continued></subsection><subsection id="ID_1438414060533_041" name="2" temporalId="s4_2"><num value="2">(2)</num><content>Subject to any other enactment, a vessel may embark or disembark passengers at an excluded water-front.</content></subsection><subsection id="ID_1438414060548_005" name="3" temporalId="s4_3"><num value="3">(3)</num><content>Any person who contravenes paragraph (1) shall be guilty of an offence and
+                shall be liable on conviction to a fine
+                at
+                level 3 and to imprisonment for 6 months.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1982/ln332">L.N. 332 of
+                    1982</ref>; <ref href="hk/2021/er1">E.R. 1 of 2021</ref>)</sourceNote></content></subsection></section></part><part id="ID_1438403566404_004" name="P3" reason="inEffect" startPeriod="2021-03-18" status="operational" temporalId="P3"><num value="3">Part
+            III</num><heading>Public
+            Cargo Working Areas and Public Water-Fronts</heading><section id="ID_1438403566420_002" name="s4A" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s4A"><num value="4A">4A.</num><heading>Operating hours</heading><subsection id="ID_1438414060595_004" name="1" temporalId="s4A_1"><num value="1">(1)</num><content>The Director may, by notice in writing, specify the hours during which cargo and cargo containers may be loaded or unloaded within a public cargo working area or public water-front, or any part thereof, specified in the notice.</content></subsection><subsection id="ID_1438414060595_012" name="2" temporalId="s4A_2"><num value="2">(2)</num><content>A notice under paragraph (1) shall be displayed in a conspicuous place in the public cargo working area or public water-front to which it relates.</content></subsection><subsection id="ID_1438414060611_005" name="3" temporalId="s4A_3"><num value="3">(3)</num><content>A person shall not without the permission in writing of the Director load or unload cargo or cargo containers outside the operating hours within a public cargo working area or public water-front, or any part thereof, specified in a notice under paragraph (1).<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1999/ln279">L.N. 279 of 1999</ref>)</sourceNote></content></subsection><subsection id="ID_1438414060611_013" name="4" temporalId="s4A_4"><num value="4">(4)</num><content>The Director may, upon application by any person and on payment of the prescribed fee, permit that person in writing to load or unload cargo or cargo containers outside the operating hours.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1999/ln279">L.N. 279 of 1999</ref>)</sourceNote></content></subsection><subsection id="ID_1438414060611_021" name="5" temporalId="s4A_5"><num value="5">(5)</num><leadIn>The permission under
+                paragraph
+                (4) is valid—
+                <sourceNote>(<ref href="hk/2021/er1">E.R. 1 of
+                2021</ref>)</sourceNote></leadIn><paragraph id="ID_1438414060611_029" name="a" temporalId="s4A_5_a"><num value="a">(a)</num><content>only for the public cargo working area or public water-front specified in
+                    the permission; and</content></paragraph><paragraph id="ID_1438414060626_006" name="b" temporalId="s4A_5_b"><num value="b">(b)</num><content>for the period specified in the permission.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1999/ln279">L.N. 279 of
+                            1999</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438414060626_013" name="6" temporalId="s4A_6"><num value="6">(6)</num><content>Any person who contravenes paragraph (3) is guilty of an offence and is liable
+                on conviction to a fine
+                at
+                level 3 and to imprisonment for 6 months.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1999/ln279">L.N. 279 of
+                    1999</ref>; <ref href="hk/2021/er1">E.R. 1 of 2021</ref>)</sourceNote></content></subsection><sourceNote>(<ref href="/hk/1984/ln226">L.N. 226 of 1984</ref>)</sourceNote></section><section id="ID_1438403566420_004" name="s5" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s5"><num value="5">5.</num><heading>Lay-bys</heading><subsection id="ID_1438414060657_011" name="1" temporalId="s5_1"><num value="1">(1)</num><content>The Director may, by notice in writing, set aside any area of water forming part of a public cargo working area or public water-front as a lay-by for vessels.</content></subsection><subsection id="ID_1438414060657_019" name="2" temporalId="s5_2"><num value="2">(2)</num><leadIn>A notice under paragraph (1)—</leadIn><paragraph id="ID_1438414060673_005" name="a" temporalId="s5_2_a"><num value="a">(a)</num><content>shall indicate the lay-by by a plan or reference points or by other suitable means; and</content></paragraph><paragraph id="ID_1438414060673_013" name="b" temporalId="s5_2_b"><num value="b">(b)</num><content>shall be displayed in a conspicuous place in the public cargo working area or public water-front to which it relates.</content></paragraph></subsection><subsection id="ID_1438414060673_020" name="3" temporalId="s5_3"><num value="3">(3)</num><content>The Director may cause a lay-by to be further indicated by such buoys, signs or markings as he deems appropriate.</content></subsection><sourceNote>(<ref href="/hk/1982/ln332">L.N. 332 of 1982</ref>)</sourceNote></section><section id="ID_1438403566436_001" name="s5A" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s5A"><num value="5A">5A.</num><heading>Entry of vessels</heading><subsection id="ID_1438414060704_004" name="1" temporalId="s5A_1"><num value="1">(1)</num><leadIn>The person in charge of a vessel shall, upon the vessel entering a public cargo working area or public water-front—  <sourceNote>(<ref href="/hk/1999/ln71">L.N. 71 of 1999</ref>)</sourceNote></leadIn><paragraph id="ID_1438414060704_012" name="a" temporalId="s5A_1_a"><num value="a">(a)</num><content>if there is a lay-by, cause the vessel to proceed directly to the lay-by;</content></paragraph><paragraph id="ID_1438414060704_020" name="b" temporalId="s5A_1_b"><num value="b">(b)</num><content>report the arrival of the vessel to a supervisor on duty at the public cargo working area or public water-front; and</content></paragraph><paragraph id="ID_1438414060704_028" name="c" temporalId="s5A_1_c"><num value="c">(c)</num><content>apply to such supervisor for a berthing permit under <ref>regulation 5B(1)</ref>.</content></paragraph></subsection><subsection id="ID_1438414060704_035" name="2" temporalId="s5A_2"><num value="2">(2)</num><leadIn>The person in charge of a vessel in a lay-by shall not cause or permit the vessel to leave the lay-by unless—  <sourceNote>(<ref href="/hk/1999/ln71">L.N. 71 of 1999</ref>)</sourceNote></leadIn><paragraph id="ID_1438414060704_043" name="a" temporalId="s5A_2_a"><num value="a">(a)</num><content>a cargo working berth has been allocated to the vessel under <ref>regulation 5C</ref>; or</content></paragraph><paragraph id="ID_1438414060704_051" name="b" temporalId="s5A_2_b"><num value="b">(b)</num><content>the vessel is proceeding to leave the public cargo working area or public water-front.</content></paragraph></subsection><subsection id="ID_1438414060720_005" name="3" temporalId="s5A_3"><num value="3">(3)</num><sourceNote>(Repealed <ref href="/hk/1999/ln71">L.N. 71 of 1999</ref>)</sourceNote></subsection><subsection id="ID_1438414060720_013" name="4" temporalId="s5A_4"><num value="4">(4)</num><content>Any person who without reasonable excuse contravenes paragraph (1) or (2) shall
+                be guilty of an offence and shall be liable on conviction to a fine
+                at
+                level 3 and to imprisonment for 6 months.
+                <sourceNote>(<ref href="hk/2021/er1">E.R. 1 of 2021</ref>)</sourceNote></content></subsection><sourceNote>(<ref href="/hk/1982/ln332">L.N. 332 of 1982</ref>)</sourceNote></section><section id="ID_1438403566436_003" name="s5B" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s5B"><num value="5B">5B.</num><heading>Berthing permits</heading><subsection id="ID_1438414060782_004" name="1" temporalId="s5B_1"><num value="1">(1)</num><content>A supervisor may, upon application and on payment of the prescribed fee, issue a berthing permit to any person in respect of a vessel in a public cargo working area or public water-front.</content></subsection><subsection id="ID_1438414060782_012" name="2" temporalId="s5B_2"><num value="2">(2)</num><content>A supervisor may refuse to issue a berthing permit in any case where in his opinion it is necessary to do so in the interests of the proper management of the public cargo working area or public water-front.</content></subsection><subsection id="ID_1438414060782_020" name="3" temporalId="s5B_3"><num value="3">(3)</num><leadIn>A berthing permit ceases to be valid if—</leadIn><paragraph id="ID_1438414060782_028" name="a" temporalId="s5B_3_a"><num value="a">(a)</num><content>it is cancelled under <ref>regulation 21</ref>;</content></paragraph><paragraph id="ID_1438414060782_036" name="b" temporalId="s5B_3_b"><num value="b">(b)</num><content>the prescribed fee or the surcharge payable under <ref>regulation 5C(5)</ref> is not paid in accordance with <ref>regulation 22(2)</ref>; or</content></paragraph><paragraph id="ID_1438414060798_006" name="c" temporalId="s5B_3_c"><num value="c">(c)</num><leadIn>the vessel in respect of which it is issued—</leadIn><subparagraph id="ID_1438414060798_014" name="i" temporalId="s5B_3_c_i"><num value="i">(i)</num><content>leaves the cargo working berth allocated to it under <ref>regulation 5C(1)</ref> other than pursuant to a direction under <ref>regulation 5C(4)</ref>; or</content></subparagraph><subparagraph id="ID_1438414060798_022" name="ii" temporalId="s5B_3_c_ii"><num value="ii">(ii)</num><content>leaves the public cargo working area or public water-front.</content></subparagraph></paragraph></subsection><subsection id="ID_1438414060798_028" name="4" temporalId="s5B_4"><num value="4">(4)</num><leadIn>The person in charge of a vessel shall not cause or permit the vessel to remain in a public cargo working area or public water-front unless—  <sourceNote>(<ref href="/hk/1999/ln71">L.N. 71 of 1999</ref>)</sourceNote></leadIn><paragraph id="ID_1438414060798_036" name="a" temporalId="s5B_4_a"><num value="a">(a)</num><content>there is a valid berthing permit issued in respect of the vessel; or</content></paragraph><paragraph id="ID_1438414060798_044" name="b" temporalId="s5B_4_b"><num value="b">(b)</num><content>if there is no such permit, an application for a berthing permit in respect of the vessel has been made under paragraph (1), and the supervisor has not refused to issue the permit.</content></paragraph></subsection><subsection id="ID_1438414060798_051" name="5" temporalId="s5B_5"><num value="5">(5)</num><sourceNote>(Repealed <ref href="/hk/1999/ln71">L.N. 71 of 1999</ref>)</sourceNote></subsection><subsection id="ID_1438414060798_059" name="6" temporalId="s5B_6"><num value="6">(6)</num><content>Any person who without reasonable excuse contravenes paragraph (4) shall be
+                guilty of any offence and shall be liable on conviction to a fine
+                at
+                level 4 and to imprisonment for 1 year.
+                <sourceNote>(<ref href="hk/2021/er1">E.R. 1 of 2021</ref>)</sourceNote></content></subsection><sourceNote>(<ref href="/hk/1982/ln332">L.N. 332 of 1982</ref>)</sourceNote></section><section id="ID_1438403566451_001" name="s5C" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s5C"><num value="5C">5C.</num><heading>Allocation of cargo working berths</heading><subsection id="ID_1438414060860_011" name="1" temporalId="s5C_1"><num value="1">(1)</num><content>A supervisor may allocate a cargo working berth to a vessel in respect of which
+                a berthing permit has been issued.</content></subsection><subsection id="ID_1438414060860_019" name="2" temporalId="s5C_2"><num value="2">(2)</num><content>Where a cargo working berth is allocated to a vessel, the supervisor shall
+                cause the date and time of such allocation to be endorsed on the berthing permit
+                issued in respect of the vessel.</content></subsection><subsection id="ID_1438414060860_027" name="3" temporalId="s5C_3"><num value="3">(3)</num><content>Except where a vessel is moved pursuant to a direction under paragraph
+                    <ref>(4)(a)</ref>, a cargo working berth allocated to a vessel shall remain
+                allocated to the vessel until the berthing permit issued in respect of the vessel
+                ceases to be valid.</content></subsection><subsection id="ID_1438414060876_005" name="4" temporalId="s5C_4"><num value="4">(4)</num><leadIn>A supervisor may direct the person in charge of a vessel to which a cargo
+                working berth is allocated, to—</leadIn><paragraph id="ID_1438414060876_013" name="a" temporalId="s5C_4_a"><num value="a">(a)</num><content>move the vessel from that cargo working berth to another cargo working
+                    berth allocated to the vessel;</content></paragraph><paragraph id="ID_1438414060876_021" name="b" temporalId="s5C_4_b"><num value="b">(b)</num><content>berth the vessel at the cargo working berth allocated to it in such
+                    position and manner as he thinks fit.</content></paragraph></subsection><subsection id="ID_1438414060876_028" name="5" temporalId="s5C_5"><num value="5">(5)</num><content>Where a cargo working berth is allocated to a vessel a surcharge shall be
+                payable, in addition to the prescribed fee payable in respect of the berthing
+                permit, at the appropriate rate prescribed in the <ref>Schedule</ref> for each
+                surcharged day.</content></subsection><subsection id="ID_1438414060876_036" name="6" temporalId="s5C_6"><num value="6">(6)</num><def name="SurchargedDay">
+                <leadIn>For the purposes of paragraph (5) and the <ref>Schedule</ref>,
+                        <term>surcharged
+                        day</term>
+                        (<term xml:lang="zh-Hant-HK">附加費徵收日</term>) means any period of 24 hours or
+                    part thereof during which a cargo working berth remains allocated to a vessel
+                    after the expiry of—</leadIn>
+                <paragraph id="ID_1438414060891_005" name="a" temporalId="s5C_6_a"><num value="a">(a)</num><content>in the case of a vessel exceeding 48 metres in length overall and
+                        engaged in the coastal and river trade between Hong Kong and Mainland of
+                        China, 64 operating hours; and<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1999/64">64 of 1999 s.
+                                3</ref>)</sourceNote></content></paragraph>
+                <paragraph id="ID_1438414060891_013" name="b" temporalId="s5C_6_b"><num value="b">(b)</num><content>in the case of any other vessel, 48 operating hours,</content></paragraph>
+                <continued>from the time of allocation endorsed on the berthing permit under
+                    paragraph (2).<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1984/ln226">L.N. 226 of 1984</ref>)</sourceNote></continued>
+            </def></subsection><subsection id="ID_1438414060891_026" name="7" temporalId="s5C_7"><num value="7">(7)</num><leadIn>A person in charge of a vessel shall not—  <sourceNote>(<ref href="/hk/1999/ln71">L.N. 71 of 1999</ref>)</sourceNote></leadIn><paragraph id="ID_1438414060891_034" name="a" temporalId="s5C_7_a"><num value="a">(a)</num><content>berth a vessel or cause or permit a vessel to be berthed or remain berthed
+                    at any cargo working berth not allocated to the vessel; or</content></paragraph><paragraph id="ID_1438414060891_042" name="b" temporalId="s5C_7_b"><num value="b">(b)</num><content>fail to comply with a direction under paragraph (4).</content></paragraph></subsection><subsection id="ID_1438414060891_049" name="8" temporalId="s5C_8"><num value="8">(8)</num><sourceNote>(Repealed <ref href="/hk/1999/ln71">L.N. 71 of 1999</ref>)</sourceNote></subsection><subsection id="ID_1438414060907_005" name="9" temporalId="s5C_9"><num value="9">(9)</num><content>Any person who without reasonable excuse contravenes paragraph (7) shall be
+                guilty of an offence and shall be liable on conviction to a fine
+                at
+                level 3 and to imprisonment for 6 months.
+                <sourceNote>(<ref href="hk/2021/er1">E.R. 1 of 2021</ref>)</sourceNote></content></subsection><sourceNote>(<ref href="/hk/1982/ln332">L.N. 332 of 1982</ref>)</sourceNote></section><section id="ID_1438403566451_003" name="s5D" reason="repealed" role="regulation" startPeriod="1999-05-01" status="repealed" temporalId="s5D"><num value="5D">5D.</num><sourceNote>(Repealed <ref href="/hk/1999/ln71">L.N. 71 of 1999</ref>)</sourceNote></section><section id="ID_1438403566467_002" name="s5E" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s5E"><num value="5E">5E.</num><heading>Permission to depart</heading><subsection id="ID_1438414060969_004" name="1" temporalId="s5E_1"><num value="1">(1)</num><leadIn>The person in charge of a vessel in a public cargo working area or public water-front shall, before the departure of the vessel from the public cargo working area or public water-front—</leadIn><paragraph id="ID_1438414060969_012" name="a" temporalId="s5E_1_a"><num value="a">(a)</num><content>report to a supervisor on duty at the public cargo working area or public water-front;</content></paragraph><paragraph id="ID_1438414060969_020" name="b" temporalId="s5E_1_b"><num value="b">(b)</num><content>pay all outstanding fees and charges incurred in respect of the vessel under these regulations; and</content></paragraph><paragraph id="ID_1438414060969_028" name="c" temporalId="s5E_1_c"><num value="c">(c)</num><content>obtain the permission of the supervisor for the departure of the vessel.</content></paragraph></subsection><subsection id="ID_1438414060985_005" name="2" temporalId="s5E_2"><num value="2">(2)</num><content>Any person who without reasonable excuse contravenes paragraph (1) shall be
+                guilty of an offence and shall be liable on conviction to a fine
+                at
+                level 3 and to imprisonment for 6 months.
+                <sourceNote>(<ref href="hk/2021/er1">E.R. 1 of 2021</ref>)</sourceNote></content></subsection><sourceNote>(<ref href="/hk/1982/ln332">L.N. 332 of 1982</ref>)</sourceNote></section><section id="ID_1438403566467_004" name="s6" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s6"><num value="6">6.</num><heading>Loading and unloading of cargo</heading><subsection id="ID_1438414061016_004" name="1" temporalId="s6_1"><num value="1">(1)</num><content>Except as otherwise provided in these regulations, no person shall use a public cargo working area or public water-front otherwise than for the loading or unloading of cargo or cargo containers into or from any vehicle or vessel.</content></subsection><subsection id="ID_1438414061016_012" name="2" temporalId="s6_2"><num value="2">(2)</num><sourceNote>(Repealed <ref href="/hk/1999/ln279">L.N. 279 of 1999</ref>)</sourceNote></subsection><subsection id="ID_1438414061016_020" name="3" temporalId="s6_3"><num value="3">(3)</num><sourceNote>(Repealed <ref href="/hk/1984/ln226">L.N. 226 of 1984</ref>)</sourceNote></subsection><subsection id="ID_1438414061016_028" name="4" temporalId="s6_4"><num value="4">(4)</num><content>Any person who without reasonable excuse contravenes paragraph (1) shall be
+                guilty of an offence and shall be liable on conviction to a fine
+                at
+                level 3 and to imprisonment for 6 months.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1982/ln332">L.N. 332 of 1982</ref>; <ref href="/hk/1984/ln226">L.N. 226 of 1984</ref>; <ref href="/hk/1999/ln279">L.N. 279 of
+                    1999</ref>; <ref href="hk/2021/er1">E.R. 1 of 2021</ref>)</sourceNote></content></subsection></section><section id="ID_1438403566482_002" name="s6AA" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s6AA"><num value="6AA">6AA.</num><heading>Circumstances under which certain activities may be carried out</heading><subsection id="ID_1438414061047_012" name="1" temporalId="s6AA_1"><num value="1">(1)</num><content>The Director may, upon application by any person and on payment of the prescribed fee, permit that person in writing to carry out any activity prohibited under <ref>regulation 6</ref> within a public cargo working area or public water-front specified in the permission.</content></subsection><subsection id="ID_1438414061063_005" name="2" temporalId="s6AA_2"><num value="2">(2)</num><leadIn>The permission under
+                paragraph
+                (1) is valid—
+                <sourceNote>(<ref href="hk/2021/er1">E.R. 1 of
+                2021</ref>)</sourceNote></leadIn><paragraph id="ID_1438414061063_013" name="a" temporalId="s6AA_2_a"><num value="a">(a)</num><content>only for the public cargo working area or public water-front specified in
+                    the permission; and</content></paragraph><paragraph id="ID_1438414061063_021" name="b" temporalId="s6AA_2_b"><num value="b">(b)</num><content>for the period specified in the permission.</content></paragraph></subsection><subsection id="ID_1438414061063_028" name="3" temporalId="s6AA_3"><num value="3">(3)</num><content>This regulation shall not apply to any thing or activity for which provision is made elsewhere in these regulations.</content></subsection><sourceNote>(<ref href="/hk/1999/ln279">L.N. 279 of 1999</ref>)</sourceNote></section><section id="ID_1438403566482_004" name="s6A" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s6A"><num value="6A">6A.</num><heading>Special cargo handling areas and equipment</heading><subsection id="ID_1438414061094_004" name="1" temporalId="s6A_1"><num value="1">(1)</num><leadIn>The Director may, by notice in writing—</leadIn><paragraph id="ID_1438414061094_012" name="a" temporalId="s6A_1_a"><num value="a">(a)</num><content>set aside any part of a public cargo working area or public water-front as an area for the loading or unloading of any type of vessel, cargo or cargo container specified by him in the notice;</content></paragraph><paragraph id="ID_1438414061094_020" name="b" temporalId="s6A_1_b"><num value="b">(b)</num><content>specify the type of cargo handling machinery and equipment to be used in a public cargo working area or public water-front or any part thereof for the loading or unloading of any type of vessel, cargo or cargo container;</content></paragraph><paragraph id="ID_1438414061110_006" name="c" temporalId="s6A_1_c"><num value="c">(c)</num><content>specify, in relation to any type of cargo handling machinery or equipment, any conditions subject to which such machinery or equipment may be used in a public cargo working area or public water-front or any part thereof.</content></paragraph></subsection><subsection id="ID_1438414061110_013" name="2" temporalId="s6A_2"><num value="2">(2)</num><leadIn>A notice under paragraph (1)—</leadIn><paragraph id="ID_1438414061110_021" name="a" temporalId="s6A_2_a"><num value="a">(a)</num><content>shall, if it sets aside an area referred to in that paragraph, indicate the area by a plan or reference points or by other suitable means; and</content></paragraph><paragraph id="ID_1438414061110_029" name="b" temporalId="s6A_2_b"><num value="b">(b)</num><content>shall be displayed in a conspicuous place in the public cargo working area or public water-front to which it relates.</content></paragraph></subsection><subsection id="ID_1438414061110_036" name="3" temporalId="s6A_3"><num value="3">(3)</num><content>Any person who without reasonable excuse fails to comply with the requirements
+                of a notice under paragraph (1) which is displayed under paragraph (2), shall be
+                guilty of an offence and shall be liable on conviction to a fine
+                at
+                level 4 and to imprisonment for 1 year.
+                <sourceNote>(<ref href="hk/2021/er1">E.R. 1 of 2021</ref>)</sourceNote></content></subsection><sourceNote>(<ref href="/hk/1982/ln332">L.N. 332 of 1982</ref>)</sourceNote></section><section id="ID_1438403566498_002" name="s6B" reason="repealed" role="regulation" startPeriod="1999-05-01" status="repealed" temporalId="s6B"><num value="6B">6B.</num><sourceNote>(Repealed <ref href="/hk/1999/ln71">L.N. 71 of 1999</ref>)</sourceNote></section><section id="ID_1438403566498_004" name="s7" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s7"><num value="7">7.</num><heading>Cargo depositing permits</heading><subsection id="ID_1438414061172_004" name="1" temporalId="s7_1"><num value="1">(1)</num><content>A supervisor may, upon application and on payment of the prescribed fee, issue to any person a cargo depositing permit for the deposit of any cargo or cargo container specified in the permit on land forming part of a public cargo working area or public water-front specified in the permit.</content></subsection><subsection id="ID_1438414061172_012" name="2" temporalId="s7_2"><num value="2">(2)</num><leadIn>A cargo depositing permit shall be valid—</leadIn><paragraph id="ID_1438414061172_020" name="a" temporalId="s7_2_a"><num value="a">(a)</num><leadIn>until the expiry of 24 hours from—</leadIn><subparagraph id="ID_1438414061172_028" name="i" temporalId="s7_2_a_i"><num value="i">(i)</num><content>where the permit is in respect of China trade cargo, the time when the
+                        vessel that carried the cargo leaves the public cargo working area or public
+                        water-front;</content></subparagraph><subparagraph id="ID_1438414061188_007" name="ii" temporalId="s7_2_a_ii"><num value="ii">(ii)</num><content>where the permit is in respect of any other cargo or cargo container,
+                        the time specified in the permit,</content></subparagraph><continued>or until the cargo or cargo container specified in the permit is removed
+                    from the place where it is deposited in accordance with paragraph (3), whichever
+                    event occurs sooner; and<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1984/ln226">L.N. 226 of 1984</ref>)</sourceNote></continued></paragraph><paragraph id="ID_1438414061188_020" name="b" temporalId="s7_2_b"><num value="b">(b)</num><content>only in respect of the cargo or cargo container and for the public cargo
+                    working area or public water-front specified in the permit.</content></paragraph></subsection><subsection id="ID_1438414061188_027" name="2A" temporalId="s7_2A"><num value="2A">(2A)</num><content>In calculating the period of 24 hours for the purposes of paragraph (2) in relation to a permit referred to in paragraph <ref>(2)(a)(i)</ref>, no period within a public holiday shall be taken into account.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1984/ln226">L.N. 226 of 1984</ref>)</sourceNote></content></subsection><subsection id="ID_1438414061203_005" name="3" temporalId="s7_3"><num value="3">(3)</num><content>Any cargo or cargo container in respect of which a cargo depositing permit is issued shall be deposited in such place as is specified in the permit, or where no such place is specified, as directed by a supervisor.</content></subsection><subsection id="ID_1438414061203_013" name="3A" temporalId="s7_3A"><num value="3A">(3A)</num><content>For the purpose of ascertaining the prescribed fee for a cargo depositing permit in respect of any China trade cargo, a copy of the manifest relating to such cargo shall be given to the supervisor to whom application for the permit is made.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1984/ln226">L.N. 226 of 1984</ref>)</sourceNote></content></subsection><subsection id="ID_1438414061203_021" name="4" temporalId="s7_4"><num value="4">(4)</num><leadIn>Subject to paragraph (5), any person who without reasonable excuse—  <sourceNote>(<ref href="/hk/1999/ln71">L.N. 71 of 1999</ref>)</sourceNote></leadIn><paragraph id="ID_1438414061203_029" name="a" temporalId="s7_4_a"><num value="a">(a)</num><content>deposits any cargo or cargo container in a public cargo working area or public water-front or causes or permits any cargo or cargo container to be or to remain so deposited without a valid cargo depositing permit in respect of such cargo or cargo container; or</content></paragraph><paragraph id="ID_1438414061219_006" name="b" temporalId="s7_4_b"><num value="b">(b)</num><content>contravenes any specification or direction under paragraph (3),</content></paragraph><continued>shall be guilty of an offence and shall be liable on conviction to a fine
+                at
+                level 2.
+                <sourceNote>(<ref href="hk/2021/er1">E.R. 1 of 2021</ref>)</sourceNote></continued></subsection><subsection id="ID_1438414061219_019" name="5" temporalId="s7_5"><num value="5">(5)</num><content>Paragraph (4) shall not apply to a person who has been issued with an operation area permit which is valid in respect of the public cargo working area or public water-front.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1999/ln71">L.N. 71 of 1999</ref>)</sourceNote></content></subsection><sourceNote>(<ref href="/hk/1982/ln332">L.N. 332 of 1982</ref>)</sourceNote></section><section id="ID_1438403566514_002" name="s7A" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s7A"><num value="7A">7A.</num><heading>Mobile crane permits</heading><subsection id="ID_1438414061281_004" name="1" temporalId="s7A_1"><num value="1">(1)</num><content>The Director may issue a mobile crane permit to any person to operate a mobile crane on land within a public cargo working area or public water-front specified in the permit.</content></subsection><subsection id="ID_1438414061281_012" name="2" temporalId="s7A_2"><num value="2">(2)</num><leadIn>A mobile crane permit—</leadIn><paragraph id="ID_1438414061281_020" name="a" temporalId="s7A_2_a"><num value="a">(a)</num><leadIn>shall be valid only—</leadIn><subparagraph id="ID_1438414061281_028" name="i" temporalId="s7A_2_a_i"><num value="i">(i)</num><content>for the public cargo working area or public water-front specified in the permit; and</content></subparagraph><subparagraph id="ID_1438414061281_036" name="ii" temporalId="s7A_2_a_ii"><num value="ii">(ii)</num><content>for the mobile crane specified in the permit or any mobile crane substituted therefor under paragraph (5);</content></subparagraph></paragraph><paragraph id="ID_1438414061281_043" name="b" temporalId="s7A_2_b"><num value="b">(b)</num><content>shall, unless earlier cancelled under <ref>regulation 21</ref>, be valid for a period not exceeding 1 calendar month, expiring at the end of the last day of the month for which it is issued; and<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1999/ln71">L.N. 71 of 1999</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438414061297_006" name="c" temporalId="s7A_2_c"><num value="c">(c)</num><content>may from time to time be renewed.</content></paragraph></subsection><subsection id="ID_1438414061297_013" name="3" temporalId="s7A_3"><num value="3">(3)</num><content>An application for the issue or renewal of a mobile crane permit shall be made in writing to the Director in such manner as he may specify.</content></subsection><subsection id="ID_1438414061297_021" name="4" temporalId="s7A_4"><num value="4">(4)</num><content>There shall be payable in respect of a mobile crane permit such fees as may be prescribed.</content></subsection><subsection id="ID_1438414061297_029" name="5" temporalId="s7A_5"><num value="5">(5)</num><content>The Director may at any time permit the substitution of another mobile crane for the mobile crane specified in a mobile crane permit, and if he so permits shall endorse the permit accordingly.</content></subsection><subsection id="ID_1438414061297_037" name="6" temporalId="s7A_6"><num value="6">(6)</num><content>Subject to paragraph (7), any person who operates a mobile crane or causes or
+                permits a mobile crane to be operated within a public cargo working area or public
+                water-front without a valid mobile crane permit issued in respect of the mobile
+                crane, shall be guilty of an offence and shall be liable on conviction to a fine
+                at
+                level 3 and to imprisonment for 6 months.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1999/ln71">L.N. 71 of
+                    1999</ref>; <ref href="hk/2021/er1">E.R. 1 of 2021</ref>)</sourceNote></content></subsection><subsection id="ID_1438414061313_005" name="7" temporalId="s7A_7"><num value="7">(7)</num><content>Paragraph (6) shall not apply to a person who has been issued with an operation area permit which is valid in respect of the public cargo working area or public water-front.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1999/ln71">L.N. 71 of 1999</ref>)</sourceNote></content></subsection><sourceNote>(<ref href="/hk/1985/ln125">L.N. 125 of 1985</ref>)</sourceNote></section><section id="ID_1438403566529_001" name="s7B" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s7B"><num value="7B">7B.</num><heading>Fork lift truck permits</heading><subsection id="ID_1438414061359_004" name="1" temporalId="s7B_1"><num value="1">(1)</num><content>The Director may issue a fork lift truck permit to any person to operate a fork lift truck on land within a public cargo working area or public water-front specified in the permit.</content></subsection><subsection id="ID_1438414061359_012" name="2" temporalId="s7B_2"><num value="2">(2)</num><leadIn>A fork lift truck permit—</leadIn><paragraph id="ID_1438414061359_020" name="a" temporalId="s7B_2_a"><num value="a">(a)</num><leadIn>shall be valid only—</leadIn><subparagraph id="ID_1438414061359_028" name="i" temporalId="s7B_2_a_i"><num value="i">(i)</num><content>for the public cargo working area or public water-front specified in the permit; and</content></subparagraph><subparagraph id="ID_1438414061359_036" name="ii" temporalId="s7B_2_a_ii"><num value="ii">(ii)</num><content>for the fork lift truck specified in the permit or any fork lift truck substituted therefor under paragraph (5);</content></subparagraph></paragraph><paragraph id="ID_1438414061375_006" name="b" temporalId="s7B_2_b"><num value="b">(b)</num><content>shall, unless earlier cancelled under <ref>regulation 21</ref>, be valid for a period of 1 calendar month or for such lesser period as may be specified in the permit; and</content></paragraph><paragraph id="ID_1438414061375_014" name="c" temporalId="s7B_2_c"><num value="c">(c)</num><content>may from time to time be renewed.</content></paragraph></subsection><subsection id="ID_1438414061375_021" name="3" temporalId="s7B_3"><num value="3">(3)</num><content>An application for the issue or renewal of a fork lift truck permit shall be made in writing to the Director in such manner as he may specify.</content></subsection><subsection id="ID_1438414061375_029" name="4" temporalId="s7B_4"><num value="4">(4)</num><content>There shall be payable in respect of a fork lift truck permit such fees as may be prescribed.</content></subsection><subsection id="ID_1438414061375_037" name="5" temporalId="s7B_5"><num value="5">(5)</num><content>The Director may at any time permit the substitution of another fork lift truck for the fork lift truck specified in a fork lift truck permit, and if he so permits shall endorse the permit accordingly.</content></subsection><subsection id="ID_1438414061375_045" name="6" temporalId="s7B_6"><num value="6">(6)</num><content>Subject to paragraph (7), any person who operates a fork lift truck or causes
+                or permits a fork lift truck to be operated in a public cargo working area or public
+                water-front without a valid fork lift truck permit issued in respect of the fork
+                lift truck, shall be guilty of an offence and shall be liable on conviction to a
+                fine
+                at
+                level 3 and to imprisonment for 6 months.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1999/ln71">L.N. 71 of
+                    1999</ref>; <ref href="hk/2021/er1">E.R. 1 of 2021</ref>)</sourceNote></content></subsection><subsection id="ID_1438414061391_005" name="7" temporalId="s7B_7"><num value="7">(7)</num><content>Paragraph (6) shall not apply to a person who has been issued with an operation area permit which is valid in respect of the public cargo working area or public water-front.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1999/ln71">L.N. 71 of 1999</ref>)</sourceNote></content></subsection><sourceNote>(<ref href="/hk/1985/ln125">L.N. 125 of 1985</ref>)</sourceNote></section><section id="ID_1438403566529_003" name="s7C" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s7C"><num value="7C">7C.</num><heading>Mobile office and mobile shelter permits</heading><subsection id="ID_1438414061437_004" name="1" temporalId="s7C_1"><num value="1">(1)</num><content>The Director may issue a permit to any person to keep a mobile office or mobile
+                shelter on land within a public cargo working area or public water-front.</content></subsection><subsection id="ID_1438414061437_012" name="2" temporalId="s7C_2"><num value="2">(2)</num><leadIn>A mobile office permit or mobile shelter permit—</leadIn><paragraph id="ID_1438414061437_020" name="a" temporalId="s7C_2_a"><num value="a">(a)</num><leadIn>shall be valid only—</leadIn><subparagraph id="ID_1438414061437_028" name="i" temporalId="s7C_2_a_i"><num value="i">(i)</num><content>for the public cargo working area or public water-front specified in
+                        the permit; and</content></subparagraph><subparagraph id="ID_1438414061453_007" name="ii" temporalId="s7C_2_a_ii"><num value="ii">(ii)</num><content>for the mobile office or mobile shelter specified in the permit or any
+                        mobile office or mobile shelter substituted, respectively, therefor under
+                        paragraph (5);</content></subparagraph></paragraph><paragraph id="ID_1438414061453_014" name="b" temporalId="s7C_2_b"><num value="b">(b)</num><content>shall, unless earlier cancelled under <ref>regulation 21</ref>, be valid
+                    for a period not exceeding 1 calendar month, expiring at the end of the last day
+                    of the month for which it is issued; and<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1999/ln71">L.N. 71 of
+                        1999</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438414061453_022" name="c" temporalId="s7C_2_c"><num value="c">(c)</num><content>may from time to time be renewed.</content></paragraph></subsection><subsection id="ID_1438414061453_029" name="3" temporalId="s7C_3"><num value="3">(3)</num><content>An application for the issue or renewal of a mobile office permit or mobile
+                shelter permit shall be made in writing to the Director in such manner as he may
+                specify.</content></subsection><subsection id="ID_1438414061453_037" name="4" temporalId="s7C_4"><num value="4">(4)</num><content>There shall be payable in respect of a mobile office permit or mobile shelter
+                permit such fees as may be prescribed.</content></subsection><subsection id="ID_1438414061469_005" name="5" temporalId="s7C_5"><num value="5">(5)</num><content>The Director may at any time permit the substitution of another mobile office
+                or mobile shelter for the mobile office or mobile shelter, respectively, specified
+                in the mobile office permit or mobile shelter permit, and if he so permits shall
+                endorse the permit accordingly.</content></subsection><subsection id="ID_1438414061469_013" name="6" temporalId="s7C_6"><num value="6">(6)</num><content>A mobile office or mobile shelter in respect of which a mobile office permit or
+                mobile shelter permit is issued shall be kept at such place as is specified in the
+                permit, or where no such place is specified, as is directed by a
+                supervisor.</content></subsection><subsection id="ID_1450853483295_001" name="7" temporalId="s7C_7"><num value="7">(7)</num><leadIn>Subject to paragraph (7A), any person who—  <sourceNote>(<ref href="/hk/1999/ln71">L.N. 71 of 1999</ref>)</sourceNote></leadIn><paragraph id="ID_1438414061469_029" name="a" temporalId="s7C_7_a"><num value="a">(a)</num><content>keeps a mobile office or mobile shelter in a public cargo working area or
+                    public water-front without a valid mobile office permit or mobile shelter permit
+                    issued in respect of the mobile office or mobile shelter, as the case may be;
+                    or</content></paragraph><paragraph id="ID_1438414061484_006" name="b" temporalId="s7C_7_b"><num value="b">(b)</num><content>without reasonable excuse, fails to comply with a specification or
+                    direction under paragraph (6),</content></paragraph><continued>shall be guilty of an offence and shall be liable on conviction to a fine
+                at
+                level 3 and to imprisonment for 6 months.
+                <sourceNote>(<ref href="hk/2021/er1">E.R. 1 of 2021</ref>)</sourceNote></continued></subsection><subsection id="ID_1450853483326_002" name="7A" temporalId="s7C_7A"><num value="7A">(7A) </num><content>Paragraph (7) shall not apply to a person who has been issued with an operation
+                area permit which is valid in respect of the public cargo working area or public
+                    water-front.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1999/ln71">L.N. 71 of 1999</ref>)</sourceNote></content></subsection><subsection id="ID_1438414061484_026" name="8" temporalId="s7C_8"><num value="8">(8)</num><content>The Director may direct the owner or person in charge of a mobile office or
+                mobile shelter in respect of which an offence is committed under paragraph (7) to
+                remove the mobile office or mobile shelter from the public cargo working area or
+                public water-front within such time as the Director may specify in the
+                direction.</content></subsection><subsection id="ID_1438414061500_005" name="9" temporalId="s7C_9"><num value="9">(9)</num><content>If a direction under paragraph (8) is not complied with, the Director may
+                remove, or cause to be removed, the mobile office or mobile shelter from the public
+                cargo working area or public water-front and may recover the cost of the removal as
+                a civil debt from the owner of the mobile office or mobile shelter.</content></subsection><sourceNote>(<ref href="/hk/1985/ln125">L.N. 125 of 1985</ref>)</sourceNote></section><section id="ID_1438403566545_002" name="s7D" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s7D"><num value="7D">7D.</num><heading>Operation area permits</heading><subsection id="ID_1438414061562_004" name="1" temporalId="s7D_1"><num value="1">(1)</num><leadIn>The Director may, upon application and on payment of the fee prescribed in the <ref>Schedule</ref> by any person, issue to the person an operation area permit to permit him to—</leadIn><paragraph id="ID_1438414061562_012" name="a" temporalId="s7D_1_a"><num value="a">(a)</num><content>deposit any cargo or cargo container;</content></paragraph><paragraph id="ID_1438414061562_020" name="b" temporalId="s7D_1_b"><num value="b">(b)</num><content>operate a mobile crane;</content></paragraph><paragraph id="ID_1438414061562_028" name="c" temporalId="s7D_1_c"><num value="c">(c)</num><content>operate a fork lift truck;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1999/ln279">L.N. 279 of 1999</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438414061562_036" name="d" temporalId="s7D_1_d"><num value="d">(d)</num><content>keep a mobile office or mobile shelter; and<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1999/ln279">L.N. 279 of 1999</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438414061562_044" name="e" temporalId="s7D_1_e"><num value="e">(e)</num><content>van or devan a cargo container not across a seawall,<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1999/ln279">L.N. 279 of 1999</ref>)</sourceNote></content></paragraph><continued>within the area specified in the permit forming part of a public cargo working area or public water-front.</continued></subsection><subsection id="ID_1438414061562_057" name="2" temporalId="s7D_2"><num value="2">(2)</num><leadIn>An operation area permit—</leadIn><paragraph id="ID_1438414061562_065" name="a" temporalId="s7D_2_a"><num value="a">(a)</num><content>shall be valid only in respect of the public cargo working area or public water-front specified in the permit; and</content></paragraph><paragraph id="ID_1438414061578_006" name="b" temporalId="s7D_2_b"><num value="b">(b)</num><content>shall, unless earlier cancelled under <ref>regulation 21</ref>, be valid for a period not exceeding 1 calendar month, expiring at the end of the last day of the month for which it is issued; and</content></paragraph><paragraph id="ID_1438414061578_014" name="c" temporalId="s7D_2_c"><num value="c">(c)</num><content>may from time to time be renewed.</content></paragraph></subsection><subsection id="ID_1438414061578_021" name="3" temporalId="s7D_3"><num value="3">(3)</num><content>An application for the issue or renewal of an operation area permit shall be made to the Director in such manner as he may specify.</content></subsection><sourceNote>(<ref href="/hk/1999/ln71">L.N. 71 of 1999</ref>)</sourceNote></section><section id="ID_1438403566545_004" name="s7E" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s7E"><num value="7E">7E.</num><heading>Vanning and devanning permits</heading><subsection id="ID_1438414061609_035" name="1" temporalId="s7E_1"><num value="1">(1)</num><content>The supervisor may, upon application by any person and on payment of the prescribed fee, issue to that person a vanning and devanning permit to van or devan not across a seawall a cargo container specified in the permit, within a public cargo working area or public water-front specified in the permit.</content></subsection><subsection id="ID_1438414061625_005" name="2" temporalId="s7E_2"><num value="2">(2)</num><leadIn>A vanning and devanning permit is valid—</leadIn><paragraph id="ID_1438414061625_013" name="a" temporalId="s7E_2_a"><num value="a">(a)</num><content>only for the public cargo working area or public water-front specified in the permit; and</content></paragraph><paragraph id="ID_1438414061625_021" name="b" temporalId="s7E_2_b"><num value="b">(b)</num><content>until the vanning or devanning of the container specified in the permit is completed.</content></paragraph></subsection><subsection id="ID_1438414061625_028" name="3" temporalId="s7E_3"><num value="3">(3)</num><content>Subject to paragraph (4), any person who vans or devans a container within a
+                public cargo working area or public water-front without a valid vanning and
+                devanning permit is guilty of an offence and is liable on conviction to a fine
+                at
+                level 2.
+                <sourceNote>(<ref href="hk/2021/er1">E.R. 1 of 2021</ref>)</sourceNote></content></subsection><subsection id="ID_1438414061640_005" name="4" temporalId="s7E_4"><num value="4">(4)</num><content>Paragraph (3) does not apply to a person who has been issued with an operation area permit which is valid in respect of the public cargo working area or public water-front.</content></subsection><sourceNote>(<ref href="/hk/1999/ln279">L.N. 279 of 1999</ref>)</sourceNote></section><section id="ID_1438403566560_002" name="s8" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s8"><num value="8">8.</num><heading>Prohibition of sale, etc., of cargo</heading><subsection id="ID_1438414061671_004" name="1" temporalId="s8_1"><num value="1">(1)</num><leadIn>No person shall sell or otherwise deal in cargo—</leadIn><paragraph id="ID_1438414061671_012" name="a" temporalId="s8_1_a"><num value="a">(a)</num><content>in a public cargo working area or public water-front; or</content></paragraph><paragraph id="ID_1438414061671_020" name="b" temporalId="s8_1_b"><num value="b">(b)</num><content>in any vessel or vehicle in such an area or water-front.</content></paragraph></subsection><subsection id="ID_1438414061671_027" name="2" temporalId="s8_2"><num value="2">(2)</num><content>Any person who contravenes paragraph (1) shall be guilty of an offence and
+                shall be liable on conviction to a fine
+                at
+                level 2 and to imprisonment for 6 months.
+                <sourceNote>(<ref href="hk/2021/er1">E.R. 1 of 2021</ref>)</sourceNote></content></subsection></section><section id="ID_1438403566560_004" name="s9" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s9"><num value="9">9.</num><heading>Inspection, etc. of cargo</heading><subsection id="ID_1438414061718_004" name="1" temporalId="s9_1"><num value="1">(1)</num><content>No person shall, unless he is authorized in writing by the Director, engage in the inspection, weighing or measurement of cargo or cargo containers in a public cargo working area or public water-front.</content></subsection><subsection id="ID_1438414061718_012" name="2" temporalId="s9_2"><num value="2">(2)</num><content>Any person who contravenes paragraph (1) shall be guilty of an offence and
+                shall be liable on conviction to a fine
+                at
+                level 2.
+                <sourceNote>(<ref href="hk/2021/er1">E.R. 1 of 2021</ref>)</sourceNote></content></subsection></section><section id="ID_1438403566576_002" name="s10" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s10"><num value="10">10.</num><heading>Prohibition of certain vehicles at public water-fronts</heading><subsection id="ID_1438414061749_004" name="1" temporalId="s10_1"><num value="1">(1)</num><content>Subject to paragraph (1A), no person shall bring any vehicle other than a goods vehicle, or cause any vehicle other than a goods vehicle to be brought, into a public water-front.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1985/ln125">L.N. 125 of 1985</ref>)</sourceNote></content></subsection><subsection id="ID_1438414061749_012" name="1A" temporalId="s10_1A"><num value="1A">(1A)</num><content>Paragraph (1) shall not apply to a mobile crane or fork lift truck.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1999/ln71">L.N. 71 of 1999</ref>)</sourceNote></content></subsection><subsection id="ID_1438414061749_020" name="2" temporalId="s10_2"><num value="2">(2)</num><content>Any person who contravenes paragraph (1) shall be guilty of an offence and
+                shall be liable on conviction to a fine
+                at
+                level 2 and to imprisonment for 6 months.
+                <sourceNote>(<ref href="hk/2021/er1">E.R. 1 of 2021</ref>)</sourceNote></content></subsection></section><section id="ID_1438403566592_002" name="s11" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s11"><num value="11">11.</num><heading>Movement of vessels or vehicles</heading><subsection id="ID_1438414061781_004" name="1" temporalId="s11_1"><num value="1">(1)</num><content>Without prejudice to any other provision of these regulations, a supervisor may require the person in charge of a vessel, or the driver of a vehicle, in a public cargo working area or public water-front to move the vessel or vehicle from one place within the public cargo working area or public water-front to another.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1982/ln332">L.N. 332 of 1982</ref>)</sourceNote></content></subsection><subsection id="ID_1438414061781_012" name="2" temporalId="s11_2"><num value="2">(2)</num><content><leadIn>The person in charge of a vessel, or the driver of a vehicle, in a public cargo working area or public water-front shall at all reasonable times attend at the place where the vessel is berthed or the vehicle is parked or kept waiting:</leadIn><proviso name="proviso" temporalId="s11_2_proviso">Provided that this paragraph shall not apply where a vessel is berthed or a vehicle is parked at a place set aside by the Director in which vessels may be berthed or vehicles may be parked unattended.</proviso></content></subsection><subsection id="ID_1438414061796_004" name="3" temporalId="s11_3"><num value="3">(3)</num><leadIn>If the person in charge of a vessel or the driver of a vehicle—</leadIn><paragraph id="ID_1438414061796_012" name="a" temporalId="s11_3_a"><num value="a">(a)</num><content>fails to move his vessel or vehicle in accordance with a requirement under paragraph (1); or</content></paragraph><paragraph id="ID_1438414061796_020" name="b" temporalId="s11_3_b"><num value="b">(b)</num><content>is not in attendance in accordance with paragraph (2),</content></paragraph><continued>he shall be guilty of an offence and shall be liable on conviction to a fine
+                at
+                level 2 and to imprisonment for 6 months.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1982/ln332">L.N. 332 of
+                    1982</ref>; <ref href="hk/2021/er1">E.R. 1 of 2021</ref>)</sourceNote></continued></subsection><subsection id="ID_1438414061796_033" name="4" temporalId="s11_4"><num value="4">(4)</num><content>Where a supervisor has reason to believe that an offence has been committed under paragraph (3) he may, with the assistance of any other person, move the vessel or vehicle referred to in that paragraph from one place in the public cargo working area or public water-front to another.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1982/ln332">L.N. 332 of 1982</ref>)</sourceNote></content></subsection></section><section id="ID_1438403566607_002" name="s11A" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s11A"><num value="11A">11A.</num><heading>Removal of vessels</heading><subsection id="ID_1438414061843_003" name="1" temporalId="s11A_1"><num value="1">(1)</num><content>Without prejudice to any other provision of these regulations, the Director may, where any vessel enters, or remains in, a public cargo working area or public water-front in contravention of these regulations, direct the owner or the person in charge of such vessel to remove the vessel from the public cargo working area or public water-front within such time as the Director may specify in the direction.</content></subsection><subsection id="ID_1438414061843_011" name="2" temporalId="s11A_2"><num value="2">(2)</num><content>If the owner or the person in charge of a vessel fails, without reasonable
+                excuse, to comply with a direction given under paragraph (1), he shall be guilty of
+                an offence and shall be liable on conviction to a fine
+                at
+                level 2 and to imprisonment for 6 months.
+                <sourceNote>(<ref href="hk/2021/er1">E.R. 1 of 2021</ref>)</sourceNote></content></subsection><subsection id="ID_1438414061859_005" name="3" temporalId="s11A_3"><num value="3">(3)</num><content>Where the Director has reason to believe that an offence has been committed under paragraph (2) he may, whether or not any person is or will be prosecuted for that offence, remove such vessel or cause it to be removed from the public cargo working area or public water-front and may take possession of the vessel or cause possession of it to be taken for the purposes of such removal.</content></subsection><subsection id="ID_1438414061859_013" name="4" temporalId="s11A_4"><num value="4">(4)</num><content>The Director may recover the cost of any action taken or caused to be taken under paragraph (3) as a civil debt from the owner of the vessel in respect of which the action was taken.</content></subsection><sourceNote>(<ref href="/hk/1982/ln332">L.N. 332 of 1982</ref>)</sourceNote></section><section id="ID_1438403566607_004" name="s12" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s12"><num value="12">12.</num><heading>Prohibition of rickshaws, handcarts, etc.</heading><subsection id="ID_1438414061905_004" name="1" temporalId="s12_1"><num value="1">(1)</num><content>No rickshaw, trolley, handcart or other similar form of conveyance shall be brought into, or used for the conveyance of cargo or cargo containers in, a public cargo working area or public water-front.</content></subsection><subsection id="ID_1438414061905_012" name="2" temporalId="s12_2"><num value="2">(2)</num><content>Any person who contravenes paragraph (1) shall be guilty of an offence and
+                shall be liable on conviction to a fine
+                at
+                level 2 and to imprisonment for 6 months.
+                <sourceNote>(<ref href="hk/2021/er1">E.R. 1 of 2021</ref>)</sourceNote></content></subsection></section></part><part id="ID_1438403566623_001" name="P4" reason="inEffect" startPeriod="2021-03-18" status="operational" temporalId="P4"><num value="4">Part
+            IV</num><heading>Public
+            Cargo Working Areas</heading><section id="ID_1438403566623_003" name="s13" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s13"><num value="13">13.</num><heading>Entry of vehicles, etc.</heading><subsection id="ID_1438414061937_004" name="1" temporalId="s13_1"><num value="1">(1)</num><leadIn>No person shall—</leadIn><paragraph id="ID_1438414061937_012" name="a" temporalId="s13_1_a"><num value="a">(a)</num><content>bring a goods vehicle, or cause or permit a goods vehicle to be brought into a public cargo working area ; or</content></paragraph><paragraph id="ID_1438414061952_006" name="b" temporalId="s13_1_b"><num value="b">(b)</num><content>cause or permit a goods vehicle to remain in a public cargo working area,</content></paragraph><continued>without a valid vehicle entry ticket issued in respect of the vehicle.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1984/ln226">L.N. 226 of 1984</ref>; <ref href="/hk/1999/ln71">L.N. 71 of 1999</ref>)</sourceNote></continued></subsection><subsection id="ID_1438414061952_019" name="2" temporalId="s13_2"><num value="2">(2)</num><content>Subject to paragraph (2A), no person shall bring any vehicle other than a goods vehicle, or cause any vehicle other than a goods vehicle to be brought, into a public cargo working area without the permission, in writing, of the Director.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1985/ln125">L.N. 125 of 1985</ref>)</sourceNote></content></subsection><subsection id="ID_1438414061952_027" name="2A" temporalId="s13_2A"><num value="2A">(2A)</num><content>Paragraph (2) shall not apply to a mobile crane or fork lift truck.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1999/ln71">L.N. 71 of 1999</ref>)</sourceNote></content></subsection><subsection id="ID_1438414061952_035" name="3" temporalId="s13_3"><num value="3">(3)</num><content>The driver of a goods vehicle in a public cargo working area shall not use the vehicle or cause or permit the vehicle to be used in the loading or unloading of any cargo or cargo container unless a vehicle entry ticket has been issued in respect of the vehicle.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1999/ln71">L.N. 71 of 1999</ref>)</sourceNote></content></subsection><subsection id="ID_1438414061968_005" name="4" temporalId="s13_4"><num value="4">(4)</num><content>Any person who contravenes paragraph (1), (2) or (3) shall be guilty of an
+                offence and shall be liable on conviction to a fine
+                at
+                level 2 and to imprisonment for 6 months.
+                <sourceNote>(<ref href="hk/2021/er1">E.R. 1 of 2021</ref>)</sourceNote></content></subsection><sourceNote>(<ref href="/hk/1982/ln332">L.N. 332 of 1982</ref>)</sourceNote></section><section id="ID_1438403566638_001" name="s14" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s14"><num value="14">14.</num><heading>Vehicle entry tickets</heading><subsection id="ID_1438414061999_004" name="1" temporalId="s14_1"><num value="1">(1)</num><leadIn>Subject to paragraph (2), a supervisor in a public cargo working area may issue to the driver of a goods vehicle a vehicle entry ticket entitling the driver, subject to these regulations—</leadIn><paragraph id="ID_1438414061999_012" name="a" temporalId="s14_1_a"><num value="a">(a)</num><content>to use the vehicle in the loading or unloading of cargo or cargo containers; and</content></paragraph><paragraph id="ID_1438414061999_020" name="b" temporalId="s14_1_b"><num value="b">(b)</num><content>to keep the vehicle parked or waiting in parking and waiting facilities,</content></paragraph><continued>in the public cargo working area.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1999/ln71">L.N. 71 of 1999</ref>)</sourceNote></continued></subsection><subsection id="ID_1438414062015_011" name="2" temporalId="s14_2"><num value="2">(2)</num><content>A vehicle entry ticket may only be issued in respect of a goods vehicle within
+                the meaning of paragraph (a) of the definition of
+                        <b><i>goods
+                        vehicle</i></b>
+                in <ref>regulation 2</ref>.</content></subsection><subsection id="ID_1438414062015_019" name="3" temporalId="s14_3"><num value="3">(3)</num><content>A vehicle entry ticket shall be endorsed with the date and time of issue.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1999/ln71">L.N. 71 of 1999</ref>)</sourceNote></content></subsection><subsection id="ID_1438414062015_027" name="4" temporalId="s14_4"><num value="4">(4)</num><sourceNote>(Repealed <ref href="/hk/1999/ln71">L.N. 71 of 1999</ref>)</sourceNote></subsection><subsection id="ID_1438414062015_035" name="5" temporalId="s14_5"><num value="5">(5)</num><content>Where a goods vehicle is to be removed from a<inline class="width_3"> </inline>public cargo working area, any vehicle entry ticket issued in respect of the vehicle shall be presented at such place as shall be provided at the public cargo working area, where the ticket shall be marked with the time of presentation and the prescribed fee incurred between that time and the time of issue and, on demand, such fee shall be paid by the person presenting the ticket.</content></subsection><subsection id="ID_1438414062030_005" name="6" temporalId="s14_6"><num value="6">(6)</num><content>Where a ticket has been presented under paragraph (5) and the prescribed fee paid, the goods vehicle shall be removed from the public cargo working area as soon as is practicable thereafter and in any case within 15 minutes of the latest time marked on the ticket and the driver of the vehicle shall surrender the ticket at the exit gate.</content></subsection><subsection id="ID_1438414062030_013" name="7" temporalId="s14_7"><num value="7">(7)</num><content>If the goods vehicle is not removed from the public cargo working area within the time specified in paragraph (6) the appropriate prescribed fee shall be paid in respect of the further period (after the time of presentation marked on the ticket under paragraph (5)) during which the vehicle remains in the public cargo working area.</content></subsection><subsection id="ID_1438414062046_005" name="8" temporalId="s14_8"><num value="8">(8)</num><content>No goods vehicle in respect of which a vehicle entry ticket has been issued shall be removed from a public cargo working area before the ticket has been presented and all prescribed fees incurred in respect of the vehicle under this regulation have been paid.</content></subsection><subsection id="ID_1438414062046_013" name="9" temporalId="s14_9"><num value="9">(9)</num><content>Where paragraph (8) is contravened the driver of the vehicle at the time of the
+                contravention shall be guilty of an offence and shall be liable on conviction to a
+                fine
+                at
+                level 2.
+                <sourceNote>(<ref href="hk/2021/er1">E.R. 1 of 2021</ref>)</sourceNote></content></subsection><subsection id="ID_1438414062061_005" name="10" temporalId="s14_10"><num value="10">(10)</num><content>Any vehicle entry ticket issued in respect of a goods vehicle shall be displayed on the lower left-hand side of the vehicle’s windscreen in such a manner that it is clearly visible from the front of the vehicle.</content></subsection><subsection id="ID_1438414062061_013" name="11" temporalId="s14_11"><num value="11">(11)</num><content>Where paragraph (10) is contravened the driver of the vehicle in respect of
+                which the contravention occurs shall be guilty of an offence and shall be liable on
+                conviction to a fine
+                at
+                level 1.
+                <sourceNote>(<ref href="hk/2021/er1">E.R. 1 of 2021</ref>)</sourceNote></content></subsection><sourceNote>(<ref href="/hk/1984/ln226">L.N. 226 of 1984</ref>; <ref href="/hk/1999/ln71">L.N. 71 of 1999</ref>)</sourceNote></section><section id="ID_1438403566638_003" name="s15" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s15"><num value="15">15.</num><heading>Compliance with parking and other signs</heading><subsection id="ID_1438414062108_004" name="1" temporalId="s15_1"><num value="1">(1)</num><leadIn>The driver of a vehicle in a public cargo working area shall—</leadIn><paragraph id="ID_1438414062108_012" name="a" temporalId="s15_1_a"><num value="a">(a)</num><content>not park the vehicle or cause or permit the vehicle to wait except in such place in the public cargo working area as a supervisor may direct;</content></paragraph><paragraph id="ID_1438414062124_006" name="b" temporalId="s15_1_b"><num value="b">(b)</num><content>comply with all signs and signals exhibited in the public cargo working area for the regulation of vehicles therein.</content></paragraph></subsection><subsection id="ID_1438414062124_013" name="2" temporalId="s15_2"><num value="2">(2)</num><content>The driver of a vehicle shall not park the vehicle or cause or permit the vehicle to wait in a public cargo working area in such manner that the vehicle unnecessarily projects over any line or other mark which divides the space in which the vehicle is parked or kept waiting from any other place.</content></subsection><subsection id="ID_1438414062124_021" name="3" temporalId="s15_3"><num value="3">(3)</num><content>The driver of a vehicle who contravenes paragraph (1) or (2) shall be guilty of
+                an offence and shall be liable on conviction to a fine
+                at
+                level 1.
+                <sourceNote>(<ref href="hk/2021/er1">E.R. 1 of 2021</ref>)</sourceNote></content></subsection></section><section id="ID_1438403566654_001" name="s16" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s16"><num value="16">16.</num><heading>Power to remove persons</heading><subsection id="ID_1438414062155_004" name="1" temporalId="s16_1"><num value="1">(1)</num><content>A supervisor may require any person who is found loitering in a public cargo working area and who cannot give a satisfactory account of himself to leave the public cargo working area.</content></subsection><subsection id="ID_1438414062155_012" name="2" temporalId="s16_2"><num value="2">(2)</num><content>A supervisor may prohibit any person who does not have a satisfactory reason for being in a public cargo working area from entering the public cargo working area, either by land or sea.</content></subsection><subsection id="ID_1438414062171_005" name="3" temporalId="s16_3"><num value="3">(3)</num><leadIn>Any person who—</leadIn><paragraph id="ID_1438414062171_013" name="a" temporalId="s16_3_a"><num value="a">(a)</num><content>fails to leave a public cargo working area when required to do so under paragraph (1); or</content></paragraph><paragraph id="ID_1438414062171_021" name="b" temporalId="s16_3_b"><num value="b">(b)</num><content>enters a public cargo working area when prohibited from doing so under paragraph (2),</content></paragraph><continued>shall be guilty of an offence and shall be liable on conviction to a fine
+                at
+                level 1 and to imprisonment for 3 months.
+                <sourceNote>(<ref href="hk/2021/er1">E.R. 1 of 2021</ref>)</sourceNote></continued></subsection></section></part><part id="ID_1438403566654_003" name="P5" reason="inEffect" startPeriod="2021-03-18" status="operational" temporalId="P5"><num value="5">Part
+            V</num><heading>Miscellaneous
+            Provisions</heading><section id="ID_1438403566654_005" name="s17" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s17"><num value="17">17.</num><heading>Supply of particulars of cargo</heading><subsection id="ID_1438414062217_004" name="1" temporalId="s17_1"><num value="1">(1)</num><leadIn>The Director may require the owner or person in charge of any cargo loaded or unloaded in a public cargo working area or public water-front to supply to him any or all of the following particulars in respect of such cargo—</leadIn><paragraph id="ID_1438414062217_012" name="a" temporalId="s17_1_a"><num value="a">(a)</num><content>its nature;</content></paragraph><paragraph id="ID_1438414062217_020" name="b" temporalId="s17_1_b"><num value="b">(b)</num><content>its quantity or weight;</content></paragraph><paragraph id="ID_1438414062217_028" name="c" temporalId="s17_1_c"><num value="c">(c)</num><content>its origin;</content></paragraph><paragraph id="ID_1438414062217_036" name="d" temporalId="s17_1_d"><num value="d">(d)</num><content>its destination;</content></paragraph><paragraph id="ID_1438414062217_044" name="e" temporalId="s17_1_e"><num value="e">(e)</num><content>such other particulars as the Director may specify.</content></paragraph></subsection><subsection id="ID_1438414062217_051" name="2" temporalId="s17_2"><num value="2">(2)</num><content>Any person who contravenes a requirement under paragraph (1) shall be guilty of
+                an offence and shall be liable on conviction to a fine
+                at
+                level 1 and to imprisonment for 3 months.
+                <sourceNote>(<ref href="hk/2021/er1">E.R. 1 of 2021</ref>)</sourceNote></content></subsection></section><section id="ID_1438403566670_002" name="s18" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s18"><num value="18">18.</num><heading>Production of permits or tickets</heading><subsection id="ID_1438414062249_004" name="1" temporalId="s18_1"><num value="1">(1)</num><leadIn>A supervisor may require—</leadIn><paragraph id="ID_1438414062249_012" name="a" temporalId="s18_1_a"><num value="a">(a)</num><content>the person in charge of a mobile office or mobile shelter, or a vessel; or</content></paragraph><paragraph id="ID_1438414062249_020" name="b" temporalId="s18_1_b"><num value="b">(b)</num><content>the driver or operator of a vehicle,</content></paragraph><continued>in a public cargo working area or public water-front to produce to him any written permission, permit or ticket issued under these regulations in respect of the mobile office or mobile shelter, or vessel or vehicle, as the case may be.</continued></subsection><subsection id="ID_1438414062264_004" name="2" temporalId="s18_2"><num value="2">(2)</num><content>The person in charge of a mobile office or mobile shelter, or a vessel, or the
+                driver or operator of a vehicle, who contravenes a requirement under paragraph (1)
+                shall be guilty of an offence and shall be liable on conviction to a fine
+                at
+                level 1.
+                <sourceNote>(<ref href="hk/2021/er1">E.R. 1 of 2021</ref>)</sourceNote></content></subsection><sourceNote>(<ref href="/hk/1985/ln125">L.N. 125 of 1985</ref>)</sourceNote></section><section id="ID_1438403566670_004" name="s19" reason="repealed" role="regulation" startPeriod="1997-06-30" status="repealed" temporalId="s19"><num value="19">19.</num><sourceNote>(Repealed <ref href="/hk/1982/ln332">L.N. 332 of 1982</ref>)</sourceNote></section><section id="ID_1438403566685_002" name="s20" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s20"><num value="20">20.</num><heading>Obstruction</heading><content>Any person who obstructs the Director or a supervisor in the exercise of any power
+            or the performance of any duty under these regulations shall be guilty of an offence and
+            shall be liable on conviction to a fine
+            at
+            level 2 and to imprisonment for 6 months.</content><sourceNote>(<ref href="hk/2021/er1">E.R. 1 of 2021</ref>)</sourceNote></section><section id="ID_1438403566685_004" name="s21" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s21"><num value="21">21.</num><heading>Form, conditions and cancellation of permits, etc.</heading><subsection id="ID_1438414062342_004" name="1" temporalId="s21_1"><num value="1">(1)</num><leadIn>A permit or ticket issued under these regulations shall be—</leadIn><paragraph id="ID_1438414062342_012" name="a" temporalId="s21_1_a"><num value="a">(a)</num><content>in such form as the Director may think fit; and</content></paragraph><paragraph id="ID_1438414062342_020" name="b" temporalId="s21_1_b"><num value="b">(b)</num><content>subject to the conditions (if any) endorsed thereon.</content></paragraph></subsection><subsection id="ID_1438414062342_027" name="2" temporalId="s21_2"><num value="2">(2)</num><leadIn>Any person who contravenes a condition of a permit or ticket issued under these regulations, or causes or permits a condition of any such permit or ticket to be contravened, shall be guilty of an offence and shall be liable on conviction—</leadIn><paragraph id="ID_1438414062342_035" name="a" temporalId="s21_2_a"><num value="a">(a)</num><content>where the contravention relates to a permit, to a fine
+                    at
+                    level 2; or</content></paragraph><paragraph id="ID_1438414062342_043" name="b" temporalId="s21_2_b"><num value="b">(b)</num><content>where the contravention relates to a ticket, to a fine
+                    at
+                    level 1.
+                    <sourceNote>(<ref href="hk/2021/er1">E.R. 1 of 2021</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438414062342_050" name="3" temporalId="s21_3"><num value="3">(3)</num><leadIn>Without prejudice to paragraph (2), the Director may at any time, where in his opinion—</leadIn><paragraph id="ID_1438414062358_005" name="a" temporalId="s21_3_a"><num value="a">(a)</num><content>any condition of a permit issued under these regulations in respect of a mobile office or mobile shelter, or a vehicle or vessel, is contravened; or</content></paragraph><paragraph id="ID_1438414062358_013" name="b" temporalId="s21_3_b"><num value="b">(b)</num><content>a mobile office or mobile shelter, or a vehicle or vessel is involved in a contravention of any provision of these regulations,</content></paragraph><continued>by notice in writing to the owner or person in charge of the mobile office or mobile shelter, or the vessel, or the owner, driver or operator of the vehicle, cancel the permit.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1985/ln125">L.N. 125 of 1985</ref>)</sourceNote></continued></subsection><subsection id="ID_1438414062358_026" name="4" temporalId="s21_4"><num value="4">(4)</num><content>Without prejudice to paragraph (2), the Director may at any time, where in his opinion a condition of an operation area permit is contravened, by notice in writing to the person to whom the permit is issued, cancel the permit.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1999/ln71">L.N. 71 of 1999</ref>)</sourceNote> </content></subsection><sourceNote>(<ref href="/hk/1982/ln332">L.N. 332 of 1982</ref>)</sourceNote></section><section id="ID_1438403566701_002" name="s21A" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s21A"><num value="21A">21A.</num><heading>Right of appeal</heading><content>Any person aggrieved by a decision made in respect of him by the Director or the supervisor under <ref>regulation 4A(4)</ref>, <ref>5B</ref>, <ref>6AA</ref>, <ref>7</ref>, <ref>7A</ref>, <ref>7B</ref>, <ref>7C</ref>, <ref>7D</ref>, <ref>7E</ref>, <ref>13</ref> or <ref>21</ref> may appeal to the Administrative Appeals Board.</content><sourceNote>(<ref href="/hk/1999/ln279">L.N. 279 of 1999</ref>)</sourceNote></section><section id="ID_1438403566701_004" name="s22" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s22"><num value="22">22.</num><heading>Fees and charges</heading><subsection id="ID_1438414062420_018" name="1" temporalId="s22_1"><num value="1">(1)</num><content>The fees and charges prescribed in the <ref>Schedule</ref> shall be payable in respect of the matters specified therein.</content></subsection><subsection id="ID_1438414062420_026" name="2" temporalId="s22_2"><num value="2">(2)</num><content>Unless otherwise permitted by the Director, the fee payable in respect of a berthing permit and the surcharge payable under <ref>regulation 5C(5)</ref> shall be paid daily in advance.</content></subsection><subsection id="ID_1438414062436_005" name="3" temporalId="s22_3"><num value="3">(3)</num><leadIn>The Director may waive the payment of any fee or charge payable under these regulations, or remit, in whole or in part, any fee or charge so paid, except that—</leadIn><paragraph id="ID_1438414062436_013" name="a" temporalId="s22_3_a"><num value="a">(a)</num><content>no fee in respect of a berthing permit shall be remitted;</content></paragraph><paragraph id="ID_1438414062436_021" name="b" temporalId="s22_3_b"><num value="b">(b)</num><content>no surcharge paid under <ref>regulation 5C(5)</ref> shall be remitted unless any day or part thereof falling within the appropriate period free of surcharge under <ref>regulation 5C(6)</ref> is declared by the Director to be a non-working day due to weather conditions; and<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1984/ln226">L.N. 226 of 1984</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438414062436_029" name="c" temporalId="s22_3_c"><num value="c">(c)</num><content>no fee paid in respect of an operation area permit, a mobile crane permit, a fork lift truck permit, a mobile office permit or a mobile shelter permit shall be remitted where the permit is cancelled under <ref>regulation 21</ref>.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1985/ln125">L.N. 125 of 1985</ref>; <ref href="/hk/1999/ln71">L.N. 71 of 1999</ref>)</sourceNote></content></paragraph></subsection><sourceNote>(<ref href="/hk/1982/ln332">L.N. 332 of 1982</ref>)</sourceNote></section><section id="ID_1569982898442_001" name="s23" temporalId="s23" startPeriod="2024-03-14" status="omitted" reason="omittedAsExpired"><num value="23">23.</num><sourceNote>(Omitted as expired—<ref href="hk/2024/er2">E.R. 2 of 2024</ref>)</sourceNote></section></part><schedule id="ID_1438403566716_001" name="sch0" reason="inEffect" startPeriod="2023-10-01" status="operational" temporalId="sch0"><num value="0">Schedule</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap81A/s5C">regs. 5C</ref>, <ref href="/hk/cap81A/s7D">7D</ref>
+            &amp; <ref href="/hk/cap81A/s22">22</ref>]</note><sourceNote>(<ref href="hk/2019/ln100">L.N. 100 of
+            2019</ref>)</sourceNote><heading>Fees
+            and
+            Charges</heading><leadIn class="left_indent_0"><marker role="blank-line"></marker><marker role="blank-line"></marker>In this
+                <ref>Schedule</ref>—</leadIn><paragraph id="ID_1612426519338_001" name="0" temporalId="sch0_0"><paragraph id="ID_1438414062483_030" name="a" temporalId="sch0_0_a"><num value="a">(a)</num><content>a reference to a period of time includes a part of the period;</content></paragraph><paragraph id="ID_1438414062483_039" name="b" temporalId="sch0_0_b"><num value="b">(b)</num><content>a reference to a dimension or an amount includes a part of the dimension or
+                    amount;</content></paragraph><paragraph id="ID_1438414062483_048" name="c" temporalId="sch0_0_c"><num value="c">(c)</num><content>a reference to a measurement of a vessel means the measurement as shown in
+                    its licence book or Certificate of Registry; and</content></paragraph><paragraph id="ID_1451466686941_002" name="d" temporalId="sch0_0_d"><num value="d">(d)</num><content><term>month</term> (<term xml:lang="zh-Hant-HK">月</term>) means a calendar
+                    month.</content></paragraph></paragraph><text>
+            <table xmlns="http://www.w3.org/1999/xhtml" class="left_indent_0" width="447">
+                <col width="8%"></col>
+                <col width="5%"></col>
+                <col width="5%"></col>
+                <col width="58%"></col>
+                <col width="10%"></col>
+                <tr>
+                    <td> </td>
+                    <td></td>
+                    <td></td>
+                    <td> </td>
+                    <td class="cellpadding_left_25">$</td>
+                </tr>
+                <tr>
+                    <td class="first_line_indent_4">1.</td>
+                    <td colspan="3">Berthing Permit—</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td> </td>
+                    <td>(a)</td>
+                    <td colspan="2"> Daily Fees—</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    
+                    <td align="right" class="cellpadding_right_4">(i) </td>
+                    
+                    <td class="align_justified leaders_.">for each 8 m in length of a vessel to be
+                        berthed alongside the seawall </td>
+                    <td class="valign_bottom align_right">60</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    
+                    <td align="right" class="cellpadding_right_4">(ii) </td>
+                    
+                    <td class="align_justified leaders_.">for each 8 m in breadth of a vessel to be
+                        berthed end on to the seawall </td>
+                    <td class="valign_bottom align_right">60</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td>(b)</td>
+                    <td colspan="2">Daily Surcharge—</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    
+                    <td align="right" class="cellpadding_right_4">(i) </td>
+                    
+                    <td class="align_justified leaders_.">for each 8 m in length of a vessel to be
+                        berthed alongside the seawall for the 1st and 2nd surcharged days per day </td>
+                    <td class="valign_bottom align_right">365</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    
+                    <td class="align_justified leaders_.">and for the 3rd and subsequent surcharged
+                        days per day </td>
+                    <td class="align_right valign_bottom">730</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    
+                    <td align="right" class="cellpadding_right_4">(ii)</td>
+                    
+                    <td class="align_justified leaders_."> for each 8 m in breadth of a vessel to be
+                        berthed end on to the seawall for the 1st and 2nd surcharged days per day </td>
+                    <td class="valign_bottom align_right">365</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    
+                    <td class="align_justified leaders_."> and for the 3rd and subsequent surcharged
+                        days per day </td>
+                    <td class="align_right valign_bottom">730</td>
+                </tr>
+                <tr>
+                    <td class="first_line_indent_4"></td>
+                    <td colspan="4">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="first_line_indent_4">2.</td>
+                    <td colspan="4"><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="/hk/1999/ln71">L.N. 71 of
+                        1999</ref>)</sourceNote></td>
+                </tr>
+                <tr>
+                    <td class="first_line_indent_4"></td>
+                    <td colspan="4">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="first_line_indent_4">3.</td>
+                    <td colspan="3">Cargo Depositing Permit—</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td>(a)</td>
+                    
+                    <td colspan="2" class="align_justified leaders_."> for China trade cargo per
+                        tonne </td>
+                    <td class="align_right valign_bottom">3.5</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td>(b) </td>
+                    
+                    <td colspan="2" class="align_justified leaders_.">for other cargo or cargo
+                        container per m<sup>2</sup> of land occupied </td>
+                    <td class="align_right valign_bottom">90</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td colspan="2">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td class="align_right valign_bottom"></td>
+                </tr>
+                <tr>
+                    <td class="first_line_indent_4">4.</td>
+                    <td colspan="3">Mobile Crane Permit</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td colspan="3" class="leaders_.">per month </td>
+                    <td class="align_right valign_bottom">9,680</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td colspan="3">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td class="align_right valign_bottom"></td>
+                </tr>
+                <tr>
+                    <td class="first_line_indent_4">5.</td>
+                    <td colspan="3">Fork Lift Truck Permit—</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td colspan="3">the lesser of—</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td>(a)</td>
+                    <td colspan="2" class="leaders_."> per month </td>
+                    <td class="align_right">7,870</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td>(b)</td>
+                    <td colspan="2" class="leaders_.">per day </td>
+                    <td class="align_right">400</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td colspan="2">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td class="align_right"></td>
+                </tr>
+                <tr>
+                    <td class="first_line_indent_4">6.</td>
+                    <td colspan="3">Mobile Office Permit— </td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td>(a)</td>
+                    <td colspan="2" class="leaders_.">standard wooden per month </td>
+                    <td class="align_right valign_bottom">2,000</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td>(b)</td>
+                    <td colspan="2" class="leaders_."> standard 20 ft. container per month</td>
+                    <td class="align_right valign_bottom">4,540</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td colspan="2">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td class="align_right valign_bottom"></td>
+                </tr>
+                <tr>
+                    <td class="first_line_indent_4">7. </td>
+                    <td colspan="3">Mobile Shelter Permit</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td colspan="3" class="leaders_.">per month </td>
+                    <td class="align_right valign_bottom">570</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td colspan="3">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td class="align_right valign_bottom"></td>
+                </tr>
+                <tr>
+                    <td class="first_line_indent_4">8-9.</td>
+                    <td colspan="4"><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="/hk/1999/ln71">L.N. 71 of
+                        1999</ref>)</sourceNote></td>
+                </tr>
+                <tr>
+                    <td class="first_line_indent_4"></td>
+                    <td colspan="4">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                </tr>
+                <tr>
+                    <td>10.</td>
+                    
+                    <td colspan="3" class="align_justified leaders_.">For the release of any cargo
+                        or cargo container seized under <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">section 5</ref> of the
+                        Ordinance per m<sup>2</sup> of land occupied per day
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"></marker></td>
+                    <td class="valign_bottom align_right">280</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td colspan="3">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td class="valign_bottom align_right"></td>
+                </tr>
+                <tr>
+                    <td>11.</td>
+                    
+                    <td colspan="3" class="align_justified leaders_.">For the issue of any
+                        permission in writing under <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">regulation 6AA</ref>
+                    </td>
+                    <td class="align_right valign_bottom">305</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td colspan="3">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td class="align_right valign_bottom"></td>
+                </tr>
+                <tr>
+                    <td>12.</td>
+                    
+                    <td colspan="3" class="align_justified leaders_.">For the issue of a duplicate
+                        or replacement ticket, permit or other written permission </td>
+                    <td class="valign_bottom align_right">150</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td colspan="3">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td class="valign_bottom align_right"></td>
+                </tr>
+                <tr>
+                    <td>13.</td>
+                    
+                    <td colspan="3" class="align_justified leaders_.">For the issue of a permission
+                        for loading or unloading cargo or cargo containers after operation hours </td>
+                    <td class="valign_bottom align_right">245</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td colspan="3">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td class="valign_bottom align_right"></td>
+                </tr>
+                <tr>
+                    <td>14.</td>
+                    
+                    <td colspan="3" class="align_justified leaders_.">Vanning and Devanning Permit
+                        per cargo container per operation per day </td>
+                    <td class="align_right valign_bottom">365</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td colspan="3">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td class="align_right valign_bottom"></td>
+                </tr>
+                <tr>
+                    <td>15.</td>
+                    <td colspan="3">Vehicle entry ticket—</td>
+                    <td> </td>
+                </tr>
+                <tr>
+                    <td> </td>
+                    <td>(a)</td>
+                    
+                    <td colspan="2" class="align_justified leaders_.">subject to paragraphs (b) and
+                        (c), the fee payable under <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">regulation 14(5)</ref> or
+                        (7) for a period </td>
+                    <td class="align_right valign_bottom"><br></br>33
+                        per hour</td>
+                </tr>
+                <tr>
+                    <td> </td>
+                    <td>(b) </td>
+                    
+                    <td colspan="2" class="align_justified leaders_.">the fee payable under <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">regulation 14(5)</ref>
+                        for a period that does not exceed 30 minutes </td>
+                    <td class="align_right valign_bottom">25</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td>(c)</td>
+                    
+                    <td colspan="2" class="align_justified leaders_.">the maximum fee payable for a
+                        period to the extent the period is after 6 p.m. and before 8 a.m. the next
+                        day <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="hk/2016/ln180">L.N. 180 of 2016</ref>)</sourceNote>
+                    </td>
+                    <td class="align_right valign_bottom">85</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td colspan="2">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td class="align_right valign_bottom"></td>
+                </tr>
+                <tr>
+                    <td>16.</td>
+                    <td colspan="3">Operation Area Permit</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    
+                    <td colspan="3" class="align_justified leaders_.">per m<sup>2</sup> of area per
+                        month <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="/hk/1999/ln71">L.N. 71 of 1999</ref>)</sourceNote>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"></marker></td>
+                    <td class="align_right valign_bottom">11</td>
+                </tr>
+            </table>
+        </text><sourceNote>(<ref href="/hk/1992/ln252">L.N. 252 of 1992</ref>; <ref href="/hk/1993/ln338">L.N. 338 of
+                1993</ref>; <ref href="/hk/1993/ln419">L.N. 419 of 1993</ref>; <ref href="/hk/1994/ln513">L.N. 513 of 1994</ref>; <ref href="/hk/1995/ln321">L.N. 321 of
+                1995</ref>; <ref href="/hk/1995/ln480">L.N. 480 of 1995</ref>; <ref href="/hk/1999/ln71">L.N. 71 of 1999</ref>; <ref href="/hk/1999/ln279">L.N. 279 of
+                1999</ref>; <ref href="/hk/2014/ln148">L.N. 148 of
+        2014</ref>)</sourceNote></schedule></main></subLeg>

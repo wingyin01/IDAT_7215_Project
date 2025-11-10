@@ -1,0 +1,1271 @@
+<?xml version="1.0" encoding="UTF-8"?><ordinance xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd" xml:lang="en"><meta><docName>Cap. 176</docName><docType>cap</docType><docNumber>176</docNumber><docStatus>In effect</docStatus><dc:identifier>/hk/cap176!en</dc:identifier><dc:date>2022-07-14</dc:date><dc:subject>legislation</dc:subject><dc:language>en</dc:language><dc:publisher>DoJ</dc:publisher><dc:rights>the Government of the Hong Kong Special Administrative Region</dc:rights></meta><main xml:lang="en" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd"><longTitle id="ID_1438402800025_002" name="longTitle" reason="inEffect" status="operational" temporalId="longTitle" startPeriod="2022-07-14">
+            <content>To authorize the Registrar of Births and Deaths to keep special registers of
+                deaths for the purpose of registering deaths previously registered in specified lost
+                registers. <marker role="blank-line"></marker><marker role="blank-line"></marker></content>
+        </longTitle><commencementNote>[31 December 1947]</commencementNote><sourceNote>(Format changes—<ref href="/hk/2022/er3">E.R. 3 of 2022</ref>)</sourceNote><part id="ID_1438402800041_002" name="P1" reason="inEffect" startPeriod="2022-07-14" status="operational" temporalId="P1"><num value="1">Part
+            I</num><heading>Preliminary</heading><section id="ID_1438402800041_004" name="s1" reason="inEffect" startPeriod="2022-07-14" status="operational" temporalId="s1"><num value="1">1.</num><heading>Short title</heading><content>This Ordinance may be cited as the <shortTitle>Deaths Registration (Special Registers) Ordinance</shortTitle>.</content></section><section id="ID_1438402800056_002" name="s2" reason="inEffect" startPeriod="2022-07-14" status="operational" temporalId="s2"><num value="2">2.</num><heading>Interpretation</heading><leadIn>In this Ordinance, unless the context otherwise requires—  <sourceNote>(Amended <ref href="/hk/2006/8">8 of 2006 s. 31</ref>)</sourceNote></leadIn><def name="DeathCertificate1896"><term>death
+                certificate
+            (1896)</term>
+                (<term xml:lang="zh-Hant-HK">死亡證明書(1896年)</term>)
+            means a certified and sealed copy of an entry of a death, given pursuant to <ref>section
+                16</ref> of the Births and Deaths Registration Ordinance 1896 (<ref href="/hk/1896/16">16 of 1896</ref>);</def><def name="DeathCertificate1934"><term>death
+                certificate
+            (1934)</term>
+                (<term xml:lang="zh-Hant-HK">死亡證明書(1934年)</term>)
+            means a certified and sealed copy of an entry of a death, given pursuant to <ref>section
+                24</ref> of the principal Ordinance;</def><def name="DigitalImage"><term>digital
+                image</term>
+                (<term xml:lang="zh-Hant-HK">數碼影像</term>), in relation to a document, means an image
+            of the document kept on a computer system or on an electronic medium;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/2006/8">8 of 2006 s.
+                    31</ref>)</sourceNote></def><def name="GeneralRegisterOffice"><term>general
+                register
+            office</term>
+                (<term xml:lang="zh-Hant-HK">登記總處</term>) means the general register office
+            appointed under <ref>section 3(1)(c)</ref> of the Births and Deaths Registration
+            Ordinance (<ref href="/hk/cap174">Cap. 174</ref>);<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/1979/38">38 of 1979 s.
+                2</ref>)</sourceNote></def><def name="LostRegister1896"><term class="old_fo">lost register
+            (1896)</term>
+                (<term xml:lang="zh-Hant-HK">遺失登記冊(1896年)</term>)
+            means any register book of deaths formerly kept in accordance with the provisions of the
+            Births and Deaths Registration Ordinance 1896 (<ref href="/hk/1896/16">16 of 1896</ref>)
+            and which, under <ref>section 3</ref> of this Ordinance is deemed to have been
+            lost;</def><def name="LostRegister1934"><term>lost
+                register
+            (1934)</term>
+                (<term xml:lang="zh-Hant-HK">遺失登記冊(1934年)</term>)
+            means any register book of deaths formerly kept in accordance with the provisions of the
+            principal Ordinance and which, under <ref>section 3</ref> of this Ordinance, is deemed
+            to have been lost;</def><def name="No1Register1896"><term>No.
+                1 register
+            (1896)</term>
+                (<term xml:lang="zh-Hant-HK">第1號登記冊(1896年)</term>)
+            means a special register of deaths kept under the provisions of this Ordinance for the
+            purpose of registering death certificates (1896);</def><def name="No2Register1896"><term>No.
+                2 register
+            (1896)</term>
+                (<term xml:lang="zh-Hant-HK">第2號登記冊(1896年)</term>)
+            means a special register of deaths kept under the provisions of this Ordinance for the
+            purpose of registering evidence other than a death certificate (1896) of previous
+            registration in the lost register (1896);</def><def name="No1Register1934"><term>No.
+                1 register
+            (1934)</term>
+                (<term xml:lang="zh-Hant-HK">第1號登記冊(1934年)</term>)
+            means a special register of deaths kept under the provisions of this Ordinance for the
+            purpose of registering death certificates (1934);</def><def name="No2Register1934"><term>No.
+                2 register
+            (1934)</term>
+                (<term xml:lang="zh-Hant-HK">第2號登記冊(1934年)</term>)
+            means a special register of deaths kept under the provisions of this Ordinance for the
+            purpose of registering evidence other than a death certificate (1934) of previous
+            registration in the lost register (1934);</def><def name="PrincipalOrdinance"><term>principal
+                Ordinance</term>
+                (<term xml:lang="zh-Hant-HK">主體條例</term>) means the Births and Deaths Registration
+            Ordinance (<ref href="/hk/cap174">Cap. 174</ref>);</def><def name="RegisterComputer"><term>register
+                computer</term>
+                (<term xml:lang="zh-Hant-HK">登記電腦</term>) means a computer forming the system of
+            storing the particulars under <ref>sections 4</ref> and <ref>6A</ref>;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/2006/8">8 of 2006 s.
+                    31</ref>)</sourceNote></def><def name="Registrar"><term>Registrar</term>
+                (<term xml:lang="zh-Hant-HK">登記官</term>) means the Registrar of Births and Deaths,
+            and includes any deputy registrar of births and deaths;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1949/26">26 of 1949 s. 2</ref>; <ref href="/hk/2006/8">8 of 2006 s. 31</ref>)</sourceNote></def><def name="SignedRegisterForm"><term>signed
+                register
+            form</term>
+                (<term xml:lang="zh-Hant-HK">經簽署登記表格</term>) means a register form completed and
+            signed under <ref>section 6A</ref>;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/2006/8">8 of 2006 s. 31</ref>)</sourceNote></def><def name="SpecialRegisterBooksOfDeaths"><term>special
+                register books of
+            deaths</term>
+                (<term xml:lang="zh-Hant-HK">特設死亡登記簿</term>) means the special register books of
+            deaths kept by the Registrar immediately before the
+            commencement*
+            of the Births, Deaths and Marriages (Digital Image) Ordinance (<ref href="/hk/2006/8">8
+                of 2006</ref>);<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/2006/8">8 of 2006 s. 31</ref>)</sourceNote></def><def name="SpecialRegisterOfDeaths"><term>Special
+                register of
+            deaths</term>
+                (<term xml:lang="zh-Hant-HK">特設死亡登記冊</term>) means the No. 1 register (1896), or the
+            No. 2 register (1896), or the No. 1 register (1934), or the No. 2 register (1934), as
+            the context requires.</def><editorialNote type="footnote" id="ID_1655952426244_001">
+            <content>Editorial Note:</content>
+            <content><inline class="force_orig_font">*</inline> Commencement date: 27 August 2007.</content>
+        </editorialNote></section></part><part id="ID_1438402800072_002" name="P2" reason="inEffect" startPeriod="2022-07-14" status="operational" temporalId="P2"><num value="2">Part
+            II</num><heading>General</heading><section id="ID_1438402800072_004" name="s3" reason="inEffect" startPeriod="2022-07-14" status="operational" temporalId="s3"><num value="3">3.</num><heading>Death registers deemed lost</heading><content>All the register books of deaths specified in Part I and Part II of the <ref>First Schedule</ref> are hereby deemed to have been permanently lost as from 25 December 1941.</content></section><section id="ID_1438402800088_002" name="s4" reason="inEffect" startPeriod="2022-07-14" status="operational" temporalId="s4"><num value="4">4.</num><heading>Maintenance of registers and storage of information</heading><subsection id="ID_1438411472732_018" name="1" temporalId="s4_1"><num value="1">(1)</num><leadIn>The Registrar shall maintain the following registers—</leadIn><paragraph id="ID_1438411472732_026" name="a" temporalId="s4_1_a"><num value="a">(a)</num><content>No. 1 register (1896) in Form 1 in the <ref>Second Schedule</ref>;</content></paragraph><paragraph id="ID_1438411472732_034" name="b" temporalId="s4_1_b"><num value="b">(b)</num><content>No. 2 register (1896) in Form 2 in the <ref>Second Schedule</ref>;</content></paragraph><paragraph id="ID_1438411472732_042" name="c" temporalId="s4_1_c"><num value="c">(c)</num><content>No. 1 register (1934) in Form 1 in the <ref>Third Schedule</ref>; and</content></paragraph><paragraph id="ID_1438411472732_050" name="d" temporalId="s4_1_d"><num value="d">(d)</num><content>No. 2 register (1934) in Form 2 in the <ref>Third Schedule</ref>.</content></paragraph></subsection><subsection id="ID_1438411472748_005" name="2" temporalId="s4_2"><num value="2">(2)</num><content>The registers shall be kept in the form of
+                a
+                digital image in the general register office.
+                <sourceNote>(Amended <ref href="/hk/2022/er3">E.R. 3 of
+                2022</ref>)</sourceNote></content></subsection><subsection id="ID_1438411472748_013" name="3" temporalId="s4_3"><num value="3">(3)</num><content>On the
+                commencement*
+                of the Births, Deaths and Marriages (Digital Image) Ordinance (<ref href="/hk/2006/8">8 of 2006</ref>), the special register books of deaths shall
+                form part of the registers maintained by the Registrar under this section and be
+                recorded in the form of
+                a
+                digital image by the Registrar.
+                <sourceNote>(Amended <ref href="/hk/2022/er3">E.R. 3 of
+                2022</ref>)</sourceNote></content></subsection><subsection id="ID_1438411472748_021" name="4" temporalId="s4_4"><num value="4">(4)</num><content>The Registrar shall cause the particulars of the entries contained in the special register books of deaths to be stored in the manner described in <ref>section 6A(3)(b)</ref>.</content></subsection><sourceNote>(Replaced <ref href="/hk/2006/8">8 of 2006 s. 32</ref>)</sourceNote><editorialNote type="footnote" id="ID_1654046875463_001">
+            <content>Editorial Note:</content>
+            <content><inline class="force_orig_font">*</inline> Commencement date: 27 August 2007.</content>
+        </editorialNote></section><section id="ID_1438402800103_002" name="s4A" reason="inEffect" startPeriod="2022-07-14" status="operational" temporalId="s4A"><num value="4A">4A.</num><heading>Disposal of special register books of deaths</heading><leadIn>Where—</leadIn><paragraph id="ID_1438411472779_077" name="a" temporalId="s4A_a"><num value="a">(a)</num><content>the special register books of deaths or any part of them has been recorded in
+                the form of a
+                digital image; and
+                <sourceNote>(Amended <ref href="/hk/2022/er3">E.R. 3 of
+                2022</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411472795_006" name="b" temporalId="s4A_b"><num value="b">(b)</num><content>the particulars of the entries contained in such register books or such part of them have been stored in the manner described in <ref>section 6A(3)(b)</ref>,</content></paragraph><continued>the Registrar may destroy or otherwise dispose of such register books or such part of them (as the case may be) in such manner as he thinks fit.</continued><sourceNote>(Added <ref href="/hk/2006/8">8 of 2006 s. 33</ref>)</sourceNote></section><section id="ID_1438402800119_002" name="s5" reason="inEffect" startPeriod="2022-07-14" status="operational" temporalId="s5"><num value="5">5.</num><heading>Requirement of registration in No. 1 registers</heading><subsection id="ID_1438411472810_004" name="1" temporalId="s5_1"><num value="1">(1)</num><content>Any person in possession of a death certificate (1896) may require the Registrar to register the death to which such certificate relates in the No. 1 register (1896) and such death shall be registered accordingly without payment of any fee. </content></subsection><subsection id="ID_1438411472810_012" name="2" temporalId="s5_2"><num value="2">(2)</num><content>Any person in possession of a death certificate (1934) may require the Registrar to register the death to which such certificate relates in the No. 1 register (1934) and such death shall be registered accordingly without payment of any fee. </content></subsection><sourceNote>(Amended <ref href="/hk/1949/26">26 of 1949 s. 3</ref>)</sourceNote></section><section id="ID_1438402800119_004" name="s6" reason="inEffect" startPeriod="2022-07-14" status="operational" temporalId="s6"><num value="6">6.</num><heading>Requirement of registration in No. 2 registers</heading><subsection id="ID_1438411472826_026" name="1" temporalId="s6_1"><num value="1">(1)</num><content>Any person who is unable to produce a death certificate (1896) but who by means of other evidence satisfies the Registrar that the death to which such evidence relates was registered in the lost register (1896) may require the Registrar to register the death in the No. 2 register (1896) and such death shall be registered accordingly without payment of any fee. </content></subsection><subsection id="ID_1438411472842_005" name="2" temporalId="s6_2"><num value="2">(2)</num><content>Any person who is unable to produce a death certificate (1934) but who by means of other evidence satisfies the Registrar that the death to which such evidence relates was registered in the lost register (1934) may require the Registrar to register the death in the No. 2 register (1934) and such death shall be registered accordingly without payment of any fee. </content></subsection><subsection id="ID_1438411472842_013" name="3" temporalId="s6_3"><num value="3">(3)</num><content>No death shall be registered in the No. 2 register (1896) or the No. 2 register (1934) except with the consent of the Registrar and the fact of such consent having been given shall be entered in any such register. </content></subsection><sourceNote>(Amended <ref href="/hk/1949/26">26 of 1949 s. 3</ref>)</sourceNote></section><section id="ID_1438402800134_002" name="s6A" reason="inEffect" startPeriod="2022-07-14" status="operational" temporalId="s6A"><num value="6A">6A.</num><heading>Register forms</heading><subsection id="ID_1438411472873_004" name="1" temporalId="s6A_1"><num value="1">(1)</num><leadIn>The Registrar shall, before registering a death under <ref>section 5</ref> or <ref>6</ref>, arrange for a register form to be—</leadIn><paragraph id="ID_1438411472873_012" name="a" temporalId="s6A_1_a"><num value="a">(a)</num><content>completed; and</content></paragraph><paragraph id="ID_1438411472873_020" name="b" temporalId="s6A_1_b"><num value="b">(b)</num><content>signed by the person who requires such registration.</content></paragraph></subsection><subsection id="ID_1438411472873_027" name="2" temporalId="s6A_2"><num value="2">(2)</num><leadIn>The register form shall—</leadIn><paragraph id="ID_1438411472873_035" name="a" temporalId="s6A_2_a"><num value="a">(a)</num><content>(in the case of a registration under <ref>section 5(1)</ref>) contain such particulars as set out in Form 1 in the <ref>Second Schedule</ref>;</content></paragraph><paragraph id="ID_1438411472873_043" name="b" temporalId="s6A_2_b"><num value="b">(b)</num><content>(in the case of a registration under <ref>section 5(2)</ref>) contain such particulars as set out in Form 1 in the <ref>Third Schedule</ref>;</content></paragraph><paragraph id="ID_1438411472873_051" name="c" temporalId="s6A_2_c"><num value="c">(c)</num><content>(in the case of a registration under <ref>section 6(1)</ref>) contain such particulars as set out in Form 2 in the <ref>Second Schedule</ref>;</content></paragraph><paragraph id="ID_1438411472873_059" name="d" temporalId="s6A_2_d"><num value="d">(d)</num><content>(in the case of a registration under <ref>section 6(2)</ref>) contain such particulars as set out in Form 2 in the <ref>Third Schedule</ref>.</content></paragraph></subsection><subsection id="ID_1438411472873_066" name="3" temporalId="s6A_3"><num value="3">(3)</num><leadIn>The Registrar shall, on registration of a death under <ref>section 5</ref> or <ref>6</ref>, cause—</leadIn><paragraph id="ID_1438411472873_074" name="a" temporalId="s6A_3_a"><num value="a">(a)</num><content>the signed register form that relates to the death to be recorded in the
+                    form of a
+                    digital image; and
+                    <sourceNote>(Amended <ref href="/hk/2022/er3">E.R. 3 of
+                    2022</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411472888_006" name="b" temporalId="s6A_3_b"><num value="b">(b)</num><content>the particulars contained in the form to be stored in the database of a register computer in the form of data which are capable of being retrieved and reproduced in a legible form.</content></paragraph></subsection><subsection id="ID_1438411472888_013" name="4" temporalId="s6A_4"><num value="4">(4)</num><content>The image recorded in accordance with subsection <ref>(3)(a)</ref> shall form part of the relevant register in which the death shall be registered.</content></subsection><sourceNote>(Added <ref href="/hk/2006/8">8 of 2006 s. 34</ref>)</sourceNote></section><section id="ID_1438402800150_001" name="s7" reason="inEffect" startPeriod="2022-07-14" status="operational" temporalId="s7"><num value="7">7.</num><heading>Indexes and searches</heading><subsection id="ID_1438411472920_004" name="1" temporalId="s7_1"><num value="1">(1)</num><content>The Registrar shall cause indexes of the special register of deaths to be made, and any person shall be entitled on payment of the prescribed fee to require the Registrar to cause a search to be made of such indexes and register and to receive a copy of any entry in the said register certified under the hand of the Registrar and sealed or stamped with the seal or stamp of the general register office.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1949/26">26 of 1949 s. 3</ref>; <ref href="/hk/2006/8">8 of 2006 s. 35</ref>)</sourceNote></content></subsection><subsection id="ID_1438411472920_012" name="2" temporalId="s7_2"><num value="2">(2)</num><content>If the particulars of an entry have been stored in the manner described in <ref>section 6A(3)(b)</ref>, the Registrar may cause to be produced a copy of such entry by using such particulars, and the copy so produced, if certified and sealed (or stamped) in accordance with subsection (1), shall be deemed to be a certified copy of such entry in the special register of deaths.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/2006/8">8 of 2006 s. 35</ref>)</sourceNote></content></subsection></section><section id="ID_1438402800150_003" name="s8" reason="inEffect" startPeriod="2022-07-14" status="operational" temporalId="s8"><num value="8">8.</num><heading>Official seal and evidential value of registers</heading><subsection id="ID_1438411472951_004" name="1" temporalId="s8_1"><num value="1">(1)</num><content>The Registrar shall cause to be sealed or stamped with the seal or stamp of the general register office all certified copies of entries given in the said office. </content></subsection><subsection id="ID_1438411472951_012" name="2" temporalId="s8_2"><num value="2">(2)</num><content>Every entry and every certified copy of an entry in the No. 1 register (1896) shall be received as evidence of the death to which the same relates without other or further proof of such entry. </content></subsection><subsection id="ID_1438411472951_020" name="3" temporalId="s8_3"><num value="3">(3)</num><content>Every entry and every certified copy of an entry in the No. 1 register (1934) shall be of equivalent evidential value to that accorded to a death certificate (1934) by <ref>section 24</ref> of the principal Ordinance. </content></subsection><subsection id="ID_1438411472951_028" name="4" temporalId="s8_4"><num value="4">(4)</num><content>Every entry and every certified copy of an entry in the No. 2 register (1896) or the No. 2 register (1934) shall be received as proof that evidence (other than a certified and sealed copy of an entry of death) to the satisfaction of the Registrar has been produced that the death to which such entry or certified copy thereof relates was registered in the appropriate lost register.<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/1953/18">18 of 1953 s. 2</ref>)</sourceNote> </content></subsection><sourceNote>(Amended <ref href="/hk/1949/26">26 of 1949 s. 3</ref>)</sourceNote></section><section id="ID_1438402800166_002" name="s9" reason="inEffect" startPeriod="2022-07-14" status="operational" temporalId="s9"><num value="9">9.</num><heading>Fees</heading><content>There shall be paid in respect of any matter for which a fee is prescribed under this Ordinance, the fees specified respectively in Part I of the <ref>Fourth Schedule</ref>.</content></section><section id="ID_1438402800166_004" name="s10" reason="inEffect" startPeriod="2022-07-14" status="operational" temporalId="s10"><num value="10">10.</num><heading>Offences and penalties</heading><sourceNote>(Replaced <ref href="/hk/2006/8">8 of 2006 s.
+            36</ref>)</sourceNote><subsection id="ID_1438411472998_018" name="1" temporalId="s10_1"><num value="1">(1)</num><content>Any person who having custody of or access to the special register of deaths or certified copies thereof, or of any part thereof, carelessly loses or injures the same or carelessly allows the same to be injured whilst in his keeping or possession commits an offence and shall be liable on summary conviction to a fine at level 1.
+                <sourceNote>(Amended <ref href="/hk/1996/ln25">L.N. 25 of 1996</ref>; <ref href="/hk/2006/8">8 of 2006 s. 36</ref>)</sourceNote></content></subsection><subsection id="ID_1438411472998_026" name="2" temporalId="s10_2"><num value="2">(2)</num><leadIn>Any person who having the custody of or access to the database referred to in <ref>section 6A(3)(b)</ref>—</leadIn><paragraph id="ID_1438411472998_034" name="a" temporalId="s10_2_a"><num value="a">(a)</num><content>alters any data in the database or allows such data to be altered, other than for the purpose of carrying out duties under this Ordinance;</content></paragraph><paragraph id="ID_1438411472998_042" name="b" temporalId="s10_2_b"><num value="b">(b)</num><content>carelessly loses or damages any data in the database or allows such data to be lost or damaged; or</content></paragraph><paragraph id="ID_1438411473013_006" name="c" temporalId="s10_2_c"><num value="c">(c)</num><content>otherwise tampers with the database so that the data contained in it or any part of such data becomes incapable of being retrieved or reproduced in a legible form,</content></paragraph><continued>commits an offence and shall be liable on summary conviction to a fine at level 1 or to imprisonment for 6 months.
+                <sourceNote>(Added <ref href="/hk/2006/8">8 of 2006 s. 36</ref>)</sourceNote></continued></subsection></section><section id="ID_1438402800181_002" name="s11" reason="repealed" startPeriod="1997-06-30" status="repealed" temporalId="s11"><num value="11">11.</num><sourceNote>(Repealed <ref href="/hk/1972/48">48 of 1972 s. 4</ref>)</sourceNote></section><section id="ID_1438402800197_001" name="s12" reason="inEffect" startPeriod="2022-07-14" status="operational" temporalId="s12"><num value="12">12.</num><heading>Correction of errors</heading><sourceNote>(Amended <ref href="/hk/2006/8">8 of 2006 s.
+            37</ref>)</sourceNote><subsection id="ID_1438411473044_018" name="1" temporalId="s12_1"><num value="1">(1)</num><leadIn>With regard to the correction of errors in the special register of deaths, the following provisions shall have effect—  <sourceNote>(Amended <ref href="/hk/2006/8">8 of 2006 s. 37</ref>)</sourceNote></leadIn><paragraph id="ID_1438411473044_026" name="a" temporalId="s12_1_a"><num value="a">(a)</num><content>no alteration in any such register shall be made except as authorized by this Ordinance;</content></paragraph><paragraph id="ID_1438411473044_034" name="b" temporalId="s12_1_b"><num value="b">(b)</num><content>any clerical error which may be discovered in any such register shall, as soon as possible, be corrected by the Registrar, who shall place his initials in the margin opposite the entry in which such error has been discovered;</content></paragraph><paragraph id="ID_1438411473044_042" name="c" temporalId="s12_1_c"><num value="c">(c)</num><content>an error of fact or substance in any such register may be corrected by entry in the margin (without any alteration of the original entry) by the Registrar on payment of the prescribed fee and on production to him by the person requiring such error to be corrected of a declaration in the prescribed form setting forth the nature of the error and the true facts of the case, and made by 2 credible persons to the satisfaction of the Registrar having knowledge of the truth of the case, and the Registrar shall initial such marginal entry and shall add thereto the day and month and year when such correction is made.
+                    <i>(see <ref>Fourth Schedule</ref>, Part II, Form 1)</i>
+                    <sourceNote>(Amended <ref href="/hk/1949/26">26 of 1949 s. 3</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438411473060_005" name="2" temporalId="s12_2"><num value="2">(2)</num><leadIn>In relation to an entry the particulars of which have been stored in the database referred to in <ref>section 6A(3)(b)</ref>—</leadIn><paragraph id="ID_1438411473060_013" name="a" temporalId="s12_2_a"><num value="a">(a)</num><content>where the Registrar is aware of a clerical error in such particulars, he shall correct the error as soon as possible; and</content></paragraph><paragraph id="ID_1438411473060_021" name="b" temporalId="s12_2_b"><num value="b">(b)</num><content>where an error that is corrected under subsection <ref>(1)(c)</ref> relates to the entry, the Registrar shall amend such particulars accordingly.
+                    <sourceNote>(Added <ref href="/hk/2006/8">8 of 2006 s. 37</ref>)</sourceNote></content></paragraph></subsection></section><section id="ID_1438402800197_003" name="s13" reason="inEffect" startPeriod="2022-07-14" status="operational" temporalId="s13"><num value="13">13.</num><heading>Forms and regulations</heading><subsection id="ID_1438411473107_011" name="1" temporalId="s13_1"><num value="1">(1)</num><content>The forms prescribed in the <ref>Schedules</ref> shall be used in the cases to
+                which they refer. </content></subsection><subsection id="ID_1438411473107_019" name="2" temporalId="s13_2"><num value="2">(2)</num><leadIn>The Chief Executive may by order published in the Gazette provide
+                    for—<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1999/71">71 of
+                        1999 s. 3</ref>)</sourceNote>
+            </leadIn><paragraph id="ID_1438411473107_027" name="a" temporalId="s13_2_a"><num value="a">(a)</num><content>the amendment of the <ref>Schedules</ref>; and </content></paragraph><paragraph id="ID_1438411473107_035" name="b" temporalId="s13_2_b"><num value="b">(b)</num><content>the due carrying out of the Ordinance. </content></paragraph></subsection><sourceNote>(Replaced <ref href="/hk/1967/42">42 of 1967 s. 2</ref>)</sourceNote></section></part><schedule id="ID_1438402800228_001" name="sch1" reason="inEffect" startPeriod="2022-07-14" status="operational" temporalId="sch1"><num value="1">First
+            Schedule</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap176/s3">s.
+                3</ref>]</note><heading>Lost Registers
+            of
+            Deaths</heading><part id="ID_1438411473138_001" name="PI" temporalId="sch1_PI"><num value="I">Part
+                I<marker role="blank-line"></marker><marker role="blank-line"></marker></num><content>Registers of deaths formerly kept pursuant to the Births and Deaths
+                Registration Ordinance 1896.
+                    <table xmlns="http://www.w3.org/1999/xhtml" width="100%">
+                    <col width="15.9063%"></col>
+                    <col width="50.7639%"></col>
+                    <col width="33.3299%"></col>
+                    <tr>
+                        <td class="border_top_0.75 border_bottom_0.75">
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Serial<br></br>No.</center>
+                        </td>
+                        <td class="border_top_0.75 border_bottom_0.75">
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Particulars of
+                                lost registers<br></br>of deaths</center>
+                        </td>
+                        <td class="border_top_0.75 border_bottom_0.75">
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Office where
+                                death
+                                <br></br>registered</center>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="border_top_0.75">
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">1.</center>
+                        </td>
+                        
+                        <td class="border_top_0.75 cellpadding_right_10">
+                            <p class="align_justified left_indent_14 first_line_indent_-12">Register
+                                for the period 3 October 1931 to 31 December 1931, both days
+                                inclusive</p>
+                        </td>
+                        <td class="border_top_0.75">
+                            
+                            <p class="align_justified left_indent_12 first_line_indent_-10">Kowloon
+                                Registry
+                                Office</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">2.</center>
+                        </td>
+                        
+                        <td class="cellpadding_right_10">
+                            <p class="align_justified left_indent_14 first_line_indent_-12">Register
+                                for the period 28 September 1932 to 31 December 1932, both days
+                                inclusive
+                            </p>
+                        </td>
+                        
+                        <td align="center">
+                            
+                            <p class="align_justified left_indent_30">ditto</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="border_bottom_0.75">
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">3.</center>
+                        </td>
+                        
+                        <td class="border_bottom_0.75 cellpadding_right_10">
+                            <p class="align_justified left_indent_14 first_line_indent_-12">Register
+                                for the year
+                                1924
+                            </p>
+                        </td>
+                        <td class="border_bottom_0.75">
+                            
+                            <p class="align_justified left_indent_12 first_line_indent_-10">Yau Ma
+                                Tei Police
+                                Station</p>
+                        </td>
+                    </tr>
+                </table></content></part><part id="ID_1438411473154_001" name="PII" temporalId="sch1_PII"><num value="II">Part
+                II<marker role="blank-line"></marker><marker role="blank-line"></marker></num><content>Registers of deaths formerly kept pursuant to the Births and Deaths
+                Registration Ordinance (<ref href="/hk/cap174">Cap. 174</ref>).
+                    <marker role="blank-line"></marker><marker role="blank-line"></marker><table xmlns="http://www.w3.org/1999/xhtml" width="100%" class="repeat_header">
+                    <col width="15.8958%"></col>
+                    
+                    <col width="55.7639%"></col>
+                    
+                    <col width="28.3403%"></col>
+                    <thead>
+                        <tr>
+                            <th class="border_top_0.75 border_bottom_0.75">
+                                <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"><inline class="not_bold">Serial<br></br>No.</inline></center>
+                            </th>
+                            <th class="border_top_0.75 border_bottom_0.75">
+                                <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"><inline class="not_bold">Particulars of lost
+                                        registers<br></br>of deaths</inline></center>
+                            </th>
+                            <th class="border_top_0.75 border_bottom_0.75">
+                                <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"><inline class="not_bold">Office where death
+                                        registered</inline></center>
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td class="border_top_0.75">
+                                <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">1.</center>
+                            </td>
+                            
+                            <td class="border_top_0.75 cellpadding_right_10">
+                                <p class="align_justified left_indent_14 first_line_indent_-12">Register for the period 1 September 1937 to 29 November 1937,
+                                    both days
+                                    inclusive</p>
+                            </td>
+                            <td class="border_top_0.75">
+                                
+                                <p class="align_justified left_indent_12 first_line_indent_-10">General Register
+                                    Office</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">2.</center>
+                            </td>
+                            
+                            <td class="cellpadding_right_10">
+                                <p class="align_justified left_indent_14 first_line_indent_-12">Register for the period 10 April 1938 to 15 August 1938, both
+                                    days
+                                    inclusive</p>
+                            </td>
+                            <td>
+                                
+                                <p class="align_justified left_indent_25 first_line_indent_0">ditto</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">3.</center>
+                            </td>
+                            
+                            <td class="cellpadding_right_10">
+                                <p class="align_justified left_indent_14 first_line_indent_-12">Register for the period 29 March 1939 to 3 May 1939, both days
+                                    inclusive</p>
+                            </td>
+                            <td>
+                                
+                                
+                                
+                                <p class="align_justified left_indent_12 first_line_indent_-10">General Register
+                                    Office</p>
+                                
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">4.</center>
+                            </td>
+                            
+                            <td class="cellpadding_right_10">
+                                <p class="align_justified left_indent_14 first_line_indent_-12">Register for the period 13 November 1941 to 24 December 1941,
+                                    both days
+                                    inclusive</p>
+                            </td>
+                            <td>
+                                <p class="align_justified left_indent_25 first_line_indent_0">ditto</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">5.</center>
+                            </td>
+                            
+                            <td class="cellpadding_right_10">
+                                <p class="align_justified left_indent_14 first_line_indent_-12">Register for the period 1 January 1940 to 24 December 1941,
+                                    both days
+                                    inclusive</p>
+                            </td>
+                            <td>
+                                
+                                <p class="align_justified left_indent_12 first_line_indent_-10">Aberdeen Police
+                                    Station</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">6.</center>
+                            </td>
+                            
+                            <td class="cellpadding_right_10">
+                                <p class="align_justified left_indent_14 first_line_indent_-12">Register for the period 1 January 1939 to 24 December 1941,
+                                    both days
+                                    inclusive</p>
+                            </td>
+                            <td>
+                                
+                                <p class="align_justified left_indent_12 first_line_indent_-10">Stanley Police
+                                    Station</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">7.</center>
+                            </td>
+                            
+                            <td class="cellpadding_right_10">
+                                <p class="align_justified left_indent_14 first_line_indent_-12">Register for the period 1 January 1940 to 24 December 1941,
+                                    both days
+                                    inclusive</p>
+                            </td>
+                            <td>
+                                
+                                <p class="align_justified left_indent_12 first_line_indent_-10">Kowloon Registry
+                                    Office</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">8.</center>
+                            </td>
+                            
+                            <td class="cellpadding_right_10">
+                                <p class="align_justified left_indent_14 first_line_indent_-12">Register for the period 1 January 1940 to 24 December 1941,
+                                    both days
+                                    inclusive
+                                </p>
+                            </td>
+                            <td>
+                                
+                                <p class="align_justified left_indent_12 first_line_indent_-10">Au
+                                    Tau Police
+                                    Station</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">9.</center>
+                            </td>
+                            
+                            <td class="cellpadding_right_10">
+                                <p class="align_justified left_indent_14 first_line_indent_-12">Register for the period 1 January 1939 to 24 December 1941,
+                                    both days
+                                    inclusive</p>
+                            </td>
+                            <td>
+                                
+                                <p class="align_justified left_indent_12 first_line_indent_-10">Cheung Chau Police
+                                    Station</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">10.</center>
+                            </td>
+                            
+                            <td class="cellpadding_right_10">
+                                <p class="align_justified left_indent_14 first_line_indent_-12">Register for the period 1 January 1939 to 24 December 1941,
+                                    both days
+                                    inclusive</p>
+                            </td>
+                            <td>
+                                
+                                <p class="align_justified left_indent_12 first_line_indent_-10">Lok
+                                    Ma Chau Police
+                                    Station</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">11.</center>
+                            </td>
+                            
+                            <td class="cellpadding_right_10">
+                                <p class="align_justified left_indent_14 first_line_indent_-12">Register for the period 1 January 1939 to 24 December 1941,
+                                    both days
+                                    inclusive</p>
+                            </td>
+                            <td>
+                                
+                                <p class="align_justified left_indent_12 first_line_indent_-10">Ping
+                                    Shan Police
+                                    Station
+                                </p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">12.</center>
+                            </td>
+                            
+                            <td class="cellpadding_right_10">
+                                <p class="align_justified left_indent_14 first_line_indent_-12">Register for the period 1 January 1939 to 24 December 1941,
+                                    both days
+                                    inclusive</p>
+                            </td>
+                            <td>
+                                
+                                <p class="align_justified left_indent_12 first_line_indent_-10">Sai
+                                    Kung Police
+                                    Station
+                                </p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">13.</center>
+                            </td>
+                            
+                            <td class="cellpadding_right_10">
+                                <p class="align_justified left_indent_14 first_line_indent_-12">Register for the period 1 January 1939 to 24 December 1941,
+                                    both days
+                                    inclusive</p>
+                            </td>
+                            <td>
+                                
+                                <p class="align_justified left_indent_12 first_line_indent_-10">Sha
+                                    Tau Kok Police
+                                    Station</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">14.</center>
+                            </td>
+                            
+                            <td class="cellpadding_right_10">
+                                <p class="align_justified left_indent_14 first_line_indent_-12">Register for the period 1 January 1940 to 24 December 1941,
+                                    both days
+                                    inclusive</p>
+                            </td>
+                            <td>
+                                
+                                <p class="align_justified left_indent_12 first_line_indent_-10">Sha
+                                    Tin Police
+                                    Station</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">15.</center>
+                            </td>
+                            
+                            <td class="cellpadding_right_10">
+                                <p class="align_justified left_indent_14 first_line_indent_-12">Register for the period 1 January 1939 to 24 December 1941,
+                                    both days
+                                    inclusive</p>
+                            </td>
+                            <td>
+                                
+                                <p class="align_justified left_indent_12 first_line_indent_-10">Sheung Shui Police
+                                    Station</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">16.</center>
+                            </td>
+                            
+                            <td class="cellpadding_right_10">
+                                <p class="align_justified left_indent_14 first_line_indent_-12">Register for the period 1 January 1939 to 24 December 1941,
+                                    both days
+                                    inclusive</p>
+                            </td>
+                            <td>
+                                
+                                <p class="align_justified left_indent_12 first_line_indent_-10">Tai
+                                    O
+                                    Police
+                                    Station</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">17.</center>
+                            </td>
+                            
+                            <td class="cellpadding_right_10">
+                                <p class="align_justified left_indent_14 first_line_indent_-12">Register for the period 1 January 1939 to 24 December 1941,
+                                    both days
+                                    inclusive
+                                </p>
+                            </td>
+                            <td>
+                                
+                                <p class="align_justified left_indent_12 first_line_indent_-10">Tai
+                                    Po Police
+                                    Station</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="border_bottom_0.75">
+                                <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">18.</center>
+                            </td>
+                            
+                            <td class="border_bottom_0.75 cellpadding_right_10">
+                                <p class="align_justified left_indent_14 first_line_indent_-12">Register for the period 1 January 1939 to 24 December 1941,
+                                    both days
+                                    inclusive</p>
+                            </td>
+                            <td class="border_bottom_0.75">
+                                
+                                <p class="align_justified left_indent_12 first_line_indent_-10">Tsuen Wan Police
+                                    Station
+                                </p>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table></content><sourceNote>(<ref>First Schedule </ref>replaced <ref href="/hk/1949/gna215">G.N.A. 215 of
+                1949</ref>. Amended <ref href="/hk/2022/er3">E.R. 3 of
+                2022</ref>)</sourceNote></part></schedule><schedule id="ID_1438402800244_001" name="sch2" reason="inEffect" startPeriod="2022-07-14" status="operational" temporalId="sch2"><num value="2">Second
+            Schedule</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap176/s4">ss.
+                4</ref> &amp;
+                <ref href="/hk/cap176/s6A">6A</ref>]<sourceNote>(Amended <ref href="hk/2006/8">8 of 2006 s.
+            38</ref>)</sourceNote><marker role="blank-line"></marker><marker role="blank-line"></marker></note><content>
+            
+            
+            
+            <table xmlns="http://www.w3.org/1999/xhtml" width="100%">
+                <col width="38%"></col>
+                <col width="24%"></col>
+                <col width="38%"></col>
+                <tr>
+                    <td>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td class="align_center">Form
+                        1</td>
+                    <td class="align_right">[No. 1
+                        register
+                        (1896)]</td>
+                </tr>
+            </table>
+            
+            <marker role="blank-line"></marker>
+            <marker role="blank-line"></marker>
+        </content><content class="align_center">Register Book
+            of
+            Deaths<br></br>死亡登記冊<marker role="blank-line"></marker><marker role="blank-line"></marker></content><content class="left_indent_72 first_line_indent_0"> , 
+            <inline class="width_24"> </inline> , Deaths in the district of
+                <inline class="width_40"> </inline>, Hong Kong.</content><content>
+            <inline class="width_28"> </inline>年
+                <inline class="width_28"> </inline>月
+                <inline class="width_28"> </inline>日，香港<inline class="width_48"> </inline>區死亡登記。<marker role="blank-line"></marker><marker role="blank-line"></marker></content><content>
+            
+            
+            <table xmlns="http://www.w3.org/1999/xhtml" width="100%" class="font_size_8.5">
+                <col width="33.7847%"></col>
+                <col width="66.2153%"></col>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Registration
+                            No.<br></br>登記編號</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"><br></br>When
+                            and where
+                            died<br></br>死亡日期及地點<marker role="blank-line"></marker></center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Surname and
+                            name<br></br>姓名</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Sex<br></br>性別</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Age<br></br>年齡</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 cellpadding_left_5 cellpadding_right_5">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Rank,
+                            profession, or occupation and nationality,<br></br>so far as is
+                            known<br></br>所知的職位或職業及國籍</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"><br></br>Cause
+                            of
+                            death<br></br>死因<marker role="blank-line"></marker></center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 cellpadding_right_5 cellpadding_left_5">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Signature,
+                            description and <br></br>residence of informant<br></br>申報人簽署、身分及住址</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">When
+                            registered<br></br>登記日期</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 cellpadding_right_5 cellpadding_left_5">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Signature of
+                            Registrar<br></br>登記官簽署</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                </tr>
+                
+                
+                <tr>
+                    <td></td>
+                    <td class="font_size_11 align_right"><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="align_right">(Amended <ref href="hk/2006/8">8 of 2006 s. 38</ref>)</sourceNote></td>
+                </tr>
+                
+                
+            </table>
+            
+            
+            <marker role="blank-line"></marker>
+            <marker role="blank-line"></marker>
+        </content><content class="align_center">__________</content><content>
+            <marker role="blank-line"></marker>
+        </content><content>
+            
+            
+            <table xmlns="http://www.w3.org/1999/xhtml" width="100%">
+                <col width="38%"></col>
+                <col width="24%"></col>
+                <col width="38%"></col>
+                <tr>
+                    <td>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td class="align_center">Form
+                        2</td>
+                    <td class="align_right">[No. 2
+                        register
+                        (1896)]</td>
+                </tr>
+            </table>
+            
+            <marker role="blank-line"></marker>
+            <marker role="blank-line"></marker>
+        </content><content class="align_center">Register Book
+            of
+            Deaths<br></br>死亡登記冊<marker role="blank-line"></marker><marker role="blank-line"></marker></content><content class="left_indent_72 first_line_indent_0"> , 
+            <inline class="width_24"> </inline> , Deaths in the district of
+                <inline class="width_40"> </inline>, Hong
+                Kong.</content><content><inline class="width_28"> </inline>年<inline class="width_28"> </inline>月<inline class="width_28"> </inline>日，香港<inline class="width_48"> </inline>區死亡登記。<marker role="blank-line"></marker><marker role="blank-line"></marker></content><content>
+            
+            
+            <table xmlns="http://www.w3.org/1999/xhtml" class="font_size_8.5" width="100%">
+                <col width="33.7847%"></col>
+                <col width="66.2153%"></col>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Registration
+                            No.<br></br>登記編號</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"><br></br>When
+                            and where
+                            died<br></br>死亡日期及地點<marker role="blank-line"></marker></center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Surname and
+                            name<br></br>姓名</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Sex<br></br>性別</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Age<br></br>年齡</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 cellpadding_right_5 cellpadding_left_5">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Rank,
+                            profession, or occupation and nationality,<br></br>so far as is
+                            known<br></br>所知的職位或職業及國籍</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"><br></br>Cause
+                            of
+                            death<br></br>死因<marker role="blank-line"></marker></center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 cellpadding_right_5 cellpadding_left_5">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Signature,
+                            description and <br></br>residence of informant<br></br>申報人簽署、身分及住址</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">When
+                            registered<br></br>登記日期</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 cellpadding_right_5 cellpadding_left_5">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Consent and
+                            signature<br></br>of Registrar<br></br>登記官同意及簽署</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <p class="align_justified left_indent_2 first_line_indent_141">Consent given
+                            同意</p>
+                        <p class="align_justified left_indent_2 first_line_indent_166">A.B.</p>
+                        <p class="align_justified left_indent_2 first_line_indent_141">Registrar.
+                            登記官</p>
+                    </td>
+                </tr>
+            </table>
+            
+            
+        </content><sourceNote class="align_right">(Amended <ref href="hk/2006/8">8 of 2006 s.
+                38</ref>)</sourceNote><sourceNote>(<ref>Second Schedule</ref> replaced <ref href="/hk/1995/ln500">L.N. 500 of 1995</ref>)</sourceNote></schedule><schedule id="ID_1438402800259_001" name="sch3" reason="inEffect" startPeriod="2022-07-14" status="operational" temporalId="sch3"><num value="3">Third
+            Schedule</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap176/s4">ss.
+                4</ref> &amp;
+                <ref href="/hk/cap176/s6A">6A</ref>]<sourceNote>(Amended <ref href="hk/2006/8">8 of 2006 s.
+            39</ref>)</sourceNote><marker role="blank-line"></marker><marker role="blank-line"></marker></note><content>
+            
+            
+            
+            <table xmlns="http://www.w3.org/1999/xhtml" width="100%">
+                <col width="38%"></col>
+                <col width="24%"></col>
+                <col width="38%"></col>
+                <tr>
+                    <td>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td class="align_center">Form
+                        1</td>
+                    <td class="align_right">[No. 1
+                        register
+                        (1934)]</td>
+                </tr>
+            </table>
+            
+            <marker role="blank-line"></marker>
+            <marker role="blank-line"></marker>
+        </content><content class="align_center">Register Book
+            of
+            Deaths<br></br>死亡登記冊<marker role="blank-line"></marker><marker role="blank-line"></marker></content><content class="left_indent_72 first_line_indent_0"> , 
+            <inline class="width_24"> </inline> , Deaths in the district of
+                <inline class="width_40"> </inline>, Hong
+                Kong.</content><content><inline class="width_28"> </inline>年<inline class="width_28"> </inline>月<inline class="width_28"> </inline>日，香港<inline class="width_48"> </inline>區死亡登記。<marker role="blank-line"></marker><marker role="blank-line"></marker><marker role="blank-line"></marker></content><content>
+            
+            
+            <table xmlns="http://www.w3.org/1999/xhtml" width="100%" class="font_size_8.5">
+                <col width="33.7847%"></col>
+                <col width="66.2153%"></col>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Registration
+                            No.<br></br>登記編號</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"><br></br>When
+                            and where
+                            died<br></br>死亡日期及地點<marker role="blank-line"></marker></center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Surname and
+                            name<br></br>姓名</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Sex<br></br>性別</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Age<br></br>年齡</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 cellpadding_left_5 cellpadding_right_5">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Rank,
+                            profession, or occupation and nationality,<br></br>so far as is
+                            known<br></br>所知的職位或職業及國籍</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"><br></br>Cause
+                            of
+                            death<br></br>死因<marker role="blank-line"></marker></center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 cellpadding_right_5 cellpadding_left_5">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Signature,
+                            description and <br></br>residence of informant<br></br>申報人簽署、身分及住址</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">When
+                            registered<br></br>登記日期</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 cellpadding_right_5 cellpadding_left_5">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Signature of
+                            Registrar<br></br>登記官簽署</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                </tr>
+                
+                
+                <tr>
+                    <td></td>
+                    <td class="font_size_11 align_right"><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="align_right">(Amended <ref href="hk/2006/8">8 of 2006 s. 39</ref>)</sourceNote></td>
+                </tr>
+                
+                
+            </table>
+            
+            
+            <marker role="blank-line"></marker>
+            <marker role="blank-line"></marker>
+        </content><content class="align_center">__________</content><content>
+            <marker role="blank-line"></marker>
+        </content><content>
+            
+            
+            
+            <table xmlns="http://www.w3.org/1999/xhtml" width="100%">
+                <col width="38%"></col>
+                <col width="24%"></col>
+                <col width="38%"></col>
+                <tr>
+                    <td>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td class="align_center">Form
+                        2</td>
+                    <td class="align_right">[No. 2
+                        register
+                        (1934)]</td>
+                </tr>
+            </table>
+            
+            <marker role="blank-line"></marker>
+            <marker role="blank-line"></marker>
+        </content><content class="align_center">Register Book
+            of
+            Deaths<br></br>死亡登記冊<marker role="blank-line"></marker><marker role="blank-line"></marker></content><content class="left_indent_72 first_line_indent_0"> , 
+            <inline class="width_24"> </inline> , Deaths in the district of
+                <inline class="width_40"> </inline>, Hong
+                Kong.</content><content><inline class="width_28"> </inline>年<inline class="width_28"> </inline>月<inline class="width_28"> </inline>日，香港<inline class="width_48"> </inline>區死亡登記。<marker role="blank-line"></marker></content><content>
+            
+            
+            <table xmlns="http://www.w3.org/1999/xhtml" class="font_size_8.5" width="100%">
+                <col width="33.7847%"></col>
+                <col width="66.2153%"></col>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Registration
+                            No.<br></br>登記編號</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"><br></br>When
+                            and where
+                            died<br></br>死亡日期及地點<marker role="blank-line"></marker></center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Surname and
+                            name<br></br>姓名</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Sex<br></br>性別</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Age<br></br>年齡</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 cellpadding_right_5 cellpadding_left_5">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Rank,
+                            profession, or occupation and nationality, <br></br>so far as is
+                            known<br></br>所知的職位或職業及國籍</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"><br></br>Cause
+                            of
+                            death<br></br>死因<marker role="blank-line"></marker></center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 cellpadding_right_5 cellpadding_left_5">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Signature,
+                            description and <br></br>residence of informant<br></br>申報人簽署、身分及住址</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">When
+                            registered<br></br>登記日期</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 cellpadding_right_5 cellpadding_left_5">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Consent and
+                            signature<br></br>of Registrar<br></br>登記官同意及簽署</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <p class="align_justified left_indent_2 first_line_indent_141">Consent given
+                            同意</p>
+                        <p class="align_justified left_indent_2 first_line_indent_166">A.B.</p>
+                        <p class="align_justified left_indent_2 first_line_indent_141">Registrar.
+                            登記官</p>
+                    </td>
+                </tr>
+            </table>
+            
+            
+        </content><sourceNote class="align_right">(Amended <ref href="hk/2006/8">8 of 2006 s.
+                39</ref>)</sourceNote><sourceNote>(<ref>Third Schedule</ref> replaced <ref href="/hk/1995/ln500">L.N. 500 of 1995</ref>)</sourceNote></schedule><schedule id="ID_1438402800275_001" name="sch4" reason="inEffect" startPeriod="2022-07-14" status="operational" temporalId="sch4"><num value="4">Fourth
+            Schedule</num><part id="ID_1496023787052_001" name="P1" temporalId="sch4_P1"><num value="1">Part
+                I</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap176/s9">s.
+                9</ref>]</note><heading>Fees</heading><content>The following fees shall be paid in connection with searches, corrections of
+                errors and certified copies of entries in the
+                registers—</content><content>
+                
+                
+                <table xmlns="http://www.w3.org/1999/xhtml" width="100%">
+                    <col width="8.4826%"></col>
+                    <col width="53%"></col>
+                    <col width="18%"></col>
+                    <tr>
+                        <td>
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Item</center>
+                        </td>
+                        <td>
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Particular</center>
+                        </td>
+                        <td>
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Fee</center>
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">$</center>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            
+                            
+                            <p class="left_indent_8">1.</p>
+                            
+                            
+                            
+                        </td>
+                        
+                        <td class="cellpadding_bottom_6 align_justified">A search either in indexes
+                            or in the registers for any given entry over a period not exceeding 5
+                            years, i.e. a particular search</td>
+                        <td class="align_center">140</td>
+                    </tr>
+                    <tr>
+                        <td>
+                            
+                            
+                            <p class="left_indent_8">2.</p>
+                            
+                            
+                            
+                        </td>
+                        
+                        <td class="cellpadding_bottom_6 align_justified">A search either in indexes
+                            or in the registers for information other than that concerning any given
+                            entry, i.e. a general search</td>
+                        <td class="align_center valign_top">680</td>
+                    </tr>
+                    <tr>
+                        <td>
+                            
+                            
+                            <p class="left_indent_8">3.</p>
+                            
+                            
+                            
+                        </td>
+                        
+                        <td class="cellpadding_bottom_6 align_justified">A correction of an error in
+                            any register</td>
+                        <td class="align_center valign_top">425</td>
+                    </tr>
+                    <tr>
+                        <td>
+                            
+                            
+                            <p class="left_indent_8">4.</p>
+                            
+                            
+                            
+                        </td>
+                        
+                        <td class="cellpadding_bottom_3 align_justified">A certified copy of an
+                            entry in any of the registers</td>
+                        <td class="align_center valign_top">140</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        
+                        <td class="cellpadding_bottom_3 align_justified">
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">but</center>
+                        </td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                        
+                        <td class="cellpadding_bottom_3 align_justified">if required to be posted
+                            (other than by airmail) to an addressee outside Hong Kong</td>
+                        <td class="align_center valign_top">275</td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                        
+                        <td class="cellpadding_bottom_3 align_justified">if required to be sent by
+                            airmail to an addressee outside Hong Kong</td>
+                        
+                        <td class="cellpadding_left_10">275 plus an additional fee equal to the
+                            airmail postage at the normal rate</td>
+                    </tr>
+                </table>
+                
+                
+                
+                
+            </content><sourceNote>(Part I replaced <ref href="/hk/1991/ln79">L.N. 79 of 1991</ref>. Amended <ref href="/hk/1993/ln208">L.N. 208 of 1993</ref>; <ref href="/hk/1994/ln342">L.N.
+                    342 of 1994</ref>; <ref href="/hk/1995/ln206">L.N. 206 of 1995</ref>; <ref href="/hk/1996/ln232">L.N. 232 of 1996</ref>; <ref href="/hk/1997/ln436">L.N.
+                    436 of 1997</ref>; <ref href="/hk/2006/8">8 of 2006 s. 40</ref>; <ref href="hk/2018/17">17 of 2018 s.
+                64</ref>)<marker role="blank-line"></marker><marker role="blank-line"></marker></sourceNote></part><part id="ID_1496023787300_002" name="P2" temporalId="sch4_P2"><num value="2">Part
+                II</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap176/s12">s.
+                12</ref>]</note><heading><inline class="not_bold font_size_11">Form
+                1</inline></heading><crossHeading><inline class="not_bold">Declaration for Correction of Error in
+                    Special
+                    Register of
+                Deaths</inline><marker role="blank-line"></marker><marker role="blank-line"></marker></crossHeading><text class="left_indent_0 first_line_indent_24">We,
+                    <i>A.B.</i> of
+                <fillIn class=" width_225">.</fillIn> and
+                    <i>C.D.</i>
+                of <fillIn class=" width_264">.</fillIn> solemnly and sincerely declare that when
+                the death of
+                    <i>E.F.</i>
+                was registered on the <fillIn class=" width_61">.</fillIn> day of <fillIn class=" width_120">.</fillIn>,<inline class="width_3"> </inline>the following
+                errors of fact or substance occurred in the register,
+                    <i>viz.</i>,
+                    (<i>here set forth the error or
+                errors</i>).<marker role="blank-line"></marker><marker role="blank-line"></marker></text><text class="left_indent_0 first_line_indent_24">And we further solemnly and sincerely
+                declare that the true facts of the case are as follows—(<i>here set forth the true
+                    facts</i>).<marker role="blank-line"></marker><marker role="blank-line"></marker></text><text class="left_indent_0 first_line_indent_24">And we make this solemn declaration
+                conscientiously believing the same to be true and by virtue of the Oaths and
+                Declarations Ordinance (<ref href="/hk/cap11">Cap.
+                11</ref>).<marker role="blank-line"></marker><marker role="blank-line"></marker></text><text>
+                <table xmlns="http://www.w3.org/1999/xhtml" frame="void" width="100%">
+                    
+                    <col width="65%"></col>
+                    
+                    <col width="35%"></col>
+                    <tbody>
+                        <tr>
+                            <td align="right">(Signed)</td>
+                            
+                            <td align="left" class="left_indent_4"><i>A.B.</i></td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            
+                            <td align="left" class="left_indent_4"><i>C.D.</i><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </text><text class="first_line_indent_0">Declared at <fillIn class=" width_228">.</fillIn> in
+                Hong Kong this <fillIn class=" width_54">.</fillIn> day of
+                    <fillIn class="width_110">.</fillIn></text><text>
+                <table xmlns="http://www.w3.org/1999/xhtml" frame="void" width="100%">
+                    <col width="60%"></col>
+                    <col width="40%"></col>
+                    <tbody>
+                        <tr>
+                            <td align="right">
+                                
+                                <p class="right_indent_10">Before me,</p>
+                            </td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            
+                            <td align="right">(Signed)</td>
+                            
+                            
+                            <td align="left"></td>
+                            
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td class="left_indent_10"><i>Registrar</i></td>
+                        </tr>
+                    </tbody>
+                </table>
+                
+                
+                
+            </text></part><sourceNote>(Replaced <ref href="/hk/1974/ln216">L.N. 216 of 1974</ref>. Amended <ref href="/hk/1994/ln499">L.N. 499 of 1994</ref>; <ref href="/hk/2006/8">8 of 2006 s.
+                40</ref>)</sourceNote></schedule></main></ordinance>

@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?><ordinance xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd" xml:lang="en"><meta><docName>Cap. 20</docName><docType>cap</docType><docNumber>20</docNumber><docStatus>In effect</docStatus><dc:identifier>/hk/cap20!en</dc:identifier><dc:date>2021-11-04</dc:date><dc:subject>legislation</dc:subject><dc:language>en</dc:language><dc:publisher>DoJ</dc:publisher><dc:rights>the Government of the Hong Kong Special Administrative Region</dc:rights></meta><main xml:lang="en" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd"><longTitle id="ID_1438402820383_001" name="longTitle" reason="inEffect" status="operational" temporalId="longTitle" startPeriod="2021-11-04">
+            <content>To consolidate and amend the law for preventing frauds upon creditors by secret
+                bills of sale of personal
+                chattels.<marker role="blank-line"></marker><marker role="blank-line"></marker></content>
+        </longTitle><commencementNote>[12 July 1886]</commencementNote><sourceNote>(Format changes—<ref href="/hk/2021/er5">E.R. 5 of 2021</ref>)</sourceNote><section id="ID_1438402820399_002" name="s1" reason="inEffect" startPeriod="2021-11-04" status="operational" temporalId="s1"><num value="1">1.</num><heading>Short title</heading><content>This Ordinance may be cited as the <shortTitle>Bills of Sale Ordinance</shortTitle>.</content><sourceNote>(Amended <ref href="/hk/1924/5">5 of 1924 s. 6</ref>)</sourceNote></section><section id="ID_1438402820414_001" name="s2" reason="inEffect" startPeriod="2021-11-04" status="operational" temporalId="s2"><num value="2">2.</num><heading>Interpretation</heading><leadIn>In this Ordinance, unless the context otherwise requires—</leadIn><def name="BillOfSale">
+            <leadIn><term>bill
+                    of
+                sale</term>
+                    (<term xml:lang="zh-Hant-HK">賣據</term>) includes bills of sale, assignments,
+                transfers, declarations of trust without transfer, inventories of goods with receipt
+                thereto attached, or receipts for purchase moneys of goods, and other assurances of
+                personal chattels, and also powers of attorney, authorities, or licences to take
+                possession of personal chattels as security for any debt, and also any agreement,
+                whether intended or not to be followed by the execution of any other instrument, by
+                which a right in equity to any personal chattels, or to any charge or security
+                thereon, is conferred, but does not include the following documents; that is to say,
+                assignments for the benefit of the creditors of the person making or giving the
+                same, marriage settlements, transfers or assignments of any ship or vessel or any
+                share thereof, transfers of goods in the ordinary course of business of any trade or
+                calling, bills of sale of goods in any place outside Hong Kong or at sea, bills of
+                lading, India warrants, warehouse keepers’ certificates, warrants or orders for the
+                delivery of goods, or any other documents used in the ordinary course of business as
+                proof of the possession or control of goods, or authorizing or purporting to
+                authorize, either by indorsement or by delivery, the possessor of such document to
+                transfer or receive goods thereby represented:</leadIn>
+            <proviso name="proviso" temporalId="s2_proviso">
+                <leadIn>Provided that—  <sourceNote>(Amended <ref href="/hk/1998/23">23 of 1998 s.
+                            2</ref>)</sourceNote></leadIn>
+                <paragraph id="ID_1438411523963_033" name="a" temporalId="s2_a"><num value="a">(a)</num><sourceNote>(Repealed <ref href="/hk/1967/55">55 of 1967 s.
+                        2</ref>)</sourceNote></paragraph>
+                <paragraph id="ID_1438411523963_041" name="b" temporalId="s2_b"><num value="b">(b)</num><content>an instrument charging or creating any security on or declaring trusts
+                        of imported goods given or executed at any time prior to their deposit in a
+                        warehouse, godown, factory or store, or to their being re-shipped for
+                        export, or delivered to a purchaser not being the person giving or executing
+                        such instrument, shall not be deemed a bill of sale, but nothing in this
+                        paragraph shall affect the operation of <ref>section 43</ref> of the
+                        Bankruptcy Ordinance (<ref href="/hk/cap6">Cap. 6</ref>), in respect of any
+                        goods comprised in any such instrument as is hereinbefore described, if such
+                        goods would but for this paragraph be goods within the meaning of that
+                            section;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1914/22">22 of 1914 ss. 2</ref> &amp; 3. Amended <ref href="/hk/1924/5">5 of 1924 s. 20</ref>)</sourceNote>
+                        <referenceNote>[cf. 1890 c. 53 s. 2 U.K.; 1891 c. 35 s. 1
+                            U.K.]</referenceNote></content></paragraph>
+            </proviso>
+        </def><def name="PersonalChattels"><term>personal
+                chattels</term>
+                (<term xml:lang="zh-Hant-HK">非土地實產</term>) means goods, furniture, and other
+            articles capable of complete transfer by delivery, and (when separately assigned or
+            charged) fixtures and growing crops, but does not include fixtures (except trade
+            machinery as hereinafter defined) when assigned together with any interest in any land
+            or building to which they are affixed, or growing crops when assigned together with any
+            interest in the land on which they grow, or shares or interests in the stock, funds, or
+            securities of any government or in the capital or property of incorporated or
+            joint-stock companies, or choses in action, or any stock or produce upon any farm or
+            lands which, by virtue of any covenant or agreement, ought not to be removed from any
+            farm where the same are at the time of making or giving of such bill of sale. Personal
+            chattels shall be deemed to be in the apparent possession of the person making or giving
+            a bill of sale, so long as they remain or are in or upon any house, mill, warehouse,
+            building, works, yard, land, or other premises occupied by him, or are used and enjoyed
+            by him in any place whatsoever, notwithstanding that formal possession thereof may have
+            been taken by or given to any other person;</def><def name="Prescribed"><term>prescribed</term>
+                (<term xml:lang="zh-Hant-HK">訂明</term>) means prescribed by rules made under the
+            provisions of this Ordinance;</def><def name="Registrar"><term>Registrar</term>
+                (<term xml:lang="zh-Hant-HK">司法常務官</term>) means the Registrar of the High
+                Court.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1911/50">50 of 1911</ref>; <ref href="/hk/1911/62">62 of 1911 </ref>Schedule; <ref href="/hk/1998/25">25 of 1998 s. 2</ref>)</sourceNote></def><sourceNote>(Amended <ref href="/hk/1911/50">50 of 1911 s. 4</ref>) </sourceNote><referenceNote>[cf. 1878 c. 31 s. 4 U.K.]</referenceNote></section><section id="ID_1438402820430_002" name="s3" reason="inEffect" startPeriod="2021-11-04" status="operational" temporalId="s3"><num value="3">3.</num><heading>Application of the Ordinance</heading><content>This Ordinance shall apply to every bill of sale (whether the same is absolute or subject or not subject to any trust), whereby the holder or grantee has power, either with or without notice and either immediately or at any future time, to seize or take possession of any personal chattels within Hong Kong comprised in or made subject to such bill of sale.</content><sourceNote>(Amended <ref href="/hk/1911/51">51 of 1911</ref>; <ref href="/hk/1911/62">62 of 1911 </ref>Schedule; <ref href="/hk/1985/33">33 of 1985 s. 2</ref>) </sourceNote><referenceNote>[cf. 1878 c. 31 s. 3 U.K.]</referenceNote></section><section id="ID_1438402820446_001" name="s4" reason="inEffect" startPeriod="2021-11-04" status="operational" temporalId="s4"><num value="4">4.</num><heading>Application of the Ordinance to trade machinery</heading><subsection id="ID_1438411524088_025" name="1" temporalId="s4_1"><num value="1">(1)</num><content>Trade machinery shall, for the purposes of this Ordinance, be deemed to be personal chattels, and any mode of disposition of trade machinery by the owner thereof which would be a bill of sale as to any other personal chattels shall be deemed to be a bill of sale within the meaning of this Ordinance.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1911/50">50 of 1911 s. 4</ref>)</sourceNote></content></subsection><subsection id="ID_1438411524088_033" name="2" temporalId="s4_2"><num value="2">(2)</num><def name="TradeMachinery"><leadIn>For the purposes of this Ordinance,
+                        <term>trade
+                        machinery</term>
+                        (<term xml:lang="zh-Hant-HK">營業機器</term>) means the machinery used in or
+                    attached to any factory or workshops—</leadIn><paragraph id="ID_1438411524088_041" name="a" temporalId="s4_2_a"><num value="a">(a)</num><content>exclusive of the fixed motive-powers, such as the water-wheels and steam engines, and the steam-boilers, donkey engines, and other fixed appurtenances of the said motive-powers; and</content></paragraph><paragraph id="ID_1438411524103_006" name="b" temporalId="s4_2_b"><num value="b">(b)</num><content>exclusive of the fixed power machinery, such as the shafts, wheels, drums, and their fixed appurtenances, which transmit the action of the motive-powers to the other machinery fixed and loose; and</content></paragraph><paragraph id="ID_1438411524103_014" name="c" temporalId="s4_2_c"><num value="c">(c)</num><content>exclusive of the pipes for steam, gas, and water in the factory or workshop.</content></paragraph></def></subsection><subsection id="ID_1438411524103_021" name="3" temporalId="s4_3"><num value="3">(3)</num><content>The machinery or effects excluded by this section from the definition of trade machinery shall not be deemed to be personal chattels within the meaning of this Ordinance.</content></subsection><subsection id="ID_1438411524103_029" name="4" temporalId="s4_4"><num value="4">(4)</num><def name="Factory,Workshop"><leadIn>For the purposes of this Ordinance,
+                        <term>factory</term>
+                        (<term xml:lang="zh-Hant-HK">工廠</term>) or
+                        <term>workshop</term>
+                        (<term xml:lang="zh-Hant-HK">工場</term>) means any premises on which any
+                    manual labour is exercised by way of trade, or for purposes of gain, in or
+                    incidental to the following purposes or any of them—</leadIn><paragraph id="ID_1438411524103_037" name="a" temporalId="s4_4_a"><num value="a">(a)</num><content>making any article or part of an article; or</content></paragraph><paragraph id="ID_1438411524103_045" name="b" temporalId="s4_4_b"><num value="b">(b)</num><content>altering, repairing, or finishing any article; or</content></paragraph><paragraph id="ID_1438411524103_053" name="c" temporalId="s4_4_c"><num value="c">(c)</num><content>adapting for sale any article.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1911/51">51 of 1911</ref>; <ref href="/hk/1911/62">62 of 1911 </ref>Schedule; <ref href="/hk/1924/5">5 of 1924 </ref><ref>Schedule</ref>)</sourceNote></content></paragraph></def></subsection><sourceNote> (Amended <ref href="/hk/1911/19">19 of 1911</ref>) </sourceNote><referenceNote>[cf. 1878 c. 31 s. 5 U.K.]</referenceNote></section><section id="ID_1438402820492_001" name="s5" reason="inEffect" startPeriod="2021-11-04" status="operational" temporalId="s5"><num value="5">5.</num><heading>Certain instruments giving power of distress to be subject to the Ordinance</heading><leadIn>Every attornment, instrument, or agreement, not being a mining lease, whereby a power of distress is given or agreed to be given by any person to any other person by way of security for any present, future, or contingent debt or advance, and whereby any rent is reserved or made payable as a mode of providing for the payment of interest on such debt or advance, or otherwise for the purpose of such security only, shall be deemed to be a bill of sale, within the meaning of this Ordinance, of any personal chattels which may be seized or taken under such power of distress:</leadIn><proviso name="proviso" temporalId="s5_proviso">Provided that nothing in this section shall extend to any mortgage of any estate or interest in any land or tenement which the mortgagee, being in possession, has demised to the mortgagor as his tenant at a fair and reasonable rent.</proviso><referenceNote>[cf. 1878 c. 31 s. 6 U.K.]</referenceNote></section><section id="ID_1438402820508_002" name="s6" reason="inEffect" startPeriod="2021-11-04" status="operational" temporalId="s6"><num value="6">6.</num><heading>Fixtures or growing crops not deemed separately assigned when land passes</heading><content>No fixtures or growing crops shall be deemed, under this Ordinance, to be separately assigned or charged by reason only that they are assigned by separate words, or that power is given to sever them from the land or building to which they are affixed, or from the land on which they grow, without otherwise taking possession of or dealing with such land or building, or land, if by the same instrument any leasehold interest in the land or building to which such fixtures are affixed, or in the land on which such crops grow, is also conveyed or assigned to the same person.</content><referenceNote>[cf. 1878 c. 31 s. 7 U.K.]</referenceNote></section><section id="ID_1438402820524_002" name="s7" reason="inEffect" startPeriod="2021-11-04" status="operational" temporalId="s7"><num value="7">7.</num><heading>Avoidance of bill of sale unless attested and registered</heading><leadIn>Every bill of sale shall be duly attested and shall be registered within 7 clear days after the execution thereof, or, if it is executed in any place out of Hong Kong, then within 7 clear days after the time at which it would, in the course of post, arrive in Hong Kong if posted immediately after the execution thereof, and shall truly set forth the consideration for which it was given; otherwise such bill of sale shall—</leadIn><paragraph id="ID_1438411524181_005" name="a" temporalId="s7_a"><num value="a">(a)</num><content>in the case of a bill of sale made or given by way of security for the payment of money, be void in respect of the chattels comprised therein; and</content></paragraph><paragraph id="ID_1438411524181_013" name="b" temporalId="s7_b"><num value="b">(b)</num><content>in the case of any other bill of sale, as against all trustees or assignees of the estate of the person whose chattels, or any of them, are comprised in such bill of sale under the law relating to bankruptcy or liquidation, or under any assignment for the benefit of the creditors of such person, and also as against all bailiffs and other persons seizing any chattels comprised in such bill of sale, in the execution of any process of any court authorizing the seizure of the chattels of the person by whom or of whose chattels such bill has been made, and also as against every person on whose behalf such process shall have been issued, be deemed fraudulent and void so far as regards the property in or right to possession of any chattels comprised in such bill of sale which, at or after the time of filing the petition for bankruptcy or liquidation, or of the execution of such assignment, or of executing such process, as the case may be, and after the expiration of such 7 clear days are in the possession or apparent possession of the person making such bill of sale, or of any person against whom the process has been issued under or in the execution of which such bill has been made or given, as the case may be.</content></paragraph><sourceNote>(Amended <ref href="/hk/1967/55">55 of 1967 s. 3</ref>; <ref href="/hk/1985/33">33 of 1985 s. 3</ref>) </sourceNote><referenceNote>[cf. 1882 c. 43 s. 8 U.K.]</referenceNote></section><section id="ID_1438402820539_002" name="s8" reason="inEffect" startPeriod="2021-11-04" status="operational" temporalId="s8"><num value="8">8.</num><heading>Avoidance of certain duplicate bills of sale</heading><content>Where a subsequent bill of sale is executed within or on the expiration of 7 days after the execution of a prior unregistered bill of sale, and comprises all or any part of the personal chattels comprised in such prior bill of sale, then, if such subsequent bill of sale is given as a security for the same debt as is secured by the prior bill of sale or for any part of such debt, it shall, to the extent to which it is a security for the same debt or part thereof and so far as respects the personal chattels or part thereof comprised in the prior bill, be absolutely void, unless it is proved, to the satisfaction of the court having cognizance of the case, that the subsequent bill of sale was bona fide given for the purpose of correcting some material error in the prior bill of sale, and not for the purpose of evading this Ordinance.</content><referenceNote>[cf. 1878 c. 31 s. 9 U.K.]</referenceNote></section><section id="ID_1438402820555_001" name="s9" reason="inEffect" startPeriod="2021-11-04" status="operational" temporalId="s9"><num value="9">9.</num><heading>Mode of registering bills of sale</heading><subsection id="ID_1438411524290_025" name="1" temporalId="s9_1"><num value="1">(1)</num><leadIn>A bill of sale shall be attested and registered under this Ordinance in the
+                following manner—</leadIn><paragraph id="ID_1438411524290_033" name="a" temporalId="s9_1_a"><num value="a">(a)</num><leadIn>in the case of—</leadIn><subparagraph id="ID_1438411524290_041" name="i" temporalId="s9_1_a_i"><num value="i">(i)</num><content>a bill of sale made or given by way of security for the payment of
+                        money, the execution of the bill by the grantor shall be witnessed by one or
+                        more credible witnesses, not being a party or parties thereto; and</content></subparagraph><subparagraph id="ID_1438411524306_007" name="ii" temporalId="s9_1_a_ii"><num value="ii">(ii)</num><content>any other bill of sale, the execution of the bill by the grantor shall
+                        be witnessed by a solicitor of the High Court if it is executed in Hong Kong
+                        or by a person authorized under the law of a place outside Hong Kong to
+                        administer oaths if it is executed in any place outside of Hong Kong, and
+                        the attestation shall state that before the execution of the bill the effect
+                        thereof has been explained to the grantor by the attesting solicitor or
+                        authorized person, as the case may be;<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/1967/55">55 of 1967 s.
+                                4</ref>. Amended <ref href="/hk/1998/25">25 of 1998 s.
+                            2</ref>)</sourceNote></content></subparagraph></paragraph><paragraph id="ID_1438411524306_014" name="b" temporalId="s9_1_b"><num value="b">(b)</num><content>the bill, with every schedule or inventory thereto annexed or therein
+                    referred to, and also a true copy of the bill, and of every such schedule or
+                    inventory, and of every attestation of the execution of the bill, together with
+                    an affidavit of the time of the bill being made or given and of its due
+                    execution and attestation, and a<inline class="width_3"> </inline>description of
+                    the residence and occupation of the person making or giving the same (or, in
+                    case the same is made or given by any person under or in execution of any
+                    process, then a description of the residence and occupation of the person
+                    against whom such process issued), and of every attesting witness to the bill
+                    shall be presented to, and the said copy and affidavit shall be filed with, the
+                    Registrar within 7 clear days after the making or giving of the bill;
+                    and</content></paragraph><paragraph id="ID_1438411524337_006" name="c" temporalId="s9_1_c"><num value="c">(c)</num><content>if the bill is made or given subject to any defeasance, condition, or
+                    declaration of trust not contained in the body thereof, such defeasance,
+                    condition, or declaration shall be deemed to be part of the bill, and shall be
+                    written on the same paper or parchment therewith before the registration, and
+                    shall be truly set forth in the copy filed under this Ordinance therewith and as
+                    part thereof, otherwise the registration shall be void.</content></paragraph></subsection><subsection id="ID_1438411524353_005" name="2" temporalId="s9_2"><num value="2">(2)</num><content>In case 2 or more bills of sale are given, comprising in whole or in part any
+                of the same chattels, they shall have priority in the order of the date of their
+                registration respectively as regards such chattels.</content></subsection><subsection id="ID_1438411524353_013" name="3" temporalId="s9_3"><num value="3">(3)</num><content>A transfer or assignment of a registered bill of sale need not be
+                registered.</content><referenceNote>[cf. 1878 c. 31 s. 10 U.K.; 1882 c. 43 s. 10 U.K.]</referenceNote></subsection></section><section id="ID_1438402820570_001" name="s10" reason="inEffect" startPeriod="2021-11-04" status="operational" temporalId="s10"><num value="10">10.</num><heading>Renewal of registration</heading><subsection id="ID_1438411524384_035" name="1" temporalId="s10_1"><num value="1">(1)</num><content>The registration of a bill of sale must be renewed once at least every 5 years, and if a period of 5 years elapses from the registration or renewed registration of a bill of sale without a renewal or further renewal, as the case may be, the registration shall become void.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1911/51">51 of 1911</ref>; <ref href="/hk/1911/62">62 of 1911 </ref>Schedule)</sourceNote></content></subsection><subsection id="ID_1438411524400_005" name="2" temporalId="s10_2"><num value="2">(2)</num><content>The renewal of a registration shall be effected by filing with the Registrar an affidavit stating the date of the bill of sale and of the last registration thereof, and the names, residences, and occupations of the parties thereto as stated therein, and that the bill of sale is still a subsisting security.</content></subsection><subsection id="ID_1438411524400_013" name="3" temporalId="s10_3"><num value="3">(3)</num><content>Every such affidavit may be in Form 1 in the <ref>Schedule</ref>.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1911/50">50 of 1911 s. 4</ref>)</sourceNote></content></subsection><subsection id="ID_1438411524400_021" name="4" temporalId="s10_4"><num value="4">(4)</num><content>A renewal of registration shall not become necessary by reason only of a transfer or assignment of a bill of sale.</content><referenceNote>[cf. 1878 c. 31 s. 11 U.K.]</referenceNote></subsection></section><section id="ID_1438402820570_003" name="s11" reason="inEffect" startPeriod="2021-11-04" status="operational" temporalId="s11"><num value="11">11.</num><heading>Bill of sale to have schedule of property attached</heading><content>Every bill of sale shall have annexed thereto or written thereunder a schedule containing an inventory of the personal chattels comprised in the bill of sale; and such bill of sale, save as hereinafter mentioned, shall have effect only in respect of the personal chattels specifically described in the said schedule, and shall be void, except as against the grantor, in respect of any personal chattels not so specifically described.</content><referenceNote>[cf. 1882 c. 43 s. 4 U.K.]</referenceNote></section><section id="ID_1438402820586_002" name="s12" reason="inEffect" startPeriod="2021-11-04" status="operational" temporalId="s12"><num value="12">12.</num><heading>Bill of sale not to affect after acquired property</heading><content>Save as hereinafter mentioned, a bill of sale shall be void, except as against the grantor, in respect of any personal chattels specifically described in the schedule thereto of which the grantor was not the true owner at the time of the execution of the bill of sale.</content><referenceNote>[cf. 1882 c. 43 s. 5 U.K.]</referenceNote></section><section id="ID_1438402820586_004" name="s13" reason="inEffect" startPeriod="2021-11-04" status="operational" temporalId="s13"><num value="13">13.</num><heading>Exception as to certain things</heading><leadIn>Nothing hereinbefore contained shall render a bill of sale void in respect of any of the following things—</leadIn><paragraph id="ID_1438411524462_026" name="a" temporalId="s13_a"><num value="a">(a)</num><content>any growing crops separately assigned or charged where such crops were actually growing at the time when the bill of sale was executed; and</content></paragraph><paragraph id="ID_1438411524462_034" name="b" temporalId="s13_b"><num value="b">(b)</num><content>any fixtures separately assigned or charged and any plant or trade machinery where such fixtures, plant, or trade machinery are or is used in, attached to, or brought upon any land, farm, factory, workshop, shop, house, warehouse, or other place in substitution for any of the like fixtures, plant, or trade machinery specifically described in the schedule to such bill of sale.</content><referenceNote>[cf. 1882 c. 43 s. 6 U.K.]</referenceNote></paragraph></section><section id="ID_1438402820617_002" name="s14" reason="inEffect" startPeriod="2021-11-04" status="operational" temporalId="s14"><num value="14">14.</num><heading>Limitation of causes of seizure</heading><leadIn>Personal chattels assigned under any bill of sale made or given by way of security
+            for the payment of money shall not be liable to be seized or taken possession of by the
+            grantee for any other than the following causes—  <sourceNote>(Amended <ref href="/hk/1967/55">55 of 1967 s. 5</ref>)</sourceNote></leadIn><paragraph id="ID_1438411524493_012" name="a" temporalId="s14_a"><num value="a">(a)</num><content>if the grantor makes default in payment of the sum or sums of money thereby
+                secured at the time therein provided for payment or in the performance of any
+                covenant or agreement contained in the bill of sale and necessary for maintaining
+                the security; or</content></paragraph><paragraph id="ID_1438411524493_020" name="b" temporalId="s14_b"><num value="b">(b)</num><content>if the grantor becomes a bankrupt or suffers the said goods or any of them to
+                be distrained for rent, rates, or taxes; or</content></paragraph><paragraph id="ID_1438411524493_028" name="c" temporalId="s14_c"><num value="c">(c)</num><content>if the grantor fraudulently either removes or suffers the said goods or any of
+                them to be removed from the premises; or</content></paragraph><paragraph id="ID_1438411524493_036" name="d" temporalId="s14_d"><num value="d">(d)</num><content>if the grantor does not, without reasonable excuse, upon demand in writing by
+                the grantee, produce to him his last receipts for rent, rates, and taxes;
+                or</content></paragraph><paragraph id="ID_1438411524509_006" name="e" temporalId="s14_e"><num value="e">(e)</num><content>if execution has been levied against the goods of the grantor under any
+                judgment at law:</content></paragraph><proviso>Provided that the grantor may, within 5 days from the seizure or taking possession
+            of any chattels on account of any of the above-mentioned causes, apply to the court or
+            judge who may, if satisfied that, by payment of money or otherwise, the said cause of
+            seizure no longer exists, restrain the grantee from removing or selling the said
+            chattels or may make such other order as may seem just.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1911/50">50 of 1911</ref>; <ref href="/hk/1911/51">51 of 1911</ref>; <ref href="/hk/1911/62">62 of 1911
+                    </ref><ref>Schedule</ref>; <ref href="/hk/1911/63">63 of 1911
+                    </ref><ref>Schedule</ref>)</sourceNote><content class="align_right"><referenceNote>[cf. 1882 c. 43 s. 7 U.K.]</referenceNote></content></proviso></section><section id="ID_1438402820633_002" name="s15" reason="inEffect" startPeriod="2021-11-04" status="operational" temporalId="s15"><num value="15">15.</num><heading>Form of bill of sale</heading><content>A bill of sale made or given by way of security for the payment of money by the grantor thereof shall be void unless made in accordance with Form 2 in the <ref>Schedule</ref>.</content><sourceNote>(Amended <ref href="/hk/1911/50">50 of 1911 s. 4</ref>) </sourceNote><referenceNote>[cf. 1882 c. 43 s. 9 U.K.]</referenceNote></section><section id="ID_1438402820648_001" name="s16" reason="inEffect" startPeriod="2021-11-04" status="operational" temporalId="s16"><num value="16">16.</num><heading>Avoidance of bill of sale under $150</heading><content>Every bill of sale made or given by way of security for the payment of money in consideration of any sum under $150 shall be void.</content><sourceNote>(Amended <ref href="/hk/1967/55">55 of 1967 s. 6</ref>)</sourceNote><referenceNote>[cf. 1882 c. 43 s. 12 U.K.]</referenceNote></section><section id="ID_1438402820648_003" name="s17" reason="inEffect" startPeriod="2021-11-04" status="operational" temporalId="s17"><num value="17">17.</num><heading>Rule as to situation and sale of chattels</heading><content>All personal chattels seized or of which possession is taken under or by virtue of any bill of sale shall remain on the premises where they were so seized or so taken possession of, and shall not be removed or sold until after the expiration of 5 clear days from the day they were so seized or so taken possession of.</content><sourceNote>(Amended <ref href="/hk/1911/50">50 of 1911</ref>; <ref href="/hk/1911/62">62 of 1911 </ref>Schedule) </sourceNote><referenceNote>[cf. 1882 c. 43 s. 13 U.K.]</referenceNote></section><section id="ID_1438402820664_002" name="s18" reason="inEffect" startPeriod="2021-11-04" status="operational" temporalId="s18"><num value="18">18.</num><heading>Bill of sale not to protect chattels against rates and taxes</heading><content>A bill of sale to which this Ordinance applies shall be no protection in respect of personal chattels included in such bill of sale which, but for such bill of sale, would have been liable to distress under a warrant or order for the recovery of rates and taxes.</content><referenceNote>[cf. 1882 c. 43 s. 14 U.K.]</referenceNote></section><section id="ID_1438402820680_001" name="s19" reason="inEffect" startPeriod="2021-11-04" status="operational" temporalId="s19"><num value="19">19.</num><heading>Form of register</heading><subsection id="ID_1438411524602_004" name="1" temporalId="s19_1"><num value="1">(1)</num><content>The Registrar shall keep a book (in this Ordinance called the
+                        <b><i>register</i></b>)
+                for the purposes of this Ordinance, and shall, on the filing of any bill of sale or
+                copy under this Ordinance, enter therein, in Form 3 in the <ref>Schedule</ref> or in
+                any other prescribed form, the name, residence, and occupation of the person by whom
+                the bill was made or given, or, in case the same was made or given by any person
+                under or in the execution of process, then the name, residence, and occupation of
+                the person against whom such process was issued, and also the name of the person to
+                whom or in whose favour the bill was given, and the other particulars shown in the
+                said form or to be prescribed under this Ordinance, and shall number all such bills
+                registered in each year consecutively, according to the respective dates of their
+                    registration.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1911/50">50 of 1911 s. 4</ref>)</sourceNote></content></subsection><subsection id="ID_1438411524634_005" name="2" temporalId="s19_2"><num value="2">(2)</num><content>On the registration of any affidavit of renewal, the like entry shall be made, with the addition of the date and number of the last previous entry relating to the same bill, and the bill of sale or copy originally filed shall be thereupon marked with the number affixed to such affidavit of renewal.</content></subsection><subsection id="ID_1438411524634_013" name="3" temporalId="s19_3"><num value="3">(3)</num><content>The Registrar shall also keep an index of the names of the grantors of registered bills of sale with reference to entries in the register of the bills of sale given by each grantor.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1911/50">50 of 1911</ref>; <ref href="/hk/1911/62">62 of 1911 </ref>Schedule)</sourceNote></content></subsection><subsection id="ID_1438411524634_021" name="4" temporalId="s19_4"><num value="4">(4)</num><content>Such index shall be arranged in divisions corresponding with the letters of the alphabet, so that all grantors whose surnames begin with the same letter (and no others) shall be comprised in one division, but the arrangement within each such division need not be alphabetical.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1911/50">50 of 1911</ref>; <ref href="/hk/1911/62">62 of 1911 </ref>Schedule)</sourceNote></content><referenceNote>[cf. 1878 c. 31 s. 12 U.K.]</referenceNote></subsection></section><section id="ID_1438402820680_003" name="s20" reason="inEffect" startPeriod="2021-11-04" status="operational" temporalId="s20"><num value="20">20.</num><heading>Rectification of register</heading><content>A judge on being satisfied that the omission to register a bill of sale or an affidavit of renewal thereof within the time prescribed by this Ordinance, or the omission or mis-statement of the name, residence, or occupation of any person, was accidental or due to inadvertence, may order such omission or mis-statement to be rectified by the insertion in the register of the true name, residence, or occupation, or by extending the time for such registration, on such terms and conditions, if any, as to security, notice by advertisement or otherwise, or as to any other matter, as he thinks fit to direct.</content><sourceNote>(Amended <ref href="/hk/1911/50">50 of 1911</ref>; <ref href="/hk/1911/62">62 of 1911 </ref>Schedule) </sourceNote><referenceNote>[cf. 1878 c. 31 s. 14 U.K.]</referenceNote></section><section id="ID_1438402820695_002" name="s21" reason="inEffect" startPeriod="2021-11-04" status="operational" temporalId="s21"><num value="21">21.</num><heading>Entry of satisfaction</heading><content>Subject to and in accordance with any rules to be made under this Ordinance, the Registrar may order a memorandum of satisfaction to be written upon any registered copy of a bill of sale, on the prescribed evidence being given that the debt, if any, for which such bill of sale was made or given has been satisfied or discharged.</content><sourceNote>(Amended <ref href="/hk/1911/50">50 of 1911</ref>; <ref href="/hk/1911/62">62 of 1911 </ref>Schedule) </sourceNote><referenceNote>[cf. 1878 c. 31 s. 15 U.K.]</referenceNote></section><section id="ID_1438402821007_001" name="s22" reason="inEffect" startPeriod="2021-11-04" status="operational" temporalId="s22"><num value="22">22.</num><heading>Right to have copies</heading><subsection id="ID_1438411524712_032" name="1" temporalId="s22_1"><num value="1">(1)</num><content>Any person shall be entitled to have an office copy or extract of any
+                registered bill of sale and affidavit of execution filed therewith, or copy thereof,
+                and of any affidavit filed therewith, or registered affidavit of renewal, on paying
+                for the same at the like rate as for office copies of judgments of the High
+                    Court.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1998/25">25 of 1998 s. 2</ref>)</sourceNote></content></subsection><subsection id="ID_1438411524712_040" name="2" temporalId="s22_2"><num value="2">(2)</num><content>Any copy of a registered bill of sale, and affidavit purporting to be an office
+                copy thereof, shall, in all courts and before all arbitrators or other persons, be
+                admitted as prima facie evidence thereof and of the fact and date of registration as
+                shown thereon.</content></subsection><subsection id="ID_1438411524727_005" name="3" temporalId="s22_3"><num value="3">(3)</num><content>
+                <leadIn>Any person shall be entitled at all reasonable times to search the register
+                    on payment of a fee prescribed in the Bills of Sale (Fees) Regulations (<ref href="/hk/cap20A">Cap. 20 sub. leg. A</ref>), and shall be entitled at all
+                    reasonable times to inspect, examine, and make extracts from any and every
+                    registered bill of sale made or given by way of security for the payment of
+                    money, without being required to make a written application or to specify any
+                    particulars in reference thereto, on payment of a fee prescribed in the Bills of
+                    Sale (Fees) Regulations (<ref href="/hk/cap20A">Cap. 20 sub. leg.
+                        A</ref>):<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1985/33">33 of 1985 s.
+                        4</ref>; <ref href="/hk/2021/er5">E.R. 5 of
+                        2021</ref>)</sourceNote></leadIn>
+            </content></subsection><proviso name="proviso" temporalId="s22_3_proviso">Provided that the said extracts shall be
+            limited to the dates of execution, registration, renewal of registration, and
+            satisfaction, to the names, addresses and occupations of the parties, to the amount of
+            the consideration, and to any further particulars prescribed by any rules made under
+            this Ordinance.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1911/50">50 of 1911</ref>; <ref href="/hk/1911/62">62 of 1911
+                </ref>Schedule; <ref href="/hk/1950/9">9 of 1950 </ref><ref>Schedule</ref>; <ref href="/hk/1967/55">55 of 1967 s. 7</ref>)</sourceNote><inline class="width_3"> </inline><referenceNote>[cf. 1882 c. 43 s. 16 U.K.]</referenceNote><content class="align_right"><referenceNote>[cf. 1878 c. 31 s. 16
+                U.K.]</referenceNote></content></proviso></section><section id="ID_1438402821023_001" name="s23" reason="inEffect" startPeriod="2021-11-04" status="operational" temporalId="s23"><num value="23">23.</num><heading>Fees</heading><text>The Chief Executive in Council may by regulation provide for fees to be taken by the
+            Registrar. </text><sourceNote>(Replaced <ref href="/hk/1950/9">9 of 1950 </ref>Schedule. Amended <ref href="/hk/1999/23">23 of 1999 s. 3</ref>)</sourceNote></section><section id="ID_1438402821148_001" name="s24" reason="inEffect" startPeriod="2021-11-04" status="operational" temporalId="s24"><num value="24">24.</num><heading>Making of rules</heading><text>Rules for the purposes of this Ordinance may be made by the like persons and in the
+            like manner in which rules may be made under the High Court Ordinance (<ref href="/hk/cap4">Cap. 4</ref>).</text><sourceNote>(Amended <ref href="/hk/1911/50">50 of 1911</ref>; <ref href="/hk/1911/62">62 of
+                1911 </ref>Schedule; <ref href="/hk/1948/20">20 of 1948 s. 4</ref>; <ref href="/hk/1998/25">25 of 1998 s. 2</ref>)</sourceNote><referenceNote>[cf. 1878 c. 31 s. 21 U.K.]</referenceNote></section><section id="ID_1438402821163_001" name="s25" reason="inEffect" startPeriod="2021-11-04" status="operational" temporalId="s25"><num value="25">25.</num><heading>Time of registration</heading><text>When the time for registering a bill of sale expires on a Sunday or other day on which
+            the offices of the High Court are closed, such registration shall be valid if made on
+            the next following day on which the offices are open.</text><sourceNote>(Amended <ref href="/hk/1998/25">25 of 1998 s. 2</ref>)</sourceNote><referenceNote>[cf. 1878 c. 31 s. 22 U.K.]</referenceNote></section><section id="ID_1438402821179_001" name="s26" reason="inEffect" startPeriod="2021-11-04" status="operational" temporalId="s26"><num value="26">26.</num><heading>Exclusion of certain debentures</heading><content>Nothing in this Ordinance shall apply to any debentures issued by any mortgage, loan, or other incorporated company and secured upon the capital, stock, or goods, chattels, and effects of such company.</content><referenceNote>[cf. 1882 c. 43 s. 17 U.K.]</referenceNote></section><schedule id="ID_1438402821179_003" name="sch0" reason="inEffect" startPeriod="2021-11-04" status="operational" temporalId="sch0"><num value="0">Schedule</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap20/s10">s.
+                10</ref>]</note><crossHeading>Form
+            1</crossHeading><crossHeading><b>Affidavit of renewal
+            </b><marker role="blank-line"></marker><marker role="blank-line"></marker></crossHeading><text class="left_indent_0 first_line_indent_24 align_justified">I, A.B.,
+                of<inline class="width_110"> </inline>, do swear that a bill of sale, bearing date
+                the<inline class="width_20"> </inline>day
+                of<inline class="width_60"> </inline>,
+                19<inline class="width_15"> </inline>, and made between [insert names and descriptions of the
+            parties in the original bill of sale] and which said bill of sale [or and a copy of
+            which said bill of sale, as the case may be] was registered on
+                the<inline class="width_20"> </inline>day
+                of<inline class="width_60"> </inline>,
+                19<inline class="width_15"> </inline>, is still a subsisting security.</text><text class="left_indent_0 first_line_indent_24">Sworn, etc.
+            <marker role="blank-line"></marker><marker role="blank-line"></marker></text><text class="align_center">
+            <fillIn class=" width_90">_</fillIn>
+            <marker role="blank-line"></marker>
+            <marker role="blank-line"></marker>
+        </text><crossHeading>Form
+            2</crossHeading><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap20/s15">s.
+                15</ref>]</note><crossHeading><b>Bill of
+            sale</b><marker role="blank-line"></marker><marker role="blank-line"></marker></crossHeading><text class="left_indent_0 first_line_indent_24 align_justified">This Indenture made
+                the<inline class="width_20"> </inline>day
+                of<inline class="width_60"> </inline>,
+                19<inline class="width_15"> </inline>, between A.B.,
+                of<inline class="width_70"> </inline><inline class="width_100"> </inline>of the one part and C.D.,
+                of<inline class="width_50"> </inline><inline class="width_100"> </inline>of
+            the other part, witnesseth that, in consideration of the sum of
+                $<inline class="width_48"> </inline>now paid to A.B. by C.D., the receipt of which
+            sum the said A.B. hereby acknowledges [or whatever else the consideration may be], he,
+            the said A.B. doth hereby assign unto C.D., his executors, administrators, and assigns,
+            all and singular the several chattels and things specifically described in the schedule
+            hereto annexed by way of security for the payment of the sum of
+                $<inline class="width_60"> </inline>and interest thereon at the rate
+                of<inline class="width_65"> </inline>per cent per annum [or whatever else may be the rate].
+            And the said A.B. doth further agree and declare that he will duly pay to the said C.D.
+            the principal sum aforesaid, together with the interest then due, by
+                equal<inline class="width_80"> </inline>payments of
+                $<inline class="width_5"> </inline><inline class="width_40"> </inline>on
+                the<inline class="width_20"> </inline>day
+                of<inline class="width_60"> </inline>,
+                19<inline class="width_15"> </inline>, [or whatever else may be the stipulated time or times
+            of payment]. And the said A.B. doth also agree with the said C.D. that he will [here
+            insert term as to insurance, payment of rent, or otherwise, which the parties may agree
+            to for the maintenance or defeasance of the security]: Provided always that the chattels
+            hereby assigned shall not be liable to seizure or to be taken possession of by the said
+            C.D. for any cause other than those specified in <ref>section 14</ref> of the Bills of
+            Sale Ordinance (<ref href="/hk/cap20">Cap.
+            20</ref>).</text><text class="left_indent_0 first_line_indent_24">In witness, etc.
+            <marker role="blank-line"></marker><marker role="blank-line"></marker></text><text class="left_indent_0 first_line_indent_24">Signed and sealed by the said A.B. in the
+            presence of me, E.F.</text><text class="left_indent_0 first_line_indent_24">[add witness’s name, address, and
+            description].<marker role="section-break"></marker></text><crossHeading>Form
+            3</crossHeading><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap20/s19">s.
+                19</ref>]</note><crossHeading><b>Register</b><marker role="blank-line"></marker><marker role="blank-line"></marker></crossHeading><text>
+            
+            <table xmlns="http://www.w3.org/1999/xhtml" class="font_size_8">
+                <col width="8.4757%"></col>
+                <col width="8.4479%"></col>
+                <col width="7.3993%"></col>
+                <col width="11.7292%"></col>
+                <col width="12.7569%"></col>
+                <col width="7.2986%"></col>
+                <col width="11.7951%"></col>
+                <col width="6.2014%"></col>
+                <col width="12.8854%"></col>
+                <col width="13.0139%"></col>
+                <tr>
+                    
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 valign_center align_center border_left_0.75" rowspan="2">Satis-<br xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"></br>faction<br xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"></br>entered</td>
+                    
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 valign_center align_center" rowspan="2">Number</td>
+                    
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 valign_center align_center" colspan="3">By
+                        whom given (or
+                        against<br xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"></br>whom process
+                        issued)</td>
+                    
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 valign_center align_center" rowspan="2">To
+                        <br xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"></br>whom<br xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"></br>given</td>
+                    
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 valign_center align_center" rowspan="2">Nature
+                        of
+                        instrument</td>
+                    
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 valign_center align_center" rowspan="2">Date</td>
+                    
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 valign_center align_center" rowspan="2">Date
+                        of<br xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"></br>registration</td>
+                    
+                    <td class="border_top_0.75 border_bottom_0.75 border_left_0.75 border_right_0.75" rowspan="2">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Date of registration
+                            of affidavit of renewal</center>
+                    </td>
+                </tr>
+                <tr>
+                    
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 valign_center align_center">Name
+                        </td>
+                    
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 valign_center align_center">Residence</td>
+                    
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 valign_center align_center">Occupation</td>
+                </tr>
+                <tr>
+                    
+                    <td class="border_top_0.75 border_right_0.75 border_left_0.75" rowspan="2">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_left_0.75" rowspan="2">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    
+                    <td class="border_top_0.75 border_left_0.75 border_right_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_right_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td class="border_right_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td class="border_right_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td class="border_right_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td class="border_right_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td class="border_right_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td class="border_right_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    
+                    <td class="border_left_0.75 border_right_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                </tr>
+                <tr>
+                    
+                    <td class="border_left_0.75 border_right_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td class="border_right_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td class="border_right_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td class="border_right_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td class="border_right_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td class="border_right_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td class="border_right_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td class="border_right_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td class="border_right_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    
+                    <td class="border_left_0.75 border_right_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                </tr>
+                
+                <tr>
+                    
+                    <td class="border_right_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td class="border_right_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td class="border_right_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td class="border_right_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td class="border_right_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td class="border_right_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td class="border_right_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td class="border_right_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td class="border_right_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    
+                    <td class="border_left_0.75 border_right_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                </tr>
+                <tr>
+                    
+                    <td class="border_right_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td class="border_right_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td class="border_right_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td class="border_right_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td class="border_right_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td class="border_right_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td class="border_right_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td class="border_right_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td class="border_right_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    
+                    <td class="border_left_0.75 border_right_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                </tr>
+                <tr>
+                    
+                    <td class="border_right_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td class="border_right_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td class="border_right_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td class="border_right_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td class="border_right_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td class="border_right_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td class="border_right_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td class="border_right_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td class="border_right_0.75 border_left_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    
+                    <td class="border_left_0.75 border_right_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                </tr>
+                
+            </table>
+            <marker role="blank-line"></marker>
+            <marker role="blank-line"></marker>
+        </text></schedule></main></ordinance>

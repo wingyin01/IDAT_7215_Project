@@ -1,0 +1,985 @@
+<?xml version="1.0" encoding="UTF-8"?><subLeg xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd" xml:lang="en"><meta><docName>Cap. 369 sub. leg. AT</docName><docType>cap</docType><docNumber>369AT</docNumber><docStatus>In effect</docStatus><dc:identifier>/hk/cap369AT!en</dc:identifier><dc:date>2020-04-02</dc:date><dc:subject>legislation</dc:subject><dc:language>en</dc:language><dc:publisher>DoJ</dc:publisher><dc:rights>the Government of the Hong Kong Special Administrative Region</dc:rights></meta><main xml:lang="en" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd"><docTitle id="ID_1438403088953_002" name="shortTitle" reason="inEffect" status="operational" temporalId="shortTitle" startPeriod="2020-04-02">Merchant
+            Shipping
+            (Safety) (Subdivision
+            and
+            Damage Stability
+            of
+            Cargo
+            Ships)
+            Regulation</docTitle><sourceNote>(<ref href="hk/1999/ln99">L.N. 99 of 1999</ref>)</sourceNote><enactingFormula role="empoweringSection">(<ref href="/hk/cap369/s96">Cap. 369, sections 96</ref>, <ref href="/hk/cap369/s107">107</ref> and <ref href="/hk/cap369/s112A">112A</ref>)</enactingFormula><sourceNote class="align_right">(Enacting provision omitted—<ref href="/hk/2020/er2">E.R. 2
+                of 2020</ref>)</sourceNote><commencementNote>[3 July 1992]</commencementNote><sourceNote class="align_right">(Format changes—<ref href="/hk/2020/er2">E.R. 2 of
+                2020</ref>)</sourceNote><part id="ID_1438403088969_002" name="P1" reason="inEffect" startPeriod="2020-04-02" status="operational" temporalId="P1"><num value="1">Part
+            I</num><heading>General</heading><section id="ID_1438403088984_001" name="s1" reason="inEffect" startPeriod="2020-04-02" status="operational" temporalId="s1"><num value="1">1.</num><heading>Interpretation</heading><leadIn>In this Regulation, unless the context otherwise requires—</leadIn><def name="AftTerminal"><term>aft
+                terminal</term>
+                (<term xml:lang="zh-Hant-HK">後端點</term>) means the aft limit of the subdivision
+            length;</def><def name="BreadthB"><term>breadth
+                (B)</term>
+                (<term xml:lang="zh-Hant-HK">船寬(B)</term>) means the greatest moulded breadth of the
+            ship at or below the deepest subdivision load line;</def><def name="CertifyingAuthority"><term>Certifying
+                Authority</term>
+                (<term xml:lang="zh-Hant-HK">核證當局</term>) has the meaning assigned to it in the
+            Merchant Shipping (Safety) (Cargo Ship Construction and Survey) (Ships Built On or After
+            1 September 1984) Regulations (<ref href="/hk/cap369S">Cap. 369 sub.
+                leg.
+                S</ref>);
+            <sourceNote>(<ref href="/hk/2020/er2">E.R. 2 of
+            2020</ref>)</sourceNote></def><def name="DeepestSubdivisionLoadLine"><term>deepest
+                subdivision load
+            line</term>
+                (<term xml:lang="zh-Hant-HK">最深分艙載重線</term>) means the subdivision load line which
+            corresponds to the summer draught to be assigned to the ship in accordance with the
+            Merchant Shipping (Safety) (Load Line) Regulations (<ref href="/hk/cap369AD">Cap. 369
+                sub.
+                leg.
+                AD</ref>);
+            <sourceNote>(<ref href="/hk/2020/er2">E.R. 2 of
+            2020</ref>)</sourceNote></def><def name="Draughtd"><term>draught
+                (d)</term>
+                (<term xml:lang="zh-Hant-HK">吃水(d)</term>) in relation to any waterline means the
+            vertical distance from the moulded baseline at mid-length to that waterline;</def><def name="ForwardTerminal"><term>forward
+                terminal</term>
+                (<term xml:lang="zh-Hant-HK">前端點</term>) means the forward limit of the subdivision
+            length;</def><def name="FreeboardDeck"><term>freeboard
+                deck</term>
+                (<term xml:lang="zh-Hant-HK">乾舷甲板</term>) has the meaning assigned to it in the
+            Merchant Shipping (Safety) (Load Line) Regulations (<ref href="/hk/cap369AD">Cap. 369
+                sub.
+                leg.
+                AD</ref>);
+            <sourceNote>(<ref href="/hk/2020/er2">E.R. 2 of
+            2020</ref>)</sourceNote></def><def name="Midlength"><term>mid-length</term>
+                (<term xml:lang="zh-Hant-HK">船長度中點</term>) means the mid-point of the subdivision
+            length of the ship;</def><def name="PartialLoadLine"><term>partial
+                load
+            line</term>
+                (<term xml:lang="zh-Hant-HK">部分載重線</term>) means the light ship draught plus 60% of
+            the difference between the light ship draught and the deepest subdivision load
+            line;</def><def name="Permeabilitym"><term>permeability
+                (μ)</term>
+                (<term xml:lang="zh-Hant-HK">滲透率(μ)</term>) in relation to a space means the
+            proportion of the immersed volume of that space which can be occupied by water;</def><def name="SubdivisionLengthLS"><term>subdivision
+                length
+            (L<sub>S</sub>)</term>
+                (<term xml:lang="zh-Hant-HK">分艙長度(L<sub>S</sub>)</term>) means the greatest
+            projected moulded length of that part of the ship at or below deck or decks limiting the
+            vertical extent of flooding with the ship at the deepest subdivision load line;</def><def name="SubdivisionLoadLine"><term>subdivision
+                load
+            line</term>
+                (<term xml:lang="zh-Hant-HK">分艙載重線</term>) means a waterline used in determining the
+            subdivision of the ship in accordance with this Regulation;</def><def name="Watertight"><term>watertight</term>
+                (<term xml:lang="zh-Hant-HK">水密</term>) in relation to any structure means, capable
+            of preventing the passage of water, through the structure in any direction under the
+            maximum head of water which such structure might have to sustain in the event of damage
+            to the ship but for structures below the freeboard deck at least the head of water up to
+            the freeboard deck.</def></section><section id="ID_1438403088984_003" name="s2" reason="inEffect" startPeriod="2020-04-02" status="operational" temporalId="s2"><num value="2">2.</num><heading>Application</heading><subsection id="ID_1438412168260_004" name="1" temporalId="s2_1"><num value="1">(1)</num><leadIn>Subject to subsection (2), this Regulation shall apply to any seagoing cargo ship registered in Hong Kong which is—</leadIn><paragraph id="ID_1438412168260_012" name="a" temporalId="s2_1_a"><num value="a">(a)</num><content>over 100 metres in subdivision length and constructed on or after 1
+                    February 1992
+                    and before 1 January 2009; and</content></paragraph><paragraph id="ID_1438412168260_020" name="b" temporalId="s2_1_b"><num value="b">(b)</num><content>80 metres in subdivision length and upwards but not exceeding 100 metres in
+                    subdivision length and constructed on or after 1 July
+                    1998 and
+                    before 1 January 2009.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1999/ln99">L.N. 99 of
+                        1999</ref>; <ref href="hk/2018/ln258">L.N. 258 of 2018</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438412168260_027" name="2" temporalId="s2_2"><num value="2">(2)</num><leadIn>This Regulation shall not apply to a ship which conforms to the requirements relating to subdivision and damage stability specified in—</leadIn><paragraph id="ID_1438412168260_035" name="a" temporalId="s2_2_a"><num value="a">(a)</num><content>Annex 1 to the International Convention for the Prevention of Pollution from Ships 1973 as amended by the Protocol of 1978;</content></paragraph><paragraph id="ID_1438412168260_043" name="b" temporalId="s2_2_b"><num value="b">(b)</num><content>International Bulk Chemical Code (Resolution MSC 4(48) and MSC 10(54));</content></paragraph><paragraph id="ID_1438412168260_051" name="c" temporalId="s2_2_c"><num value="c">(c)</num><content>International Gas Carrier Code (Resolution MSC 5(48));</content></paragraph><paragraph id="ID_1438412168260_059" name="d" temporalId="s2_2_d"><num value="d">(d)</num><content>Guidelines for the Design and Construction of Offshore Supply Vessels (Resolution A.469(XII));</content></paragraph><paragraph id="ID_1438412168275_006" name="e" temporalId="s2_2_e"><num value="e">(e)</num><content>Code of Safety for Special Purpose Ships (Resolution A.534(13)); or</content></paragraph><paragraph id="ID_1438412168275_014" name="f" temporalId="s2_2_f"><num value="f">(f)</num><content><ref>regulation 27</ref> of the 1966 Load Line Convention for bulk carriers assigned B-60 or B-100 freeboards.</content></paragraph></subsection></section><section id="ID_1438403089000_002" name="s3" reason="inEffect" startPeriod="2020-04-02" status="operational" temporalId="s3"><num value="3">3.</num><heading>Exemptions</heading><content>The Director may, subject to such terms (if any) as he may specify, exempt any ship or any class of ship from the application of any specified provision of this Regulation.</content></section></part><part id="ID_1438403089016_001" name="P2" reason="inEffect" startPeriod="2020-04-02" status="operational" temporalId="P2"><num value="2">Part
+            II</num><heading>Watertight
+            Subdivision</heading><section id="ID_1438403089016_003" name="s4" reason="inEffect" startPeriod="2020-04-02" status="operational" temporalId="s4"><num value="4">4.</num><heading>Compliance with watertight subdivision</heading><subsection id="ID_1438412168322_011" name="1" temporalId="s4_1"><num value="1">(1)</num><content>Every ship shall be subdivided by watertight bulkheads into compartments to provide the ship with subdivision and damage stability of a standard which shall not be less than the required subdivision index “R” calculated in accordance with the <ref>Schedule</ref>.</content></subsection><subsection id="ID_1438412168322_019" name="2" temporalId="s4_2"><num value="2">(2)</num><content>If
+                subsection (1) is contravened in relation to a ship, the owner of the ship commits
+                an offence and is liable to a fine at level 3. <sourceNote>(<ref href="hk/2018/ln258">L.N. 258 of 2018</ref>)</sourceNote></content></subsection></section></part><part id="ID_1438403089031_001" name="P3" reason="inEffect" startPeriod="2020-04-02" status="operational" temporalId="P3"><num value="3">Part
+            III</num><heading>Stability
+            Information</heading><section id="ID_1438403089031_003" name="s5" reason="inEffect" startPeriod="2020-04-02" status="operational" temporalId="s5"><num value="5">5.</num><heading>Stability information</heading><subsection id="ID_1438412168353_011" name="1" temporalId="s5_1"><num value="1">(1)</num><leadIn>There shall be supplied to the master of the ship such reliable information as is necessary to enable him by rapid and simple means to obtain accurate guidance as to the stability of the ship under varying conditions of service. The information shall include—</leadIn><paragraph id="ID_1438412168353_019" name="a" temporalId="s5_1_a"><num value="a">(a)</num><content>a curve of minimum operational metacentric height (GM) versus draught which
+                    assures compliance with the relevant intact stability requirements in
+                    the
+                    Merchant Shipping (Safety) (Load Line) Regulations (<ref href="/hk/cap369AD">Cap. 369 sub.
+                        leg.
+                        AD</ref>) and the requirements in the <ref>Schedule</ref>,
+                    alternatively a corresponding curve of the maximum allowable vertical centre of
+                    gravity (KG) versus draught, or with the equivalents of either of these curves;
+                    <sourceNote>(<ref href="hk/2018/ln52">L.N. 52 of
+                        2018</ref>; <ref href="/hk/2020/er2">E.R. 2 of
+                        2020</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438412168369_006" name="b" temporalId="s5_1_b"><num value="b">(b)</num><content>instructions concerning the operation of cross-flooding arrangements; and</content></paragraph><paragraph id="ID_1438412168369_014" name="c" temporalId="s5_1_c"><num value="c">(c)</num><content>all other data and aids which might be necessary to maintain stability after damage.</content></paragraph></subsection><subsection id="ID_1438412168369_021" name="2" temporalId="s5_2"><num value="2">(2)</num><content>There shall be permanently exhibited, or readily available on the navigating bridge, for the guidance of the officer in charge of the ship, plans showing clearly for each deck and hold the boundaries of the watertight compartments, the openings therein with the means of closure and position of any controls thereof, and the arrangements for the correction of any list due to flooding. In addition, booklets containing the aforementioned information shall be made available by the owner of the ship for the use of the officers of the ship.</content></subsection><subsection id="ID_1438412168384_005" name="3" temporalId="s5_3"><num value="3">(3)</num><leadIn>In providing the information referred to in subsection <ref>(1)(a)</ref> and determining the GM or KG values—</leadIn><paragraph id="ID_1438412168384_013" name="a" temporalId="s5_3_a"><num value="a">(a)</num><content>in the case where intact stability requirements are more onerous than the values referred to in paragraph (b), such requirements shall apply;</content></paragraph><paragraph id="ID_1438412168384_021" name="b" temporalId="s5_3_b"><num value="b">(b)</num><leadIn>in the case where values determined from considerations solely related to the subdivision index are more onerous than such intact stability requirements—</leadIn><subparagraph id="ID_1438412168384_029" name="i" temporalId="s5_3_b_i"><num value="i">(i)</num><content>the limiting GM values shall be varied linearly between the deepest subdivision load line and the partial load line; and</content></subparagraph><subparagraph id="ID_1438412168400_007" name="ii" temporalId="s5_3_b_ii"><num value="ii">(ii)</num><content>for draughts below the partial load line, the GM value shall be assumed constant; and</content></subparagraph></paragraph><paragraph id="ID_1438412168400_014" name="c" temporalId="s5_3_c"><num value="c">(c)</num><leadIn>in the case where values determined from both intact stability requirements and the subdivision index apply—</leadIn><subparagraph id="ID_1438412168400_022" name="i" temporalId="s5_3_c_i"><num value="i">(i)</num><content>the limiting GM shall be varied linearly between the deepest subdivision load line and the partial load line; and</content></subparagraph><subparagraph id="ID_1438412168400_030" name="ii" temporalId="s5_3_c_ii"><num value="ii">(ii)</num><content>for draughts below the partial load line, where the subdivision index is more onerous, the GM value shall be assumed constant and where the intact stability requirements are more onerous, such requirements shall apply.</content></subparagraph></paragraph></subsection><subsection id="ID_1438412168400_036" name="4" temporalId="s5_4"><num value="4">(4)</num><content>If
+                subsection (1) or (2) is contravened in relation to a ship, the owner of the ship
+                commits an offence and is liable to a fine at level 3. <sourceNote>(<ref href="hk/2018/ln258">L.N. 258 of 2018</ref>)</sourceNote></content></subsection></section></part><part id="ID_1438403089047_002" name="P4" reason="inEffect" startPeriod="2020-04-02" status="operational" temporalId="P4"><num value="4">Part
+            IV</num><heading>Internal
+            Openings</heading><section id="ID_1438403089078_001" name="s6" reason="inEffect" startPeriod="2020-04-02" status="operational" temporalId="s6"><num value="6">6.</num><heading>Openings in watertight bulkheads and internal decks</heading><subsection id="ID_1438412168447_011" name="1" temporalId="s6_1"><num value="1">(1)</num><content>The number of openings in watertight subdivisions shall be kept to a minimum compatible with the design and proper working of the ship. Where penetrations of watertight bulkheads and internal decks are necessary for access, piping, ventilation, electrical cables, etc., arrangements shall be made to maintain the watertight integrity. The Certifying Authority may permit relaxation in the watertightness of openings above the freeboard deck, provided that it is demonstrated that any progressive flooding can be easily controlled and that the safety of the ship is not impaired.</content></subsection><subsection id="ID_1438412168462_005" name="2" temporalId="s6_2"><num value="2">(2)</num><content>Doors provided to ensure the watertight integrity of internal openings which are used while at sea shall be of the sliding watertight type and capable of being remotely closed from the bridge and also capable of being operated locally from each side of the bulkhead. Indicators shall be provided at the control position showing whether the doors are open or closed, and an audible alarm shall be provided at the door closure. The power, control and indicators shall be operable in the event of main power failure. Particular attention is to be paid to minimizing the effect of control system failure. Each power-operated sliding watertight door shall be provided with an individual hand-operated mechanism. It shall be possible to open and close the door by hand at the door itself from both sides.</content></subsection><subsection id="ID_1438412168494_005" name="3" temporalId="s6_3"><num value="3">(3)</num><content>Access doors and access hatch covers normally closed at sea, intended to ensure the watertight integrity of internal openings, shall be provided with means of indication locally and on the bridge showing whether these doors or hatch covers are open or closed. A notice shall be affixed to each such door or hatch cover to the effect that it is not to be left open. The use of such doors and hatch covers shall be authorized by the officer of the watch.</content></subsection><subsection id="ID_1438412168509_005" name="4" temporalId="s6_4"><num value="4">(4)</num><content>Watertight doors or ramps of satisfactory construction may be fitted to internally subdivide large cargo spaces, provided that the Certifying Authority is satisfied that such doors or ramps are essential. These doors or ramps may be hinged, rolling or sliding doors or ramps, but shall not be remotely controlled. Such doors or ramps shall be closed before the voyage commences and shall be kept closed during navigation; the time of opening such doors or ramps in port and of closing them before the ship leaves port shall be entered in the log book. Should any of the doors or ramps be accessible during the voyage, they shall be fitted with a device which prevents unauthorized opening.</content></subsection><subsection id="ID_1438412168525_005" name="5" temporalId="s6_5"><num value="5">(5)</num><content>Other closing appliances which are kept permanently closed at sea to ensure the watertight integrity of internal openings shall be provided with a notice which is to be affixed to each such closing appliance to the effect that it is to be kept closed. Manholes fitted with closely bolted covers need not be so marked.</content></subsection><subsection id="ID_1438412168525_013" name="6" temporalId="s6_6"><num value="6">(6)</num><content>If
+                subsection (1), (2), (3), (4) or (5) is contravened in relation to a ship, the owner
+                and the master of the ship each commits an offence and is liable to a fine at level
+                3. <sourceNote>(<ref href="hk/2018/ln258">L.N. 258 of 2018</ref>)</sourceNote></content></subsection></section></part><part id="ID_1438403089078_003" name="P5" reason="inEffect" startPeriod="2020-04-02" status="operational" temporalId="P5"><num value="5">Part
+            V</num><heading>External
+            Openings</heading><section id="ID_1438403089094_002" name="s7" reason="inEffect" startPeriod="2020-04-02" status="operational" temporalId="s7"><num value="7">7.</num><heading>External openings</heading><subsection id="ID_1438412168572_018" name="1" temporalId="s7_1"><num value="1">(1)</num><content>All external openings leading to compartments assumed intact in the damage analysis, which are below the final damage waterline, shall be watertight.</content></subsection><subsection id="ID_1438412168572_026" name="2" temporalId="s7_2"><num value="2">(2)</num><content>External openings required to be watertight in accordance with subsection (1) shall be of sufficient strength and, except for cargo hatch covers, shall be fitted with indicators on the bridge.</content></subsection><subsection id="ID_1438412168587_005" name="3" temporalId="s7_3"><num value="3">(3)</num><content>Openings in the shell plating below the deck limiting the vertical extent of damage shall be kept permanently closed while at sea. Should any of these openings be accessible during the voyage, they shall be fitted with a device which prevents unauthorized opening.</content></subsection><subsection id="ID_1438412168587_013" name="4" temporalId="s7_4"><num value="4">(4)</num><content>Notwithstanding the requirements of subsection (3), the Certifying Authority may authorize that particular doors may be opened at the discretion of the master, if necessary for the operation of the ship and provided that the safety of the ship is not impaired.</content></subsection><subsection id="ID_1438412168587_021" name="5" temporalId="s7_5"><num value="5">(5)</num><content>Other closing appliances which are kept permanently closed at sea to ensure the
+                watertight integrity of external openings shall be provided with a notice affixed to
+                each appliance to the effect that it is to be kept closed. Manholes fitted with
+                closely bolted covers need not be so
+                marked.<marker role="section-break"></marker></content></subsection><subsection id="ID_1438412168603_005" name="6" temporalId="s7_6"><num value="6">(6)</num><content>If
+                subsection (1), (2), (3) or (5) is contravened in relation to a ship, the owner and
+                the master of the ship each commits an offence and is liable to a fine at level 3.
+                    <sourceNote>(<ref href="hk/2018/ln258">L.N. 258 of 2018</ref>)</sourceNote></content></subsection></section></part><part id="ID_1438403089109_001" name="P6" reason="inEffect" startPeriod="2020-04-02" status="operational" temporalId="P6"><num value="6">Part
+            VI</num><heading>Miscellaneous</heading><section id="ID_1438403089109_003" name="s8" reason="inEffect" startPeriod="2020-04-02" status="operational" temporalId="s8"><num value="8">8.</num><heading>Survey before issue of a cargo ship safety construction certificate</heading><content>A surveyor carrying out a survey of a ship for the purpose of issuing a cargo ship safety construction certificate shall, before issuing such certificate, satisfy himself that the requirements in this Regulation have been complied with to an extent which is satisfactory having regard to the service for which the ship is intended and the period for which the certificate is to be issued.</content></section><section id="ID_1438403089125_001" name="s9" reason="inEffect" startPeriod="2020-04-02" status="operational" temporalId="s9"><num value="9">9.</num><heading>Maintenance</heading><subsection id="ID_1438412168650_004" name="1" temporalId="s9_1"><num value="1">(1)</num><content>Every ship shall be maintained in such condition so as to conform to this Regulation and the structure of the ship shall not be altered in any manner without the approval of the Certifying Authority.</content></subsection><subsection id="ID_1438412168650_012" name="2" temporalId="s9_2"><num value="2">(2)</num><content>If
+                subsection (1) is contravened in relation to a ship, the owner and the master of the
+                ship each commits an offence and is liable to a fine at level 3. <sourceNote>(<ref href="hk/2018/ln258">L.N. 258 of 2018</ref>)</sourceNote></content></subsection></section><section id="ID_1438403089125_003" name="s10" reason="inEffect" startPeriod="2020-04-02" status="operational" temporalId="s10"><num value="10">10.</num><heading>Equivalents</heading><content>Where this Regulation requires the compliance with a particular requirement, the Director may, in relation to a particular ship or a class of ships, accept or permit an alternative arrangement as compliance with such requirement, where he is satisfied by trial or otherwise, that such arrangement is at least as effective for the purpose of ensuring the safety of the ship as compliance with such requirement would have been.</content></section><section id="ID_1438403089140_002" name="s11" reason="inEffect" startPeriod="2020-04-02" status="operational" temporalId="s11"><num value="11">11.</num><heading>Amendment of <ref>Schedule</ref></heading><leadIn>The Director may—</leadIn><paragraph id="ID_1438412168681_033" name="a" temporalId="s11_a"><num value="a">(a)</num><content>by notice published in the Gazette amend the <ref>Schedule</ref>; and</content></paragraph><paragraph id="ID_1438412168681_041" name="b" temporalId="s11_b"><num value="b">(b)</num><content>issue instructions, directions or codes of practice providing practical guidance with respect to specifications, standards or requirements specified in this Regulation.</content></paragraph></section></part><schedule id="ID_1438403089156_001" name="sch0" reason="inEffect" startPeriod="2020-04-02" status="operational" temporalId="sch0"><num value="0">Schedule</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap369AT/s4">ss. 4(1)</ref>, <ref href="/hk/cap369AT/s5">5(1)</ref> &amp; <ref href="/hk/cap369AT/s11">11</ref>]</note><part id="ID_1438412168712_009" name="PI" temporalId="sch0_PI"><num value="I"><inline>Part
+                    I</inline></num><heading><inline>Required
+                    Subdivision
+                    Index
+                    “R”</inline></heading><section id="ID_1438412168712_028" name="s1" temporalId="sch0_PI_s1" class="no_header"><num value="1">1.</num><content>This <ref>Schedule</ref> is intended to provide ships with a minimum
+                    standard of subdivision.</content></section><section id="ID_1438412168712_036" name="s2" temporalId="sch0_PI_s2" class="no_header"><num value="2">2.</num><leadIn>The degree of subdivision to be provided shall be determined by the required
+                    subdivision index “R”, as follows—</leadIn><paragraph id="ID_1438412168712_046" name="a" temporalId="sch0_PI_s2_a"><num value="a">(a)</num><content>for ships over 100 metres in L<sub>s</sub>:</content><content>R = (0.002 + 0.0009L<sub>s</sub>)<sup>1/3</sup>,</content><content>where “L<sub>s</sub>” is in metres; and</content></paragraph><paragraph id="ID_1438412168712_070" name="b" temporalId="sch0_PI_s2_b"><num value="b">(b)</num><leadIn>for ships of 80 metres in L<sub>s</sub> and upwards but not exceeding
+                        100 metres in L<sub>s</sub>:</leadIn><continued><table xmlns="http://www.w3.org/1999/xhtml" frame="void" class="left_indent_84">
+                            <col width="28%"></col>
+                            <col width="12%"></col>
+                            <col width="5%"></col>
+                            <col width="12%"></col>
+                            <col width="43%"></col>
+                            <tbody>
+                                <tr>
+                                    <td rowspan="2" class="valign_center">R = 1
+                                            <span class="force_eng_font">−</span> [1/(1
+                                        + </td>
+                                    <td class="border_bottom_0.5 valign_center">
+                                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">L<sub>s</sub></center>
+                                    </td>
+                                    <td rowspan="2" class="valign_center">．</td>
+                                    <td class="border_bottom_0.5 valign_center">
+                                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">R<sub>o</sub></center>
+                                    </td>
+                                    <td rowspan="2" class="valign_center"> )],</td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">100</center>
+                                    </td>
+                                    <td>
+                                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">1<inline class="force_eng_font">−</inline>R<sub>o</sub></center>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>where
+                            “R<sub>o</sub>” is the value R as calculated in accordance with the
+                        formula in subparagraph (a).<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1999/ln99">L.N. 99 of
+                                1999</ref>)</sourceNote></continued></paragraph></section></part><part id="ID_1438412168712_105" name="PII" temporalId="sch0_PII"><num value="II"><inline>Part
+                    II</inline></num><heading><inline>Attained
+                    Subdivision
+                    Index
+                    “A”</inline></heading><section id="ID_1438412168712_124" name="s1" temporalId="sch0_PII_s1" class="no_header"><num value="1">1.</num><content>The attained subdivision index “A”, calculated in accordance with this
+                    Part, shall not be less than the required subdivision index “R”, calculated in
+                    accordance with Part I.</content></section><section id="ID_1438412168728_004" name="s2" temporalId="sch0_PII_s2" class="no_header"><num value="2">2.</num><leadIn>The attained subdivision index “A” shall be calculated for the ship by the
+                    following formula—</leadIn><text class="align_center">A = Σ p<sub>i</sub> s<sub>i</sub></text><continued>where—</continued><continued class="left_indent_60">
+                    
+                    
+                    <table xmlns="http://www.w3.org/1999/xhtml" frame="void" class="left_indent_60" width="100%">
+                        <col width="10%"></col>
+                        <col width="6%"></col>
+                        <col width="84%"></col>
+                        <tbody>
+                            <tr>
+                                <td>“i”</td>
+                                
+                                <td colspan="2" class="align_justified cellpadding_bottom_5">represents each compartment or group of compartments under
+                                    consideration;</td>
+                            </tr>
+                            <tr>
+                                <td>“p<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">i</sub>”</td>
+                                
+                                <td colspan="2" class="align_justified cellpadding_bottom_5">accounts
+                                    for the probability that only the compartment or group of
+                                    compartments under consideration may be flooded, disregarding
+                                    any horizontal subdivision;</td>
+                            </tr>
+                            <tr>
+                                <td>“s<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">i</sub>”</td>
+                                <td colspan="2" class="align_justified">accounts
+                                    for the probability of survival after flooding the compartment
+                                    or group of compartments under consideration, including the
+                                    effects of any horizontal subdivision.</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    
+                </continued></section><section id="ID_1438412168728_052" name="s3" temporalId="sch0_PII_s3" class="no_header"><num value="3">3.</num><content>In calculating “A”, level trim shall be used.</content></section><section id="ID_1438412168728_060" name="s4" temporalId="sch0_PII_s4" class="no_header"><num value="4">4.</num><content>This summation covers only those cases of flooding which contribute to the
+                    value of the attained subdivision index “A”.</content></section><section id="ID_1438412168728_068" name="s5" temporalId="sch0_PII_s5" class="no_header"><num value="5">5.</num><content>The summation indicated by the above formula shall be taken over the ship’s
+                    length for all cases of flooding in which a single compartment or 2 or more
+                    adjacent compartments are involved.</content></section><section id="ID_1438412168728_076" name="s6" temporalId="sch0_PII_s6" class="no_header"><num value="6">6.</num><content>Wherever wing compartments are fitted, contribution to the summation
+                    indicated by the formula shall be taken for all cases of flooding in which wing
+                    compartments are involved, and additionally, for all cases of simultaneous
+                    flooding of a wing compartment or compartments and the adjacent inboard
+                    compartment or compartments, assuming a rectangular penetration which extends to
+                    the ship’s centreline, but excludes damage to any centreline bulkhead.</content></section><section id="ID_1438412168743_004" name="s7" temporalId="sch0_PII_s7" class="no_header"><num value="7">7.</num><content>The assumed vertical extent of damage is to extend from the baseline
+                    upwards to any watertight horizontal subdivision above the waterline or higher.
+                    However, if a lesser extent will give a more severe result, such extent is to be
+                    assumed.</content></section><section id="ID_1438412168743_012" name="s8" temporalId="sch0_PII_s8" class="no_header"><num value="8">8.</num><content>If pipes, ducts or tunnels are situated within assumed flooded
+                    compartments, arrangements are to be made to ensure that progressive flooding
+                    cannot thereby extend to compartments other than those assumed flooded. However,
+                    the Certifying Authority may permit minor progressive flooding if it is
+                    demonstrated that its effects can be easily controlled and the safety of the
+                    ship is not impaired.</content></section><section id="ID_1438412168759_004" name="s9" temporalId="sch0_PII_s9" class="no_header"><num value="9">9.</num><content>In the flooding calculations carried out according to this
+                        <ref>Schedule</ref>, only one breach of the
+                    hull need
+                    be assumed.</content></section></part><part id="ID_1438412168759_017" name="PIII" temporalId="sch0_PIII"><num value="III"><inline>Part
+                    III</inline></num><heading><inline>Calculation
+                    of
+                    Factor
+                    “p</inline><sub>i</sub><inline class="not_bold">”</inline></heading><section id="ID_1438412168759_036" name="s1" temporalId="sch0_PIII_s1" class="no_header"><num value="1">1.</num><leadIn>The factor “p<sub>i</sub>” shall be calculated according to <ref>paragraph
+                        1</ref>.1 as appropriate, using the following notations—</leadIn><continued class="left_indent_60">
+                    
+                    <table xmlns="http://www.w3.org/1999/xhtml" frame="void" class="left_indent_60" width="100%">
+                        <col width="10%"></col>
+                        <col width="6%"></col>
+                        <col width="84%"></col>
+                        <tbody>
+                            <tr>
+                                <td>x<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">1</sub></td>
+                                <td class="align_justified">=</td>
+                                
+                                <td class="align_justified cellpadding_bottom_5">the distance from
+                                    the aft terminal of “L<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">s</sub>” to
+                                    the foremost portion of the aft end of the compartment being
+                                    considered;</td>
+                            </tr>
+                            <tr>
+                                <td>x<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">2</sub></td>
+                                <td class="align_justified">= </td>
+                                
+                                <td class="align_justified cellpadding_bottom_5">the distance from
+                                    the aft terminal of “L<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">s</sub>” to
+                                    the aftermost portion of the forward end of the compartment
+                                    being considered;</td>
+                            </tr>
+                            <tr>
+                                <td>E<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">1</sub></td>
+                                <td class="align_justified">= </td>
+                                
+                                <td class="align_justified cellpadding_bottom_5">x<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">1</sub>/L<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">s</sub></td>
+                            </tr>
+                            <tr>
+                                <td>E<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">2</sub>
+                                </td>
+                                <td class="align_justified">= </td>
+                                
+                                <td class="align_justified cellpadding_bottom_5">x<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">2</sub>/L<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">s</sub></td>
+                            </tr>
+                            <tr>
+                                <td>E</td>
+                                <td class="align_justified">= </td>
+                                
+                                <td class="align_justified cellpadding_bottom_5">E<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">1</sub> +
+                                        E<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">2</sub>
+                                    <span class="force_eng_font">−</span>
+                                    1</td>
+                            </tr>
+                            <tr>
+                                <td>J </td>
+                                <td class="align_justified">= </td>
+                                
+                                <td class="align_justified cellpadding_bottom_5">E<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">2</sub>
+                                    <span class="force_eng_font">−</span> E<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">1</sub></td>
+                            </tr>
+                            <tr>
+                                <td>J’</td>
+                                <td class="align_justified">= </td>
+                                
+                                <td class="align_justified cellpadding_bottom_5">J
+                                        <span class="force_eng_font">−</span> E,
+                                    if E ≥ 0</td>
+                            </tr>
+                            <tr>
+                                <td>J’</td>
+                                <td class="align_justified">= </td>
+                                
+                                <td class="align_justified cellpadding_bottom_5">J + E,
+                                    if E &#65308; 0</td>
+                            </tr>
+                            <tr>
+                                
+                                <td colspan="3" class="align_justified cellpadding_bottom_5">The
+                                    maximum nondimensional damage length</td>
+                            </tr>
+                            <tr>
+                                <td>J<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">max</sub></td>
+                                <td class="align_justified">= </td>
+                                
+                                <td class="align_justified cellpadding_bottom_5">48/L<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">s</sub>, but
+                                    not more than 0.24.</td>
+                            </tr>
+                            <tr>
+                                
+                                <td colspan="3" class="align_justified cellpadding_bottom_5">The
+                                    assumed distribution density of damage location along the ship’s
+                                    length</td>
+                            </tr>
+                            <tr>
+                                <td>a </td>
+                                <td class="align_justified">= </td>
+                                
+                                <td class="align_justified cellpadding_bottom_5">1.2 + 0.8E, but not
+                                    more than 1.2.</td>
+                            </tr>
+                            <tr>
+                                
+                                <td colspan="3" class="align_justified cellpadding_bottom_5">The
+                                    assumed distribution function of damage location along the
+                                    ship’s length</td>
+                            </tr>
+                            <tr>
+                                <td>F </td>
+                                <td class="align_justified">= </td>
+                                
+                                <td class="align_justified cellpadding_bottom_5">0.4 +
+                                    0.25E (1.2
+                                    + a)</td>
+                            </tr>
+                            <tr>
+                                <td>y </td>
+                                <td class="align_justified">= </td>
+                                
+                                <td class="align_justified cellpadding_bottom_5">J/J<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">max</sub></td>
+                            </tr>
+                            <tr>
+                                <td>p </td>
+                                <td class="align_justified">= </td>
+                                
+                                <td class="align_justified cellpadding_bottom_5">F<sub>1</sub>J<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">max</sub></td>
+                            </tr>
+                            <tr>
+                                <td>q</td>
+                                <td class="align_justified">= </td>
+                                
+                                <td class="align_justified cellpadding_bottom_5">0.4F<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">2</sub> (J<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">max</sub>)<sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">2</sup></td>
+                            </tr>
+                            <tr>
+                                <td>F<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">1</sub></td>
+                                <td class="align_justified">= </td>
+                                
+                                <td class="align_justified cellpadding_bottom_5">y<sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">2</sup>
+                                    <span class="force_eng_font">−</span> y<sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">3</sup>/3, if
+                                    y &#65308; 1,</td>
+                            </tr>
+                            <tr>
+                                <td>F<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">1</sub></td>
+                                <td class="align_justified">= </td>
+                                
+                                <td class="align_justified cellpadding_bottom_5">y
+                                        <span class="force_eng_font">−</span> 1/3
+                                    otherwise;</td>
+                            </tr>
+                            <tr>
+                                <td>F<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">2</sub></td>
+                                <td class="align_justified">= </td>
+                                
+                                <td class="align_justified cellpadding_bottom_5">y<sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">3</sup>/3
+                                        <span class="force_eng_font">−</span> y<sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">4</sup>/12,
+                                    if
+                                    y &#65308; 1,</td>
+                            </tr>
+                            <tr>
+                                <td>F<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">2</sub>
+                                </td>
+                                <td class="align_justified">= </td>
+                                <td class="align_justified">y<sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">2</sup>/2
+                                        <span class="force_eng_font">−</span> y/3 + 1/12
+                                    otherwise.</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </continued></section><section class="no_header" id="ID_1507098948942_001" name="s0" temporalId="sch0_PIII_s0"><num value="0">1.1</num><content>The factor “p<sub>i</sub>” is determined for each single
+                    compartment.</content></section><section class="no_header" id="ID_1507098948942_002" name="s0-1" temporalId="sch0_PIII_s0-1"><num value="0">1.1.1</num><leadIn>Where the compartment considered extends over the entire ship length,
+                        “L<sub>s</sub>”—</leadIn><continued class="left_indent_60">p<sub>i</sub> = 1</continued></section><section class="no_header" id="ID_1507098948958_003" name="s0-2" temporalId="sch0_PIII_s0-2"><num value="0">1.1.2</num><leadIn>Where the aft limit of the compartment considered coincides with the aft
+                    terminal—</leadIn><continued class="left_indent_60">p<sub>i</sub> = F + 0.5ap + q</continued></section><section class="no_header" id="ID_1507098948958_004" name="s0-3" temporalId="sch0_PIII_s0-3"><num value="0">1.1.3</num><leadIn>Where the forward limit of the compartment considered coincides with the
+                    forward terminal—</leadIn><continued class="left_indent_60">p<sub>i</sub> = 1
+                        <inline class="force_eng_font">−</inline>
+                    F + 0.5ap</continued></section><section class="no_header" id="ID_1507098948958_005" name="s0-4" temporalId="sch0_PIII_s0-4"><num value="0">1.1.4</num><leadIn>When both ends of the compartment considered are inside the aft and forward
+                    terminals of the ship length, “L<sub>s</sub>”—</leadIn><continued class="left_indent_60">p<sub>i</sub> = ap</continued></section><section class="no_header" id="ID_1507098948958_006" name="s0-5" temporalId="sch0_PIII_s0-5"><num value="0">1.1.5</num><content>In applying the formulae of <ref>paragraphs 1</ref>.1.2, 1.1.3 and 1.1.4,
+                    where the compartment considered extends over the “mid-length”, these formulae
+                    values shall be reduced by an amount determined according to the formula for
+                    “q”, in which “F<sub>2</sub>” is calculated taking “y” to be
+                    J’/J<sub>max</sub>.</content></section><section id="ID_1438412168790_004" name="s2" temporalId="sch0_PIII_s2" class="no_header"><num value="2">2.</num><leadIn>Wherever wing compartments are fitted, the “p<sub>i</sub>” value for a wing
+                    compartment shall be obtained by multiplying the value, as determined in
+                        <ref>paragraph 3</ref>, by the reduction factor “r” according to
+                        <ref>paragraph 2</ref>.2, which represents the probability that the inboard
+                    spaces will not be flooded.</leadIn></section><section class="no_header" id="ID_1507098948958_007" name="s0-6" temporalId="sch0_PIII_s0-6"><num value="0">2.1</num><content> The “p<sub>i</sub>” value for the case of simultaneous flooding of a wing
+                    and adjacent inboard compartment shall be obtained by using the formulae of
+                        <ref>paragraph 3</ref>, multiplied by the factor (1
+                        <inline class="force_eng_font">−</inline>
+                    r).</content></section><section class="no_header" id="ID_1507098948958_008" name="s0-7" temporalId="sch0_PIII_s0-7"><num value="0">2.2 </num><leadIn>The reduction factor “r” shall be determined by the following
+                    formulae—</leadIn><continued class="left_indent_60">For J
+                    ≥
+                    0.2 b/B—</continued><continued>
+                    
+                    <table xmlns="http://www.w3.org/1999/xhtml" frame="void" width="90%" class="left_indent_80">
+                        <col width="5%"></col>
+                        <col width="5%"></col>
+                        
+                        <col width="6%"></col>
+                        
+                        <col width="15%"></col>
+                        
+                        <col width="16%"></col>
+                        
+                        <col width="50%"></col>
+                        <tbody>
+                            <tr>
+                                <td rowspan="2" colspan="1" class="valign_center">r</td>
+                                <td rowspan="2" class="valign_center">=</td>
+                                <td class="valign_center border_bottom_0.5">
+                                    <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">b</center>
+                                </td>
+                                <td rowspan="2" class="valign_center"> (2.3
+                                    + </td>
+                                
+                                <td class="align_center border_bottom_0.5">
+                                    
+                                    
+                                    <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">0.08</center>
+                                    
+                                    
+                                    
+                                </td>
+                                <td rowspan="2" class="valign_center">) +
+                                    0.1, if b/B
+                                    ≤
+                                    0.2</td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">B</center>
+                                </td>
+                                
+                                <td class="align_center">
+                                    
+                                    
+                                    <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">J + 0.02</center>
+                                    
+                                    
+                                    
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </continued><continued>
+                    
+                    <table xmlns="http://www.w3.org/1999/xhtml" frame="void" width="90%" class="left_indent_80">
+                        <col width="5%"></col>
+                        
+                        <col width="7%"></col>
+                        <col width="16%"></col>
+                        <col width="5%"></col>
+                        
+                        <col width="5%"></col>
+                        
+                        <col width="15%"></col>
+                        
+                        <col width="42%"></col>
+                        <tbody>
+                            <tr>
+                                <td rowspan="2" colspan="1" class="valign_center">r</td>
+                                <td rowspan="2" class="valign_center">= (</td>
+                                
+                                <td class="align_center border_bottom_0.5">
+                                    
+                                    
+                                    <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">0.016</center>
+                                    
+                                    
+                                    
+                                </td>
+                                
+                                <td rowspan="2" class="align_center cellpadding_top_8">+ </td>
+                                
+                                <td class="align_center border_bottom_0.5">
+                                    
+                                    
+                                    <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">b</center>
+                                    
+                                    
+                                    
+                                </td>
+                                <td rowspan="2" class="valign_center"> +
+                                    0.36</td>
+                                <td rowspan="2" class="valign_center">), if b/B ＞ 0.2</td>
+                            </tr>
+                            <tr>
+                                
+                                <td class="align_center">
+                                    
+                                    
+                                    <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">J + 0.02</center>
+                                    
+                                    
+                                    
+                                </td>
+                                
+                                <td class="align_center">
+                                    
+                                    
+                                    <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">B</center>
+                                    
+                                    
+                                    
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </continued><continued class="left_indent_60">For
+                    J &#65308; 0.2
+                    b/B the reduction factor “r” shall be determined by linear interpolation
+                    between—</continued><continued>
+                    
+                    <table xmlns="http://www.w3.org/1999/xhtml" frame="void" width="95%" class="left_indent_80">
+                        <col width="5%"></col>
+                        <col width="5%"></col>
+                        <col width="90%"></col>
+                        <tbody>
+                            <tr>
+                                <td>r</td>
+                                <td>=</td>
+                                
+                                <td class="cellpadding_bottom_5">1, for J = 0; and</td>
+                            </tr>
+                            <tr>
+                                <td>r</td>
+                                <td>=</td>
+                                
+                                <td class="align_left">as for the case where J
+                                    ≥
+                                    0.2b/B, for J = 0.2b/B,</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </continued><continued class="left_indent_60">where—</continued><continued class="left_indent_80">
+                    
+                    <table xmlns="http://www.w3.org/1999/xhtml" frame="void" width="100%" class="left_indent_80">
+                        <col width="5%"></col>
+                        <col width="5%"></col>
+                        <col width="90%"></col>
+                        <tbody>
+                            <tr>
+                                <td>b</td>
+                                <td>=</td>
+                                <td class="align_justified">the mean transverse distance in metres
+                                    measured at right angles to the centreline at the deepest
+                                    subdivision load line between the shell and a plane through the
+                                    outermost portion of and parallel to that part of the
+                                    longitudinal bulkhead which extends between the longitudinal
+                                    limits used in calculating the factor “p<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">i</sub>”.</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </continued></section><section id="ID_1438412168790_092" name="s3" temporalId="sch0_PIII_s3" class="no_header"><num value="3">3.</num><content>To evaluate “p<sub>i</sub>” for compartments taken singly the formulae in
+                        <ref>paragraphs 1</ref> and <ref>2</ref> shall be applied
+                    directly.</content></section><section class="no_header" id="ID_1507098948958_009" name="s3" temporalId="sch0_PIII_s3"><num value="3">3.1</num><leadIn> To evaluate the “p<sub>i</sub>” values attributable to groups of
+                    compartments the following applies—</leadIn><continued class="left_indent_48">for compartments taken by pairs—</continued><continued>
+                    
+                    <table xmlns="http://www.w3.org/1999/xhtml" frame="void" width="90%" class="left_indent_60">
+                        
+                        <col width="6%"></col>
+                        <col width="6%"></col>
+                        <col width="84%"></col>
+                        <tbody>
+                            <tr>
+                                <td>p<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">i</sub></td>
+                                <td>=</td>
+                                <td class="align_justified">p<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">12</sub>
+                                    <span class="force_eng_font">−</span>
+                                        p<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">1</sub>
+                                    <span class="force_eng_font">−</span>
+                                        p<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">2</sub></td>
+                            </tr>
+                            <tr>
+                                <td>p<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">i</sub></td>
+                                <td>=</td>
+                                
+                                <td class="align_justified cellpadding_bottom_5">p<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">23</sub>
+                                    <span class="force_eng_font">−</span>
+                                        p<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">2</sub>
+                                    <span class="force_eng_font">−</span>
+                                        p<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">3</sub>, etc.</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </continued><continued class="left_indent_48">for compartments taken by groups of 3—</continued><continued>
+                    
+                    <table xmlns="http://www.w3.org/1999/xhtml" frame="void" width="90%" class="left_indent_60">
+                        
+                        <col width="6%"></col>
+                        <col width="6%"></col>
+                        <col width="84%"></col>
+                        <tbody>
+                            <tr>
+                                <td>p<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">i</sub></td>
+                                <td>=</td>
+                                <td class="align_justified"> p<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">123</sub>
+                                    <span class="force_eng_font">−</span>
+                                        p<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">12</sub>
+                                    <span class="force_eng_font">−</span>
+                                        p<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">23</sub> + p<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">2</sub></td>
+                            </tr>
+                            <tr>
+                                <td>p<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">i</sub></td>
+                                <td>=</td>
+                                
+                                <td class="align_justified cellpadding_bottom_5">p<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">234</sub>
+                                    <span class="force_eng_font">−</span>
+                                        p<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">23</sub>
+                                    <span class="force_eng_font">−</span>
+                                        p<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">34</sub> + p<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">3</sub>,
+                                    etc.</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </continued><continued class="left_indent_48">for compartments taken by groups of 4—</continued><continued>
+                    
+                    <table xmlns="http://www.w3.org/1999/xhtml" frame="void" width="90%" class="left_indent_60">
+                        
+                        <col width="6%"></col>
+                        <col width="6%"></col>
+                        <col width="84%"></col>
+                        <tbody>
+                            <tr>
+                                <td>p<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">i</sub></td>
+                                <td>=</td>
+                                <td class="align_justified">p<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">1234</sub>
+                                    <span class="force_eng_font">−</span>
+                                        p<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">123</sub>
+                                    <span class="force_eng_font">−</span>
+                                        p<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">234</sub> + p<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">23</sub></td>
+                            </tr>
+                            <tr>
+                                <td>p<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">i</sub></td>
+                                <td>=</td>
+                                
+                                <td class="align_justified cellpadding_bottom_5"> p<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">2345</sub>
+                                    <span class="force_eng_font">−</span>
+                                        p<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">234</sub>
+                                    <span class="force_eng_font">−</span>
+                                        p<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">345</sub> +
+                                        p<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">34</sub>,
+                                    etc.</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </continued><continued>where—</continued><continued>
+                    
+                    <table xmlns="http://www.w3.org/1999/xhtml" frame="void" width="90%" class="left_indent_48">
+                        <col width="10%"></col>
+                        <col width="6%"></col>
+                        <col width="84%"></col>
+                        <tbody>
+                            <tr>
+                                <td class="align_justified" colspan="3">p<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">12</sub>,
+                                        p<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">23</sub>, p<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">34</sub>,
+                                    etc.;</td>
+                            </tr>
+                            <tr>
+                                <td class="align_justified" colspan="3">p<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">123</sub>,
+                                        p<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">234</sub>, p<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">345</sub>,
+                                    etc.;
+                                    and</td>
+                            </tr>
+                            <tr>
+                                
+                                <td class="align_justified cellpadding_bottom_5" colspan="3">p<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">1234</sub>,
+                                        p<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">2345</sub>, p<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">3456</sub>,
+                                    etc.,</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </continued><continued>shall be calculated according to the formulae in <ref>paragraphs 1</ref>
+                    and <ref>2</ref> for a single compartment whose nondimensional length “J”
+                    corresponds to that of a group consisting of the compartments indicated by the
+                    indices assigned to “p”.</continued></section><section id="mpq_p1v_kbb" name="s3" temporalId="sch0_PIII_s3" class="no_header"><num value="3">3.2 </num><content>The factor “p<sub>i</sub>” for a group of 3 or more adjacent compartments
+                    equals zero if the nondimensional length of such a group minus the
+                    nondimensional length of the aftermost and foremost compartments in the group is
+                    greater than
+                        “J<sub>max</sub>”.</content></section></part><part id="ID_1438412168806_129" name="PIV" temporalId="sch0_PIV"><num value="IV"><inline>Part
+                    IV</inline></num><heading><inline>Calculation
+                    of
+                    Factor
+                    “s</inline><sub>i</sub><inline class="not_bold">”</inline></heading><section id="ID_1438412168806_148" name="s1" temporalId="sch0_PIV_s1" class="no_header"><num value="1">1.</num><content>The factor “s<sub>i</sub>” shall be determined for each compartment or
+                    group of compartments according to the following—</content></section><section class="no_header" id="ID_1507098948973_010" name="s0" temporalId="sch0_PIV_s0"><num value="0">1.1 </num><leadIn>In general for any condition of flooding from any initial loading condition
+                    “s” shall be—</leadIn><continued>
+                    
+                    <table xmlns="http://www.w3.org/1999/xhtml" frame="void" width="100%" class="left_indent_60">
+                        
+                        <col width="15%"></col>
+                        
+                        <col width="6%"></col>
+                        
+                        <col width="79%"></col>
+                        <tbody>
+                            <tr>
+                                <td>s </td>
+                                <td>=</td>
+                                <td class="align_justified"><math xmlns="http://www.w3.org/1998/Math/MathML">
+                                        <mtext>C</mtext>
+                                        <msqrt>
+                                            <msub>
+                                                <mi>0.5(GZ</mi>
+                                                <mn>max</mn>
+                                            </msub>
+                                            <mn>)(range)</mn>
+                                        </msqrt>
+                                    </math></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    
+                    
+                </continued><continued>with—</continued><continued class="left_indent_60">
+                    
+                    <table xmlns="http://www.w3.org/1999/xhtml" frame="void" width="100%" class="left_indent_60">
+                        <col width="15%"></col>
+                        <col width="6%"></col>
+                        <col width="79%"></col>
+                        <tbody>
+                            <tr>
+                                <td>C</td>
+                                <td>=</td>
+                                
+                                <td class="align_justified cellpadding_bottom_5">1, if
+                                    θe ≤ 25°;</td>
+                            </tr>
+                            <tr>
+                                <td>C</td>
+                                <td>=</td>
+                                
+                                <td class="align_justified cellpadding_bottom_5">0, if
+                                    θe ＞ 30°;</td>
+                            </tr>
+                            <tr>
+                                <td>C</td>
+                                <td>=</td>
+                                
+                                <td class="align_justified cellpadding_bottom_5">(30
+                                        <span class="force_eng_font">−</span>
+                                    θe)/5, otherwise;</td>
+                            </tr>
+                            <tr>
+                                <td>GZ<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">max</sub>
+                                </td>
+                                <td>=</td>
+                                
+                                <td class="align_justified cellpadding_bottom_5">maximum positive
+                                    righting lever (in metres) within the range as given below but
+                                    not more than 0.1 m;</td>
+                            </tr>
+                            <tr>
+                                <td>range</td>
+                                <td>=</td>
+                                
+                                <td class="align_justified cellpadding_bottom_5">range of positive
+                                    righting levers beyond the angle of equilibrium (in degrees) but
+                                    not more than 20°, however the range shall be terminated at the
+                                    angle where openings not capable of being closed weathertight
+                                    are immersed;</td>
+                            </tr>
+                            <tr>
+                                <td>θe</td>
+                                <td>=</td>
+                                <td class="align_justified">final equilibrium angle of heel (in
+                                    degrees).</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </continued></section><section class="no_header" id="ID_1507098948973_011" name="s0-1" temporalId="sch0_PIV_s0-1"><num value="0"> 1.2</num><content>s = 0, where the final waterline taking into account sinkage, heel and
+                    trim, immerses the lower edge of openings through which progressive flooding may
+                    take place. Such openings shall include air-pipes, ventilators, and openings
+                    which are closed by means of weathertight doors or hatch covers, and may exclude
+                    those openings closed by means of watertight manhole covers and flush scuttles,
+                    small watertight hatch covers which maintain the high integrity of the deck,
+                    remotely operated sliding watertight doors, access doors, and access hatch
+                    covers, of watertight integrity, normally closed at sea and sidescuttles of the
+                    non-opening type. However, if the compartments so flooded are taken into account
+                    in the calculations the requirements of this Part shall be applied.</content></section><section class="no_header" id="ID_1507098948973_012" name="s0-2" temporalId="sch0_PIV_s0-2"><num value="0"> 1.3</num><leadIn>For each compartment or group of compartments “s<sub>i</sub>” shall be
+                    weighted according to draught considerations as follows—</leadIn><continued class="left_indent_60"> s<sub>i</sub> = 0.5s<sub>1</sub> +
+                        0.5s<sub>p</sub></continued><continued>where—</continued><continued class="left_indent_60"> s<sub>1</sub> is the “s” factor at the deepest
+                    subdivision load line;</continued><continued class="left_indent_60">“s<sub>p</sub>” is the “s” factor at the partial
+                    load line.</continued></section><section id="ID_1438412168837_012" name="s2" temporalId="sch0_PIV_s2" class="no_header"><num value="2">2.</num><content>For all compartments forward of the collision bulkhead, the “s” value,
+                    calculated assuming the ship to be at its deepest subdivision load line and with
+                    assumed unlimited vertical extent of damage, is to be equal to 1.</content></section><section id="ID_1438412168837_020" name="s3" temporalId="sch0_PIV_s3" class="no_header"><num value="3">3.</num><content>Wherever a horizontal subdivision is fitted above the waterline in question
+                    the following applies.</content></section><section class="no_header" id="ID_1507098948973_013" name="s0-3" temporalId="sch0_PIV_s0-3"><num value="0">3.1 </num><content>The “s” value for the lower compartment or group of compartments shall be
+                    obtained by multiplying the value as determined in <ref>paragraph 1</ref>.1 by
+                    the reduction factor “v” according to <ref>paragraph 3</ref>.3, which represents
+                    the probability that the spaces above the horizontal subdivision will not be
+                    flooded.</content></section><section class="no_header" id="ID_1507098948973_014" name="s0-4" temporalId="sch0_PIV_s0-4"><num value="0">3.2</num><content> In cases of positive contribution to index “A” due to simultaneous
+                    flooding of the spaces above the horizontal subdivision, the resulting “s” value
+                    for such a compartment or group of compartments shall be obtained by an increase
+                    of the value as determined by <ref>paragraph 3</ref>.1 by the “s” value for
+                    simultaneous flooding according to <ref>paragraph 1</ref>.1, multiplied by the
+                    factor
+                            (<ref>1 <inline class="force_eng_font">−</inline> v</ref>).</content></section><section class="no_header" id="ID_1507098948973_015" name="s0-5" temporalId="sch0_PIV_s0-5"><num value="0">3.3 </num><leadIn>The probability factor “v<sub>i</sub>” shall be calculated according to— </leadIn><continued class="left_indent_60">
+                    
+                    <table xmlns="http://www.w3.org/1999/xhtml" frame="void" width="100%" class="left_indent_60">
+                        
+                        <col width="5%"></col>
+                        <col width="6%"></col>
+                        
+                        
+                        <col width="9%"></col>
+                        
+                        
+                        
+                        <col width="15%"></col>
+                        
+                        <col width="65%"></col>
+                        <tbody>
+                            <tr>
+                                
+                                <td rowspan="2" class="valign_center cellpadding_bottom_30">v<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">i</sub></td>
+                                
+                                <td rowspan="2" class="valign_center  cellpadding_bottom_30">=</td>
+                                
+                                
+                                
+                                <td colspan="2" class="valign_center border_bottom_0.5 align_center">H
+                                        <inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="force_eng_font">−</inline>
+                                    d</td>
+                                
+                                
+                                
+                                <td class="align_justified valign_center cellpadding_left_10"></td>
+                            </tr>
+                            <tr>
+                                
+                                
+                                
+                                <td colspan="2" class="align_center">H<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">max</sub>
+                                    <span class="force_eng_font">−</span>
+                                    d</td>
+                                
+                                
+                                
+                                <td class="align_justified valign_center cellpadding_left_10">for
+                                    the assumed flooding up to the horizontal subdivision above the
+                                    subdivision load line, where “H” is to be restricted to a height
+                                    of “H<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">max</sub>”;</td>
+                                
+                                
+                            </tr>
+                            <tr>
+                                
+                                <td class="cellpadding_top_5">v<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">i</sub></td>
+                                
+                                <td class="cellpadding_top_5">=</td>
+                                
+                                
+                                
+                                <td colspan="2" class="cellpadding_top_5">1,
+                                    </td>
+                                
+                                
+                                
+                                <td class="align_justified cellpadding_left_10 cellpadding_top_5">if
+                                    the uppermost horizontal subdivision in way of the assumed
+                                    damaged region is below “H<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">max</sub>”,</td>
+                            </tr>
+                            <tr>
+                                
+                                <td colspan="5">where—</td>
+                            </tr>
+                            <tr>
+                                
+                                <td colspan="3" class="align_right cellpadding_right_14">H</td>
+                                
+                                
+                                
+                                <td colspan="2" class="cellpadding_left_20 align_justified cellpadding_bottom_5"> is the height of the horizontal subdivision above the baseline
+                                    (in metres) which is assumed to limit the vertical extent of
+                                    damage;</td>
+                            </tr>
+                            <tr>
+                                <td colspan="3" class="align_right cellpadding_right_3">H<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">max</sub></td>
+                                
+                                
+                                
+                                <td colspan="2" class="cellpadding_left_20 cellpadding_bottom_5 align_justified">is the maximum possible vertical extent of damage above the
+                                    baseline (in metres); or</td>
+                            </tr>
+                            <tr>
+                                <td colspan="3" class="align_right cellpadding_right_3">H<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">max</sub></td>
+                                
+                                
+                                
+                                <td colspan="2" class="cellpadding_left_20 cellpadding_bottom_5">= d
+                                    + 0.056L<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">s</sub> (1
+                                        <span class="force_eng_font">−</span>
+                                        L<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">s</sub>/500),</td>
+                            </tr>
+                            <tr>
+                                <td></td>
+                                <td></td>
+                                
+                                
+                                <td></td>
+                                
+                                
+                                
+                                <td colspan="2" class="cellpadding_left_90 cellpadding_bottom_5">if
+                                        L<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">s</sub> ≤ 250
+                                    m;</td>
+                            </tr>
+                            <tr>
+                                <td colspan="3" class="align_right cellpadding_right_3">H<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">max</sub></td>
+                                
+                                
+                                <td colspan="2" class="cellpadding_left_20"> = d + 7, if L<sub xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">s</sub> ＞ 250
+                                    m,</td>
+                            </tr>
+                            <tr>
+                                
+                                <td colspan="5" class="cellpadding_top_5 left_indent_30">whichever
+                                    is
+                                    less.</td>
+                                
+                                
+                            </tr>
+                        </tbody>
+                    </table>
+                </continued></section></part><part id="ID_1438412168852_033" name="PV" temporalId="sch0_PV"><num value="V"><inline>Part
+                    V</inline></num><heading><inline>Permeability</inline></heading><text class="first_line_indent_0 left_indent_0 align_justified">For the purpose of the
+                subdivision and damage stability calculations of this Regulation, the permeability
+                of each space or part of a space shall be as follows—</text><text class="left_indent_36">
+                
+                <table xmlns="http://www.w3.org/1999/xhtml" frame="void" class="left_indent_48 repeat_header" width="446">
+                    
+                    <col width="55%"></col>
+                    
+                    <col width="45%"></col>
+                    
+                    <thead>
+                        <tr>
+                            <td class="align_center cellpadding_bottom_5">Space</td>
+                            <td class="align_center cellpadding_bottom_5">Permeability</td>
+                        </tr>
+                    </thead>
+                    
+                    <tbody>
+                        
+                        <tr>
+                            <td>Appropriated to stores</td>
+                            
+                            <td class="align_center cellpadding_right_25">0.60</td>
+                        </tr>
+                        <tr>
+                            <td>Occupied by accommodation</td>
+                            
+                            <td class="align_center cellpadding_right_25">0.95</td>
+                        </tr>
+                        <tr>
+                            <td>Occupied by machinery</td>
+                            
+                            <td class="align_center cellpadding_right_25">0.85</td>
+                        </tr>
+                        <tr>
+                            <td>Void spaces</td>
+                            
+                            <td class="align_center cellpadding_right_25">0.95</td>
+                        </tr>
+                        <tr>
+                            <td>Dry cargo spaces</td>
+                            
+                            <td class="align_center cellpadding_right_25">0.70</td>
+                        </tr>
+                        <tr>
+                            <td>Intended for liquid</td>
+                            
+                            <td class="align_center">0 or 0.95*</td>
+                        </tr>
+                        
+                    </tbody>
+                </table>
+            </text><text><marker role="blank-line"></marker>*
+                whichever results in the more severe requirements.</text></part></schedule></main></subLeg>

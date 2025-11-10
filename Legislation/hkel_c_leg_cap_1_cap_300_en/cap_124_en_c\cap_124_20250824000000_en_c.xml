@@ -1,0 +1,659 @@
+<?xml version="1.0" encoding="UTF-8"?><ordinance xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd" xml:lang="en"><meta><docName>Cap. 124</docName><docType>cap</docType><docNumber>124</docNumber><docStatus>In effect</docStatus><dc:identifier>/hk/cap124!en</dc:identifier><dc:date>2025-08-24</dc:date><dc:subject>legislation</dc:subject><dc:language>en</dc:language><dc:publisher>DoJ</dc:publisher><dc:rights>the Government of the Hong Kong Special Administrative Region</dc:rights></meta><main xml:lang="en" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd"><longTitle id="ID_1438402654461_001" name="longTitle" reason="inEffect" status="operational" temporalId="longTitle" startPeriod="2018-06-28">
+            <content>To facilitate the resumption of Government lands required for public
+                purposes.</content>
+        </longTitle><sourceNote>(Amended <ref href="/hk/1911/50">50 of 1911</ref>; <ref href="/hk/1912/1">1 of
+                1912 </ref>Schedule; <ref href="/hk/1998/29">29 of 1998 s.
+            31</ref>)<marker role="blank-line"></marker><marker role="blank-line"></marker></sourceNote><commencementNote>[14 November 1900]</commencementNote><sourceNote>(Format changes—<ref href="/hk/2018/er3">E.R. 3 of 2018</ref>)</sourceNote><part id="ID_1691116599132_001" name="P1" temporalId="P1" startPeriod="2023-09-01" status="operational" reason="inEffect"><num value="1">Part 1</num><heading>Preliminary</heading><sourceNote>(Added <ref href="hk/2023/25">25 of 2023 s. 3</ref>)</sourceNote><section id="ID_1438402654477_001" name="s1" reason="inEffect" startPeriod="2018-06-28" status="operational" temporalId="s1"><num value="1">1.</num><heading>Short title</heading><text>This Ordinance may be cited as the <shortTitle>Lands Resumption
+            Ordinance</shortTitle>.</text><sourceNote>(Amended <ref href="/hk/1924/5">5 of 1924 s. 6</ref>; <ref href="/hk/1998/29">29
+                of 1998 s. 32</ref>)</sourceNote></section><section id="ID_1438402654477_003" name="s2" reason="inEffect" startPeriod="2023-09-01" status="operational" temporalId="s2"><num value="2">2.</num><heading>Interpretation</heading><subsection id="ID_1691118318032_001" name="1" temporalId="s2_1"><num value="1">(1)</num><leadIn>In this Ordinance, unless the context otherwise requires—
+                <sourceNote>(Amended <ref href="hk/2023/25">25 of 2023 s. 4</ref>)</sourceNote></leadIn><def name="AmendmentNotice"><term>amendment notice</term> (<term xml:lang="zh-Hant-HK">修訂公告</term>) means a notice published under <ref>section 2C(1)</ref>;
+                    <sourceNote>(Added <ref href="hk/2023/25">25 of 2023 s. 4</ref>)</sourceNote></def><def name="ApprovedLandUse"><term>approved land use</term> (<term xml:lang="zh-Hant-HK">核准土地用途</term>), in relation to any land, means a particular use of the land
+                shown or provided for in a <ref href="/hk/cap131">Cap. 131</ref> plan where the <ref href="/hk/cap131">Cap. 131</ref> plan has been approved by the Chief Executive
+                in Council under <ref href="/hk/cap131">Cap. 131</ref> and the approval covers that
+                particular use of the land; <sourceNote>(Added <ref href="hk/2023/25">25 of 2023 s. 4</ref>)</sourceNote></def><def name="Authority">
+                <leadIn><term>Authority</term>
+                        (<term xml:lang="zh-Hant-HK">主管當局</term>) means—</leadIn>
+                <paragraph id="ID_1438411149016_026" name="a" temporalId="s2_1_a"><num value="a">(a)</num><content>in relation to land to which Part II of the New Territories Ordinance
+                            (<ref href="/hk/cap97">Cap. 97</ref>) does not apply, the Director of
+                        Lands; and<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1978/ln107">L.N. 107 of 1978</ref>; <ref href="/hk/1982/ln76">L.N. 76 of 1982</ref>; <ref href="/hk/1986/ln94">L.N. 94 of 1986</ref>; <ref href="/hk/1993/ln291">L.N. 291 of 1993</ref>)</sourceNote></content></paragraph>
+                <paragraph id="ID_1438411149016_034" name="b" temporalId="s2_1_b"><num value="b">(b)</num><content>in relation to land to which Part II of the New Territories Ordinance
+                            (<ref href="/hk/cap97">Cap. 97</ref>) applies, the Director of
+                            Lands;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1974/63">63 of 1974 s. 2</ref>. Amended <ref href="/hk/1981/ln370">L.N. 370 of 1981</ref>; <ref href="/hk/1982/ln76">L.N. 76 of 1982</ref>; <ref href="/hk/1986/ln94">L.N. 94 of 1986</ref>; <ref href="/hk/1993/ln291">L.N. 291 of 1993</ref>)</sourceNote></content></paragraph>
+            </def><def name="Cap131"><term><ref href="/hk/cap131">Cap. 131</ref></term> (<term xml:lang="zh-Hant-HK">《<ref href="/hk/cap131">第131章</ref>》</term>) means the
+                Town Planning Ordinance (<ref href="/hk/cap131">Cap. 131</ref>); <sourceNote>(Added <ref href="hk/2023/25">25 of 2023 s. 4</ref>)</sourceNote></def><def name="Cap131Plan"><term><ref href="/hk/cap131">Cap. 131</ref> plan</term> (<term xml:lang="zh-Hant-HK">《<ref href="/hk/cap131">第131章</ref>》圖則</term>)—<paragraph id="ID_1691118318353_002" name="a" temporalId="s2_1_a"><num value="a">(a)</num><content>means a draft plan prepared under <ref href="/hk/cap131">Cap. 131</ref>
+                        or an approved plan or partly approved plan under <ref href="/hk/cap131">Cap. 131</ref>; and</content></paragraph><paragraph id="ID_1691118318356_003" name="b" temporalId="s2_1_b"><num value="b">(b)</num><content>includes a part of such a plan, and an amendment made or proposed
+                        amendment proposed to such a plan (or a part of it) under <ref href="/hk/cap131">Cap. 131</ref>; <sourceNote>(Added <ref href="hk/2023/25">25 of 2023 s. 4</ref>)</sourceNote></content></paragraph></def><def name="FormerOwner"><term>former
+                    owner</term>
+                    (<term xml:lang="zh-Hant-HK">前業主</term>) means, in relation to land resumed by
+                the Government, the person who was the owner of the land immediately before the land
+                reverted to the Government under <ref>section 5</ref>;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1974/63">63 of 1974 s. 2</ref>. Amended <ref href="/hk/1998/29">29 of 1998 s. 105</ref>)</sourceNote></def><def name="Land"><term>land</term>
+                    (<term xml:lang="zh-Hant-HK">土地</term>) means Government land of whatever
+                description (whether held under Government lease or other title recognized by the
+                Government), or any part or section thereof in Hong Kong and the New Territories,
+                and includes buildings erected thereon;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1911/50">50 of 1911</ref>; <ref href="/hk/1911/51">51 of 1911</ref>; <ref href="/hk/1912/1">1 of 1912
+                        </ref><ref>Schedule</ref>; <ref href="/hk/1912/2">2 of 1912
+                        </ref><ref>Schedule</ref>; <ref href="/hk/1998/29">29 of 1998 s.
+                    105</ref>)</sourceNote></def><def name="LandUsePendingApproval"><term>land use pending approval</term> (<term xml:lang="zh-Hant-HK">待准土地用途</term>), in relation to any land, means a
+                particular use of the land that—<paragraph id="ID_1691118318553_004" name="a" temporalId="s2_1_a"><num value="a">(a)</num><content>is shown or provided for in a <ref href="/hk/cap131">Cap. 131</ref>
+                        plan; and</content></paragraph><paragraph id="ID_1691118318555_005" name="b" temporalId="s2_1_b"><num value="b">(b)</num><content>is not the approved land use of the land; <sourceNote>(Added <ref href="hk/2023/25">25 of 2023 s. 4</ref>)</sourceNote></content></paragraph></def><def name="NoticeOfProposedResumption"><term>notice of proposed resumption</term> (<term xml:lang="zh-Hant-HK">建議收地公告</term>) means a notice published under <ref>section
+                    2A(1)</ref>; <sourceNote>(Added <ref href="hk/2023/25">25 of 2023 s. 4</ref>)</sourceNote></def><def name="Owner"><term>owner</term>
+                    (<term xml:lang="zh-Hant-HK">業主</term>) means the person registered or entitled
+                to be registered in the Land Registry in respect of any land sought to be resumed,
+                or, if such person is absent from Hong Kong, or cannot be found, or is bankrupt or
+                dead, his agent or representative in Hong Kong;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1911/50">50 of 1911 s. 4</ref>; <ref href="/hk/1911/51">51 of 1911</ref>; <ref href="/hk/1912/1">1 of 1912
+                        </ref><ref>Schedule</ref>; <ref href="/hk/1912/2">2 of 1912
+                        </ref><ref>Schedule</ref>; <ref href="/hk/1912/21">21 of 1912 s. 2</ref>; <ref href="/hk/1993/8">8 of 1993 s. 2</ref>; <ref href="/hk/2000/3">3 of
+                        2000 s. 3</ref>)</sourceNote></def><def name="ProposalForLandResumption"><term>proposal for land resumption</term> (<term xml:lang="zh-Hant-HK">收回土地建議</term>) means a proposal for the resumption of any land—<paragraph id="ID_1691118318729_006" name="a" temporalId="s2_1_a"><num value="a">(a)</num><content>as stated in a notice of proposed resumption; and</content></paragraph><paragraph id="ID_1691118318730_007" name="b" temporalId="s2_1_b"><num value="b">(b)</num><content>(if applicable) as amended by an amendment notice; <sourceNote>(Added <ref href="hk/2023/25">25 of 2023 s. 4</ref>)</sourceNote></content></paragraph></def><def name="ReferenceInterestRate"><term>reference interest rate</term> (<term xml:lang="zh-Hant-HK">參考利率</term>) means the 1-month Hong Kong Dollar Interest
+                Settlement Rate published by The Hong Kong Association of Banks by the close of
+                business on a day; <sourceNote>(Added <ref href="hk/2023/25">25 of 2023 s. 4</ref>)</sourceNote></def><def name="Secretary"><term>Secretary</term> (<term xml:lang="zh-Hant-HK">局長</term>)
+                means the Secretary for Development. <sourceNote>(Added <ref href="hk/2023/25">25 of 2023 s. 4</ref>)</sourceNote></def><sourceNote>(Amended <ref href="/hk/1911/50">50 of 1911 s.
+                4</ref>; <ref href="hk/2023/25">25 of 2023 s. 4</ref>)</sourceNote></subsection><subsection id="ID_1691118318786_008" name="2" temporalId="s2_2"><num value="2">(2)</num><leadIn>In this Ordinance, a reference to resumption of any land for a public purpose
+                includes—</leadIn><paragraph id="ID_1691118318787_009" name="a" temporalId="s2_2_a"><num value="a">(a)</num><content>resumption of insanitary property for the purpose of securing the erection
+                    of improved dwellings or buildings on the property or the sanitary improvement
+                    of the property;</content></paragraph><paragraph id="ID_1691118318788_010" name="b" temporalId="s2_2_b"><num value="b">(b)</num><content>resumption of any land on which any building is erected which, by reason of
+                    its proximity to or contact with another building, seriously interferes with
+                    ventilation or otherwise makes or conduces to make that other building to be in
+                    a condition unfit for human habitation or dangerous or injurious to
+                    health;</content></paragraph><paragraph id="ID_1691118318788_011" name="c" temporalId="s2_2_c"><num value="c">(c)</num><content>resumption of any land for any purpose connected with the Hong Kong
+                    Garrison;</content></paragraph><paragraph id="ID_1691118318789_012" name="d" temporalId="s2_2_d"><num value="d">(d)</num><content>resumption of any land for the purposes of, or incidental to, any works, or
+                    any use, as defined by <ref>section 2(1)</ref> of the Roads (Works, Use and
+                    Compensation) Ordinance (<ref href="/hk/cap370">Cap. 370</ref>), proposed or to
+                    be proposed under that Ordinance;</content></paragraph><paragraph id="ID_1691118318791_013" name="e" temporalId="s2_2_e"><num value="e">(e)</num><content>resumption of any land for the purposes of, or incidental to, any works
+                    proposed or to be proposed under the Roads (Works, Use and Compensation)
+                    Ordinance (<ref href="/hk/cap370">Cap. 370</ref>) as applied by <ref>section
+                        26</ref> of the Water Pollution Control (Sewerage) Regulation (<ref href="/hk/cap358AL">Cap. 358 sub. leg. AL</ref>);</content></paragraph><paragraph id="ID_1691118318794_014" name="f" temporalId="s2_2_f"><num value="f">(f)</num><content>resumption of any land for the purposes of, or incidental to, any scheme,
+                    as defined by <ref>section 2</ref> of the Railways Ordinance (<ref href="/hk/cap519">Cap. 519</ref>), proposed or to be proposed under that
+                    Ordinance; and</content></paragraph><paragraph id="ID_1691118318796_015" name="g" temporalId="s2_2_g"><num value="g">(g)</num><content>resumption of any land for any purpose (of whatever description, and
+                    whether or not of the same kind as a purpose described in another paragraph of
+                    this subsection) decided by the Chief Executive in Council to be a public
+                    purpose. <sourceNote>(Added <ref href="hk/2023/25">25 of 2023 s. 4</ref>)</sourceNote></content></paragraph></subsection></section></part><part id="ID_1691118809187_001" name="P2" temporalId="P2" startPeriod="2023-09-01" status="operational" reason="inEffect"><num value="2">Part 2</num><heading>Proposal for
+            Land Resumption</heading><sourceNote>(<ref>Part 2</ref> added <ref href="hk/2023/25">25 of 2023 s. 5</ref>)</sourceNote><section id="ID_1691118811725_002" name="s2A" temporalId="s2A" startPeriod="2023-09-01" status="operational" reason="inEffect"><num value="2A">2A.</num><heading>Notice of proposed resumption</heading><subsection id="ID_1691119137385_001" name="1" temporalId="s2A_1"><num value="1">(1)</num><content>If the Authority proposes that any land is to be resumed for a public purpose,
+                the Authority must publish a notice of the proposal in the Gazette.</content></subsection><subsection id="ID_1691119137386_002" name="2" temporalId="s2A_2"><num value="2">(2)</num><leadIn>The notice of proposed resumption must—</leadIn><paragraph id="ID_1691119137386_003" name="a" temporalId="s2A_2_a"><num value="a">(a)</num><content>describe the public purpose for which the land is proposed to be
+                    resumed;</content></paragraph><paragraph id="ID_1691119137387_004" name="b" temporalId="s2A_2_b"><num value="b">(b)</num><content>describe the land proposed to be resumed;</content></paragraph><paragraph id="ID_1691119137388_005" name="c" temporalId="s2A_2_c"><num value="c">(c)</num><content>refer to a plan that shows the land proposed to be resumed in a manner
+                    sufficient to identify the land (<i><b>relevant plan</b></i>); and</content></paragraph><paragraph id="ID_1691119137388_006" name="d" temporalId="s2A_2_d"><num value="d">(d)</num><content>state how the public may inspect a copy of the relevant plan.</content></paragraph></subsection><subsection id="ID_1691119137389_007" name="3" temporalId="s2A_3"><num value="3">(3)</num><leadIn>The Authority must—</leadIn><paragraph id="ID_1691119137389_008" name="a" temporalId="s2A_3_a"><num value="a">(a)</num><content>deposit a copy of the notice of proposed resumption and of the relevant
+                    plan in the Land Registry;</content></paragraph><paragraph id="ID_1691119137390_009" name="b" temporalId="s2A_3_b"><num value="b">(b)</num><content>publish a copy of the notice of proposed resumption and of the relevant
+                    plan on the website of the Authority;</content></paragraph><paragraph id="ID_1691119137390_010" name="c" temporalId="s2A_3_c"><num value="c">(c)</num><content>make a copy of the notice of proposed resumption and of the relevant plan
+                    available for inspection by the public free of charge at the time and place as
+                    the Authority reasonably directs;</content></paragraph><paragraph id="ID_1691119137391_011" name="d" temporalId="s2A_3_d"><num value="d">(d)</num><content>publish a copy of the notice of proposed resumption in 1 issue of an
+                    English newspaper and 1 issue of a Chinese newspaper; and</content></paragraph><paragraph id="ID_1691119137391_012" name="e" temporalId="s2A_3_e"><num value="e">(e)</num><content>affix a copy of the notice of proposed resumption in a conspicuous place on
+                    or near the land proposed to be resumed.</content></paragraph></subsection><subsection id="ID_1691119137392_013" name="4" temporalId="s2A_4"><num value="4">(4)</num><leadIn>If—</leadIn><paragraph id="ID_1691119137392_014" name="a" temporalId="s2A_4_a"><num value="a">(a)</num><content>a <ref href="/hk/cap131">Cap. 131</ref> plan that shows or makes provision
+                    for a land use pending approval in relation to any land is exhibited or made
+                    available for public inspection under any provision (other than <ref>section
+                        9D</ref> or <ref>11</ref>) of <ref href="/hk/cap131">Cap. 131</ref>;
+                    and</content></paragraph><paragraph id="ID_1691119137396_015" name="b" temporalId="s2A_4_b"><num value="b">(b)</num><content>the land use pending approval is the public purpose for which the Authority
+                    proposes to resume the land,</content></paragraph><continued>the Authority may publish a notice of proposed resumption in respect of the
+                land on or after the date on which the <ref href="/hk/cap131">Cap. 131</ref> plan
+                begins to be so exhibited or made available.</continued></subsection></section><section id="ID_1691118812098_003" name="s2B" temporalId="s2B" startPeriod="2023-09-01" status="operational" reason="inEffect"><num value="2B">2B.</num><heading>Objections relating to notice of proposed resumption</heading><subsection id="ID_1691119326594_001" name="1" temporalId="s2B_1"><num value="1">(1)</num><leadIn>Within 60 days after a notice of proposed resumption is published, the following
+                person may object to the proposal for the resumption of the land stated in the
+                notice by delivering an objection in writing to the Authority—</leadIn><paragraph id="ID_1691119326594_002" name="a" temporalId="s2B_1_a"><num value="a">(a)</num><content>an owner or occupier of that land; or</content></paragraph><paragraph id="ID_1691119326595_003" name="b" temporalId="s2B_1_b"><num value="b">(b)</num><content>a person having any right in relation to that land.</content></paragraph></subsection><subsection id="ID_1691119326595_004" name="2" temporalId="s2B_2"><num value="2">(2)</num><leadIn>An objection made by a person (<i><b>objector</b></i>) must—</leadIn><paragraph id="ID_1691119326595_005" name="a" temporalId="s2B_2_a"><num value="a">(a)</num><content>sufficiently identify the objector as a person falling within subsection
+                    (1); and</content></paragraph><paragraph id="ID_1691119326596_006" name="b" temporalId="s2B_2_b"><num value="b">(b)</num><content>describe the manner in which the objector alleges the objector will be
+                    affected by the proposal.</content></paragraph></subsection><subsection id="ID_1691119326596_007" name="3" temporalId="s2B_3"><num value="3">(3)</num><content>An objection that is not made by a person falling within subsection (1), or
+                that does not comply with subsection (2), is invalid and treated as not having been
+                made for the purposes of <ref>section 2G</ref>.</content></subsection></section><section id="ID_1691118812236_004" name="s2C" temporalId="s2C" startPeriod="2023-09-01" status="operational" reason="inEffect"><num value="2C">2C.</num><heading>Amendment notice</heading><subsection id="ID_1691119475343_001" name="1" temporalId="s2C_1"><num value="1">(1)</num><content>The Authority may, by notice published in the Gazette, amend a proposal for
+                land resumption before the proposal is submitted to the Chief Executive in Council
+                under <ref>section 2G</ref>.</content></subsection><subsection id="ID_1691119475345_002" name="2" temporalId="s2C_2"><num value="2">(2)</num><leadIn>The amendment notice must—</leadIn><paragraph id="ID_1691119475346_003" name="a" temporalId="s2C_2_a"><num value="a">(a)</num><content>describe the amendment to the proposal for land resumption;</content></paragraph><paragraph id="ID_1691119475347_004" name="b" temporalId="s2C_2_b"><num value="b">(b)</num><content>refer to a plan that shows the amendment (<i><b>relevant plan</b></i>);
+                    and</content></paragraph><paragraph id="ID_1691119475347_005" name="c" temporalId="s2C_2_c"><num value="c">(c)</num><content>state how the public may inspect a copy of the relevant plan.</content></paragraph></subsection><subsection id="ID_1691119475348_006" name="3" temporalId="s2C_3"><num value="3">(3)</num><leadIn>The Authority must—</leadIn><paragraph id="ID_1691119475349_007" name="a" temporalId="s2C_3_a"><num value="a">(a)</num><content>deposit a copy of the amendment notice and of the relevant plan in the Land
+                    Registry;</content></paragraph><paragraph id="ID_1691119475350_008" name="b" temporalId="s2C_3_b"><num value="b">(b)</num><content>publish a copy of the amendment notice and of the relevant plan on the
+                    website of the Authority;</content></paragraph><paragraph id="ID_1691119475351_009" name="c" temporalId="s2C_3_c"><num value="c">(c)</num><content>make a copy of the amendment notice and of the relevant plan available for
+                    inspection by the public free of charge at the time and place as the Authority
+                    reasonably directs;</content></paragraph><paragraph id="ID_1691119475351_010" name="d" temporalId="s2C_3_d"><num value="d">(d)</num><content>publish a copy of the amendment notice in 1 issue of an English newspaper
+                    and 1 issue of a Chinese newspaper; and</content></paragraph><paragraph id="ID_1691119475352_011" name="e" temporalId="s2C_3_e"><num value="e">(e)</num><content>affix a copy of the amendment notice in a conspicuous place on or near the
+                    land affected by the amendment.</content></paragraph></subsection><subsection id="ID_1691119475353_012" name="4" temporalId="s2C_4"><num value="4">(4)</num><leadIn>If—</leadIn><paragraph id="ID_1691119475354_013" name="a" temporalId="s2C_4_a"><num value="a">(a)</num><content>a <ref href="/hk/cap131">Cap. 131</ref> plan that shows or makes provision
+                    for a land use pending approval in relation to any land is exhibited or made
+                    available for public inspection under any provision (other than <ref>section
+                        9D</ref> or <ref>11</ref>) of <ref href="/hk/cap131">Cap. 131</ref>;
+                    and</content></paragraph><paragraph id="ID_1691119475359_014" name="b" temporalId="s2C_4_b"><num value="b">(b)</num><content>an amendment to be made by an amendment notice under subsection (1) relates
+                    to the land use pending approval,</content></paragraph><continued>the Authority may publish the amendment notice on or after the date on which
+                the <ref href="/hk/cap131">Cap. 131</ref> plan begins to be so exhibited or made
+                available.</continued></subsection></section><section id="ID_1691118812349_005" name="s2D" temporalId="s2D" startPeriod="2023-09-01" status="operational" reason="inEffect"><num value="2D">2D.</num><heading>Objections relating to amendment notice</heading><subsection id="ID_1691119560752_001" name="1" temporalId="s2D_1"><num value="1">(1)</num><leadIn>Within 60 days after an amendment notice is published, the following person may
+                object to the amendment made by the notice by delivering an objection in writing to
+                the Authority—</leadIn><paragraph id="ID_1691119560753_002" name="a" temporalId="s2D_1_a"><num value="a">(a)</num><content>an owner or occupier of the land affected by the amendment; or</content></paragraph><paragraph id="ID_1691119560754_003" name="b" temporalId="s2D_1_b"><num value="b">(b)</num><content>a person having any right in relation to that land.</content></paragraph></subsection><subsection id="ID_1691119560755_004" name="2" temporalId="s2D_2"><num value="2">(2)</num><leadIn>An objection made by a person (<i><b>objector</b></i>) must—</leadIn><paragraph id="ID_1691119560756_005" name="a" temporalId="s2D_2_a"><num value="a">(a)</num><content>sufficiently identify the objector as a person falling within subsection
+                    (1); and</content></paragraph><paragraph id="ID_1691119560757_006" name="b" temporalId="s2D_2_b"><num value="b">(b)</num><content>describe the manner in which the objector alleges the objector will be
+                    affected by the amendment.</content></paragraph></subsection><subsection id="ID_1691119560758_007" name="3" temporalId="s2D_3"><num value="3">(3)</num><content>An objection that is not made by a person falling within subsection (1), or
+                that does not comply with subsection (2), is invalid and treated as not having been
+                made for the purposes of <ref>section 2G</ref>.</content></subsection></section><section id="ID_1691118812501_006" name="s2E" temporalId="s2E" startPeriod="2023-09-01" status="operational" reason="inEffect"><num value="2E">2E.</num><heading>Supplementary provisions relating to objections</heading><subsection id="ID_1691119753406_001" name="1" temporalId="s2E_1"><num value="1">(1)</num><content>This section applies if a person (<b><i>objector</i></b>) makes an objection
+                under <ref>section 2B</ref> or <ref>2D</ref> (<b><i>objection</i></b>).</content></subsection><subsection id="ID_1691119753409_002" name="2" temporalId="s2E_2"><num value="2">(2)</num><content>An objection made on a ground relating to any compensation (whether monetary or
+                non-monetary) or any financial or other assistance (<i><b>compensation or
+                        assistance</b></i>) in connection with the proposal for land resumption is,
+                to the extent that it is made on that ground, invalid and treated as not having been
+                made for the purposes of <ref>section 2G</ref>.</content></subsection><subsection id="ID_1691119753411_003" name="3" temporalId="s2E_3"><num value="3">(3)</num><leadIn>In subsection (2), the reference to a ground relating to any compensation or
+                assistance includes—</leadIn><paragraph id="ID_1691119753411_004" name="a" temporalId="s2E_3_a"><num value="a">(a)</num><content>a ground relating to whether any compensation or assistance is to be
+                    provided, whether or not under an enactment; and</content></paragraph><paragraph id="ID_1691119753412_005" name="b" temporalId="s2E_3_b"><num value="b">(b)</num><content>a ground relating to the amount, extent or form of the compensation or
+                    assistance, or the time for its provision.</content></paragraph></subsection><subsection id="ID_1691119753413_006" name="4" temporalId="s2E_4"><num value="4">(4)</num><content>If the Authority gives any written reply to an objection, the objector may give
+                a response to the reply (including any comment on, or any request in connection
+                with, the reply) within the period of 14 days after the day on which the reply is
+                given.</content></subsection><subsection id="ID_1691119753413_007" name="5" temporalId="s2E_5"><num value="5">(5)</num><content>For subsection (4), the mere notification by the Authority that the objection
+                is treated as unwithdrawn and will be submitted to the Chief Executive in Council
+                does not constitute a reply.</content></subsection><subsection id="ID_1691119753414_008" name="6" temporalId="s2E_6"><num value="6">(6)</num><content>A response that is given after the 14-day period mentioned in subsection (4) is
+                treated as not having been given.</content></subsection><subsection id="ID_1691119753414_009" name="7" temporalId="s2E_7"><num value="7">(7)</num><leadIn>An objector may, by writing to the Authority—</leadIn><paragraph id="ID_1691119753415_010" name="a" temporalId="s2E_7_a"><num value="a">(a)</num><content>amend an objection made by the objector within the relevant period for
+                    making objections; or</content></paragraph><paragraph id="ID_1691119753415_011" name="b" temporalId="s2E_7_b"><num value="b">(b)</num><content>withdraw the objection in whole or in part before the proposal for land
+                    resumption is submitted under <ref>section 2G</ref>.</content></paragraph></subsection><subsection id="ID_1691119753417_012" name="8" temporalId="s2E_8"><num value="8">(8)</num><content>An objection (or a part of an objection) that has been withdrawn is treated as
+                not having been made for the purposes of <ref>section 2G</ref>.</content></subsection><subsection id="ID_1691119753419_013" name="9" temporalId="s2E_9"><num value="9">(9)</num><leadIn>An objection, an amendment or withdrawal of an objection, or a response
+                (referred to in subsection (4)) may be given to the Authority by—</leadIn><paragraph id="ID_1691119753420_014" name="a" temporalId="s2E_9_a"><num value="a">(a)</num><content>delivering it to an officer who is authorized by the Authority to receive
+                    it on the Authority’s behalf;</content></paragraph><paragraph id="ID_1691119753420_015" name="b" temporalId="s2E_9_b"><num value="b">(b)</num><content>sending it by ordinary or registered post;</content></paragraph><paragraph id="ID_1691119753421_016" name="c" temporalId="s2E_9_c"><num value="c">(c)</num><content>sending it by electronic mail transmission to an electronic mail address
+                    specified by the Authority; or</content></paragraph><paragraph id="ID_1691119753421_017" name="d" temporalId="s2E_9_d"><num value="d">(d)</num><content>sending it by fax transmission to a fax number specified by the
+                    Authority.</content></paragraph></subsection><subsection id="ID_1691119753423_018" name="10" temporalId="s2E_10"><num value="10">(10)</num><leadIn>A reply (referred to in subsection (4)) may be given to the objector
+                by—</leadIn><paragraph id="ID_1691119753424_019" name="a" temporalId="s2E_10_a"><num value="a">(a)</num><content>delivering it to the objector personally;</content></paragraph><paragraph id="ID_1691119753424_020" name="b" temporalId="s2E_10_b"><num value="b">(b)</num><content>leaving it at the objector’s last known address;</content></paragraph><paragraph id="ID_1691119753425_021" name="c" temporalId="s2E_10_c"><num value="c">(c)</num><content>sending it by ordinary or registered post addressed to the objector at the
+                    objector’s last known address;</content></paragraph><paragraph id="ID_1691119753425_022" name="d" temporalId="s2E_10_d"><num value="d">(d)</num><content>sending it by electronic mail transmission to the objector’s last known
+                    electronic mail address; or</content></paragraph><paragraph id="ID_1691119753426_023" name="e" temporalId="s2E_10_e"><num value="e">(e)</num><content>sending it by fax transmission to the objector’s last known fax
+                    number.</content></paragraph></subsection></section><section id="ID_1691118812601_007" name="s2F" temporalId="s2F" startPeriod="2023-09-01" status="operational" reason="inEffect"><num value="2F">2F.</num><heading>Decision not to proceed with proposal for land resumption</heading><subsection id="ID_1691119836548_001" name="1" temporalId="s2F_1"><num value="1">(1)</num><content>Before a proposal for land resumption is submitted to the Chief Executive in
+                Council under <ref>section 2G</ref>, if the Authority decides not to proceed with
+                the proposal, the Authority must publish a notice of the decision in the
+                Gazette.</content></subsection><subsection id="ID_1691119836551_002" name="2" temporalId="s2F_2"><num value="2">(2)</num><leadIn>The Authority must—</leadIn><paragraph id="ID_1691119836552_003" name="a" temporalId="s2F_2_a"><num value="a">(a)</num><content>deposit a copy of the notice in the Land Registry;</content></paragraph><paragraph id="ID_1691119836553_004" name="b" temporalId="s2F_2_b"><num value="b">(b)</num><content>publish a copy of the notice on the website of the Authority;</content></paragraph><paragraph id="ID_1691119836554_005" name="c" temporalId="s2F_2_c"><num value="c">(c)</num><content>publish a copy of the notice in 1 issue of an English newspaper and 1 issue
+                    of a Chinese newspaper; and</content></paragraph><paragraph id="ID_1691119836555_006" name="d" temporalId="s2F_2_d"><num value="d">(d)</num><content>affix a copy of the notice in a conspicuous place on or near the land
+                    originally proposed to be resumed under the proposal for land
+                    resumption.</content></paragraph></subsection><subsection id="ID_1691119836556_007" name="3" temporalId="s2F_3"><num value="3">(3)</num><content>A decision under subsection (1) does not affect anything lawfully done under
+                this Ordinance before the decision is made.</content></subsection></section><section id="ID_1691118812701_008" name="s2G" temporalId="s2G" startPeriod="2023-09-01" status="operational" reason="inEffect"><num value="2G">2G.</num><heading>Submission of proposal for land resumption to Chief Executive in Council</heading><subsection id="ID_1691392644214_001" name="1" temporalId="s2G_1"><num value="1">(1)</num><leadIn>The Authority must, before the expiry of the period determined in accordance
+                with subsections (2) and (3), submit to the Chief Executive in Council for
+                consideration—</leadIn><paragraph id="ID_1691392644215_002" name="a" temporalId="s2G_1_a"><num value="a">(a)</num><content>the proposal for land resumption;</content></paragraph><paragraph id="ID_1691392644215_003" name="b" temporalId="s2G_1_b"><num value="b">(b)</num><content>any objection made under <ref>section 2B</ref> within the period for making
+                    objections under that section; and</content></paragraph><paragraph id="ID_1691392644217_004" name="c" temporalId="s2G_1_c"><num value="c">(c)</num><content>if an amendment notice is published in relation to the proposal—any
+                    objection made under <ref>section 2D</ref> within the period for making
+                    objections under that section.</content></paragraph></subsection><subsection id="ID_1691392644219_005" name="2" temporalId="s2G_2"><num value="2">(2)</num><leadIn>Except as extended under subsection (3), the period mentioned in subsection (1)
+                is—</leadIn><paragraph id="ID_1691392644220_006" name="a" temporalId="s2G_2_a"><num value="a">(a)</num><content>unless paragraph (b) applies—5 months after the date of expiry of the time
+                    for making objections under <ref>section 2B</ref>; or</content></paragraph><paragraph id="ID_1691392644221_007" name="b" temporalId="s2G_2_b"><num value="b">(b)</num><leadIn>if one or more amendment notices are published in relation to the proposal
+                    for land resumption—whichever of the following periods that ends later—</leadIn><subparagraph id="ID_1691392644222_008" name="1" temporalId="s2G_2_b_1"><num value="1">(i)</num><content>the period mentioned in paragraph (a);</content></subparagraph><subparagraph id="ID_1691392644223_009" name="2" temporalId="s2G_2_b_2"><num value="2">(ii)</num><content>3 months after the date of expiry of the time for making objections
+                        under <ref>section 2D</ref> in respect of the amendment notice (or the last
+                        of the amendment notices).</content></subparagraph></paragraph></subsection><subsection id="ID_1691392644225_010" name="3" temporalId="s2G_3"><num value="3">(3)</num><leadIn>The Secretary may, on application by the Authority—</leadIn><paragraph id="ID_1691392644225_011" name="a" temporalId="s2G_3_a"><num value="a">(a)</num><content>extend the period mentioned in subsection (2) for 2 months if the Secretary
+                    considers it appropriate to do so in a particular case; and</content></paragraph><paragraph id="ID_1691392644226_012" name="b" temporalId="s2G_3_b"><num value="b">(b)</num><content>further extend the period on not more than 2 occasions and for 2 months for
+                    each extension if the Secretary is satisfied that exceptional circumstances
+                    exist in a particular case.</content></paragraph></subsection><subsection id="ID_1691392644226_013" name="4" temporalId="s2G_4"><num value="4">(4)</num><leadIn>Despite subsections (1), (2) and (3), if—</leadIn><paragraph id="ID_1691392644227_014" name="a" temporalId="s2G_4_a"><num value="a">(a)</num><content>the notice of proposed resumption is published in the circumstances
+                    described in <ref>section 2A(4)</ref>; or</content></paragraph><paragraph id="ID_1691392644229_015" name="b" temporalId="s2G_4_b"><num value="b">(b)</num><content>an amendment notice in respect of the proposal for land resumption is
+                    published in the circumstances described in <ref>section 2C(4)</ref>,</content></paragraph><continued>the submission to the Chief Executive in Council under subsection (1) may not
+                be made before a submission of the relevant <ref href="/hk/cap131">Cap. 131</ref>
+                plan covering the land use pending approval referred to in <ref>section 2A(4)</ref>
+                or <ref>2C(4)</ref> (as the case may be)
+                            (<b><i><ref href="/hk/cap131">Cap. 131</ref> submission</i></b>) is made to the
+                Chief Executive in Council for approval under <ref href="/hk/cap131">Cap.
+                131</ref>.</continued></subsection><subsection id="ID_1691392644235_016" name="5" temporalId="s2G_5"><num value="5">(5)</num><content>If subsection (4) applies, the submission to the Chief Executive in Council
+                under subsection (1) must be made within a reasonable time after the making of the
+                    <ref href="/hk/cap131">Cap. 131</ref> submission.</content></subsection></section></part><part id="ID_1691120213332_001" name="P3" temporalId="P3" startPeriod="2023-09-01" status="operational" reason="inEffect"><num value="3">Part 3</num><heading>Resumption of
+            Land for Public Purpose</heading><sourceNote>(Added <ref href="hk/2023/25">25 of 2023 s. 6</ref>)</sourceNote><section id="ID_1438402654508_002" name="s3" reason="inEffect" startPeriod="2023-09-01" status="operational" temporalId="s3"><num value="3">3.</num><heading>Authorization of and order for resumption of land</heading><subsection id="ID_1691120587556_001" name="1" temporalId="s3_1"><num value="1">(1)</num><leadIn>The Chief Executive in Council, after considering a proposal for land resumption
+                and any objection submitted under <ref>section 2G</ref>, may—</leadIn><paragraph id="ID_1691120587557_002" name="a" temporalId="s3_1_a"><num value="a">(a)</num><leadIn>authorize the resumption of the land for a public purpose —</leadIn><subparagraph id="ID_1691120587558_003" name="1" temporalId="s3_1_a_1"><num value="1">(i)</num><content>with or without any modification to the proposal; and</content></subparagraph><subparagraph id="ID_1691120587558_004" name="2" temporalId="s3_1_a_2"><num value="2">(ii)</num><content>subject to any condition that the Chief Executive in Council considers
+                        appropriate; or</content></subparagraph></paragraph><paragraph id="ID_1691120587559_005" name="b" temporalId="s3_1_b"><num value="b">(b)</num><content>decline to authorize the resumption of the land.</content></paragraph></subsection><subsection id="ID_1691120587559_006" name="2" temporalId="s3_2"><num value="2">(2)</num><leadIn>The Chief Executive in Council may reconsider a proposal for land resumption
+                and—</leadIn><paragraph id="ID_1691120587559_007" name="a" temporalId="s3_2_a"><num value="a">(a)</num><content>authorize the resumption of the land for a public purpose which the Chief
+                    Executive in Council has previously declined to authorize under subsection
+                        <ref>(1)(b)</ref>; or</content></paragraph><paragraph id="ID_1691120587560_008" name="b" temporalId="s3_2_b"><num value="b">(b)</num><content>remove or amend any modification or condition referred to in subsection
+                        <ref>(1)(a)</ref> in relation to an authorization previously made under that
+                    subsection.</content></paragraph></subsection><subsection id="ID_1691120587561_009" name="3" temporalId="s3_3"><num value="3">(3)</num><content>If the Chief Executive in Council authorizes the resumption of any land under
+                subsection (1) or (2), the Chief Executive may order the resumption of the land in
+                accordance with the authorization.</content></subsection><subsection id="ID_1691120587562_010" name="4" temporalId="s3_4"><num value="4">(4)</num><leadIn>Despite subsections (1) and (2), if—</leadIn><paragraph id="ID_1691120587562_011" name="a" temporalId="s3_4_a"><num value="a">(a)</num><content>the notice of proposed resumption is published in the circumstances
+                    described in <ref>section 2A(4)</ref>; or</content></paragraph><paragraph id="ID_1691120587563_012" name="b" temporalId="s3_4_b"><num value="b">(b)</num><content>an amendment notice in respect of the proposal for land resumption is
+                    published in the circumstances described in <ref>section 2C(4)</ref>,</content></paragraph><continued>the Chief Executive in Council may make an authorization under subsection (1)
+                or (2) only if the Chief Executive in Council has approved the relevant <ref href="/hk/cap131">Cap. 131</ref> plan under <ref href="/hk/cap131">Cap.
+                    131</ref> and the approval covers the land use pending approval referred to in
+                    <ref>section 2A(4)</ref> or <ref>2C(4)</ref> (as the case may be).</continued></subsection><subsection id="ID_1691120587567_013" name="5" temporalId="s3_5"><num value="5">(5)</num><leadIn>If the Chief Executive in Council declines to authorize the resumption of the
+                land under subsection <ref>(1)(b)</ref>, the Authority must—</leadIn><paragraph id="ID_1691120587568_014" name="a" temporalId="s3_5_a"><num value="a">(a)</num><content>publish a notice of that fact in the Gazette;</content></paragraph><paragraph id="ID_1691120587568_015" name="b" temporalId="s3_5_b"><num value="b">(b)</num><content>deposit a copy of the notice in the Land Registry;</content></paragraph><paragraph id="ID_1691120587569_016" name="c" temporalId="s3_5_c"><num value="c">(c)</num><content>publish a copy of the notice on the website of the Authority;</content></paragraph><paragraph id="ID_1691120587569_017" name="d" temporalId="s3_5_d"><num value="d">(d)</num><content>publish a copy of the notice in 1 issue of an English newspaper and 1 issue
+                    of a Chinese newspaper; and</content></paragraph><paragraph id="ID_1691120587569_018" name="e" temporalId="s3_5_e"><num value="e">(e)</num><content>affix a copy of the notice in a conspicuous place on or near the
+                    land.</content></paragraph></subsection><sourceNote>(Replaced <ref href="hk/2023/25">25 of 2023 s. 7</ref>)</sourceNote></section><section id="ID_1438402654555_001" name="s4" reason="inEffect" startPeriod="2023-09-01" status="operational" temporalId="s4"><num value="4">4.</num><heading>Notices</heading><subsection id="ID_1438411149110_011" name="1" temporalId="s4_1"><num value="1">(1)</num><content>Where resumption is ordered a notice that the land is required for a public
+                purpose and will be resumed shall be published in the Gazette in English and
+                    Chinese.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1974/63">63 of 1974 s. 4</ref>)</sourceNote>
+            </content></subsection><subsection id="ID_1438411149110_019" name="2" temporalId="s4_2"><num value="2">(2)</num><content>A copy of such notice shall be served on the owner, if he can be found, and a
+                further notice shall be affixed upon a conspicuous part of the land to be resumed
+                or, where the land is divided into lots, sections or subsections, if practicable,
+                upon each lot, section or subsection affected. </content></subsection><subsection id="ID_1438411149110_027" name="3" temporalId="s4_3"><num value="3">(3)</num><content>The notice affixed to the land shall state the date on which it has been so
+                affixed. It shall also state that the land will be resumed on the expiration of 1
+                month from such date, unless the Chief Executive shall have authorized the giving of
+                a longer period of notice, in which case the longer period shall be stated.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/2000/3">3 of 2000
+                        s. 3</ref>)</sourceNote>
+            </content></subsection><subsection id="ID_1691120793206_001" name="3A" temporalId="s4_3A"><num value="3A">(3A)</num><leadIn>Also, the Authority must—</leadIn><paragraph id="ID_1691120793207_002" name="a" temporalId="s4_3A_a"><num value="a">(a)</num><content>publish a copy of the notice on the website of the Authority;</content></paragraph><paragraph id="ID_1691120793208_003" name="b" temporalId="s4_3A_b"><num value="b">(b)</num><content>publish a copy of the notice in 1 issue of an English newspaper and 1 issue
+                    of a Chinese newspaper; and</content></paragraph><paragraph id="ID_1691120793209_004" name="c" temporalId="s4_3A_c"><num value="c">(c)</num><content>make a copy of the notice available for inspection by the public free of
+                    charge at the time and place as the Authority reasonably directs.
+                        <sourceNote>(Added <ref href="hk/2023/25">25 of 2023 s. 8</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438411149125_005" name="4" temporalId="s4_4"><num value="4">(4)</num><content>A notice published and served or affixed under this section shall be deemed to
+                be notice to the owner of the land and every person interested in the land or having
+                any right or easement therein. </content></subsection><sourceNote>(Replaced <ref href="/hk/1930/27">27 of 1930 s. 2</ref>)</sourceNote></section><section id="ID_1438402654586_001" name="s4A" reason="inEffect" startPeriod="2018-06-28" status="operational" temporalId="s4A"><num value="4A">4A.</num><heading>Purchase by agreement</heading><text>Where an order has been made for the resumption of any land under <ref>section
+            3</ref>, the Authority may, before the land reverts to the Government under <ref>section
+                5</ref>, agree with the owner and any person having an estate or an interest in such
+            land under an instrument registered in the Land Registry on the purchase of the land and
+            of any such estate or interest therein, and any such agreement relating to land in
+            respect of which an order under <ref>section 3</ref> is made on or after the
+            commencement*
+            of the Crown Lands Resumption (Amendment) Ordinance 1984 (<ref href="/hk/1984/5">5 of
+                1984</ref>) may provide for the payment by the Authority to the owner or such person
+            of any costs or remuneration reasonably incurred or paid by him in employing persons to
+            act in a professional capacity in connection with the purchase.</text><sourceNote>(Added <ref href="/hk/1974/63">63 of 1974 s. 5</ref>. Amended <ref href="/hk/1984/5">5 of 1984 s. 2</ref>; <ref href="/hk/1993/8">8 of 1993 s. 2</ref>; <ref href="/hk/1998/29">29 of 1998 s. 33</ref>)</sourceNote><editorialNote type="footnote" id="ID_1527650961020_001">
+            <content>Editorial Note:</content>
+            <content><inline class="force_orig_font">*</inline> Commencement date: 13 January
+                1984.</content>
+        </editorialNote></section><section id="ID_1438402654602_001" name="s5" reason="inEffect" startPeriod="2018-06-28" status="operational" temporalId="s5"><num value="5">5.</num><heading>Reversion of ownership to the Government</heading><leadIn>On the expiration of 1 month, or any longer period authorized under <ref>section
+                4(3)</ref>, the land other than any land purchased by agreement under <ref>section
+                4A</ref> shall—</leadIn><paragraph id="ID_1438411149172_040" name="a" temporalId="s5_a"><num value="a">(a)</num><content>where it is an undivided share in land, vest in The Financial Secretary
+                Incorporated together with such rights to the use and occupation of any building or
+                part thereof as may be appurtenant to the ownership of that share; and</content></paragraph><paragraph id="ID_1438411149172_048" name="b" temporalId="s5_b"><num value="b">(b)</num><content>in all other cases, revert to the Government,<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1998/29">29 of 1998 s.
+                    105</ref>)</sourceNote></content></paragraph><continued>and all the rights of the owner, his assigns or representatives and of any other
+            person in or over the land or any part thereof shall absolutely cease.</continued><sourceNote>(Replaced <ref href="/hk/1987/71">71 of 1987 s. 20</ref>)</sourceNote></section></part><part id="ID_1691120938182_001" name="P4" temporalId="P4" startPeriod="2023-09-01" status="operational" reason="inEffect"><num value="4">Part 4</num><heading>Adjustment to
+            Land Boundary after Authorization</heading><sourceNote>(<ref>Part 4</ref> added <ref href="hk/2023/25">25 of 2023 s. 9</ref>)</sourceNote><section id="ID_1691120938660_002" name="s5A" temporalId="s5A" startPeriod="2023-09-01" status="operational" reason="inEffect"><num value="5A">5A.</num><heading>Interpretation of <ref>Part 4</ref></heading><leadIn>In this Part—</leadIn><def name="NoticeOfProposedAdjustment"><term>notice of proposed adjustment</term> (<term xml:lang="zh-Hant-HK">建議調整公告</term>) means a notice published under <ref>section
+                5B(1)</ref>;</def><def name="ProposedAdjustment"><term>proposed adjustment</term> (<term xml:lang="zh-Hant-HK">建議調整</term>) means a proposal for adjusting the boundary of the subject land as
+            stated in a notice of proposed adjustment;</def><def name="SubjectLand"><term>subject land</term> (<term xml:lang="zh-Hant-HK">所涉土地</term>)
+            means the land described in <ref>section 5B(1)(a)</ref> or (b) the boundary of which is
+            proposed to be adjusted.</def></section><section id="ID_1691120938853_003" name="s5B" temporalId="s5B" startPeriod="2023-09-01" status="operational" reason="inEffect"><num value="5B">5B.</num><heading>Notice of proposed adjustment</heading><subsection id="ID_1691121687864_001" name="1" temporalId="s5B_1"><num value="1">(1)</num><leadIn>Subject to subsection (2), after an authorization is made under <ref>section
+                    3(1)</ref> or (2) (<b><i>authorization</i></b>), the Authority may, by notice
+                published in the Gazette, propose either or both of the following—</leadIn><paragraph id="ID_1691121687865_002" name="a" temporalId="s5B_1_a"><num value="a">(a)</num><content>that the boundary of the land authorized to be resumed under the
+                    authorization is to be adjusted;</content></paragraph><paragraph id="ID_1691121687866_003" name="b" temporalId="s5B_1_b"><num value="b">(b)</num><content>that the boundary of the land ordered to be resumed under an order made
+                    under <ref>section 3(3)</ref> in accordance with the authorization is to be
+                    adjusted.</content></paragraph></subsection><subsection id="ID_1691121687868_004" name="2" temporalId="s5B_2"><num value="2">(2)</num><leadIn>The proposed adjustment must not affect any part of the subject land—</leadIn><paragraph id="ID_1691121687868_005" name="a" temporalId="s5B_2_a"><num value="a">(a)</num><content>in respect of which a notice has been published, served or affixed under
+                        <ref>section 4</ref>; or</content></paragraph><paragraph id="ID_1691121687870_006" name="b" temporalId="s5B_2_b"><num value="b">(b)</num><content>that has reverted to the Government under <ref>section 5</ref>.</content></paragraph></subsection><subsection id="ID_1691121687871_007" name="3" temporalId="s5B_3"><num value="3">(3)</num><leadIn>The notice of proposed adjustment must—</leadIn><paragraph id="ID_1691121687872_008" name="a" temporalId="s5B_3_a"><num value="a">(a)</num><content>describe the proposed adjustment;</content></paragraph><paragraph id="ID_1691121687872_009" name="b" temporalId="s5B_3_b"><num value="b">(b)</num><content>refer to a plan that shows the proposed adjustment (<i><b>relevant
+                        plan</b></i>); and</content></paragraph><paragraph id="ID_1691121687872_010" name="c" temporalId="s5B_3_c"><num value="c">(c)</num><content>state how the public may inspect a copy of the relevant plan.</content></paragraph></subsection><subsection id="ID_1691121687873_011" name="4" temporalId="s5B_4"><num value="4">(4)</num><leadIn>The Authority must—</leadIn><paragraph id="ID_1691121687873_012" name="a" temporalId="s5B_4_a"><num value="a">(a)</num><content>deposit a copy of the notice of proposed adjustment and of the relevant
+                    plan in the Land Registry;</content></paragraph><paragraph id="ID_1691121687874_013" name="b" temporalId="s5B_4_b"><num value="b">(b)</num><content>publish a copy of the notice of proposed adjustment and of the relevant
+                    plan on the website of the Authority;</content></paragraph><paragraph id="ID_1691121687874_014" name="c" temporalId="s5B_4_c"><num value="c">(c)</num><content>make a copy of the notice of proposed adjustment and of the relevant plan
+                    available for inspection by the public free of charge at the time and place as
+                    the Authority reasonably directs;</content></paragraph><paragraph id="ID_1691121687875_015" name="d" temporalId="s5B_4_d"><num value="d">(d)</num><content>publish a copy of the notice of proposed adjustment in 1 issue of an
+                    English newspaper and 1 issue of a Chinese newspaper; and</content></paragraph><paragraph id="ID_1691121687875_016" name="e" temporalId="s5B_4_e"><num value="e">(e)</num><content>affix a copy of the notice of proposed adjustment in a conspicuous place on
+                    or near the land affected by the proposed adjustment.</content></paragraph></subsection><subsection id="ID_1691121687875_017" name="5" temporalId="s5B_5"><num value="5">(5)</num><leadIn>If—</leadIn><paragraph id="ID_1691121687876_018" name="a" temporalId="s5B_5_a"><num value="a">(a)</num><content>a <ref href="/hk/cap131">Cap. 131</ref> plan that shows or makes provision
+                    for a land use pending approval in relation to any land is exhibited or made
+                    available for public inspection under any provision (other than <ref>section
+                        9D</ref> or <ref>11</ref>) of <ref href="/hk/cap131">Cap. 131</ref>;
+                    and</content></paragraph><paragraph id="ID_1691121687880_019" name="b" temporalId="s5B_5_b"><num value="b">(b)</num><content>the proposed adjustment to be described in a notice of proposed adjustment
+                    relates to the land use pending approval,</content></paragraph><continued>the Authority may publish the notice of proposed adjustment on or after the
+                date on which the <ref href="/hk/cap131">Cap. 131</ref> plan begins to be so
+                exhibited or made available.</continued></subsection></section><section id="ID_1691120938983_004" name="s5C" temporalId="s5C" startPeriod="2023-09-01" status="operational" reason="inEffect"><num value="5C">5C.</num><heading>Objections to proposed adjustment</heading><subsection id="ID_1691122798044_001" name="1" temporalId="s5C_1"><num value="1">(1)</num><leadIn>Within 60 days after a notice of proposed adjustment is published, the following
+                person may object to the proposed adjustment by delivering an objection in writing
+                to the Authority—</leadIn><paragraph id="ID_1691122798045_002" name="a" temporalId="s5C_1_a"><num value="a">(a)</num><content>an owner or occupier of the land affected by the proposed adjustment;
+                    or</content></paragraph><paragraph id="ID_1691122798045_003" name="b" temporalId="s5C_1_b"><num value="b">(b)</num><content>a person having any right in relation to that land.</content></paragraph></subsection><subsection id="ID_1691122798046_004" name="2" temporalId="s5C_2"><num value="2">(2)</num><leadIn>An objection made by a person (<i><b>objector</b></i>) must—</leadIn><paragraph id="ID_1691122798046_005" name="a" temporalId="s5C_2_a"><num value="a">(a)</num><content>sufficiently identify the objector as a person falling within subsection
+                    (1); and</content></paragraph><paragraph id="ID_1691122798047_006" name="b" temporalId="s5C_2_b"><num value="b">(b)</num><content>describe the manner in which the objector alleges the objector will be
+                    affected by the proposed adjustment.</content></paragraph></subsection><subsection id="ID_1691122798047_007" name="3" temporalId="s5C_3"><num value="3">(3)</num><content>An objection that is not made by a person falling within subsection (1), or
+                that does not comply with subsection (2), is invalid and treated as not having been
+                made for the purposes of <ref>sections 5F</ref> and <ref>5G</ref>.</content></subsection><subsection id="ID_1691122798049_008" name="4" temporalId="s5C_4"><num value="4">(4)</num><content>An objection made on a ground relating to any compensation (whether monetary or
+                non-monetary) or any financial or other assistance (<b><i>compensation or
+                        assistance</i></b>) in connection with the proposed adjustment is, to the
+                extent that it is made on that ground, invalid and treated as not having been made
+                for the purposes of <ref>sections 5F</ref> and <ref>5G</ref>.</content></subsection><subsection id="ID_1691122798051_009" name="5" temporalId="s5C_5"><num value="5">(5)</num><leadIn>In subsection (4), the reference to a ground relating to any compensation or
+                assistance includes—</leadIn><paragraph id="ID_1691122798051_010" name="a" temporalId="s5C_5_a"><num value="a">(a)</num><content>a ground relating to whether any compensation or assistance is to be
+                    provided, whether or not under an enactment; and</content></paragraph><paragraph id="ID_1691122798052_011" name="b" temporalId="s5C_5_b"><num value="b">(b)</num><content>a ground relating to the amount, extent or form of the compensation or
+                    assistance, or the time for its provision.</content></paragraph></subsection></section><section id="ID_1691120939132_005" name="s5D" temporalId="s5D" startPeriod="2023-09-01" status="operational" reason="inEffect"><num value="5D">5D.</num><heading>Supplementary provisions to <ref>section 5C</ref></heading><subsection id="ID_1691122928442_001" name="1" temporalId="s5D_1"><num value="1">(1)</num><content>If the Authority gives any written reply to an objection made under
+                    <ref>section 5C</ref>, the person making the objection (<b><i>objector</i></b>)
+                may give a response to the reply (including any comment on, or any request in
+                connection with, the reply) within the period of 14 days after the day on which the
+                reply is given.</content></subsection><subsection id="ID_1691122928443_002" name="2" temporalId="s5D_2"><num value="2">(2)</num><content>For subsection (1), the mere notification by the Authority that the objection
+                is treated as unwithdrawn and will be submitted to the Chief Executive in Council
+                does not constitute a reply.</content></subsection><subsection id="ID_1691122928444_003" name="3" temporalId="s5D_3"><num value="3">(3)</num><content>A response that is given after the 14-day period mentioned in subsection (1) is
+                treated as not having been given.</content></subsection><subsection id="ID_1691122928444_004" name="4" temporalId="s5D_4"><num value="4">(4)</num><leadIn>An objector may, by writing to the Authority—</leadIn><paragraph id="ID_1691122928445_005" name="a" temporalId="s5D_4_a"><num value="a">(a)</num><content>amend an objection made by the objector within the period for making
+                    objections; or</content></paragraph><paragraph id="ID_1691122928446_006" name="b" temporalId="s5D_4_b"><num value="b">(b)</num><content>withdraw the objection in whole or in part before the proposed adjustment
+                    is submitted under <ref>section 5G</ref>.</content></paragraph></subsection><subsection id="ID_1691122928447_007" name="5" temporalId="s5D_5"><num value="5">(5)</num><content>An objection (or a part of an objection) that has been withdrawn is treated as
+                not having been made for the purposes of <ref>sections 5F</ref> and
+                <ref>5G</ref>.</content></subsection><subsection id="ID_1691122928449_008" name="6" temporalId="s5D_6"><num value="6">(6)</num><leadIn>An objection, an amendment or withdrawal of an objection, or a response
+                (referred to in subsection (1)) may be given to the Authority by—</leadIn><paragraph id="ID_1691122928450_009" name="a" temporalId="s5D_6_a"><num value="a">(a)</num><content>delivering it to an officer who is authorized by the Authority to receive
+                    it on the Authority’s behalf;</content></paragraph><paragraph id="ID_1691122928450_010" name="b" temporalId="s5D_6_b"><num value="b">(b)</num><content>sending it by ordinary or registered post;</content></paragraph><paragraph id="ID_1691122928451_011" name="c" temporalId="s5D_6_c"><num value="c">(c)</num><content>sending it by electronic mail transmission to an electronic mail address
+                    specified by the Authority; or</content></paragraph><paragraph id="ID_1691122928451_012" name="d" temporalId="s5D_6_d"><num value="d">(d)</num><content>sending it by fax transmission to a fax number specified by the
+                    Authority.</content></paragraph></subsection><subsection id="ID_1691122928452_013" name="7" temporalId="s5D_7"><num value="7">(7)</num><leadIn>A reply (referred to in subsection (1)) may be given to the objector
+                by—</leadIn><paragraph id="ID_1691122928452_014" name="a" temporalId="s5D_7_a"><num value="a">(a)</num><content>delivering it to the objector personally;</content></paragraph><paragraph id="ID_1691122928453_015" name="b" temporalId="s5D_7_b"><num value="b">(b)</num><content>leaving it at the objector’s last known address;</content></paragraph><paragraph id="ID_1691122928453_016" name="c" temporalId="s5D_7_c"><num value="c">(c)</num><content>sending it by ordinary or registered post addressed to the objector at the
+                    objector’s last known address;</content></paragraph><paragraph id="ID_1691122928454_017" name="d" temporalId="s5D_7_d"><num value="d">(d)</num><content>sending it by electronic mail transmission to the objector’s last known
+                    electronic mail address; or</content></paragraph><paragraph id="ID_1691122928454_018" name="e" temporalId="s5D_7_e"><num value="e">(e)</num><content>sending it by fax transmission to the objector’s last known fax
+                    number.</content></paragraph></subsection></section><section id="ID_1691120939263_006" name="s5E" temporalId="s5E" startPeriod="2023-09-01" status="operational" reason="inEffect"><num value="5E">5E.</num><heading>Decision not to proceed with proposed adjustment</heading><subsection id="ID_1691123001630_001" name="1" temporalId="s5E_1"><num value="1">(1)</num><content>Before a proposed adjustment is authorized by the Secretary under <ref>section
+                    5F</ref> or submitted to the Chief Executive in Council under <ref>section
+                    5G</ref>, if the Authority decides not to proceed with the proposed adjustment,
+                the Authority must publish a notice of the decision in the Gazette.</content></subsection><subsection id="ID_1691123001632_002" name="2" temporalId="s5E_2"><num value="2">(2)</num><leadIn>The Authority must—</leadIn><paragraph id="ID_1691123001632_003" name="a" temporalId="s5E_2_a"><num value="a">(a)</num><content>deposit a copy of the notice in the Land Registry;</content></paragraph><paragraph id="ID_1691123001633_004" name="b" temporalId="s5E_2_b"><num value="b">(b)</num><content>publish a copy of the notice on the website of the Authority;</content></paragraph><paragraph id="ID_1691123001633_005" name="c" temporalId="s5E_2_c"><num value="c">(c)</num><content>publish a copy of the notice in 1 issue of an English newspaper and 1 issue
+                    of a Chinese newspaper; and</content></paragraph><paragraph id="ID_1691123001634_006" name="d" temporalId="s5E_2_d"><num value="d">(d)</num><content>affix a copy of the notice in a conspicuous place on or near the land
+                    affected by the proposed adjustment.</content></paragraph></subsection><subsection id="ID_1691123001634_007" name="3" temporalId="s5E_3"><num value="3">(3)</num><content>A decision under subsection (1) does not affect anything lawfully done under
+                this Ordinance before the decision is made.</content></subsection></section><section id="ID_1691120939368_007" name="s5F" temporalId="s5F" startPeriod="2023-09-01" status="operational" reason="inEffect"><num value="5F">5F.</num><heading>Authorization of adjustment to land boundary if no objection made</heading><subsection id="ID_1691123094695_001" name="1" temporalId="s5F_1"><num value="1">(1)</num><content>If no objection has been made to a proposed adjustment within the period for
+                making objections under <ref>section 5C(1)</ref>, the Secretary may authorize the
+                adjustment to the boundary of the subject land in accordance with the proposed
+                adjustment.</content></subsection><subsection id="ID_1691123094697_002" name="2" temporalId="s5F_2"><num value="2">(2)</num><content>Despite subsection (1), if the notice of proposed adjustment is published in
+                the circumstances described in <ref>section 5B(5)</ref>, the Secretary may make an
+                authorization under that subsection only if the Chief Executive in Council has
+                approved the relevant <ref href="/hk/cap131">Cap. 131</ref> plan under <ref href="/hk/cap131">Cap. 131</ref> and the approval covers the land use pending
+                approval referred to in that section.</content></subsection><subsection id="ID_1691123094700_003" name="3" temporalId="s5F_3"><num value="3">(3)</num><leadIn>If the Secretary declines to authorize, under subsection (1), the adjustment to
+                the boundary of the subject land, the Authority must—</leadIn><paragraph id="ID_1691123094700_004" name="a" temporalId="s5F_3_a"><num value="a">(a)</num><content>publish a notice of that fact in the Gazette;</content></paragraph><paragraph id="ID_1691123094701_005" name="b" temporalId="s5F_3_b"><num value="b">(b)</num><content>deposit a copy of the notice in the Land Registry;</content></paragraph><paragraph id="ID_1691123094702_006" name="c" temporalId="s5F_3_c"><num value="c">(c)</num><content>publish a copy of the notice on the website of the Authority;</content></paragraph><paragraph id="ID_1691123094703_007" name="d" temporalId="s5F_3_d"><num value="d">(d)</num><content>publish a copy of the notice in 1 issue of an English newspaper and 1 issue
+                    of a Chinese newspaper; and</content></paragraph><paragraph id="ID_1691123094703_008" name="e" temporalId="s5F_3_e"><num value="e">(e)</num><content>affix a copy of the notice in a conspicuous place on or near the land
+                    affected by the proposed adjustment.</content></paragraph></subsection></section><section id="ID_1691120939455_008" name="s5G" temporalId="s5G" startPeriod="2023-09-01" status="operational" reason="inEffect"><num value="5G">5G.</num><heading>Authorization of adjustment to land boundary if objection made</heading><subsection id="ID_1691130262764_001" name="1" temporalId="s5G_1"><num value="1">(1)</num><content>If an objection has been made to a proposed adjustment within the period for
+                making objections under <ref>section 5C(1)</ref> (<i><b>objection period</b></i>),
+                the Authority must, within 3 months (<i><b>submission period</b></i>) after the end
+                of the objection period, submit the proposed adjustment and every objection so made
+                to the Chief Executive in Council for consideration.</content></subsection><subsection id="ID_1691130262766_002" name="2" temporalId="s5G_2"><num value="2">(2)</num><leadIn>The Secretary may, on application by the Authority—</leadIn><paragraph id="ID_1691130262767_003" name="a" temporalId="s5G_2_a"><num value="a">(a)</num><content>extend the submission period for 2 months if the Secretary considers it
+                    appropriate to do so in a particular case; and</content></paragraph><paragraph id="ID_1691130262768_004" name="b" temporalId="s5G_2_b"><num value="b">(b)</num><content>further extend the period on not more than 2 occasions and for 2 months for
+                    each extension if the Secretary is satisfied that exceptional circumstances
+                    exist in a particular case.</content></paragraph></subsection><subsection id="ID_1691130262769_005" name="3" temporalId="s5G_3"><num value="3">(3)</num><content>Despite subsections (1) and (2), if the notice of proposed adjustment is
+                published in the circumstances described in <ref>section 5B(5)</ref>, the submission
+                to the Chief Executive in Council under subsection (1) may not be made before a
+                submission of the relevant <ref href="/hk/cap131">Cap. 131</ref> plan covering the
+                land use pending approval referred to in that section (<ref href="/hk/cap131"><b><i>Cap. 131</i></b></ref>
+                <b><i>submission</i></b>) is made to the Chief Executive in Council for approval
+                under <ref href="/hk/cap131">Cap. 131</ref>.</content></subsection><subsection id="ID_1691130262775_006" name="4" temporalId="s5G_4"><num value="4">(4)</num><content>If subsection (3) applies, the submission to the Chief Executive in Council
+                under subsection (1) must be made within a reasonable time after the making of the
+                    <ref href="/hk/cap131">Cap. 131</ref> submission.</content></subsection><subsection id="ID_1691130262777_007" name="5" temporalId="s5G_5"><num value="5">(5)</num><leadIn>The Chief Executive in Council, after considering the proposed adjustment and
+                the objections submitted under subsection (1), may—</leadIn><paragraph id="ID_1691130262778_008" name="a" temporalId="s5G_5_a"><num value="a">(a)</num><leadIn>authorize the adjustment to the boundary of the subject land—</leadIn><subparagraph id="ID_1691130262779_009" name="1" temporalId="s5G_5_a_1"><num value="1">(i)</num><content>with or without any modification to the proposed adjustment;
+                        and</content></subparagraph><subparagraph id="ID_1691130262780_010" name="2" temporalId="s5G_5_a_2"><num value="2">(ii)</num><content>subject to any condition that the Chief Executive in Council considers
+                        appropriate; or</content></subparagraph></paragraph><paragraph id="ID_1691130262781_011" name="b" temporalId="s5G_5_b"><num value="b">(b)</num><content>decline to authorize the adjustment to the boundary of the subject
+                    land.</content></paragraph></subsection><subsection id="ID_1691130262781_012" name="6" temporalId="s5G_6"><num value="6">(6)</num><leadIn>The Chief Executive in Council may reconsider a proposed adjustment
+                and—</leadIn><paragraph id="ID_1691130262782_013" name="a" temporalId="s5G_6_a"><num value="a">(a)</num><content>authorize the adjustment to the boundary of the subject land which the
+                    Chief Executive in Council has previously declined to authorize under subsection
+                        <ref>(5)(b)</ref>; or</content></paragraph><paragraph id="ID_1691130262785_014" name="b" temporalId="s5G_6_b"><num value="b">(b)</num><content>remove or amend any modification or condition referred to in subsection
+                        <ref>(5)(a)</ref> in relation to an authorization previously made under that
+                    subsection.</content></paragraph></subsection><subsection id="ID_1691130262787_015" name="7" temporalId="s5G_7"><num value="7">(7)</num><content>Despite subsections (5) and (6), if the notice of proposed adjustment is
+                published in the circumstances described in <ref>section 5B(5)</ref>, the Chief
+                Executive in Council may make an authorization under subsection (5) or (6) only if
+                the Chief Executive in Council has approved the relevant <ref href="/hk/cap131">Cap.
+                    131</ref> plan under <ref href="/hk/cap131">Cap. 131</ref> and the approval
+                covers the land use pending approval referred to in that section.</content></subsection><subsection id="ID_1691130262791_016" name="8" temporalId="s5G_8"><num value="8">(8)</num><leadIn>If the Chief Executive in Council declines to authorize the adjustment under
+                subsection <ref>(5)(b)</ref>, the Authority must—</leadIn><paragraph id="ID_1691130262794_017" name="a" temporalId="s5G_8_a"><num value="a">(a)</num><content>publish a notice of that fact in the Gazette;</content></paragraph><paragraph id="ID_1691130262795_018" name="b" temporalId="s5G_8_b"><num value="b">(b)</num><content>deposit a copy of the notice in the Land Registry;</content></paragraph><paragraph id="ID_1691130262795_019" name="c" temporalId="s5G_8_c"><num value="c">(c)</num><content>publish a copy of the notice on the website of the Authority;</content></paragraph><paragraph id="ID_1691130262796_020" name="d" temporalId="s5G_8_d"><num value="d">(d)</num><content>publish a copy of the notice in 1 issue of an English newspaper and 1 issue
+                    of a Chinese newspaper; and</content></paragraph><paragraph id="ID_1691130262797_021" name="e" temporalId="s5G_8_e"><num value="e">(e)</num><content>affix a copy of the notice in a conspicuous place on or near the land
+                    affected by the proposed adjustment.</content></paragraph></subsection></section><section id="ID_1691120939546_009" name="s5H" temporalId="s5H" startPeriod="2023-09-01" status="operational" reason="inEffect"><num value="5H">5H.</num><heading>Effect of authorization of adjustment to land boundary</heading><subsection id="ID_1691130365909_001" name="1" temporalId="s5H_1"><num value="1">(1)</num><leadIn>If an adjustment to the boundary of the subject land is authorized under
+                    <ref>section 5F(1)</ref> or <ref>5G(5)</ref> or (6), then either or both of the
+                following (as may be appropriate) are taken to be varied to the extent of the
+                adjustment so authorized—</leadIn><paragraph id="ID_1691130365911_002" name="a" temporalId="s5H_1_a"><num value="a">(a)</num><content>the authorization made under <ref>section 3(1)</ref> or (2) (<b><i>relevant
+                            authorization</i></b>);</content></paragraph><paragraph id="ID_1691130365912_003" name="b" temporalId="s5H_1_b"><num value="b">(b)</num><content>the order made under <ref>section 3(3)</ref> (<i><b>relevant
+                    order</b></i>),</content></paragraph><continued>and a reference to the relevant authorization or the relevant order in this
+                Ordinance or any other Ordinance is a reference to the relevant authorization or the
+                relevant order as so varied.</continued></subsection><subsection id="ID_1691130365914_004" name="2" temporalId="s5H_2"><num value="2">(2)</num><content>If any land is authorized to be resumed under the relevant authorization
+                because of the variation, an order may be made under <ref>section 3(3)</ref> in
+                relation to the land.</content></subsection><subsection id="ID_1691130365915_005" name="3" temporalId="s5H_3"><num value="3">(3)</num><content>If any land is ordered to be resumed under the relevant order because of the
+                variation, <ref>section 4</ref> applies in relation to the land.</content></subsection><subsection id="ID_1691130365917_006" name="4" temporalId="s5H_4"><num value="4">(4)</num><leadIn>A variation under subsection (1) does not affect—</leadIn><paragraph id="ID_1691130365917_007" name="a" temporalId="s5H_4_a"><num value="a">(a)</num><content>a notice published, served or affixed under <ref>section 4</ref> before the
+                    variation;</content></paragraph><paragraph id="ID_1691130365919_008" name="b" temporalId="s5H_4_b"><num value="b">(b)</num><content>the reversion of any land to the Government under <ref>section 5</ref>
+                    before the variation;</content></paragraph><paragraph id="ID_1691130365920_009" name="c" temporalId="s5H_4_c"><num value="c">(c)</num><content>anything lawfully done under this Ordinance before the variation;
+                    or</content></paragraph><paragraph id="ID_1691130365921_010" name="d" temporalId="s5H_4_d"><num value="d">(d)</num><content>any right (including right to compensation) accrued under this Ordinance
+                    before the variation.</content></paragraph></subsection></section></part><part id="ID_1691130408682_001" name="P5" temporalId="P5" startPeriod="2023-09-01" status="operational" reason="inEffect"><num value="5">Part 5</num><heading>Claim for and
+            Assessment of Compensation</heading><sourceNote>(Added <ref href="hk/2023/25">25 of 2023 s. 10</ref>)</sourceNote><section id="ID_1438402654617_001" name="s6" reason="inEffect" startPeriod="2018-06-28" status="operational" temporalId="s6"><num value="6">6.</num><heading>Compensation</heading><subsection id="ID_1438411149203_011" name="1" temporalId="s6_1"><num value="1">(1)</num><leadIn>Within a period of 28 days from the date on which land reverts to the Government
+                under <ref>section 5</ref>, the Authority shall—  <sourceNote>(Amended <ref href="/hk/1998/29">29 of 1998 s. 105</ref>)</sourceNote></leadIn><paragraph id="ID_1438411149203_019" name="a" temporalId="s6_1_a"><num value="a">(a)</num><content>write to the former owner and to any person having an estate or interest in
+                    the land immediately before reversion under an instrument registered in the Land
+                    Registry, making an offer of compensation in respect of the resumption of the
+                    land; or<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1984/5">5 of 1984 s. 3</ref>; <ref href="/hk/1993/8">8 of 1993
+                            s. 2</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411149203_027" name="b" temporalId="s6_1_b"><num value="b">(b)</num><content>serve on any of the persons referred to in paragraph (a) a notice in such
+                    form as the Authority may specify, requiring him to submit his claim for
+                    compensation within the time stipulated in such notice.</content></paragraph></subsection><subsection id="ID_1438411149203_034" name="2" temporalId="s6_2"><num value="2">(2)</num><content>Where a notice is served on a person under subsection <ref>(1)(b)</ref> he
+                shall submit his claim in a form specified by the Authority and shall furnish to the
+                Authority such accounts, documents and particulars as the Authority may reasonably
+                require in support of such claim.</content></subsection><subsection id="ID_1438411149219_005" name="2A" temporalId="s6_2A"><num value="2A">(2A)</num><content>Where, in the case of land resumed under an order made under <ref>section
+                    3</ref> on or after the
+                commencement*
+                of the Crown Lands Resumption (Amendment) Ordinance 1984 (<ref href="/hk/1984/5">5
+                    of 1984</ref>), an offer of compensation is made or a claim for compensation is
+                submitted to or by any person under this section, such offer may provide for the
+                payment by the Authority to that person of, or such claim may include a claim for,
+                any costs or remuneration reasonably incurred or paid by him in employing persons to
+                act in a professional capacity in connection with such offer or claim.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1984/5">5 of 1984 s.
+                        3</ref>)</sourceNote></content></subsection><subsection id="ID_1438411149235_005" name="3" temporalId="s6_3"><num value="3">(3)</num><leadIn>If—</leadIn><paragraph id="ID_1438411149235_013" name="a" temporalId="s6_3_a"><num value="a">(a)</num><content>a person to whom an offer has been made under subsection <ref>(1)(a)</ref>
+                    does not accept the offer within 28 days from the date thereof; or</content></paragraph><paragraph id="ID_1438411149235_021" name="b" temporalId="s6_3_b"><num value="b">(b)</num><leadIn>a person on whom a notice has been served under subsection
+                    <ref>(1)(b)</ref>—</leadIn><subparagraph id="ID_1438411149235_029" name="i" temporalId="s6_3_b_i"><num value="i">(i)</num><content>does not submit his claim within the time stipulated therein;
+                        or</content></subparagraph><subparagraph id="ID_1438411149235_037" name="ii" temporalId="s6_3_b_ii"><num value="ii">(ii)</num><content>submits his claim but he and the Authority do not agree as to the
+                        amount of compensation,</content></subparagraph></paragraph><continued>such person or the Authority may then refer the matter to the Lands Tribunal
+                for determination of the amount of compensation to be paid.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1984/5">5 of 1984 s.
+                    3</ref>)</sourceNote></continued></subsection><sourceNote>(Replaced <ref href="/hk/1974/63">63 of 1974 s. 7</ref>)</sourceNote><editorialNote type="footnote" id="ID_1527652891076_001">
+            <content>Editorial Note:</content>
+            <content><inline class="force_orig_font">*</inline> Commencement date: 13 January
+                1984.</content>
+        </editorialNote></section><section id="ID_1438402654617_003" name="s7" reason="inEffect" startPeriod="2023-09-01" status="operational" temporalId="s7"><num value="7">7.</num><heading>Power of entry</heading><subsection id="ID_1438411149266_018" name="1" temporalId="s7_1"><num value="1">(1)</num><content>If
+                a notice has been given under <ref>section 4</ref>, it is lawful for the Chief
+                Executive or any person authorized by the Chief Executive to enter, without the
+                consent of the owner or occupier, into and upon any land intended
+                to be resumed for the purpose of surveying and taking levels of such land and doing
+                all necessary acts for setting out the line of works.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1910/18">18 of 1910 s. 6</ref> incorporated. Amended <ref href="/hk/1911/28">28 of 1911 s. 6</ref>(c); <ref href="/hk/1911/51">51 of 1911</ref>; <ref href="/hk/1912/2">2 of 1912
+                        </ref><ref>Schedule</ref>; <ref href="/hk/1974/63">63 of 1974 s. 8</ref>; <ref href="/hk/2000/3">3 of 2000 s.
+                    3</ref>; <ref href="hk/2023/25">25 of 2023 s. 11</ref>)</sourceNote></content></subsection><subsection id="ID_1438411149281_005" name="2" temporalId="s7_2"><num value="2">(2)</num><content>If any damage is caused by reason of the entry into and upon the land or of any
+                works performed under subsection (1) either the owner or occupier may submit to the
+                Authority a claim for compensation in respect of such damage.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1974/63">63 of 1974 s.
+                    8</ref>)</sourceNote></content></subsection><subsection id="ID_1438411149281_013" name="3" temporalId="s7_3"><num value="3">(3)</num><content>The Authority may compromise or settle any claim submitted under subsection
+                (2), or failing agreement, either party may refer the matter to the Lands Tribunal
+                for determination of the amount of compensation to be paid.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1974/63">63 of 1974 s.
+                    8</ref>)</sourceNote></content></subsection></section><section id="ID_1438402654633_002" name="s8" reason="inEffect" startPeriod="2018-06-28" status="operational" temporalId="s8"><num value="8">8.</num><heading>Claims for compensation</heading><subsection id="ID_1438411149313_011" name="1" temporalId="s8_1"><num value="1">(1)</num><content>Any person claiming compensation by reason of the resumption of any land under
+                this Ordinance, and being a person who has not been offered in writing compensation
+                under <ref>section 6(1)(a)</ref>, or has not been served with a notice under
+                    <ref>section 6(1)(b)</ref>, may submit a claim in writing to the Authority
+                stating the nature of his estate or interest in the land and the amount which he
+                seeks to recover.</content></subsection><subsection id="ID_1438411149328_005" name="2" temporalId="s8_2"><num value="2">(2)</num><content>If any such person and the Authority do not agree as to the amount of
+                compensation (if any) to be paid either party may submit the claim to the Lands
+                Tribunal for determination of the amount of compensation (if any) to be
+                paid.</content></subsection><subsection id="ID_1438411149328_013" name="3" temporalId="s8_3"><num value="3">(3)</num><content>A person claiming compensation under subsection (1) shall submit his claim to
+                the Authority within a period of 1 year from the date on which the land reverted to
+                the Government under <ref>section 5</ref> or within such further period as the Chief
+                Executive may allow in any case.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1984/5">5 of 1984 s. 4</ref>; <ref href="/hk/1998/29">29 of 1998 s. 105</ref>; <ref href="/hk/2000/3">3 of
+                        2000 s. 3</ref>)</sourceNote></content></subsection><subsection id="ID_1438411149344_005" name="4" temporalId="s8_4"><num value="4">(4)</num><content>A claim submitted by a person under subsection (1), in respect of land resumed
+                under an order made under <ref>section 3</ref> on or after the
+                commencement*
+                of the Crown Lands Resumption (Amendment) Ordinance 1984 (<ref href="/hk/1984/5">5
+                    of 1984</ref>), may include a claim for any costs or remuneration reasonably
+                incurred or paid by that person in employing persons to act in a professional
+                capacity in connection with such claim.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1984/5">5 of 1984 s.
+                    4</ref>)</sourceNote></content></subsection><sourceNote>(Replaced <ref href="/hk/1974/63">63 of 1974 s. 9</ref>)</sourceNote><editorialNote type="footnote" id="ID_1527654577831_001">
+            <content>Editorial Note:</content>
+            <content><inline class="force_orig_font">*</inline> Commencement date: 13 January
+                1984.</content>
+        </editorialNote></section><section id="ID_1438402654648_002" name="s9" reason="inEffect" startPeriod="2018-06-28" status="operational" temporalId="s9"><num value="9">9.</num><heading>Barring of actions against the Government</heading><text>Subject to the provisions of this Ordinance, no action or suit shall lie against the
+            Government or against any other person for any loss or damage suffered by any person as
+            the result of the resumption of any land under this Ordinance.</text><sourceNote>(Replaced <ref href="/hk/1974/63">63 of 1974 s. 10</ref>. Amended <ref href="/hk/2000/3">3 of 2000 s. 3</ref>)</sourceNote></section><section id="ID_1438402654664_002" name="s10" reason="inEffect" startPeriod="2018-06-28" status="operational" temporalId="s10"><num value="10">10.</num><heading>Determination by Tribunal of compensation payable by Government</heading><subsection id="ID_1438411149391_025" name="1" temporalId="s10_1"><num value="1">(1)</num><content>The Tribunal shall determine the amount of compensation (if any) payable in
+                respect of a claim submitted to it under <ref>section 6(3)</ref> or <ref>8(2)</ref>
+                on the basis of the loss or damage suffered by the claimant due to the resumption of
+                the land specified in the claim.</content></subsection><subsection id="ID_1438411149391_033" name="2" temporalId="s10_2"><num value="2">(2)</num><leadIn>The Tribunal shall determine the compensation (if any) payable under subsection
+                (1) on the basis of—</leadIn><paragraph id="ID_1438411149391_041" name="a" temporalId="s10_2_a"><num value="a">(a)</num><content>the value of the land resumed and any buildings erected thereon at the date
+                    of resumption;</content></paragraph><paragraph id="ID_1438411149391_049" name="b" temporalId="s10_2_b"><num value="b">(b)</num><content>the value of any easement or other right in the land resumed, owned, held
+                    or enjoyed by a claimant at the date of resumption;</content></paragraph><paragraph id="ID_1438411149406_006" name="c" temporalId="s10_2_c"><num value="c">(c)</num><content>the amount of loss or damage suffered by any claimant due to the severance
+                    of the land resumed or any building erected thereon from any other land of the
+                    claimant, or building erected thereon, contiguous or adjacent thereto;</content></paragraph><paragraph id="ID_1438411149406_014" name="d" temporalId="s10_2_d"><num value="d">(d)</num><content>the amount of loss or damage to a business conducted by a claimant at the
+                    date of resumption on the land resumed or in any building erected thereon, due
+                    to the removal of the business from that land or building as a result of the
+                    resumption;</content></paragraph><paragraph id="ID_1438411149406_022" name="e" temporalId="s10_2_e"><num value="e">(e)</num><leadIn>in the case of land resumed under an order made under <ref>section 3</ref>
+                    on or after the
+                    commencement*
+                    of the Crown Lands Resumption (Amendment) Ordinance 1984 (<ref href="/hk/1984/5">5 of 1984</ref>)—</leadIn><subparagraph id="ID_1438411149406_030" name="i" temporalId="s10_2_e_i"><num value="i">(i)</num><content>the amount of any expenses reasonably incurred by him in moving from
+                        any premises owned or occupied by him on the land resumed to, or in
+                        connection with the acquisition of, alternative land or land and buildings,
+                        but excluding any amount to which paragraph (d) applies;</content></subparagraph><subparagraph id="ID_1438411149406_038" name="ii" temporalId="s10_2_e_ii"><num value="ii">(ii)</num><content>the amount of any costs or remuneration mentioned in <ref>sections
+                            6(2A)</ref> and <ref>8(4)</ref>.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1984/5">5 of 1984 s.
+                                5</ref>)</sourceNote></content></subparagraph></paragraph></subsection><sourceNote>(Replaced <ref href="/hk/1974/63">63 of 1974 s. 10</ref>)</sourceNote><editorialNote type="footnote" id="ID_1527664682703_001">
+            <content>Editorial Note:</content>
+            <content><inline class="force_orig_font">*</inline> Commencement date: 13 January
+                1984.</content>
+        </editorialNote></section><section id="ID_1438402654695_001" name="s11" reason="inEffect" startPeriod="2023-09-01" status="operational" temporalId="s11"><num value="11">11.</num><heading>Principles of assessment of compensation</heading><subsection id="ID_1438411149437_041" name="1" temporalId="s11_1"><num value="1">(1)</num><leadIn>When any property is resumed, the Lands Tribunal in determining the compensation
+                to be paid and in estimating the value of the land resumed and of any buildings
+                thereon,
+                    may —  <sourceNote>(Amended <ref href="/hk/1911/28">28 of 1911 s. 6</ref>(i); <ref href="/hk/1911/50">50
+                        of 1911</ref>; <ref href="/hk/1912/1">1 of 1912
+                    </ref><ref>Schedule</ref>)</sourceNote></leadIn><paragraph id="ID_1438411149453_005" name="a" temporalId="s11_1_a"><num value="a">(a)</num><content>take into consideration the nature and existing condition of the property,
+                    and the probable duration of the buildings in their existing state, and the
+                    state of repair thereof; and</content></paragraph><paragraph id="ID_1438411149453_013" name="b" temporalId="s11_1_b"><num value="b">(b)</num><content>
+                    <leadIn>decline to make any compensation for any addition to or improvement of
+                        the property made after the date of the publication in the Gazette of the
+                        notice
+                        under
+                            <ref>section 4(1)</ref> (unless such addition or
+                        improvement was necessary for the maintenance of the property in a proper
+                        state of repair):<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1937/27">27 of 1937
+                            </ref>Schedule; <ref href="hk/2023/25">25 of 2023 s. 12</ref>)</sourceNote></leadIn>
+                    
+                </content></paragraph><proviso name="proviso" temporalId="s11_1_b_proviso">Provided that, in the case of any
+                interest acquired after the date of such publication, no separate estimate of the
+                value
+                of
+                the interest is
+                to
+                be made so as to increase the amount of compensation.
+                <sourceNote>(Amended <ref href="hk/2023/25">25 of 2023 s. 12</ref>)</sourceNote></proviso></subsection><subsection id="ID_1438411149453_026" name="2" temporalId="s11_2"><num value="2">(2)</num><leadIn>The Lands Tribunal may also receive evidence to
+                    prove —  <sourceNote>(Amended <ref href="/hk/1911/28">28 of 1911 s. 6</ref> (i))</sourceNote></leadIn><paragraph id="ID_1438411149453_034" name="a" temporalId="s11_2_a"><num value="a">(a)</num><content>that the rental of the buildings or premises was enhanced by reason of the
+                    same being used as a brothel, or as a gaming house, or for any illegal purpose;
+                    or</content></paragraph><paragraph id="ID_1438411149453_042" name="b" temporalId="s11_2_b"><num value="b">(b)</num><content>that the buildings or premises are in such a condition as to be a nuisance
+                    within the meaning of any Ordinance relating to buildings or to public health,
+                    or are not in reasonably good repair; or<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1911/50">50 of 1911</ref>; <ref href="/hk/1911/51">51 of 1911</ref>; <ref href="/hk/1912/1">1 of
+                            1912 </ref><ref>Schedule</ref>; <ref href="/hk/1912/2">2 of 1912
+                            </ref><ref>Schedule</ref>; <ref href="/hk/1948/20">20 of 1948 s.
+                        4</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411149453_050" name="c" temporalId="s11_2_c"><num value="c">(c)</num><content>that the buildings or premises are unfit, and not reasonably capable of
+                    being made fit, for human habitation.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1911/51">51 of 1911</ref>; <ref href="/hk/1912/2">2 of 1912 </ref>Schedule)</sourceNote></content></paragraph></subsection><subsection id="ID_1438411149469_005" name="3" temporalId="s11_3"><num value="3">(3)</num><leadIn>If the Lands Tribunal is satisfied by such evidence, then the
+                compensation—</leadIn><paragraph id="ID_1438411149469_013" name="a" temporalId="s11_3_a"><num value="a">(a)</num><content>shall, in the first case, so far as it is based on rental, be based on the
+                    rental which would have been obtainable if the building or premises had not been
+                    occupied as a brothel, or as a gaming house, or for an illegal purpose;
+                        and<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1911/51">51 of 1911</ref>; <ref href="/hk/1912/2">2 of 1912
+                        </ref>Schedule)</sourceNote></content></paragraph><paragraph id="ID_1438411149469_021" name="b" temporalId="s11_3_b"><num value="b">(b)</num><content>shall, in the second case, be the amount estimated as the value of the
+                    building or premises if the nuisance had been abated or if they had been put
+                    into reasonably good repair, after deducting the estimated expense of abating
+                    the nuisance or putting them into such repair, as the case may be; and<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1911/50">50 of
+                            1911</ref>; <ref href="/hk/1911/51">51 of 1911</ref>; <ref href="/hk/1912/1">1 of 1912 </ref><ref>Schedule</ref>; <ref href="/hk/1912/2">2 of 1912
+                    </ref><ref>Schedule</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411149469_029" name="c" temporalId="s11_3_c"><num value="c">(c)</num><content>shall, in the third case, be the value of the land and of the materials of
+                    the buildings thereon.</content></paragraph></subsection><sourceNote>(Amended <ref href="/hk/1911/28">28 of 1911 s. 6</ref>(d); <ref href="/hk/1921/14">14 of 1921 s. 7</ref>; <ref href="/hk/1974/63">63 of 1974 s.
+                11</ref>)</sourceNote></section><section id="ID_1438402654773_001" name="s12" reason="inEffect" startPeriod="2023-09-01" status="operational" temporalId="s12"><num value="12">12.</num><heading>Additional rules for determining compensation</heading><leadIn>In the determination of the compensation to be paid under this
+                Ordinance—  <sourceNote>(Amended <ref href="/hk/1924/5">5 of 1924 s.
+                30</ref>)</sourceNote></leadIn><paragraph id="ID_1438411149531_019" name="a" temporalId="s12_a"><num value="a">(a)</num><content>no allowance shall be made on account of the resumption being
+                compulsory;</content></paragraph><paragraph id="ID_1438411149531_027" name="aa" temporalId="s12_aa"><num value="aa">(aa)</num><content>no account shall be taken of the fact that the land lies within or is affected
+                by any area, zone or district reserved or set apart for the purposes specified in
+                    <ref>section 4(1)(a)</ref>, (c), (d), (e), (f), (g), (h) or (i) of
+                    <ref href="/hk/cap131">Cap.
+                    131</ref>;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1973/32">32 of 1973
+                        s. 2</ref>. Amended <ref href="/hk/1988/2">2 of 1988 s. 8</ref>(2); <ref href="/hk/1991/4">4 of 1991 s.
+                    9</ref>; <ref href="hk/2023/25">25 of 2023 s. 13</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411149531_035" name="b" temporalId="s12_b"><num value="b">(b)</num><content>no compensation shall be given in respect of any use of the land which is not
+                in accordance with the terms of the Government lease under which the land is
+                    held;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1998/29">29 of 1998 s. 105</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411149531_043" name="c" temporalId="s12_c"><num value="c">(c)</num><content>
+                <leadIn>no compensation shall be given in respect of any expectancy or probability
+                    of the grant or renewal or continuance, by the Government or by any person, of
+                    any licence, permission, lease or permit whatsoever:<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1998/29">29 of 1998 s.
+                            105</ref>)</sourceNote></leadIn>
+                <proviso name="proviso" temporalId="s12_c_proviso">Provided that this paragraph
+                    shall not apply to any case in which the grant or renewal or continuance of any
+                    licence, permission, lease or permit could have been enforced as of right if the
+                    land in question had not been resumed; and</proviso>
+            </content></paragraph><paragraph id="ID_1438411149547_005" name="d" temporalId="s12_d"><num value="d">(d)</num><content>subject to the provisions of <ref>section 11</ref> and to the provisions of
+                paragraphs (aa), (b) and (c) of this section, the value of the land resumed shall be
+                taken to be the amount which the land if sold by a willing seller in the open market
+                might be expected to realize.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1924/5">5 of 1924 s. 30</ref>; <ref href="/hk/1973/32">32 of
+                        1973 s. 2</ref>; <ref href="/hk/1984/5">5 of 1984 s.
+                6</ref>)</sourceNote></content></paragraph><sourceNote>(Replaced <ref href="/hk/1922/9">9 of 1922 s. 2</ref>)</sourceNote><referenceNote>[cf. 1919 c. 57 s. 2 (1) &amp; (2) U.K.]</referenceNote></section><section id="ID_1438402654820_001" name="s13" reason="repealed" startPeriod="1997-07-01" status="repealed" temporalId="s13"><num value="13">13.</num><sourceNote>(Repealed <ref href="/hk/1974/63">63 of 1974 s. 12</ref>)</sourceNote></section><section id="ID_1438402654820_003" name="s14" reason="repealed" startPeriod="1997-07-01" status="repealed" temporalId="s14"><num value="14">14.</num><sourceNote>(Repealed <ref href="/hk/1974/63">63 of 1974 s. 12</ref>)</sourceNote></section><section id="ID_1438402654836_002" name="s15" reason="repealed" startPeriod="1997-07-01" status="repealed" temporalId="s15"><num value="15">15.</num><sourceNote>(Repealed <ref href="/hk/1974/63">63 of 1974 s. 12</ref>)</sourceNote></section></part><part id="ID_1691131481567_001" name="P6" temporalId="P6" startPeriod="2023-09-01" status="operational" reason="inEffect"><num value="6">Part 6</num><heading>Disposal and Use
+            of Land Resumed</heading><sourceNote>(Added <ref href="hk/2023/25">25 of 2023 s. 14</ref>)</sourceNote><section id="ID_1438402654851_001" name="s16" reason="inEffect" startPeriod="2018-06-28" status="operational" temporalId="s16"><num value="16">16.</num><heading>Power to demise or grant land resumed</heading><text>Any land resumed under the provisions of this Ordinance may be demised and granted by
+            the Chief Executive on such terms and conditions and at such price, whether by way of
+            rent, premium or otherwise, and either by public auction or private contract, as the
+            Chief Executive may determine. </text><sourceNote>(Amended <ref href="/hk/1911/28">28 of 1911 s. 6</ref>(d); <ref href="/hk/2000/3">3 of 2000 s. 3</ref>)</sourceNote></section><section id="ID_1691131596859_001" name="s16AA" temporalId="s16AA" startPeriod="2023-09-01" status="operational" reason="inEffect"><num value="16AA">16AA.</num><heading>Use of land resumed</heading><content>If any land has been resumed pursuant to an authorization of the resumption of the
+            land for a public purpose made under <ref>section 3(1)</ref> or (2), the Government may
+            use, or allow the use of, the land for any other purpose for a certain period of time
+            before the land is used for that public purpose.</content><sourceNote>(Added <ref href="hk/2023/25">25 of 2023 s. 15</ref>)</sourceNote></section></part><part id="ID_1691131700400_001" name="P7" temporalId="P7" startPeriod="2023-09-01" status="operational" reason="inEffect"><num value="7">Part 7</num><heading>Payment of
+            Compensation and Interest</heading><sourceNote>(Added <ref href="hk/2023/25">25 of 2023 s. 16</ref>)</sourceNote><section id="ID_1438402654851_003" name="s16A" reason="inEffect" startPeriod="2023-09-01" status="operational" temporalId="s16A"><num value="16A">16A.</num><heading>Provisional payment pending determination of compensation</heading><subsection id="ID_1438411149625_004" name="1" temporalId="s16A_1"><num value="1">(1)</num><leadIn>Where, in the case of land resumed under an order made under <ref>section
+                    3</ref> on or after the
+                commencement*
+                of the Crown Lands Resumption (Amendment) Ordinance 1984 (<ref href="/hk/1984/5">5
+                    of 1984</ref>), any offer of compensation made by the Authority to any person
+                under this Ordinance in respect of any claim is not accepted, the Authority may,
+                pending the determination by the Lands Tribunal of the compensation, if any, payable
+                in respect of such claim under this Ordinance, pay—</leadIn><paragraph id="ID_1438411149625_012" name="a" temporalId="s16A_1_a"><num value="a">(a)</num><content>an amount as a provisional payment of the amount payable by virtue of such
+                    determination; and</content></paragraph><paragraph id="ID_1438411149625_020" name="b" temporalId="s16A_1_b"><num value="b">(b)</num><content>interest on any payment made under paragraph (a), for the period from the
+                    date on which the land reverts to the Government under <ref>section 5</ref>,
+                    until the date on which the payment is made, calculated on a daily basis
+                    according to subsection (1A).<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1985/62">62 of 1985 s.
+                            2</ref>; <ref href="/hk/1998/29">29 of 1998 s. 105</ref>; <ref href="/hk/2001/6">6 of 2001 s. 2</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438411149625_027" name="1A" temporalId="s16A_1A"><num value="1A">(1A)</num><leadIn>For the purposes of subsection <ref>(1)(b)</ref>, the rate of interest paid—
+                <sourceNote>(Added <ref href="hk/2001/6">6 of 2001 s. 2</ref>)</sourceNote></leadIn><paragraph id="ID_1691392959551_001" name="a" temporalId="s16A_1A_a"><num value="a">(a)</num><content>in respect of a day on which the reference interest rate is published
+                            (<b><i>publication day</i></b>)—is the reference interest rate; and
+                        <sourceNote>(Replaced <ref href="hk/2023/25">25 of 2023 s.
+                        17</ref>)</sourceNote></content></paragraph><paragraph id="ID_1691392959554_002" name="b" temporalId="s16A_1A_b"><num value="b">(b)</num><content>in respect of a day other than a publication day—is the reference interest
+                    rate published on the last publication day before that day.
+                        <sourceNote>(Replaced <ref href="hk/2023/25">25 of 2023 s.
+                        17</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438411149640_013" name="2" temporalId="s16A_2"><num value="2">(2)</num><content>Any payment made by the Authority under subsection (1) in respect of any claim
+                shall be without prejudice to the claim or the submission thereof to, or the
+                determination thereof by, the Lands Tribunal under this Ordinance; but the amount of
+                compensation payable by virtue of such determination in respect of such claim shall
+                be reduced by the amount of such payment.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1985/62">62 of 1985 s.
+                    2</ref>)</sourceNote></content></subsection><subsection id="ID_1438411149640_021" name="3" temporalId="s16A_3"><num value="3">(3)</num><content>Where the amount of compensation payable by virtue of a determination of the
+                Lands Tribunal under this Ordinance is reduced under subsection (2) by the amount of
+                any payment made under subsection (1), such compensation shall not as from the date
+                on which the payment is made bear interest except on the amount thereof as so
+                    reduced.<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/1985/62">62 of 1985 s. 2</ref>)</sourceNote></content></subsection><subsection id="ID_1438411149656_005" name="4" temporalId="s16A_4"><num value="4">(4)</num><content>Where the amount of any payment made by the Authority under subsection (1) in
+                respect of any claim exceeds the amount of the compensation determined by the Lands
+                Tribunal in respect of such claim, the amount of the excess shall be recoverable by
+                the Authority as a civil debt.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1985/62">62 of 1985 s. 2</ref>)</sourceNote></content></subsection><sourceNote>(Added <ref href="/hk/1984/5">5 of 1984 s. 7</ref>)</sourceNote><editorialNote type="footnote" id="ID_1691392959652_003">
+            <content>Editorial Note:</content>
+            <content>For the validation of interest payments and application provisions relating to
+                the amendments made by <ref href="/hk/2001/6">6 of 2001</ref>—see <ref>section
+                    13</ref> of <ref href="/hk/2001/6">6 of 2001</ref>.</content>
+            <content><inline class="force_orig_font">*</inline> Commencement date: 13 January
+                1984.</content>
+        </editorialNote></section><section id="ID_1438402654929_002" name="s17" reason="inEffect" startPeriod="2023-09-01" status="operational" temporalId="s17"><num value="17">17.</num><heading>Payment of compensation and interest</heading><subsection id="ID_1438411149687_019" name="1" temporalId="s17_1"><num value="1">(1)</num><content>All sums of money agreed or determined as compensation (together with interest
+                thereon as hereinafter mentioned), and all costs and remuneration awarded against
+                the Government, shall be paid out of the general revenue.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1974/63">63 of 1974 s. 13</ref>; <ref href="/hk/2000/3">3 of 2000 s. 3</ref>)</sourceNote></content></subsection><subsection id="ID_1438411149687_027" name="2" temporalId="s17_2"><num value="2">(2)</num><content>At any time after agreement or determination by the Lands Tribunal of the
+                amount of compensation to be paid under this Ordinance, the Authority may by notice
+                published in the Gazette require the person entitled to such compensation to collect
+                the same within the time and at the place specified in the notice.<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/1974/63">63 of
+                        1974 s. 13</ref>)</sourceNote></content></subsection><subsection id="ID_1438411149703_005" name="3" temporalId="s17_3"><num value="3">(3)</num><content>Subject to <ref>section 16A(3)</ref>, any sum of money payable as compensation
+                by virtue of a determination of the Lands Tribunal or an agreement under this
+                Ordinance
+                bears
+                interest, calculated on a daily basis in accordance with subsection
+                (3A), from the date of resumption of the land until the expiration
+                of the time specified in the notice referred to in subsection (2). No interest
+                is
+                payable on any costs or remuneration.<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/1974/63">63 of 1974 s. 13</ref>. Amended <ref href="/hk/1984/5">5 of 1984 s.
+                    8</ref>; <ref href="hk/2023/25">25 of 2023 s. 18</ref>)</sourceNote></content></subsection><subsection id="ID_1691132212529_001" name="3A" temporalId="s17_3A"><num value="3A">(3A)</num><leadIn>For subsection (3), the rate of interest payable—</leadIn><paragraph id="ID_1691132212531_002" name="a" temporalId="s17_3A_a"><num value="a">(a)</num><content>in respect of a day on which the reference interest rate is published
+                            (<b><i>publication day</i></b>)—is the reference interest rate;
+                    and</content></paragraph><paragraph id="ID_1691132212531_003" name="b" temporalId="s17_3A_b"><num value="b">(b)</num><content>in respect of a day other than a publication day—is the reference interest
+                    rate published on the last publication day before that day.
+                        <sourceNote>(Replaced <ref href="hk/2023/25">25 of 2023 s. 18</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438411149718_005" name="3B" temporalId="s17_3B"><num value="3B">(3B)</num><sourceNote>(Repealed <ref href="hk/2023/25">25 of 2023 s. 18</ref>)</sourceNote></subsection><subsection id="ID_1438411149718_028" name="4" temporalId="s17_4"><num value="4">(4)</num><content>If no claim be made for the compensation money at the place, and within the
+                time appointed, the officer appointed as aforesaid shall cause such money to be paid
+                into the Treasury.</content></subsection><subsection id="ID_1438411149718_036" name="5" temporalId="s17_5"><num value="5">(5)</num><content>The money thus paid into the Treasury or any part of it may, within a period of
+                5 years from the expiration of the time referred to in subsection (2), be claimed by
+                the person entitled thereto and upon such claim being substantiated shall be paid to
+                the person so entitled.</content></subsection><subsection id="ID_1438411149718_044" name="6" temporalId="s17_6"><num value="6">(6)</num><content>At the expiration of the said period of 5 years the money or such part of it as
+                remains unpaid shall be transferred to the general revenue.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1971/71">71 of 1971 s. 3</ref>; <ref href="/hk/2000/3">3 of 2000 s. 3</ref>)</sourceNote></content></subsection><sourceNote>(Replaced <ref href="/hk/1929/33">33 of 1929 s. 2</ref>)</sourceNote><editorialNote type="footnote" id="ID_1691132212610_004">
+            <content>Editorial Note:</content>
+            <content>For the validation of interest payments and application provisions relating to
+                the amendments made by <ref href="/hk/2001/6">6 of
+                2001</ref>—see
+                    <ref>section 13</ref> of <ref href="/hk/2001/6">6 of 2001</ref>.</content>
+        </editorialNote></section><section id="ID_1438402654992_001" name="s18" reason="inEffect" startPeriod="2018-06-28" status="operational" temporalId="s18"><num value="18">18.</num><heading>Payment when owner absent, etc.</heading><text>When the owner of any land which has been resumed is absent from Hong Kong or cannot
+            be found, or within 6 months from the date when the amount of compensation shall have
+            been determined makes no claim to the same, or is in the opinion of the Chief Executive
+            unable to give an effectual discharge for the same, the Chief Executive may direct
+            payment of the compensation to be made to such other person on behalf of the owner as he
+            shall think proper, subject to such conditions as he thinks fit, and the receipt of such
+            person shall be a valid and effectual discharge for the same in the same manner as if
+            payment had been made to the owner.</text><sourceNote>(<ref href="/hk/1910/18">18 of 1910 s. 7</ref> incorporated. Amended <ref href="/hk/1911/28">28 of 1911 s. 6</ref>(e); <ref href="/hk/1911/50">50 of
+                1911</ref>; <ref href="/hk/1912/1">1 of 1912 </ref>Schedule; <ref href="/hk/1985/62">62 of 1985 s. 3</ref>; <ref href="/hk/2000/3">3 of 2000 s. 3</ref>)</sourceNote></section></part><part id="ID_1691132273496_001" name="P8" temporalId="P8" startPeriod="2023-09-01" status="operational" reason="inEffect"><num value="8">Part 8</num><heading>Miscellaneous</heading><sourceNote>(Added <ref href="hk/2023/25">25 of 2023 s. 19</ref>)</sourceNote><section id="ID_1691132273847_002" name="s18A" temporalId="s18A" startPeriod="2023-09-01" status="operational" reason="inEffect"><num value="18A">18A.</num><heading>Resumption of contiguous or adjacent land on application</heading><subsection id="ID_1691133064563_001" name="1" temporalId="s18A_1"><num value="1">(1)</num><content>The owner of, or a mortgagee in possession of, any land (<i><b>relevant
+                        land</b></i>) that is contiguous or adjacent to land that has been resumed
+                pursuant to an authorization made under <ref>section 3(1)</ref> or (2)
+                        (<b><i>resumed land</i></b>) may apply to the Chief Executive for the
+                resumption of the relevant land.</content></subsection><subsection id="ID_1691133064565_002" name="2" temporalId="s18A_2"><num value="2">(2)</num><leadIn>The application must be made before the expiry of—</leadIn><paragraph id="ID_1691133064565_003" name="a" temporalId="s18A_2_a"><num value="a">(a)</num><content>a period of 1 year from the date on which the resumed land reverts to the
+                    Government under <ref>section 5</ref>; or</content></paragraph><paragraph id="ID_1691133064567_004" name="b" temporalId="s18A_2_b"><num value="b">(b)</num><content>a further period allowed by the Chief Executive in a particular
+                    case.</content></paragraph></subsection><subsection id="ID_1691133064567_005" name="3" temporalId="s18A_3"><num value="3">(3)</num><leadIn>On the application, the Chief Executive may order the resumption of the relevant
+                land, whether or not the resumption is required for a public purpose, if the Chief
+                Executive is of the opinion that—</leadIn><paragraph id="ID_1691133064568_006" name="a" temporalId="s18A_3_a"><num value="a">(a)</num><content>the resumed land is reasonably necessary to the use and enjoyment of the
+                    relevant land; and</content></paragraph><paragraph id="ID_1691133064568_007" name="b" temporalId="s18A_3_b"><num value="b">(b)</num><content>it would be just and equitable to make an order for the relevant land to be
+                    resumed.</content></paragraph></subsection><subsection id="ID_1691133064568_008" name="4" temporalId="s18A_4"><num value="4">(4)</num><content>A person aggrieved by a decision of the Chief Executive not to order resumption
+                under subsection (3) may apply to the Lands Tribunal to review the
+                decision.</content></subsection><subsection id="ID_1691133064569_009" name="5" temporalId="s18A_5"><num value="5">(5)</num><content>On an application under subsection (4), the Lands Tribunal may, if it is
+                satisfied as to the matters mentioned in subsection <ref>(3)(a)</ref> and (b), order
+                the resumption of the relevant land, whether or not the resumption is required for a
+                public purpose, and compensation for the resumption is to be assessed under this
+                Ordinance.</content></subsection><subsection id="ID_1691133064570_010" name="6" temporalId="s18A_6"><num value="6">(6)</num><content>If the resumption of the relevant land is ordered under this section, the
+                Authority must publish a notice of the resumption of the relevant land
+                        (<b><i>relevant notice</i></b>) in the Gazette.</content></subsection><subsection id="ID_1691133064571_011" name="7" temporalId="s18A_7"><num value="7">(7)</num><content>For the purposes of this Ordinance, the relevant notice is taken to be a notice
+                published under <ref>section 4(1)</ref> and, accordingly, <ref>section 4(2)</ref>,
+                (3), (3A) and (4) applies in relation to the relevant notice.</content></subsection><sourceNote>(Added <ref href="hk/2023/25">25 of 2023 s. 19</ref>)</sourceNote></section><section id="ID_1438402655007_001" name="s19" reason="inEffect" startPeriod="2023-09-01" status="operational" temporalId="s19"><num value="19">19.</num><heading>Effect as evidence of notice of resumption</heading><text>In any notice
+            published
+            under <ref>section 4(1)</ref>, it is sufficient to state that the resumption of the
+            land is required for a public purpose, without stating the particular
+            purpose for which the land is required; and a notice containing such statement
+            is
+            conclusive evidence that the resumption is for a public purpose.</text><sourceNote>(Amended <ref href="/hk/1911/28">28 of 1911 s.
+            6</ref>(f); <ref href="hk/2023/25">25 of 2023 s. 20</ref>)</sourceNote></section><section id="ID_1691132785839_001" name="s19A" temporalId="s19A" startPeriod="2023-09-01" status="operational" reason="inEffect"><num value="19A">19A.</num><heading>Absence of authorization of expenditure for works not prevent certain
+            matters</heading><leadIn>The fact that the expenditure for any works for carrying out the public purpose for
+            which any land (<i><b>land</b></i>) is to be resumed has not been approved or authorized
+            under the Public Finance Ordinance (<ref href="/hk/cap2">Cap. 2</ref>) or any other
+            enactment does not prevent—</leadIn><paragraph id="ID_1691133022277_001" name="a" temporalId="s19A_a"><num value="a">(a)</num><content>the authorization of the resumption of the land under <ref>section 3(1)</ref>
+                or (2);</content></paragraph><paragraph id="ID_1691133022279_002" name="b" temporalId="s19A_b"><num value="b">(b)</num><content>the order for the resumption of the land under <ref>section
+                3(3)</ref>;</content></paragraph><paragraph id="ID_1691133022280_003" name="c" temporalId="s19A_c"><num value="c">(c)</num><content>the publication of a notice in respect of the resumption of the land under
+                    <ref>section 4</ref>;</content></paragraph><paragraph id="ID_1691133022281_004" name="d" temporalId="s19A_d"><num value="d">(d)</num><content>the order for the resumption of any land contiguous or adjacent to the land
+                        (<i><b>contiguous or adjacent land</b></i>) under <ref>section 18A</ref>;
+                or</content></paragraph><paragraph id="ID_1691133022283_005" name="e" temporalId="s19A_e"><num value="e">(e)</num><content>the provision of any compensation (whether monetary or non-monetary) or any
+                financial or other assistance, whether or not under an enactment, in connection with
+                the resumption of the land or the contiguous or adjacent land.</content></paragraph><sourceNote>(Added <ref href="hk/2023/25">25 of 2023 s. 21</ref>)</sourceNote></section><section id="ID_1438402655007_003" name="s20" reason="inEffect" startPeriod="2018-06-28" status="operational" temporalId="s20"><num value="20">20.</num><heading>Arrangement with owner of buildings or dwellings to reconstruct them</heading><text>Whenever the buildings or dwellings on any land are of insanitary construction as
+            regards conditions of light and air, the Chief Executive may, notwithstanding any of the
+            powers of resumption herein contained or prior to the exercise of any such powers,
+            permit the owner of such buildings or dwellings to reconstruct or rebuild the same or
+            any part thereof, on such terms and conditions and subject to such security being given
+            for the proper carrying out of such reconstruction or rebuilding as the Chief Executive
+            may think fit.</text><sourceNote>(Amended <ref href="/hk/1911/28">28 of 1911 s. 6</ref>(f); <ref href="/hk/1911/50">50 of 1911</ref>; <ref href="/hk/1912/1">1 of 1912
+            </ref>Schedule; <ref href="/hk/2000/3">3 of 2000 s. 3</ref>)</sourceNote></section><section id="ID_1438402655023_001" name="s21" reason="repealed" startPeriod="1997-07-01" status="repealed" temporalId="s21"><num value="21">21.</num><sourceNote>(Repealed <ref href="/hk/1974/63">63 of 1974 s. 14</ref>)</sourceNote></section><section id="ID_1438402655038_001" name="s22" reason="inEffect" startPeriod="2018-06-28" status="operational" temporalId="s22"><num value="22">22.</num><heading>Saving of power of resumption under Government lease</heading><text>This Ordinance shall not be deemed to prevent the exercise by the Government of any
+            power of resumption contained in any Government
+            lease.</text><sourceNote>(Amended <ref href="/hk/1911/28">28 of 1911 s. 6</ref>(f); <ref href="/hk/1911/50">50 of 1911</ref>; <ref href="/hk/1912/1">1 of 1912
+            </ref>Schedule; <ref href="/hk/1998/29">29 of 1998 s. 34</ref>)</sourceNote></section><section id="ID_1691133094285_001" name="s23" temporalId="s23" startPeriod="2023-09-01" status="operational" reason="inEffect"><num value="23">23.</num><heading>Transitional provisions for Development (Town Planning, Lands and Works)
+            (Miscellaneous Amendments) Ordinance 2023</heading><subsection id="ID_1691133290152_001" name="1" temporalId="s23_1"><num value="1">(1)</num><content>For the purposes of subsection (2), the Secretary may, by notice published in
+                the Gazette, specify a project proposed by the Authority if the boundary of the land
+                proposed to be resumed for the purpose of the project (<i><b>relevant
+                    boundary</b></i>) has been made available to the public (or a section of the
+                public) before 1 September 2023, whether or not the relevant boundary is varied on
+                or after that date.</content></subsection><subsection id="ID_1691133290152_002" name="2" temporalId="s23_2"><num value="2">(2)</num><leadIn>In relation to a project specified under subsection (1) and the resumption of
+                any land for the purpose of the project—</leadIn><paragraph id="ID_1691133290153_003" name="a" temporalId="s23_2_a"><num value="a">(a)</num><leadIn>the following provisions do not apply—</leadIn><subparagraph id="ID_1691133290153_004" name="1" temporalId="s23_2_a_1"><num value="1">(i)</num><content><ref>Part 2</ref> (as added by <ref>section 5</ref> of the Amendment
+                        Ordinance); and</content></subparagraph><subparagraph id="ID_1691133290156_005" name="2" temporalId="s23_2_a_2"><num value="2">(ii)</num><content><ref>section 3</ref> (as amended by <ref>section 7</ref> of the
+                        Amendment Ordinance); and</content></subparagraph></paragraph><paragraph id="ID_1691133290159_006" name="b" temporalId="s23_2_b"><num value="b">(b)</num><content><ref>section 3</ref> as in force immediately before 1 September 2023
+                    continues to apply as if <ref>section 7</ref> of the Amendment Ordinance had not
+                    been enacted.</content></paragraph></subsection><subsection id="ID_1691133290161_007" name="3" temporalId="s23_3"><num value="3">(3)</num><content>If any land has reverted to the Government under <ref>section 5</ref> before 1
+                September 2023, <ref>sections 16A</ref> and <ref>17</ref> as in force immediately
+                before that date continue to apply in relation to the compensation in respect of the
+                resumption of the land as if <ref>sections 17</ref> and <ref>18</ref> of the
+                Amendment Ordinance had not been enacted.</content></subsection><subsection id="ID_1691133290167_008" name="4" temporalId="s23_4"><num value="4">(4)</num><leadIn>In this Ordinance—</leadIn><paragraph id="ID_1691133290167_009" name="a" temporalId="s23_4_a"><num value="a">(a)</num><content>a reference to an authorization made by the Chief Executive in Council
+                    under <ref>section 3(1)</ref> or (2) includes a decision made by the Chief
+                    Executive in Council under <ref>section 3</ref> as in force immediately before 1
+                    September 2023; and</content></paragraph><paragraph id="ID_1691133290170_010" name="b" temporalId="s23_4_b"><num value="b">(b)</num><content>a reference to an order made by the Chief Executive under <ref>section
+                        3(3)</ref> includes an order made by the Chief Executive under <ref>section
+                        3</ref> as in force immediately before 1 September 2023.</content></paragraph></subsection><subsection id="ID_1691133290172_011" name="5" temporalId="s23_5"><num value="5">(5)</num><leadIn>In this section—</leadIn><def name="AmendmentOrdinance"><term>Amendment Ordinance</term> (<term xml:lang="zh-Hant-HK">《修訂條例》</term>) means the Development (Town Planning, Lands
+                and Works) (Miscellaneous Amendments) Ordinance 2023 (<ref href="hk/2023/25">25 of
+                    2023</ref>).</def></subsection><sourceNote>(Added <ref href="hk/2023/25">25 of 2023 s. 22</ref>)</sourceNote></section></part></main></ordinance>

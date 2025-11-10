@@ -1,0 +1,1277 @@
+<?xml version="1.0" encoding="UTF-8"?><ordinance xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd" xml:lang="en"><meta><docName>Cap. 423</docName><docType>cap</docType><docNumber>423</docNumber><docStatus>In effect</docStatus><dc:identifier>/hk/cap423!en</dc:identifier><dc:date>2025-03-14</dc:date><dc:subject>legislation</dc:subject><dc:language>en</dc:language><dc:publisher>DoJ</dc:publisher><dc:rights>the Government of the Hong Kong Special Administrative Region</dc:rights></meta><main xml:lang="en" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd"><longTitle id="ID_1438403183365_001" name="longTitle" reason="inEffect" status="operational" temporalId="longTitle" startPeriod="2024-08-22">
+            <content>An Ordinance to establish the Employees Retraining Board as a body corporate,
+                to establish the Employees Retraining Fund, to provide for the imposition of a levy
+                payable by employers who employ imported employees, and to provide for the
+                collection of the levy by the Director of Immigration from those employers in
+                respect of those employees and the remittance of the levy to the Board for the
+                purposes of the Fund, the defraying of the costs of providing retraining courses for
+                eligible employees, the payment of retraining allowances by the Board from the Fund
+                to those employees, and for incidental and connected matters.</content>
+            
+        </longTitle><sourceNote>(Amended <ref href="/hk/1997/5">5 of 1997 s.
+            2</ref>)<marker role="blank-line"></marker><marker role="blank-line"></marker></sourceNote><commencementNote>[16 October 1992]</commencementNote><sourceNote>(Format changes—<ref href="/hk/2024/er4">E.R. 4 of 2024</ref>)</sourceNote><enactingFormula>
+            <content><sourceNote>(Enacting provision omitted—<ref href="/hk/2024/er4">E.R. 4 of
+                        2024</ref>)</sourceNote></content>
+        </enactingFormula><part id="ID_1438403183365_003" name="P1" reason="inEffect" startPeriod="2024-08-22" status="operational" temporalId="P1"><num value="1">Part
+            I</num><heading>Preliminary</heading><section id="ID_1438403183380_001" name="s1" reason="inEffect" startPeriod="2024-08-22" status="operational" temporalId="s1"><num value="1">1.</num><heading>Short title, application and commencement</heading><subsection id="ID_1438412480853_004" name="1" temporalId="s1_1"><num value="1">(1)</num><content>This Ordinance may be cited as the <shortTitle>Employees Retraining Ordinance</shortTitle>.</content></subsection><subsection id="ID_1438412480853_012" name="2" temporalId="s1_2"><num value="2">(2)</num><content>Subject to subsection (3), this Ordinance shall apply in relation to the financial year commencing on 9 January 1992 and all subsequent financial years, and shall come into operation on the date of publication of this Ordinance in the Gazette*.</content></subsection><subsection id="ID_1438412480853_020" name="3" temporalId="s1_3"><num value="3">(3)</num><content>Part IV (other than <ref>section 16(c)</ref>) shall apply in relation to the financial year commencing on 9 January 1992 and all subsequent financial years, and shall be deemed to have come into operation on that date.</content></subsection><editorialNote type="footnote" id="ID_1715152309464_001"><content>Editorial Note:</content><content><inline class="force_orig_font">*</inline>
+                                                  Ordinance published in Gazette on 16 October
+                                                  1992.</content></editorialNote></section><section id="ID_1438403183396_001" name="s2" reason="inEffect" startPeriod="2024-08-22" status="operational" temporalId="s2"><num value="2">2.</num><heading>Interpretation</heading><leadIn>In this Ordinance, unless the context otherwise requires—</leadIn><def name="Applicant"><term>applicant</term>
+                (<term xml:lang="zh-Hant-HK">申請人</term>) means an eligible employee who makes an
+            application under <ref>section 17(1)</ref>;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1997/5">5 of 1997 s.
+                3</ref>)</sourceNote></def><def name="Board"><term>Board</term>
+                (<term xml:lang="zh-Hant-HK">再培訓局</term>) means the Employees Retraining Board
+            established under <ref>section 3</ref>;
+            <sourceNote>(Amended <ref href="/hk/1994/102">102 of 1994 s.
+            2</ref>)</sourceNote></def><def name="CertificateOfExemption"><term>certificate
+                of
+            exemption</term>
+                (<term xml:lang="zh-Hant-HK">豁免證明書</term>) means a certificate of exemption as
+            defined in <ref>section 17G</ref> of the Immigration Ordinance (<ref href="/hk/cap115">Cap. 115</ref>);<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1997/5">5 of 1997 s. 3</ref>)</sourceNote></def><def name="Chairman"><term>Chairman</term>
+                (<term xml:lang="zh-Hant-HK">主席</term>) means the Chairman of the Board appointed
+            under <ref>section 3(2)(a)(i)</ref> or any other person when acting as Chairman;</def><def name="ConditionOfStay"><term>condition
+                of
+            stay</term>
+                (<term xml:lang="zh-Hant-HK">逗留條件</term>), in relation to any person, means a
+            condition of stay imposed in respect of the person under the Immigration Ordinance (<ref href="/hk/cap115">Cap. 115</ref>);<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1997/5">5 of 1997 s.
+                3</ref>)</sourceNote></def><def name="ContractOfEmployment"><term>contract
+                of
+            employment</term>
+                (<term xml:lang="zh-Hant-HK">僱傭合約</term>) has the same meaning as in <ref>section
+                2(1)</ref> of the Employment Ordinance (<ref href="/hk/cap57">Cap. 57</ref>);</def><def name="Director"><term>Director</term>
+            means the Director of Immigration;</def><def name="EligibleEmployee">
+            <leadIn><term>eligible
+                    employee</term>
+                    (<term xml:lang="zh-Hant-HK">合資格僱員</term>) means an employee who—</leadIn>
+            <paragraph id="ID_1438412480931_005" name="a" temporalId="s2_a"><num value="a">(a)</num><content>is the holder of an identity card or a certificate of exemption;
+                    and</content></paragraph>
+            <paragraph id="ID_1438412480931_013" name="b" temporalId="s2_b"><num value="b">(b)</num><subparagraph id="ID_1438412480931_016" name="i" temporalId="s2_b_i"><num value="i">(i)</num><content>is not subject to any condition of stay, other than a limit of stay;
+                        and</content></subparagraph><subparagraph id="ID_1438412480931_023" name="ii" temporalId="s2_b_ii"><num value="ii">(ii)</num><content>is not in breach of any limit of stay;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1997/5">5 of 1997 s.
+                                3</ref>)</sourceNote></content></subparagraph></paragraph>
+        </def><def name="Employee"><term>employee</term>
+                (<term xml:lang="zh-Hant-HK">僱員</term>) has the same meaning as in <ref>section
+                2(1)</ref> of the Employment Ordinance (<ref href="/hk/cap57">Cap. 57</ref>), and
+            includes a former employee and any person who wishes to take up employment as an
+            employee after attending a retraining course or a supplementary retraining
+                programme;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1994/102">102 of 1994 s. 2</ref>; <ref href="/hk/1997/5">5 of 1997 s.
+                    3</ref>)</sourceNote></def><def name="Employer"><term>employer</term>
+                (<term xml:lang="zh-Hant-HK">僱主</term>) has the same meaning as in <ref>section
+                2(1)</ref> of the Employment Ordinance (<ref href="/hk/cap57">Cap. 57</ref>);</def><def name="ExecutiveDirector"><term>Executive
+                Director</term>
+                (<term xml:lang="zh-Hant-HK">行政總監</term>) means the Executive Director of the Board
+            appointed by the Board in the exercise of the power conferred on it by <ref>section
+                5(2)(b)</ref>;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1994/102">102 of 1994 s. 2</ref>)</sourceNote></def><def name="FinancialYear"><term>financial
+                year</term>
+                (<term xml:lang="zh-Hant-HK">財政年度</term>) means the financial year of the Board
+            referred to in <ref>section 9(1)</ref>;</def><def name="Fund"><term>Fund</term>
+                (<term xml:lang="zh-Hant-HK">基金</term>) means the Employees Retraining Fund
+            established under <ref>section 6</ref>;</def><def name="IdentityCard"><term>identity
+                card</term>
+                (<term xml:lang="zh-Hant-HK">身分證</term>) means an identity card within the meaning
+            of the Registration of Persons Ordinance (<ref href="/hk/cap177">Cap. 177</ref>);<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1997/5">5 of 1997 s.
+                    3</ref>)</sourceNote></def><def name="ImportedEmployee"><term>imported
+                employee</term>
+                (<term xml:lang="zh-Hant-HK">外來僱員</term>) means a person who is the subject of an
+            application by an employer under <ref>section 14(4)</ref>;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1997/5">5 of 1997 s.
+                3</ref>)</sourceNote></def><def name="LabourImportationScheme"><term>labour
+                importation
+            scheme</term>
+                (<term xml:lang="zh-Hant-HK">輸入僱員計劃</term>) means a scheme referred to in
+                <ref>section 14(3)</ref>;</def><def name="Levy"><term>levy</term>
+                (<term xml:lang="zh-Hant-HK">徵款</term>) means the levy imposed under <ref>section
+                14(1)</ref>;</def><def name="LimitOfStay"><term>limit
+                of
+            stay</term>
+                (<term xml:lang="zh-Hant-HK">逗留期限</term>), in relation to any person, means a
+            condition of stay limiting the period during which the person may remain in Hong
+                Kong;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1997/5">5
+                    of 1997 s. 3</ref>)</sourceNote></def><def name="Quota"><term>quota</term>
+                (<term xml:lang="zh-Hant-HK">配額</term>) means a quota allocated under <ref>section
+                14(4)</ref>;</def><def name="RetrainingAllowance"><term>retraining
+                allowance</term>
+                (<term xml:lang="zh-Hant-HK">再培訓津貼</term>) means the retraining allowance referred
+            to in <ref>section 21(4)</ref>;</def><def name="RetrainingCourse"><term>retraining
+                course</term>
+                (<term xml:lang="zh-Hant-HK">再培訓課程</term>) means a course provided or conducted by a
+            training body for the purpose of training or retraining trainees to acquire new or
+            enhanced vocational skills;</def><def name="Secretary"><term>Secretary</term>
+                (<term xml:lang="zh-Hant-HK">局長</term>) means the Secretary for Labour and
+                Welfare;<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/2007/ln130">L.N. 130 of 2007</ref>)</sourceNote></def><def name="SupplementaryRetrainingProgramme"><term>supplementary
+                retraining
+            programme</term>
+                (<term xml:lang="zh-Hant-HK">附屬培訓計劃</term>) means a programme approved by the Board
+            and provided or conducted by a training provider for the purpose of training or
+            retraining eligible employees to acquire new or enhanced vocational skills or to
+            facilitate their employment;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1994/102">102 of 1994 s. 2</ref>. Amended <ref href="/hk/1997/5">5 of
+                    1997 s. 3</ref>)</sourceNote></def><def name="Trainee"><term>trainee</term>
+                (<term xml:lang="zh-Hant-HK">受訓僱員</term>) means an applicant invited to attend a
+            retraining course or a supplementary retraining programme under <ref>section
+                19(2)</ref>;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1994/102">102 of 1994 s. 2</ref>)</sourceNote></def><def name="TrainingBody"><term>training
+                body</term>
+                (<term xml:lang="zh-Hant-HK">培訓機構</term>) means a body specified in <ref>Schedule
+                2</ref>;</def><def name="TrainingProvider"><term>training
+                provider</term>
+                (<term xml:lang="zh-Hant-HK">附屬培訓機構</term>) means a body or person appointed under
+                <ref>section 4</ref>;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1994/102">102 of 1994 s. 2</ref>)</sourceNote></def><def name="Visa"><term>visa</term>
+                (<term xml:lang="zh-Hant-HK">簽證</term>) means a visa issued under <ref>section
+                61</ref> of the Immigration Ordinance (<ref href="/hk/cap115">Cap. 115</ref>);</def><def name="VocationalSkills"><term>vocational
+                skills</term>
+                (<term xml:lang="zh-Hant-HK">職業技能</term>) means any skills leading or related to
+                employment.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1994/102">102 of 1994 s. 2</ref>)</sourceNote></def><sourceNote>(Amended <ref href="/hk/1994/102">102 of 1994 s. 2</ref>; <ref href="/hk/1997/5">5 of 1997 s. 3</ref>)</sourceNote></section></part><part id="ID_1438403183411_001" name="P2" reason="inEffect" startPeriod="2024-08-22" status="operational" temporalId="P2"><num value="2">Part
+            II</num><heading>Establishment
+            of
+            the
+            Employees
+            Retraining
+            Board</heading><section id="ID_1438403183411_003" name="s3" reason="inEffect" startPeriod="2024-08-22" status="operational" temporalId="s3"><num value="3">3.</num><heading>Establishment of the Board</heading><subsection id="ID_1438412481118_011" name="1" temporalId="s3_1"><num value="1">(1)</num><content>There is established a body corporate, to be called the Employees Retraining
+                Board, which shall have such powers and functions as are conferred and imposed on it
+                under this Ordinance.</content></subsection><subsection id="ID_1438412481118_019" name="2" temporalId="s3_2"><num value="2">(2)</num><leadIn>The Board shall—</leadIn><paragraph id="ID_1438412481118_027" name="a" temporalId="s3_2_a"><num value="a">(a)</num><leadIn>consist of—</leadIn><subparagraph id="ID_1438412481118_035" name="i" temporalId="s3_2_a_i"><num value="i">(i)</num><content>a Chairman;</content></subparagraph><subparagraph id="ID_1438412481118_043" name="ii" temporalId="s3_2_a_ii"><num value="ii">(ii)</num><content>a Vice-Chairman;</content></subparagraph><subparagraph id="ID_1438412481118_051" name="iii" temporalId="s3_2_a_iii"><num value="iii">(iii)</num><content>not more than 4 other members not being public officers who, in the
+                        opinion of the Chief Executive, represent employers;</content></subparagraph><subparagraph id="ID_1438412481134_007" name="iv" temporalId="s3_2_a_iv"><num value="iv">(iv)</num><content>not more than 4 other members not being public officers who, in the
+                        opinion of the Chief Executive, represent employees; and</content></subparagraph><subparagraph id="ID_1438412481134_015" name="v" temporalId="s3_2_a_v"><num value="v">(v)</num><content>not more than 4 other members not being public officers who, in the
+                        opinion of the Chief Executive, include persons who are connected with
+                        vocational training and retraining or manpower planning,</content></subparagraph><continued>who shall be appointed by the Chief Executive for a term not exceeding 3
+                    years; and</continued></paragraph><paragraph id="ID_1438412481134_028" name="b" temporalId="s3_2_b"><num value="b">(b)</num><content>consist of not more than 3 other members being public officers each of whom
+                    shall be appointed by the Chief Executive and hold office at the discretion of
+                    the Chief Executive. <sourceNote>(Amended <ref href="/hk/2000/56">56 of 2000 s.
+                            3</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438412481134_035" name="3" temporalId="s3_3"><num value="3">(3)</num><content>The members of the Board appointed under subsection (2) shall be the governing
+                body of the Board and shall, in the name of the Board, exercise and perform the
+                powers and functions conferred and imposed on the Board under this
+                Ordinance.</content></subsection><subsection id="ID_1438412481134_043" name="4" temporalId="s3_4"><num value="4">(4)</num><content><ref>Schedule 1</ref> shall have effect as respects the Board and the members
+                thereof.</content></subsection><subsection id="ID_1438412481134_051" name="5" temporalId="s3_5"><num value="5">(5)</num><content>Notice of any appointment made under this section shall be published in the
+                Gazette.</content></subsection></section><section id="ID_1438403183427_002" name="s4" reason="inEffect" startPeriod="2024-08-22" status="operational" temporalId="s4"><num value="4">4.</num><heading>Functions of the Board</heading><leadIn>The functions of the Board are—</leadIn><paragraph id="ID_1438412481227_012" name="a" temporalId="s4_a"><num value="a">(a)</num><content>to hold the Fund upon trust to administer the Fund in accordance with the objects of this Ordinance;</content></paragraph><paragraph id="ID_1438412481243_006" name="b" temporalId="s4_b"><num value="b">(b)</num><content>to receive the levy imposed on employers and remitted by the Director;</content></paragraph><paragraph id="ID_1438412481243_014" name="c" temporalId="s4_c"><num value="c">(c)</num><content>to consider the provision, administration and availability of retraining courses and supplementary retraining programmes intended or designed for the benefit of eligible employees in adjusting to changes in the employment market by acquiring new or enhanced vocational skills;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1997/5">5 of 1997 s. 4</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438412481243_022" name="d" temporalId="s4_d"><num value="d">(d)</num><content>to identify particular occupations or classes of occupation that have high vacancy rates and in respect of which eligible employees may secure employment or re-employment by attending retraining courses or supplementary retraining programmes as trainees to acquire new or enhanced vocational skills;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1997/5">5 of 1997 s. 4</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438412481259_006" name="e" temporalId="s4_e"><num value="e">(e)</num><content>to liaise with training bodies, other related organizations and Government departments with respect to the design, administration and availability of retraining courses and supplementary retraining programmes;</content></paragraph><paragraph id="ID_1438412481259_014" name="f" temporalId="s4_f"><num value="f">(f)</num><content>to determine the requirements to be satisfied by eligible employees for the purposes of applying to attend retraining courses or supplementary retraining programmes and receive retraining allowances, and the amount of retraining allowances to be paid to those eligible employees as trainees;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1997/5">5 of 1997 s. 4</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438412481274_006" name="g" temporalId="s4_g"><num value="g">(g)</num><content>to pay retraining allowances to trainees;</content></paragraph><paragraph id="ID_1438412481274_014" name="h" temporalId="s4_h"><num value="h">(h)</num><content>to engage the services of training bodies for the purpose of providing or conducting retraining courses;</content></paragraph><paragraph id="ID_1438412481274_022" name="i" temporalId="s4_i"><num value="i">(i)</num><content>to defray the costs of the provision of retraining courses and supplementary
+                retraining
+                    programmes;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/2024/er4">E.R. 4
+                        of 2024</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438412481274_030" name="j" temporalId="s4_j"><num value="j">(j)</num><content>to perform such other functions as are imposed on the Board under this
+                Ordinance;
+                    and<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/2024/er4">E.R. 4
+                        of 2024</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438412481274_038" name="k" temporalId="s4_k"><num value="k">(k)</num><content>to appoint, by notice in the Gazette, a training provider whose function is to provide training or retraining under a supplementary retraining programme.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1994/102">102 of 1994 s. 5</ref>)</sourceNote></content></paragraph><sourceNote>(Amended <ref href="/hk/1994/102">102 of 1994 s. 5</ref>)</sourceNote></section><section id="ID_1438403183443_001" name="s5" reason="inEffect" startPeriod="2024-08-22" status="operational" temporalId="s5"><num value="5">5.</num><heading>General powers of the Board</heading><subsection id="ID_1438412481321_004" name="1" temporalId="s5_1"><num value="1">(1)</num><content>The Board may do such things as are expedient for or conducive to the attainment of its functions or which, in the opinion of the Board, are necessary to facilitate the proper carrying out of the functions of the Board.</content></subsection><subsection id="ID_1438412481321_012" name="2" temporalId="s5_2"><num value="2">(2)</num><leadIn>Without restricting the generality of subsection (1) the Board may—</leadIn><paragraph id="ID_1438412481337_005" name="a" temporalId="s5_2_a"><num value="a">(a)</num><content>hold, acquire or take on lease movable and immovable property and sell, let or otherwise dispose of or deal with such property;</content></paragraph><paragraph id="ID_1438412481337_013" name="b" temporalId="s5_2_b"><num value="b">(b)</num><content>appoint such employees as it may determine on such terms and conditions of service as the Board thinks fit including the payment of allowances, benefits, gratuities, pensions and remuneration;</content></paragraph><paragraph id="ID_1438412481337_021" name="c" temporalId="s5_2_c"><num value="c">(c)</num><content>make or provide ex gratia payments in respect of any employee of the Board or to the personal representative of a deceased employee of the Board;</content></paragraph><paragraph id="ID_1438412481337_029" name="d" temporalId="s5_2_d"><num value="d">(d)</num><content>engage the services of such technical and professional advisers as the Board thinks fit including the determination of all matters relating to their remuneration and terms and conditions of engagement;</content></paragraph><paragraph id="ID_1438412481337_037" name="e" temporalId="s5_2_e"><num value="e">(e)</num><content>subject to <ref>section 8</ref>, invest the moneys of the Fund in such manner and to such extent as it considers expedient and prudent;</content></paragraph><paragraph id="ID_1438412481337_045" name="f" temporalId="s5_2_f"><num value="f">(f)</num><content>subject to the approval of the Financial Secretary, borrow moneys, in such manner and on such securities or terms as it considers expedient and prudent, for payment into the Fund;</content></paragraph><paragraph id="ID_1438412481337_053" name="g" temporalId="s5_2_g"><num value="g">(g)</num><content>exercise any of its powers either alone or in association with any person or persons;</content></paragraph><paragraph id="ID_1438412481352_006" name="h" temporalId="s5_2_h"><num value="h">(h)</num><content>publicise the Fund and the criteria for eligibility for payment of retraining allowances and the amounts thereof;</content></paragraph><paragraph id="ID_1438412481352_014" name="i" temporalId="s5_2_i"><num value="i">(i)</num><content>publicise the availability of retraining courses and supplementary retraining programmes and the training bodies and training providers providing or conducting such courses or programmes;<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/1994/102">102 of 1994 s. 6</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438412481352_022" name="j" temporalId="s5_2_j"><num value="j">(j)</num><content>accept gifts whether subject to any trust or
+                    not;</content></paragraph><paragraph id="ID_1438412481352_030" name="k" temporalId="s5_2_k"><num value="k">(k)</num><content>accumulate any income of the Fund; and</content></paragraph><paragraph id="ID_1438412481352_038" name="l" temporalId="s5_2_l"><num value="l">(l)</num><content>subject to <ref>section 10</ref>, write off debts due to the Board.</content></paragraph></subsection></section></part><part id="ID_1438403183458_002" name="P3" reason="inEffect" startPeriod="2024-08-22" status="operational" temporalId="P3"><num value="3">Part
+            III</num><heading>Financial
+            Provisions</heading><section id="ID_1438403183474_002" name="s6" reason="inEffect" startPeriod="1997-06-30" status="operational" temporalId="s6"><num value="6">6.</num><heading>Employees Retraining Fund</heading><subsection id="ID_1438412481415_004" name="1" temporalId="s6_1"><num value="1">(1)</num><content>There is established a fund to be known as the Employees Retraining Fund which is vested in the Board.</content></subsection><subsection id="ID_1438412481415_012" name="2" temporalId="s6_2"><num value="2">(2)</num><content>The Fund shall be used to make provision for the payment of retraining allowances in respect of trainees attending retraining courses or supplementary retraining programmes and to defray the costs of those courses and programmes.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1994/102">102 of 1994 s. 7</ref>)</sourceNote></content></subsection><subsection id="ID_1438412481415_020" name="3" temporalId="s6_3"><num value="3">(3)</num><leadIn>The Fund shall consist of—</leadIn><paragraph id="ID_1438412481415_028" name="a" temporalId="s6_3_a"><num value="a">(a)</num><content>subject to any fees that may be charged under <ref>section 30</ref>, all amounts of levy imposed under <ref>section 14(1)</ref> and remitted to and received by the Board;</content></paragraph><paragraph id="ID_1438412481415_036" name="b" temporalId="s6_3_b"><num value="b">(b)</num><content>all other moneys, including grants, loans, fees, and interest from whatever source paid to and received by the Board for or in connection with the carrying out of its functions;</content></paragraph><paragraph id="ID_1438412481430_006" name="c" temporalId="s6_3_c"><num value="c">(c)</num><content>interest and other income derived from the moneys and investments included in the Fund;</content></paragraph><paragraph id="ID_1438412481430_014" name="d" temporalId="s6_3_d"><num value="d">(d)</num><content>all moneys received by the Board as gifts; and</content></paragraph><paragraph id="ID_1438412481430_022" name="e" temporalId="s6_3_e"><num value="e">(e)</num><content>all other moneys lawfully paid to and received by the Board including any moneys provided by the Government for the purposes of the Fund.</content></paragraph></subsection></section><section id="ID_1438403183489_001" name="s7" reason="inEffect" startPeriod="1997-06-30" status="operational" temporalId="s7"><num value="7">7.</num><heading>Payments from the Fund</heading><leadIn>The Board may pay from the Fund—</leadIn><paragraph id="ID_1438412481461_012" name="a" temporalId="s7_a"><num value="a">(a)</num><content>payments to training bodies or training providers in respect of trainees
+                eligible under Part V to receive retraining allowances;
+                <sourceNote>(Amended <ref href="/hk/1994/102">102 of 1994 s.
+                8</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438412481461_020" name="b" temporalId="s7_b"><num value="b">(b)</num><content>expenses incurred by the Board for the purposes of this Ordinance;</content></paragraph><paragraph id="ID_1438412481461_028" name="c" temporalId="s7_c"><num value="c">(c)</num><content>capital, interest and charges in respect of any loan; and</content></paragraph><paragraph id="ID_1438412481461_036" name="d" temporalId="s7_d"><num value="d">(d)</num><content>any other sums required or permitted to be paid under this Ordinance.</content></paragraph></section><section id="ID_1438403183489_003" name="s8" reason="inEffect" startPeriod="1997-06-30" status="operational" temporalId="s8"><num value="8">8.</num><heading>Bank account and investment of surplus funds</heading><subsection id="ID_1438412481477_035" name="1" temporalId="s8_1"><num value="1">(1)</num><content>The Board shall open and maintain an account in the name of the Fund with a bank within the meaning of <ref>section 2</ref> of the Banking Ordinance (<ref href="/hk/cap155">Cap. 155</ref>).<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1995/49">49 of 1995 s. 53</ref>)</sourceNote></content></subsection><subsection id="ID_1438412481477_043" name="2" temporalId="s8_2"><num value="2">(2)</num><content>Subject to subsection (3), the Board shall pay all moneys comprising the Fund into the account referred to in subsection (1).</content></subsection><subsection id="ID_1438412481477_051" name="3" temporalId="s8_3"><num value="3">(3)</num><leadIn>All moneys of the Fund that are not immediately required to be expended shall be—</leadIn><paragraph id="ID_1438412481477_059" name="a" temporalId="s8_3_a"><num value="a">(a)</num><content>deposited in a bank within the meaning of <ref>section 2</ref> of the Banking Ordinance (<ref href="/hk/cap155">Cap. 155</ref>) on fixed term or call deposits or in a savings account; or<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1995/49">49 of 1995 s. 53</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438412481493_006" name="b" temporalId="s8_3_b"><num value="b">(b)</num><content>invested in such other forms of investments approved by the Financial Secretary, either generally or in the particular case, for the purpose.</content></paragraph></subsection></section><section id="ID_1438403183505_002" name="s9" reason="inEffect" startPeriod="1997-06-30" status="operational" temporalId="s9"><num value="9">9.</num><heading>Financial year and estimates</heading><subsection id="ID_1438412481508_012" name="1" temporalId="s9_1"><num value="1">(1)</num><content>Subject to <ref>section 33(3)</ref>, the Board shall fix any period of 12 months to be the financial year of the Board.</content></subsection><subsection id="ID_1438412481508_020" name="2" temporalId="s9_2"><num value="2">(2)</num><content>The Board shall, in each financial year, adopt estimates of income and expenditure in respect of the following financial year and, before a date to be appointed by the Secretary, send them to the Secretary for his approval together with a programme of its activities for that following financial year.</content></subsection><subsection id="ID_1438412481508_028" name="3" temporalId="s9_3"><num value="3">(3)</num><content>The Secretary may require the resubmission of estimates of income and expenditure or the programme of activities referred to in subsection (2), modified as he may direct.</content></subsection></section><section id="ID_1438403183521_001" name="s10" reason="inEffect" startPeriod="2024-08-22" status="operational" temporalId="s10"><num value="10">10.</num><heading>Accounts and statements</heading><subsection id="ID_1438412481539_011" name="1" temporalId="s10_1"><num value="1">(1)</num><leadIn>The Board shall keep proper books or records of account, vouchers, receipts and
+                other records in relation to the accounts and shall cause to be prepared for each
+                financial year a statement of the accounts of the Board which shall—</leadIn><paragraph id="ID_1438412481539_019" name="a" temporalId="s10_1_a"><num value="a">(a)</num><content>include an income and expenditure account and balance sheet; and</content></paragraph><paragraph id="ID_1438412481539_027" name="b" temporalId="s10_1_b"><num value="b">(b)</num><content>be signed by the Chairman.</content></paragraph></subsection><subsection id="ID_1438412481539_034" name="2" temporalId="s10_2"><num value="2">(2)</num><content>The signed statement of the accounts of the Board shall be submitted by the
+                Chairman to the auditor appointed by the Board under <ref>section 11</ref> not later
+                than 6 months following the end of the financial year to which it relates or by such
+                later date as the Chief Executive may allow.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/2000/56">56 of 2000 s.
+                    3</ref>)</sourceNote></content></subsection><subsection id="ID_1438412481555_005" name="3" temporalId="s10_3"><num value="3">(3)</num><content>For the purposes of this section the Board may write off the whole or any part
+                of any debt due to the Board which it reasonably considers irrecoverable.</content></subsection><subsection id="ID_1438412481555_013" name="4" temporalId="s10_4"><num value="4">(4)</num><content>Any write off under subsection (3) shall not extinguish any right of the Board
+                to recover the debt which has been written off.</content></subsection></section><section id="ID_1438403183536_001" name="s11" reason="inEffect" startPeriod="2024-08-22" status="operational" temporalId="s11"><num value="11">11.</num><heading>Auditor</heading><subsection id="ID_1438412481571_050" name="1" temporalId="s11_1"><num value="1">(1)</num><leadIn>The Board shall appoint an auditor, who shall be entitled at any time—</leadIn><paragraph id="ID_1438412481571_058" name="a" temporalId="s11_1_a"><num value="a">(a)</num><content>to have access to all books or records of account, vouchers, receipts and
+                    other records of the Board referred in <ref>section 10</ref>; and</content></paragraph><paragraph id="ID_1438412481571_066" name="b" temporalId="s11_1_b"><num value="b">(b)</num><content>to require such information and explanations,</content></paragraph><continued>as he considers necessary to discharge his functions.</continued></subsection><subsection id="ID_1438412481586_011" name="2" temporalId="s11_2"><num value="2">(2)</num><content>The auditor shall, as soon as is practicable and in any case within the period
+                of 4 months, or such longer period as the Chief Executive may determine, after the
+                receipt of the signed statement of the accounts of the Board under <ref>section
+                    10(2)</ref>, audit the accounts prepared under <ref>section 10(1)</ref> and
+                shall submit a report on the accounts to the Board.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/2000/56">56 of 2000 s.
+                    3</ref>)</sourceNote></content></subsection></section><section id="ID_1438403183536_003" name="s12" reason="inEffect" startPeriod="1997-06-30" status="operational" temporalId="s12"><num value="12">12.</num><heading>Director of Audit’s examination</heading><subsection id="ID_1438412481602_040" name="1" temporalId="s12_1"><num value="1">(1)</num><content>Notwithstanding the appointment of an auditor under <ref>section 11</ref>, the Director of Audit may carry out such examination as he thinks fit into the economy, efficiency and effectiveness with which the Board has used its resources in discharging its functions and exercising its powers.</content></subsection><subsection id="ID_1438412481617_005" name="2" temporalId="s12_2"><num value="2">(2)</num><content>The Director of Audit shall have a right of access at all reasonable times to all such documents in the custody or under the control of the Board as he may reasonably require for the purpose of carrying out any examination under subsection (1) and shall be entitled to require from any person holding or accountable for any such document such information and explanations (if any) as are reasonably necessary for that purpose.</content></subsection><subsection id="ID_1438412481617_013" name="3" temporalId="s12_3"><num value="3">(3)</num><content>The Director of Audit may report to the President of the Legislative Council the results of any examination carried out by him under subsection (1).<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1993/19">19 of 1993 s. 6</ref>)</sourceNote></content></subsection><subsection id="ID_1438412481617_021" name="4" temporalId="s12_4"><num value="4">(4)</num><content>The President of the Legislative Council shall, within the period of 1 month, or such longer period as he may determine, after the receipt of the report (if any) from the Director of Audit under subsection (3), cause a copy of the report to be laid on the table of the Legislative Council.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1993/19">19 of 1993 s. 6</ref>)</sourceNote></content></subsection><subsection id="ID_1438412481633_005" name="5" temporalId="s12_5"><num value="5">(5)</num><content>Subsection (1) does not entitle the Director of Audit to question the merits of the policy objectives of the Board.</content></subsection></section><section id="ID_1438403183552_002" name="s13" reason="inEffect" startPeriod="2024-08-22" status="operational" temporalId="s13"><num value="13">13.</num><heading>Annual report</heading><leadIn>The Board shall, not later than 3 months after receipt by the Board of the signed
+            statement of the accounts of the Board as audited by the auditor under <ref>section
+                11(2)</ref> or such longer period as the Chief Executive may determine,
+            submit—</leadIn><paragraph id="ID_1438412481649_050" name="a" temporalId="s13_a"><num value="a">(a)</num><content>a report on the activities and affairs of the Board for that year including the
+                administration of the Fund;</content></paragraph><paragraph id="ID_1438412481664_006" name="b" temporalId="s13_b"><num value="b">(b)</num><content>a copy of its statement of the accounts therefor; and</content></paragraph><paragraph id="ID_1438412481664_014" name="c" temporalId="s13_c"><num value="c">(c)</num><content>the auditor’s report on the accounts,</content></paragraph><continued>to the Chief Executive who shall cause the same, together with any report the
+            Chief Executive may see fit to make thereon, to be laid on the table of the Legislative
+            Council.</continued><sourceNote>(Amended <ref href="/hk/2000/56">56 of 2000 s. 3</ref>)</sourceNote></section></part><part id="ID_1438403183567_001" name="P4" reason="inEffect" startPeriod="2024-08-22" status="operational" temporalId="P4"><num value="4">Part
+            IV</num><heading>Imposition
+            and Payment
+            of
+            Levy</heading><section id="ID_1438403183567_003" name="s14" reason="inEffect" startPeriod="2024-08-22" status="operational" temporalId="s14"><num value="14">14.</num><heading>Imposition of levy</heading><subsection id="ID_1438412481680_011" name="1" temporalId="s14_1"><num value="1">(1)</num><content>A levy, to be known as the Employees Retraining Levy, shall be payable by an
+                employer to the Director in respect of each imported employee to be employed by him
+                under a contract of employment and granted a visa under subsection (4).</content></subsection><subsection id="ID_1438412481695_005" name="2" temporalId="s14_2"><num value="2">(2)</num><content>Subject to <ref>section 15</ref>, the amount of levy payable under subsection
+                (1) in respect of each imported employee employed by an employer shall be the sum
+                specified in <ref>Schedule 3</ref> multiplied by the number of months specified in
+                the contract of employment entered into between that employer and that imported
+                employee.</content></subsection><subsection id="ID_1438412481695_013" name="3" temporalId="s14_3"><num value="3">(3)</num><content>For the purposes of this section, the Chief Executive in Council may, from time
+                to time, approve a scheme
+                        (<b><i>labour
+                        importation
+                scheme</i></b>)
+                under the terms of which a levy shall be payable by employers in accordance with
+                this Part.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/2000/56">56 of 2000 s. 3</ref>)</sourceNote></content></subsection><subsection id="ID_1438412481695_021" name="4" temporalId="s14_4"><num value="4">(4)</num><content>An employer may, under the terms of the labour importation scheme, apply to the
+                Director for permission to employ such persons as imported employees as the Director
+                may, in accordance with a quota allocated by or with the authority of the Secretary
+                in respect of that employer under that scheme, grant visas to those imported
+                employees for that purpose.</content></subsection></section><section id="ID_1438403183583_002" name="s15" reason="inEffect" startPeriod="2024-08-22" status="operational" temporalId="s15"><num value="15">15.</num><heading>Payment of levy</heading><subsection id="ID_1438412481727_012" name="1" temporalId="s15_1"><num value="1">(1)</num><content>The amount of levy payable under <ref>section 14</ref> shall be paid by an
+                employer to the Director at such place and within such period
+                        (<b><i>payment
+                        period</i></b>)
+                as may be specified by the Director by notice in writing to the employer.</content></subsection><subsection id="ID_1438412481727_020" name="2" temporalId="s15_2"><num value="2">(2)</num><content>Any levy, or any part thereof,
+                        (<b><i>relevant
+                        balance</i></b>)
+                paid by an employer to the Director in respect of an imported employee
+                        (<b><i>defaulting
+                        employee</i></b>)
+                who fails to arrive in Hong Kong after being granted a visa by the Director under
+                    <ref>section 14(4)</ref>, or who having arrived in Hong Kong fails for whatever
+                reason to complete his contract of employment with his employer, shall not be repaid
+                or refunded to the employer, but the relevant balance shall, subject to subsection
+                (3), be taken into account by the Director for the purposes of any subsequent
+                application that that employer may make to the Director under <ref>section
+                    14(4)</ref> to employ an imported employee by way of a replacement for the
+                defaulting employee.</content></subsection><subsection id="ID_1438412481758_005" name="3" temporalId="s15_3"><num value="3">(3)</num><content>The relevant balance referred to in subsection (2) shall only be taken into account by the Director if the subsequent application by the employer to the Director under <ref>section 14(4)</ref> is made within a period of 4 months from the date the failure of the defaulting employee to arrive in Hong Kong, or complete his contract of employment, as the case may be, first came or should have first come to the attention of that employer.</content></subsection></section><section id="ID_1438403183599_001" name="s16" reason="inEffect" startPeriod="2024-08-22" status="operational" temporalId="s16"><num value="16">16.</num><heading>Director to receive and remit levy to Board</heading><leadIn>Where during any payment period (within the meaning of <ref>section 15(1)</ref>) a levy is paid under that section, the Director shall—</leadIn><paragraph id="ID_1438412481789_019" name="a" temporalId="s16_a"><num value="a">(a)</num><content>receive the levy;</content></paragraph><paragraph id="ID_1438412481789_027" name="b" temporalId="s16_b"><num value="b">(b)</num><content>deposit the levy in an account established for that purpose;
+                and</content></paragraph><paragraph id="ID_1438412481789_035" name="c" temporalId="s16_c"><num value="c">(c)</num><content>subject to <ref>section 30</ref>, remit the levy (together with any interest accrued thereon) to the Board as soon as practicable.</content></paragraph></section></part><part id="ID_1438403183599_003" name="P5" reason="inEffect" startPeriod="2024-08-22" status="operational" temporalId="P5"><num value="5">Part
+            V</num><heading>Selection
+            of Trainees
+            and Payment
+            of
+            Retraining
+            Allowances</heading><section id="ID_1438403183614_001" name="s17" reason="inEffect" startPeriod="1997-06-30" status="operational" temporalId="s17"><num value="17">17.</num><heading>Application by eligible employee to attend retraining course, etc.</heading><subsection id="ID_1438412481820_004" name="1" temporalId="s17_1"><num value="1">(1)</num><content>An eligible employee may apply to the Executive Director to attend a retraining course or supplementary retraining programme approved by the Board from time to time.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1997/5">5 of 1997 s. 5</ref>)</sourceNote></content></subsection><subsection id="ID_1438412481820_012" name="2" temporalId="s17_2"><num value="2">(2)</num><content>The Executive Director shall consider the application and carry out such inquiries as he considers necessary to make a determination under <ref>section 18</ref>.</content></subsection><subsection id="ID_1438412481820_020" name="3" temporalId="s17_3"><num value="3">(3)</num><content>It is the duty of every applicant to assist the Executive Director in carrying out inquiries under this section, and where the applicant fails without reasonable excuse so to assist, the Executive Director may, notwithstanding any other provision, determine that the applicant shall not be entitled to attend the retraining course or supplementary retraining programme for which he has applied.</content></subsection><subsection id="ID_1438412481836_005" name="4" temporalId="s17_4"><num value="4">(4)</num><leadIn>For the purpose of carrying out inquiries under this section the Executive Director may—</leadIn><paragraph id="ID_1438412481836_013" name="a" temporalId="s17_4_a"><num value="a">(a)</num><content>require the applicant to furnish such information or particulars relating to the application; and</content></paragraph><paragraph id="ID_1438412481836_021" name="b" temporalId="s17_4_b"><num value="b">(b)</num><content>make such inquiries from any other person or body (including a training body or training provider) connected or associated with the application,</content></paragraph><continued>as he considers necessary.</continued></subsection><sourceNote>(Amended <ref href="/hk/1994/102">102 of 1994 s. 9</ref>)</sourceNote></section><section id="ID_1438403183614_003" name="s18" reason="inEffect" startPeriod="1997-06-30" status="operational" temporalId="s18"><num value="18">18.</num><heading>Determination of applications by Executive Director</heading><subsection id="ID_1438412481851_050" name="1" temporalId="s18_1"><num value="1">(1)</num><leadIn>The Executive Director shall, in respect of an application made under <ref>section 17</ref>, determine—</leadIn><paragraph id="ID_1438412481851_058" name="a" temporalId="s18_1_a"><num value="a">(a)</num><content>whether or not he is satisfied as to the applicant’s status as an eligible employee, and his entitlement to apply, under that section;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1997/5">5 of 1997 s. 6</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438412481851_066" name="b" temporalId="s18_1_b"><num value="b">(b)</num><content>whether or not he is satisfied that the applicant meets such requirements as to matters of priority between applicants, or classes of applicant, and such other requirements (if any) as the Board may specify from time to time;</content></paragraph><paragraph id="ID_1438412481867_007" name="c" temporalId="s18_1_c"><num value="c">(c)</num><content>whether or not the applicant meets the entry requirements (if any) applicable to the retraining course or supplementary retraining programme to which the application relates; and</content></paragraph><paragraph id="ID_1438412481867_015" name="d" temporalId="s18_1_d"><num value="d">(d)</num><content>his general suitability for retraining,</content></paragraph><continued>and shall advise the applicant of his determinations.<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/1994/102">102 of 1994 s. 10</ref>)</sourceNote></continued></subsection><subsection id="ID_1438412481867_028" name="2" temporalId="s18_2"><num value="2">(2)</num><content>Where the Executive Director is satisfied as to the applicant’s status as an eligible employee, and his entitlement to apply, under <ref>section 17</ref> and that he meets the requirements (if any) specified by the Board under subsection <ref>(1)(b)</ref> the Executive Director shall refer the applicant to the training body or training provider that provides or conducts a retraining course or supplementary retraining programme to which the application relates.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1994/102">102 of 1994 s. 10</ref>; <ref href="/hk/1997/5">5 of 1997 s. 6</ref>)</sourceNote></content></subsection></section><section id="ID_1438403183630_002" name="s19" reason="inEffect" startPeriod="1997-06-30" status="operational" temporalId="s19"><num value="19">19.</num><heading>Determination of applications by training bodies, etc.</heading><subsection id="ID_1438412481914_004" name="1" temporalId="s19_1"><num value="1">(1)</num><content>The training body or training provider to which an applicant is referred by the Executive Director under <ref>section 18(2)</ref> shall consider the application of that applicant and determine whether or not the applicant meets the entry requirements (if any) applicable to the retraining course or supplementary retraining programme to which the application relates and shall advise the applicant of its determinations.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1994/102">102 of 1994 s. 11</ref>)</sourceNote></content></subsection><subsection id="ID_1438412481929_005" name="2" temporalId="s19_2"><num value="2">(2)</num><content>Where a training body or training provider is satisfied that an applicant meets the entry requirements referred to in subsection (1) it may invite the applicant to attend the retraining course or supplementary retraining programme as a trainee subject to such conditions as it may specify and, in the case of such an invitation, it shall advise the applicant to apply for payment of a retraining allowance.<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/1994/102">102 of 1994 s. 11</ref>)</sourceNote></content></subsection></section><section id="ID_1438403183645_001" name="s20" reason="inEffect" startPeriod="2024-08-22" status="operational" temporalId="s20"><num value="20">20.</num><heading>Eligibility of applicant to receive a retraining allowance</heading><subsection id="ID_1438412481945_019" name="1" temporalId="s20_1"><num value="1">(1)</num><leadIn>Subject to <ref>section 22(3)</ref>, an applicant referred to in <ref>section 19(2)</ref> shall be eligible to receive a retraining allowance as a trainee if he—</leadIn><paragraph id="ID_1438412481945_027" name="a" temporalId="s20_1_a"><num value="a">(a)</num><content>has been referred to a training body or training provider under <ref>section 18(2)</ref>;</content></paragraph><paragraph id="ID_1438412481961_006" name="b" temporalId="s20_1_b"><num value="b">(b)</num><content>has been invited to attend a retraining course or supplementary retraining programme as a trainee by that training body or training provider under <ref>section 19(2)</ref>;</content></paragraph><paragraph id="ID_1438412481961_014" name="c" temporalId="s20_1_c"><num value="c">(c)</num><content>complies with such attendance and other requirements for trainees as may be specified by that training body or training provider in respect of that retraining course or supplementary retraining programme; and</content></paragraph><paragraph id="ID_1438412481961_022" name="d" temporalId="s20_1_d"><num value="d">(d)</num><content>is not receiving at the same time a retraining allowance or some other
+                    similar payment however described
+                            (<b><i>existing
+                            payment</i></b>)
+                    as a trainee or otherwise in respect of another retraining course or
+                    supplementary retraining programme or any other course however described unless
+                    the Board decides, in the special circumstances of the case, to disregard that
+                    existing payment.</content></paragraph></subsection><subsection id="ID_1438412481961_029" name="2" temporalId="s20_2"><num value="2">(2)</num><content>Where an applicant is eligible to receive a retraining allowance as a trainee in respect of his attendance at a retraining course or supplementary retraining programme under subsection (1) but, at the same time, he is receiving from whatever source a retraining allowance or some other similar payment however described as a trainee or otherwise in respect of that retraining course or supplementary retraining programme then the applicant shall be eligible to receive the first mentioned retraining allowance only if he forgoes the second mentioned retraining allowance or other similar payment.</content></subsection><sourceNote>(Amended <ref href="/hk/1994/102">102 of 1994 s. 12</ref>)</sourceNote></section><section id="ID_1438403183645_003" name="s21" reason="inEffect" startPeriod="1997-06-30" status="operational" temporalId="s21"><num value="21">21.</num><heading>Application by trainee for payment of retraining allowance</heading><subsection id="ID_1438412482007_004" name="1" temporalId="s21_1"><num value="1">(1)</num><content>Subject to subsection (2), a trainee who considers that he is eligible to receive a retraining allowance under <ref>section 20(1)</ref> may apply to the Board in accordance with <ref>section 22</ref> for payment from the Fund of such an allowance in respect of his attendance or intended attendance at a retraining course or supplementary retraining programme provided or conducted by a training body or training provider.</content></subsection><subsection id="ID_1438412482023_005" name="2" temporalId="s21_2"><num value="2">(2)</num><content>An application by the trainee under subsection (1) shall be submitted by the training body or training provider to the Board.</content></subsection><subsection id="ID_1438412482023_013" name="3" temporalId="s21_3"><num value="3">(3)</num><content>Subject to <ref>section 22(3)</ref>, the Board shall determine the application in accordance with <ref>section 23</ref> and may approve the payment of a retraining allowance to the training body or training provider for distribution to the trainee under subsection (5).</content></subsection><subsection id="ID_1438412482023_021" name="4" temporalId="s21_4"><num value="4">(4)</num><content>The maximum amount of the retraining allowance payable monthly in respect of the trainee under subsection (3) shall be the sum specified in <ref>Schedule 4</ref>, but where the trainee attends a retraining course or supplementary retraining programme for a period of less than 1 month, only a proportion of that retraining allowance shall be so payable, as calculated in accordance with guidelines approved by the Board from time to time.</content></subsection><subsection id="ID_1438412482039_005" name="5" temporalId="s21_5"><num value="5">(5)</num><content>Subject to subsection (6), on the receipt by the training body or training provider of a retraining allowance under subsection (3) the training body or training provider shall, as soon as practicable and without making any deduction therefrom unless such deduction is approved by the Board, distribute that retraining allowance to the trainee making the application under subsection (1).</content></subsection><subsection id="ID_1438412482039_013" name="6" temporalId="s21_6"><num value="6">(6)</num><content>Where a training body or training provider pays, or has paid, a trainee who is attending a retraining course or supplementary retraining programme provided or conducted by that training body or training provider a sum of money equivalent to the retraining allowance in respect of that trainee and in respect of which that training body or training provider has submitted an application under subsection (2) to the Board, then that training body or training provider may reimburse itself the amount of that sum on the receipt of that retraining allowance.</content></subsection><sourceNote>(Amended <ref href="/hk/1994/102">102 of 1994 s. 13</ref>)</sourceNote></section><section id="ID_1438403183661_002" name="s22" reason="inEffect" startPeriod="1997-06-30" status="operational" temporalId="s22"><num value="22">22.</num><heading>Applications to the Board</heading><subsection id="ID_1438412482085_019" name="1" temporalId="s22_1"><num value="1">(1)</num><content>An application by a trainee to the Board under <ref>section 21(1)</ref> for payment from the Fund of a retraining allowance shall be made in the manner and form specified by the Board.</content></subsection><subsection id="ID_1438412482101_005" name="2" temporalId="s22_2"><num value="2">(2)</num><content>Upon receipt of the application referred to in subsection (1) and submitted by a training body or training provider under <ref>section 21(2)</ref>, the Board shall carry out such inquiries as it considers necessary to make a determination under <ref>section 23</ref>.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1994/102">102 of 1994 s. 14</ref>)</sourceNote></content></subsection><subsection id="ID_1438412482101_013" name="3" temporalId="s22_3"><num value="3">(3)</num><content>It is the duty of every trainee to assist the Board in carrying out inquiries under this section, and where the trainee fails without reasonable excuse so to assist, the Board may, notwithstanding any other provision, determine that the trainee shall not be entitled to the payment of a retraining allowance from the Fund under <ref>section 21</ref>.</content></subsection><subsection id="ID_1438412482101_021" name="4" temporalId="s22_4"><num value="4">(4)</num><leadIn>For the purpose of carrying out inquiries under this section the Board may—</leadIn><paragraph id="ID_1438412482101_029" name="a" temporalId="s22_4_a"><num value="a">(a)</num><content>require the trainee to furnish such information or particulars relating to the application; and</content></paragraph><paragraph id="ID_1438412482117_006" name="b" temporalId="s22_4_b"><num value="b">(b)</num><content>make such inquiries from any other person or body (including a training body) connected or associated with the application,</content></paragraph><continued>as the Board considers necessary.</continued></subsection></section><section id="ID_1438403183677_001" name="s23" reason="inEffect" startPeriod="1997-06-30" status="operational" temporalId="s23"><num value="23">23.</num><heading>Determination of applications by the Board</heading><leadIn>The Board shall in respect of an application by a trainee under <ref>section 21(1)</ref> and submitted by a training body or training provider under <ref>section 21(2)</ref> determine—</leadIn><paragraph id="ID_1438412482132_027" name="a" temporalId="s23_a"><num value="a">(a)</num><content>whether or not it is satisfied as to the trainee’s eligibility under <ref>section 20(1)</ref> to receive a retraining allowance; and</content></paragraph><paragraph id="ID_1438412482132_035" name="b" temporalId="s23_b"><num value="b">(b)</num><content>if so, and taking into account <ref>sections 20(2)</ref> and <ref>21(4)</ref>, what amount of retraining allowance should be payable to the training body or training provider from the Fund for distribution to that trainee under <ref>section 21(5)</ref>,</content></paragraph><continued>and shall advise that training body or training provider by written notice of its determinations in respect of the application.</continued><sourceNote>(Amended <ref href="/hk/1994/102">102 of 1994 s. 15</ref>)</sourceNote></section><section id="ID_1438403183677_003" name="s24" reason="inEffect" startPeriod="2024-08-22" status="operational" temporalId="s24"><num value="24">24.</num><heading>Review of determinations</heading><subsection id="ID_1438412482163_004" name="1" temporalId="s24_1"><num value="1">(1)</num><leadIn>Any person aggrieved
+                        (<b><i>aggrieved
+                        person</i></b>)
+                by—</leadIn><paragraph id="ID_1438412482163_012" name="a" temporalId="s24_1_a"><num value="a">(a)</num><content>a determination of the Executive Director under <ref>section 18</ref>;
+                    or</content></paragraph><paragraph id="ID_1438412482163_020" name="b" temporalId="s24_1_b"><num value="b">(b)</num><content>a determination of a training body or training provider under <ref>section
+                        19</ref>,</content></paragraph><continued>may by notice in writing lodged with a committee
+                        (<b><i>review
+                        committee</i></b>)
+                created by the Board under <ref>Schedule 1</ref> for that purpose, and within such
+                period as the review committee may determine, object to that
+                determination.</continued></subsection><subsection id="ID_1438412482163_033" name="2" temporalId="s24_2"><num value="2">(2)</num><content>An objection lodged with the review committee under subsection (1) shall be
+                considered by that committee as soon as practicable.</content></subsection><subsection id="ID_1438412482163_041" name="3" temporalId="s24_3"><num value="3">(3)</num><leadIn>On consideration of an objection lodged under this section the review committee
+                may—</leadIn><paragraph id="ID_1438412482163_049" name="a" temporalId="s24_3_a"><num value="a">(a)</num><content>in the case of a determination under <ref>section 18</ref>, recommend that
+                    the Executive Director; or</content></paragraph><paragraph id="ID_1438412482163_057" name="b" temporalId="s24_3_b"><num value="b">(b)</num><content>in the case of a determination under <ref>section 19</ref>, recommend that
+                    the training body or training provider,</content></paragraph><continued>confirm, vary or reverse the determination or substitute therefor such other
+                determination as the review committee thinks
+                fit.</continued></subsection><subsection id="ID_1438412482163_070" name="4" temporalId="s24_4"><num value="4">(4)</num><content>The failure of the Executive Director, training body or training provider, as
+                the case may be, to act upon any recommendation of the review committee under
+                subsection <ref>(3)(a)</ref> or (b) in respect of a determination under <ref>section
+                    18</ref> or <ref>19</ref>, shall not of itself entitle the aggrieved person to
+                object to the review committee under this
+                section.</content></subsection><sourceNote>(Amended <ref href="/hk/1994/102">102 of 1994 s. 16</ref>)</sourceNote></section></part><part id="ID_1438403183692_002" name="P6" reason="inEffect" startPeriod="2024-08-22" status="operational" temporalId="P6"><num value="6">Part
+            VI</num><heading>Miscellaneous</heading><section id="ID_1438403183708_001" name="s25" reason="inEffect" startPeriod="2024-08-22" status="operational" temporalId="s25"><num value="25">25.</num><heading>Offences</heading><leadIn>Any person who—</leadIn><paragraph id="ID_1438412482210_012" name="a" temporalId="s25_a"><num value="a">(a)</num><content>lodges, produces, supplies or sends for the purposes of this Ordinance or otherwise makes use for those purposes of any application, declaration or other document, or record, which to his knowledge is false in a material particular; or</content></paragraph><paragraph id="ID_1438412482210_020" name="b" temporalId="s25_b"><num value="b">(b)</num><content>in providing any information for the purposes of this Ordinance, including any inquiry under this Ordinance, makes any statement which he knows to be false, or does not believe to be true, in a material particular or recklessly makes a statement which is false in a material particular,</content></paragraph><continued>commits an offence and is liable to a fine
+            at level
+                4.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/2024/er4">E.R. 4 of
+                    2024</ref>)</sourceNote></continued></section><section id="ID_1438403183708_003" name="s26" reason="inEffect" startPeriod="1997-06-30" status="operational" temporalId="s26"><num value="26">26.</num><heading>Evidence by certificate</heading><content>A certificate purporting to be signed by the Chairman or any member authorized by the Board that any notice served under this Ordinance has or has not been complied with or has or has not been complied with at any date shall be sufficient evidence of that fact until the contrary is proved.</content></section><section id="ID_1438403183723_001" name="s27" reason="inEffect" startPeriod="2024-08-22" status="operational" temporalId="s27"><num value="27">27.</num><heading>Chief Executive may give directions</heading><subsection id="ID_1438412482257_004" name="1" temporalId="s27_1"><num value="1">(1)</num><content>The Chief Executive may give to the Board such directions as he thinks fit in
+                relation to the performance of the Board’s functions or the exercise of the Board’s
+                powers and the Board shall comply with those directions.</content></subsection><subsection id="ID_1438412482257_012" name="2" temporalId="s27_2"><num value="2">(2)</num><content>Where in the opinion of the Chief Executive any assets of the Fund under
+                    <ref>section 6(3)</ref> are no longer required by the Board for the purposes of
+                the Fund, the Chief Executive may direct the Board to transfer such assets from the
+                Fund to the general revenue, and the Board shall comply with that
+                direction.</content></subsection><sourceNote>(Amended <ref href="/hk/2000/56">56 of 2000 s. 3</ref>)</sourceNote></section><section id="ID_1438403183739_001" name="s28" reason="inEffect" startPeriod="1997-06-30" status="operational" temporalId="s28"><num value="28">28.</num><heading>Power of delegation</heading><subsection id="ID_1438412482288_019" name="1" temporalId="s28_1"><num value="1">(1)</num><content>The Executive Director may, in writing, authorize any employee of the Board, a
+                training body or training provider to exercise any of his powers or perform any of
+                his duties under this
+                Ordinance.</content></subsection><subsection id="ID_1438412482288_027" name="2" temporalId="s28_2"><num value="2">(2)</num><content>The Director may, in writing, authorize any officer of the Immigration
+                Department to exercise any of his powers or perform any of his duties under this
+                Ordinance.</content></subsection><subsection id="ID_1438412482288_035" name="3" temporalId="s28_3"><num value="3">(3)</num><def name="ExecutiveDirector,Director">In this Ordinance but not in subsection (1) or
+                (2) “<term class="old_format">Executive Director</term>” or “<term class="old_format">Director</term>”, as the case may be, includes any person
+                authorized by the Executive Director or the Director, respectively, under this
+                section.</def></subsection><sourceNote>(Amended <ref href="/hk/1994/102">102 of 1994 s. 17</ref>)</sourceNote></section><section id="ID_1438403183755_002" name="s29" reason="inEffect" startPeriod="1997-06-30" status="operational" temporalId="s29"><num value="29">29.</num><heading>Service by post</heading><content>Any document required to be served under this Ordinance may be served by post.</content></section><section id="ID_1438403183770_001" name="s30" reason="inEffect" startPeriod="1997-06-30" status="operational" temporalId="s30"><num value="30">30.</num><heading>Financial Secretary may charge fees</heading><subsection id="ID_1438412482319_018" name="1" temporalId="s30_1"><num value="1">(1)</num><content>The Financial Secretary may charge fees for any service provided to the Board by the Government.</content></subsection><subsection id="ID_1438412482319_026" name="2" temporalId="s30_2"><num value="2">(2)</num><content>Fees may be charged under subsection (1) in respect of any handling costs incurred by the Director in receiving levies from employers under Part IV and remitting those levies to the Board under that Part.</content></subsection></section><section id="ID_1438403183770_003" name="s31" reason="inEffect" startPeriod="2024-08-22" status="operational" temporalId="s31"><num value="31">31.</num><heading>Amendment of <ref>Schedules</ref></heading><subsection id="ID_1438412482335_033" name="1" temporalId="s31_1"><num value="1">(1)</num><content>The Chief Executive in Council may, by notice in the Gazette, amend
+                    <ref>Schedule 3</ref>.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/2000/56">56 of 2000 s. 3</ref>)</sourceNote></content></subsection><subsection id="ID_1438412482335_041" name="2" temporalId="s31_2"><num value="2">(2)</num><content>The Board may, by notice in the Gazette, amend <ref>Schedules 1</ref>,
+                    <ref>2</ref> and <ref>4</ref>.</content></subsection></section><section id="ID_1438403183786_002" name="s32" reason="inEffect" startPeriod="1997-06-30" status="operational" temporalId="s32"><num value="32">32.</num><heading>Protection of members and employees of Board</heading><subsection id="ID_1438412482366_004" name="1" temporalId="s32_1"><num value="1">(1)</num><leadIn>No—</leadIn><paragraph id="ID_1438412482366_012" name="a" temporalId="s32_1_a"><num value="a">(a)</num><content>member of the Board;</content></paragraph><paragraph id="ID_1438412482366_020" name="b" temporalId="s32_1_b"><num value="b">(b)</num><content>member of any committee of the Board;</content></paragraph><paragraph id="ID_1438412482366_028" name="c" temporalId="s32_1_c"><num value="c">(c)</num><content>employee of the Board;</content></paragraph><paragraph id="ID_1438412482366_036" name="d" temporalId="s32_1_d"><num value="d">(d)</num><content>person exercising powers in association with the Board under <ref>section 5(2)(g)</ref>,</content></paragraph><continued>acting in good faith shall be personally liable for any act done or default made by—</continued><paragraph id="ID_1438412482382_012" name="i" temporalId="s32_1_i"><num value="i">(i)</num><content>the Board;</content></paragraph><paragraph id="ID_1438412482382_020" name="ii" temporalId="s32_1_ii"><num value="ii">(ii)</num><content>any committee of the Board; or</content></paragraph><paragraph id="ID_1438412482382_028" name="iii" temporalId="s32_1_iii"><num value="iii">(iii)</num><content>any such member, employee or person,</content></paragraph><continued>in the exercise and performance (or the purported exercise and performance) of the powers and functions conferred and imposed on the Board under this Ordinance.</continued></subsection><subsection id="ID_1438412482382_041" name="2" temporalId="s32_2"><num value="2">(2)</num><content>The protection afforded under subsection (1) to any member, employee or other person in respect of any act or default shall not affect any liability of the Board for that act or default.</content></subsection></section><section id="ID_1438403183801_001" name="s33" reason="inEffect" startPeriod="2024-08-22" status="operational" temporalId="s33"><num value="33">33.</num><heading>Transitional</heading><subsection id="ID_1438412482413_004" name="1" temporalId="s33_1"><num value="1">(1)</num><content>Where, immediately before the
+                    commencement<inline class="force_orig_font">*</inline> of this Ordinance under
+                    <ref>section 1(2)</ref>, there was in existence a scheme relating to the
+                importation of labour the terms of which included an obligation on the part of
+                employers to pay to the Director a levy in respect of employees granted visas by the
+                Director under that scheme in accordance with quotas allocated by the Secretary for
+                Education and Manpower to those employers in respect of those employees, that scheme
+                shall, on and from that commencement, be deemed to be a labour importation scheme
+                within the meaning of <ref>section 2</ref>.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/2007/ln130">L.N. 130 of
+                        2007</ref>)</sourceNote></content></subsection><subsection id="ID_1438412482429_005" name="2" temporalId="s33_2"><num value="2">(2)</num><sourceNote>(Repealed <ref href="/hk/1997/5">5 of 1997 s. 7</ref>)</sourceNote></subsection><subsection id="ID_1438412482429_013" name="3" temporalId="s33_3"><num value="3">(3)</num><content>The first financial year of the Board (which year may run for a period of more
+                than 12 months) shall be deemed to have commenced on 9 January 1992 and shall end on
+                such date as the Board may determine.</content></subsection><editorialNote type="footnote" id="ID_1715155574733_001">
+            <content>Editorial Note:</content>
+            <content><inline class="force_orig_font">*</inline> Commencement date: 16 October
+                1992.</content>
+        </editorialNote></section></part><schedule id="ID_1438403183801_003" name="sch1" reason="inEffect" startPeriod="2024-08-22" status="operational" temporalId="sch1"><num value="1">Schedule
+            1</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap423/s3">ss. 3(4)</ref>, <ref href="/hk/cap423/s24">24</ref> &amp; <ref href="/hk/cap423/s31">31</ref>]</note><heading>Provisions
+            as
+            respects
+            the Board
+            and
+            the Members
+            thereof</heading><crossHeading class="align_center ">Seal and
+            status</crossHeading><section id="ID_1438412482475_020" name="s1" temporalId="sch1_s1"><num value="1">1.</num><content>The Board shall have a common
+                seal.<marker role="blank-line"></marker><marker role="blank-line"></marker></content></section><section id="ID_1438412482475_028" name="s2" temporalId="sch1_s2"><num value="2">2.</num><text>The Board shall not be regarded as a servant or agent of the Government or as
+                enjoying any status, immunity or privilege of the Government.</text><sourceNote>(Amended <ref href="/hk/2002/23">23 of 2002 s. 37</ref>) <marker role="blank-line"></marker><marker role="blank-line"></marker></sourceNote></section><crossHeading class="align_center">Members</crossHeading><section id="ID_1438412482475_052" name="s3" temporalId="sch1_s3"><num value="3">3.</num><subsection id="ID_1438412482475_057" name="1" temporalId="sch1_s3_1"><num value="1">(1)</num><content>Subject<inline class="width_3"> </inline>to subsection (3), a member of the
+                    Board shall hold and vacate his office in accordance with the terms of his
+                    appointment and shall, on ceasing to be a member, be eligible for
+                    re-appointment.</content></subsection><subsection id="ID_1438412482475_063" name="2" temporalId="sch1_s3_2"><num value="2">(2)</num><leadIn>Any member appointed under <ref>section 3(2)(a)</ref> of this Ordinance may
+                    at any time—</leadIn><paragraph id="ID_1438412482475_072" name="a" temporalId="sch1_s3_2_a"><num value="a">(a)</num><content>resign his office by notice in writing to the Chief Executive;
+                        or</content></paragraph><paragraph id="ID_1438412482475_081" name="b" temporalId="sch1_s3_2_b"><num value="b">(b)</num><content>be removed from office by the Chief Executive for permanent incapacity
+                        or other sufficient cause, </content></paragraph><continued>and upon such resignation or removal the term for which he was appointed
+                    shall be deemed to have expired.</continued></subsection><subsection id="ID_1438412482475_096" name="3" temporalId="sch1_s3_3"><num value="3">(3)</num><content>Where any member appointed under <ref>section 3(2)(a)</ref> of this
+                    Ordinance is precluded by temporary incapacity or other cause from exercising
+                    his functions as a member for any period, the Chief Executive may appoint
+                    another person to act in place of that member during that period.</content></subsection><subsection id="ID_1438412482491_006" name="4" temporalId="sch1_s3_4"><num value="4">(4)</num><content>Where any question arises under subsection <ref>(2)(b)</ref> or (3) as to
+                    whether any incapacity or cause exists or whether any incapacity is temporary or
+                    permanent or any cause sufficient, the decision of the Chief Executive shall be
+                    final.</content></subsection><sourceNote>(Amended <ref href="/hk/2000/56">56 of 2000 s.
+                3</ref>)<marker role="blank-line"></marker><marker role="blank-line"></marker></sourceNote></section><section id="ID_1438412482491_021" name="s4" temporalId="sch1_s4"><num value="4">4.</num><leadIn>If the Chief Executive is satisfied that a member of the Board appointed under
+                    <ref>section 3(2)(a)</ref> of this Ordinance—</leadIn><paragraph id="ID_1438412482491_031" name="a" temporalId="sch1_s4_a"><num value="a">(a)</num><content>has failed to attend 3 consecutive meetings of the Board without the
+                    permission of the Board; or</content></paragraph><paragraph id="ID_1438412482491_040" name="b" temporalId="sch1_s4_b"><num value="b">(b)</num><content>has become bankrupt or made an arrangement with his creditors; or</content></paragraph><paragraph id="ID_1438412482491_049" name="c" temporalId="sch1_s4_c"><num value="c">(c)</num><content>is incapacitated by physical or mental illness; or</content></paragraph><paragraph id="ID_1438412482491_058" name="d" temporalId="sch1_s4_d"><num value="d">(d)</num><content>is otherwise unable or unfit to discharge the functions of a member,
+                </content></paragraph><continued>the Chief Executive may declare his office as a member of the Board to be
+                vacant, and shall notify that fact in such manner as the Chief Executive thinks fit
+                and upon such declaration the office shall become vacant.</continued><sourceNote>(Amended <ref href="/hk/2000/56">56 of 2000 s.
+                3</ref>)<marker role="blank-line"></marker><marker role="blank-line"></marker></sourceNote></section><crossHeading class="align_center">Meetings</crossHeading><section id="ID_1438412482507_027" name="s5" temporalId="sch1_s5"><num value="5">5.</num><content>The quorum of the Board shall, in the absence of a quorum decided by the Board,
+                be 7 and, while a member is disqualified from taking part in a decision or
+                deliberation of the Board in respect of a matter, he shall be disregarded for the
+                purposes of constituting a quorum of the Board for deciding, or deliberating on,
+                that matter.<marker role="blank-line"></marker><marker role="blank-line"></marker></content></section><section id="ID_1438412482507_035" name="s6" temporalId="sch1_s6"><num value="6">6.</num><subsection id="ID_1438412482507_040" name="1" temporalId="sch1_s6_1"><num value="1">(1)</num><content>Subject to the foregoing provisions of this <ref>Schedule</ref> and to
+                    subsections (2) to (5), the Board shall have power to regulate its own procedure
+                    including the manner in which decisions of the Board may be made by a quorum of
+                    its members otherwise than at a meeting of the Board.</content></subsection><subsection id="ID_1438412482522_006" name="2" temporalId="sch1_s6_2"><num value="2">(2)</num><content>Meetings of the Board shall be held at such times and places as the
+                    Chairman may appoint.</content></subsection><subsection id="ID_1438412482522_015" name="3" temporalId="sch1_s6_3"><num value="3">(3)</num><content>The Chairman shall preside at any meeting of the Board.</content></subsection><subsection id="ID_1438412482522_024" name="4" temporalId="sch1_s6_4"><num value="4">(4)</num><content>If the Chairman is absent from any meeting of the Board, the Vice-Chairman
+                    shall act as Chairman in his place, and in the absence of the Vice-Chairman the
+                    members present at the meeting shall elect one of their number to act as
+                    Chairman.</content></subsection><subsection id="ID_1438412482522_033" name="5" temporalId="sch1_s6_5"><num value="5">(5)</num><content>The person presiding at any meeting of the Board shall have a deliberative
+                    vote on all matters coming before the Board and in the case of an equality of
+                    votes he shall also have a casting
+                    vote.<marker role="blank-line"></marker><marker role="blank-line"></marker></content></subsection></section><crossHeading class="align_center">Transaction of business</crossHeading><section id="ID_1438412482522_048" name="s7" temporalId="sch1_s7"><num value="7">7.</num><subsection id="ID_1438412482522_053" name="1" temporalId="sch1_s7_1"><num value="1">(1)</num><content>The Board may transact any of its business by circulation of papers amongst
+                    members whether any such member is in or outside Hong Kong, and a resolution in
+                    writing which is approved in writing by a majority of the members shall be as
+                    valid and effectual as if it had been passed at a meeting of the
+                    Board.</content></subsection><subsection id="ID_1438412482538_006" name="2" temporalId="sch1_s7_2"><num value="2">(2)</num><content>The date of a resolution referred to in subsection (1) shall be deemed to
+                    be the latest date on which the resolution, or any written approval in relation
+                    to that resolution, was signed or endorsed by a
+                    member.<marker role="blank-line"></marker><marker role="blank-line"></marker></content></subsection></section><crossHeading class="align_center">Committees</crossHeading><section id="ID_1438412482538_021" name="s8" temporalId="sch1_s8"><num value="8">8.</num><subsection id="ID_1438412482538_026" name="1" temporalId="sch1_s8_1"><num value="1">(1)</num><content>The Board may create, and appoint the members of, such committees for the
+                    better carrying out of the powers and functions of the Board as it thinks
+                    fit.</content></subsection><subsection id="ID_1438412482538_032" name="2" temporalId="sch1_s8_2"><num value="2">(2)</num><content>Persons who are not members of the Board may be appointed as members of
+                    committees.</content></subsection><subsection id="ID_1438412482538_041" name="3" temporalId="sch1_s8_3"><num value="3">(3)</num><content>The Chairman of a committee created under subsection (1) shall be appointed
+                    by the Board and the number of members of a committee shall be determined by the
+                    Board.</content></subsection><subsection id="ID_1438412482538_050" name="4" temporalId="sch1_s8_4"><num value="4">(4)</num><leadIn>Subject to the terms of any delegation by the Board or to any directions of
+                    the Board, a committee—</leadIn><paragraph id="ID_1438412482538_059" name="a" temporalId="sch1_s8_4_a"><num value="a">(a)</num><content>may exercise and perform the delegated powers and functions with the
+                        same effect as if it were the Board itself;</content></paragraph><paragraph id="ID_1438412482538_068" name="b" temporalId="sch1_s8_4_b"><num value="b">(b)</num><content>shall be presumed to be acting in accordance with the terms of the
+                        delegation in the absence of proof to the contrary; and</content></paragraph><paragraph id="ID_1438412482553_007" name="c" temporalId="sch1_s8_4_c"><num value="c">(c)</num><content>may regulate its own procedure.</content></paragraph></subsection><subsection id="ID_1438412482553_015" name="5" temporalId="sch1_s8_5"><num value="5">(5)</num><content>The proceedings of any committee created under subsection (1) shall not be
+                    invalidated by any defect in the appointment of any member thereof, the absence
+                    of any member from the meeting at which any such proceeding occurred or any
+                    vacancy amongst such
+                    members.<marker role="blank-line"></marker><marker role="blank-line"></marker></content></subsection></section><section id="ID_1438412482553_022" name="s9" temporalId="sch1_s9"><num value="9">9.</num><subsection id="ID_1438412482553_027" name="1" temporalId="sch1_s9_1"><num value="1">(1)</num><content>Subject to subsection (2), the Board may, with or without restrictions or
+                    conditions as it thinks fit, delegate in writing any of its powers to any
+                    committee created under <ref>section 8(1)</ref>.</content></subsection><subsection id="ID_1438412482553_033" name="2" temporalId="sch1_s9_2"><num value="2">(2)</num><leadIn>The Board shall not delegate the power—</leadIn><paragraph id="ID_1438412482553_042" name="a" temporalId="sch1_s9_2_a"><num value="a">(a)</num><content>to create any committee;</content></paragraph><paragraph id="ID_1438412482553_051" name="b" temporalId="sch1_s9_2_b"><num value="b">(b)</num><content>to determine matters relating to the remuneration and terms and
+                        conditions of appointment or employment of the employees of the
+                        Board;</content></paragraph><paragraph id="ID_1438412482553_060" name="c" temporalId="sch1_s9_2_c"><num value="c">(c)</num><content>to establish, manage and control, or enter into an arrangement for the
+                        establishment, management and control of, any fund or scheme for the purpose
+                        of providing for the payment of allowances, benefits, gratuities, pensions
+                        and remuneration to the employees of the Board; or</content></paragraph><paragraph id="ID_1438412482569_007" name="d" temporalId="sch1_s9_2_d"><num value="d">(d)</num><content>to furnish after the expiry of the financial year, a report on the
+                        activities and affairs of the Board for that year, a copy of its statement
+                        of accounts therefor and the auditor’s report on the
+                        accounts.<marker role="blank-line"></marker><marker role="blank-line"></marker></content></paragraph></subsection></section><crossHeading class="align_center">Documents</crossHeading><section id="ID_1438412482569_021" name="s10" temporalId="sch1_s10"><num value="10">10.</num><content>Every document purporting to be an instrument made or issued by or on behalf of
+                the Board and to be duly executed under the seal of the Board or to be signed or
+                executed by a person authorized by the Board to act in that behalf, shall, in the
+                absence of evidence to the contrary, be received in evidence and deemed, without
+                further proof, to be so made or issued.</content></section></schedule><schedule id="ID_1438403183833_001" name="sch2" reason="inEffect" startPeriod="2025-03-14" status="operational" temporalId="sch2"><num value="2">Schedule 2</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap423/s2">ss.
+                2</ref> &amp; <ref href="/hk/cap423/s31">31</ref>]</note><heading>Training
+            Bodies</heading><sourceNote>(Format changes—<ref href="/hk/2012/er2">E.R. 2 of
+            2012</ref>)</sourceNote><text class="first_line_indent_0"><marker role="blank-line"></marker><marker role="blank-line"></marker><table xmlns="http://www.w3.org/1999/xhtml" frame="void" class="repeat_header" width="445">
+                <col width="13%"></col>
+                <col width="87%"></col>
+                <thead>
+                    
+                    <tr>
+                        <td>Item</td>
+                        <td class="align_center">
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Body</center>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="1">1.</num></td>
+                        <td>Vocational Training
+                            Council<marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="2" class="not_bold">2.</num></td>
+                        <td><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="/hk/2006/12">12 of 2006 s.
+                            84</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="3">3.</num></td>
+                        <td>Clothing Industry Training
+                            Authority<marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="4">4.</num></td>
+                        <td>HKCT Group Limited <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Amended <ref href="/hk/2011/ln59">L.N. 59 of
+                            2011</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="5">5.</num></td>
+                        <td>Caritas—Hong
+                            Kong<marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="6">6.</num></td>
+                        <td>Hong Kong Young Women’s Christian
+                            Association<marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="7">7.</num></td>
+                        <td>Hong Kong Federation of Trade Unions,
+                            The<marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="8" class="not_bold">8.</num></td>
+                        <td><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="/hk/2014/ln142">L.N. 142 of
+                            2014</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="9">9.</num></td>
+                        <td><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="/hk/2022/ln108">L.N. 108 of
+                            2022</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="10" class="not_bold">10.</num></td>
+                        <td><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="/hk/2003/ln271">L.N. 271 of
+                            2003</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="11">11.</num></td>
+                        
+                        <td class="align_justified cellpadding_right_2">Hong Kong Sheng Kung Hui
+                            Lady MacLehose Centre <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Amended <ref href="/hk/2006/ln71">L.N. 71 of
+                            2006</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="12">12.</num></td>
+                        <td>Association for Engineering and Medical Volunteer
+                            Services<marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="13">13.</num></td>
+                        <td>The Hong Kong Society for
+                            Rehabilitation<marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="14" class="not_bold">14.</num></td>
+                        <td><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="/hk/2014/ln142">L.N. 142 of
+                            2014</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="15">15.</num></td>
+                        <td>Hong Kong Workers’ Health Centre
+                            Limited<marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="16">16.</num></td>
+                        <td>New Life Psychiatric Rehabilitation
+                            Association<marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="17">17.</num></td>
+                        <td>Yang Memorial Methodist Social
+                            Service<marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="18">18.</num></td>
+                        <td>Yan Oi Tong
+                            Limited<marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="19">19.</num></td>
+                        <td>Baptist Oi Kwan Social Service <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Amended <ref href="/hk/2010/ln76">L.N. 76 of
+                            2010</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="20">20.</num></td>
+                        
+                        <td class="align_justified  cellpadding_right_2">Hong Kong and Kowloon
+                            Electrical Engineering and Appliances Trade Workers
+                            Union<marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="21" class="not_bold">21.</num></td>
+                        <td><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="/hk/2001/ln214">L.N. 214 of
+                            2001</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="22...23" class="not_bold">22-23.</num></td>
+                        <td><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="/hk/2003/ln271">L.N. 271 of
+                            2003</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="24" class="not_bold">24.</num></td>
+                        <td><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="/hk/2001/ln99">L.N. 99 of
+                            2001</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="25">25.</num></td>
+                        
+                        <td class="align_justified  cellpadding_right_2">Hong Kong Federation of
+                            Women Limited <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Amended <ref href="/hk/2002/ln149">L.N. 149 of
+                                2002</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="26">26.</num></td>
+                        <td><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="hk/2023/ln160">L.N. 160 of
+                            2023</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="27">27.</num></td>
+                        <td>Methodist
+                            Centre<marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="28" class="not_bold">28.</num></td>
+                        <td><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="/hk/2014/ln142">L.N. 142 of
+                            2014</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="29">29.</num></td>
+                        <td>Christian
+                            Action<marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="30" class="not_bold">30.</num></td>
+                        <td><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="/hk/2010/ln173">L.N. 173 of
+                            2010</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="31">31.</num></td>
+                        <td>Heung To College of Professional
+                            Studies<marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="32" class="not_bold">32.</num></td>
+                        <td><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="/hk/2003/ln271">L.N. 271 of
+                            2003</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="33" class="not_bold">33.</num></td>
+                        <td><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="/hk/2001/ln99">L.N. 99 of
+                            2001</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="34" class="not_bold">34.</num></td>
+                        <td><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="/hk/2001/ln214">L.N. 214 of
+                            2001</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="35">35.</num></td>
+                        <td>The Scout Association of Hong Kong—The Friends of
+                            Scouting<marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="36">36.</num></td>
+                        
+                        <td class="align_justified  cellpadding_right_2">S.K.H. Holy Carpenter
+                            Church Community Centre <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Amended <ref href="/hk/2003/ln271">L.N. 271 of
+                            2003</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="37">37.</num></td>
+                        <td>St. James’
+                            Settlement<marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="38">38.</num></td>
+                        <td>Kwai Chung Hospital—Hospital
+                            Authority<marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="39">39.</num></td>
+                        <td>Queen Elizabeth Hospital—Hospital
+                            Authority<marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="40">40.</num></td>
+                        <td>Hong Kong Rehabilitation Power <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Amended <ref href="/hk/2001/ln214">L.N. 214 of
+                            2001</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="41" class="not_bold">41.</num></td>
+                        <td><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="/hk/2010/ln173">L.N. 173 of
+                            2010</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="42" class="not_bold">42.</num></td>
+                        <td><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="/hk/2001/ln99">L.N. 99 of
+                            2001</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="43">43.</num></td>
+                        <td><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="hk/2017/ln21">L.N. 21 of
+                            2017</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="44" class="not_bold">44.</num></td>
+                        <td><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="/hk/2001/ln99">L.N. 99 of
+                            2001</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="45">45.</num></td>
+                        
+                        <td class="align_justified  cellpadding_right_2">KCRA Community Education
+                            Enhancement Center Limited <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Amended <ref href="/hk/2010/ln76">L.N. 76 of
+                            2010</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="46">46.</num></td>
+                        <td>Princess Margaret
+                            Hospital<marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="47" class="not_bold">47.</num></td>
+                        <td><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="/hk/2001/ln99">L.N. 99 of
+                            2001</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="48" class="not_bold">48.</num></td>
+                        <td><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="/hk/2012/ln49">L.N. 49 of
+                            2012</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="49">49.</num></td>
+                        <td>Hong Kong Red
+                            Cross<marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="50">50.</num></td>
+                        <td><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="/hk/2022/ln108">L.N. 108 of
+                            2022</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="51">51.</num></td>
+                        <td>The Federation of Hong Kong and Kowloon Labour
+                            Unions<marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="52">52.</num></td>
+                        <td>Neighbourhood &amp; Worker’s Service
+                            Centre<marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="53">53.</num></td>
+                        <td>The Young Men’s Christian Association of Hong
+                            Kong<marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="54...55" class="not_bold">54-55.</num></td>
+                        <td><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="/hk/2006/ln71">L.N. 71 of
+                            2006</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="56" class="not_bold">56.</num></td>
+                        <td><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="/hk/2014/ln142">L.N. 142 of
+                            2014</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="57">57.</num></td>
+                        <td>Hong Kong St. John
+                            Ambulance<marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="58">58.</num></td>
+                        <td>Hong Kong Association for Democracy and People’s
+                            Livelihood<marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="59" class="not_bold">59.</num></td>
+                        <td><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="/hk/2014/ln142">L.N. 142 of
+                            2014</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="60" class="not_bold">60.</num></td>
+                        <td><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="/hk/2001/ln99">L.N. 99 of
+                            2001</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="61">61.</num></td>
+                        <td>The Evangelical Lutheran Church of
+                            Hongkong<marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="62" class="not_bold">62.</num></td>
+                        <td><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="/hk/2010/ln76">L.N. 76 of
+                            2010</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="63" class="not_bold">63.</num></td>
+                        <td><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="/hk/2008/ln71">L.N. 71 of
+                            2008</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="64">64.</num></td>
+                        
+                        <td class="align_justified  cellpadding_right_2">Hong Kong Association of
+                            Gerontology <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Added <ref href="/hk/2001/ln214">L.N. 214 of
+                                2001</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="65">65.</num></td>
+                        
+                        <td class="align_justified  cellpadding_right_2">Hong Kong Employment
+                            Development Service Limited <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Added <ref href="/hk/2003/ln67">L.N. 67 of
+                            2003</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="66">66.</num></td>
+                        
+                        <td class="align_justified  cellpadding_right_2">New Territories Association
+                            Retraining Centre Limited <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Added <ref href="/hk/2003/ln67">L.N. 67 of
+                            2003</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="67">67.</num></td>
+                        <td>College of Nursing, Hong Kong <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Added <ref href="/hk/2003/ln86">L.N. 86 of
+                            2003</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="68" class="not_bold">68.</num></td>
+                        <td><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="/hk/2014/ln142">L.N. 142 of
+                            2014</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="69">69.</num></td>
+                        
+                        <td class="align_justified  cellpadding_right_2">Hong Kong Federation of
+                            Handicapped Youth <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Added <ref href="/hk/2004/ln67">L.N. 67 of
+                            2004</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="70">70.</num></td>
+                        
+                        <td class="align_justified  cellpadding_right_2">The Society of
+                            Rehabilitation and Crime Prevention, Hong Kong <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Added <ref href="/hk/2004/ln67">L.N. 67 of
+                            2004</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="71">71.</num></td>
+                        
+                        <td class="align_justified  cellpadding_right_2">The Mental Health
+                            Association of Hong Kong <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Added <ref href="/hk/2006/ln71">L.N. 71 of
+                            2006</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="72" class="not_bold">72.</num></td>
+                        <td><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="/hk/2014/ln142">L.N. 142 of
+                            2014</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="73">73.</num></td>
+                        
+                        <td class="align_justified  cellpadding_right_2">The Neighbourhood
+                            Advice-Action Council <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Added <ref href="/hk/2007/ln216">L.N. 216 of
+                            2007</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="74">74.</num></td>
+                        <td>Lingnan Institute of Further Education <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Added <ref href="/hk/2008/ln71">L.N. 71 of
+                            2008</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="75" class="not_bold">75.</num></td>
+                        <td><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="/hk/2010/ln173">L.N. 173 of
+                            2010</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="76">76.</num></td>
+                        
+                        <td class="align_justified  cellpadding_right_2">School of Continuing and
+                            Professional Education, City University of Hong Kong <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Added <ref href="/hk/2008/ln71">L.N. 71 of
+                            2008</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="77">77.</num></td>
+                        
+                        <td class="align_justified  cellpadding_right_2">Li Ka Shing
+                            School
+                            of Professional and Continuing Education, Hong Kong Metropolitan University
+                            <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Added <ref href="/hk/2008/ln71">L.N. 71 of
+                                2008</ref>. Amended <ref href="/hk/2021/22">22 of 2021 s.
+                                2</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="78">78.</num></td>
+                        
+                        <td class="align_justified  cellpadding_right_2">School of Continuing and
+                            Professional Studies, The Chinese University of Hong Kong <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Added <ref href="/hk/2008/ln71">L.N. 71 of
+                            2008</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="79" class="not_bold">79.</num></td>
+                        <td><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="/hk/2014/ln142">L.N. 142 of
+                            2014</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="80">80.</num></td>
+                        <td>Hong Kong Institute of Technology <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Added <ref href="/hk/2008/ln71">L.N. 71 of
+                            2008</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="81" class="not_bold">81.</num></td>
+                        <td><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="/hk/2010/ln173">L.N. 173 of
+                            2010</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="82">82.</num></td>
+                        
+                        <td class="align_justified  cellpadding_right_2">The Hong Kong Federation of
+                            Youth Groups <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Added <ref href="/hk/2008/ln71">L.N. 71 of
+                                2008</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="83">83.</num></td>
+                        <td>OIWA Limited <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Replaced <ref href="/hk/2013/ln69">L.N. 69 of
+                                2013</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="84">84.</num></td>
+                        
+                        <td class="align_justified  cellpadding_right_2">Vassar International
+                            Chinese Medical Society Limited <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Added <ref href="/hk/2008/ln224">L.N. 224 of
+                            2008</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="85">85.</num></td>
+                        <td><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="hk/2017/ln21">L.N. 21 of
+                            2017</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="86">86.</num></td>
+                        <td><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="/hk/2022/ln108">L.N. 108 of
+                            2022</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="87" class="not_bold">87.</num></td>
+                        <td><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="/hk/2009/ln60">L.N. 60 of
+                            2009</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="88" class="not_bold">88.</num></td>
+                        
+                        <td class="align_justified  cellpadding_right_2">Aberdeen Kai-fong Welfare
+                            Association Limited <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Added <ref href="/hk/2008/ln279">L.N. 279 of
+                            2008</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="89">89.</num></td>
+                        
+                        <td class="align_justified  cellpadding_right_2"><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="hk/2025/ln37">L.N. 37 of
+                            2025</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="90">90.</num></td>
+                        <td>Monita Hair &amp; Beauty Academy <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Added <ref href="/hk/2009/ln221">L.N. 221 of
+                            2009</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="91">91.</num></td>
+                        <td>Hospital &amp; Clinic Nurses Association <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Added <ref href="/hk/2009/ln221">L.N. 221 of
+                            2009</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="92">92.</num></td>
+                        <td><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="/hk/2014/ln142">L.N. 142 of
+                            2014</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="93">93.</num></td>
+                        
+                        <td class="align_justified  cellpadding_right_2">Occupational Safety and
+                            Health Council <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Added <ref href="/hk/2009/ln221">L.N. 221 of
+                            2009</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="94">94.</num></td>
+                        <td><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="hk/2017/ln21">L.N. 21 of
+                            2017</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="95">95.</num></td>
+                        <td><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="hk/2018/ln170">L.N. 170 of
+                            2018</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="96" class="not_bold">96.</num></td>
+                        <td><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="/hk/2012/ln49">L.N. 49 of
+                            2012</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="97" class="not_bold">97.</num></td>
+                        <td><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="/hk/2014/ln142">L.N. 142 of
+                            2014</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="98" class="not_bold">98.</num></td>
+                        <td><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="/hk/2012/ln49">L.N. 49 of
+                            2012</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="99" class="not_bold">99.</num></td>
+                        <td><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="/hk/2014/ln142">L.N. 142 of
+                            2014</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="100,101,102">100-102.</num></td>
+                        <td><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="hk/2018/ln170">L.N. 170 of
+                            2018</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="103">103.</num></td>
+                        
+                        <td class="align_justified  cellpadding_right_2">Hong Kong Electrical &amp;
+                            Mechanical College (Evening School) <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Added <ref href="/hk/2010/ln75">L.N. 75 of
+                            2010</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="104,105">104-105.</num></td>
+                        <td><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="hk/2018/ln170">L.N. 170 of
+                            2018</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="106" class="not_bold">106.</num></td>
+                        <td><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="/hk/2014/ln142">L.N. 142 of
+                            2014</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="107" class="not_bold">107.</num></td>
+                        <td><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="/hk/2012/ln49">L.N. 49 of
+                            2012</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="108">108.</num></td>
+                        <td>YMCA College of Careers <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Added <ref href="/hk/2010/ln99">L.N. 99 of
+                            2010</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="109...112">109-112.</num></td>
+                        <td><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="/hk/2013/ln69">L.N. 69 of
+                            2013</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="113">113.</num></td>
+                        <td><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="/hk/2022/ln108">L.N. 108 of
+                            2022</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="114">114.</num></td>
+                        <td><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="hk/2017/ln21">L.N. 21 of
+                            2017</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="115">115.</num></td>
+                        <td><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="/hk/2014/ln142">L.N. 142 of
+                            2014</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="116">116.</num></td>
+                        <td>Royal International College <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Added <ref href="/hk/2010/ln173">L.N. 173 of
+                            2010</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="117">117.</num></td>
+                        <td>
+                            <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="hk/2017/ln78">L.N. 78 of
+                                    2017</ref><ref href="/hk/2010/ln173"></ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="118">118.</num></td>
+                        <td>Hongkong School of Commerce <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Added <ref href="/hk/2010/ln173">L.N. 173 of
+                            2010</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="119">119.</num></td>
+                        <td><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="/hk/2014/ln142">L.N. 142 of
+                            2014</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="120...122">120-122.</num></td>
+                        <td><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="/hk/2013/ln69">L.N. 69 of
+                            2013</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="123">123.</num></td>
+                        <td><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="hk/2017/ln21">L.N. 21 of
+                            2017</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="124">124.</num></td>
+                        <td><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="/hk/2014/ln142">L.N. 142 of
+                            2014</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="125">125.</num></td>
+                        <td><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="/hk/2013/ln69">L.N. 69 of
+                            2013</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="126">126.</num></td>
+                        <td><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="hk/2016/ln1">L.N. 1 of
+                            2016</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="127">127.</num></td>
+                        <td><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="/hk/2013/ln69">L.N. 69 of
+                            2013</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="128">128.</num></td>
+                        <td><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="hk/2017/ln21">L.N. 21 of
+                            2017</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="129">129.</num></td>
+                        
+                        <td class="align_justified  cellpadding_right_2">Hong Kong Tour Guides
+                            General Union <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Added <ref href="/hk/2010/ln173">L.N. 173 of
+                                2010</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="130">130.</num></td>
+                        <td><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="hk/2016/ln1">L.N. 1 of
+                            2016</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="131">131.</num></td>
+                        <td><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="/hk/2014/ln142">L.N. 142 of
+                            2014</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="132">132.</num></td>
+                        <td>Xianggang Putonghua Yanxishe <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Added <ref href="/hk/2010/ln173">L.N. 173 of
+                            2010</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="133">133.</num></td>
+                        <td><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="/hk/2013/ln69">L.N. 69 of
+                            2013</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="134">134.</num></td>
+                        <td><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="hk/2016/ln1">L.N. 1 of
+                            2016</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="135">135.</num></td>
+                        <td><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="/hk/2011/ln110">L.N. 110 of
+                            2011</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="136">136.</num></td>
+                        <td>Li Fai Centre of Wushu <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Added <ref href="/hk/2010/ln173">L.N. 173 of
+                            2010</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="137">137.</num></td>
+                        <td><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="hk/2016/ln1">L.N. 1 of
+                            2016</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="138">138.</num></td>
+                        
+                        <td class="align_justified  cellpadding_right_2">Hong Kong Ballroom Dancing
+                            Council Limited <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Added <ref href="/hk/2010/ln173">L.N. 173 of
+                            2010</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="139">139.</num></td>
+                        
+                        <td class="align_justified  cellpadding_right_2">Hong Kong and Kowloon Gold
+                            Ornaments and Jewellery Trade Workers’ Union <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Added <ref href="/hk/2010/ln173">L.N. 173 of
+                            2010</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="140...142">140-142.</num></td>
+                        <td><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="/hk/2013/ln69">L.N. 69 of
+                            2013</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="143">143.</num></td>
+                        
+                        <td class="align_justified  cellpadding_right_2">Advanced Printing
+                            Technology Centre Limited <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Added <ref href="/hk/2010/ln173">L.N. 173 of
+                            2010</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="144">144.</num></td>
+                        <td><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="/hk/2013/ln69">L.N. 69 of
+                            2013</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="145">145.</num></td>
+                        
+                        <td class="align_justified  cellpadding_right_2">The Hong Kong School of
+                            Motoring Limited <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Added <ref href="/hk/2010/ln173">L.N. 173 of
+                            2010</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="146">146.</num></td>
+                        <td><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="/hk/2013/ln69">L.N. 69 of
+                            2013</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="147">147.</num></td>
+                        <td><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="/hk/2014/ln142">L.N. 142 of
+                            2014</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="148">148.</num></td>
+                        <td><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="hk/2017/ln78">L.N. 78 of
+                                2017</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="149">149.</num></td>
+                        
+                        <td class="align_justified  cellpadding_right_2">
+                            Logistics Practitioners Union
+                                <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Added <ref href="/hk/2010/ln173">L.N. 173 of
+                                2010</ref>. Amended <ref href="hk/2018/ln170">L.N. 170 of
+                                2018</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="150">150.</num></td>
+                        <td><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="hk/2018/ln170">L.N. 170 of
+                            2018</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="151">151.</num></td>
+                        <td><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="hk/2016/ln1">L.N. 1 of
+                            2016</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="152">152.</num></td>
+                        <td><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="hk/2017/ln21">L.N. 21 of
+                            2017</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="153">153.</num></td>
+                        <td>New Home Association Limited <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Added <ref href="/hk/2012/ln49">L.N. 49 of
+                            2012</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="154">154.</num></td>
+                        
+                        <td class="align_justified  cellpadding_right_2">Hong Kong Manpower
+                            Development Centre Limited <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Added <ref href="/hk/2013/ln69">L.N. 69 of
+                            2013</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="155">155.</num></td>
+                        <td>Silence Limited <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Added <ref href="/hk/2013/ln69">L.N. 69 of
+                            2013</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="156">156.</num></td>
+                        
+                        <td class="align_justified  cellpadding_right_2">The Association of
+                            Electrical and Mechanical Engineering (Hong Kong) Limited <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Added <ref href="/hk/2013/ln69">L.N. 69 of
+                            2013</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="157">157.</num></td>
+                        
+                        <td class="align_justified  cellpadding_right_2">Hong Kong Sheng Kung Hui
+                            Welfare Council Limited <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Added <ref href="/hk/2014/ln142">L.N. 142 of 2014</ref>)</sourceNote>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="158">158.</num></td>
+                        
+                        <td class="align_justified  cellpadding_right_2">Research
+                            Centre for Gerontology and Family Studies, The Hong Kong Polytechnic University
+                            <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Added <ref href="/hk/2014/ln142">L.N. 142 of
+                                2014</ref>. Amended <ref href="hk/2023/ln160">L.N. 160 of
+                                2023</ref>)</sourceNote>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="159">159.</num></td>
+                        
+                        <td class="align_justified  cellpadding_right_2">Star Chef Management School
+                            operated by Star Chef Management School Company Limited <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Added <ref href="/hk/2014/ln142">L.N. 142 of
+                            2014</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="160">160.</num></td>
+                        <td>Haven of Hope Christian Service <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Added <ref href="/hk/2014/ln142">L.N. 142 of
+                            2014</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="161">161.</num></td>
+                        <td><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="hk/2023/ln160">L.N. 160 of
+                            2023</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="162">162.</num></td>
+                        
+                        <td class="align_justified  cellpadding_right_2">Youth Centre of The True
+                            Word Lutheran Church operated by The True Word Lutheran Church Limited
+                                <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Added <ref href="hk/2019/ln159">L.N. 159 of
+                            2019</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="163">163.</num></td>
+                        
+                        <td class="align_justified  cellpadding_right_2"><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="hk/2025/ln37">L.N. 37 of
+                            2025</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    
+                    
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="164">164.</num></td>
+                        
+                        <td class="align_justified  cellpadding_right_2">Hong Kong International
+                            Aviation Academy Limited <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Added <ref href="hk/2022/ln108">L.N. 108 of
+                            2022</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="165">165.</num></td>
+                        
+                        <td class="align_justified  cellpadding_right_2">Hong Kong Federation of
+                            Women’s Centres Limited <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Added <ref href="hk/2022/ln108">L.N. 108 of
+                            2022</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="165">166.</num></td>
+                        <td>UOW College Hong Kong <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Added <ref href="hk/2023/ln160">L.N. 160 of
+                            2023</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="165">167.</num></td>
+                        <td>The Hong Kong Society for the Blind <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Added <ref href="hk/2023/ln160">L.N. 160 of
+                            2023</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="165">168.</num></td>
+                        <td>TCHK <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Added <ref href="hk/2023/ln160">L.N. 160 of
+                            2023</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    
+                    
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="165">169.</num></td>
+                        <td class="align_justified  cellpadding_right_2">Institute of Professional
+                            and Vocational Education and Lifelong Learning, The Education University
+                            of Hong Kong <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Added <ref href="hk/2025/ln37">L.N. 37 of
+                            2025</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="165">170.</num></td>
+                        <td class="align_justified  cellpadding_right_2">HKU School of Professional
+                            and Continuing Education <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Added <ref href="hk/2025/ln37">L.N. 37 of
+                            2025</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    <tr>
+                        <td><num xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" value="165">171.</num></td>
+                        <td class="align_justified  cellpadding_right_2">The Hang Seng University of
+                            Hong Kong <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Added <ref href="hk/2025/ln37">L.N. 37 of
+                            2025</ref>)</sourceNote><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                    </tr>
+                    
+                </tbody>
+            </table><marker role="blank-line"></marker><sourceNote>(<ref>Schedule 2</ref> replaced <ref href="/hk/1999/ln269">L.N. 269 of
+            1999</ref>)</sourceNote></text></schedule><schedule id="ID_1438403183879_001" name="sch3" reason="inEffect" startPeriod="2024-08-22" status="operational" temporalId="sch3"><num value="3">Schedule 3</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap423/s14">ss.
+                14</ref> &amp; <ref href="/hk/cap423/s31">31</ref>]</note><heading>Amount of Levy
+            Specified for the Purposes of <ref>Section
+            14(2)</ref></heading><sourceNote>(Format changes—<ref href="/hk/2012/er2">E.R. 2 of
+            2012</ref>)</sourceNote><content class="align_center "><marker role="blank-line"></marker>$400<marker role="blank-line"></marker></content><sourceNote>(Amended <ref href="/hk/2008/ln208">L.N. 208 of 2008</ref>; <ref href="/hk/2008/ln244">L.N.
+                244 of
+        2008</ref>)</sourceNote></schedule><schedule id="ID_1438403183895_002" name="sch4" reason="inEffect" startPeriod="2024-08-22" status="operational" temporalId="sch4"><num value="4">Schedule 4</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap423/s21">ss.
+                21</ref> &amp; <ref href="/hk/cap423/s31">31</ref>]</note><heading>Maximum Amount of
+            Retraining Allowance Specified for the Purposes of <ref>Section
+            21(4)</ref></heading><sourceNote>(Format changes—<ref href="/hk/2012/er2">E.R. 2 of
+            2012</ref>)</sourceNote><content class="align_center"><marker role="blank-line"></marker>$8,000<marker role="blank-line"></marker></content><sourceNote>(Amended <ref href="/hk/1993/ln139">L.N. 139 of 1993</ref>; <ref href="/hk/1994/ln236">L.N.
+                236 of 1994</ref>; <ref href="/hk/1995/ln312">L.N. 312 of
+            1995</ref>; <ref href="hk/2020/ln29">L.N. 29 of
+            2020</ref>; <ref href="hk/2023/ln160">L.N. 160 of
+        2023</ref>)</sourceNote></schedule></main></ordinance>

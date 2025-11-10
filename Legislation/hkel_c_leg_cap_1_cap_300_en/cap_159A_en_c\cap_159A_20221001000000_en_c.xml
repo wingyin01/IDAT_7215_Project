@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="UTF-8"?><subLeg xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd" xml:lang="en"><meta><docName>Cap. 159 sub. leg. A</docName><docType>cap</docType><docNumber>159A</docNumber><docStatus>In effect</docStatus><dc:identifier>/hk/cap159A!en</dc:identifier><dc:date>2022-10-01</dc:date><dc:subject>legislation</dc:subject><dc:language>en</dc:language><dc:publisher>DoJ</dc:publisher><dc:rights>the Government of the Hong Kong Special Administrative Region</dc:rights></meta><main xml:lang="en" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd"><docTitle id="ID_1438402749668_001" name="shortTitle" reason="inEffect" status="operational" temporalId="shortTitle" startPeriod="2017-02-15">Accountant’s
+      Report
+      Rules</docTitle><enactingFormula role="empoweringSection">(<ref href="/hk/cap159/s73">Cap.
+                                                  159,
+                                                  section 73</ref>)
+                                                <marker role="blank-line"></marker><marker role="blank-line"></marker></enactingFormula><commencementNote>[1 June 1965]<sourceNote><inline class="width_3"> </inline><ref href="/hk/1965/ln65">L.N. 65 of
+                                                  1965</ref></sourceNote></commencementNote><sourceNote>(Format changes—<ref href="/hk/2017/er1">E.R. 1 of
+                                                  2017</ref>)</sourceNote><section id="ID_1438402749684_001" name="s1" reason="inEffect" role="rule" startPeriod="2017-02-15" status="operational" temporalId="s1"><num value="1">1.</num><heading>Citation</heading><content>These rules may be cited as the Accountant’s Report Rules. </content><sourceNote>(<ref href="/hk/1970/ln20">L.N. 20 of 1970</ref>)</sourceNote></section><section id="ID_1438402749715_001" name="s2" reason="inEffect" role="rule" startPeriod="2017-02-15" status="operational" temporalId="s2"><num value="2">2.</num><heading>Interpretation</heading><leadIn>In these rules, unless the context otherwise requires—</leadIn><def name="Client"><term>client</term> (<term xml:lang="zh-Hant-HK">當事人</term>) means any
+            person on whose account a solicitor or a firm holds or receives client’s money;
+            <sourceNote>(<ref href="/hk/1995/ln492">L.N. 492 of
+                1995</ref>)</sourceNote></def><def name="ClientAccount,Client"><term>client account</term> (<term xml:lang="zh-Hant-HK">當事人帳戶</term>)
+            means,
+            subject to<ref> rule 15</ref> of the Solicitors’ Accounts Rules (<ref href="/hk/cap159F">Cap. 159 sub. leg. F</ref>), a current or deposit account at a bank located and
+            licensed in Hong Kong in the name of the solicitor or a firm in the
+            title of which the word “<term class="old_format">client</term>” appears;
+            <sourceNote>(<ref href="/hk/1995/ln492">L.N. 492 of 1995</ref>; <ref href="hk/2012/ln152">L.N. 152 of
+            2012</ref>)</sourceNote></def><def name="ClientsMoney">
+            <leadIn><term>client’s money</term> (<term xml:lang="zh-Hant-HK">當事人款項</term>) means
+                money held or received by a solicitor or his firm on account of a person for whom he
+                or his firm is acting in relation to the holding or receipt of such money either as
+                a solicitor or, in connection with his practice as a solicitor, as agent, bailee,
+                stakeholder, solicitor-trustee or in any other capacity, but not money to which the
+                only person entitled is the solicitor himself or, in the case of a firm, one or more
+                of the partners in the firm:<sourceNote>(<ref href="/hk/1995/ln492">L.N. 492 of
+                        1995</ref>)</sourceNote></leadIn>
+            <proviso name="proviso" temporalId="s2_proviso">Provided that the expression “client’s
+                money” shall not extend to money held or received by a solicitor holding an office
+                to which <ref>section 75(a)</ref> of the Ordinance applies, in the course of his
+                employment in such office, or to money paid without delay into an account subject to
+                public or official audit;
+                </proviso>
+        </def><def name="Firm"><term>firm</term> (<term xml:lang="zh-Hant-HK">律師行</term>) means a sole
+            practitioner or a partnership of 2 or more solicitors, carrying on the business of
+            practising as a solicitor;
+            <sourceNote>(<ref href="/hk/1995/ln492">L.N. 492 of
+                1995</ref>)</sourceNote></def><def name="PracticeYear"><term>practice year</term> (<term xml:lang="zh-Hant-HK">執業年度</term>) means a period of 12 months ending on 31 October each year;
+            <sourceNote>(<ref href="/hk/1995/ln492">L.N. 492 of
+                1995</ref>)</sourceNote></def><def name="Principal"><term>principal</term> (<term xml:lang="zh-Hant-HK">主管</term>) means a
+            sole practitioner or partner of a firm;
+            <sourceNote>(<ref href="/hk/1995/ln492">L.N. 492 of
+                1995</ref>)</sourceNote></def><def name="Solicitor"><term>solicitor</term> (<term xml:lang="zh-Hant-HK">律師</term>) includes a solicitor of
+            the Court, a firm of solicitors, a solicitor corporation, a foreign lawyer and a foreign
+            firm; <sourceNote>(<ref href="hk/2012/ln152">L.N. 152 of 2012</ref>)</sourceNote></def><def name="Solicitortrustee"><term>solicitor-trustee</term> (<term xml:lang="zh-Hant-HK">受託人律師</term>) means a solicitor who is a sole trustee or who is co-trustee only
+            with a partner, clerk or servant of his or with more than one of such persons;
+                    <sourceNote>(<ref href="hk/2012/ln152">L.N. 152 of
+            2012</ref>)</sourceNote></def><def name="TrustMoney"><term>trust money</term> (<term xml:lang="zh-Hant-HK">信託款項</term>)
+            means money held or received by a solicitor or a firm which is not client’s money and
+            which is subject to a trust of which the solicitor or his firm is a trustee, whether or
+            not he is solicitor-trustee of such trust.
+            <sourceNote>(<ref href="/hk/1995/ln492">L.N. 492 of
+                1995</ref>)</sourceNote></def><sourceNote>(<ref href="/hk/1995/ln492">L.N. 492 of 1995</ref>)</sourceNote></section><section id="ID_1438402749731_001" name="s3" reason="inEffect" role="rule" startPeriod="2022-10-01" status="operational" temporalId="s3"><num value="3">3.</num><heading>Qualifications of accountant</heading><subsection id="ID_1438411401175_039" name="1" temporalId="s3_1"><num value="1">(1)</num><leadIn>An accountant shall be qualified to give an accountant’s report on behalf of a
+                firm, in accordance with the provisions of <ref>section 8</ref> of the Ordinance
+                if—</leadIn><paragraph id="ID_1438411401175_047" name="a" temporalId="s3_1_a"><num value="a">(a)</num><content>he is a certified public accountant (practising) as defined
+                    by
+                        <ref>section 2(1)</ref> of the Accounting and Financial Reporting Council
+                    Ordinance
+                        (<ref href="/hk/cap588">Cap.
+                        588</ref>);
+                    <sourceNote>(<ref href="/hk/1973/ln197">L.N. 197 of
+                        1973</ref>; <ref href="/hk/2004/23">23 of 2004 s.
+                        56</ref>; <ref href="/hk/2022/ln66">L.N.
+                            66
+                            of
+                            2022</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411401191_006" name="b" temporalId="s3_1_b"><num value="b">(b)</num><content>he has neither been at any time during the accounting period, nor
+                    subsequently, before giving the report, become a partner, clerk or servant of
+                    such firm or of any partner of such firm; and<inline class="width_3"> </inline></content></paragraph><paragraph id="ID_1438411401191_014" name="c" temporalId="s3_1_c"><num value="c">(c)</num><content>he is not subject to notice of disqualification under paragraph
+                    (2).</content></paragraph></subsection><subsection id="ID_1438411401191_021" name="2" temporalId="s3_2"><num value="2">(2)</num><leadIn>If either—</leadIn><paragraph id="ID_1438411401191_029" name="a" temporalId="s3_2_a"><num value="a">(a)</num><leadIn>the accountant has been found guilty of—
+                    <sourceNote>(<ref href="/hk/1973/ln197">L.N. 197 of 1973</ref>; <ref href="/hk/2022/ln66">L.N. 66 of
+                    2022</ref>)</sourceNote></leadIn><subparagraph id="ID_1652776872716_001" name="1" temporalId="s3_2_a_1"><num value="1">(i)</num><content>professional misconduct or dishonourable conduct under the Professional
+                        Accountants Ordinance (<ref href="/hk/cap50">Cap. 50</ref>) as in force from
+                        time to time before the day on which <ref>section 3</ref> of the Financial
+                        Reporting Council (Amendment) Ordinance 2021 (<ref href="/hk/2021/41">41 of
+                            2021</ref>) comes into operation*; or </content></subparagraph><subparagraph id="ID_1652776872719_002" name="2" temporalId="s3_2_a_2"><num value="2">(ii)</num><content>CPA misconduct under <ref>section 37AA</ref> of the Accounting and
+                        Financial Reporting Council Ordinance (<ref href="/hk/cap588">Cap.
+                        588</ref>); or <sourceNote>(<ref href="/hk/2022/ln66">L.N. 66 of
+                            2022</ref>)</sourceNote></content></subparagraph></paragraph><paragraph id="ID_1438411401191_037" name="b" temporalId="s3_2_b"><num value="b">(b)</num><content>the Council is satisfied that a firm has not complied with the provisions
+                    of the Solicitors’ Accounts Rules (<ref href="/hk/cap159F">Cap. 159 sub. leg.
+                        F</ref>) in respect of matters not specified in an accountant’s report and
+                    that the accountant was negligent in giving such report,</content></paragraph><continued>the Council
+                may
+                at any time notify the accountant concerned that he is not qualified to give an
+                accountant’s report, and the Council may give notice of such fact to any firm on
+                whose behalf he may have given an accountant’s report, and after such accountant
+                shall have been so notified, unless and until such notice of disqualification shall
+                have been withdrawn by the Council, the accountant shall not be qualified to give an
+                accountant’s report:
+                <sourceNote>(<ref href="hk/2012/ln152">L.N. 152 of
+                2012</ref>)</sourceNote></continued><proviso name="proviso" temporalId="s3_2_proviso">Provided that in coming to its
+                decision under this paragraph, the Council shall take into consideration any
+                observations or
+                representations
+                made or given by the accountant or on his behalf by the professional body of which
+                he is a member.
+                <sourceNote>(<ref href="hk/2012/ln152">L.N. 152 of
+                2012</ref>)</sourceNote></proviso></subsection><sourceNote>(<ref href="/hk/1970/ln20">L.N. 20 of 1970</ref>; <ref href="/hk/1980/52">52 of
+                1980 s. 2</ref>; <ref href="/hk/1995/ln492">L.N. 492 of 1995</ref>)</sourceNote><editorialNote type="footnote" id="ID_1663647138528_001">Editorial Note:<content><inline class="force_orig_font">*</inline> Operation date: 1 October 2022.</content></editorialNote></section><section id="ID_1438402749731_003" name="s4" reason="inEffect" role="rule" startPeriod="2017-02-15" status="operational" temporalId="s4"><num value="4">4.</num><heading>Duties of an accountant</heading><subsection id="ID_1438411401237_011" name="1" temporalId="s4_1"><num value="1">(1)</num><leadIn>With a view to the signing of an accountant’s report an accountant shall-<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1970/ln20">L.N. 20 of 1970</ref>)</sourceNote> </leadIn><paragraph id="ID_1438411401237_019" name="a" temporalId="s4_1_a"><num value="a">(a)</num><content>make a general test examination of the books of account of the firm; </content></paragraph><paragraph id="ID_1438411401237_027" name="b" temporalId="s4_1_b"><num value="b">(b)</num><content>ascertain whether a client account is kept; </content></paragraph><paragraph id="ID_1438411401237_035" name="c" temporalId="s4_1_c"><num value="c">(c)</num><content>make a general test examination of the bank passbooks and statements kept in relation to the firm’s practice; </content></paragraph><paragraph id="ID_1438411401237_043" name="d" temporalId="s4_1_d"><num value="d">(d)</num><leadIn>make a comparison, as at not fewer than 2 dates selected by the accountant, between—</leadIn><subparagraph id="ID_1438411401237_051" name="1" temporalId="s4_1_d_1"><num value="i">(i)</num><content>the liabilities of the firm to its clients and, if trust money has been paid into the client account under the Solicitors’ Accounts Rules (<ref href="/hk/cap159F">Cap. 159 sub. leg. F</ref>), to the cestuis que trustent, as shown by its books of account, and </content></subparagraph><subparagraph id="ID_1438411401253_007" name="2" temporalId="s4_1_d_2"><num value="ii">(ii)</num><content>the balances standing to the credit of the client account; and </content></subparagraph></paragraph><paragraph id="ID_1438411401253_014" name="e" temporalId="s4_1_e"><num value="e">(e)</num><content>ask for such information and explanations as he may require arising out of
+                    subparagraphs (a) to (d).<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1995/ln492">L.N. 492 of
+                    1995</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438411401253_021" name="2" temporalId="s4_2"><num value="2">(2)</num><content>If in the performance of the duties required of him in paragraph (1) it appears to the accountant that there is evidence that the Solicitors’ Accounts Rules (<ref href="/hk/cap159F">Cap. 159 sub. leg. F</ref>) have not been complied with or he becomes aware of any matter which appears to affect adversely any client account or any trust money held by the firm to a material extent, he shall include in the accountant’s report signed by him such details of the contravention or matter.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1995/ln492">L.N. 492 of 1995</ref>)</sourceNote></content></subsection><sourceNote>(<ref href="/hk/1995/ln492">L.N. 492 of 1995</ref>)</sourceNote></section><section id="ID_1438402749746_002" name="s5" reason="inEffect" role="rule" startPeriod="2017-02-15" status="operational" temporalId="s5"><num value="5">5.</num><heading>Forms</heading><content>All accountant’s reports delivered by a firm under these rules shall be in accordance with Form 1 in the <ref>Schedule</ref>.</content><sourceNote>(<ref href="/hk/1970/ln20">L.N. 20 of 1970</ref>; <ref href="/hk/1976/ln211">L.N. 211 of 1976</ref>; <ref href="/hk/1995/ln492">L.N. 492 of 1995</ref>)</sourceNote></section><section id="ID_1438402749762_001" name="s6" reason="inEffect" role="rule" startPeriod="2017-02-15" status="operational" temporalId="s6"><num value="6">6.</num><heading>Exemption from requirement to deliver accountant’s report</heading><leadIn>For the purposes of <ref>section 8(1)</ref> of the Ordinance, the circumstances in which it is not necessary to deliver an accountant’s report to the Council for a practice year include (but are not limited to) the following—</leadIn><paragraph id="ID_1438411401315_012" name="a" temporalId="s6_a"><num value="a">(a)</num><content>the case of a solicitor who has not practised as a principal during any part of that year; </content></paragraph><paragraph id="ID_1438411401315_020" name="b" temporalId="s6_b"><num value="b">(b)</num><content>the case of a foreign lawyer who satisfies the Council, by statutory declaration, that the lawyer did not during any part of that year handle, hold or receive client’s money. </content></paragraph><sourceNote>(<ref href="/hk/1997/ln20">L.N. 20 of 1997</ref>)</sourceNote></section><section id="ID_1438402749762_003" name="s7" reason="repealed" role="rule" startPeriod="1997-06-30" status="repealed" temporalId="s7"><num value="7">7.</num><sourceNote>(Repealed <ref href="/hk/1995/ln492">L.N. 492 of 1995</ref>)</sourceNote></section><section id="ID_1438402749777_001" name="s8" reason="inEffect" role="rule" startPeriod="2017-02-15" status="operational" temporalId="s8"><num value="8">8.</num><heading>Accounting periods</heading><subsection id="ID_1438411401331_011" name="1" temporalId="s8_1"><num value="1">(1)</num><content>A firm shall once in each practice year deliver to the Council an accountant’s report containing the information prescribed by rules made by the Council under <ref>section 73(1)(b)</ref> of the Ordinance. </content></subsection><subsection id="ID_1438411401347_005" name="2" temporalId="s8_2"><num value="2">(2)</num><content>The firm shall deliver the accountant’s report to the Council not more than 6 months (or the period prescribed by rules made under <ref>section 73(1)(b)</ref> of the Ordinance) after the accounting period specified in the report. </content></subsection><subsection id="ID_1438411401347_013" name="3" temporalId="s8_3"><num value="3">(3)</num><content>An accountant’s report for a firm is taken to be delivered on behalf of all principals of the firm. </content></subsection><subsection id="ID_1438411401347_021" name="4" temporalId="s8_4"><num value="4">(4)</num><content>A firm is not required to deliver an accountant’s report in the practice year in which it commenced business if it would result in a report being delivered for less than 1 month of practice. </content></subsection><subsection id="ID_1438411401347_029" name="5" temporalId="s8_5"><num value="5">(5)</num><leadIn>Subject to paragraphs (6) and (7), a firm shall—</leadIn><paragraph id="ID_1438411401347_037" name="a" temporalId="s8_5_a"><num value="a">(a)</num><content>deliver an accountant’s report for the accounting period adopted by it and
+                    notified to the Society in accordance with the Solicitors’ Practice Rules (<ref href="/hk/cap159H">Cap. 159 sub. leg. H</ref>);<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2017/er1">E.R. 1 of
+                        2017</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411401362_006" name="b" temporalId="s8_5_b"><num value="b">(b)</num><content>not adopt an accounting period which corresponds to the practice year; and </content></paragraph><paragraph id="ID_1438411401362_014" name="c" temporalId="s8_5_c"><num value="c">(c)</num><content>not change an accounting period without the permission of the Council whose permission shall only be given in exceptional circumstances. </content></paragraph></subsection><subsection id="ID_1438411401362_021" name="6" temporalId="s8_6"><num value="6">(6)</num><leadIn>Where a firm commences business, the first accounting period for the firm—</leadIn><paragraph id="ID_1438411401362_029" name="a" temporalId="s8_6_a"><num value="a">(a)</num><content>shall begin on the date on which it commenced business and shall end at the
+                    end of the accounting period adopted by the firm and notified to the Society in
+                    accordance with the Solicitors’ Practice Rules (<ref href="/hk/cap159H">Cap. 159
+                        sub. leg. H</ref>);
+                            <sourceNote>(<ref href="/hk/2017/er1">E.R. 1 of
+                    2017</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411401362_037" name="b" temporalId="s8_6_b"><num value="b">(b)</num><content>may cover a period of less than 12 months; and </content></paragraph><paragraph id="ID_1438411401362_045" name="c" temporalId="s8_6_c"><num value="c">(c)</num><content>shall in all other respects comply with the requirements of <ref>section 8(2)</ref> of the Ordinance. </content></paragraph></subsection><subsection id="ID_1438411401362_052" name="7" temporalId="s8_7"><num value="7">(7)</num><leadIn>Where a firm ceases business, the final accounting period for the firm—</leadIn><paragraph id="ID_1438411401362_060" name="a" temporalId="s8_7_a"><num value="a">(a)</num><content>shall begin at the end of the accounting period specified in the preceding accountant’s report or, where the firm commenced business in the same practice year in which it ceases business, on the day on which it commenced business, and shall end at the date on which the firm ceased business; </content></paragraph><paragraph id="ID_1438411401378_006" name="b" temporalId="s8_7_b"><num value="b">(b)</num><content>may cover a period of less than 12 months; and </content></paragraph><paragraph id="ID_1438411401378_014" name="c" temporalId="s8_7_c"><num value="c">(c)</num><content>shall in all other respects comply with the requirements of <ref>section 8(2)</ref> of the Ordinance. </content></paragraph></subsection><sourceNote>(<ref href="/hk/1995/ln492">L.N. 492 of 1995</ref>)</sourceNote></section><section id="ID_1438402749777_003" name="s9" reason="inEffect" role="rule" startPeriod="2017-02-15" status="operational" temporalId="s9"><num value="9">9.</num><heading>Change in composition of firm</heading><subsection id="ID_1438411401409_004" name="1" temporalId="s9_1"><num value="1">(1)</num><content>Where a solicitor ceases to be a principal in a firm but the remaining partners continue the firm’s practice, the accountant’s report delivered by the firm shall state the date on which the solicitor ceased to be a principal. </content></subsection><subsection id="ID_1438411401409_012" name="2" temporalId="s9_2"><num value="2">(2)</num><content>Where a solicitor commences to be a principal in an existing firm, the accountant’s report delivered by the firm shall state the date on which the solicitor commenced to be a principal. </content></subsection><subsection id="ID_1438411401409_020" name="3" temporalId="s9_3"><num value="3">(3)</num><leadIn>Where a solicitor is a principal in 2 or more firms—</leadIn><paragraph id="ID_1438411401409_028" name="a" temporalId="s9_3_a"><num value="a">(a)</num><content>the firms shall each deliver an accountant’s report; </content></paragraph><paragraph id="ID_1438411401409_036" name="b" temporalId="s9_3_b"><num value="b">(b)</num><content>the accounting periods for the accountant’s reports may overlap; and </content></paragraph><paragraph id="ID_1438411401409_044" name="c" temporalId="s9_3_c"><num value="c">(c)</num><content>the accountant’s reports shall in all other respects comply with <ref>section 8(2)</ref> of the Ordinance and these rules. </content></paragraph></subsection><sourceNote>(<ref href="/hk/1995/ln492">L.N. 492 of 1995</ref>)</sourceNote></section><section id="ID_1438402749793_002" name="s10" reason="inEffect" role="rule" startPeriod="2017-02-15" status="operational" temporalId="s10"><num value="10">10.</num><heading>Notices to solicitors</heading><content>Every notice to be given by the Council under these rules to a solicitor or his
+            firm shall be in writing under the hand of the Secretary and sent by registered post to
+            the last address of the solicitor or his firm appearing in the Society’s record, and,
+            when so given and sent, shall be deemed to have been received by the solicitor or his
+            firm within 48 hours of the time of posting. </content><sourceNote>(<ref href="/hk/1980/52">52 of 1980 s.2</ref>; <ref href="/hk/1995/ln492">L.N. 492 of 1995</ref>)</sourceNote></section><section id="ID_1438402749809_001" name="s11" reason="inEffect" role="rule" startPeriod="2017-02-15" status="operational" temporalId="s11"><num value="11">11.</num><heading>Notices to accountants</heading><content>Every notice to be given by the Council under these rules to an accountant shall be in writing under the hand of the Secretary and sent by registered post to the registered office of the accountant, and, where so given and sent, shall be deemed to have been received by the accountant within 48 hours of the time of posting. </content><sourceNote>(<ref href="/hk/1970/ln20">L.N. 20 of 1970</ref>; <ref href="/hk/1973/ln197">L.N. 197 of 1973</ref>; <ref href="/hk/1980/52">52 of 1980 s. 2</ref>)</sourceNote></section><section id="ID_1438402749809_003" name="s12" reason="inEffect" role="rule" startPeriod="2017-02-15" status="operational" temporalId="s12"><num value="12">12.</num><heading>Power of waiver</heading><content>The Council shall have power to waive in writing any of the provisions of these rules, other than those of <ref>rule 3(2)</ref>, in any particular case. </content><sourceNote>(<ref href="/hk/1980/52">52 of 1980 s. 2</ref>)</sourceNote></section><schedule id="ID_1438402749855_001" name="sch0" reason="inEffect" startPeriod="2017-02-15" status="operational" temporalId="sch0"><num value="0">Schedule</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap159A/s5">rule
+            5</ref>]</note><crossHeading>Form
+            1</crossHeading><text class="align_center"><marker role="blank-line"></marker><marker role="blank-line"></marker>ACCOUNTANT’S
+                REPORT<b></b><marker role="blank-line"></marker><marker role="blank-line"></marker></text><text>
+            <table xmlns="http://www.w3.org/1999/xhtml">
+                <col width="6.97%"></col>
+                <col width="6.97%"></col>
+                <col width="6.97%"></col>
+                <col width="6.97%"></col>
+                <col width="22.12%"></col>
+                <col width="6.97%"></col>
+                <col width="43.03%"></col>
+                <tbody>
+                    <tr>
+                        <td>
+                            <p>To:</p>
+                        </td>
+                        <td colspan="5">
+                            <p>The Council,<br></br>The Law Society of Hong Kong,<br></br>3rd Floor, Wing On
+                                House, <br></br>71 Des Voeux Road Central,<br></br>Hong Kong.</p>
+                            <p></p>
+                        </td>
+                        <td>
+                            <p></p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="below_space_between_line_4">1.</p>
+                        </td>
+                        <td colspan="6" class="leaders_.">Name of firm: </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="below_space_between_line_4">2.</p>
+                        </td>
+                        <td colspan="6">The firm does/does not* operate a branch office or
+                            offices.</td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p>3.</p>
+                        </td>
+                        <td colspan="6">Address of main office: </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p></p>
+                        </td>
+                        <td colspan="6" class="leaders_."></td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p></p>
+                        </td>
+                        <td colspan="6" class="leaders_."></td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="below_space_between_line_4"> </p>
+                        </td>
+                        <td colspan="6" class="leaders_."></td>
+                    </tr>
+                    <tr>
+                        <td class="cellpadding_top_2">4.</td>
+                        <td colspan="6" class="leaders_. cellpadding_top_2">Address(es) of branch
+                            office(s), if any: </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p></p>
+                        </td>
+                        <td colspan="6" class="leaders_."></td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="below_space_between_line_4"> </p>
+                        </td>
+                        <td colspan="6" class="leaders_."></td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="below_space_between_line_4">5.</p>
+                        </td>
+                        <td colspan="6">The firm is a sole proprietorship/a partnership*. </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p>6.</p>
+                        </td>
+                        <td colspan="6">The period covered by this report: </td>
+                    </tr>
+                    <tr>
+                        <td class="cellpadding_below_2">
+                            <p></p>
+                        </td>
+                        <td colspan="4" class="leaders_.">Commences: </td>
+                        <td class="cellpadding_below_2">
+                            <p></p>
+                        </td>
+                        <td class="leaders_.">Ends: </td>
+                    </tr>
+                    <tr>
+                        <td class="cellpadding_top_2">
+                            <p class="below_space_between_line_4">7.</p>
+                        </td>
+                        <td colspan="6" class="align_justified cellpadding_top_2">Full name(s) of
+                            sole proprietor or all partners: (attach additional sheet(s) if the
+                            space is not adequate)</td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p></p>
+                        </td>
+                        <td colspan="6" class="leaders_."></td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="below_space_between_line_4"> </p>
+                        </td>
+                        <td colspan="6" class="leaders_."></td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="below_space_between_line_4">8.</p>
+                        </td>
+                        <td colspan="6" class="align_justified">If any of the partners commenced or
+                            ceased to be partners in the firm during the period covered by this
+                            report, complete the following—</td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p></p>
+                        </td>
+                        <td colspan="4" class="leaders_.">Name: </td>
+                        <td>
+                            <p></p>
+                        </td>
+                        <td>Date of commencing</td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p></p>
+                        </td>
+                        <td colspan="4" class="leaders_. cellpadding_left_32"></td>
+                        <td>
+                            <p></p>
+                        </td>
+                        <td class="leaders_.">to be a partner: </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p></p>
+                        </td>
+                        <td colspan="4" class="leaders_.">Name: </td>
+                        <td>
+                            <p></p>
+                        </td>
+                        <td>Date of ceasing </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p></p>
+                        </td>
+                        <td colspan="4" class="leaders_. cellpadding_left_32"></td>
+                        <td>
+                            <p></p>
+                        </td>
+                        <td class="leaders_.">to be a partner: </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="below_space_between_line_4">9.</p>
+                        </td>
+                        <td colspan="6" class="align_justified">If this is the first or final
+                            accountant’s report for the firm, complete the following—</td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p></p>
+                        </td>
+                        <td colspan="6" class="leaders_.">For a first accountant’s report: </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p></p>
+                        </td>
+                        <td>
+                            <p></p>
+                        </td>
+                        <td>
+                            <p></p>
+                        </td>
+                        <td>
+                            <p></p>
+                        </td>
+                        <td colspan="3" class="cellpadding_left_69 font_size_10 align_center">(date
+                            of firm commencing business) </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p></p>
+                        </td>
+                        <td colspan="6" class="leaders_.">For a final accountant’s report: </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p></p>
+                        </td>
+                        <td>
+                            <p></p>
+                        </td>
+                        <td>
+                            <p></p>
+                        </td>
+                        <td>
+                            <p></p>
+                        </td>
+                        <td colspan="3" class="cellpadding_left_73 align_center font_size_10">(date
+                            of firm ceasing business) </td>
+                    </tr>
+                    <tr>
+                        <td>10.</td>
+                        <td colspan="6">
+                            <p class="align_left left_indent_0 first_line_indent_0">Accountant’s
+                                statement:</p>
+                            <paragraph xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="align_justified left_indent_0 first_line_indent_24" id="ID_1487141819673_001" name="0" temporalId="sch0_0"><content>In compliance with <ref>section 8</ref> of the Legal
+                                    Practitioners Ordinance (<ref href="/hk/cap159">Cap. 159</ref>)
+                                    and the Accountant’s Report Rules (<ref href="/hk/cap159A">Cap.
+                                        159 sub. leg.</ref>), I have examined the books, accounts
+                                    and documents of the firm produced to me and I certify that from
+                                    my examination and from the explanations and information given
+                                    to me—</content></paragraph>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p></p>
+                        </td>
+                        <td>(1)</td>
+                        <td>(<i>a</i>)</td>
+                        <td colspan="4" class="align_justified">I am satisfied that during the
+                            accounting period the firm has complied with the provisions of the
+                            Solicitors’ Accounts Rules (<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap159F">Cap. 159 sub.
+                                leg.</ref>); </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p></p>
+                        </td>
+                        <td>
+                            <p></p>
+                        </td>
+                        <td>
+                            <p></p>
+                        </td>
+                        <td colspan="4" class="align_center">
+                            <p class="above_space_between_line_4">OR* </p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p></p>
+                        </td>
+                        <td>
+                            <p></p>
+                        </td>
+                        <td>
+                            <p>(<i>b</i>)</p>
+                        </td>
+                        <td colspan="4" class="align_justified">
+                            <p class="below_space_between_line_4">I am satisfied that during the
+                                accounting period the firm has complied with the provisions of the
+                                Solicitors’ Accounts Rules (<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap159F">Cap. 159 sub.
+                                    leg.</ref>),except for—</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p></p>
+                        </td>
+                        <td>
+                            <p></p>
+                        </td>
+                        <td>
+                            <p></p>
+                        </td>
+                        <td>(i)</td>
+                        <td colspan="3" class="align_justified">
+                            <p class="below_space_between_line_4">trivial breaches due to clerical
+                                errors or mistakes in book-keeping, all of which were rectified on
+                                discovery and which I am satisfied did not result in any loss to any
+                                client; </p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p></p>
+                        </td>
+                        <td>
+                            <p></p>
+                        </td>
+                        <td>
+                            <p></p>
+                        </td>
+                        <td>
+                            <p>(ii)</p>
+                        </td>
+                        <td colspan="3">the matters set out in <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Schedule 1</ref>.*
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p></p>
+                        </td>
+                        <td>(2)</td>
+                        <td>(<i>a</i>)</td>
+                        <td colspan="4" class="align_justified">I am not aware of any matter which
+                            appears to affect adversely any client account or any trust money held
+                            by the firm to a material extent;</td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p></p>
+                        </td>
+                        <td>
+                            <p></p>
+                        </td>
+                        <td>
+                            <p></p>
+                        </td>
+                        <td colspan="4" class="align_center">
+                            <p>OR* </p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p></p>
+                        </td>
+                        <td>
+                            <p></p>
+                        </td>
+                        <td>
+                            <p>(<i>b</i>)</p>
+                        </td>
+                        <td colspan="4" class="align_justified">
+                            <p class="below_space_between_line_4">I am not aware of any matter which
+                                appears to affect adversely any client account or any trust money
+                                held by the firm to a material extent, except for those matters the
+                                details of which are set out in <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Schedule 2</ref>.
+                            </p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p></p>
+                        </td>
+                        <td>
+                            <p>(3)</p>
+                        </td>
+                        <td colspan="5" class="align_justified">
+                            <p class="below_space_between_line_4">this is the final accountant’s
+                                report for the firm which ceased to hold client’s money on the
+                                ................ day of ..............................*</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>11.</td>
+                        <td colspan="6">
+                            <p class="below_space_between_line_4">Details of accountant—</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p></p>
+                        </td>
+                        <td colspan="6" class="leaders_.">Accountant’s full name: </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p></p>
+                        </td>
+                        <td colspan="6" class="leaders_.">Firm name: </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p></p>
+                        </td>
+                        <td colspan="6" class="leaders_.">Address: </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p></p>
+                        </td>
+                        <td colspan="6" class="leaders_."></td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="below_space_between_line_4">12.</p>
+                        </td>
+                        <td colspan="6" class="leaders_.">Accountant’s signature: </td>
+                    </tr>
+                    <tr>
+                        <td>13.</td>
+                        <td colspan="4" class="leaders_.">Date </td>
+                        <td>
+                            <p></p>
+                        </td>
+                        <td>
+                            <p></p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="5" class="align_left font_size_9.5">* Delete whichever is not
+                            applicable. </td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                </tbody>
+            </table>
+        </text><crossHeading><inline class="not_bold"><marker role="blank-line"></marker><marker role="blank-line"></marker><marker role="blank-line"></marker><marker role="blank-line"></marker><marker role="blank-line"></marker><marker role="blank-line"></marker>SCHEDULE
+                1<marker role="blank-line"></marker><marker role="blank-line"></marker><marker role="blank-line"></marker><marker role="blank-line"></marker><marker role="blank-line"></marker><marker role="blank-line"></marker>SCHEDULE
+                2
+            </inline><marker role="blank-line"></marker><marker role="blank-line"></marker><marker role="blank-line"></marker><marker role="blank-line"></marker><marker role="blank-line"></marker><marker role="blank-line"></marker></crossHeading><sourceNote>(<ref href="/hk/1995/ln492">L.N. 492 of 1995</ref>; <ref href="/hk/1998/ln252">L.N. 252 of
+                1998</ref>; <ref href="/hk/2000/ln113">L.N. 113 of
+        2000</ref>)</sourceNote></schedule></main></subLeg>

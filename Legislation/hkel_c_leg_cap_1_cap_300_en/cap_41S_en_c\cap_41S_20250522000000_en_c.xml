@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?><subLeg xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhtml="http://www.w3.org/1999/xhtml" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd" xml:lang="en" identifier="/hk/cap41S!en"><meta><docType>cap</docType><docNumber>41S</docNumber><docName>Cap. 41 sub. leg. S</docName><docStatus>In effect</docStatus><dc:identifier>/hk/cap41S!en</dc:identifier><dc:date>2025-05-22</dc:date><dc:subject>legislation</dc:subject><dc:language>en</dc:language><dc:publisher>DoJ</dc:publisher><dc:rights>The Government of the Hong Kong Special Administrative Region</dc:rights></meta><main><docTitle startPeriod="2025-05-22" status="operational" reason="inEffect" name="shortTitle" temporalId="shortTitle" id="ID_1714705501508_001">
+            <content>Insurance (Submission of Statements, Reports and Information) Rules</content>
+        </docTitle><enactingFormula>(<ref href="/hk/cap41/s129">Cap.
+                41,
+                section
+                129(1)</ref>)</enactingFormula><sourceNote>(Enacting provision omitted—<ref href="hk/2025/er1">E.R. 1 of
+            2025</ref>)</sourceNote><commencementNote>[1 July 2024] <sourceNote><ref href="hk/2024/ln67">L.N. 67 of
+                2024</ref></sourceNote></commencementNote><section id="ID_1717050122795_001" name="s1" temporalId="s1" startPeriod="2025-05-22" status="omitted" reason="omittedAsSpent"><num value="1">1.</num><sourceNote>(Omitted as spent—<ref href="hk/2025/er1">E.R. 1 of
+                        2025</ref>)</sourceNote></section><section id="ID_1717050123215_002" name="s2" temporalId="s2" startPeriod="2025-05-22" status="operational" reason="inEffect"><num value="2">2.</num><heading>Interpretation</heading><subsection name="1" temporalId="s2_1" id="ID_1717050412323_001"><num value="1">(1)</num><leadIn>In these Rules—</leadIn><def name="CouncilOfLloyds"><term>Council of Lloyd’s</term><i> </i>(<term xml:lang="zh-Hant-HK">勞合社議會</term>)<i> </i>means the Council of Lloyd’s
+                established by the Lloyd’s Act 1982 (1982 c. xiv U.K.);</def><def name="DigitalSignature"><term>digital signature</term> (<term xml:lang="zh-Hant-HK">數碼簽署</term>) has the meaning given by <ref>section 2(1)</ref> of the Electronic
+                Transactions Ordinance (<ref href="/hk/cap553">Cap. 553</ref>);</def><def name="ElectronicSignature"><term>electronic signature</term> (<term xml:lang="zh-Hant-HK">電子簽署</term>) means a digital representation of an
+                individual’s approval or consent in relation to an electronic record in a form which
+                is acceptable to the Authority;</def><def name="InsuranceLiabilities"><term>insurance liabilities</term> (<term xml:lang="zh-Hant-HK">保險負債</term>) has the meaning given by <ref>rule 2(1)</ref>
+                of the Insurance (Valuation and Capital)
+                Rules
+                    (<ref href="/hk/cap41R">Cap. 41 sub. leg. R</ref>);
+                <sourceNote>(<ref href="hk/2025/er1">E.R. 1 of
+                2025</ref>)</sourceNote></def><def name="MarineInsurer"><term>marine insurer</term> (<term xml:lang="zh-Hant-HK">海事保險人</term>) has the meaning given by <ref>rule 2</ref> of the Insurance
+                (Marine Insurers and Captive Insurers)
+                Rules
+                    (<ref href="/hk/cap41U">Cap. 41 sub. leg. U</ref>);
+                <sourceNote>(<ref href="hk/2025/er1">E.R. 1 of
+                2025</ref>)</sourceNote></def><def name="MultifactorAuthentication"><term>multifactor authentication</term> (<term xml:lang="zh-Hant-HK">多重因素認證</term>) refers to the use of 2 or more than 2
+                unique forms of verification to perform any functions as required at an online
+                communication system approved by the Authority;</def><def name="SubmissionTransitionalPeriod"><term>submission transitional period</term>
+                    (<term xml:lang="zh-Hant-HK">呈交過渡期</term>) means the period of 3 years from the
+                commencement date.</def></subsection><subsection name="2" temporalId="s2_2" id="ID_1717050412327_002"><num value="2">(2)</num><leadIn>In these Rules, where a document (including a statement, return or report) must
+                be signed or approved by a specified individual for the purposes of the relevant
+                provision, and such document is submitted electronically by means of an online
+                communication system approved by the Authority for this purpose, the signing or
+                approval requirement may be satisfied by any of the following methods—</leadIn><paragraph name="a" temporalId="s2_2_a" id="ID_1717050412328_003"><num value="a">(a)</num><content>confirmation of the document submitted by the specified individual using
+                    multifactor authentication;</content></paragraph><paragraph name="b" temporalId="s2_2_b" id="ID_1717050412329_004"><num value="b">(b)</num><content>attachment of the specified individual’s digital signature to the document
+                    submitted; or</content></paragraph><paragraph name="c" temporalId="s2_2_c" id="ID_1717050412329_005"><num value="c">(c)</num><content>attachment of the specified individual’s electronic signature to the
+                    document submitted.</content></paragraph></subsection></section><section id="ID_1717050123503_003" name="s3" temporalId="s3" startPeriod="2024-07-01" status="operational" reason="inEffect"><num value="3">3.</num><heading>Financial statements to be submitted to the Authority</heading><subsection name="1" temporalId="s3_1" id="ID_1717050519657_001"><num value="1">(1)</num><leadIn>For the purposes of <ref>section 17(1)</ref> of the Ordinance, an authorized
+                insurer must submit to the Authority, in respect of each financial year—</leadIn><paragraph name="a" temporalId="s3_1_a" id="ID_1717050519659_002"><num value="a">(a)</num><content>if the authorized insurer is a HK insurer—its financial statements as
+                    defined by <ref>section 357(1)</ref> of the Companies Ordinance (<ref href="/hk/cap622">Cap. 622</ref>); or</content></paragraph><paragraph name="b" temporalId="s3_1_b" id="ID_1717050519663_003"><num value="b">(b)</num><leadIn>in any other case—the financial statements that—</leadIn><subparagraph name="1" temporalId="s3_1_b_1" id="ID_1717050519664_004"><num value="1">(i)</num><content>the authorized insurer is required to prepare under the laws of its
+                        place of incorporation, establishment, formation or domiciliation;
+                        and</content></subparagraph><subparagraph name="2" temporalId="s3_1_b_2" id="ID_1717050519665_005"><num value="2">(ii)</num><content>contain information that the Authority considers to be comparable to
+                        the information contained in the financial statements referred to in
+                        paragraph (a).</content></subparagraph></paragraph></subsection><subsection name="2" temporalId="s3_2" id="ID_1717050519666_006"><num value="2">(2)</num><content>An authorized insurer must submit the financial statements referred to in
+                subrule (1), together with a report of its appointed auditor<sup> </sup>on those
+                statements as required under applicable law, by depositing the statements and
+                appointed auditor’s report on the statements with the Authority within a specified
+                period of 4 months after the end of the period to which they relate.</content></subsection><subsection name="3" temporalId="s3_3" id="ID_1717050519667_007"><num value="3">(3)</num><content>The statements and appointed auditor’s report submitted under subrule (2) must
+                be produced in the Chinese or the English language or, if not so produced, must be
+                accompanied by a complete Chinese or English translation.</content></subsection><subsection name="4" temporalId="s3_4" id="ID_1717050519668_008"><num value="4">(4)</num><leadIn>In this rule—</leadIn><def name="AppointedAuditor"><term>appointed auditor</term> (<term xml:lang="zh-Hant-HK">委任核數師</term>) refers to an auditor appointed under <ref>section 15</ref> of the
+                Ordinance.</def></subsection></section><section id="ID_1717050123751_004" name="s4" temporalId="s4" startPeriod="2025-05-22" status="operational" reason="inEffect"><num value="4">4.</num><heading>Information to be submitted to the Authority</heading><subsection name="1" temporalId="s4_1" id="ID_1717050856611_001"><num value="1">(1)</num><leadIn>For the purposes of <ref>section 17(1)</ref> of the Ordinance, an authorized
+                insurer must submit annual returns by depositing the forms comprising such returns
+                with the Authority within the specified period after the end of the financial year
+                to which the returns relate, where such specified period is—</leadIn><paragraph name="a" temporalId="s4_1_a" id="ID_1717050856613_002"><num value="a">(a)</num><content>3 months or 6 months (as the case may be), as specified by the Authority in
+                    the relevant form, in the case of an annual return in respect of a financial
+                    year ending within the submission transitional period; or</content></paragraph><paragraph name="b" temporalId="s4_1_b" id="ID_1717050856613_003"><num value="b">(b)</num><content>3 months or 4 months (as the case may be), as specified by the Authority in
+                    the relevant form, in the case of an annual return in respect of a financial
+                    year ending after the submission transitional period.</content></paragraph></subsection><subsection name="2" temporalId="s4_2" id="ID_1717050856614_004"><num value="2">(2)</num><leadIn>Subject to subrule (3), for the purposes of <ref>section 17(1)</ref> of the
+                Ordinance, an authorized insurer must submit quarterly returns by depositing the
+                forms comprising such returns with the Authority within the specified period after
+                the end of each quarter ending respectively on 31 March, 30 June, 30 September and
+                31 December (unless otherwise specified by the Authority in specific forms), where
+                such specified period is—</leadIn><paragraph name="a" temporalId="s4_2_a" id="ID_1717050856615_005"><num value="a">(a)</num><content>4 or 8 weeks (as the case may be), as specified by the Authority in the
+                    relevant form, in the case of a quarterly return in respect of a quarter ending
+                    within the submission transitional period; or</content></paragraph><paragraph name="b" temporalId="s4_2_b" id="ID_1717050856616_006"><num value="b">(b)</num><content>4 or 6 weeks (as the case may be), as specified by the Authority in the
+                    relevant form, in the case of a quarterly return in respect of a quarter ending
+                    after the submission transitional period.</content></paragraph></subsection><subsection name="3" temporalId="s4_3" id="ID_1717050856617_007"><num value="3">(3)</num><leadIn>In the case of a marine insurer, which has its financial year ending on a date
+                other than 31 March, 30 June, 30 September and 31 December, in addition to the
+                returns required under subrule (2), the Authority may request the insurer to submit
+                a quarterly return in respect of a quarter of its financial year as specified by the
+                Authority within a specified period after the end of such quarter, where such
+                specified period is—</leadIn><paragraph name="a" temporalId="s4_3_a" id="ID_1717050856618_008"><num value="a">(a)</num><content>4 or 8 weeks (as the case may be), as specified by the Authority in the
+                    relevant form, in the case of a quarterly return in respect of a quarter ending
+                    within the submission transitional period; or</content></paragraph><paragraph name="b" temporalId="s4_3_b" id="ID_1717050856618_009"><num value="b">(b)</num><content>4 or 6 weeks (as the case may be), as specified by the Authority in the
+                    relevant form, in the case of a quarterly return in respect of a quarter ending
+                    after the submission transitional period.</content></paragraph></subsection><subsection name="4" temporalId="s4_4" id="ID_1717050856619_010"><num value="4">(4)</num><content>For the purposes of <ref>section 17(1)</ref> of the Ordinance, an authorized
+                insurer must submit monthly returns (if any) by depositing the forms comprising such
+                returns with the Authority within a specified period of 2 weeks after each month
+                end.</content></subsection><subsection name="5" temporalId="s4_5" id="ID_1717050856620_011"><num value="5">(5)</num><content>For the purposes of <ref>section 25B(3)(b)</ref> of the Ordinance, the
+                authorized insurer concerned must submit its statement on the redetermined value of
+                its assets and liabilities consisting of the forms specified by the Authority for
+                that purpose.</content></subsection><subsection name="6" temporalId="s4_6" id="ID_1717050856624_012"><num value="6">(6)</num><content>The returns and statements deposited under subrules (1), (2), (3) and (5) must
+                be signed or approved on behalf of the authorized insurer concerned by a controller
+                of that insurer (within the meaning of <ref>section 13A</ref> of the Ordinance) and
+                a key person in the financial control function of that insurer. Alternatively, the
+                authorized insurer may choose to have a director of the insurer, or a member of
+                Council of Lloyd’s (in the case of Lloyd’s), sign or approve such returns or
+                statements in place of either its controller or key person in financial control
+                function or both.</content></subsection><subsection name="7" temporalId="s4_7" id="ID_1717050856625_013"><num value="7">(7)</num><content>The returns and statements deposited under subrule (4) must be signed or
+                approved on behalf of the authorized insurer concerned by a controller (within the
+                meaning of <ref>section 13A</ref> of the Ordinance), a key person in the financial
+                control function, or a director of that insurer.</content></subsection><subsection name="8" temporalId="s4_8" id="ID_1717050856626_014"><num value="8">(8)</num><leadIn>In this rule—</leadIn><def name="AnnualReturn"><term>annual return</term> (<term xml:lang="zh-Hant-HK">周年申報表</term>), as submitted in respect of each financial year of an authorized
+                insurer, means—<paragraph name="a" temporalId="s4_8_a" id="ID_1717050856627_015"><num value="a">(a)</num><leadIn>for an authorized insurer carrying on long term business, except for
+                        Lloyd’s, the forms for that financial year that are specified by the
+                        Authority with respect to—</leadIn><subparagraph name="1" temporalId="s4_8_a_1" id="ID_1717050856628_016"><num value="1">(i)</num><content>the insurer’s financial position and capital adequacy;</content></subparagraph><subparagraph name="2" temporalId="s4_8_a_2" id="ID_1717050856628_017"><num value="2">(ii)</num><content>the insurer’s business related information; and</content></subparagraph><subparagraph name="3" temporalId="s4_8_a_3" id="ID_1717050856629_018"><num value="3">(iii)</num><content>the insurer’s supplementary and governance information;</content></subparagraph></paragraph><paragraph name="b" temporalId="s4_8_b" id="ID_1717050856629_019"><num value="b">(b)</num><leadIn>for an authorized insurer carrying on general business, except for
+                        marine insurers, captive insurers and Lloyd’s, the forms for that financial
+                        year that are specified by the Authority with respect to—</leadIn><subparagraph name="1" temporalId="s4_8_b_1" id="ID_1717050856630_020"><num value="1">(i)</num><content>the insurer’s financial position and capital adequacy;</content></subparagraph><subparagraph name="2" temporalId="s4_8_b_2" id="ID_1717050856631_021"><num value="2">(ii)</num><content>the insurer’s business related information; and</content></subparagraph><subparagraph name="3" temporalId="s4_8_b_3" id="ID_1717050856631_022"><num value="3">(iii)</num><content>the insurer’s supplementary and governance information;</content></subparagraph></paragraph><paragraph name="c" temporalId="s4_8_c" id="ID_1717050856632_023"><num value="c">(c)</num><content>for a marine insurer, the forms for that financial year that are
+                        specified by the Authority for marine insurers;</content></paragraph><paragraph name="d" temporalId="s4_8_d" id="ID_1717050856632_024"><num value="d">(d)</num><content>for a captive insurer, the forms for that financial year that are
+                        specified by the Authority for captive insurers;</content></paragraph><paragraph name="e" temporalId="s4_8_e" id="ID_1717050856633_025"><num value="e">(e)</num><content>for Lloyd’s, the forms for that financial year that are specified by
+                        the Authority for Lloyd’s;</content></paragraph><paragraph name="f" temporalId="s4_8_f" id="ID_1717050856634_026"><num value="f">(f)</num><content>for a special purpose insurer, the forms for that financial year that
+                        are specified by the Authority for special purpose insurers; or</content></paragraph><paragraph name="g" temporalId="s4_8_g" id="ID_1717050856634_027"><num value="g">(g)</num><content>despite paragraphs (a), (b), (c), (d), (e) and (f), for an authorized
+                        insurer that is subject to <ref>section 25A</ref> of the Ordinance (other
+                        than an insurer that is exempted under the Insurance (Maintenance of Assets
+                        in Hong Kong)
+                        Rules
+                            (<ref href="/hk/cap41T">Cap. 41 sub. leg.
+                        T</ref>)),
+                        the forms specified by the Authority with respect to the insurer’s assets
+                        and liabilities and the amount of assets in Hong Kong required;
+                        <sourceNote>(<ref href="hk/2025/er1">E.R. 1 of
+                        2025</ref>)</sourceNote></content></paragraph></def><def name="MonthlyReturn"><term>monthly return</term> (<term xml:lang="zh-Hant-HK">每月申報表</term>), as submitted in respect of each calendar month of an authorized
+                insurer, in so far as applicable, means the forms for that month that are specified
+                by the Authority with respect to business related information;</def><def name="QuarterlyReturn"><term>quarterly return</term> (<term xml:lang="zh-Hant-HK">季度申報表</term>), as submitted in respect of each quarter of a calendar year,
+                    means—<paragraph name="a" temporalId="s4_8_a" id="ID_1717050856636_028"><num value="a">(a)</num><leadIn>for an authorized insurer carrying on long term business, except for
+                        Lloyd’s, the forms for that quarter that are specified by the Authority with
+                        respect to—</leadIn><subparagraph name="1" temporalId="s4_8_a_1" id="ID_1717050856637_029"><num value="1">(i)</num><content>the insurer’s financial position and capital adequacy;</content></subparagraph><subparagraph name="2" temporalId="s4_8_a_2" id="ID_1717050856637_030"><num value="2">(ii)</num><content>the insurer’s business related information; and</content></subparagraph><subparagraph name="3" temporalId="s4_8_a_3" id="ID_1717050856638_031"><num value="3">(iii)</num><content>the insurer’s supplementary information;</content></subparagraph></paragraph><paragraph name="b" temporalId="s4_8_b" id="ID_1717050856638_032"><num value="b">(b)</num><leadIn>for an authorized insurer carrying on general business, except for
+                        marine insurers, captive insurers and Lloyd’s, the forms for that quarter
+                        that are specified by the Authority with respect to—</leadIn><subparagraph name="1" temporalId="s4_8_b_1" id="ID_1717050856639_033"><num value="1">(i)</num><content>the insurer’s financial position and capital adequacy;</content></subparagraph><subparagraph name="2" temporalId="s4_8_b_2" id="ID_1717050856639_034"><num value="2">(ii)</num><content>the insurer’s business related information; and</content></subparagraph><subparagraph name="3" temporalId="s4_8_b_3" id="ID_1717050856640_035"><num value="3">(iii)</num><content>the insurer’s supplementary information;</content></subparagraph></paragraph><paragraph name="c" temporalId="s4_8_c" id="ID_1717050856641_036"><num value="c">(c)</num><content>for a marine insurer, the forms for that quarter that are specified by
+                        the Authority for marine insurers;</content></paragraph><paragraph name="d" temporalId="s4_8_d" id="ID_1717050856641_037"><num value="d">(d)</num><content>for a captive insurer, the forms for that quarter that are specified by
+                        the Authority for captive insurers; or</content></paragraph><paragraph name="e" temporalId="s4_8_e" id="ID_1717050856642_038"><num value="e">(e)</num><content>for Lloyd’s, the forms for that quarter that are specified by the
+                        Authority for Lloyd’s.</content></paragraph></def></subsection></section><section id="ID_1717050123949_005" name="s5" temporalId="s5" startPeriod="2025-05-22" status="operational" reason="inEffect"><num value="5">5.</num><heading>Auditor’s report in relation to returns to be submitted to the Authority</heading><subsection name="1" temporalId="s5_1" id="ID_1717051038060_001"><num value="1">(1)</num><content>Subject to subrule (2), an authorized insurer must submit an auditor’s report
+                on each of the specified annual forms included within an annual return under
+                    <ref>rule 4(1)</ref>.</content></subsection><subsection name="2" temporalId="s5_2" id="ID_1717051038062_002"><num value="2">(2)</num><leadIn>The auditor’s report submitted pursuant to subrule (1) must contain a statement
+                as to whether, in the auditor’s opinion—</leadIn><paragraph name="a" temporalId="s5_2_a" id="ID_1717051038062_003"><num value="a">(a)</num><content>the authorized insurer maintains proper records in accordance with
+                        <ref>section 16</ref> of the Ordinance for the purpose of preparing the
+                    specified annual forms;</content></paragraph><paragraph name="b" temporalId="s5_2_b" id="ID_1717051038064_004"><num value="b">(b)</num><content>the specified annual forms are prepared in accordance with the books and
+                    records of the authorized insurer;</content></paragraph><paragraph name="c" temporalId="s5_2_c" id="ID_1717051038064_005"><num value="c">(c)</num><content>the specified annual forms are prepared in accordance with any applicable
+                    rules, guidelines or other regulatory instruments issued by the Authority
+                    relating to such forms;</content></paragraph><paragraph name="d" temporalId="s5_2_d" id="ID_1717051038065_006"><num value="d">(d)</num><content>the authorized insurer has complied with or failed to comply with the
+                    capital requirements prescribed under <ref>section 10</ref> of the Ordinance as
+                    at the last day of its financial year;</content></paragraph><paragraph name="e" temporalId="s5_2_e" id="ID_1717051038067_007"><num value="e">(e)</num><leadIn>where the authorized insurer is subject to <ref>section 21B</ref>,
+                        <ref>22A</ref>, or 22B of the Ordinance, the insurer has complied with or
+                    failed to comply with—</leadIn><subparagraph name="1" temporalId="s5_2_e_1" id="ID_1717051038069_008"><num value="1">(i)</num><content><ref>sections 22</ref> and <ref>23</ref> of the Ordinance;
+                        and</content></subparagraph><subparagraph name="2" temporalId="s5_2_e_2" id="ID_1717051038071_009"><num value="2">(ii)</num><content><ref>Part 6</ref> of the Insurance (Valuation and Capital)
+                        Rules
+                            (<ref href="/hk/cap41R">Cap. 41 sub. leg. R</ref>),
+                        <sourceNote>(<ref href="hk/2025/er1">E.R. 1 of
+                        2025</ref>)</sourceNote></content></subparagraph><continued>as at the last day of its financial year;</continued></paragraph><paragraph name="f" temporalId="s5_2_f" id="ID_1717051038072_010"><num value="f">(f)</num><leadIn>where the authorized insurer is subject to <ref>section 25AA</ref>,
+                        <ref>25AAC</ref>, or 25AAD of the Ordinance, the insurer has complied with
+                    or failed to comply with—</leadIn><subparagraph name="1" temporalId="s5_2_f_1" id="ID_1717051038074_011"><num value="1">(i)</num><content><ref>sections 25AAB</ref> and <ref>25AAE</ref> of the Ordinance;
+                        and</content></subparagraph><subparagraph name="2" temporalId="s5_2_f_2" id="ID_1717051038076_012"><num value="2">(ii)</num><content><ref>Part 6</ref> of the Insurance (Valuation and Capital)
+                        Rules
+                            (<ref href="/hk/cap41R">Cap. 41 sub. leg. R</ref>),
+                        <sourceNote>(<ref href="hk/2025/er1">E.R. 1 of
+                        2025</ref>)</sourceNote></content></subparagraph><continued>as at the last day of its financial year; and</continued></paragraph><paragraph name="g" temporalId="s5_2_g" id="ID_1717051038077_013"><num value="g">(g)</num><leadIn>where the authorized insurer is subject to <ref>section 25A</ref> of the
+                    Ordinance, the assets in Hong Kong held by the insurer enable the insurer to
+                    comply with the requirement stipulated in <ref>section 25A</ref> of the
+                    Ordinance as at—</leadIn><subparagraph name="1" temporalId="s5_2_g_1" id="ID_1717051038080_014"><num value="1">(i)</num><content>the last day of its financial year; and</content></subparagraph><subparagraph name="2" temporalId="s5_2_g_2" id="ID_1717051038080_015"><num value="2">(ii)</num><content>2 such other dates in the financial year as the auditor providing the
+                        report may elect which are separated by a period of at least 3
+                        months.</content></subparagraph></paragraph></subsection><subsection name="3" temporalId="s5_3" id="ID_1717051038081_016"><num value="3">(3)</num><content>Where an authorized insurer is subject to <ref>section 25B</ref> of the
+                Ordinance, the specified forms under <ref>rule 4(5)</ref> must be submitted together
+                with the auditor’s report.</content></subsection><subsection name="4" temporalId="s5_4" id="ID_1717051038083_017"><num value="4">(4)</num><content>The auditor’s report submitted pursuant to subrule (3) must contain a statement
+                as to whether, in the auditor’s opinion, the assets in Hong Kong held by the
+                authorized insurer enable the insurer to comply with the requirement stipulated in
+                    <ref>section 25B</ref> of the Ordinance as at the date specified in the notice
+                issued under that section.</content></subsection><subsection name="5" temporalId="s5_5" id="ID_1717051038085_018"><num value="5">(5)</num><leadIn>The auditor providing the report under subrules (1) and (3) must be a person
+                who—</leadIn><paragraph name="a" temporalId="s5_5_a" id="ID_1717051038086_019"><num value="a">(a)</num><content>is a certified public accountant (practising), a CPA firm or a corporate
+                    practice as defined by <ref>section 2(1)</ref> of the Accounting and Financial
+                    Reporting Council Ordinance (<ref href="/hk/cap588">Cap. 588</ref>);</content></paragraph><paragraph name="b" temporalId="s5_5_b" id="ID_1717051038088_020"><num value="b">(b)</num><content>is not prohibited under <ref>section 20AAZZR</ref> of the Accounting and
+                    Financial Reporting Council Ordinance (<ref href="/hk/cap588">Cap. 588</ref>)
+                    from holding any appointment as an auditor of a company; and</content></paragraph><paragraph name="c" temporalId="s5_5_c" id="ID_1717051038090_021"><num value="c">(c)</num><content>is not disqualified under <ref>section 393</ref> of the Companies Ordinance
+                        (<ref href="/hk/cap622">Cap. 622</ref>).</content></paragraph></subsection><subsection name="6" temporalId="s5_6" id="ID_1717051038092_022"><num value="6">(6)</num><leadIn>In this rule—</leadIn><def name="CPAFirm"><term>CPA firm</term> (<term xml:lang="zh-Hant-HK">會計師事務所</term>)
+                has the meaning given by <ref>section 2(1)</ref> of the Accounting and Financial
+                Reporting Council Ordinance (<ref href="/hk/cap588">Cap. 588</ref>);</def><def name="SpecifiedAnnualForms"><term>specified annual forms</term> (<term xml:lang="zh-Hant-HK">指明周年申報表格</term>) means the forms in an annual return which
+                are required to be reported by auditor as specified in the relevant form and listed
+                in a notice published in the Gazette by the Authority.</def></subsection></section><section id="ID_1717050124144_006" name="s6" temporalId="s6" startPeriod="2025-05-22" status="operational" reason="inEffect"><num value="6">6.</num><heading>Actuary’s report in respect of long term business</heading><subsection name="1" temporalId="s6_1" id="ID_1717051221037_001"><num value="1">(1)</num><leadIn>For the purposes of <ref>sections 17(1)</ref> and <ref>18(1)</ref> and (2) of
+                the Ordinance, an authorized insurer carrying on long term business must submit the
+                actuary’s report of the investigation referred to in <ref>section 18(1)(b)</ref> of
+                the Ordinance by depositing such report with the Authority within the specified
+                period after the end of the period to which the report relates, where such specified
+                period is—</leadIn><paragraph name="a" temporalId="s6_1_a" id="ID_1717051221040_002"><num value="a">(a)</num><content>6 months, during the submission transitional period; and</content></paragraph><paragraph name="b" temporalId="s6_1_b" id="ID_1717051221041_003"><num value="b">(b)</num><content>4 months, after the submission transitional period has ended.</content></paragraph></subsection><subsection name="2" temporalId="s6_2" id="ID_1717051221041_004"><num value="2">(2)</num><leadIn>The actuary’s report and any statement submitted under subrule (1) must be
+                produced—</leadIn><paragraph name="a" temporalId="s6_2_a" id="ID_1717051221042_005"><num value="a">(a)</num><content>in written form; and</content></paragraph><paragraph name="b" temporalId="s6_2_b" id="ID_1717051221043_006"><num value="b">(b)</num><content>in the Chinese or the English language or, if not so produced, must be
+                    accompanied by a complete Chinese or English translation.</content></paragraph></subsection><subsection name="3" temporalId="s6_3" id="ID_1717051221044_007"><num value="3">(3)</num><leadIn>The actuary’s report under subrule (1) must be signed by the actuary and
+                include—</leadIn><paragraph name="a" temporalId="s6_3_a" id="ID_1717051221044_008"><num value="a">(a)</num><content>the general principles, details of methods, assumptions (with
+                    justification), and analysis used by the actuary in its valuation of the
+                    insurance liabilities in respect of the authorized insurer’s long term business
+                    by each type of long term business;</content></paragraph><paragraph name="b" temporalId="s6_3_b" id="ID_1717051221045_009"><num value="b">(b)</num><leadIn>a certificate by the actuary—</leadIn><subparagraph name="1" temporalId="s6_3_b_1" id="ID_1717051221046_010"><num value="1">(i)</num><content>stating whether in the actuary’s opinion, proper records have been kept
+                        by the authorized insurer adequately for the purpose of the valuation of the
+                        insurance liabilities in respect of the insurer’s long term
+                        business;</content></subparagraph><subparagraph name="2" temporalId="s6_3_b_2" id="ID_1717051221047_011"><num value="2">(ii)</num><content>stating whether the actuary is satisfied with the completeness,
+                        accuracy and consistency of the data used in the valuation of the insurance
+                        liabilities in respect of the authorized insurer’s long term
+                        business;</content></subparagraph><subparagraph name="3" temporalId="s6_3_b_3" id="ID_1717051221048_012"><num value="3">(iii)</num><content>confirming that the insurance liabilities in respect of the authorized
+                        insurer’s long term business have been valued in accordance with the
+                        Insurance (Valuation and Capital)
+                        Rules
+                            (<ref href="/hk/cap41R">Cap. 41 sub. leg.
+                        R</ref>)
+                        and the relevant guidelines as issued by the Authority;
+                        <sourceNote>(<ref href="hk/2025/er1">E.R. 1 of
+                        2025</ref>)</sourceNote></content></subparagraph><subparagraph name="4" temporalId="s6_3_b_4" id="ID_1717051221048_013"><num value="4">(iv)</num><content>stating whether in the actuary’s opinion, the valuation of the
+                        insurance liabilities in respect of the authorized insurer’s long term
+                        business makes appropriate provision for the insurer’s policy
+                        obligations;</content></subparagraph><subparagraph name="5" temporalId="s6_3_b_5" id="ID_1717051221049_014"><num value="5">(v)</num><content>stating whether the actuary is satisfied that the authorized insurer
+                        complied with the requirements stipulated under <ref>sections 21B</ref> and
+                            <ref>22</ref> of the Ordinance as at the date to which the valuation
+                        relates;</content></subparagraph><subparagraph name="6" temporalId="s6_3_b_6" id="ID_1717051221051_015"><num value="6">(vi)</num><content>stating whether in the actuary’s opinion, there is a prudent and
+                        satisfactory relationship between the nature and term of the assets, and the
+                        nature and term of the liabilities, of the authorized insurer’s long term
+                        business;</content></subparagraph><subparagraph name="7" temporalId="s6_3_b_7" id="ID_1717051221052_016"><num value="7">(vii)</num><content>confirming that the actuary has complied with the prescribed standards,
+                        or such other standards as the Authority accepts as being comparable to the
+                        prescribed standards under <ref>section 15C</ref> of the Ordinance, which
+                        are applicable to the actuary and specifying the relevant applicable
+                        standards with which the actuary has complied; and</content></subparagraph><subparagraph name="8" temporalId="s6_3_b_8" id="ID_1717051221053_017"><num value="8">(viii)</num><content>containing such other information as the actuary considers necessary,
+                        including any qualification, amplification or explanation considered
+                        appropriate.</content></subparagraph></paragraph></subsection></section><section id="ID_1717050124328_007" name="s7" temporalId="s7" startPeriod="2025-05-22" status="operational" reason="inEffect"><num value="7">7.</num><heading>Actuary’s report in respect of general business</heading><subsection name="1" temporalId="s7_1" id="ID_1717051370747_001"><num value="1">(1)</num><leadIn>For the purposes of <ref>sections 17(1)</ref> and <ref>18A(1)</ref> of the
+                Ordinance, an authorized insurer carrying on general business (other than an
+                authorized insurer that is exempted under
+                the
+                Insurance
+                (Exemption to Appointment of Actuary)
+                Rules
+                    (<ref href="/hk/cap41Q">Cap. 41 sub. leg.
+                Q</ref>))
+                must submit the actuary’s report of the review referred to in <ref>section
+                    18A(1)(b)</ref> of the Ordinance by depositing such report with the Authority
+                within the specified period after the end of the period to which the report relates,
+                where such specified period is—
+                <sourceNote>(<ref href="hk/2025/er1">E.R. 1 of
+                2025</ref>)</sourceNote></leadIn><paragraph name="a" temporalId="s7_1_a" id="ID_1717051370752_002"><num value="a">(a)</num><content>6 months, during the submission transitional period; and</content></paragraph><paragraph name="b" temporalId="s7_1_b" id="ID_1717051370752_003"><num value="b">(b)</num><content>4 months, after the submission transitional period has ended.</content></paragraph></subsection><subsection name="2" temporalId="s7_2" id="ID_1717051370753_004"><num value="2">(2)</num><leadIn>The actuary’s report and any statement submitted under subrule (1) must be
+                produced—</leadIn><paragraph name="a" temporalId="s7_2_a" id="ID_1717051370755_005"><num value="a">(a)</num><content>in written form; and</content></paragraph><paragraph name="b" temporalId="s7_2_b" id="ID_1717051370756_006"><num value="b">(b)</num><content>in the Chinese or the English language or, if not so produced, must be
+                    accompanied by a complete Chinese or English translation.</content></paragraph></subsection><subsection name="3" temporalId="s7_3" id="ID_1717051370756_007"><num value="3">(3)</num><leadIn>The actuary’s report under subrule (1) must be signed by the actuary and
+                include—</leadIn><paragraph name="a" temporalId="s7_3_a" id="ID_1717051370757_008"><num value="a">(a)</num><content>the general principles, details of methods and assumptions (with
+                    justification), and analysis used by the actuary in its valuation of the
+                    insurance liabilities in respect of the authorized insurer’s general business;
+                    and</content></paragraph><paragraph name="b" temporalId="s7_3_b" id="ID_1717051370758_009"><num value="b">(b)</num><leadIn>a certificate by the actuary—</leadIn><subparagraph name="1" temporalId="s7_3_b_1" id="ID_1717051370759_010"><num value="1">(i)</num><content>stating whether the actuary is satisfied with the completeness,
+                        accuracy and consistency of the data used in the valuation of the insurance
+                        liabilities in respect of the authorized insurer’s general
+                        business;</content></subparagraph><subparagraph name="2" temporalId="s7_3_b_2" id="ID_1717051370760_011"><num value="2">(ii)</num><content>confirming that the insurance liabilities in respect of the authorized
+                        insurer’s general business have been valued in accordance with the Insurance
+                        (Valuation and Capital)
+                        Rules
+                            (<ref href="/hk/cap41R">Cap. 41 sub. leg.
+                        R</ref>)
+                        and the relevant guidelines as issued by the Authority;
+                        <sourceNote>(<ref href="hk/2025/er1">E.R. 1 of
+                        2025</ref>)</sourceNote></content></subparagraph><subparagraph name="3" temporalId="s7_3_b_3" id="ID_1717051370761_012"><num value="3">(iii)</num><content>stating whether in the actuary’s opinion, the valuation of the
+                        insurance liabilities in respect of the authorized insurer’s general
+                        business makes appropriate provision for the insurer’s policy
+                        obligations;</content></subparagraph><subparagraph name="4" temporalId="s7_3_b_4" id="ID_1717051370762_013"><num value="4">(iv)</num><content>confirming that the actuary has complied with the prescribed standards,
+                        or such other standards as the Authority accepts as being comparable to the
+                        prescribed standards under <ref>section 15C</ref> of the Ordinance, which
+                        are applicable to the actuary and specifying the relevant applicable
+                        standards with which the actuary has complied; and</content></subparagraph><subparagraph name="5" temporalId="s7_3_b_5" id="ID_1717051370765_014"><num value="5">(v)</num><content>containing such other information as the actuary considers necessary,
+                        including any qualification, amplification or explanation considered
+                        appropriate.</content></subparagraph></paragraph></subsection></section><section id="ID_1717050124543_008" name="s8" temporalId="s8" startPeriod="2024-07-01" status="operational" reason="inEffect"><num value="8">8.</num><heading>Modification to specified period under <ref>section 17(1)</ref> of the Ordinance by
+            virtue of <ref>section 17(2)</ref> of the Ordinance</heading><content>Without limiting <ref>section 17(2)</ref> of the Ordinance, at the written request
+            of an authorized insurer, the Authority may exercise its discretion to extend the
+            specified period referred to in <ref>rules 3(2)</ref>, <ref>4(1)</ref>, (2), (3) and
+            (4), 6(1) and 7(1) by a period not exceeding 3 months where circumstances warranting an
+            extension of the specified period are shown by the insurer.</content></section></main></subLeg>

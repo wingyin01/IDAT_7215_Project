@@ -1,0 +1,121 @@
+{% extends "base.html" %}
+
+{% block title %}Case Search - HK Criminal Law Expert System{% endblock %}
+
+{% block content %}
+<div class="card">
+    <h2>🔍 Case Search</h2>
+    <p>Search for similar criminal cases from Hong Kong courts based on your scenario.</p>
+</div>
+
+<div class="card">
+    <form id="search-form">
+        <div class="form-group">
+            <label for="search-query">Describe your scenario:</label>
+            <textarea id="search-query" class="form-control" placeholder="For example: Person threatened victim with knife and stole wallet..." required></textarea>
+        </div>
+        
+        <div class="form-group">
+            <label for="top-n">Number of cases to find:</label>
+            <select id="top-n" class="form-control">
+                <option value="3">3 cases</option>
+                <option value="5" selected>5 cases</option>
+                <option value="10">10 cases</option>
+            </select>
+        </div>
+        
+        <button type="submit" class="btn btn-primary">Search Cases</button>
+    </form>
+</div>
+
+<div id="loader" class="loader">
+    <div class="spinner"></div>
+    <p>Searching cases...</p>
+</div>
+
+<div id="results" style="display: none;">
+    <div class="card">
+        <h2>📚 Similar Cases Found</h2>
+        <div id="results-content"></div>
+    </div>
+</div>
+
+<script>
+document.getElementById('search-form').addEventListener('submit', async function(e) {
+    e.preventDefault();
+    
+    const query = document.getElementById('search-query').value;
+    const topN = document.getElementById('top-n').value;
+    const loader = document.getElementById('loader');
+    const results = document.getElementById('results');
+    
+    loader.classList.add('active');
+    results.style.display = 'none';
+    
+    try {
+        const response = await fetch('/api/search-cases', {
+            method: 'POST',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({query: query, top_n: parseInt(topN)})
+        });
+        
+        const data = await response.json();
+        
+        if (!data.success) {
+            throw new Error(data.error);
+        }
+        
+        let html = '';
+        
+        if (data.results.length === 0) {
+            html = '<p>No similar cases found. Try rephrasing your query.</p>';
+        } else {
+            html = `<p>Found ${data.total} similar case(s):</p>`;
+            
+            data.results.forEach((caseData, idx) => {
+                html += `
+                    <div class="case-item">
+                        <h3>${idx + 1}. ${caseData.case_name} (${caseData.year})</h3>
+                        <p><strong>Similarity:</strong> <span style="color: #667eea; font-weight: bold;">${caseData.similarity}</span></p>
+                        <p><strong>Court:</strong> ${caseData.court}</p>
+                        <p><strong>Outcome:</strong> ${caseData.outcome}</p>
+                        <p><strong>Sentence:</strong> ${caseData.sentence}</p>
+                        
+                        <div style="margin-top: 1rem;">
+                            <strong>Facts:</strong>
+                            <p style="background: #f8f9fa; padding: 1rem; border-radius: 4px; margin-top: 0.5rem;">
+                                ${caseData.facts}
+                            </p>
+                        </div>
+                        
+                        <div style="margin-top: 1rem;">
+                            <strong>Charges:</strong>
+                            <ul style="margin-top: 0.5rem;">
+                                ${caseData.charges.map(charge => `<li>${charge}</li>`).join('')}
+                            </ul>
+                        </div>
+                        
+                        <div style="margin-top: 1rem;">
+                            <strong>Legal Principles:</strong>
+                            <ul style="margin-top: 0.5rem;">
+                                ${caseData.legal_principles.map(principle => `<li>${principle}</li>`).join('')}
+                            </ul>
+                        </div>
+                    </div>
+                `;
+            });
+        }
+        
+        document.getElementById('results-content').innerHTML = html;
+        results.style.display = 'block';
+        results.scrollIntoView({behavior: 'smooth'});
+        
+    } catch (error) {
+        alert('Error: ' + error.message);
+    } finally {
+        loader.classList.remove('active');
+    }
+});
+</script>
+{% endblock %}
+

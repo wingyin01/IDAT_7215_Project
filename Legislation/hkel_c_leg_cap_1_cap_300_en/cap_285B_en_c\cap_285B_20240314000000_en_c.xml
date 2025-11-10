@@ -1,0 +1,916 @@
+<?xml version="1.0" encoding="UTF-8"?><subLeg xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd" xml:lang="en"><meta><docName>Cap. 285 sub. leg. B</docName><docType>cap</docType><docNumber>285B</docNumber><docStatus>In effect</docStatus><dc:identifier>/hk/cap285B!en</dc:identifier><dc:date>2024-03-14</dc:date><dc:subject>legislation</dc:subject><dc:language>en</dc:language><dc:publisher>DoJ</dc:publisher><dc:rights>the Government of the Hong Kong Special Administrative Region</dc:rights></meta><main xml:lang="en" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd"><docTitle id="ID_1438402936120_001" name="shortTitle" reason="inEffect" status="operational" temporalId="shortTitle" startPeriod="2021-03-18">Mines
+            (Safety) Regulations</docTitle><enactingFormula role="empoweringSection">(<ref href="/hk/cap285/s67">Cap.
+                285,
+                section
+            67</ref>)<marker role="blank-line"></marker><marker role="blank-line"></marker></enactingFormula><commencementNote>[15 October 1954]</commencementNote><sourceNote>(Format changes—<ref href="hk/2021/er1">E.R. 1 of 2021</ref>)</sourceNote><part id="ID_1438402936135_002" name="P1" reason="inEffect" startPeriod="2021-03-18" status="operational" temporalId="P1"><num value="1">Part
+            I</num><heading>Preliminary</heading><section id="ID_1438402936151_001" name="s1" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s1"><num value="1">1.</num><heading>Citation</heading><content>These regulations may be cited as the <shortTitle>Mines (Safety) Regulations</shortTitle>.</content></section><section id="ID_1438402936151_003" name="s2" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s2"><num value="2">2.</num><heading>Interpretation</heading><leadIn>In these regulations, unless the context otherwise requires—</leadIn><def name="Agent"><term>agent</term>
+                                                (<term xml:lang="zh-Hant-HK">代理人</term>) is a person
+                                    holding a power of attorney in accordance with <ref>section
+                                                7</ref> of the Ordinance;</def><def name="GangForeman"><term>gang
+                                                foreman</term>
+                                                (<term xml:lang="zh-Hant-HK">礦隊管工</term>) means the
+                                    labourer or miner in charge of a gang or, if doubt exists
+                                    whether a particular labourer or miner in the gang is in charge,
+                                    the responsibility of the gang foreman shall devolve upon the
+                                    manager;</def><def name="KilowattPower"><term>kilowatt
+                                                power</term>
+                                                (<term xml:lang="zh-Hant-HK">千瓦特功率</term>) in
+                                    relation to steam, internal combustion or ignition compression
+                                    engines means the output kilowatt power declared in the maker’s
+                                                specifications;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1986/ln87">L.N. 87 of 1986</ref>)</sourceNote></def><def name="MachineryBook"><term>machinery
+                                                book</term>
+                                                (<term xml:lang="zh-Hant-HK">機械手冊</term>) means a
+                                    book so inscribed upon the cover and retained in the manager’s
+                                    possession and in which shall be entered the matters required by
+                                    these regulations;</def><def name="Manager"><term>manager</term>
+                                                (<term xml:lang="zh-Hant-HK">礦長</term>) means the
+                                    person notified, from time to time under <ref>regulation
+                                                88(4)</ref>, to the Superintendent of Mines as being
+                                    responsible for the safety, welfare, health and housing
+                                    conditions of persons employed in prospecting or mining
+                                    operations, and when no person has been so notified, it means
+                                    the holder of a prospecting or mining licence or the lessee of a
+                                    mining lease or the agent of any of them;</def><def name="Opencast"><term>opencast</term>
+                                                (<term xml:lang="zh-Hant-HK">露天礦</term>) means a
+                                    working in which excavation is performed from the surface or
+                                    which is exposed to open air;</def><def name="Shotfirer"><term>shot-firer</term>
+                                                (<term xml:lang="zh-Hant-HK">炮王</term>) means the
+                                    holder of a valid mine blasting certificate issued in accordance
+                                    with these regulations;</def><def name="SteeplyInclined"><term>steeply
+        inclined</term>
+        (<term xml:lang="zh-Hant-HK">急傾斜的</term>) means, in
+      connexion
+      with shafts or other underground excavations, an inclination to the horizontal of
+      45
+      degrees or more.
+      <sourceNote>(<ref href="hk/2021/er1">E.R. 1 of 2021</ref>)</sourceNote></def></section></part><part id="ID_1438402936167_001" name="P2" reason="inEffect" startPeriod="2021-03-18" status="operational" temporalId="P2"><num value="2">Part
+            II</num><heading>Machinery</heading><section id="ID_1438402936167_003" name="s3" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s3"><num value="3">3.</num><heading>Report of bringing plant into use</heading><subsection id="ID_1438411775045_004" name="1" temporalId="s3_1"><num value="1">(1)</num><content>At least 14 days before bringing into use for the first time any steam, oil or gas engine, or any hydraulic plant for the generation of power, the manager shall give to the Superintendent of Mines written notice of his intention so to do together with a statement of the nature and kilowatt power of the plant and the purpose for which it is to be used.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1986/ln87">L.N. 87 of 1986</ref>)</sourceNote></content></subsection><subsection id="ID_1438411775061_005" name="2" temporalId="s3_2"><num value="2">(2)</num><content>Where any such plant as aforesaid has been out of use for a period of 12 consecutive months or more, a notice similar to that mentioned in paragraph (1) shall be given before such plant is again brought into use.</content></subsection></section><section id="ID_1438402936182_001" name="s4" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s4"><num value="4">4.</num><heading>Duty to have competent engineer in charge</heading><leadIn>Any plant, the power of which is more than 9 kilowatts, shall be directly under the charge of a competent person:</leadIn><proviso name="proviso" temporalId="s4_proviso">Provided that this regulation shall not be deemed to exonerate the manager from responsibility for seeing that any plant of 9 kilowatts or less is used only under proper supervision.</proviso><sourceNote>(<ref href="/hk/1986/ln87">L.N. 87 of 1986</ref>)</sourceNote></section><section id="ID_1438402936182_003" name="s5" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s5"><num value="5">5.</num><heading>Prohibition against removal or rendering useless any fencing, etc.</heading><content>No person, not properly authorized on that behalf, shall remove or render useless any fencing, means of signalling, signal chain, flange, brake, indicator, ladder, platform, steam-gauge, water-gauge, safety-valve, or anything in any mine provided for the safety of any person.</content></section><section id="ID_1438402936198_002" name="s6" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s6"><num value="6">6.</num><heading>Inspection of plant</heading><subsection id="ID_1438411775108_004" name="1" temporalId="s6_1"><num value="1">(1)</num><content>A mines officer may at any time require a manager to prepare an engine or other
+                plant for inspection and shall give not less than 1 week’s notice in writing of the
+                date on which the inspection will be held.<inline class="width_6"> </inline><sourceNote>(<ref href="/hk/1963/ln156">L.N. 156 of
+                    1963</ref>)</sourceNote></content></subsection><subsection id="ID_1438411775108_012" name="2" temporalId="s6_2"><num value="2">(2)</num><content>The machinery book shall always be accessible to a mines officer.</content></subsection></section><section id="ID_1438402936198_004" name="s7" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s7"><num value="7">7.</num><heading>Power of mines officers to give directions</heading><content>In case of objection to any instruction or decision given by a mines officer regarding any
+            thing or any practice in
+            connexion
+            with machinery or any part thereof not provided for by any provisions of these
+            regulations, the manager may within 21 days lodge a written appeal with the
+            Superintendent of Mines.</content><sourceNote>(<ref href="/hk/1963/ln156">L.N. 156 of 1963</ref>)</sourceNote></section><section id="ID_1438402936213_002" name="s8" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s8"><num value="8">8.</num><heading>Duty to keep boilers, etc. in good condition and repair</heading><content>All engines, ladders, windlasses, brakes, ropes, winding gear and other mechanical appliances shall be kept in good condition and repair to the satisfaction of a mines officer.</content><sourceNote>(<ref href="/hk/1963/ln156">L.N. 156 of 1963</ref>)</sourceNote></section><section id="ID_1438402936213_004" name="s9" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s9"><num value="9">9.</num><heading>Duty to fence off dangerous
+            machinery.
+            Prohibition against repairing, etc. when risk of personal injury exists</heading><subsection id="ID_1438411775139_025" name="1" temporalId="s9_1"><num value="1">(1)</num><content>All exposed machinery, which when in motion may be dangerous to persons, must
+                be securely fenced off so that no person can inadvertently come into contact with or
+                be injured by reason of the same.</content></subsection><subsection id="ID_1438411775139_033" name="2" temporalId="s9_2"><num value="2">(2)</num><content>Efficient safety guards shall be provided to the satisfaction of a mines
+                officer to such parts of machinery as may in his opinion be a source of possible
+                danger to persons.</content></subsection><subsection id="ID_1438411775154_005" name="3" temporalId="s9_3"><num value="3">(3)</num><content>The repairing, adjusting, cleaning or lubricating of machinery in motion shall
+                not be undertaken where there is a risk of personal injury.</content></subsection></section><section id="ID_1438402936229_002" name="s10" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s10"><num value="10">10.</num><heading>Prohibition against use of loose clothing</heading><content>Persons engaged in close proximity to moving machinery shall not be allowed to wear loose outer clothing.</content></section><section id="ID_1438402936229_004" name="s11" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s11"><num value="11">11.</num><heading>Friction clutches</heading><subsection id="ID_1438411775170_018" name="1" temporalId="s11_1"><num value="1">(1)</num><content>Belt-driven machinery which it is necessary to stop and start without interfering with the speed of the prime mover shall be permanently fitted with a satisfactory mechanical appliance for the purpose.</content></subsection><subsection id="ID_1438411775170_026" name="2" temporalId="s11_2"><num value="2">(2)</num><content>Shipping or unshipping driving belts whilst the machinery is in motion is forbidden, with the exception of the customary shifting of light belts on the pulleys of machine tools for the purpose of alterations in the working speed.</content></subsection></section><section id="ID_1438402936245_002" name="s12" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s12"><num value="12">12.</num><heading>Air compressors</heading><subsection id="ID_1438411775201_004" name="1" temporalId="s12_1"><num value="1">(1)</num><content>The supply of air for air compressors shall be drawn from the purest and coolest source possible.</content></subsection><subsection id="ID_1438411775201_012" name="2" temporalId="s12_2"><num value="2">(2)</num><content>Receivers, inter-coolers and their
+                connexions
+                to air cylinders shall be kept clean and free from carbonized oil or other material
+                liable to ignition and shall be opened for inspection at least once every 3 months
+                in which they may be in use and a written record made of their condition.</content></subsection></section><section id="ID_1438402936276_001" name="s13" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s13"><num value="13">13.</num><heading>Safety valves</heading><content>All cylinders and receivers for air and gas of a higher pressure than the atmosphere shall be fitted with satisfactory apparatus for showing the pressure of air or gas within such cylinder or receiver while in use and also with relief or safety valve or other apparatus capable of preventing any undue accumulation of pressure above the maximum permissible working pressure of the container.</content><sourceNote>(<ref href="/hk/1963/ln156">L.N. 156 of 1963</ref>)</sourceNote></section><section id="ID_1438402936276_003" name="s14" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s14"><num value="14">14.</num><heading>Duty to fence off dangerous
+            places.
+            Duty to post notices</heading><subsection id="ID_1438411775232_004" name="1" temporalId="s14_1"><num value="1">(1)</num><content>Dangerous places such as elevated platforms, pits and trap-holes, shall be
+                fenced off so as to safeguard effectively persons in the vicinity.</content></subsection><subsection id="ID_1438411775232_012" name="2" temporalId="s14_2"><num value="2">(2)</num><content>Unauthorized entrances into any place where machinery or steam boilers are
+                erected are prohibited; notice to this effect shall be posted up at all
+                entrances.</content></subsection></section></part><part id="ID_1438402936291_001" name="P3" reason="inEffect" startPeriod="2021-03-18" status="operational" temporalId="P3"><num value="3">Part
+            III</num><heading>Electricity</heading><section id="ID_1438402936291_003" name="s15" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s15"><num value="15">15.</num><heading>Inspection of electrical installations</heading><subsection id="ID_1438411775248_004" name="1" temporalId="s15_1"><num value="1">(1)</num><content>In a mine, the Superintendent of Mines or any authorized mines officer may examine any electrical installation at any reasonable time.</content></subsection><subsection id="ID_1438411775248_012" name="2" temporalId="s15_2"><num value="2">(2)</num><content>If any matter appears to be defective, the Superintendent of Mines shall report thereon to the manager who shall take steps to carry out the necessary repairs within 24 hours of receiving the report.</content></subsection></section></part><part id="ID_1438402936323_001" name="P4" reason="inEffect" startPeriod="2021-03-18" status="operational" temporalId="P4"><num value="4">Part
+            IV</num><heading>Explosives</heading><section id="ID_1438402936338_001" name="s16" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s16"><num value="16">16.</num><heading>Power of Superintendent with regard to blasting</heading><leadIn>It shall be lawful for the Superintendent of Mines to prescribe in writing—</leadIn><paragraph id="ID_1438411775295_012" name="a" temporalId="s16_a"><num value="a">(a)</num><content>the precautions to be taken in respect of the blasting of any stone, earth or other material in a mine; and</content></paragraph><paragraph id="ID_1438411775295_020" name="b" temporalId="s16_b"><num value="b">(b)</num><content>the hours during which blasts may be fired off therein.</content></paragraph></section><section id="ID_1438402936338_003" name="s17" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s17"><num value="17">17.</num><heading>Power to sell and buy explosives</heading><content>The manager may sell, and a contractor working in a mine may buy from him, explosives
+            solely for use in
+            connexion
+            with any contract in or about the mine so long as such explosives are not sold for
+            profit and remain under the sole control of the mine management.</content></section><section id="ID_1438402936354_002" name="s18" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s18"><num value="18">18.</num><heading>Prohibition against storing explosives in closed-down mine</heading><subsection id="ID_1438411775310_018" name="1" temporalId="s18_1"><num value="1">(1)</num><content>When a mine is closed down notice shall be given to the Commissioner of any explosives remaining thereon or therein, and such explosives shall be removed or disposed of in such manner as he may direct in writing.</content></subsection><subsection id="ID_1438411775326_005" name="2" temporalId="s18_2"><num value="2">(2)</num><content>No other explosives may be stored at or in any such closed-down mine or other works without the permission in writing of the Commissioner and in accordance with the provisions of the Dangerous Goods Ordinance (<ref href="/hk/cap295">Cap. 295</ref>).</content></subsection><sourceNote>(<ref href="/hk/1963/ln156">L.N. 156 of 1963</ref>)</sourceNote></section><section id="ID_1438402936354_004" name="s19" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s19"><num value="19">19.</num><heading>Prohibition against storing explosives underground in excess of estimated
+            requirements</heading><subsection id="ID_1438411775342_004" name="1" temporalId="s19_1"><num value="1">(1)</num><content>Explosives in excess of the estimated requirements for 24 hours shall not be
+                stored underground in a mine and such explosives shall only be stored in underground
+                storage boxes. In no case shall detonators and capped fuses be stored in the same
+                box with other explosives.</content></subsection><subsection id="ID_1438411775342_012" name="2" temporalId="s19_2"><num value="2">(2)</num><leadIn>The following conditions shall apply to all underground storage—</leadIn><paragraph id="ID_1438411775342_020" name="a" temporalId="s19_2_a"><num value="a">(a)</num><content>storage boxes shall be kept at a safe distance from working faces in dry
+                    and secluded places and at least 2 metres away from each other;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1986/ln87">L.N. 87 of
+                            1986</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411775342_028" name="b" temporalId="s19_2_b"><num value="b">(b)</num><content>the boxes shall be stoutly built of wood sufficiently waterproof, and shall
+                    be kept in good repair and securely locked. The shot-firer shall keep the keys
+                    and only unlock them for the purpose of placing or removing
+                    explosives;</content></paragraph><paragraph id="ID_1438411775357_006" name="c" temporalId="s19_2_c"><num value="c">(c)</num><content>on the cover of the box the word “EXPLOSIVES” shall be painted and
+                    maintained in distinctly legible letters;</content></paragraph><paragraph id="ID_1438411775357_014" name="d" temporalId="s19_2_d"><num value="d">(d)</num><content>no box shall contain more than 10 kilograms of explosives or 100 detonators
+                    or capped fuses;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1986/ln87">L.N. 87 of 1986</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411775357_022" name="e" temporalId="s19_2_e"><num value="e">(e)</num><content>no other materials, implements or tools shall be placed in a box in which
+                    there are explosives.</content></paragraph></subsection></section><section id="ID_1438402936369_002" name="s20" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s20"><num value="20">20.</num><heading>Prohibition against using explosives other than those supplied by employer</heading><content>Shot-firers shall not use at their working places any explosives other than those supplied to them by their employers.</content></section><section id="ID_1438402936369_004" name="s21" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s21"><num value="21">21.</num><heading>Method of carrying and cutting explosives</heading><subsection id="ID_1438411775388_004" name="1" temporalId="s21_1"><num value="1">(1)</num><content>All explosives issuing from a magazine shall be placed, kept and carried in wooden boxes until required for use.</content></subsection><subsection id="ID_1438411775388_012" name="2" temporalId="s21_2"><num value="2">(2)</num><content>Only bone or wooden knives shall be used to cut up sticks of explosives.</content></subsection></section><section id="ID_1438402936385_002" name="s22" reason="inEffect" role="regulation" startPeriod="2024-03-14" status="operational" temporalId="s22"><num value="22">22.</num><heading>Mine blasting certificate, and matters ancillary thereto</heading><subsection id="ID_1438411775404_004" name="1" temporalId="s22_1"><num value="1">(1)</num><content>Save as provided in <ref>regulation 24</ref>, no person unless he is the holder
+                of a mine blasting certificate issued under these regulations shall prepare or fire
+                any charges, charge any hole with explosives or conduct any blasting operations in a
+                mine.</content></subsection><subsection id="ID_1438411775420_005" name="2" temporalId="s22_2"><num value="2">(2)</num><content>Application for a mine blasting certificate shall be, in duplicate, in Form I
+                in the <ref>First Schedule</ref> and shall be made to the Superintendent of
+                    Mines.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1963/ln156">L.N. 156 of 1963</ref>; <ref href="/hk/1976/ln146">L.N. 146 of
+                    1976</ref>)</sourceNote></content></subsection><subsection id="ID_1438411775420_013" name="3" temporalId="s22_3"><num value="3">(3)</num><content>
+                <leadIn>Mine blasting certificates may be issued free of charge to persons who are
+                    in the employment of Government:</leadIn>
+                <proviso name="proviso" temporalId="s22_3_proviso">Provided that such certificates
+                    shall be endorsed “FOR USE ON GOVERNMENT SERVICE ONLY” and shall be valid only
+                    whilst the holder remains in the service.</proviso>
+            </content></subsection><subsection id="ID_1438411775420_027" name="4" temporalId="s22_4"><num value="4">(4)</num><paragraph id="ID_1438411775420_031" name="a" temporalId="s22_4_a"><num value="a">(a)</num><content>Mine blasting certificates in Form II in the <ref>First Schedule</ref> may
+                    be issued by the Superintendent of Mines, on payment of the fee specified in the
+                        <ref>Third Schedule</ref>, to such persons as shall prove to his
+                    satisfaction that they are competent to take charge of blasting operations in a
+                        mine.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1963/ln156">L.N. 156 of 1963</ref>; <ref href="/hk/1976/ln146">L.N. 146 of 1976</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411775420_037" name="b" temporalId="s22_4_b"><num value="b">(b)</num><content>The Superintendent of Mines may require the applicant to be in possession
+                    of a copy of these regulations before he issues a certificate.</content></paragraph><paragraph id="ID_1438411775420_045" name="c" temporalId="s22_4_c"><num value="c">(c)</num><leadIn>Such a certificate may authorize the holder to conduct blasting operations
+                    in accordance with any of the following categories as may be endorsed on the
+                    certificate by the Superintendent of Mines—</leadIn><subparagraph id="ID_1438411775435_006" name="i" temporalId="s22_4_c_i"><num value="i">(i)</num><content>on surface or in opencast workings only;</content></subparagraph><subparagraph id="ID_1438411775435_014" name="ii" temporalId="s22_4_c_ii"><num value="ii">(ii)</num><leadIn>in addition, in underground operations:</leadIn></subparagraph><proviso name="proviso" temporalId="s22_4_c_ii_proviso">Provided that no holder of a
+                    mine blasting certificate shall use electricity for shot-firing when blasting
+                    unless his certificate has been endorsed by the Superintendent of Mines to
+                    permit its use.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1963/ln156">L.N. 156 of 1963</ref>)</sourceNote></proviso></paragraph></subsection><subsection id="ID_1438411775435_026" name="5" temporalId="s22_5"><num value="5">(5)</num><paragraph id="ID_1438411775435_030" name="a" temporalId="s22_5_a"><num value="a">(a)</num><content>Every mine blasting certificate shall be valid for a period of 3 years from
+                    the date of issue but may be renewed
+                    for
+                    a period of 3 years on payment of the fee specified in the Third
+                        Schedule.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1976/ln146">L.N. 146 of
+                            1976</ref>; <ref href="hk/2020/ln180">L.N. 180 of
+                        2020</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411775435_036" name="b" temporalId="s22_5_b"><num value="b">(b)</num><content>An applicant for renewal shall if so required by the Superintendent of
+                    Mines submit himself for re-examination as to his capabilities to conduct
+                    blasting operations and upon being satisfied as to the applicant’s capabilities
+                    to conduct the operations the Superintendent of Mines may renew the certificate
+                    for a further period of 3 years by endorsing upon it the date and place of
+                    renewal and his signature.</content></paragraph><paragraph id="ID_1438411775451_006" name="c" temporalId="s22_5_c"><num value="c">(c)</num><content>When a certificate is worn or defaced, the Superintendent of Mines may, on
+                    payment of the fee specified in the <ref>Third Schedule</ref>, issue a fresh
+                    certificate marked “RENEWAL” with reference thereon to the worn certificate and
+                    shall impound and destroy the worn or defaced certificate.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1976/ln146">L.N. 146
+                            of 1976</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438411775451_013" name="6" temporalId="s22_6"><num value="6">(6)</num><paragraph id="ID_1438411775451_017" name="a" temporalId="s22_6_a"><num value="a">(a)</num><content>The holder of a mine blasting certificate may at any time apply to the
+                    Superintendent of Mines to vary his certificate.</content></paragraph><paragraph id="ID_1438411775451_023" name="b" temporalId="s22_6_b"><num value="b">(b)</num><content>If the Superintendent of Mines is satisfied that the applicant is competent
+                    to conduct the blasting operations in respect of which he wishes his certificate
+                    varied he shall, on payment of the fee specified in the <ref>Third
+                        Schedule</ref>, endorse the certificate accordingly and sign and date such
+                        endorsement.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1963/ln156">L.N. 156 of 1963</ref>; <ref href="/hk/1976/ln146">L.N. 146 of 1976</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438411775466_005" name="7" temporalId="s22_7"><num value="7">(7)</num><content>Save as provided in paragraph (6), no person other than the Superintendent of
+                Mines shall make any endorsement on, alteration of or erasure from any mine blasting
+                certificate issued under these regulations. Any certificate containing any
+                unauthorized endorsement, alteration or erasure shall be invalid.</content></subsection><subsection id="ID_1438411775466_013" name="8" temporalId="s22_8"><num value="8">(8)</num><content>Every person to whom a mine blasting certificate is issued shall, immediately
+                upon receipt, endorse thereon his usual signature in the space provided or, if
+                illiterate, record his thumbprint.</content></subsection><subsection id="ID_1438411775466_021" name="9" temporalId="s22_9"><num value="9">(9)</num><content>No person shall obtain or attempt to obtain the issue of a mine blasting
+                certificate by means of any false or fraudulent representation or statement or
+                wilfully or recklessly give false information as to any of the matters in respect of
+                which information is or may be required in connexion with his application for a mine
+                blasting certificate.</content></subsection><subsection id="ID_1438411775482_005" name="10" temporalId="s22_10"><num value="10">(10)</num><content>A holder of a mine blasting certificate whose certificate has been lost may
+                apply to the Superintendent of Mines for the issue of a new certificate who, if
+                satisfied as to the identity of the applicant and the loss of the certificate, may
+                issue a new certificate, which shall bear the endorsement “DUPLICATE” in replacement
+                thereof, upon payment of the fee specified in the <ref>Third Schedule</ref>.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1976/ln146">L.N. 146 of
+                        1976</ref>)</sourceNote></content></subsection><subsection id="ID_1438411775482_013" name="11" temporalId="s22_11"><num value="11">(11)</num><content>
+                <leadIn>A mine blasting certificate issued under these regulations may be suspended
+                    or revoked by the order of a mines officer for good and sufficient
+                    reasons:</leadIn>
+                <proviso name="proviso" temporalId="s22_11_proviso">Provided that any order shall,
+                    at the request of the person aggrieved, be referred to the Superintendent of
+                    Mines whose decision shall be final.</proviso>
+            </content></subsection><subsection id="ID_1569828574725_001" name="12" temporalId="s22_12"><num value="12">(12)-(13)</num><sourceNote>(Omitted as expired—<ref href="hk/2024/er2">E.R. 2 of 2024</ref>)</sourceNote></subsection></section><section id="ID_1438402936401_002" name="s23" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s23"><num value="23">23.</num><heading>Duty of manager to retain certificate</heading><content>Every manager upon engaging a shot-firer shall examine his mine blasting certificate, and shall satisfy himself that the holder is the person whose signature or mark is recorded thereon in accordance with these regulations. The manager shall retain the mine blasting certificate until the determination of the holder’s engagement.</content></section><section id="ID_1438402936401_004" name="s24" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s24"><num value="24">24.</num><heading>Person entitled to blast, and his responsibility</heading><subsection id="ID_1438411775560_011" name="1" temporalId="s24_1"><num value="1">(1)</num><content>The preparation and firing of charges shall be by a shot-firer.</content></subsection><subsection id="ID_1438411775560_019" name="2" temporalId="s24_2"><num value="2">(2)</num><content>In the preparation of charges and the firing of such charges a shot-firer may be assisted by reliable persons, who are not shot-firers, when acting under his direct supervision but he shall be personally responsible for any accident occurring through such person’s ignorance, inexperience, or carelessness and in no case shall any person except a shot-firer actually prepare a detonator or charge any hole.</content></subsection><subsection id="ID_1438411775576_005" name="3" temporalId="s24_3"><num value="3">(3)</num><content>There shall be no simultaneous firing with electric detonators except in the case of shaft sinking, opencast workings or mine workings.</content></subsection></section><section id="ID_1438402936416_002" name="s25" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s25"><num value="25">25.</num><heading>Loose ground to be removed before
+            drilling.
+            Working faces to be examined</heading><leadIn>Before beginning drilling operations the gang foreman shall—</leadIn><paragraph id="ID_1438411775591_012" name="a" temporalId="s25_a"><num value="a">(a)</num><content>satisfy himself that all overhanging and loose or loosened debris has been
+                removed from the face and immediate vicinity of the place of operations;</content></paragraph><paragraph id="ID_1438411775591_020" name="b" temporalId="s25_b"><num value="b">(b)</num><content>see that working faces which are to be drilled are thoroughly scraped and
+                examined for sockets or butts of holes and for charges which may have
+                misfired.</content></paragraph></section><section id="ID_1438402936416_004" name="s26" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s26"><num value="26">26.</num><heading>Duty of gang foreman to be the first to enter place of operations</heading><subsection id="ID_1438411775622_004" name="1" temporalId="s26_1"><num value="1">(1)</num><content>Before commencing work either at the beginning of a shift or after blasting, the gang foreman in charge of the shift shall be the first to enter the place of operations and, until he considers it safe, he shall not allow any person to enter therein except those required by him to make the place safe.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1996/ln235">L.N. 235 of 1996</ref>)</sourceNote></content></subsection><subsection id="ID_1438411775622_012" name="2" temporalId="s26_2"><num value="2">(2)</num><content>In shaft sinking the gang foreman in charge accompanied, if necessary, by not more than 2 other persons shall carefully examine the shaft from top to bottom after blasting and shall remove all loose debris which may have settled on the shaft timbers or fittings.</content></subsection></section><section id="ID_1438402936432_002" name="s27" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s27"><num value="27">27.</num><heading>Action to be taken when blasting takes place within 10 metres of each other</heading><content>When the distance between approaching workings in either of which blasting is being done is reduced to 10 metres, the workmen shall be withdrawn from both faces whilst blasting operations are taking place at either face.</content><sourceNote>(<ref href="/hk/1986/ln87">L.N. 87 of 1986</ref>)</sourceNote></section><section id="ID_1438402936432_004" name="s28" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s28"><num value="28">28.</num><heading>Resumption of work after blasting</heading><content>No person shall return to any working place until such place is free from the dust, smoke and fumes caused by blasting and every gang foreman in charge of workmen shall be responsible for ensuring that the workmen in his charge comply with this regulation. He shall forthwith report to his immediate superior any case of gassing however slight.</content></section><section id="ID_1438402936447_002" name="s29" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s29"><num value="29">29.</num><heading>Validity of existing certificates</heading><subsection id="ID_1438411775669_004" name="1" temporalId="s29_1"><num value="1">(1)</num><content>Mine blasting certificates in force at the date of coming into
+                operation*
+                of these regulations shall remain valid, unless otherwise cancelled, for a period of
+                1 year from that date.</content></subsection><subsection id="ID_1438411775669_012" name="2" temporalId="s29_2"><num value="2">(2)</num><content>Any such certificates may be exchanged free of cost for a mine blasting
+                certificate issued under these regulations if surrendered to the Superintendent of
+                Mines within the aforesaid period of 1 year.</content></subsection><editorialNote type="footnote" id="ID_1611137766408_001">
+            <content>Editorial Note:</content>
+            <table xmlns="http://www.w3.org/1999/xhtml" frame="void" class="font_size_9" width="100%">
+                <colgroup>
+                    <col width="3%"></col>
+                    <col width="97%"></col>
+                </colgroup>
+                <tbody>
+                    <tr>
+                        <td><inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="force_orig_font">*</inline></td>
+                        <td>Operation date: 15 October 1954.</td>
+                    </tr>
+                </tbody>
+            </table>
+        </editorialNote></section><section id="ID_1438402936447_004" name="s30" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s30"><num value="30">30.</num><heading>Prohibition against carbide, and exceptions</heading><subsection id="ID_1438411775685_012" name="1" temporalId="s30_1"><num value="1">(1)</num><leadIn>No person shall carry or cause or permit to be carried any calcium carbide underground except—</leadIn><paragraph id="ID_1438411775685_020" name="a" temporalId="s30_1_a"><num value="a">(a)</num><content>in lamps of a type approved by the Superintendent of Mines; or</content></paragraph><paragraph id="ID_1438411775685_028" name="b" temporalId="s30_1_b"><num value="b">(b)</num><content>in a watertight receptable of a type approved by the Superintendent of Mines.</content></paragraph></subsection><subsection id="ID_1438411775685_035" name="2" temporalId="s30_2"><num value="2">(2)</num><content>No person shall store or leave calcium carbide underground on coming off a shift.</content></subsection></section></part><part id="ID_1438402936463_002" name="P5" reason="inEffect" startPeriod="2021-03-18" status="operational" temporalId="P5"><num value="5">Part
+            V</num><heading>Mining:
+            Opencast and Alluvial</heading><section id="ID_1438402936479_001" name="s31" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s31"><num value="31">31.</num><heading>Angle of slope</heading><content>The Superintendent of Mines may determine from time to time the angle to be maintained on any mine workings to ensure the safety thereof, and in that event shall give notice in writing to the manager of the angle to be maintained. It shall be the duty of the manager to ensure that the angle is maintained at all times to the satisfaction of the Superintendent of Mines.</content></section><section id="ID_1438402936479_003" name="s32" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s32"><num value="32">32.</num><heading>Duty to station a safety man, and not to deposit spoil near edge</heading><leadIn>In the case of any excavation which exceeds 1.8 metres in vertical height and 1.2 metres in breadth and is made by hand labour and not wholly by hydraulic or mechanical means—</leadIn><paragraph id="ID_1438411775732_005" name="a" temporalId="s32_a"><num value="a">(a)</num><content>there shall be a safety man for every gang exceeding 20 men and he shall be stationed on the top of the bank for the purpose of watching for surface cracks and barring down all loose and overhanging ground; and</content></paragraph><paragraph id="ID_1438411775732_013" name="b" temporalId="s32_b"><num value="b">(b)</num><content>no spoil shall be deposited within 1 metre of the edge of the top of the vertical or sloped face.</content></paragraph><sourceNote>(<ref href="/hk/1986/ln87">L.N. 87 of 1986</ref>)</sourceNote></section><section id="ID_1438402936494_001" name="s33" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s33"><num value="33">33.</num><heading>Power of Superintendent to require stepped benches to be cut into mine face</heading><content>When the Superintendent of Mines considers that the face of a mine should be stepped in benches in order to ensure the safety thereof, he shall by notice in writing addressed to the manager require such stepped benches to be cut as he may direct.</content></section></part><part id="ID_1438402936494_003" name="P6" reason="inEffect" startPeriod="2021-03-18" status="operational" temporalId="P6"><num value="6">Part
+            VI</num><heading>Mining:
+            Protection of Surface</heading><section id="ID_1438402936510_001" name="s34" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s34"><num value="34">34.</num><heading>Duty to protect surface where subsidence or cavities occur</heading><content>Where mining operations have caused subsidence or cavities on the surface, or where they are likely to occur, such places shall be securely fenced in and conspicuous notice boards inscribed “WARNING” shall be erected and maintained thereabouts as long as the danger exists.</content></section><section id="ID_1438402936510_003" name="s35" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s35"><num value="35">35.</num><heading>Power to give directions, and duty to comply with them</heading><subsection id="ID_1438411775778_004" name="1" temporalId="s35_1"><num value="1">(1)</num><content>For the protection of ground and any surface objects which it is necessary to protect in the interests of personal safety or public traffic, and the removal of which may be inexpedient, the veins, beds or other mineral deposits shall be left intact not only vertically below them, but also for such a distance beyond as a mines officer may consider necessary. An appeal shall lie from the direction of the officer to the Superintendent of Mines.</content></subsection><subsection id="ID_1438411775778_012" name="2" temporalId="s35_2"><num value="2">(2)</num><content>Permission for the entire or partial excavation of the ground beneath such surface objects may be obtained from the Superintendent of Mines to the extent and under such precautions and conditions as he may prescribe in each separate case.</content></subsection><subsection id="ID_1438411775794_005" name="3" temporalId="s35_3"><num value="3">(3)</num><content>The driving of tunnels not exceeding 1.8 metres in width through the safety pillars for the purpose of connecting 2 separate mines or parts of a mine may be allowed with the written permission of the Superintendent of Mines and upon due observance of the safety precautions prescribed by him.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1986/ln87">L.N. 87 of 1986</ref>)</sourceNote></content></subsection></section><section id="ID_1438402936525_002" name="s36" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s36"><num value="36">36.</num><heading>Duty to fill in illegal excavations</heading><content>All excavations made contrary to the provisions of <ref>regulations 34</ref> and <ref>35</ref> shall be immediately filled up with loose rock debris or earth by the person or persons responsible for such excavations, failing which they shall be filled up by Government at the expense of the licensee or lessee of the mine.</content></section><section id="ID_1438402936525_004" name="s37" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s37"><num value="37">37.</num><heading>Duty in respect of prospecting trenches and pits</heading><subsection id="ID_1438411775825_011" name="1" temporalId="s37_1"><num value="1">(1)</num><content><leadIn>In digging prospecting trenches the ground shall be thrown out so as to form approximately equal ridges on each side, and in sinking prospecting pits the ground shall be thrown out so as to surround the pit and all necessary precautions shall be taken, either by filling up or fencing them, to prevent persons inadvertently falling into or entering such trenches or pits:</leadIn><proviso name="proviso" temporalId="s37_1_proviso">Provided that nothing in this regulation shall prevent the removal of excavated ground for sampling purpose.</proviso></content></subsection><subsection id="ID_1438411775825_025" name="2" temporalId="s37_2"><num value="2">(2)</num><content>If in the opinion of the Superintendent of Mines disused prospecting or mining excavations are dangerous to life, or likely to endanger public traffic, he may order them to be filled in to the level of the surface or securely fenced in by the prospector, holder or lessee.</content></subsection><subsection id="ID_1438411775825_033" name="3" temporalId="s37_3"><num value="3">(3)</num><content>Any person who contravenes the provisions of paragraphs (1) and (2) hereof shall be guilty of an offence, and Government shall in any event have the right to fill up or otherwise protect such trenches or other excavations at the expense of such person.</content></subsection></section><section id="ID_1438402936541_002" name="s38" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s38"><num value="38">38.</num><heading>Duty to protect disused shafts and mining entrances, etc.</heading><content>The mouth of every shaft or entrance to a mine which for the time being is out of use or used only as an air way, and the approach of every open working not being ordinary prospecting pits or trenches, and all elevated and exposed platforms and gangways shall be kept securely fenced or otherwise protected.</content></section><section id="ID_1438402936557_001" name="s39" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s39"><num value="39">39.</num><heading>Responsibility for old excavations</heading><content>Every holder of a prospecting licence, a mining licence or a mining lease over ground on which there are old prospecting or mining excavations either open to the surface or underground, shall be responsible for preventing access thereto or for rendering safe such excavations as are left accessible.</content></section></part><part id="ID_1438402936557_003" name="P7" reason="inEffect" startPeriod="2021-03-18" status="operational" temporalId="P7"><num value="7">Part
+            VII</num><heading>Mining:
+            Underground</heading><section id="ID_1438402936572_001" name="s40" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s40"><num value="40">40.</num><heading>Prohibition against use of inflammable material, and duty in respect of naked lights</heading><subsection id="ID_1438411775888_004" name="1" temporalId="s40_1"><num value="1">(1)</num><content>No inflammable roofing material such as thatch or wood shall be used as roof covering on shelters erected over mouths of shafts or other deep workings.</content></subsection><subsection id="ID_1438411775888_012" name="2" temporalId="s40_2"><num value="2">(2)</num><content>No inflammable debris or refuse shall be stored, dumped or allowed to accumulate underground in any mine.</content></subsection><subsection id="ID_1438411775888_020" name="3" temporalId="s40_3"><num value="3">(3)</num><content>No naked lights shall be so placed that there is any risk of their igniting any wood, timber or other material underground in a mine.</content></subsection></section><section id="ID_1438402936572_003" name="s41" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s41"><num value="41">41.</num><heading>Duty to provide satisfactory ladders and ways of exit</heading><subsection id="ID_1438411775903_020" name="1" temporalId="s41_1"><num value="1">(1)</num><content>The manager shall provide and maintain to the satisfaction of a mines officer such ladders or other ways as will furnish effectual means of exit or ascent of persons from any underground workings without the assistance of winding machinery.</content></subsection><subsection id="ID_1438411775903_028" name="2" temporalId="s41_2"><num value="2">(2)</num><content>Where in any working served by only one shaft it appears to a mines officer that a second outlet has become necessary either for the safety of the workmen employed or for proper ventilation, the manager shall on being required to do so provide such second outlet.</content></subsection></section><section id="ID_1438402936588_001" name="s42" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s42"><num value="42">42.</num><heading>Duty to provide ladders in single shaft</heading><content>At every mine where any single shaft is allowed to form the only means of ingress and
+            egress to the persons employed
+            underground,
+            such shaft shall be provided with a proper ladder way and a mines officer may order the
+            provision of a proper ladder way in more than one shaft in any mine.</content></section><section id="ID_1438402936588_003" name="s43" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s43"><num value="43">43.</num><heading>Duty to fence off underground entrance to abandoned workings</heading><content>All underground entrances to shafts or other dangerous places which are temporarily or permanently abandoned shall be securely fenced across the whole width of the entrances so that no person can unintentionally enter them.</content></section><section id="ID_1438402936603_001" name="s44" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s44"><num value="44">44.</num><heading>Ladders</heading><leadIn>Where ladders are used—</leadIn><paragraph id="ID_1438411775950_012" name="a" temporalId="s44_a"><num value="a">(a)</num><content>no ladder shall incline outwards from its base from the face;</content></paragraph><paragraph id="ID_1438411775950_020" name="b" temporalId="s44_b"><num value="b">(b)</num><content>ladders shall not be vertical without the written consent of a mines officer;</content></paragraph><paragraph id="ID_1438411775950_028" name="c" temporalId="s44_c"><num value="c">(c)</num><content>in ladder ways exceeding 18 metres in depth and having an inclination of more
+                than
+                70
+                degrees from the horizontal, platforms shall be provided at intervals of not more
+                than 9 metres measured vertically;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1986/ln87">L.N. 87 of
+                    1986</ref>; <ref href="hk/2021/er1">E.R. 1 of 2021</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411775950_036" name="d" temporalId="s44_d"><num value="d">(d)</num><content>no 2 consecutive manholes in such platforms shall be in a vertical line unless the ladders have sufficient inclination to cover the manholes;</content></paragraph><paragraph id="ID_1438411775950_044" name="e" temporalId="s44_e"><num value="e">(e)</num><content>all ladders used in mines shall be strongly constructed and be securely fastened to the timbering or sides of the shaft and maintained in proper repair. Rungs must not be more than 230 millimetres apart and must be inserted or notched into the sides of the ladder as well as fastened by clinched nails or other adequate means; and<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1986/ln87">L.N. 87 of 1986</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411775966_006" name="f" temporalId="s44_f"><num value="f">(f)</num><content>the ladders shall project at least 1 metre above the mouth of the shaft and every resting place therein, and strong handrails shall be fixed at such places.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1986/ln87">L.N. 87 of 1986</ref>)</sourceNote></content></paragraph></section><section id="ID_1438402936603_003" name="s45" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s45"><num value="45">45.</num><heading>Prohibition against carrying tools, etc. in ladder way</heading><content>No person shall carry or be permitted to carry any drill, tool or any loose material on a ladder way in a vertical or steeply inclined shaft or winze except, so far as may be necessary, in executing repairs or other work.</content></section><section id="ID_1438402936635_001" name="s46" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s46"><num value="46">46.</num><heading>Duty to fence off entrances to shafts and winzes</heading><content>The top of every vertical or steeply inclined shaft, winze, sump and shute or sliding hole and all entrances thereto below the top, shall be kept properly fenced off by means of a barrier or gate, but the temporary removal of the barrier or gate for the purpose of repairs or other operations is permissible if proper precautions to prevent danger to persons are taken.</content></section><section id="ID_1438402936635_003" name="s47" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s47"><num value="47">47.</num><heading>Prohibition against loose material near unprotected edges</heading><content>No excavated material, tools, wood or loose articles of any kind shall be allowed to lie near the unprotected edge of any excavation.</content></section><section id="ID_1438402936650_002" name="s48" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s48"><num value="48">48.</num><heading>Necessity to provide guides for bucket, cage or skip</heading><content>Vertical shafts exceeding 30 metres in depth shall be provided with guides for every bucket, cage or skip.</content><sourceNote>(<ref href="/hk/1986/ln87">L.N. 87 of 1986</ref>)</sourceNote></section><section id="ID_1438402936650_004" name="s49" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s49"><num value="49">49.</num><heading>Provision for workmen passing from one compartment to another</heading><content>At every shaft station where it is necessary for workmen to pass from one side of the shaft to another, provision shall be made for them to do so without entering or crossing a winding compartment. All passages shall be securely fenced.</content></section><section id="ID_1438402936666_002" name="s50" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s50"><num value="50">50.</num><heading>Prohibition against entering winding compartment</heading><leadIn>Except to ascend or descend and for purposes of repairs, entering or crossing a winding compartment of a shaft is prohibited:</leadIn><proviso name="proviso" temporalId="s50_proviso">Provided that this regulation shall not apply to persons employed in timbering or lining vertical shafts whilst sinking operations are being carried out.</proviso></section><section id="ID_1438402936666_004" name="s51" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s51"><num value="51">51.</num><heading>Sinking shafts</heading><subsection id="ID_1438411776059_023" name="1" temporalId="s51_1"><num value="1">(1)</num><content>In sinking shafts the bucket, cage or skip shall not be filled above the level of the brim.</content></subsection><subsection id="ID_1438411776059_031" name="2" temporalId="s51_2"><num value="2">(2)</num><content>Before the bucket, cage or skip leaves the top or bottom of the shaft it shall be steadied under the supervision of the gang foreman in charge.</content></subsection><subsection id="ID_1438411776075_005" name="3" temporalId="s51_3"><num value="3">(3)</num><content><leadIn>In no event shall any bucket, cage or skip be directly lowered to the bottom of a shaft when men are working there, but shall be stopped at least 4.5 metres above the bottom until the signal to lower it further has been given by the signalman thereat:</leadIn><proviso name="proviso" temporalId="s51_3_proviso">Provided that this paragraph shall not apply to shafts in which the miners are not more than 15 metres from the winch or windlass controller.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1986/ln87">L.N. 87 of 1986</ref>)</sourceNote></proviso></content></subsection></section><section id="ID_1438402936681_002" name="s52" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s52"><num value="52">52.</num><heading>Duty to provide ladder ways in sinking shafts</heading><leadIn>Ladder ways shall be provided in all shafts in the course of sinking to within such distance of the bottom as will secure them from damage in blasting, and from the ends of such ladder ways chain ladders shall be extended to the bottom of the shaft:</leadIn><proviso name="proviso" temporalId="s52_proviso">Provided that chains may be substituted for chain ladders in an inclined shaft.</proviso></section><section id="ID_1438402936697_001" name="s53" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s53"><num value="53">53.</num><heading>Protection of persons in sinking shafts</heading><subsection id="ID_1438411776090_032" name="1" temporalId="s53_1"><num value="1">(1)</num><content>When a shaft has no separate ladder way under which those engaged in sinking may find shelter, during the winding of rock materials or water, sufficient protection shall be provided by a suitable covering.</content></subsection><subsection id="ID_1438411776106_005" name="2" temporalId="s53_2"><num value="2">(2)</num><content>When a working shaft is being sunk deeper while ordinary winding is going on the men employed at the bottom of such shaft shall be securely protected by overhead cover.</content></subsection></section><section id="ID_1438402936697_003" name="s54" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s54"><num value="54">54.</num><heading>Precautions to be taken in using windlasses, etc.</heading><content>All hoisting appliances in use at shafts and winzes shall be provided with a stopper, pawl or some other reliable holder, and care must be taken that the hooking on and off of buckets or other receptacles is done without danger to the workmen.</content></section><section id="ID_1438402936822_001" name="s55" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s55"><num value="55">55.</num><heading>Necessity to provide signalling apparatus in shafts</heading><subsection id="ID_1438411776122_018" name="1" temporalId="s55_1"><num value="1">(1)</num><leadIn>Every winding shaft which exceeds 15 metres in depth shall be provided with efficient means of interchanging distinct and definitive signals between—  <sourceNote>(<ref href="/hk/1986/ln87">L.N. 87 of 1986</ref>)</sourceNote></leadIn><paragraph id="ID_1438411776137_005" name="a" temporalId="s55_1_a"><num value="a">(a)</num><content>the winding engine;</content></paragraph><paragraph id="ID_1438411776137_013" name="b" temporalId="s55_1_b"><num value="b">(b)</num><content>the top of the shaft;</content></paragraph><paragraph id="ID_1438411776137_021" name="c" temporalId="s55_1_c"><num value="c">(c)</num><content>the lowest point from which winding is carried on; and</content></paragraph><paragraph id="ID_1438411776137_029" name="d" temporalId="s55_1_d"><num value="d">(d)</num><content>the various intermediate stations for the time being in use,</content></paragraph><continued>but this paragraph shall not apply to signalling apparatus used during sinking operations.</continued></subsection><subsection id="ID_1438411776137_042" name="2" temporalId="s55_2"><num value="2">(2)</num><content>A mines officer may in writing exempt any shaft from the whole or part of the
+                requirements of paragraph (1) and any exemption may be varied or revoked by a mines
+                officer at 7
+                days’
+                notice. An appeal shall lie from any such variation or revocation to the
+                Superintendent of Mines.
+                <sourceNote>(<ref href="hk/2021/er1">E.R. 1 of 2021</ref>)</sourceNote></content></subsection><subsection id="ID_1438411776137_050" name="3" temporalId="s55_3"><num value="3">(3)</num><content>Where more than 1 winding engine is in use at a shaft, a separate set of signals, as required in paragraph (1) shall be provided for each winding engine in use.</content></subsection></section><section id="ID_1438402936931_001" name="s56" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s56"><num value="56">56.</num><heading>Exemption in respect of prospecting shafts</heading><content>Prospecting shafts where winding is done by manual or animal power may be exempted by a mines officer from the provisions of <ref>regulations 48</ref>, <ref>52</ref>, <ref>53</ref> and <ref>55</ref>.</content></section><section id="ID_1438402936962_001" name="s57" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s57"><num value="57">57.</num><heading>Duty to fence underground entrances</heading><content>All underground entrances to shafts or other dangerous places which are temporarily or permanently abandoned shall be securely fenced across the whole width of the entrances so that no person can unintentionally enter them.</content></section><section id="ID_1438402936993_002" name="s58" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s58"><num value="58">58.</num><heading>Duty to provide protection against falling
+            materials.
+            Duty to report danger</heading><subsection id="ID_1438411776184_011" name="1" temporalId="s58_1"><num value="1">(1)</num><content>Where the underground entrances referred to in <ref>regulation 57</ref> or
+                steeply inclined stopes lead directly into a main drive, it and any working situate
+                on its lower or “dip” side, shall be securely fenced off in order to ensure that
+                persons working therein shall not receive injury from falling materials.</content></subsection><subsection id="ID_1438411776184_019" name="2" temporalId="s58_2"><num value="2">(2)</num><leadIn>Any gang foreman who has reason to believe that any part of the hanging wall or
+                any other part of a mine is in a dangerous condition shall inform—</leadIn><paragraph id="ID_1438411776184_027" name="a" temporalId="s58_2_a"><num value="a">(a)</num><content>his superior forthwith who shall take all necessary steps to remove the
+                    danger; and</content></paragraph><paragraph id="ID_1438411776200_006" name="b" temporalId="s58_2_b"><num value="b">(b)</num><content>the foreman of any gang which may relieve his gang.</content></paragraph></subsection></section><section id="ID_1438402937009_002" name="s59" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s59"><num value="59">59.</num><heading>Duty to secure unsafe workings, and to keep reserve of timber</heading><subsection id="ID_1438411776215_004" name="1" temporalId="s59_1"><num value="1">(1)</num><content>Where the ground is not naturally safe, every working or pumping shaft, travelling road, airway, working, adit, level, cross-cut, stope and underground passage, shall be securely timbered, walled up, or otherwise made secure, and kept in a safe condition as long as they are in actual use. No person, unless appointed for the purpose of making explorations or repairs, shall travel or work therein until they are properly secured.</content></subsection><subsection id="ID_1438411776215_012" name="2" temporalId="s59_2"><num value="2">(2)</num><content>Where the ground is not naturally safe in any working, there shall, in addition to the requirements in paragraph (1), be a sufficient reserve of suitable timber conveniently placed for the immediate use of the workmen employed therein.</content></subsection></section><section id="ID_1438402937009_004" name="s60" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s60"><num value="60">60.</num><heading>Duty to provide safety
+            pillars.
+            Power of Superintendent in respect of pillars</heading><subsection id="ID_1438411776231_019" name="1" temporalId="s60_1"><num value="1">(1)</num><leadIn>On the inside of the boundary lines of every mine there shall be safety pillars
+                of the width, measured at right angles from the boundary lines, of—</leadIn><paragraph id="ID_1438411776246_005" name="a" temporalId="s60_1_a"><num value="a">(a)</num><content>in stratified deposits, not less than 15 metres; and</content></paragraph><paragraph id="ID_1438411776246_013" name="b" temporalId="s60_1_b"><num value="b">(b)</num><content>in non-stratified deposits, not less than 10 metres.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1986/ln87">L.N. 87 of
+                        1986</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438411776246_020" name="2" temporalId="s60_2"><num value="2">(2)</num><content>On the joint application of the licensees or lessees of adjoining mines, the
+                Superintendent of Mines may give written permission to either party to weaken, cut
+                through or work their respective pillars between the mines. In the absence of a
+                joint application he may give written permission for the partial working, weakening
+                or cutting through of the pillars.</content></subsection></section><section id="ID_1438402937025_002" name="s61" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s61"><num value="61">61.</num><heading>Duty to examine disused workings before reopening</heading><content>Underground workings, in particular shafts, sumps and winzes, which have been in disuse, shall be examined before being again used for the purpose of ascertaining whether foul air or other dangerous gases have accumulated therein. Only such workmen as may be necessary to make the examination shall be allowed to proceed therein until they are fit for use.</content></section><section id="ID_1438402937040_001" name="s62" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s62"><num value="62">62.</num><heading>Ventilation requirement</heading><content>All parts of every underground working shall be properly and sufficiently ventilated to the satisfaction of a mines officer.</content></section><section id="ID_1438402937040_003" name="s63" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s63"><num value="63">63.</num><heading>Duty to take air measurement</heading><content>In every mine the quantity of air in circulation shall be measured, at least once per month, and entered in a book kept for the purpose at the mine.</content></section><section id="ID_1438402937056_001" name="s64" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s64"><num value="64">64.</num><heading>Ventilation doors</heading><content>All ventilation doors shall be self-closing.</content></section><section id="ID_1438402937056_003" name="s65" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s65"><num value="65">65.</num><heading>Percussive drills</heading><content>Unless written exemption has been obtained from the Superintendent of Mines, percussive drills shall have a central water feed.</content></section><section id="ID_1438402937071_001" name="s66" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s66"><num value="66">66.</num><heading>Duty to provide stationary lights</heading><leadIn>Adequate stationary lights shall be provided—</leadIn><paragraph id="ID_1438411776325_019" name="a" temporalId="s66_a"><num value="a">(a)</num><leadIn>during working hours—</leadIn><subparagraph id="ID_1438411776325_027" name="i" temporalId="s66_a_i"><num value="i">(i)</num><content>at all stations in vertical and inclined shafts; and</content></subparagraph><subparagraph id="ID_1438411776325_035" name="ii" temporalId="s66_a_ii"><num value="ii">(ii)</num><content>at all stopping places in levels where winding or hauling is effected by means of machinery; and</content></subparagraph></paragraph><paragraph id="ID_1438411776325_042" name="b" temporalId="s66_b"><num value="b">(b)</num><content>at night, at all workings on the surface.</content></paragraph></section><section id="ID_1438402937071_003" name="s67" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s67"><num value="67">67.</num><heading>Duty to light places containing unfenced machinery</heading><content>All places which contain winding, driving, pumping or other machinery in proximity to persons working and moving about and which are not fenced off in such a way as to render it impossible for anyone to come inadvertently in contact with, the machinery shall be so lighted whilst in operation that the moving parts thereof shall be clearly distinguishable.</content></section><section id="ID_1438402937087_002" name="s68" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s68"><num value="68">68.</num><heading>Prohibition against movement without lights</heading><content>No person shall move about in any unilluminated part of a mine without showing a light.</content></section><section id="ID_1438402937087_004" name="s69" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s69"><num value="69">69.</num><heading>Duty to provide manholes</heading><subsection id="ID_1438411776356_018" name="1" temporalId="s69_1"><num value="1">(1)</num><content><leadIn>Every underground haulage road or tramway on which the haulage is worked by gravity or mechanical power shall be provided with sufficient manholes or places of refuge at intervals of not more than 18 metres:</leadIn><proviso name="proviso" temporalId="s69_1_proviso">Provided that manholes shall be unnecessary where the gradient does not exceed 1 in 20 and there exists between the trams and one side of the road or between the 2 lines of trams a clear space of at least 600 millimetres.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1986/ln87">L.N. 87 of 1986</ref>)</sourceNote></proviso></content></subsection><subsection id="ID_1438411776371_011" name="2" temporalId="s69_2"><num value="2">(2)</num><leadIn>Every manhole shall be—</leadIn><paragraph id="ID_1438411776371_019" name="a" temporalId="s69_2_a"><num value="a">(a)</num><content>as near as may be 1 metre in width and not less than 1.2 metres in depth;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1986/ln87">L.N. 87 of 1986</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411776371_027" name="b" temporalId="s69_2_b"><num value="b">(b)</num><content>not less than the height of the road at that point, or 1.8 metres, whichever is the lesser;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1986/ln87">L.N. 87 of 1986</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411776371_035" name="c" temporalId="s69_2_c"><num value="c">(c)</num><content>kept whitewashed so as to be readily visible;</content></paragraph><paragraph id="ID_1438411776371_043" name="d" temporalId="s69_2_d"><num value="d">(d)</num><content>kept clear and unobstructed.</content></paragraph></subsection><subsection id="ID_1438411776371_050" name="3" temporalId="s69_3"><num value="3">(3)</num><content>No person shall place in or near a manhole anything which may prevent free access thereto.</content></subsection></section><section id="ID_1438402937103_002" name="s70" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s70"><num value="70">70.</num><heading>Duty to keep clear space between rails</heading><content>The space between the tracks of rail in every haulage road or tramway shall at all times be kept clear of obstructions.</content></section><section id="ID_1438402937103_004" name="s71" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s71"><num value="71">71.</num><heading>Prohibition against riding on tubs</heading><leadIn>No persons below ground shall ride on sets or trains of tubs or in any other conveyance except—</leadIn><paragraph id="ID_1438411776418_005" name="a" temporalId="s71_a"><num value="a">(a)</num><content>persons being conveyed with the written permission of the manager to or from their work at the beginning or end of their shift;</content></paragraph><paragraph id="ID_1438411776418_013" name="b" temporalId="s71_b"><num value="b">(b)</num><content>the driver of an underground locomotive.</content></paragraph></section><section id="ID_1438402937118_002" name="s72" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s72"><num value="72">72.</num><heading>Duty as regards haulage appliances</heading><subsection id="ID_1438411776434_026" name="1" temporalId="s72_1"><num value="1">(1)</num><content>Every rope used for haulage, which is capped, shall be recapped at intervals of not more than 6 months.</content></subsection><subsection id="ID_1438411776434_034" name="2" temporalId="s72_2"><num value="2">(2)</num><leadIn>Sufficient and suitable wedges, sprags, lockers or drags shall be provided and used for the purpose of holding a tub or set of tubs—</leadIn><paragraph id="ID_1438411776434_042" name="a" temporalId="s72_2_a"><num value="a">(a)</num><content>at the top of every incline where the haulage is worked by gravity; and</content></paragraph><paragraph id="ID_1438411776434_050" name="b" temporalId="s72_2_b"><num value="b">(b)</num><content>at all places where tubs are coupled or uncoupled.</content></paragraph></subsection></section><section id="ID_1438402937134_001" name="s73" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s73"><num value="73">73.</num><heading>Duty to provide runaway switches in certain cases</heading><leadIn>Runaway switches shall be provided on every road—</leadIn><paragraph id="ID_1438411776449_042" name="a" temporalId="s73_a"><num value="a">(a)</num><content>where mechanical haulage, other than endless rope haulage, is used; and</content></paragraph><paragraph id="ID_1438411776449_050" name="b" temporalId="s73_b"><num value="b">(b)</num><content>where the gradient exceeds 1 in 12.</content></paragraph></section><section id="ID_1438402937134_003" name="s74" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s74"><num value="74">74.</num><heading>Duty in respect of haulage signals</heading><subsection id="ID_1438411776465_026" name="1" temporalId="s74_1"><num value="1">(1)</num><content>There shall be provided on every haulage road, which exceeds 30 metres in
+                length and where the haulage is worked by gravity or mechanical power, proper means
+                of communicating distinct signals between all places on the haulage and the engine
+                    driver.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1986/ln87">L.N. 87 of
+                1986</ref>)</sourceNote></content></subsection><subsection id="ID_1438411776465_034" name="2" temporalId="s74_2"><num value="2">(2)</num><leadIn>The manager shall—</leadIn><paragraph id="ID_1438411776481_005" name="a" temporalId="s74_2_a"><num value="a">(a)</num><content>prescribe the signals to be used at a station; and</content></paragraph><paragraph id="ID_1438411776481_013" name="b" temporalId="s74_2_b"><num value="b">(b)</num><content>post up in the engine house and at all signalling stations a list of all signals to be used at any particular haulage.</content></paragraph></subsection></section></part><part id="ID_1438402937149_001" name="P8" reason="inEffect" startPeriod="2021-03-18" status="operational" temporalId="P8"><num value="8">Part
+            VIII</num><heading>Workmen</heading><section id="ID_1438402937149_003" name="s75" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s75"><num value="75">75.</num><heading>Duty to keep record of employees</heading><content>A sufficient record of all persons employed in or about a mine shall be kept in the office at every mine.</content></section><section id="ID_1438402937165_002" name="s76" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s76"><num value="76">76.</num><heading>Duty to wear miners’ hats of approved pattern</heading><content>6 months after these regulations come into
+            operation*,
+            all persons working underground shall wear a miner’s hard hat of a pattern approved by a
+            mines officer.</content><editorialNote type="footnote" id="ID_1611137822271_001">
+            <content>Editorial Note:</content>
+            <table xmlns="http://www.w3.org/1999/xhtml" frame="void" class="font_size_9" width="100%">
+                <colgroup>
+                    <col width="3%"></col>
+                    <col width="97%"></col>
+                </colgroup>
+                <tbody>
+                    <tr>
+                        <td><inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="force_orig_font">*</inline></td>
+                        <td>Operation date: 15 October 1954.</td>
+                    </tr>
+                </tbody>
+            </table>
+        </editorialNote></section><section id="ID_1438402937165_004" name="s77" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s77"><num value="77">77.</num><heading>Requirements as to first aid equipment</heading><content>The holder of every prospecting licence, mining licence or mining lease shall keep and maintain in the area operating under such licence or lease such stock of fitted first aid boxes, dressings, splints, stretchers and other materials and appliances as the Superintendent of Mines, by writing under his hand, may from time to time require.</content><sourceNote>(<ref href="/hk/1963/ln156">L.N. 156 of 1963</ref>)</sourceNote></section><section id="ID_1438402937181_002" name="s78" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s78"><num value="78">78.</num><heading>Requirement as to persons with first aid certificates</heading><subsection id="ID_1438411776527_025" name="1" temporalId="s78_1"><num value="1">(1)</num><leadIn>Subject to any suspension or reduction granted under paragraph (4), the licensee
+                of every mining licence and the lessee of every mining lease shall, at all times
+                after the expiry of the period provided in paragraph (5) for compliance with this
+                paragraph, ensure that there is in the area operating under his mining licence or
+                mining lease, as the case may be, not less than the following number of persons in
+                possession of certificates of competency to render first aid to the injured, that is
+                to
+                say—</leadIn><paragraph id="ID_1438411776543_005" name="a" temporalId="s78_1_a"><num value="a">(a)</num><content>
+                    <leadIn>where less than 40 persons are employed in the area, such number as the
+                        Superintendent of Mines may, by writing under his hand, specify:</leadIn>
+                    <proviso name="proviso" temporalId="s78_1_a_proviso">Provided that in no case
+                        shall the Superintendent of Mines specify a number greater than 3;</proviso>
+                </content></paragraph><paragraph id="ID_1438411776543_019" name="b" temporalId="s78_1_b"><num value="b">(b)</num><content>where 40 or more persons but less than 300 are so employed, 3
+                    persons;</content></paragraph><paragraph id="ID_1438411776543_027" name="c" temporalId="s78_1_c"><num value="c">(c)</num><content>where 300 or more persons but less than 700 are so employed, 5
+                    persons;</content></paragraph><paragraph id="ID_1438411776543_035" name="d" temporalId="s78_1_d"><num value="d">(d)</num><content>where 700 or more are so employed, 8 persons.</content></paragraph></subsection><subsection id="ID_1438411776543_042" name="2" temporalId="s78_2"><num value="2">(2)</num><content>The licensee or lessee, as the case may be, shall be responsible for the making
+                of all arrangements for persons employed by him to undergo such training as may be
+                required in order to obtain a certificate of competency to render first aid to the
+                injured.</content></subsection><subsection id="ID_1438411776543_050" name="3" temporalId="s78_3"><num value="3">(3)</num><content>The licensee or lessee, as the case may be, shall notify the Superintendent of
+                Mines of the name of each person employed by him in the area operating under his
+                licence or lease who is in possession of a certificate of competency to render first
+                aid to the injured, the date of the granting of such certificate and the body
+                granting the same, and any change in any of the aforesaid particulars.</content></subsection><subsection id="ID_1438411776559_005" name="4" temporalId="s78_4"><num value="4">(4)</num><content>Upon application in that behalf and for good cause shown, the Superintendent of
+                Mines may, by writing under his hand and for such periods not exceeding 3 months at
+                any one time as may be specified therein, either suspend altogether the obligation
+                imposed upon the holder of a mining licence or mining lease by paragraph (1) or
+                reduce the minimum number of persons in possession of certificates of competency to
+                render first aid to the injured that such holder is required under that paragraph to
+                ensure is in the area operating under his mining licence or mining
+                lease.</content></subsection><subsection id="ID_1438411776574_005" name="5" temporalId="s78_5"><num value="5">(5)</num><leadIn>For the purposes of this regulation—</leadIn><paragraph id="ID_1438411776574_013" name="a" temporalId="s78_5_a"><num value="a">(a)</num><content>a certificate of competency to render first aid to the injured shall be a
+                    certificate issued by any body recognized for the purpose by the Superintendent
+                    of Mines;</content></paragraph><paragraph id="ID_1438411776574_021" name="b" temporalId="s78_5_b"><num value="b">(b)</num><content>in no case shall any certificate of competency to render first aid to the
+                    injured be valid for more than 3 years from the date thereof;</content></paragraph><paragraph id="ID_1438411776574_029" name="c" temporalId="s78_5_c"><num value="c">(c)</num><content>the period for compliance with paragraph (1) is, in the case of a mining
+                    licence or mining lease in force on the date of the
+                    commencement*
+                    of the Mines (Safety) (Amendment) <ref>Regulations 1963</ref>
+                    <sourceNote><inline class="not_italic">(<ref href="/hk/1963/ln156">L.N.
+                                156 of 1963</ref>)</inline></sourceNote>, 12 months from such date,
+                    and, in the case of any other mining licence or mining lease, 6 months from the
+                    commencement of operations thereunder.</content></paragraph></subsection><sourceNote>(<ref href="/hk/1963/ln156">L.N. 156 of 1963</ref>)</sourceNote><editorialNote type="footnote" id="ID_1611202416706_001">
+            <content>Editorial Note:</content>
+            <table xmlns="http://www.w3.org/1999/xhtml" frame="void" class="font_size_9" width="100%">
+                <colgroup>
+                    <col width="3%"></col>
+                    <col width="97%"></col>
+                </colgroup>
+                <tbody>
+                    <tr>
+                        <td><inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="force_orig_font">*</inline></td>
+                        <td>Commencement date: 13 December 1963.</td>
+                    </tr>
+                </tbody>
+            </table>
+        </editorialNote></section><section id="ID_1438402937196_001" name="s79" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s79"><num value="79">79.</num><heading>Prohibition against sleeping in a mine</heading><content>No person shall sleep in a mine.</content></section><section id="ID_1438402937196_003" name="s80" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s80"><num value="80">80.</num><heading>Prohibition against
+            intoxication.
+            Power to arrest
+            inebriates.
+            Limitation in respect of intoxicating liquor</heading><subsection id="ID_1438411776637_004" name="1" temporalId="s80_1"><num value="1">(1)</num><leadIn>No person in a state of intoxication or in any other condition which may render
+                or be likely to render him incapable of taking care of himself or of persons under
+                his charge shall be—</leadIn><paragraph id="ID_1438411776637_012" name="a" temporalId="s80_1_a"><num value="a">(a)</num><content>allowed to enter a mine; or</content></paragraph><paragraph id="ID_1438411776637_020" name="b" temporalId="s80_1_b"><num value="b">(b)</num><content>near to any working on the surface; or</content></paragraph><paragraph id="ID_1438411776637_028" name="c" temporalId="s80_1_c"><num value="c">(c)</num><content>near to any machinery in motion within any mining
+                    property.</content></paragraph></subsection><subsection id="ID_1438411776637_035" name="2" temporalId="s80_2"><num value="2">(2)</num><content>Any person who has entered a mine or is found in any working or below ground in
+                an unfit state for work owing to intoxication or other like reason may be arrested
+                by the manager or some person duly authorized by him and handed over, without delay,
+                to the nearest police officer or police station.</content></subsection><subsection id="ID_1438411776637_043" name="3" temporalId="s80_3"><num value="3">(3)</num><content>Except with the special permission of the manager, no intoxicating liquor shall
+                be taken by any person into any mine or to any place or work at a mine, and no
+                workman shall otherwise have intoxicating liquor in his possession whilst at work or
+                at a place of work.</content></subsection></section><section id="ID_1438402937212_001" name="s81" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s81"><num value="81">81.</num><heading>Prohibition against unauthorized persons</heading><leadIn>Subject to any directions which may be given by any official of the mine—</leadIn><paragraph id="ID_1438411776668_012" name="a" temporalId="s81_a"><num value="a">(a)</num><leadIn>no workman shall, except in so far as may be necessary for the purpose of getting to and from his work, or in case of emergency or other justifiable cause necessarily connected with his employment—</leadIn><subparagraph id="ID_1438411776668_020" name="i" temporalId="s81_a_i"><num value="i">(i)</num><content>go into any part of any mine other than that part in which he works; or</content></subparagraph><subparagraph id="ID_1438411776668_028" name="ii" temporalId="s81_a_ii"><num value="ii">(ii)</num><content>travel to or from his work by any road other than the proper travelling road; and</content></subparagraph></paragraph><paragraph id="ID_1438411776668_035" name="b" temporalId="s81_b"><num value="b">(b)</num><content>no person other than a mines officer, workman or official of the mine shall enter the mine except with the permission of the manager.</content></paragraph></section><section id="ID_1438402937212_003" name="s82" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s82"><num value="82">82.</num><heading>Requirement as to underground sanitation</heading><subsection id="ID_1438411776683_041" name="1" temporalId="s82_1"><num value="1">(1)</num><content>There shall be provided underground sufficient and suitable accommodation in the way of sanitary convenience.</content></subsection><subsection id="ID_1438411776683_049" name="2" temporalId="s82_2"><num value="2">(2)</num><content>Wood shall not be used in the construction of underground sanitary conveniences.</content></subsection></section><section id="ID_1438402937227_001" name="s83" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s83"><num value="83">83.</num><heading>Prohibition against passing danger signals</heading><content>No person shall, without authority, pass beyond any fence or danger signal, or open any locked door.</content></section><section id="ID_1438402937227_003" name="s84" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s84"><num value="84">84.</num><heading>Prohibition against negligent behaviour</heading><subsection id="ID_1438411776730_011" name="1" temporalId="s84_1"><num value="1">(1)</num><leadIn>No person employed in or about a mine shall negligently or wilfully—</leadIn><paragraph id="ID_1438411776730_019" name="a" temporalId="s84_1_a"><num value="a">(a)</num><content>do anything which is likely to endanger life in a mine or the safety of a mine; or</content></paragraph><paragraph id="ID_1438411776730_027" name="b" temporalId="s84_1_b"><num value="b">(b)</num><content>omit to do anything necessary for the safety of a mine or of the person employed therein.</content></paragraph></subsection><subsection id="ID_1438411776746_005" name="2" temporalId="s84_2"><num value="2">(2)</num><content>No person shall fight or behave in a violent manner in or about a mine.</content></subsection></section></part><part id="ID_1438402937259_002" name="P9" reason="inEffect" startPeriod="2021-03-18" status="operational" temporalId="P9"><num value="9">Part
+            IX</num><heading>Safe
+            Disposal of Waste</heading><section id="ID_1438402937259_004" name="s85" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s85"><num value="85">85.</num><heading>Duty to fence off, and to warn against injurious solutions</heading><content>Water containing poisonous or injurious chemical solutions used in the treatment of ores or for other purposes shall be effectively fenced off to prevent inadvertently access to it. Notice boards shall be placed in suitable places to warn persons from making use thereof.</content></section><section id="ID_1438402937274_002" name="s86" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s86"><num value="86">86.</num><heading>Maximum cyanide content of sand filling</heading><content>When sand is used for filling worked-out underground areas, the moisture content in
+            such sand and the liquid draining therefrom shall not have a higher cyanide content than
+            0.005%
+            expressed as cyanide of potassium.</content><sourceNote>(<ref href="hk/2021/er1">E.R. 1 of 2021</ref>)</sourceNote></section><section id="ID_1438402937274_004" name="s87" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s87"><num value="87">87.</num><heading>Power as to disposal of slime</heading><subsection id="ID_1438411776793_004" name="1" temporalId="s87_1"><num value="1">(1)</num><content>A mines officer may serve on any manager a written order as to the safe disposal of slime or other waste.</content></subsection><subsection id="ID_1438411776793_012" name="2" temporalId="s87_2"><num value="2">(2)</num><content>The provisions of <ref>regulation 103</ref> shall apply to an order made under paragraph (1).</content></subsection></section></part><part id="ID_1438402937290_002" name="P10" reason="inEffect" startPeriod="2021-03-18" status="operational" temporalId="P10"><num value="10">Part
+            X</num><heading>Responsibility</heading><section id="ID_1438402937305_001" name="s88" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s88"><num value="88">88.</num><heading>Duties of responsible persons</heading><subsection id="ID_1438411776808_004" name="1" temporalId="s88_1"><num value="1">(1)</num><leadIn>Unless exempted by the Superintendent of Mines—</leadIn><paragraph id="ID_1438411776808_012" name="a" temporalId="s88_1_a"><num value="a">(a)</num><content>the person responsible for the work under a prospecting licence, shall
+                    dwell in the area to which the licence relates or within 8 kilometres thereof;
+                    and</content></paragraph><paragraph id="ID_1438411776808_020" name="b" temporalId="s88_1_b"><num value="b">(b)</num><content>the person responsible for the work under a mining licence or a mining lease shall dwell in the area to which the licence or lease relates or within 8 kilometres thereof.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1986/ln87">L.N. 87 of 1986</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438411776808_027" name="2" temporalId="s88_2"><num value="2">(2)</num><leadIn>The manager shall be responsible for—</leadIn><paragraph id="ID_1438411776808_035" name="a" temporalId="s88_2_a"><num value="a">(a)</num><content>all work done under a prospecting licence, a mining licence or a mining lease; and</content></paragraph><paragraph id="ID_1438411776824_006" name="b" temporalId="s88_2_b"><num value="b">(b)</num><content>the enforcement of all regulations governing the use, storage and supply of explosives unless he has, in writing, appointed some competent person to be in charge of a specified area. A copy of the written appointment shall be sent to the Superintendent of Mines.</content></paragraph></subsection><subsection id="ID_1438411776824_013" name="3" temporalId="s88_3"><num value="3">(3)</num><content>The manager may delegate his responsibility in respect of welfare, health and housing conditions to a person approved by the Superintendent of Mines.</content></subsection><subsection id="ID_1438411776824_021" name="4" temporalId="s88_4"><num value="4">(4)</num><content>The holder of a prospecting or mining licence or the lessee of a mining lease
+                or the agent of any of them who is not managing his own prospecting or mining
+                operations shall without delay notify the Superintendent of Mines in writing of the
+                name of the person appointed so to
+                do.</content></subsection><subsection id="ID_1438411776824_029" name="5" temporalId="s88_5"><num value="5">(5)</num><content>Every manager shall have in his possession a copy of the Mining Ordinance (<ref href="/hk/cap285">Cap. 285</ref>) and of these regulations and of any amendments to either of them.</content></subsection></section><section id="ID_1438402937305_003" name="s89" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s89"><num value="89">89.</num><heading>Responsibility for working</heading><content>The working of a mine shall be carried on under the control and responsibility of the manager.</content></section><section id="ID_1438402937321_001" name="s90" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s90"><num value="90">90.</num><heading>General responsibility</heading><content>Where under these regulations responsibility is not specifically fixed on any particular person it shall attach to the manager.</content></section><section id="ID_1438402937321_003" name="s91" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s91"><num value="91">91.</num><heading>Manager’s responsibility in relation to dangerous work</heading><content>The manager shall ensure that incompetent or inexperienced workmen are not employed on dangerous work.</content></section><section id="ID_1438402937337_001" name="s92" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s92"><num value="92">92.</num><heading>Responsibility of manager for safety and discipline</heading><content>The manager shall be responsible for the safety and proper discipline of the men employed above and below ground. He shall appoint such persons as may be necessary to assist him to carry out any of the provisions of these regulations.</content></section><section id="ID_1438402937337_003" name="s93" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s93"><num value="93">93.</num><heading>Duty of manager to comply with orders</heading><content>The manager shall be responsible for ensuring compliance with any order made under <ref>section 44(b)</ref> of the Ordinance.</content></section><section id="ID_1438402937337_005" name="s94" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s94"><num value="94">94.</num><heading>Sanitation</heading><content>The manager of a mine shall be responsible for sanitary conditions underground.</content></section><section id="ID_1438402937352_002" name="s95" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s95"><num value="95">95.</num><heading>Duty to enforce provisions regarding storage and supplies of explosives, etc.</heading><content>Every manager shall carry out and enforce all the provisions of these regulations and of any other enactment governing the use, storage and supply of explosives. The manager shall also appoint, in writing, to be officials of a mine such persons as are necessary to assist him to carry out the provisions and in order to ensure the thorough supervision of all operations in or about a mine.</content></section><section id="ID_1438402937383_001" name="s96" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s96"><num value="96">96.</num><heading>Duty to ensure adequate supply of materials and appliances</heading><subsection id="ID_1438411776949_011" name="1" temporalId="s96_1"><num value="1">(1)</num><content>Every manager shall ensure that, at all times, a sufficient supply of timber, proper materials and appliances for the purpose of carrying out the provisions of these regulations and ensuring the safety of a mine and the persons employed therein is always provided.</content></subsection><subsection id="ID_1438411776964_005" name="2" temporalId="s96_2"><num value="2">(2)</num><leadIn>Every manager shall specify the manner in which supports are to be set and advanced and the maximum intervals to be observed on roadways between the supports, and at the face—</leadIn><paragraph id="ID_1438411776964_013" name="a" temporalId="s96_2_a"><num value="a">(a)</num><content>between each row of props;</content></paragraph><paragraph id="ID_1438411776964_021" name="b" temporalId="s96_2_b"><num value="b">(b)</num><content>between adjacent props in the same row;</content></paragraph><paragraph id="ID_1438411776964_029" name="c" temporalId="s96_2_c"><num value="c">(c)</num><content>between the front row of props and the face;</content></paragraph><paragraph id="ID_1438411776964_037" name="d" temporalId="s96_2_d"><num value="d">(d)</num><content>between any holing props or sprags;</content></paragraph><paragraph id="ID_1438411776964_045" name="e" temporalId="s96_2_e"><num value="e">(e)</num><content>between chocks.</content></paragraph></subsection></section></part><part id="ID_1438402937383_003" name="P11" reason="inEffect" startPeriod="2021-03-18" status="operational" temporalId="P11"><num value="11">Part
+            XI</num><heading>Plans
+            Necessary for Safety</heading><section id="ID_1438402937399_001" name="s97" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s97"><num value="97">97.</num><heading>Duty to keep plans</heading><subsection id="ID_1438411776995_004" name="1" temporalId="s97_1"><num value="1">(1)</num><leadIn>The following plans of the property appertaining to the mine to which they
+                relate, on which both true and magnetic meridian shall be shown, shall be kept and
+                brought up to date at least every 6 months—</leadIn><paragraph id="ID_1438411776995_012" name="a" temporalId="s97_1_a"><num value="a">(a)</num><leadIn>Surface plan on a scale of
+                    1:5,000,
+                    1:2,000,
+                    1:1,000
+                    or 1:500 at the discretion of a mines officer showing—  <sourceNote>(<ref href="/hk/1986/ln87">L.N. 87 of 1986</ref>)</sourceNote></leadIn><subparagraph id="ID_1438411776995_020" name="i" temporalId="s97_1_a_i"><num value="i">(i)</num><content>the boundaries and registered numbers of prospecting licences, mining
+                        licences, and mining leases;</content></subparagraph><subparagraph id="ID_1438411776995_028" name="ii" temporalId="s97_1_a_ii"><num value="ii">(ii)</num><content>the outcrops and dip of the lode or lodes or other mineral or alluvial
+                        deposits;</content></subparagraph><subparagraph id="ID_1438411776995_036" name="iii" temporalId="s97_1_a_iii"><num value="iii">(iii)</num><content>all open surface workings, shafts openings, boreholes, tailing and
+                        other dumps;</content></subparagraph><subparagraph id="ID_1438411776995_044" name="iv" temporalId="s97_1_a_iv"><num value="iv">(iv)</num><content>buildings, watercourses, reservoirs, roads, railways, permanent
+                        tramways, electric power lines, public telegraph and telephone lines,
+                        cableways, main pipe lines, fences and all surface objects which require
+                        protection against undermining.</content></subparagraph></paragraph><paragraph id="ID_1438411776995_051" name="b" temporalId="s97_1_b"><num value="b">(b)</num><leadIn>Underground plan on a scale of 1:500, showing—</leadIn><subparagraph id="ID_1438411776995_059" name="i" temporalId="s97_1_b_i"><num value="i">(i)</num><content>all mine workings whether abandoned or in use. Portions of the mine
+                        which have been worked out shall be shown shaded or hatched;</content></subparagraph><subparagraph id="ID_1438411777011_007" name="ii" temporalId="s97_1_b_ii"><num value="ii">(ii)</num><content>underground
+                        dams;</content></subparagraph><subparagraph id="ID_1438411777011_015" name="iii" temporalId="s97_1_b_iii"><num value="iii">(iii)</num><content>faults, dykes and important changes in the dip of the lode or mineral
+                        bed, and where the average dip of the lode or deposit is less than
+                        45
+                        degrees than the horizontal projection shall also be shown on the plan, and
+                        if the average dip is
+                        45
+                        degrees or more the vertical projection as well shall be included.
+                        <sourceNote>(<ref href="hk/2021/er1">E.R. 1 of
+                        2021</ref>)</sourceNote></content></subparagraph></paragraph><paragraph id="ID_1438411777011_022" name="c" temporalId="s97_1_c"><num value="c">(c)</num><content>Ventilation plan indicating the intake airways by blue arrows and the
+                    return airways by red arrows, on a scale of
+                    1:2,000,
+                    showing the system of ventilation in the mine, in particular the general
+                    direction of the air currents, the points where the quantity of air is measured
+                    and all devices for the regulation and distribution of the air. All ventilation
+                    doors, toppings, air crossings, fire dams or seals, and regulators and all
+                    telephones and ambulance stations shall be shown in accordance with the symbols
+                    approved by the Superintendent of Mines.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1986/ln87">L.N. 87 of
+                        1986</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411777027_006" name="d" temporalId="s97_1_d"><num value="d">(d)</num><content>If required by the Superintendent of Mines, an electrical installation plan
+                    showing on a scale of
+                    1:2,000
+                    the position of all fixed electrical appliances in the mine other than
+                    telephones and haulage signalling apparatus. The system of cables for
+                    distribution of current is not required to be shown unless so ordered.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1986/ln87">L.N. 87 of
+                            1986</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438411777027_013" name="2" temporalId="s97_2"><num value="2">(2)</num><content>Where, prior to the coming into
+                operation*
+                of these regulations, plans of mines, as required by paragraph (1) were kept on
+                different scales to those stipulated therein, the mines in question may continue to
+                use the scales for parts of the mine as may be approved, if a mines officer is
+                satisfied that they are satisfactory for all working requirements.</content></subsection><editorialNote type="footnote" id="ID_1611137893822_001">
+            <content>Editorial Note:</content>
+            <table xmlns="http://www.w3.org/1999/xhtml" frame="void" class="font_size_9" width="100%">
+                <colgroup>
+                    <col width="3%"></col>
+                    <col width="97%"></col>
+                </colgroup>
+                <tbody>
+                    <tr>
+                        <td><inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="force_orig_font">*</inline></td>
+                        <td>Operation date: 15 October 1954.</td>
+                    </tr>
+                </tbody>
+            </table>
+        </editorialNote></section><section id="ID_1438402937399_003" name="s98" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s98"><num value="98">98.</num><heading>Duty to deposit copies with the Mines Division, Civil Engineering and Development Department</heading><content>Two copies of the
+            underground
+            plan as required by <ref>regulation 97(1)</ref> duly certified as correct by the manager
+            of a mine shall be deposited at the office of the Mines Division, Civil Engineering and
+            Development Department and shall be brought up to date at the end of each
+            year.</content><sourceNote>(<ref href="/hk/1977/ln214">L.N. 214 of 1977</ref>; <ref href="/hk/1991/ln42">L.N. 42 of 1991</ref>; <ref href="/hk/1991/ln364">L.N. 364 of 1991</ref>; <ref href="/hk/2004/ln104">L.N. 104 of 2004</ref>)</sourceNote></section><section id="ID_1438402937415_002" name="s99" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s99"><num value="99">99.</num><heading>Power of Superintendent to require transverse sections of shafts</heading><content>The Superintendent of Mines may require that transverse sections of the principal shafts in use in a mine shall be made.</content></section><section id="ID_1438402937430_001" name="s100" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s100"><num value="100">100.</num><heading>Power of Superintendent in respect of plans</heading><subsection id="ID_1438411777089_018" name="1" temporalId="s100_1"><num value="1">(1)</num><content>If in respect of any mine the plans required by <ref>regulation 97</ref> are not made, or are not kept as required, the Superintendent of Mines may have such plans or necessary additions thereto made at the expense of the manager.</content></subsection><subsection id="ID_1438411777105_005" name="2" temporalId="s100_2"><num value="2">(2)</num><content>If copies of the underground plan are not deposited as required by <ref>regulation 98</ref> or if copies sent are not made according to the regulations, the Superintendent of Mines may have copies or any necessary additions thereto made at the expense of the manager.</content></subsection></section><section id="ID_1438402937430_003" name="s101" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s101"><num value="101">101.</num><heading>Duty not to make plans public</heading><leadIn>Copies of the plans referred to in <ref>regulations 97 to 100</ref> or any information concerning them shall not be given by any public servant to any unauthorized person; nor shall they be inspected by any unauthorized person without the written permission of the manager: </leadIn><proviso name="proviso" temporalId="s101_proviso">Provided that nothing in this regulation shall prevent officers of the Mines Division, Civil Engineering and Development Department showing or supplying to the public maps showing boundaries of titles and topography.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1977/ln214">L.N. 214 of 1977</ref>; <ref href="/hk/1991/ln42">L.N. 42 of 1991</ref>; <ref href="/hk/1991/ln364">L.N. 364 of 1991</ref>; <ref href="/hk/2004/ln104">L.N. 104 of 2004</ref>)</sourceNote></proviso></section><section id="ID_1438402937446_001" name="s102" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s102"><num value="102">102.</num><heading>Duty regarding abandonment of mine</heading><content>Before a mine or any part of a mine is abandoned or closed down or rendered inaccessible, all underground plans shall be brought up to date, and copies thereof shall be deposited at the office of the Mines Division, Civil Engineering and Development Department.</content><sourceNote>(<ref href="/hk/1977/ln214">L.N. 214 of 1977</ref>; <ref href="/hk/1991/ln42">L.N. 42 of 1991</ref>; <ref href="/hk/1991/ln364">L.N. 364 of 1991</ref>; <ref href="/hk/2004/ln104">L.N. 104 of 2004</ref>)</sourceNote></section></part><part id="ID_1438402937446_003" name="P12" reason="inEffect" startPeriod="2021-03-18" status="operational" temporalId="P12"><num value="12">Part
+            XII</num><heading>General</heading><section id="ID_1438402937461_002" name="s103" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s103"><num value="103">103.</num><heading>Obligation to remedy any dangerous practice</heading><subsection id="ID_1438411777167_011" name="1" temporalId="s103_1"><num value="1">(1)</num><content>Where in exercise of the powers conferred by <ref>section 44</ref> of the Ordinance, a mines officer considers any mine or any matter, thing or practice in or connected with a mine to be dangerous or defective so as, in his opinion, to threaten or tend to the bodily injury of any person, he may give notice in writing thereof to the manager with a copy to the holder of the licence or lessee or his agent and shall state in such notice the particulars in which he considers such mine, matter, thing or practice to be dangerous or defective, and shall require the same to be remedied, either forthwith or within such time as he may specify, and may order work to be suspended until the danger is removed to his satisfaction.</content></subsection><subsection id="ID_1438411777198_005" name="2" temporalId="s103_2"><num value="2">(2)</num><content><leadIn>On receipt of the notice issued under paragraph (1), the manager shall comply therewith, or,
+                    if he intends to object thereto, he shall cease to use the said mine, or part
+                    thereof or thing or practice, as to which notice has been given, and shall
+                    forthwith withdraw all men
+                    from
+                    the danger indicated in such notice until such time as the matter is determined
+                    by the Superintendent of Mines:</leadIn><proviso name="proviso" temporalId="s103_2_proviso">Provided that if, in the opinion of the officer who made the order, there is no immediate danger, he may allow work to proceed during such period, under such restrictions and upon such conditions as he may specify in writing in order to ensure the safety of the workmen.</proviso></content></subsection><subsection id="ID_1438411777198_019" name="3" temporalId="s103_3"><num value="3">(3)</num><paragraph id="ID_1438411777214_001" name="a" temporalId="s103_3_a"><num value="a">(a)</num><content>When the manager is aggrieved by the provisions of any notice given under paragraphs (1) and (2), he may within 7 days after the receipt thereof, state his objection in writing to the Superintendent of Mines and thereupon the matter shall be determined by the Superintendent of Mines or by such officer as he may appoint on that behalf.</content></paragraph><paragraph id="ID_1438411777214_007" name="b" temporalId="s103_3_b"><num value="b">(b)</num><content>The Superintendent of Mines, or such officer, when considering the objection may take cognizance of any reports bearing on the mine, thing or practice considered dangerous or defective and the degree of skill of those to be employed in the mine.</content></paragraph></subsection><subsection id="ID_1438411777214_014" name="4" temporalId="s103_4"><num value="4">(4)</num><content>Any manager aggrieved by a decision made under the provisions of paragraph (3) may, within 15 days of the notification to him of that decision, appeal to the Commissioner.</content></subsection></section><section id="ID_1438402937477_001" name="s104" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s104"><num value="104">104.</num><heading>Dangerous occurrences</heading><content>For the purposes of Part VIII of the Ordinance, a dangerous occurrence means any occurrence specified in the <ref>Second Schedule</ref>.</content><sourceNote>(<ref href="/hk/1963/ln156">L.N. 156 of 1963</ref>)</sourceNote></section><section id="ID_1438402937477_003" name="s105" reason="inEffect" role="regulation" startPeriod="2021-03-18" status="operational" temporalId="s105"><num value="105">105.</num><heading>Offences and penalties</heading><content>Any person who contravenes the provisions of <ref>regulation 3</ref>, <ref>4</ref>,
+                <ref>5</ref>, <ref>8 to 14</ref>, <ref>15(2)</ref>, <ref>17 to 21</ref>,
+                <ref>22(1)</ref>, <ref>22(7)</ref>, <ref>22(8)</ref>, <ref>22(9)</ref>, <ref>23 to
+                28</ref>, <ref>30</ref>, <ref>31</ref>, <ref>32</ref>, <ref>34</ref>,
+                <ref>35(1)</ref>, <ref>36</ref> , <ref>37(1)</ref> or (2), 38 to 54, 55(1) or (3),
+            57, 58, 59, 60(1), 61 to 79, 80(1) or (3), 81 to 86, 88(1), 91, 93, 96, 97(1), 98, 102,
+            or 103(2) shall be guilty of an offence and liable to a fine
+            at
+            level 1 and to imprisonment for 6 months.</content><sourceNote>(<ref href="hk/2021/er1">E.R. 1 of 2021</ref>)</sourceNote></section></part><schedule id="ID_1438402937493_001" name="sch1" reason="inEffect" startPeriod="2021-03-18" status="operational" temporalId="sch1"><num value="1">First
+            Schedule</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap285B/s22">reg. 22</ref>]</note><crossHeading><inline class="not_bold"><inline class="small_caps">Hong
+                Kong</inline></inline></crossHeading><crossHeading><inline class="not_bold">Form
+                I</inline></crossHeading><crossHeading><inline class="not_bold"><inline class="small_caps">Mines (Safety)
+                    Regulations</inline></inline></crossHeading><crossHeading class="align_center"><i><inline class="not_bold">Application for a Mine Blasting
+                    Certificate</inline></i></crossHeading><text>
+            <table xmlns="http://www.w3.org/1999/xhtml" frame="void" width="446">
+                <col width="8%"></col>
+                <col width="8%"></col>
+                <col width="8%"></col>
+                <col width="76%"></col>
+                <tbody>
+                    <tr>
+                        <td colspan="4" class="align_justified">(This form to be submitted to the
+                            Superintendent of Mines. In the case of a Government employee the fee is
+                            waived under <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">regulation 22(3)</ref>.)</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>(1)</td>
+                        <td colspan="2" class="leaders_. align_justified">Full name of applicant
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>(2)</td>
+                        <td colspan="2" class="leaders_. align_justified">Address </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>(3)</td>
+                        <td colspan="2" class="leaders_. align_justified">Year of birth </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>(4)</td>
+                        <td colspan="2" class="leaders_. align_justified">Nationality </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>(5)</td>
+                        <td colspan="2" class="leaders_. align_justified">Identity Card No. </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>(6)</td>
+                        
+                        
+                        <td class="align_justified">(<i>a</i>)</td>
+                        
+                        <td class="align_justified">Have you previously made application in Hong
+                            Kong for the issue of a blasting certificate under the Buildings
+                            Ordinance,
+                                <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap123">Chapter
+                                123</ref>,
+                            or a Mine Blasting Certificate under these regulations?</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td class="align_justified">If so, when?</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td class="align_justified">(<i>b</i>)</td>
+                        <td class="align_justified leaders_.">If the application was granted state
+                            the number, year and reason for now acquiring another </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>(7)</td>
+                        <td class="align_justified" colspan="2">Have you ever held a blasting
+                            certificate or a Mine Blasting Certificate which has at any time been
+                            suspended or revoked?</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td class="align_justified leaders_." colspan="2">If so, give particulars
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>(8)</td>
+                        <td class="align_justified leaders_." colspan="2">Are you in possession of
+                            detonator crimpers? </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>(9)</td>
+                        <td class="align_justified" colspan="2">For which of the following do you
+                            require a Mine Blasting Certificate to be issued—</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        
+                        
+                        <td class="align_justified ">(<i>a</i>)</td>
+                        
+                        
+                        <td class="align_justified leaders_.">For surface or opencast workings </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td class="align_justified ">(<i>b</i>)</td>
+                        <td class="align_justified leaders_.">Mining operations underground </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>(10)</td>
+                        <td class="align_justified leaders_." colspan="2">Are you going to use
+                            electrical shot-firing when blasting? </td>
+                    </tr>
+                    <tr>
+                        <td colspan="4" class="leaders_."></td>
+                    </tr>
+                    <tr>
+                        <td colspan="4">
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        
+                        
+                        <td></td>
+                        
+                        
+                        <td colspan="3">I hereby certify that this is a true statement of the
+                            particulars herein set forth.</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </text><text><table xmlns="http://www.w3.org/1999/xhtml" frame="void" width="446">
+                <col width="20%"></col>
+                <col width="5%"></col>
+                <col width="10%"></col>
+                <col width="5%"></col>
+                <col width="60%"></col>
+                <tbody>
+                    <tr>
+                        <td class="leaders_.">Date </td>
+                        <td></td>
+                        <td class="leaders_.">19 </td>
+                        <td></td>
+                        <td class="leaders_."></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td>
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Signature</center>
+                        </td>
+                    </tr>
+                </tbody>
+            </table><sourceNote>(<ref href="/hk/1976/ln146">L.N. 146 of
+                1976</ref>; <ref href="hk/2021/er1">E.R. 1 of 2021</ref>)</sourceNote><marker role="blank-line"></marker></text><crossHeading>
+            <fillIn class="width_57">_</fillIn>
+        </crossHeading><crossHeading><inline class="not_bold"><inline class="small_caps">Hong
+                Kong</inline></inline></crossHeading><text>
+            <marker role="blank-line"></marker>
+        </text><crossHeading><inline class="not_bold">Form
+                II</inline></crossHeading><text>
+            <marker role="blank-line"></marker>
+        </text><crossHeading><inline class="not_bold"><inline class="small_caps">Mines (Safety)
+                    Regulations</inline></inline></crossHeading><text>
+            <marker role="blank-line"></marker>
+        </text><crossHeading class="align_center"><i><inline class="not_bold">Mine Blasting
+                    Certificate</inline></i></crossHeading><text>
+            <marker role="blank-line"></marker>
+        </text><text>
+            
+            <table xmlns="http://www.w3.org/1999/xhtml" width="446">
+                
+                <col width="20%"></col>
+                
+                <col width="60%"></col>
+                
+                <col width="20%"></col>
+                <tr>
+                    <td class="border_right_0.75"> </td>
+                    
+                    <td class="valign_center border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75 cellpadding_top_5 cellpadding_bottom_5">
+                        
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Original to
+                            grantee.<br></br><br></br>Duplicate
+                            to Superintendent of
+                            Mines.</center>
+                        
+                    </td>
+                    <td class="border_left_0.75"> </td>
+                </tr>
+            </table>
+        </text><crossHeading> </crossHeading><text>
+            <table xmlns="http://www.w3.org/1999/xhtml" frame="void" width="446">
+                <col width="8%"></col>
+                <col width="8%"></col>
+                <col width="8%"></col>
+                <col width="76%"></col>
+                <tbody>
+                    <tr>
+                        <td colspan="4" class="align_justified">This is to certify that—</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>(1)</td>
+                        <td colspan="2" class="leaders_. align_justified">Name</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>(2)</td>
+                        <td colspan="2" class="leaders_. align_justified">Address </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>(3)</td>
+                        <td colspan="2" class="leaders_. align_justified">Age </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>(4)</td>
+                        <td colspan="2" class="leaders_. align_justified">Nationality </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>(5)</td>
+                        <td colspan="2" class="leaders_. align_justified">Identity Card No. </td>
+                    </tr>
+                    
+                    
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    
+                    
+                    <tr>
+                        <td colspan="4" class="align_justified">is qualified to use explosives for
+                            blasting in prospecting or mining operations—</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td class="align_justified">(<i>a</i>)</td>
+                        <td class="align_justified">Surface and opencast workings.</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td class="align_justified ">(<i>b</i>)</td>
+                        <td class="align_justified">Mining operations underground.</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td class="align_justified ">(<i>c</i>)</td>
+                        <td class="align_justified">Qualified to use electrical shot-firing
+                            equipment.</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        
+                        <td colspan="3" class="align_justified">(The
+                            issuing officer must cross out the words not
+                            required.)</td>
+                    </tr>
+                    <tr>
+                        <td colspan="4">
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="4">
+                            <text xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Issued this<inline class="width_50"> </inline>day of<inline class="width_50"> </inline>19<inline class="width_40"> </inline> .</text>
+                        </td>
+                    </tr>
+                    
+                    
+                </tbody>
+            </table>
+        </text><text>
+            <table xmlns="http://www.w3.org/1999/xhtml" width="450">
+                <col width="7%"></col>
+                <col width="33%"></col>
+                <col width="60%"></col>
+                <tr>
+                    <td class="border_right_0.75"> </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <br xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"></br>
+                        <br xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"></br>
+                        <br xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"></br>
+                        <br xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"></br>
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Photograph</center>
+                        <br xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"></br>
+                        <br xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"></br>
+                        <br xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"></br>
+                        <br xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"></br>
+                    </td>
+                    <td class="border_left_0.75"> </td>
+                </tr>
+            </table>
+            
+            
+            <br></br>
+            
+            
+        </text><crossHeading> </crossHeading><text><table xmlns="http://www.w3.org/1999/xhtml" frame="void" width="446">
+                <col width="40%"></col>
+                <col width="5%"></col>
+                <col width="20%"></col>
+                <col width="35%"></col>
+                <tbody>
+                    <tr>
+                        <td class="leaders_."></td>
+                        <td></td>
+                        <td class="align_right">Signature </td>
+                        <td class="leaders_."></td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Signature of
+                                holder)</center>
+                        </td>
+                        <td></td>
+                        <td></td>
+                        <td>
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Superintendent of
+                                Mines</center>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                </tbody>
+            </table><sourceNote>(<ref href="/hk/1971/ln15">L.N. 15 of 1971</ref>; <ref href="/hk/1997/ln79">L.N. 79 of
+                1997</ref>; <ref href="hk/2021/er1">E.R. 1 of 2021</ref>)</sourceNote></text></schedule><schedule id="ID_1438402937508_001" name="sch2" reason="inEffect" startPeriod="2021-03-18" status="operational" temporalId="sch2"><num value="2">Second
+            Schedule</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap285B/s104">reg. 104</ref>]</note><heading>Dangerous
+            Occurrences<marker role="blank-line"></marker><marker role="blank-line"></marker></heading><text><table xmlns="http://www.w3.org/1999/xhtml" frame="void" width="446">
+                <col width="8%"></col>
+                <col width="92%"></col>
+                <tbody>
+                    <tr>
+                        <td>(1)</td>
+                        <td class="align_justified">Collapse of
+                            working</td>
+                    </tr>
+                    <tr>
+                        <td>(2)</td>
+                        <td class="align_justified">Collapse of
+                            buildings</td>
+                    </tr>
+                    <tr>
+                        <td>(3)</td>
+                        <td class="align_justified">Failure or defect of any appliance used for
+                            hoisting
+                            purposes</td>
+                    </tr>
+                    <tr>
+                        <td>(4)</td>
+                        <td class="align_justified">Any damage to tunnel, shaft or winze timbering,
+                            or other form of support, tending materially to increase the hazards of
+                            mining</td>
+                    </tr>
+                    <tr>
+                        <td>(5)</td>
+                        <td class="align_justified">All cases of fire above or below
+                            ground</td>
+                    </tr>
+                    <tr>
+                        <td>(6)</td>
+                        <td class="align_justified">All cases of ignition of gas or dust below
+                            ground, or of the existence of gas below
+                            ground</td>
+                    </tr>
+                    <tr>
+                        <td>(7)</td>
+                        <td class="align_justified">All cases of inrush of water, causing
+                            flooding</td>
+                    </tr>
+                    <tr>
+                        <td>(8)</td>
+                        <td class="align_justified">Electrical short circuits or failure of
+                            machinery, plant or apparatus, involving stoppage or
+                            disuse</td>
+                    </tr>
+                    <tr>
+                        <td>(9)</td>
+                        <td class="align_justified">Explosion of a receiver or container used for
+                            the storage at a pressure greater than atmospheric pressure of any gas
+                            or gases (including air) or any liquid or solid resulting from
+                            compression of
+                            gases</td>
+                    </tr>
+                    <tr>
+                        <td>(10)</td>
+                        <td class="align_justified">Any premature or unexpected explosion or
+                            ignition of
+                            explosives</td>
+                    </tr>
+                    <tr>
+                        <td>(11)</td>
+                        <td class="align_justified">Any case of asphyxiation affecting a partial or
+                            total loss of physical
+                            control</td>
+                    </tr>
+                    <tr>
+                        <td>(12)</td>
+                        <td class="align_justified">Bursting of a revolving vessel, wheel,
+                            grindstone or grinding wheel moved by mechanical
+                            power</td>
+                    </tr>
+                </tbody>
+            </table><sourceNote>(<ref href="/hk/1963/ln156">L.N. 156 of
+                1963</ref>; <ref href="hk/2021/er1">E.R. 1 of 2021</ref>)</sourceNote></text></schedule><schedule id="ID_1438402937508_003" name="sch3" reason="inEffect" startPeriod="2021-03-18" status="operational" temporalId="sch3"><num value="3">Third
+            Schedule</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap285B/s22">reg. 22</ref>]</note><heading>Fees
+            in respect of Mine Blasting Certificates</heading><text><table xmlns="http://www.w3.org/1999/xhtml" width="446">
+                <col width="6%"></col>
+                <col width="80%"></col>
+                <col width="4%"></col>
+                <col width="10%"></col>
+                <tr>
+                    <td>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td></td>
+                    <td>
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Fee</center>
+                    </td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td>
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">$ </center>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td></td>
+                    <td>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                </tr>
+                <tr>
+                    <td> 1. </td>
+                    <td class="align_justified"> Issue of mine blasting certificate under <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">regulation
+                        22(4)(a)</ref><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td></td>
+                    <td class="align_right cellpadding_right_8">5,460
+                    </td>
+                </tr>
+                <tr>
+                    <td> 2. </td>
+                    <td class="align_justified">Renewal of mine blasting certificate under <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">regulation
+                        22(5)(a)</ref><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td></td>
+                    <td class="align_right cellpadding_right_8">
+                        2,650
+                    </td>
+                </tr>
+                <tr>
+                    <td> 3. </td>
+                    <td class="align_justified"> Replacement of worn or defaced mine blasting
+                        certificate under <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">regulation
+                        22(5)(c)</ref><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td></td>
+                    <td class="align_right cellpadding_right_8">
+                        215
+                    </td>
+                </tr>
+                <tr>
+                    <td> 4. </td>
+                    <td class="align_justified"> Endorsement of mine blasting certificate under <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">regulation
+                        22(6)(b)</ref><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td></td>
+                    <td class="align_right cellpadding_right_8"> 2,750 </td>
+                </tr>
+                <tr>
+                    <td> 5. </td>
+                    <td class="align_justified"> Replacement of lost mine blasting certificate under
+                            <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">regulation
+                            22(10)</ref></td>
+                    <td></td>
+                    <td class="align_right cellpadding_right_8">
+                        215
+                    </td>
+                </tr>
+            </table><sourceNote>(<ref href="/hk/1992/ln346">L.N. 346 of 1992</ref>; <ref href="/hk/1994/ln67">L.N. 67
+                    of 1994</ref>; <ref href="/hk/1995/ln62">L.N. 62 of 1995</ref>; <ref href="/hk/1996/ln272">L.N. 272 of 1996</ref>; <ref href="/hk/1997/ln477">L.N.
+                    477 of 1997</ref>; <ref href="/hk/2014/ln123">L.N. 123 of 2014</ref>; <ref href="hk/2015/ln209">L.N. 209 of 2015</ref>; <ref href="hk/2016/ln159">L.N. 159
+                    of
+                2016</ref>; <ref href="hk/2018/ln16">L.N. 16 of
+                2018</ref>; <ref href="hk/2018/ln217">L.N. 217 of
+                2018</ref>)</sourceNote></text></schedule></main></subLeg>

@@ -1,0 +1,1308 @@
+<?xml version="1.0" encoding="UTF-8"?><subLeg xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhtml="http://www.w3.org/1999/xhtml" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd" xml:lang="en"><meta><docName>Cap. 295 sub. leg. F</docName><docType>cap</docType><docNumber>295F</docNumber><docStatus>In effect</docStatus><dc:identifier>/hk/cap295F!en</dc:identifier><dc:date>2025-01-10</dc:date><dc:subject>legislation</dc:subject><dc:language>en</dc:language><dc:publisher>DoJ</dc:publisher><dc:rights>the Government of the Hong Kong Special Administrative Region</dc:rights></meta><main xml:lang="en" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd"><docTitle id="ID_1438402952671_003" name="shortTitle" reason="inEffect" status="operational" temporalId="shortTitle" startPeriod="2023-05-05">Dangerous Goods (Shipping) Regulation
+            2012</docTitle><enactingFormula role="empoweringSection">(<ref href="/hk/cap295/s5">Cap. 295,
+                sections
+                5</ref> and <ref href="/hk/cap295/s5AA">5AA</ref>)</enactingFormula><sourceNote>(Enacting provision omitted—<ref href="/hk/2012/er2">E.R. 2 of
+            2012</ref>)</sourceNote><commencementNote>[31 March 2022]<sourceNote> <inline class="width_6"></inline><ref href="hk/2022/ln6">L.N. 6 of
+            2022</ref></sourceNote></commencementNote><part id="ID_1438402952687_002" name="P1" reason="inEffect" status="operational" temporalId="P1" startPeriod="2022-03-31"><num value="1">Part 1</num><heading>Preliminary</heading><section id="ID_1438402952703_001" name="s1" reason="omittedAsSpent" status="omitted" temporalId="s1" startPeriod="2022-06-23"><num value="1">1.</num><sourceNote>(Omitted as spent—<ref href="hk/2022/er3">E.R. 3 of 2022</ref>)</sourceNote></section><section id="ID_1438402952718_001" name="s2" reason="inEffect" status="operational" temporalId="s2" startPeriod="2025-01-10"><num value="2">2.</num><heading>Interpretation</heading><leadIn>In this Regulation—</leadIn><def name="ApprovedContainerTerminal"><term>approved container terminal</term> (<term xml:lang="zh-Hant-HK">認可貨櫃碼頭</term>) means a container terminal specified in
+                <ref>Schedule 2</ref>;</def><def name="ApprovedWharf"><term>approved wharf</term> (<term xml:lang="zh-Hant-HK">認可碼頭</term>) means a wharf specified in <ref>Schedule 1</ref>; <sourceNote>(<ref href="/hk/2024/27">27 of 2024 s. 3</ref>)</sourceNote></def><def name="CertificateOfRegistry">
+            <leadIn><term>certificate of registry</term> (<term xml:lang="zh-Hant-HK">註冊證明書</term>)
+                means—</leadIn>
+            <paragraph id="ID_1438411822703_033" name="a" temporalId="s2_a"><num value="a">(a)</num><content>a certificate of registry or certificate of provisional registry granted
+                    under the Merchant Shipping (Registration) Ordinance (<ref href="/hk/cap415">Cap. 415</ref>); or</content></paragraph>
+            <paragraph id="ID_1438411822703_041" name="b" temporalId="s2_b"><num value="b">(b)</num><content>a certificate of registry or other document granted in a place outside Hong
+                    Kong and similar or equivalent in effect to a certificate referred to in
+                    paragraph (a);</content></paragraph>
+        </def><def name="Class1DangerousGoods"><term>Class 1 dangerous goods</term> (<term xml:lang="zh-Hant-HK">第1類危險品</term>) means any substance or article falling within
+            the class known as “Class 1—Explosives” in the IMDG Code;</def><def name="Class2DangerousGoods">
+            <leadIn><term>Class 2 dangerous goods</term> (<term xml:lang="zh-Hant-HK">第2類危險品</term>)—</leadIn>
+            <paragraph id="ID_1438411822719_019" name="a" temporalId="s2_a"><num value="a">(a)</num><content>in <ref>Parts 2</ref> and <ref>3</ref>, means any substance or article
+                    falling within the class known as “Class 2—Gases” in the IMDG Code;
+                    and</content></paragraph>
+            <paragraph id="ID_1438411822719_027" name="b" temporalId="s2_b"><num value="b">(b)</num><leadIn>in <ref>Part 4</ref>, means—</leadIn><subparagraph id="ID_1438411822719_035" name="i" temporalId="s2_b_i"><num value="i">(i)</num><content>any substance or article falling within the class known as “Class
+                        2—Gases” in the IMDG Code; or</content></subparagraph><subparagraph id="ID_1438411822719_043" name="ii" temporalId="s2_b_ii"><num value="ii">(ii)</num><content>Class 2 dangerous goods as defined by <ref>section 2</ref> of the
+                        Dangerous Goods (Application and Exemption) <ref>Regulation 2012</ref> (<ref href="/hk/cap295E">Cap. 295 sub. leg. E</ref>);
+                        <sourceNote>(<ref href="/hk/2012/er2">E.R. 2 of
+                        2012</ref>)</sourceNote></content></subparagraph></paragraph>
+        </def><def name="Class3DangerousGoods">
+            <leadIn><term>Class 3 dangerous goods</term> (<term xml:lang="zh-Hant-HK">第3類危險品</term>)—</leadIn>
+            <paragraph id="ID_1438411822719_056" name="a" temporalId="s2_a"><num value="a">(a)</num><content>in <ref>Parts 2</ref> and <ref>3</ref>, means any substance or article
+                    falling within the class known as “Class 3—Flammable liquids” in the IMDG Code;
+                    and</content></paragraph>
+            <paragraph id="ID_1438411822719_064" name="b" temporalId="s2_b"><num value="b">(b)</num><leadIn>in <ref>Part 4</ref>, means—</leadIn><subparagraph id="ID_1438411822735_006" name="i" temporalId="s2_b_i"><num value="i">(i)</num><content>any substance or article falling within the class known as “Class
+                        3—Flammable liquids” in the IMDG Code; or</content></subparagraph><subparagraph id="ID_1438411822735_014" name="ii" temporalId="s2_b_ii"><num value="ii">(ii)</num><content>Class 3 dangerous goods as defined by <ref>section 2</ref> of the
+                        Dangerous Goods (Application and Exemption) <ref>Regulation 2012</ref> (<ref href="/hk/cap295E">Cap. 295 sub. leg. E</ref>);
+                        <sourceNote>(<ref href="/hk/2012/er2">E.R. 2 of
+                        2012</ref>)</sourceNote></content></subparagraph></paragraph>
+        </def><def name="Class3ADangerousGoods"><term>Class 3A dangerous goods</term> (<term xml:lang="zh-Hant-HK">第3A類危險品</term>) has the meaning given by <ref>section 2</ref>
+            of the Dangerous Goods (Application and Exemption) <ref>Regulation 2012</ref> (<ref href="/hk/cap295E">Cap. 295 sub. leg. E</ref>);
+            <sourceNote>(<ref href="/hk/2012/er2">E.R. 2 of
+            2012</ref>)</sourceNote></def><def name="ConsumerPacks"><term>consumer packs</term> (<term xml:lang="zh-Hant-HK">消費裝</term>) has the meaning given by <ref>section 2</ref> of the Dangerous Goods
+            (Application and Exemption) <ref>Regulation 2012</ref> (<ref href="/hk/cap295E">Cap. 295
+                sub. leg. E</ref>);
+            <sourceNote>(<ref href="/hk/2012/er2">E.R. 2 of
+            2012</ref>)</sourceNote></def><def name="ConveyancePermit"><term>conveyance permit</term> (<term xml:lang="zh-Hant-HK">運送許可證</term>) means a permit granted under <ref>section 19</ref>;</def><def name="DangerousGoodsAnchorage"><term>dangerous goods anchorage</term> (<term xml:lang="zh-Hant-HK">危險品碇泊處</term>) has the meaning given by <ref>regulation
+                2(1)</ref> of the Shipping and Port Control Regulations (<ref href="/hk/cap313A">Cap. 313 sub. leg. A</ref>);</def><def name="Director"><term>Director</term> (<term xml:lang="zh-Hant-HK">處長</term>) means the
+            Director of Marine;</def><def name="EntertainmentSpecialEffects"><term>entertainment special effects</term> (<term xml:lang="zh-Hant-HK">娛樂特別效果</term>) has the meaning given by <ref>section 2</ref>
+            of the Entertainment Special Effects Ordinance (<ref href="/hk/cap560">Cap.
+            560</ref>);</def><def name="FreightContainer"><term>freight container</term> (<term xml:lang="zh-Hant-HK">貨櫃</term>) has the meaning given by <ref>section 2(1)</ref> of the Freight
+            Containers (Safety) Ordinance (<ref href="/hk/cap506">Cap. 506</ref>);</def><def name="Handle">
+            <leadIn><term>handle</term> (<term xml:lang="zh-Hant-HK">處理</term>), in relation to
+                dangerous goods, includes—</leadIn>
+            <paragraph id="ID_1438411822750_019" name="a" temporalId="s2_a"><num value="a">(a)</num><content>loading, unloading, discharging and transferring the dangerous goods;
+                    and</content></paragraph>
+            <paragraph id="ID_1438411822750_027" name="b" temporalId="s2_b"><num value="b">(b)</num><content>cleaning, purging, gas freeing, ullaging, sounding, sampling and similar
+                    operations required for the carriage of the dangerous goods by a
+                    vessel;</content></paragraph>
+        </def><def name="InBulk"><term>in bulk</term> (<term xml:lang="zh-Hant-HK">散裝</term>), in relation
+            to dangerous goods, means carried directly and without intermediate form of containment
+            in a hold, tank or cargo space fitted into or forming part of the construction of a
+            vessel;</def><def name="Master">
+            <leadIn><term>master</term> (<term xml:lang="zh-Hant-HK">船長</term>)—</leadIn>
+            <paragraph id="ID_1438411822750_048" name="a" temporalId="s2_a"><num value="a">(a)</num><content>in relation to a type 1 or type 2 vessel, means the person for the time
+                    being in charge or command of the vessel; and</content></paragraph>
+            <paragraph id="ID_1438411822750_056" name="b" temporalId="s2_b"><num value="b">(b)</num><leadIn>in relation to a type 3 vessel, means—</leadIn><subparagraph id="ID_1438411822750_064" name="i" temporalId="s2_b_i"><num value="i">(i)</num><content>the person for the time being in charge or command of the vessel;
+                        or</content></subparagraph><subparagraph id="ID_1438411822750_072" name="ii" temporalId="s2_b_ii"><num value="ii">(ii)</num><content>in the absence of such a person or if the vessel is for the time being
+                        in the charge or command of a person under the age of 16, the owner of the
+                        vessel;</content></subparagraph></paragraph>
+        </def><def name="NonpyrotechnicSpecialEffectsMaterial"><term>non-pyrotechnic special effects
+                material</term> (<term xml:lang="zh-Hant-HK">非煙火特別效果物料</term>) means any dangerous
+            goods that are materials within the meaning of non-pyrotechnic special effects material
+            under <ref>section 2</ref> of the Entertainment Special Effects Ordinance (<ref href="/hk/cap560">Cap. 560</ref>);</def><def name="Owner">
+            <leadIn><term>owner</term> (<term xml:lang="zh-Hant-HK">船東</term>)—</leadIn>
+            <paragraph id="ID_1438411822766_012" name="a" temporalId="s2_a"><num value="a">(a)</num><leadIn>in relation to a type 1 or type 2 vessel, includes—</leadIn><subparagraph id="ID_1438411822766_020" name="i" temporalId="s2_a_i"><num value="i">(i)</num><content>the person named as the owner of the vessel in the certificate of
+                        registry issued in respect of the vessel;</content></subparagraph><subparagraph id="ID_1438411822766_028" name="ii" temporalId="s2_a_ii"><num value="ii">(ii)</num><content>if the vessel is chartered by demise, the demise charterer and any
+                        person acting as the agent of the charterer; and</content></subparagraph><subparagraph id="ID_1438411822766_036" name="iii" temporalId="s2_a_iii"><num value="iii">(iii)</num><content>if the vessel is managed by a vessel management company, the company
+                        and any person acting as the agent of the company; and</content></subparagraph></paragraph>
+            <paragraph id="ID_1438411822766_043" name="b" temporalId="s2_b"><num value="b">(b)</num><content>in relation to a type 3 vessel, includes the person named as the owner of
+                    the vessel in a certificate of ownership issued in respect of the vessel under
+                    the Merchant Shipping (Local Vessels) (Certification and Licensing) Regulation
+                        (<ref href="/hk/cap548D">Cap. 548 sub. leg. D</ref>);</content></paragraph>
+        </def><def name="Passenger">
+            <leadIn><term>passenger</term> (<term xml:lang="zh-Hant-HK">乘客</term>) means any person
+                carried on board a vessel except—</leadIn>
+            <paragraph id="ID_1438411822766_057" name="a" temporalId="s2_a"><num value="a">(a)</num><content>a person employed or engaged in any capacity on board the vessel on the
+                    business of the vessel;</content></paragraph>
+            <paragraph id="ID_1438411822781_006" name="b" temporalId="s2_b"><num value="b">(b)</num><content>a person on board the vessel either in pursuance of the obligation laid on
+                    the master to carry shipwrecked, distressed or other persons, or by reason of
+                    any circumstances that neither the master nor the owner could have
+                    prevented;</content></paragraph>
+            <paragraph id="ID_1438411822781_014" name="c" temporalId="s2_c"><num value="c">(c)</num><content>a person who handles or supervises the handling of any dangerous goods,
+                    carried in or on a motor vehicle on board the vessel; and</content></paragraph>
+            <paragraph id="ID_1438411822781_022" name="d" temporalId="s2_d"><num value="d">(d)</num><content>a public officer who, in carrying out his or her duties, handles or
+                    supervises the handling of any dangerous goods on board the vessel;</content></paragraph>
+        </def><def name="PyrotechnicSpecialEffectsMaterial"><term>pyrotechnic special effects
+                material</term> (<term xml:lang="zh-Hant-HK">煙火特別效果物料</term>) means any dangerous
+            goods that are materials within the meaning of pyrotechnic special effects material
+            under <ref>section 2</ref> of the Entertainment Special Effects Ordinance (<ref href="/hk/cap560">Cap. 560</ref>);</def><def name="Schedule1DangerousGoods"><term><ref>Schedule 1</ref> dangerous goods</term>
+                (<term xml:lang="zh-Hant-HK"><ref>附表1</ref>危險品</term>) has the meaning given by
+                <ref>section 2</ref> of the Dangerous Goods (Application and Exemption)
+                <ref>Regulation 2012</ref> (<ref href="/hk/cap295E">Cap. 295 sub. leg. E</ref>);
+            <sourceNote>(<ref href="/hk/2012/er2">E.R. 2 of
+            2012</ref>)</sourceNote></def><def name="Schedule2DangerousGoods"><term><ref>Schedule 2</ref> dangerous goods</term>
+                (<term xml:lang="zh-Hant-HK"><ref>附表2</ref>危險品</term>) has the meaning given by
+                <ref>section 2</ref> of the Dangerous Goods (Application and Exemption)
+                <ref>Regulation 2012</ref> (<ref href="/hk/cap295E">Cap. 295 sub. leg. E</ref>);
+            <sourceNote>(<ref href="/hk/2012/er2">E.R. 2 of
+            2012</ref>)</sourceNote></def><def name="TropicalCycloneWarningSignal"><term>tropical cyclone warning signal</term> (<term xml:lang="zh-Hant-HK">熱帶氣旋警告訊號</term>) means a tropical cyclone warning signal
+            issued by the Hong Kong Observatory;</def><def name="Type1Vessel"><term>type 1 vessel</term> (<term xml:lang="zh-Hant-HK">第1類船隻</term>) means any vessel other than a type 2 or type 3 vessel;</def><def name="Type2Vessel"><term>type 2 vessel</term> (<term xml:lang="zh-Hant-HK">第2類船隻</term>) means any vessel that is specifically designed or constructed for the
+            carriage of Class 2, 3 or 3A dangerous goods in bulk but excludes a type 3 vessel;</def><def name="Type3Vessel">
+            <leadIn><term>type 3 vessel</term> (<term xml:lang="zh-Hant-HK">第3類船隻</term>) means any
+                vessel, whether or not specifically designed or constructed for the carriage of
+                Class 2, 3 or 3A dangerous goods in bulk, that is—</leadIn>
+            <paragraph id="ID_1438411822797_033" name="a" temporalId="s2_a"><num value="a">(a)</num><content>used solely within the waters of Hong Kong, whether registered under the
+                    Merchant Shipping (Registration) Ordinance (<ref href="/hk/cap415">Cap.
+                        415</ref>) or in a place outside Hong Kong;</content></paragraph>
+            <paragraph id="ID_1438411822797_041" name="b" temporalId="s2_b"><num value="b">(b)</num><content>regularly employed in trading to or from Hong Kong unless registered in a
+                    place outside Hong Kong;</content></paragraph>
+            <paragraph id="ID_1438411822797_049" name="c" temporalId="s2_c"><num value="c">(c)</num><content>possessed or used for pleasure purposes in the waters of Hong Kong;
+                    or</content></paragraph>
+            <paragraph id="ID_1438411822797_057" name="d" temporalId="s2_d"><num value="d">(d)</num><content>employed in sea fishing plying regularly in the waters of Hong Kong, or
+                    using the waters of Hong Kong as a base;</content></paragraph>
+        </def><def name="WesternDangerousGoodsAnchorage"><term>western dangerous goods anchorage</term>
+                (<term xml:lang="zh-Hant-HK">西面危險品碇泊處</term>) means the area of the waters of Hong
+            Kong specified as the western dangerous goods anchorage in the <ref>Seventh
+                Schedule</ref> to the Shipping and Port Control Regulations (<ref href="/hk/cap313A">Cap. 313 sub. leg. A</ref>).</def><sourceNote>(<ref href="/hk/2024/27">27 of 2024 s. 3</ref>)</sourceNote></section><section id="ID_1438402952968_001" name="s3" reason="inEffect" status="operational" temporalId="s3" startPeriod="2022-03-31"><num value="3">3.</num><heading>Meaning of
+                <term>dangerous
+                goods</term> in this Regulation</heading><subsection id="ID_1438411822953_011" name="1" temporalId="s3_1"><num value="1">(1)</num><leadIn>In this Regulation, subject to subsection (2),
+                    <term>dangerous
+                    goods</term>
+                (危險品)
+                means—</leadIn><paragraph id="ID_1438411822953_019" name="a" temporalId="s3_1_a"><num value="a">(a)</num><content>any substance or article falling within a class in the IMDG Code;</content></paragraph><paragraph id="ID_1438411822953_027" name="b" temporalId="s3_1_b"><num value="b">(b)</num><content><ref>Schedule 1</ref> dangerous goods;</content></paragraph><paragraph id="ID_1438411822953_035" name="c" temporalId="s3_1_c"><num value="c">(c)</num><content><ref>Schedule 2</ref> dangerous goods; or</content></paragraph><paragraph id="ID_1438411822953_043" name="d" temporalId="s3_1_d"><num value="d">(d)</num><leadIn>any empty receptacle or any residue in a hold, tank or cargo space fitted
+                    into or forming part of the construction of a vessel, that has been used
+                    previously for the carriage of any dangerous goods mentioned in paragraph (a),
+                    (b) or (c), unless after having been so used, the receptacle, hold, tank or
+                    cargo space has been—</leadIn><subparagraph id="ID_1438411822953_051" name="i" temporalId="s3_1_d_i"><num value="i">(i)</num><content>cleaned and dried;</content></subparagraph><subparagraph id="ID_1438411822953_059" name="ii" temporalId="s3_1_d_ii"><num value="ii">(ii)</num><content>gas freed or ventilated where appropriate; or</content></subparagraph><subparagraph id="ID_1438411822953_067" name="iii" temporalId="s3_1_d_iii"><num value="iii">(iii)</num><content>if the previous contents were radioactive, cleaned and adequately
+                        closed.</content></subparagraph></paragraph></subsection><subsection id="ID_1438411822953_073" name="2" temporalId="s3_2"><num value="2">(2)</num><content>In this Regulation, dangerous goods does not include any dangerous goods
+                referred to in subsection (1) that form part of the equipment, stores or fuel of a
+                vessel.</content></subsection></section><section id="ID_1438402953015_002" name="s4" reason="inEffect" status="operational" temporalId="s4" startPeriod="2022-03-31"><num value="4">4.</num><heading>Meaning of carrying on board Class 2, 3 or 3A dangerous goods in relation to type 2
+            or type 3 vessels</heading><subsection id="ID_1438411822984_011" name="1" temporalId="s4_1"><num value="1">(1)</num><content>For the purposes of this Regulation, a type 2 or type 3 vessel that has carried
+                on board Class 2, 3 or 3A dangerous goods in bulk is to be regarded as carrying
+                those dangerous goods on board the vessel until a gas-free certificate is issued in
+                respect of the vessel by a person approved by the Director.</content></subsection><subsection id="ID_1438411822984_019" name="2" temporalId="s4_2"><num value="2">(2)</num><content>A certificate issued under subsection (1) must be in a form specified by the
+                Director.</content></subsection><subsection id="ID_1438411822984_027" name="3" temporalId="s4_3"><num value="3">(3)</num><content>The Director may approve a person for the purposes of subsection (1) if
+                satisfied that the person possesses the necessary qualifications and competence to
+                issue a gas-free certificate.</content></subsection><subsection id="ID_1438411822984_035" name="4" temporalId="s4_4"><num value="4">(4)</num><leadIn>In this section—</leadIn><def name="GasfreeCertificate"><term>gas-free certificate</term> (<term xml:lang="zh-Hant-HK">氣體清除證明書</term>) means a certificate certifying that a
+                vessel is free of gas.</def></subsection></section><section id="ID_1438402953108_001" name="s5" reason="inEffect" status="operational" temporalId="s5" startPeriod="2022-03-31"><num value="5">5.</num><heading>Conveyance of dangerous goods by type 1 or type 2 vessels exempted from operation
+            of <ref>section 6</ref> of Ordinance</heading><text><ref>Section 6</ref> of the Ordinance does not apply to the conveyance of dangerous
+            goods by a type 1 or type 2 vessel.</text></section><section id="ID_1438402953124_002" name="s6" reason="inEffect" status="operational" temporalId="s6" startPeriod="2022-03-31"><num value="6">6.</num><heading>Dangerous goods for personal medical use exempted</heading><text>Dangerous goods of any reasonable quantity carried by a person for personal medical
+            use on board a vessel are exempt from the operation of this Regulation.</text></section></part><part id="ID_1438402953139_001" name="P2" reason="inEffect" status="operational" temporalId="P2" startPeriod="2022-03-31"><num value="2">Part 2</num><heading>Provisions Relating to Type 1 Vessels</heading><section id="ID_1438402953139_003" name="s7" reason="inEffect" status="operational" temporalId="s7" startPeriod="2022-03-31"><num value="7">7.</num><heading>Submission of dangerous goods manifests</heading><subsection id="ID_1438411823047_011" name="1" temporalId="s7_1"><num value="1">(1)</num><leadIn>A type 1 vessel carrying on board dangerous goods must not enter the waters of
+                Hong Kong unless—</leadIn><paragraph id="ID_1438411823047_019" name="a" temporalId="s7_1_a"><num value="a">(a)</num><content>a manifest in the form specified by the Director containing the particulars
+                    of the dangerous goods has first been submitted to the Director; or</content></paragraph><paragraph id="ID_1438411823047_027" name="b" temporalId="s7_1_b"><num value="b">(b)</num><content>the Director grants permission for the vessel to enter those waters without
+                    a manifest having been submitted in accordance with paragraph (a) subject to the
+                    requirement which may be imposed by the Director under subsection (2).</content></paragraph></subsection><subsection id="ID_1438411823047_034" name="2" temporalId="s7_2"><num value="2">(2)</num><content>For the purposes of subsection <ref>(1)(b)</ref>, the Director may require the
+                owner or master of the vessel to submit the manifest in accordance with subsection
+                    <ref>(1)(a)</ref> as soon as reasonably practicable after the vessel has entered
+                the waters of Hong Kong.</content></subsection><subsection id="ID_1438411823062_005" name="3" temporalId="s7_3"><num value="3">(3)</num><leadIn>A person must not include any particulars in the manifest which the person knows
+                or has reason to believe to be—</leadIn><paragraph id="ID_1438411823062_013" name="a" temporalId="s7_3_a"><num value="a">(a)</num><content>false in any material particular; or</content></paragraph><paragraph id="ID_1438411823062_021" name="b" temporalId="s7_3_b"><num value="b">(b)</num><content>misleading by reason of the omission of any material particular.</content></paragraph></subsection><subsection id="ID_1438411823062_028" name="4" temporalId="s7_4"><num value="4">(4)</num><content>If subsection <ref>(1)(a)</ref> is contravened, both the owner and the master
+                of the vessel commit an offence and each is liable on conviction to a fine at level
+                3 and to imprisonment for 2 months.</content></subsection><subsection id="ID_1438411823062_036" name="5" temporalId="s7_5"><num value="5">(5)</num><content>A person who fails to comply with the requirement imposed on that person under
+                subsection (2) commits an offence and is liable on conviction to a fine at level 3
+                and to imprisonment for 2 months.</content></subsection><subsection id="ID_1438411823062_044" name="6" temporalId="s7_6"><num value="6">(6)</num><content>A person who contravenes subsection (3) commits an offence and is liable on
+                conviction to a fine at level 3 and to imprisonment for 2 months.</content></subsection></section><section id="ID_1438402953155_001" name="s8" reason="inEffect" status="operational" temporalId="s8" startPeriod="2022-03-31"><num value="8">8.</num><heading>Anchoring and berthing of type 1 vessels carrying Class 1 dangerous goods</heading><subsection id="ID_1438411823093_011" name="1" temporalId="s8_1"><num value="1">(1)</num><leadIn>Unless the Director otherwise permits, a type 1 vessel carrying on board Class 1
+                dangerous goods must not anchor or berth at any place within the waters of Hong Kong
+                other than at—</leadIn><paragraph id="ID_1438411823093_019" name="a" temporalId="s8_1_a"><num value="a">(a)</num><content>the western dangerous goods anchorage; or</content></paragraph><paragraph id="ID_1438411823093_027" name="b" temporalId="s8_1_b"><num value="b">(b)</num><content>a place that the Director may from time to time direct.</content></paragraph></subsection><subsection id="ID_1438411823093_034" name="2" temporalId="s8_2"><num value="2">(2)</num><content>A type 1 vessel carrying on board Class 1 dangerous goods that has anchored or
+                berthed in accordance with subsection (1) must remain anchored or berthed unless the
+                Director permits or directs otherwise.</content></subsection><subsection id="ID_1438411823093_042" name="3" temporalId="s8_3"><num value="3">(3)</num><content>Subsection (2) does not apply if there is an emergency situation or if, to
+                ensure the safety of persons on board the vessel or at the berth, it becomes
+                necessary to move the vessel.</content></subsection><subsection id="ID_1438411823109_005" name="4" temporalId="s8_4"><num value="4">(4)</num><content>If subsection (1) or (2) is contravened, the master of the vessel commits an
+                offence and is liable on conviction to a fine at level 4 and to imprisonment for 3
+                months.</content></subsection><subsection id="ID_1438411823109_013" name="5" temporalId="s8_5"><num value="5">(5)</num><leadIn>It is a defence to a charge under subsection (4) if the person charged proves
+                that—</leadIn><paragraph id="ID_1438411823109_021" name="a" temporalId="s8_5_a"><num value="a">(a)</num><content>the offence was committed without the person’s consent or connivance;
+                    and</content></paragraph><paragraph id="ID_1438411823109_029" name="b" temporalId="s8_5_b"><num value="b">(b)</num><content>having regard to all the circumstances, the person exercised all the due
+                    diligence that the person ought to have exercised to prevent the commission of
+                    the offence.</content></paragraph></subsection></section><section id="ID_1438402953171_001" name="s9" reason="inEffect" status="operational" temporalId="s9" startPeriod="2022-03-31"><num value="9">9.</num><heading>Movement of type 1 vessels carrying Class 1 dangerous goods during tropical
+            cyclone</heading><subsection id="ID_1438411823125_080" name="1" temporalId="s9_1"><num value="1">(1)</num><content>Unless the Director otherwise permits, a type 1 vessel carrying on board Class
+                1 dangerous goods must not enter the harbour when a tropical cyclone warning signal
+                higher than No. 3 is in force.</content></subsection><subsection id="ID_1438411823140_005" name="2" temporalId="s9_2"><num value="2">(2)</num><content>If a tropical cyclone warning signal higher than No. 3 is issued, unless the
+                Director otherwise permits, a type 1 vessel that is in the harbour and is carrying
+                on board Class 1 dangerous goods must, without delay, leave the harbour.</content></subsection><subsection id="ID_1438411823140_013" name="3" temporalId="s9_3"><num value="3">(3)</num><content>If subsection (1) or (2) is contravened, the master of the vessel commits an
+                offence and is liable on conviction to a fine at level 4 and to imprisonment for 3
+                months.</content></subsection><subsection id="ID_1438411823140_021" name="4" temporalId="s9_4"><num value="4">(4)</num><leadIn>It is a defence to a charge under subsection (3) if the person charged proves
+                that—</leadIn><paragraph id="ID_1438411823140_029" name="a" temporalId="s9_4_a"><num value="a">(a)</num><content>the offence was committed without the person’s consent or connivance;
+                    and</content></paragraph><paragraph id="ID_1438411823140_037" name="b" temporalId="s9_4_b"><num value="b">(b)</num><content>having regard to all the circumstances, the person exercised all the due
+                    diligence that the person ought to have exercised to prevent the commission of
+                    the offence.</content></paragraph></subsection></section><section id="ID_1438402953171_003" name="s10" reason="inEffect" status="operational" temporalId="s10" startPeriod="2022-03-31"><num value="10">10.</num><heading>Manifests required for loading dangerous goods onto type 1 vessels</heading><subsection id="ID_1438411823171_011" name="1" temporalId="s10_1"><num value="1">(1)</num><content>Subject to subsection (2), dangerous goods must not be loaded onto a type 1
+                vessel unless a manifest in the form specified by the Director containing the
+                particulars of the dangerous goods has first been submitted to the
+                Director.</content></subsection><subsection id="ID_1438411823171_019" name="2" temporalId="s10_2"><num value="2">(2)</num><content>If, for any reasonable cause, it is not possible to submit a manifest in
+                accordance with subsection (1), the manifest must be submitted to the Director
+                within 48 hours after the dangerous goods are loaded onto the vessel or before the
+                vessel departs the place at which the dangerous goods are loaded, whichever is the
+                earlier.</content></subsection><subsection id="ID_1438411823171_027" name="3" temporalId="s10_3"><num value="3">(3)</num><leadIn>A person must not include any particulars in the manifest which the person knows
+                or has reason to believe to be—</leadIn><paragraph id="ID_1438411823171_035" name="a" temporalId="s10_3_a"><num value="a">(a)</num><content>false in any material particular; or</content></paragraph><paragraph id="ID_1438411823171_043" name="b" temporalId="s10_3_b"><num value="b">(b)</num><content>misleading by reason of the omission of any material particular.</content></paragraph></subsection><subsection id="ID_1438411823171_050" name="4" temporalId="s10_4"><num value="4">(4)</num><content>If subsection (1) or (2) is contravened, both the owner and the master of the
+                vessel commit an offence and each is liable on conviction to a fine at level 3 and
+                to imprisonment for 2 months.</content></subsection><subsection id="ID_1438411823187_005" name="5" temporalId="s10_5"><num value="5">(5)</num><content>A person who contravenes subsection (3) commits an offence and is liable on
+                conviction to a fine at level 3 and to imprisonment for 2 months.</content></subsection></section><section id="ID_1438402953186_001" name="s11" reason="inEffect" status="operational" temporalId="s11" startPeriod="2022-03-31"><num value="11">11.</num><heading>Loading or unloading Class 1 dangerous goods onto or from type 1 vessels</heading><subsection id="ID_1438411823203_035" name="1" temporalId="s11_1"><num value="1">(1)</num><leadIn>Unless the Director otherwise permits, Class 1 dangerous goods must not be
+                loaded onto or unloaded from a type 1 vessel at any place within the waters of Hong
+                Kong other than at—</leadIn><paragraph id="ID_1438411823203_043" name="a" temporalId="s11_1_a"><num value="a">(a)</num><content>the western dangerous goods anchorage; or</content></paragraph><paragraph id="ID_1438411823203_051" name="b" temporalId="s11_1_b"><num value="b">(b)</num><content>a place that the Director may from time to time direct.</content></paragraph></subsection><subsection id="ID_1438411823203_058" name="2" temporalId="s11_2"><num value="2">(2)</num><content>If subsection (1) is contravened, the master of the vessel commits an offence
+                and is liable on conviction to a fine at level 4 or to imprisonment for 3
+                months.</content></subsection><subsection id="ID_1438411823218_005" name="3" temporalId="s11_3"><num value="3">(3)</num><leadIn>It is a defence to a charge under subsection (2) if the person charged proves
+                that—</leadIn><paragraph id="ID_1438411823218_013" name="a" temporalId="s11_3_a"><num value="a">(a)</num><content>the offence was committed without the person’s consent or connivance;
+                    and</content></paragraph><paragraph id="ID_1438411823218_021" name="b" temporalId="s11_3_b"><num value="b">(b)</num><content>having regard to all the circumstances, the person exercised all the due
+                    diligence that the person ought to have exercised to prevent the commission of
+                    the offence.</content></paragraph></subsection></section><section id="ID_1438402953186_003" name="s12" reason="inEffect" status="operational" temporalId="s12" startPeriod="2022-03-31"><num value="12">12.</num><heading>Loading or unloading of freight containers containing dangerous goods (other than
+            Class 1 dangerous goods) onto or from type 1 vessels</heading><subsection id="ID_1438411823234_033" name="1" temporalId="s12_1"><num value="1">(1)</num><leadIn>Unless the Director otherwise permits, freight containers containing dangerous
+                goods (other than Class 1 dangerous goods) must not be loaded onto or unloaded from
+                a type 1 vessel at any place within the waters of Hong Kong other than at—</leadIn><paragraph id="ID_1438411823234_041" name="a" temporalId="s12_1_a"><num value="a">(a)</num><content>an approved container terminal; or</content></paragraph><paragraph id="ID_1438411823234_049" name="b" temporalId="s12_1_b"><num value="b">(b)</num><content>a place that the Director may from time to time direct.</content></paragraph></subsection><subsection id="ID_1438411823234_056" name="2" temporalId="s12_2"><num value="2">(2)</num><content>If subsection (1) is contravened, the master of the vessel commits an offence
+                and is liable on conviction to a fine at level 4 and to imprisonment for 3
+                months.</content></subsection><subsection id="ID_1438411823234_064" name="3" temporalId="s12_3"><num value="3">(3)</num><leadIn>It is a defence to a charge under subsection (2) if the person charged proves
+                that—</leadIn><paragraph id="ID_1438411823249_005" name="a" temporalId="s12_3_a"><num value="a">(a)</num><content>the offence was committed without the person’s consent or connivance;
+                    and</content></paragraph><paragraph id="ID_1438411823249_013" name="b" temporalId="s12_3_b"><num value="b">(b)</num><content>having regard to all the circumstances, the person exercised all the due
+                    diligence that the person ought to have exercised to prevent the commission of
+                    the offence.</content></paragraph></subsection></section></part><part id="ID_1438402953217_001" name="P3" reason="inEffect" status="operational" temporalId="P3" startPeriod="2022-03-31"><num value="3">Part 3</num><heading>Provisions Relating to Type 2 Vessels</heading><section id="ID_1438402953233_002" name="s13" reason="inEffect" status="operational" temporalId="s13" startPeriod="2025-01-10"><num value="13">13.</num><heading>Movement generally of type 2 vessels carrying Class 2, 3 or 3A dangerous
+            goods</heading><subsection id="ID_1438411823281_018" name="1" temporalId="s13_1"><num value="1">(1)</num><leadIn>Unless the Director otherwise permits, a type 2 vessel carrying on board Class
+                2, 3 or 3A dangerous goods—</leadIn><paragraph id="ID_1438411823281_026" name="a" temporalId="s13_1_a"><num value="a">(a)</num><leadIn>must not proceed otherwise than directly to or from—</leadIn><subparagraph id="ID_1438411823281_034" name="i" temporalId="s13_1_a_i"><num value="i">(i)</num><content>an approved
+                         wharf;
+                        <sourceNote>(<ref href="/hk/2024/27">27 of 2024 s.
+                        4</ref>)</sourceNote></content></subparagraph><subparagraph id="ID_1438411823281_042" name="ii" temporalId="s13_1_a_ii"><num value="ii">(ii)</num><content>a dangerous goods anchorage (other than the western dangerous goods
+                        anchorage); or</content></subparagraph><subparagraph id="ID_1438411823281_050" name="iii" temporalId="s13_1_a_iii"><num value="iii">(iii)</num><content>a place that the Director may from time to time direct; and</content></subparagraph></paragraph><paragraph id="ID_1438411823281_057" name="b" temporalId="s13_1_b"><num value="b">(b)</num><leadIn>must not enter or remain in the part of the harbour that is
+                    bounded—</leadIn><subparagraph id="ID_1438411823296_006" name="i" temporalId="s13_1_b_i"><num value="i">(i)</num><content>on the east, by a straight line drawn on a bearing of
+                        333°
+                        True from the position on Hong Kong Island at
+                        latitude
+                        22°17.665´ North, longitude 114°11.977´ East to the mainland;
+                        and</content></subparagraph><subparagraph id="ID_1438411823296_014" name="ii" temporalId="s13_1_b_ii"><num value="ii">(ii)</num><content>on the west, by a straight line drawn from the westernmost point of
+                        Hong Kong Island to the westernmost point of Green Island, and from there
+                        along the west coast of Green Island to the north-westernmost point of Green
+                        Island, and then from there to the position on Stonecutters Island at
+                        latitude
+                        22°19.052´ North, longitude 114°07.768´ East. <sourceNote>(<ref href="hk/2024/ln122">L.N. 122 of
+                        2024</ref>)</sourceNote></content></subparagraph></paragraph></subsection><subsection id="ID_1438411823296_020" name="2" temporalId="s13_2"><num value="2">(2)</num><content>If subsection (1) is contravened, the master of the vessel commits an offence
+                and is liable on conviction to a fine at level 4 and to imprisonment for 3
+                months.</content></subsection><subsection id="ID_1438411823296_028" name="3" temporalId="s13_3"><num value="3">(3)</num><leadIn>It is a defence to a charge under subsection (2) if the person charged proves
+                that—</leadIn><paragraph id="ID_1438411823296_036" name="a" temporalId="s13_3_a"><num value="a">(a)</num><content>the offence was committed without the person’s consent or connivance;
+                    and</content></paragraph><paragraph id="ID_1438411823296_044" name="b" temporalId="s13_3_b"><num value="b">(b)</num><content>having regard to all the circumstances, the person exercised all the due
+                    diligence that the person ought to have exercised to prevent the commission of
+                    the offence.</content></paragraph></subsection><subsection id="ID_1438411823312_005" name="4" temporalId="s13_4"><num value="4">(4)</num><content>In this section, a reference to the co-ordinates of a point is a reference to
+                the co-ordinates of that point based on the World Geodetic System 1984 (WGS
+                84).</content></subsection></section><section id="ID_1438402953249_001" name="s14" reason="inEffect" status="operational" temporalId="s14" startPeriod="2025-01-10"><num value="14">14.</num><heading>Anchoring and berthing of type 2 vessels carrying Class 2, 3 or 3A dangerous
+            goods</heading><subsection id="ID_1438411823343_004" name="1" temporalId="s14_1"><num value="1">(1)</num><leadIn>Unless the Director otherwise permits, a type 2 vessel carrying on board Class
+                2, 3 or 3A dangerous goods must not anchor or berth at any place within the waters
+                of Hong Kong other than at—</leadIn><paragraph id="ID_1438411823343_012" name="a" temporalId="s14_1_a"><num value="a">(a)</num><content>an approved
+                     wharf;
+                    <sourceNote>(<ref href="/hk/2024/27">27 of 2024 s.
+                    5</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411823343_020" name="b" temporalId="s14_1_b"><num value="b">(b)</num><content>a dangerous goods anchorage (other than the western dangerous goods
+                    anchorage); or</content></paragraph><paragraph id="ID_1438411823343_028" name="c" temporalId="s14_1_c"><num value="c">(c)</num><content>a place that the Director may from time to time direct.</content></paragraph></subsection><subsection id="ID_1438411823343_035" name="2" temporalId="s14_2"><num value="2">(2)</num><content>A type 2 vessel carrying on board Class 2, 3 or 3A dangerous goods that has
+                anchored or berthed in accordance with subsection (1) must remain anchored or
+                berthed unless the Director permits or directs otherwise.</content></subsection><subsection id="ID_1438411823343_043" name="3" temporalId="s14_3"><num value="3">(3)</num><content>Subsection (2) does not apply if there is an emergency situation or if, to
+                ensure the safety of persons on board the vessel or at the berth, it becomes
+                necessary to move the vessel.</content></subsection><subsection id="ID_1438411823343_051" name="4" temporalId="s14_4"><num value="4">(4)</num><content>If subsection (1) or (2) is contravened, the master of the vessel commits an
+                offence and is liable on conviction to a fine at level 4 and to imprisonment for 3
+                months.</content></subsection><subsection id="ID_1438411823343_059" name="5" temporalId="s14_5"><num value="5">(5)</num><leadIn>It is a defence to a charge under subsection (4) if the person charged proves
+                that—</leadIn><paragraph id="ID_1438411823359_005" name="a" temporalId="s14_5_a"><num value="a">(a)</num><content>the offence was committed without the person’s consent or connivance;
+                    and</content></paragraph><paragraph id="ID_1438411823359_013" name="b" temporalId="s14_5_b"><num value="b">(b)</num><content>having regard to all the circumstances, the person exercised all the due
+                    diligence that the person ought to have exercised to prevent the commission of
+                    the offence.</content></paragraph></subsection></section><section id="ID_1438402953280_002" name="s15" reason="inEffect" status="operational" temporalId="s15" startPeriod="2022-03-31"><num value="15">15.</num><heading>Movement of type 2 vessels carrying Class 2, 3 or 3A dangerous goods during
+            tropical cyclone</heading><subsection id="ID_1438411823374_049" name="1" temporalId="s15_1"><num value="1">(1)</num><content>Unless the Director otherwise permits, a type 2 vessel carrying on board Class
+                2, 3 or 3A dangerous goods must not enter the harbour when a tropical cyclone
+                warning signal higher than No. 3 is in force.</content></subsection><subsection id="ID_1438411823374_057" name="2" temporalId="s15_2"><num value="2">(2)</num><content>If a tropical cyclone warning signal higher than No. 3 is issued, unless the
+                Director otherwise permits, a type 2 vessel that is in the harbour and is carrying
+                on board Class 2, 3 or 3A dangerous goods must, without delay, leave the
+                harbour.</content></subsection><subsection id="ID_1438411823390_005" name="3" temporalId="s15_3"><num value="3">(3)</num><content>If subsection (1) or (2) is contravened, the master of the vessel commits an
+                offence and is liable on conviction to a fine at level 4 and to imprisonment for 3
+                months.</content></subsection><subsection id="ID_1438411823390_013" name="4" temporalId="s15_4"><num value="4">(4)</num><leadIn>It is a defence to a charge under subsection (3) if the person charged proves
+                that—</leadIn><paragraph id="ID_1438411823390_021" name="a" temporalId="s15_4_a"><num value="a">(a)</num><content>the offence was committed without the person’s consent or connivance;
+                    and</content></paragraph><paragraph id="ID_1438411823390_029" name="b" temporalId="s15_4_b"><num value="b">(b)</num><content>having regard to all the circumstances, the person exercised all the due
+                    diligence that the person ought to have exercised to prevent the commission of
+                    the offence.</content></paragraph></subsection></section><section id="ID_1438402953295_001" name="s16" reason="inEffect" status="operational" temporalId="s16" startPeriod="2022-03-31"><num value="16">16.</num><heading>Precautions to be taken when Class 3 or 3A dangerous goods in bulk are being
+            handled on board type 2 vessels</heading><subsection id="ID_1438411823405_071" name="1" temporalId="s16_1"><num value="1">(1)</num><content>Subject to subsection (2), when Class 3 or 3A dangerous goods in bulk are being
+                handled on board a type 2 vessel, all openings in the cargo tanks of the vessel with
+                direct access to the open air, except those forming part of the ventilation system
+                of the vessel, must be kept closed.</content></subsection><subsection id="ID_1438411823421_005" name="2" temporalId="s16_2"><num value="2">(2)</num><content>Subsection (1) does not prevent the opening of any ullage or sighting port in
+                the cargo tanks for so long as is necessary to take dips or samples or make
+                observations on condition that the ullage or sighting port is adequately protected
+                by a flame screen that may only be removed for taking dips or samples or making
+                observations.</content></subsection><subsection id="ID_1438411823421_013" name="3" temporalId="s16_3"><num value="3">(3)</num><content>If subsection (1) is contravened, the master of the vessel commits an offence
+                and is liable on conviction to a fine at level 4 and to imprisonment for 3
+                months.</content></subsection><subsection id="ID_1438411823421_021" name="4" temporalId="s16_4"><num value="4">(4)</num><leadIn>It is a defence to a charge under subsection (3) if the person charged proves
+                that—</leadIn><paragraph id="ID_1438411823421_029" name="a" temporalId="s16_4_a"><num value="a">(a)</num><content>the offence was committed without the person’s consent or connivance;
+                    and</content></paragraph><paragraph id="ID_1438411823421_037" name="b" temporalId="s16_4_b"><num value="b">(b)</num><content>having regard to all the circumstances, the person exercised all the due
+                    diligence that the person ought to have exercised to prevent the commission of
+                    the offence.</content></paragraph></subsection></section></part><part id="ID_1438402953295_003" name="P4" reason="inEffect" status="operational" temporalId="P4" startPeriod="2022-03-31"><num value="4">Part 4</num><heading>Provisions Relating to Type 3 Vessels</heading><section id="ID_1438402953311_002" name="s17" reason="inEffect" status="operational" temporalId="s17" startPeriod="2022-03-31"><num value="17">17.</num><heading>Application</heading><text><ref>Sections 18</ref>, <ref>20</ref>, <ref>23</ref>, <ref>25</ref> and <ref>29</ref>
+            do not apply to pyrotechnic special effects materials conveyed in accordance with the
+            requirements specified in the Entertainment Special Effects Ordinance (<ref href="/hk/cap560">Cap. 560</ref>) by type 3 vessels.</text></section><section id="ID_1438402953327_002" name="s18" reason="inEffect" status="operational" temporalId="s18" startPeriod="2022-03-31"><num value="18">18.</num><heading>Permits required for conveyance of dangerous goods by type 3 vessels</heading><subsection id="ID_1438411823468_039" name="1" temporalId="s18_1"><num value="1">(1)</num><content>Except under the authority of a permit granted under <ref>section 19</ref>, a
+                type 3 vessel must not convey any dangerous goods.</content></subsection><subsection id="ID_1438411823483_005" name="2" temporalId="s18_2"><num value="2">(2)</num><leadIn>Subsection (1) does not apply to the conveyance, by type 3 vessels of—</leadIn><paragraph id="ID_1438411823483_013" name="a" temporalId="s18_2_a"><num value="a">(a)</num><content>any <ref>Schedule 2</ref> dangerous goods in packaged form not exceeding
+                    the exempt quantity;</content></paragraph><paragraph id="ID_1438411823483_021" name="b" temporalId="s18_2_b"><num value="b">(b)</num><content>any <ref>Schedule 2</ref> dangerous goods in consumer packs;</content></paragraph><paragraph id="ID_1438411823483_029" name="c" temporalId="s18_2_c"><num value="c">(c)</num><content>any <ref>Schedule 1</ref> or <ref>2</ref> dangerous goods that are exempt
+                    by virtue of the Dangerous Goods (Application and Exemption) <ref>Regulation
+                        2012</ref> (<ref href="/hk/cap295E">Cap. 295 sub. leg. E</ref>) from the
+                    operation of <ref>section 6</ref> of the Ordinance in respect of conveyance at sea;
+                    <sourceNote>(<ref href="/hk/2012/er2">E.R. 2 of
+                    2012</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411823483_037" name="d" temporalId="s18_2_d"><num value="d">(d)</num><content>any Class 2, 3 or 3A dangerous goods in bulk; or</content></paragraph><paragraph id="ID_1438411823483_045" name="e" temporalId="s18_2_e"><num value="e">(e)</num><content>any radioactive substances that are subject to <ref>regulation 7</ref> of
+                    the Radiation (Control of Radioactive Substances) Regulations (<ref href="/hk/cap303A">Cap. 303 sub. leg. A</ref>).</content></paragraph></subsection><subsection id="ID_1438411823483_052" name="3" temporalId="s18_3"><num value="3">(3)</num><leadIn>If subsection (1) is contravened, the owner of the vessel commits an offence and
+                is liable on conviction to—</leadIn><paragraph id="ID_1438411823499_006" name="a" temporalId="s18_3_a"><num value="a">(a)</num><content>if the dangerous goods being conveyed in contravention of subsection (1)
+                    are Class 1 or <ref>Schedule 1</ref> dangerous goods, a fine at level 6 and to
+                    imprisonment for 3 months; and</content></paragraph><paragraph id="ID_1438411823499_014" name="b" temporalId="s18_3_b"><num value="b">(b)</num><content>if the dangerous goods being conveyed in contravention of subsection (1)
+                    are other dangerous goods, a fine at level 3 and to imprisonment for 2
+                    months.</content></paragraph></subsection><subsection id="ID_1438411823499_021" name="4" temporalId="s18_4"><num value="4">(4)</num><leadIn>In this section—</leadIn><def name="ExemptQuantity"><term>exempt quantity</term> (<term xml:lang="zh-Hant-HK">豁免量</term>) means the quantity of <ref>Schedule 2</ref> dangerous goods in
+                packaged form that is exempt by virtue of the Dangerous Goods (Application and
+                Exemption) <ref>Regulation 2012</ref> (<ref href="/hk/cap295E">Cap. 295 sub. leg.
+                    E</ref>) from the operation of <ref>section 6</ref> of the Ordinance in respect
+                of conveyance at sea;
+                <sourceNote>(<ref href="/hk/2012/er2">E.R. 2 of
+                2012</ref>)</sourceNote></def><def name="PackagedForm"><term>packaged form</term> (<term xml:lang="zh-Hant-HK">有包裝</term>) has the meaning given by <ref>section 2</ref> of the Dangerous
+                Goods (Application and Exemption) <ref>Regulation 2012</ref> (<ref href="/hk/cap295E">Cap. 295 sub. leg. E</ref>).
+                <sourceNote>(<ref href="/hk/2012/er2">E.R. 2 of
+                2012</ref>)</sourceNote></def></subsection></section><section id="ID_1438402953342_002" name="s19" reason="inEffect" status="operational" temporalId="s19" startPeriod="2024-03-14"><num value="19">19.</num><heading>Granting of permit by Director</heading><subsection id="ID_1438411823530_063" name="1" temporalId="s19_1"><num value="1">(1)</num><content>The Director may, on application and payment of the fee specified in
+                    <ref>Schedule 3</ref>, grant to any person a permit authorizing the conveyance
+                of dangerous goods by a type 3 vessel.</content></subsection><subsection id="ID_1438411823546_005" name="2" temporalId="s19_2"><num value="2">(2)</num><content>A permit under subsection (1) may be granted in respect of any dangerous goods
+                or any class of dangerous goods.</content></subsection><subsection id="ID_1658714844699_001" name="3" temporalId="s19_3"><num value="3">(3)-(4)</num><sourceNote>(Omitted as expired—<ref href="hk/2024/er2">E.R. 2 of 2024</ref>)</sourceNote></subsection></section><section id="ID_1438402953358_002" name="s20" reason="inEffect" status="operational" temporalId="s20" startPeriod="2022-03-31"><num value="20">20.</num><heading>Type 3 vessels carrying Class 1, 2, 3 or 3A or <ref>Schedule 1</ref> dangerous
+            goods must not carry other dangerous goods</heading><subsection id="ID_1438411823561_011" name="1" temporalId="s20_1"><num value="1">(1)</num><content>Unless the Director otherwise permits, a type 3 vessel carrying on board Class
+                1, 2, 3 or 3A or <ref>Schedule 1</ref> dangerous goods must not carry any other
+                dangerous goods.</content></subsection><subsection id="ID_1438411823561_019" name="2" temporalId="s20_2"><num value="2">(2)</num><content>If without reasonable excuse subsection (1) is contravened, the master of the
+                vessel commits an offence and is liable on conviction to a fine at level 4 and to
+                imprisonment for 3 months.</content></subsection></section><section id="ID_1438402953358_004" name="s21" reason="inEffect" status="operational" temporalId="s21" startPeriod="2022-03-31"><num value="21">21.</num><heading>Type 3 vessels must not carry passengers and dangerous goods at same time</heading><subsection id="ID_1438411823577_011" name="1" temporalId="s21_1"><num value="1">(1)</num><content>Subject to subsection (2), unless the Director otherwise permits, a type 3
+                vessel must not carry passengers and dangerous goods at the same time.</content></subsection><subsection id="ID_1438411823577_019" name="2" temporalId="s21_2"><num value="2">(2)</num><leadIn>Subsection (1) does not apply in relation to—</leadIn><paragraph id="ID_1438411823577_027" name="a" temporalId="s21_2_a"><num value="a">(a)</num><content>any dangerous goods mentioned in <ref>section 22(2)</ref>, if <ref>section
+                        22(1)</ref> does not apply to the possession of those dangerous goods by
+                    virtue of <ref>section 22(2)</ref>;</content></paragraph><paragraph id="ID_1438411823577_035" name="b" temporalId="s21_2_b"><num value="b">(b)</num><content><ref>Schedule 2</ref> dangerous goods in consumer packs;</content></paragraph><paragraph id="ID_1438411823577_043" name="c" temporalId="s21_2_c"><num value="c">(c)</num><content>non-pyrotechnic special effects materials, if <ref>section 18(1)</ref> does
+                    not apply to the conveyance of those materials by virtue of <ref>section
+                        18(2)(c)</ref> and the requirements in subsection (3) have been complied
+                    with;</content></paragraph><paragraph id="ID_1438411823593_006" name="d" temporalId="s21_2_d"><num value="d">(d)</num><leadIn>liquefied petroleum gas contained in a cylinder having a water capacity of
+                    less than 130 litres or in a combination of cylinders having a combined water
+                    capacity of less than 130 litres, if—</leadIn><subparagraph id="ID_1438411823593_014" name="i" temporalId="s21_2_d_i"><num value="i">(i)</num><content>the conveyance of such liquefied petroleum gas is for and incidental to
+                        the production of entertainment special effects within the meaning of the
+                        Entertainment Special Effects Ordinance (<ref href="/hk/cap560">Cap.
+                            560</ref>); and</content></subparagraph><subparagraph id="ID_1438411823593_022" name="ii" temporalId="s21_2_d_ii"><num value="ii">(ii)</num><content>the requirement in subsection <ref>(3)(b)</ref> has been complied with;
+                        and</content></subparagraph></paragraph><paragraph id="ID_1438411823593_029" name="e" temporalId="s21_2_e"><num value="e">(e)</num><content>pyrotechnic special effects materials, if the requirements in subsection
+                    (3) have been complied with.</content></paragraph></subsection><subsection id="ID_1438411823593_036" name="3" temporalId="s21_3"><num value="3">(3)</num><leadIn>The requirements mentioned in subsection <ref>(2)(c)</ref>, <ref>(d)(ii)</ref>
+                and (e) are—</leadIn><paragraph id="ID_1438411823593_044" name="a" temporalId="s21_3_a"><num value="a">(a)</num><content>the conveyance of the non-pyrotechnic special effects materials or
+                    pyrotechnic special effects materials is for and incidental to the production of
+                    entertainment special effects; and</content></paragraph><paragraph id="ID_1438411823593_052" name="b" temporalId="s21_3_b"><num value="b">(b)</num><content>each passenger on board the vessel is a holder of a special effects
+                    operator licence issued under the Entertainment Special Effects Ordinance (<ref href="/hk/cap560">Cap. 560</ref>).</content></paragraph></subsection><subsection id="ID_1438411823608_005" name="4" temporalId="s21_4"><num value="4">(4)</num><content>If without reasonable excuse subsection (1) is contravened, the master of the
+                vessel commits an offence and is liable on conviction to a fine at level 4 and to
+                imprisonment for 3 months.</content></subsection></section><section id="ID_1438402953373_002" name="s22" reason="inEffect" status="operational" temporalId="s22" startPeriod="2022-03-31"><num value="22">22.</num><heading>Passengers on board type 3 vessels used for franchised or licensed service must not
+            possess Class 1 or <ref>Schedule 1</ref> dangerous goods</heading><subsection id="ID_1438411823639_011" name="1" temporalId="s22_1"><num value="1">(1)</num><content>A passenger on board a type 3 vessel used for a franchised or licensed service
+                under the Ferry Services Ordinance (<ref href="/hk/cap104">Cap. 104</ref>) must not
+                possess any Class 1 or <ref>Schedule 1</ref> dangerous goods.</content></subsection><subsection id="ID_1438411823639_019" name="2" temporalId="s22_2"><num value="2">(2)</num><leadIn>Subsection (1) does not apply to—</leadIn><paragraph id="ID_1438411823639_027" name="a" temporalId="s22_2_a"><num value="a">(a)</num><content>the possession of manufactured fireworks belonging to Group 7 (firework)
+                    specified in <ref>Part 1 of Schedule 1</ref> to the Dangerous Goods (Application
+                    and Exemption) <ref>Regulation 2012</ref> (<ref href="/hk/cap295E">Cap. 295 sub.
+                        leg. E</ref>) in a quantity not exceeding 5 kilograms; or</content></paragraph><paragraph id="ID_1438411823639_035" name="b" temporalId="s22_2_b"><num value="b">(b)</num><content>the possession of safety cartridges, cartridges for small arms or
+                    cartridges for any cartridge-operated fixing tool, the conveyance of which is
+                    exempt by virtue of the Dangerous Goods (Application and Exemption)
+                        <ref>Regulation 2012</ref> (<ref href="/hk/cap295E">Cap. 295 sub. leg.
+                        E</ref>) from the operation of <ref>section 6</ref> of the Ordinance.
+                    <sourceNote>(<ref href="/hk/2012/er2">E.R. 2 of
+                    2012</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438411823655_005" name="3" temporalId="s22_3"><num value="3">(3)</num><content>A person who contravenes subsection (1) commits an offence and is liable on
+                conviction to a fine at level 4 and to imprisonment for 1 month.</content></subsection><subsection id="ID_1438411823655_013" name="4" temporalId="s22_4"><num value="4">(4)</num><leadIn>In this section—</leadIn><def name="CartridgeoperatedFixingTool"><term>cartridge-operated fixing tool</term>
+                    (<term xml:lang="zh-Hant-HK">彈藥筒推動打釘工具</term>) has the meaning given by
+                    <ref>regulation 2</ref> of the Factories and Industrial Undertakings
+                (Cartridge-Operated Fixing Tools) Regulations (<ref href="/hk/cap59R">Cap. 59 sub.
+                    leg. R</ref>).</def></subsection></section><section id="ID_1438402953389_002" name="s23" reason="inEffect" status="operational" temporalId="s23" startPeriod="2022-03-31"><num value="23">23.</num><heading>Type 3 vessels carrying Class 1 or <ref>Schedule 1</ref> dangerous goods must not
+            be towed</heading><subsection id="ID_1438411823671_064" name="1" temporalId="s23_1"><num value="1">(1)</num><content>Unless the Director otherwise permits, a vessel must not tow a type 3 vessel
+                that is carrying on board Class 1 or <ref>Schedule 1</ref> dangerous
+                goods.</content></subsection><subsection id="ID_1438411823686_005" name="2" temporalId="s23_2"><num value="2">(2)</num><content>If without reasonable excuse subsection (1) is contravened, the master of the
+                towing vessel commits an offence and is liable on conviction to a fine at level 4
+                and to imprisonment for 3 months.</content></subsection></section><section id="ID_1438402953389_004" name="s24" reason="inEffect" status="operational" temporalId="s24" startPeriod="2022-03-31"><num value="24">24.</num><heading>Movement of type 3 vessels carrying Class 1, 2, 3, or 3A or <ref>Schedule 1</ref>
+            dangerous goods</heading><subsection id="ID_1438411823702_011" name="1" temporalId="s24_1"><num value="1">(1)</num><leadIn>Unless the Director otherwise permits, a type 3 vessel carrying on board Class
+                1, 2, 3 or 3A or <ref>Schedule 1</ref> dangerous goods must not—</leadIn><paragraph id="ID_1438411823702_019" name="a" temporalId="s24_1_a"><num value="a">(a)</num><content>enter a dock; or</content></paragraph><paragraph id="ID_1438411823702_027" name="b" temporalId="s24_1_b"><num value="b">(b)</num><content>carry out in the harbour any repairs, other than running repairs to
+                    machinery for the safe operation of the vessel.</content></paragraph></subsection><subsection id="ID_1438411823702_034" name="2" temporalId="s24_2"><num value="2">(2)</num><content>Unless the Director otherwise permits, a type 3 vessel carrying on board Class
+                1 or <ref>Schedule 1</ref> dangerous goods must not be underway in the harbour
+                between the hours of sunset and sunrise, except by reason of stress of weather or
+                other unforeseen circumstances beyond the control of the owner or master of the
+                vessel.</content></subsection><subsection id="ID_1438411823702_042" name="3" temporalId="s24_3"><num value="3">(3)</num><content>If subsection (1) or (2) is contravened, the master of the vessel commits an
+                offence and is liable on conviction to a fine at level 4 and to imprisonment for 3
+                months.</content></subsection></section><section id="ID_1438402953405_002" name="s25" reason="inEffect" status="operational" temporalId="s25" startPeriod="2022-03-31"><num value="25">25.</num><heading>Anchoring and berthing of type 3 vessels carrying Class 1 or <ref>Schedule 1</ref>
+            dangerous goods</heading><subsection id="ID_1438411823733_011" name="1" temporalId="s25_1"><num value="1">(1)</num><leadIn>Unless the Director otherwise permits, a type 3 vessel carrying on board Class 1
+                or <ref>Schedule 1</ref> dangerous goods must not anchor or berth at any place
+                within the waters of Hong Kong other than at—</leadIn><paragraph id="ID_1438411823733_019" name="a" temporalId="s25_1_a"><num value="a">(a)</num><content>a place authorized by a conveyance permit granted in respect of the
+                    dangerous goods or explosives;</content></paragraph><paragraph id="ID_1438411823733_027" name="b" temporalId="s25_1_b"><num value="b">(b)</num><content>the western dangerous goods anchorage; or</content></paragraph><paragraph id="ID_1438411823733_035" name="c" temporalId="s25_1_c"><num value="c">(c)</num><content>a place that the Director may from time to time direct.</content></paragraph></subsection><subsection id="ID_1438411823733_042" name="2" temporalId="s25_2"><num value="2">(2)</num><leadIn>Despite subsection (1), unless the Director otherwise permits, a type 3 vessel
+                carrying on board freight containers containing Class 1 or <ref>Schedule 1</ref>
+                dangerous goods must not anchor or berth at any place within the waters of Hong Kong
+                other than at—</leadIn><paragraph id="ID_1438411823733_050" name="a" temporalId="s25_2_a"><num value="a">(a)</num><content>a place authorized by a conveyance permit granted in respect of the
+                    dangerous goods or explosives;</content></paragraph><paragraph id="ID_1438411823733_058" name="b" temporalId="s25_2_b"><num value="b">(b)</num><content>the western dangerous goods anchorage;</content></paragraph><paragraph id="ID_1438411823733_066" name="c" temporalId="s25_2_c"><num value="c">(c)</num><content>an approved container terminal; or</content></paragraph><paragraph id="ID_1438411823733_074" name="d" temporalId="s25_2_d"><num value="d">(d)</num><content>a place that the Director may from time to time direct.</content></paragraph></subsection><subsection id="ID_1438411823749_005" name="3" temporalId="s25_3"><num value="3">(3)</num><content>Unless the Director otherwise permits, a type 3 vessel carrying on board Class
+                1 or <ref>Schedule 1</ref> dangerous goods must not berth alongside another vessel
+                except for the purpose of loading or unloading the dangerous goods or explosives,
+                and then only between the hours of sunrise and sunset and for the period reasonably
+                required for that purpose.</content></subsection><subsection id="ID_1438411823749_013" name="4" temporalId="s25_4"><num value="4">(4)</num><content>If subsection (1), (2) or (3) is contravened, the master of the vessel commits
+                an offence and is liable on conviction to a fine at level 4 and to imprisonment for
+                3 months.</content></subsection></section><section id="ID_1438402953420_002" name="s26" reason="inEffect" status="operational" temporalId="s26" startPeriod="2025-01-10"><num value="26">26.</num><heading>Anchoring and berthing of type 3 vessels carrying
+            Class
+            2, 3 or 3A dangerous goods</heading><sourceNote>(<ref href="/hk/2024/27">27 of 2024 s. 6</ref>)</sourceNote><subsection id="ID_1438411823780_011" name="1" temporalId="s26_1"><num value="1">(1)</num><leadIn>Subject to subsection (3), unless the Director otherwise permits, a type 3
+                vessel carrying on board
+                Class
+                2, 3 or 3A dangerous goods in bulk must not anchor or berth at any
+                place within the waters of Hong Kong other than at—
+                <sourceNote>(<ref href="/hk/2024/27">27 of 2024 s.
+                6</ref>)</sourceNote></leadIn><paragraph id="ID_1438411823780_019" name="a" temporalId="s26_1_a"><num value="a">(a)</num><content>an approved
+                     wharf;
+                    <sourceNote>(<ref href="/hk/2024/27">27 of 2024 s.
+                    6</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411823780_027" name="b" temporalId="s26_1_b"><num value="b">(b)</num><content>a dangerous goods anchorage (other than the western dangerous goods
+                    anchorage); or</content></paragraph><paragraph id="ID_1438411823780_035" name="c" temporalId="s26_1_c"><num value="c">(c)</num><content>a place that the Director may from time to time direct.</content></paragraph></subsection><subsection id="ID_1438411823780_042" name="2" temporalId="s26_2"><num value="2">(2)</num><content>Unless the Director otherwise permits, a type 3 vessel carrying on board
+                Class
+                2, 3 or 3A dangerous goods in bulk must not berth alongside
+                another vessel except for the purpose of transferring or receiving those dangerous
+                goods as fuel or oily residue to or from the other vessel, and then only for the
+                period reasonably required for that purpose.
+                <sourceNote>(<ref href="/hk/2024/27">27 of 2024 s.
+                6</ref>)</sourceNote></content></subsection><subsection id="ID_1438411823795_005" name="3" temporalId="s26_3"><num value="3">(3)</num><content>Subsection (1) does not affect the application of <ref>section 91</ref> of the
+                Merchant Shipping (Local Vessels) (General) Regulation (<ref href="/hk/cap548F">Cap.
+                    548 sub. leg. F</ref>) in relation to the anchoring, berthing and mooring of a
+                vessel from which or to which bunker is delivered.</content></subsection><subsection id="ID_1438411823795_013" name="4" temporalId="s26_4"><num value="4">(4)</num><content>If subsection (1) or (2) is contravened, the master of the vessel commits an
+                offence and is liable on conviction to a fine at level 4 and to imprisonment for 3
+                months.</content></subsection></section><section id="ID_1438402953436_001" name="s27" reason="inEffect" status="operational" temporalId="s27" startPeriod="2022-03-31"><num value="27">27.</num><heading>Movement of type 3 vessels carrying Class 1, 2, 3 or 3A or <ref>Schedule 1</ref>
+            dangerous goods during tropical cyclone</heading><subsection id="ID_1438411823827_004" name="1" temporalId="s27_1"><num value="1">(1)</num><leadIn>If a tropical cyclone warning signal higher than No. 3 is issued, unless the
+                Director otherwise permits, a type 3 vessel that is in the harbour and is carrying
+                on board Class 1 or <ref>Schedule 1</ref> dangerous goods must, without
+                delay—</leadIn><paragraph id="ID_1438411823827_012" name="a" temporalId="s27_1_a"><num value="a">(a)</num><content>leave the harbour; or</content></paragraph><paragraph id="ID_1438411823827_020" name="b" temporalId="s27_1_b"><num value="b">(b)</num><content>proceed to and remain at the western dangerous goods anchorage until such
+                    tropical cyclone warning signal is cancelled.</content></paragraph></subsection><subsection id="ID_1438411823827_027" name="2" temporalId="s27_2"><num value="2">(2)</num><leadIn>If a tropical cyclone warning signal higher than No. 3 is issued, unless the
+                Director otherwise permits, a type 3 vessel that is in the harbour and is carrying
+                on board Class 2, 3 or 3A dangerous goods in bulk must, without delay—</leadIn><paragraph id="ID_1438411823827_035" name="a" temporalId="s27_2_a"><num value="a">(a)</num><content>leave the harbour;</content></paragraph><paragraph id="ID_1438411823827_043" name="b" temporalId="s27_2_b"><num value="b">(b)</num><content>proceed to and remain at a dangerous goods anchorage (other than the
+                    western dangerous goods anchorage) until such tropical cyclone warning signal is
+                    cancelled; or</content></paragraph><paragraph id="ID_1438411823827_051" name="c" temporalId="s27_2_c"><num value="c">(c)</num><content>proceed to and remain at a private mooring laid for mooring a vessel during
+                    the passage of a tropical cyclone until such tropical cyclone warning signal is
+                    cancelled.</content></paragraph></subsection><subsection id="ID_1438411823827_058" name="3" temporalId="s27_3"><num value="3">(3)</num><content>If subsection (1) or (2) is contravened, the master of the vessel commits an
+                offence and is liable on conviction to a fine at level 4 and to imprisonment for 3
+                months.</content></subsection></section><section id="ID_1438402953436_003" name="s28" reason="inEffect" status="operational" temporalId="s28" startPeriod="2022-03-31"><num value="28">28.</num><heading>Precautions to be taken when Class 3 or 3A dangerous goods in bulk are being
+            handled on board type 3 vessels</heading><subsection id="ID_1438411823858_025" name="1" temporalId="s28_1"><num value="1">(1)</num><content>Subject to subsection (2), when Class 3 or 3A dangerous goods in bulk are being
+                handled on board a type 3 vessel, all openings in the cargo tanks of the vessel with
+                direct access to the open air, except those forming part of the ventilation system
+                of the vessel, must be kept closed.</content></subsection><subsection id="ID_1438411823858_033" name="2" temporalId="s28_2"><num value="2">(2)</num><content>Subsection (1) does not prevent the opening of any ullage or sighting port in
+                the cargo tanks for so long as is necessary to take dips or samples or make
+                observations on condition that the ullage or sighting port is adequately protected
+                by a flame screen that may only be removed for taking dips or samples or making
+                observations.</content></subsection><subsection id="ID_1438411823873_005" name="3" temporalId="s28_3"><num value="3">(3)</num><content>If subsection (1) is contravened, the master of the vessel commits an offence
+                and is liable on conviction to a fine at level 4 and to imprisonment for 3
+                months.</content></subsection><subsection id="ID_1438411823873_013" name="4" temporalId="s28_4"><num value="4">(4)</num><leadIn>It is a defence to a charge under subsection (3) if the person charged proves
+                that—</leadIn><paragraph id="ID_1438411823873_021" name="a" temporalId="s28_4_a"><num value="a">(a)</num><content>the offence was committed without the person’s consent or connivance;
+                    and</content></paragraph><paragraph id="ID_1438411823873_029" name="b" temporalId="s28_4_b"><num value="b">(b)</num><content>having regard to all the circumstances, the person exercised all the due
+                    diligence that the person ought to have exercised to prevent the commission of
+                    the offence.</content></paragraph></subsection></section><section id="ID_1438402953498_001" name="s29" reason="inEffect" status="operational" temporalId="s29" startPeriod="2022-03-31"><num value="29">29.</num><heading>Trained personnel required to handle dangerous goods on board type 3
+            vessels</heading><subsection id="ID_1438411823905_005" name="1" temporalId="s29_1"><num value="1">(1)</num><content>The owner of a type 3 vessel carrying dangerous goods must employ a person who
+                holds a valid dangerous goods certificate to supervise the segregation, handling,
+                labelling, securing or stowage of those dangerous goods.</content></subsection><subsection id="ID_1438411823905_013" name="2" temporalId="s29_2"><num value="2">(2)</num><content>Subsection (1) does not apply in respect of the dangerous goods or radioactive
+                substances to which <ref>section 18(1)</ref> does not apply by virtue of
+                    <ref>section 18(2)</ref>.</content></subsection><subsection id="ID_1438411823905_021" name="3" temporalId="s29_3"><num value="3">(3)</num><content>A person who contravenes subsection (1) commits an offence and is liable on
+                conviction to a fine at level 3 and to imprisonment for 1 month.</content></subsection><subsection id="ID_1438411823905_029" name="4" temporalId="s29_4"><num value="4">(4)</num><leadIn>In this section—</leadIn><def name="ValidDangerousGoodsCertificate"><term>valid dangerous goods
+                    certificate</term> (<term xml:lang="zh-Hant-HK">有效危險品證書</term>) means a
+                certificate granted in respect of a dangerous goods training course recognized by
+                the Director under <ref>section 30</ref> and that has not expired.</def></subsection></section><section id="ID_1438402953514_001" name="s30" reason="inEffect" status="operational" temporalId="s30" startPeriod="2022-03-31"><num value="30">30.</num><heading>Recognized training courses</heading><subsection id="ID_1438411823951_011" name="1" temporalId="s30_1"><num value="1">(1)</num><content>The Director may, by notice in writing published in any manner the Director
+                thinks fit, recognize one or more training courses for the purposes of <ref>section
+                    29</ref>.</content></subsection><subsection id="ID_1438411823951_019" name="2" temporalId="s30_2"><num value="2">(2)</num><content>A person who organizes a training course recognized by the Director under
+                subsection (1) may grant to a person who has satisfactorily completed the course a
+                certificate to that effect.</content></subsection><subsection id="ID_1438411823951_027" name="3" temporalId="s30_3"><num value="3">(3)</num><content>A certificate granted under subsection (2) must specify a date of expiry of the
+                certificate, which date must not exceed 5 years after the date of issue.</content></subsection></section></part><part id="ID_1438402953514_003" name="P5" reason="inEffect" status="operational" temporalId="P5" startPeriod="2022-03-31"><num value="5">Part 5</num><heading>Miscellaneous</heading><section id="ID_1438402953529_002" name="s31" reason="inEffect" status="operational" temporalId="s31" startPeriod="2022-03-31"><num value="31">31.</num><heading>Permits required to discharge fireworks at sea</heading><subsection id="ID_1438411823983_018" name="1" temporalId="s31_1"><num value="1">(1)</num><content>Except under the authority of a permit granted under subsection (2), a person
+                must not discharge or cause to be discharged any fireworks at sea.</content></subsection><subsection id="ID_1438411823983_026" name="2" temporalId="s31_2"><num value="2">(2)</num><content>The Director may, on application and payment of the fee specified in
+                    <ref>Schedule 3</ref>, grant to any person a permit authorizing the discharge of
+                fireworks at sea.</content></subsection><subsection id="ID_1438411823983_034" name="3" temporalId="s31_3"><num value="3">(3)</num><content>A permit under subsection (2) may be granted in respect of any fireworks or any
+                class of fireworks.</content></subsection><subsection id="ID_1438411823983_042" name="4" temporalId="s31_4"><num value="4">(4)</num><content>A person who contravenes subsection (1) commits an offence and is liable on
+                conviction to a fine at level 2.</content></subsection></section><section id="ID_1438402953545_001" name="s32" reason="inEffect" status="operational" temporalId="s32" startPeriod="2022-03-31"><num value="32">32.</num><heading>Contravention of Director’s directions</heading><text>If a vessel to which this Regulation applies contravenes a direction given by the
+            Director under <ref>section 8</ref>, <ref>11</ref>, <ref>12</ref>, <ref>13</ref>,
+                <ref>14</ref>, <ref>25</ref> or <ref>26</ref>, the master of the vessel commits an
+            offence and is liable on conviction to a fine at level 4 and to imprisonment for 3
+            months.</text></section><section id="ID_1438402953545_003" name="s33" reason="inEffect" status="operational" temporalId="s33" startPeriod="2022-03-31"><num value="33">33.</num><heading>Power of Director to grant exemptions</heading><subsection id="ID_1438411824014_039" name="1" temporalId="s33_1"><num value="1">(1)</num><content>The Director may in respect of dangerous goods at sea, grant an exemption, in
+                respect of a specific case or a specific person, from all or any of the provisions
+                of this Regulation, subject to any conditions the Director specifies.</content></subsection><subsection id="ID_1438411824029_005" name="2" temporalId="s33_2"><num value="2">(2)</num><content>The Director may vary or revoke any exemption granted under subsection
+                (1).</content></subsection></section><section id="ID_1438402953561_002" name="s34" reason="inEffect" status="operational" temporalId="s34" startPeriod="2022-03-31"><num value="34">34.</num><heading>Dangerous Goods (Shipping) Regulations repealed</heading><text>The Dangerous Goods (Shipping) Regulations (<ref href="/hk/cap295C">Cap. 295 sub. leg.
+                C</ref>) are repealed.</text></section></part><part id="ID_1438402953561_004" name="P6" reason="inEffect" status="operational" temporalId="P6" startPeriod="2022-03-31"><num value="6">Part 6</num><heading>Savings and Transitional Provisions</heading><section id="ID_1438402953576_002" name="s35" reason="inEffect" status="operational" temporalId="s35" startPeriod="2022-03-31"><num value="35">35.</num><heading>Interpretation</heading><leadIn>In this Part—</leadIn><def name="CommencementDate"><inline class="force_orig_font">*</inline><term>commencement date</term> (<term xml:lang="zh-Hant-HK">生效日期</term>) means the date of commencement of
+                        this Regulation;</def><def name="RepealedRegulations"><term>Repealed Regulations</term> (《<term xml:lang="zh-Hant-HK">被廢除規例</term>》) means the Dangerous Goods
+                        (Shipping) Regulations (<ref href="/hk/cap295C">Cap. 295 sub. leg. C</ref>)
+                        as in force immediately before the commencement date.</def><editorialNote type="footnote" id="ID_1647930842362_001">
+                        <content>Editorial Note:</content>
+                        <content><inline class="force_orig_font">*</inline> Commencement date: 31
+                                March 2022.</content>
+                </editorialNote></section><section id="ID_1438402953592_001" name="s36" reason="inEffect" status="operational" temporalId="s36" startPeriod="2022-03-31"><num value="36">36.</num><heading>Permissions and permits granted immediately before commencement date</heading><text>If, immediately before the commencement date, there was in effect a permission or
+            permit granted by the Director under the Repealed Regulations in respect of any
+            substance, material or article, then, on and after that date, the permission or permit
+            is, for the unexpired period of its validity and subject to the same conditions to which
+            it was subject immediately before that date, to be regarded as a permission or permit
+            granted by the Director under this Regulation in respect of the same substance, material
+            or article.</text></section><section id="ID_1438402953592_003" name="s37" reason="inEffect" status="operational" temporalId="s37" startPeriod="2022-03-31"><num value="37">37.</num><heading>Dangerous goods manifests submitted in respect of type 1 vessels under Repealed
+            Regulations</heading><text>A manifest submitted to the Director immediately before the commencement date under
+                <ref>regulation 4</ref> of the Repealed Regulations is to be regarded as a manifest
+            submitted to the Director under <ref>section 7</ref> of this Regulation.</text></section></part><schedule id="ID_1438402953607_001" name="sch1" reason="inEffect" status="operational" temporalId="sch1" startPeriod="2025-01-10"><num value="1">Schedule 1</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap295F/s2">s. 2</ref>]</note><heading>Approved
+            Wharves</heading><sourceNote>(<ref href="/hk/2024/27">27 of 2024 s. 7</ref>)</sourceNote><part id="ID_1438411824107_017" name="P1" temporalId="sch1_P1"><num value="1">Part
+                1</num><heading>Wharves for Berthing of Type 2 and Type 3
+                Vessels<marker role="blank-line"></marker></heading><text>
+                <table xmlns="http://www.w3.org/1999/xhtml">
+                    <col width="16.7222%"></col>
+                    <col width="83.2778%"></col>
+                    <tr>
+                        <td>
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">1.</center>
+                        </td>
+                        <td>
+                            <p class="align_justified first_line_indent_0 align_justified">The
+                                wharves at Tsing Yi Island (west) belonging to Chevron Hong Kong
+                                Limited (Tsuen Wan Permanent Pier No. 35).</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>
+                            
+                            
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">2.</center>
+                        </td>
+                        <td>
+                            <p class="align_justified first_line_indent_0 align_justified">The
+                                wharves at Tsing Yi Island (south) belonging to Castle Peak Power
+                                Co. Ltd. (Kwai Tsing Permanent Pier No. 36 and No. 37).</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>
+                            
+                            
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">3.</center>
+                        </td>
+                        <td>
+                            <p class="align_justified first_line_indent_0 align_justified">The wharf
+                                at Ap Lei Chau belonging to Shell Hong Kong Limited.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>
+                            
+                            
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">4.</center>
+                        </td>
+                        <td>
+                            <p class="align_justified first_line_indent_0 align_justified">The wharf
+                                at Chai Wan operated by Sinopec (Hong Kong) Petroleum Holding
+                                Company Limited (CWML No. 2).</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>
+                            
+                            
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">5.</center>
+                        </td>
+                        <td>
+                            <p class="align_justified first_line_indent_0 align_justified">The
+                                discharge dolphins at Pak Sha Tau Chau in Tolo Harbour belonging to
+                                Hong Kong and China Gas Company Limited.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>
+                            
+                            
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">6.</center>
+                        </td>
+                        <td>
+                            <p class="align_justified first_line_indent_0 align_justified">The
+                                wharves at Tsing Yi Island (west) belonging to Shell Hong Kong
+                                Limited (TYTL No. 108).</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>
+                            
+                            
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">7.</center>
+                        </td>
+                        <td>
+                            <p class="align_justified first_line_indent_0 align_justified">The wharf
+                                of Lok On Pai belonging to Hong Kong Petrochemical Company Limited.
+                                (STL No. 739).</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>
+                            
+                            
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">8.</center>
+                        </td>
+                        <td>
+                            <p class="align_justified first_line_indent_0 align_justified">The
+                                wharves at Tsing Yi Island (Southwest) belonging to Exxon Limited
+                                (TYTL No. 115).</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>
+                            
+                            
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">9.</center>
+                        </td>
+                        <td>
+                            <p class="align_justified first_line_indent_0 align_justified">The
+                                wharves at Tsing Yi Island belonging to Chevron Hong Kong Limited
+                                (Kwai Tsing Permanent Pier No. 34).</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>
+                            
+                            
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">10.</center>
+                        </td>
+                        <td>
+                            <p class="align_justified first_line_indent_0 align_justified">The
+                                wharves at Sha Chau operated by AFSC Operations Limited (TMTL No.
+                                404).</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>
+                            
+                            
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">11.</center>
+                        </td>
+                        <td>
+                            <p class="align_justified first_line_indent_0 align_justified">The
+                                wharves at Tsing Yi Island operated by Sinopec (Hong Kong) Petroleum
+                                Holding Company Limited (TYTL No. 127).</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>
+                            
+                            
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">12.</center>
+                        </td>
+                        <td>
+                            <p class="align_justified first_line_indent_0 align_justified">The
+                                wharves at west quay of Hong Kong International Airport operated by
+                                AFSC Operations Limited (Chak Lap Kok Lot No. 1 and Extension).</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>
+                            
+                            
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">13.</center>
+                        </td>
+                        <td>
+                            <p class="align_justified first_line_indent_0 align_justified">The
+                                wharves at Tuen Mun belonging to ECO Aviation Fuel Services Limited
+                                (TMTL No. 471, Area 38).</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>
+                            
+                            
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">14.</center>
+                        </td>
+                        <td>
+                            <p class="align_justified first_line_indent_0 align_justified">The wharf
+                                at Po Lo Tsui on Lamma Island belonging to The Hongkong Electric Co.
+                                Ltd. (DD3 Lot No. 2200).</p>
+                        </td>
+                    </tr>
+                    
+                    
+                    <tr>
+                        <td></td>
+                        <td>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">15.</center>
+                        </td>
+                        <td>
+                            <p class="align_justified first_line_indent_0 align_justified">The wharf
+                                at the east of Soko Islands operated by Hong Kong LNG Terminal
+                                Limited. <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="hk/2023/ln26">L.N. 26 of
+                                    2023</ref>)</sourceNote></p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">16.</center>
+                        </td>
+                        <td>
+                            <p class="align_justified first_line_indent_0 align_justified">The wharf
+                                at 22 Chun Wang Street, Tseung Kwan O Industrial Estate belonging to
+                                ASB BIODIESEL (HONG KONG) LIMIITED (Tseung Kwan O Town Lot No. 39
+                                Section Q, Subsection 1, Subsection 2 and Extension thereto).
+                                    <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="hk/2023/ln26">L.N. 26 of 2023</ref>)</sourceNote></p>
+                        </td>
+                    </tr>
+                    
+                    
+                </table>
+                
+                
+                
+            </text></part><part id="ID_1438411824123_065" name="P2" temporalId="sch1_P2"><num value="2">Part
+                2</num><heading>Wharves for Berthing of Type 3
+                Vessels<marker role="blank-line"></marker></heading><text>
+                <table xmlns="http://www.w3.org/1999/xhtml">
+                    <col width="16.7222%"></col>
+                    <col width="83.2778%"></col>
+                    <tr>
+                        <td>
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">1.</center>
+                        </td>
+                        <td>
+                            <p class="align_justified first_line_indent_0 align_justified">The wharf
+                                at To Kwa Wan belonging to Hong Kong and China Gas Company
+                                Limited.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>
+                            
+                            
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">2.</center>
+                        </td>
+                        <td>
+                            <p class="align_justified first_line_indent_0 align_justified">The wharf
+                                at Tai Tam Tuk Raw Water Pumping Station belonging to the Hong Kong
+                                SAR Government.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>
+                            
+                            
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">3.</center>
+                        </td>
+                        <td>
+                            <p class="align_justified first_line_indent_0 align_justified">The wharf
+                                at Hong Kong-Macau Ferry Terminal at Central belonging to the Hong
+                                Kong SAR Government.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>
+                            
+                            
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">4.</center>
+                        </td>
+                        <td>
+                            <p class="align_justified first_line_indent_0 align_justified">The wharf
+                                at Po Lo Tsui on Lamma Island belonging to The Hongkong Electric Co.
+                                Ltd.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>
+                            
+                            
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">5.</center>
+                        </td>
+                        <td>
+                            <p class="align_justified first_line_indent_0 align_justified">The wharf
+                                of the Castle Peak Power Station at Tap Shek Kok belonging to Castle
+                                Peak Power Co. Ltd.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>
+                            
+                            
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">6.</center>
+                        </td>
+                        <td>
+                            <p class="align_justified first_line_indent_0 align_justified">The wharf
+                                at Shau Kei Wan belonging to Chevron Hong Kong Limited.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>
+                            
+                            
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">7.</center>
+                        </td>
+                        <td>
+                            <p class="align_justified first_line_indent_0 align_justified">The wharf
+                                at Kennedy Town belonging to China Merchants Godown, Wharf and
+                                Transportation Company Limited.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>
+                            
+                            
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">8.</center>
+                        </td>
+                        <td>
+                            <p class="align_justified first_line_indent_0 align_justified">The wharf
+                                at China Ferry Terminal at Tsim Sha Tsui belonging to the Hong Kong
+                                SAR Government.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>
+                            
+                            
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">9.</center>
+                        </td>
+                        <td>
+                            <p class="align_justified first_line_indent_0 align_justified">The wharf
+                                at Nim Shue Wan in Discovery Bay operated by Sinopec (Hong Kong)
+                                Fuel Oil Company Limited.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>
+                            
+                            
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">10.</center>
+                        </td>
+                        <td>
+                            <p class="align_justified first_line_indent_0 align_justified">The jetty
+                                at Aberdeen Marina Club operated by Wah Fu Petroleum Co. Ltd.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>
+                            
+                            
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">11.</center>
+                        </td>
+                        <td>
+                            <p class="align_justified first_line_indent_0 align_justified">The wharf
+                                at the Ngong Shuen Chau Barracks.</p>
+                        </td>
+                    </tr>
+                </table>
+                
+                
+                
+            </text></part></schedule><schedule id="ID_1438402953623_001" name="sch2" reason="inEffect" status="operational" temporalId="sch2" startPeriod="2022-03-31"><num value="2">Schedule 2</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap295F/s2">s. 2</ref>]</note><heading>Approved Container Terminals</heading><text>
+            <table xmlns="http://www.w3.org/1999/xhtml">
+                <col width="14.5035%"></col>
+                <col width="85.4965%"></col>
+                <tr>
+                    <td>
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">1.</center>
+                    </td>
+                    <td>
+                        <p class="left_indent_12 first_line_indent_0 align_justified">The Container
+                            Terminal at Tsim Sha Tsui belonging to Wharf (Holdings) Limited.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td>
+                        
+                        
+                        
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">2.</center>
+                    </td>
+                    <td>
+                        <p class="left_indent_12 first_line_indent_0 align_justified">The Container
+                            Terminal at Kwai Chung belonging to Modern Terminals Limited.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td>
+                        
+                        
+                        
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">3.</center>
+                    </td>
+                    <td>
+                        <p class="left_indent_12 first_line_indent_0 align_justified">The Container
+                            Terminal at Kwai Chung belonging to Hongkong International Terminals
+                            Ltd. or its subsidiaries.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td>
+                        
+                        
+                        
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">4.</center>
+                    </td>
+                    <td>
+                        <p class="left_indent_12 first_line_indent_0 align_justified">The Container
+                            Terminal at Kwai Chung belonging to CSX World Terminals Hong Kong
+                            Limited.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td>
+                        
+                        
+                        
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">5.</center>
+                    </td>
+                    <td>
+                        <p class="left_indent_12 first_line_indent_0 align_justified">The Container
+                            Terminal at Kwai Chung Container Terminal 8 (east) belonging to
+                            COSCO-HIT Terminals (Hong Kong) Ltd.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td>
+                        
+                        
+                        
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">6.</center>
+                    </td>
+                    <td>
+                        <p class="left_indent_12 first_line_indent_0 align_justified">The Container
+                            Terminal at River Trade Terminal, Tuen Mun belonging to River Trade
+                            Terminal Co. Ltd. (TMTL No. 393).</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td>
+                        
+                        
+                        
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">7.</center>
+                    </td>
+                    <td>
+                        <p class="left_indent_12 first_line_indent_0 align_justified">The Container
+                            Terminal at Tsing Yi Container Terminal 9 (north) belonging to Hongkong
+                            International Terminals Ltd.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td>
+                        
+                        
+                        
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">8.</center>
+                    </td>
+                    <td>
+                        <p class="left_indent_12 first_line_indent_0 align_justified">The Container
+                            Terminal at Tsing Yi Container Terminal 9 (south) belonging to Modern
+                            Terminals Limited.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td>
+                        
+                        
+                        
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">9.</center>
+                    </td>
+                    <td>
+                        <p class="left_indent_12 first_line_indent_0 align_justified">The Container
+                            Terminal at Kwai Chung Container Terminal 8 (west) belonging to Asia
+                            Container Terminals Ltd.</p>
+                    </td>
+                </tr>
+            </table>
+            
+            
+            
+        </text></schedule><schedule id="ID_1438402953623_003" name="sch3" reason="inEffect" status="operational" temporalId="sch3" startPeriod="2022-03-31"><num value="3">Schedule 3</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap295F/s19">ss. 19</ref> &amp; <ref href="/hk/cap295F/s31">31</ref>]</note><heading>Fees</heading><text><table xmlns="http://www.w3.org/1999/xhtml">
+                
+                <col width="3%"></col>
+                
+                
+                <col width="11%"></col>
+                
+                <col width="69%"></col>
+                
+                <col width="17%"></col>
+                <tr>
+                    
+                    <td></td>
+                    
+                    <td>Item</td>
+                    <td>
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Description</center>
+                    </td>
+                    <td>
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Amount</center>
+                    </td>
+                </tr>
+                
+                
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td></td>
+                </tr>
+                
+                <tr>
+                    
+                    <td></td>
+                    
+                    <td>1.</td>
+                    
+                    <td class="align_justified">Conveyance permit under <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">section 19</ref> for
+                        dangerous goods (other than Class 1 dangerous goods)</td>
+                    
+                    <td class="align_right cellpadding_right_18">$160</td>
+                </tr>
+                <tr>
+                    
+                    <td></td>
+                    
+                    <td></td>
+                    <td>
+                        
+                        
+                        
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        
+                    </td>
+                    <td></td>
+                </tr>
+                <tr>
+                    
+                    <td></td>
+                    
+                    <td>2.</td>
+                    
+                    <td class="align_justified">Conveyance permit under <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">section 19</ref> for
+                        Class 1 dangerous goods</td>
+                    
+                    <td class="align_right cellpadding_right_18">$315</td>
+                </tr>
+                <tr>
+                    
+                    <td></td>
+                    
+                    <td></td>
+                    <td>
+                        
+                        
+                        
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        
+                    </td>
+                    <td></td>
+                </tr>
+                <tr>
+                    
+                    <td></td>
+                    
+                    <td>3.</td>
+                    
+                    <td class="align_justified">Firework discharge permit under <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">section 31</ref></td>
+                    
+                    <td class="align_right cellpadding_right_18">$15</td>
+                </tr>
+            </table><sourceNote>(<ref href="hk/2021/29">29 of 2021 s.
+            21</ref>)</sourceNote></text></schedule></main></subLeg>

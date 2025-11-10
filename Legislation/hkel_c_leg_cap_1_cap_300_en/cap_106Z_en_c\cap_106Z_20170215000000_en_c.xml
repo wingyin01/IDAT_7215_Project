@@ -1,0 +1,1239 @@
+<?xml version="1.0" encoding="UTF-8"?><subLeg xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd" xml:lang="en"><meta><docName>Cap. 106 sub. leg. Z</docName><docType>cap</docType><docNumber>106Z</docNumber><docStatus>In effect</docStatus><dc:identifier>/hk/cap106Z!en</dc:identifier><dc:date>2017-02-15</dc:date><dc:subject>legislation</dc:subject><dc:language>en</dc:language><dc:publisher>DoJ</dc:publisher><dc:rights>the Government of the Hong Kong Special Administrative Region</dc:rights></meta><main xml:lang="en" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd"><docTitle id="ID_1438402553248_002" name="shortTitle" reason="inEffect" status="operational" temporalId="shortTitle" startPeriod="2012-08-02">Telecommunications (Telecommunications Apparatus) (Exemption
+            from Licensing) Order</docTitle><enactingFormula role="empoweringSection">(<ref href="/hk/cap106/s39">Cap. 106, section
+                39</ref>)</enactingFormula><sourceNote>(Enacting provision omitted—<ref href="/hk/2012/er2">E.R. 2 of
+            2012</ref>)<marker role="blank-line"></marker><marker role="blank-line"></marker></sourceNote><commencementNote>[21 February 2003]<sourceNote><inline class="width_3"> </inline><ref href="/hk/2003/ln50">L.N. 50 of 2003</ref></sourceNote></commencementNote><sourceNote>(Format changes—<ref href="/hk/2012/er2">E.R. 2 of 2012</ref>)</sourceNote><section id="ID_1438402553295_002" name="s1" reason="omittedAsSpent" startPeriod="2012-08-02" status="omitted" temporalId="s1"><num value="1">1.</num><sourceNote>(Omitted as spent—<ref href="/hk/2012/er2">E.R. 2 of 2012</ref>)</sourceNote></section><section id="ID_1438402553326_002" name="s2" reason="inEffect" startPeriod="2013-05-10" status="operational" temporalId="s2"><num value="2">2.</num><heading>Interpretation</heading><leadIn>In this Order, unless the context otherwise requires—</leadIn><def name="2012AmendmentOrder"><term>2012 Amendment Order</term> (《<term xml:lang="zh-Hant-HK">2012年修訂令</term>》) means the Telecommunications (Telecommunications Apparatus) (Exemption from Licensing) (Amendment) Order 2012;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2012/ln190">L.N. 190 of 2012</ref>)</sourceNote></def><def name="CarrierPower,MeanPower,MobileEarthStation,SpuriousEmission,UnwantedEmissions"><term>carrier power</term> (<term xml:lang="zh-Hant-HK">載波功率</term>), <i><b>effective radiated power</b></i> or <i><b>e.r.p.</b></i> (有效輻射功率), <i><b>equivalent isotropically radiated power</b></i> or <i><b>e.i.r.p.</b></i> (等效全向輻射功率), <term>mean power</term> (<term xml:lang="zh-Hant-HK">平均功率</term>), <term>mobile earth station</term> (<term xml:lang="zh-Hant-HK">移動地球站</term>), <term>spurious emission</term> (<term xml:lang="zh-Hant-HK">雜散發射</term>) and <term>unwanted emissions</term> (<term xml:lang="zh-Hant-HK">無用發射</term>) have the meanings assigned to them respectively by Article 1 of Chapter 1 of the Radio Regulations published by the General Secretariat of the International Telecommunication Union, edition of 2001, as revised from time to time;</def><def name="DigitalModulation"><term>digital modulation</term> (<term xml:lang="zh-Hant-HK">數碼調制</term>) means the process by which the characteristics of a carrier wave (that is to say, an electromagnetic wave used to carry an information signal) are varied among a set of predetermined discrete values in accordance with a digital modulating function as specified in document ANSI C63.17-1998 published by the American National Standards Institute;</def><def name="FrequencyHoppingSpreadSpectrumModulation"><term>frequency hopping spread spectrum modulation</term> (<term xml:lang="zh-Hant-HK">頻率跳變擴譜調制</term>) means a modulation system which hops to channel frequencies that are selected at the system hopping rate from a pseudorandomly ordered list of hopping frequencies;</def><def name="Modulation"><term>modulation</term> (<term xml:lang="zh-Hant-HK">調制</term>) has the meaning assigned to it in “Terms and Definitions” of the Recommendation ITU-R V.662 approved by the International Telecommunication Union, as revised from time to time;</def><def name="Nonradiocommunications"><term>non-radiocommunications</term> (<term xml:lang="zh-Hant-HK">非無線電通訊</term>) means telecommunications other than by means of radio waves;</def><def name="NonradiocommunicationsApparatus"><term>non-radiocommunications apparatus</term> (<term xml:lang="zh-Hant-HK">非無線電通訊器具</term>) means telecommunications apparatus used for or in connection with non-radiocommunications;</def><def name="Taxi"><term>taxi</term> (<term xml:lang="zh-Hant-HK">的士</term>) means a motor vehicle which is registered as a taxi under the Road Traffic Ordinance (<ref href="/hk/cap374">Cap. 374</ref>);</def><def name="TelecommunicationsApparatus"><term>telecommunications apparatus</term> (<term xml:lang="zh-Hant-HK">電訊器具</term>) means an apparatus used for or in connection with non-radiocommunications or radiocommunications or both.</def></section><section id="ID_1438402553357_002" name="s3" reason="inEffect" startPeriod="2012-08-02" status="operational" temporalId="s3"><num value="3">3.</num><heading>Exemption for non-radiocommunications apparatus</heading><subsection id="ID_1438410839933_004" name="1" temporalId="s3_1"><num value="1">(1)</num><leadIn>A person who establishes or maintains any non-radiocommunications apparatus which is not used to provide a public telecommunications service and—</leadIn><paragraph id="ID_1438410839933_012" name="a" temporalId="s3_1_a"><num value="a">(a)</num><leadIn>is lawfully connected to a telecommunications network or system for obtaining services from a person who operates that telecommunications network or system under any of the following licences issued or created under the Ordinance—</leadIn><subparagraph id="ID_1438410839933_020" name="i" temporalId="s3_1_a_i"><num value="i">(i)</num><content>a fixed carrier licence;</content></subparagraph><subparagraph id="ID_1438410839933_028" name="ii" temporalId="s3_1_a_ii"><num value="ii">(ii)</num><content>a fixed telecommunications network services licence;</content></subparagraph><subparagraph id="ID_1438410839933_036" name="iii" temporalId="s3_1_a_iii"><num value="iii">(iii)</num><content>a public non-exclusive telecommunications service licence (for services other than a licence for mobile virtual network operator services);</content></subparagraph><subparagraph id="ID_1438410839933_044" name="iv" temporalId="s3_1_a_iv"><num value="iv">(iv)</num><content>the class licence for in-building telecommunications systems;</content></subparagraph><subparagraph id="ID_1438410839933_052" name="v" temporalId="s3_1_a_v"><num value="v">(v)</num><content>any other licence (including a class licence) for the provision of any public telecommunications service; or</content></subparagraph></paragraph><paragraph id="ID_1438410839933_059" name="b" temporalId="s3_1_b"><num value="b">(b)</num><leadIn>is used in a manner other than that described in paragraph (a) where—</leadIn><subparagraph id="ID_1438410839948_006" name="i" temporalId="s3_1_b_i"><num value="i">(i)</num><content>the person and the apparatus meet the conditions specified in subsection (2); and</content></subparagraph><subparagraph id="ID_1438410839948_014" name="ii" temporalId="s3_1_b_ii"><num value="ii">(ii)</num><content>the apparatus meets the technical criteria set out in <ref>Schedule 2</ref>,</content></subparagraph></paragraph><continued>	is exempted from the obligation to hold a licence under <ref>section 8(1)(a)</ref> of the Ordinance.</continued></subsection><subsection id="ID_1438410839948_026" name="2" temporalId="s3_2"><num value="2">(2)</num><leadIn>For the purposes of subsection <ref>(1)(b)(i)</ref>, the conditions are that—</leadIn><paragraph id="ID_1438410839948_034" name="a" temporalId="s3_2_a"><num value="a">(a)</num><content>the person does not use the apparatus in such a manner as to cause harmful interference with other telecommunications apparatus or any telecommunications system authorized under the Ordinance;</content></paragraph><paragraph id="ID_1438410839948_042" name="b" temporalId="s3_2_b"><num value="b">(b)</num><content>the person complies with any direction given by the Authority for avoiding interference with other telecommunications apparatus or any telecommunications system authorized under the Ordinance;</content></paragraph><paragraph id="ID_1438410839948_050" name="c" temporalId="s3_2_c"><num value="c">(c)</num><content>the apparatus tolerates interference from other telecommunications apparatus or any telecommunications system authorized under the Ordinance; and</content></paragraph><paragraph id="ID_1438410839948_058" name="d" temporalId="s3_2_d"><num value="d">(d)</num><content>the apparatus is made available for inspection and testing, if so required, by any person authorized for the purpose by the Authority.</content></paragraph></subsection></section><section id="ID_1438402553373_002" name="s4" reason="inEffect" startPeriod="2012-08-02" status="operational" temporalId="s4"><num value="4">4.</num><heading>Exemption for radiocommunications apparatus relating to taxis</heading><subsection id="ID_1438410839980_057" name="1" temporalId="s4_1"><num value="1">(1)</num><leadIn>Subject to subsection (2), a person who—</leadIn><paragraph id="ID_1438410839995_005" name="a" temporalId="s4_1_a"><num value="a">(a)</num><content>possesses any radiocommunications apparatus capable of being used; or</content></paragraph><paragraph id="ID_1438410839995_013" name="b" temporalId="s4_1_b"><num value="b">(b)</num><content>uses any radiocommunications apparatus,</content></paragraph><continued>	solely for a lawful connection to a telecommunications network or system for obtaining services from a person who operates that telecommunications network or system under a public radiocommunications service licence for communication between a radiocommunications installation and taxis is exempted from the obligation to hold a licence under <ref>section 8(1)(a)</ref> or (b) of the Ordinance, as the case may be.</continued></subsection><subsection id="ID_1438410839995_026" name="2" temporalId="s4_2"><num value="2">(2)</num><leadIn>A person is not exempted from <ref>section 8(1)(a)</ref> or (b) of the Ordinance, as the case may be, unless—</leadIn><paragraph id="ID_1438410839995_034" name="a" temporalId="s4_2_a"><num value="a">(a)</num><content>the person complies with any standards or specifications as may be prescribed under <ref>section 32D</ref>, and with any order or requirements as may be prescribed under <ref>section 32E</ref>, of the Ordinance;</content></paragraph><paragraph id="ID_1438410839995_042" name="b" temporalId="s4_2_b"><num value="b">(b)</num><content>the person does not use the apparatus to provide a public telecommunications service;</content></paragraph><paragraph id="ID_1438410840011_006" name="c" temporalId="s4_2_c"><num value="c">(c)</num><content>the person does not use the apparatus in such a manner as to cause harmful interference with other telecommunications apparatus or any telecommunications system authorized under the Ordinance;</content></paragraph><paragraph id="ID_1438410840011_014" name="d" temporalId="s4_2_d"><num value="d">(d)</num><content>the person complies with any direction given by the Authority for avoiding interference with other telecommunications apparatus or any telecommunications system authorized under the Ordinance; and</content></paragraph><paragraph id="ID_1438410840011_022" name="e" temporalId="s4_2_e"><num value="e">(e)</num><content>the apparatus is made available for inspection and testing, if so required, by any person authorized for the purpose by the Authority.</content></paragraph></subsection></section><section id="ID_1438402553404_001" name="s5" reason="inEffect" startPeriod="2016-10-20" status="operational" temporalId="s5"><num value="5">5.</num><heading>Exemption for other radiocommunications apparatus</heading><subsection id="ID_1438410840042_004" name="1" temporalId="s5_1"><num value="1">(1)</num><leadIn>Subject to subsection (2), a person who is under an obligation to hold a licence
+                under <ref>section 8(1)(a)</ref>,
+                    <ref>(b)</ref>,
+                    <ref>(c)</ref>
+                or
+                    <ref>(d)
+                </ref>of the Ordinance in respect of any radiocommunications apparatus is exempted
+                from <ref>section 8(1)(a)</ref>,
+                    <ref>(b)</ref>,
+                    <ref>(c)</ref>
+                or
+                    <ref>(d)</ref>
+                of the Ordinance, as the case may be, if the apparatus is used or is capable of
+                being used—</leadIn><paragraph id="ID_1438410840042_012" name="a" temporalId="s5_1_a"><num value="a">(a)</num><leadIn>for a lawful connection by radiocommunications to a telecommunications
+                    network or system for obtaining services from a person who operates that
+                    telecommunications network or system under any of the following licences issued
+                    or created under the Ordinance—</leadIn><subparagraph id="ID_1438410840042_020" name="i" temporalId="s5_1_a_i"><num value="i">(i)</num><content>a fixed carrier licence;</content></subparagraph><subparagraph id="ID_1438410840042_028" name="ii" temporalId="s5_1_a_ii"><num value="ii">(ii)</num><content>a mobile carrier licence;</content></subparagraph><subparagraph id="ID_1438410840042_036" name="iii" temporalId="s5_1_a_iii"><num value="iii">(iii)</num><content>a fixed telecommunications network services licence;</content></subparagraph><subparagraph id="ID_1438410840042_044" name="iv" temporalId="s5_1_a_iv"><num value="iv">(iv)</num><content>a public radiocommunications service licence (for services other than a
+                        licence for communication between a radiocommunications installation and
+                        taxis);</content></subparagraph><subparagraph id="ID_1438410840058_007" name="v" temporalId="s5_1_a_v"><num value="v">(v)</num><content>a public radiocommunications service licence (for services other than
+                        land mobile services);</content></subparagraph><subparagraph id="ID_1438410840058_015" name="vi" temporalId="s5_1_a_vi"><num value="vi">(vi)</num><content>a public non-exclusive telecommunications service licence;</content></subparagraph><subparagraph id="ID_1438410840058_023" name="vii" temporalId="s5_1_a_vii"><num value="vii">(vii)</num><content>the class licence for in-building telecommunications systems;</content></subparagraph><subparagraph id="ID_1438410840058_031" name="viii" temporalId="s5_1_a_viii"><num value="viii">(viii)</num><content>any other licence (including a class licence) for the provision of any
+                        public telecommunications service; or</content></subparagraph></paragraph><paragraph id="ID_1438410840058_038" name="b" temporalId="s5_1_b"><num value="b">(b)</num><leadIn>in a manner other than that described in paragraph (a), and—</leadIn><subparagraph id="ID_1438410840058_046" name="i" temporalId="s5_1_b_i"><num value="i">(i)</num><content>in the case where the apparatus is used or is capable of being used as
+                        a mobile earth station, it meets the technical criteria set out in
+                            <ref>Schedule 1</ref>; or</content></subparagraph><subparagraph id="ID_1438410840058_054" name="ii" temporalId="s5_1_b_ii"><num value="ii">(ii)</num><content>in the case where the apparatus is used or is capable of being used
+                        other than as a mobile earth station, it meets the technical criteria set
+                        out in <ref>Schedule 2</ref> and tolerates interference from other
+                        telecommunications apparatus or any telecommunications system authorized
+                        under the Ordinance.</content></subparagraph></paragraph></subsection><subsection id="ID_1438410840073_005" name="1A" temporalId="s5_1A"><num value="1A">(1A)</num><sourceNote>(Omitted as expired—<ref href="hk/2016/er1">E.R. 1 of 2016</ref>)</sourceNote></subsection><subsection id="ID_1438410840073_044" name="1B" temporalId="s5_1B"><num value="1B">(1B)</num><sourceNote>(Omitted as spent—<ref href="hk/2016/er1">E.R. 1 of 2016</ref>)</sourceNote></subsection><subsection id="ID_1438410840073_052" name="2" temporalId="s5_2"><num value="2">(2)</num><leadIn>A person is not exempted from <ref>section 8(1)(a)</ref>,
+                    <ref>(b)</ref>,
+                    <ref>(c)</ref>
+                or
+                    <ref>(d)</ref>
+                of the Ordinance, as the case may be, unless—</leadIn><paragraph id="ID_1438410840073_060" name="a" temporalId="s5_2_a"><num value="a">(a)</num><content>the person complies with any standards or specifications as may be
+                    prescribed under <ref>section 32D</ref>, and with any order or requirements as
+                    may be prescribed under <ref>section 32E</ref>, of the Ordinance;</content></paragraph><paragraph id="ID_1438410840089_006" name="b" temporalId="s5_2_b"><num value="b">(b)</num><content>the person does not use the apparatus to provide a public
+                    telecommunications service;</content></paragraph><paragraph id="ID_1438410840089_014" name="c" temporalId="s5_2_c"><num value="c">(c)</num><content>the person does not use the apparatus in such a manner as to cause harmful
+                    interference with other telecommunications apparatus or any telecommunications
+                    system authorized under the Ordinance;</content></paragraph><paragraph id="ID_1438410840089_022" name="d" temporalId="s5_2_d"><num value="d">(d)</num><content>the person complies with any direction given by the Authority for avoiding
+                    interference with other telecommunications apparatus or any telecommunications
+                    system authorized under the Ordinance; and</content></paragraph><paragraph id="ID_1438410840089_030" name="e" temporalId="s5_2_e"><num value="e">(e)</num><content>the apparatus is made available for inspection and testing, if so required,
+                    by any person authorized for the purpose by the Authority.</content></paragraph></subsection></section><section id="ID_1438402553420_001" name="s6" reason="inEffect" startPeriod="2016-10-20" status="operational" temporalId="s6"><num value="6">6.</num><heading>Exemption for hybrid telecommunications apparatus</heading><subsection id="ID_1438410840136_025" name="1" temporalId="s6_1"><num value="1">(1)</num><content>A person who is under an obligation to hold a licence
+                                                under <ref>section 8(1)(a)</ref> of the Ordinance in
+                                                respect of any non-radiocommunications apparatus
+                                                that is used in a combination of those manners as
+                                                described in <ref>section 3(1)(a)</ref> and
+                                                  <ref>(b)</ref>
+                                                is exempted from <ref>section 8(1)(a)</ref> of the
+                                                Ordinance if the provisions in <ref>section 3</ref>
+                                                are complied with.</content></subsection><subsection id="ID_1438410840151_005" name="2" temporalId="s6_2"><num value="2">(2)</num><content>A person who is under an obligation to hold a licence
+                                                under <ref>section 8(1)(a)</ref>,
+                                                  <ref>(b)</ref>,
+                                                  <ref>(c)</ref>
+                                                or
+                                                  <ref>(d)</ref>
+                                                of the Ordinance in respect of any
+                                                radiocommunications apparatus that is used or is
+                                                capable of being used in a combination of those
+                                                manners as described in <ref>section 5(1)(a)</ref>
+                                                and
+                                                  <ref>(b)</ref>
+                                                is exempted from <ref>section 8(1)(a)</ref>,
+                                                  <ref>(b)</ref>,
+                                                  <ref>(c)</ref>
+                                                or
+                                                  <ref>(d)</ref>
+                                                of the Ordinance, as the case may be, if the
+                                                provisions in <ref>section 5(1)</ref> and
+                                                  <ref>(2)</ref>
+                                                are complied with.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2012/ln190">L.N. 190 of 2012</ref>)</sourceNote></content></subsection><subsection id="ID_1438410840167_005" name="3" temporalId="s6_3"><num value="3">(3)</num><content>A person who is under an obligation to hold a licence
+                                                under <ref>section 8(1)(a)</ref>,
+                                                  <ref>(b)</ref>,
+                                                  <ref>(c)</ref>
+                                                or
+                                                  <ref>(d)</ref>
+                                                of the Ordinance in respect of any
+                                                telecommunications apparatus that is used or is
+                                                capable of being used in a combination of any one or
+                                                more of those manners as described in <ref>sections
+                                                  3(1)</ref> and <ref>5(1)</ref> is exempted from
+                                                  <ref>section 8(1)(a)</ref>,
+                                                  <ref>(b)</ref>,
+                                                  <ref>(c)</ref>
+                                                or
+                                                  <ref>(d)</ref>
+                                                of the Ordinance, as the case may be, if the
+                                                relevant provisions in both <ref>sections 3</ref>
+                                                and <ref>5</ref> are complied with.</content></subsection><subsection id="ID_1438410840182_005" name="4" temporalId="s6_4"><num value="4">(4)</num><sourceNote>(Omitted as expired—<ref href="hk/2016/er1">E.R. 1 of 2016</ref>)</sourceNote></subsection><subsection id="ID_1438410840182_028" name="5" temporalId="s6_5"><num value="5">(5)</num><sourceNote>(Omitted as spent—<ref href="hk/2016/er1">E.R. 1 of 2016</ref>)</sourceNote></subsection><sourceNote>(<ref href="/hk/2013/er1">E.R. 1 of 2013</ref>)</sourceNote></section><section id="ID_1438402553435_001" name="s7" reason="inEffect" startPeriod="2013-05-10" status="operational" temporalId="s7"><num value="7">7.</num><heading>Exemption for import and export of radiocommunications apparatus</heading><content>A person who imports into, or exports from, Hong Kong any radiocommunications apparatus exempted under <ref>section 5(1)</ref> or <ref>6(1)</ref>, (2) or (3) is also exempted from <ref>section 9</ref> of the Ordinance if the apparatus is imported or exported, as the case may be, for the person’s reasonable personal use and that the relevant quantity commensurates with such use.</content><sourceNote>(<ref href="/hk/2012/ln190">L.N. 190 of 2012</ref>)</sourceNote></section><section id="ID_1438402553435_003" name="s8" reason="omittedAsSpent" startPeriod="2012-08-02" status="omitted" temporalId="s8"><num value="8">8.</num><sourceNote>(Omitted as spent—<ref href="/hk/2012/er2">E.R. 2 of 2012</ref>)</sourceNote></section><schedule id="ID_1438402553467_002" name="sch1" reason="inEffect" startPeriod="2012-08-02" status="operational" temporalId="sch1"><num value="1">Schedule 1</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap106Z/s5">s. 5</ref>]</note><heading>Technical Criteria for Apparatus Used, etc. as Mobile Earth Stations</heading><section id="ID_1438410840245_012" name="1" temporalId="sch1_1" class="no_header"><num value="1">1.</num><content>The operating frequency for transmission shall be within the frequency bands
+                1610 MHz to 1660.5 MHz, 1668 MHz to 1675 MHz or 1980 MHz to 2010 MHz.</content></section><section id="ID_1438410840245_021" name="2" temporalId="sch1_2" class="no_header"><num value="2">2.</num><content>The operating frequency for reception shall be within the frequency bands 1518
+                MHz to 1559 MHz, 1613.8 MHz to 1626.5 MHz, 2170 MHz to 2200 MHz or 2483.5 MHz to
+                2500 MHz.</content></section><section id="ID_1438410840245_030" name="3" temporalId="sch1_3" class="no_header"><num value="3">3.</num><content>The mean equivalent isotropically radiated power density produced by the mobile
+                earth station shall not exceed -3 dBW/4kHz within the frequency band 1610 MHz to
+                1626.5 MHz.</content></section><section id="ID_1438410840245_039" name="4" temporalId="sch1_4" class="no_header"><num value="4">4.</num><leadIn>The unwanted emissions generated by the mobile earth station shall comply with
+                the relevant requirements in—</leadIn><paragraph id="ID_1438410840245_049" name="a" temporalId="sch1_4_a" class="no_header"><num value="a">(a)</num><content>Recommendation ITU-R M.1343 “Essential Technical Requirements of Mobile
+                    Earth Stations for Global Non-Geostationary Mobile-Satellite Service Systems in
+                    the Bands 1–3 GHz”;
+                    or<marker role="section-break"></marker></content></paragraph><paragraph id="ID_1438410840260_007" name="b" temporalId="sch1_4_b" class="no_header"><num value="b">(b)</num><content>Recommendation ITU-R M.1480 “Essential Technical Requirements of Mobile
+                    Earth Stations of Geostationary Mobile-Satellite Systems that are Implementing
+                    the Global Mobile Personal Communications By Satellite (GMPCS)—Memorandum of
+                    Understanding Arrangements in Parts of the Frequency Band 1–3 GHz”,</content></paragraph><continued> approved by the International Telecommunication Union as revised from time
+                to time.</continued><sourceNote>(<ref>Schedule 1</ref> replaced <ref href="/hk/2005/ln22">L.N. 22 of
+                    2005</ref>)</sourceNote></section></schedule><schedule id="ID_1438402553498_001" name="sch2" reason="inEffect" startPeriod="2013-05-10" status="operational" temporalId="sch2"><num value="2">Schedule 2</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap106Z/s3">ss. 3</ref> &amp; <ref href="/hk/cap106Z/s5">5</ref>]</note><heading>Technical Criteria for Apparatus Used, etc. other than as Mobile Earth Stations</heading><text class="first_line_indent_0">Telecommunications apparatus shall operate within a frequency band shown in column 1 of the following table and the output level and spurious emission level generated by the apparatus shall not exceed the limits set out opposite to that frequency band in columns 2 and 3—<marker role="blank-line"></marker><marker role="blank-line"></marker><table xmlns="http://www.w3.org/1999/xhtml" frame="box" width="100%" class="font_size_8.5 repeat_header">
+                
+                <col width="27%"></col>
+                
+                <col width="4%"></col>
+                <col width="30%"></col>
+                
+                <col width="4%"></col>
+                
+                <col width="35%"></col>
+                <thead>
+                    <tr>
+                        <th class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                            
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"><inline class="not_bold">Column 1</inline></center>
+                            
+                            
+                        </th>
+                        <th colspan="2" class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                            
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">
+                                <center><inline class="not_bold">Column 2</inline></center>
+                            </center>
+                            
+                            
+                        </th>
+                        <th colspan="2" class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                            
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"><inline class="not_bold">Column 3</inline></center>
+                            
+                            
+                        </th>
+                    </tr>
+                    <tr>
+                        <th class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                            
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"><inline class="not_bold">Frequency Band</inline></center>
+                            
+                            
+                        </th>
+                        <th colspan="2" class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                            
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"><inline class="not_bold">Limits on Output Level</inline></center>
+                            
+                            
+                        </th>
+                        <th colspan="2" class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                            
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"><inline class="not_bold">Limits on Spurious Emission Level</inline></center>
+                            
+                            
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td colspan="1" class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">3–195 kHz</td>
+                        <td colspan="2" class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">electric field strength not to exceed 40 dBμV/m and magnetic field strength not to exceed 48.4 dBnA/m at 100 m from the apparatus</td>
+                        <td colspan="2" class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">spurious emission level not to exceed the limits set out in Note <sup>[9]</sup></td>
+                    </tr>
+                    <tr>
+                        <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">1627.5–1796.5 kHz<sup>[1]</sup></td>
+                        <td colspan="2" class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">electric field strength not to exceed 88 dBμV/m at 30 m from the apparatus</td>
+                        <td colspan="2" class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">electric field strength not to exceed 34 dBμV/m at 30 m from the apparatus within 0.5–30 MHz; spurious emission level not to exceed the limits set out in Note <sup>[9](b)</sup></td>
+                    </tr>
+                    <tr>
+                        <td rowspan="2" class="border_top_0.75 border_right_0.75  border_left_0.75 border_bottom_0.75">13.553–13.567 MHz</td>
+                        <td class="border_top_0.75 border_left_0.75">(a) </td>
+                        <td class="border_top_0.75 border_right_0.75">electric field strength not to exceed 80 dBμV/m at 30 m from the apparatus; or</td>
+                        <td rowspan="4" colspan="2" class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">spurious emission level not to exceed the limits set out in Note <sup>[9]</sup></td>
+                    </tr>
+                    <tr>
+                        <td class=" border_bottom_0.75 border_left_0.75">(b) </td>
+                        <td class=" border_right_0.75 border_bottom_0.75">magnetic field strength not to exceed 42 dBμA/m at 10 m from the apparatus</td>
+                    </tr>
+                    <tr>
+                        <td class="border_top_0.75 border_right_0.75  border_left_0.75 border_bottom_0.75">26.96–27.28 MHz</td>
+                        <td colspan="2" class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">mean power not to exceed 0.5 W</td>
+                    </tr>
+                    <tr>
+                        <td class="border_top_0.75 border_right_0.75  border_left_0.75 border_bottom_0.75">33–33.28 MHz</td>
+                        <td colspan="2" class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">e.r.p. not to exceed 10 mW</td>
+                    </tr>
+                    <tr>
+                        <td rowspan="2" class="border_top_0.75 border_right_0.75  border_left_0.75 border_bottom_0.75">35.145–35.225 MHz</td>
+                        <td rowspan="2" colspan="2" class="border_top_0.75 border_right_0.75  border_left_0.75 border_bottom_0.75">e.r.p. not to exceed 100 mW</td>
+                        <td class="border_top_0.75 border_left_0.75">(a) </td>
+                        <td class="border_top_0.75 border_right_0.75">e.r.p. not to exceed 2 nW for frequency below 1 GHz; and</td>
+                    </tr>
+                    <tr>
+                        <td class=" border_bottom_0.75 border_left_0.75">(b)</td>
+                        <td class=" border_right_0.75 border_bottom_0.75"> e.r.p. not to exceed 20 nW for frequency at or above 1 GHz</td>
+                    </tr>
+                    <tr>
+                        <td class="border_top_0.75 border_right_0.75  border_left_0.75 border_bottom_0.75">36.26–36.54 MHz</td>
+                        <td rowspan="4" colspan="2" class="border_top_0.75 border_right_0.75  border_left_0.75 border_bottom_0.75">e.r.p. not to exceed 10 mW</td>
+                        <td rowspan="4" colspan="2" class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">spurious emission level not to exceed the limits set out in Note <sup>[9]</sup></td>
+                    </tr>
+                    <tr>
+                        <td class="border_top_0.75 border_right_0.75  border_left_0.75 border_bottom_0.75">36.41–36.69 MHz</td>
+                    </tr>
+                    <tr>
+                        <td class="border_top_0.75 border_right_0.75  border_left_0.75 border_bottom_0.75">36.71–36.99 MHz</td>
+                    </tr>
+                    <tr>
+                        <td class="border_top_0.75 border_right_0.75  border_left_0.75 border_bottom_0.75">36.96–37.24 MHz</td>
+                    </tr>
+                    <tr>
+                        <td rowspan="2" class="border_top_0.75 border_right_0.75  border_left_0.75 border_bottom_0.75">40.66–40.70 MHz</td>
+                        <td rowspan="2" colspan="2" class="border_top_0.75 border_right_0.75  border_left_0.75 border_bottom_0.75">e.r.p. not to exceed 100 mW</td>
+                        <td class="border_top_0.75 border_left_0.75">(a)</td>
+                        <td class="border_top_0.75 border_right_0.75"> e.r.p. not to exceed 2 nW for frequency below 1 GHz; and</td>
+                    </tr>
+                    <tr>
+                        <td class=" border_bottom_0.75 border_left_0.75">(b)</td>
+                        <td class=" border_right_0.75 border_bottom_0.75"> e.r.p. not to exceed 20 nW for frequency at or above 1 GHz</td>
+                    </tr>
+                    <tr>
+                        <td class="border_top_0.75 border_right_0.75  border_left_0.75 border_bottom_0.75">42.75–43.03 MHz</td>
+                        <td colspan="2" class="border_top_0.75 border_right_0.75  border_left_0.75 border_bottom_0.75">e.r.p. not to exceed 10 mW</td>
+                        <td colspan="2" class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">spurious emission level not to exceed the limits set out in Note <sup>[9]</sup></td>
+                    </tr>
+                    <tr>
+                        <td class="border_top_0.75 border_right_0.75  border_left_0.75 border_bottom_0.75">43.71–44.49 MHz<sup>[2]</sup></td>
+                        <td colspan="2" class="border_top_0.75 border_right_0.75  border_left_0.75 border_bottom_0.75">electric field strength not to exceed 10 mV/m at 3 m from the apparatus</td>
+                        <td colspan="2" class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">spurious emission level not to exceed the limits set out in Note <sup>[10]</sup></td>
+                    </tr>
+                    <tr>
+                        <td class="border_top_0.75 border_right_0.75  border_left_0.75 border_bottom_0.75">44.73–45.01 MHz</td>
+                        <td colspan="2" class="border_top_0.75 border_right_0.75  border_left_0.75 border_bottom_0.75">e.r.p. not to exceed 10 mW</td>
+                        <td colspan="2" class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">spurious emission level not to exceed the limits set out in Note <sup>[9]</sup></td>
+                    </tr>
+                    <tr>
+                        <td class="border_top_0.75 border_right_0.75  border_left_0.75 border_bottom_0.75">46.6–46.98 MHz<sup>[2]</sup></td>
+                        <td colspan="2" class="border_top_0.75 border_right_0.75  border_left_0.75 border_bottom_0.75">electric field strength not to exceed 10 mV/m at 3 m from the apparatus</td>
+                        <td colspan="2" class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">spurious emission level not to exceed the limits set out in Note <sup>[10]</sup></td>
+                    </tr>
+                    <tr>
+                        <td class="border_top_0.75 border_right_0.75  border_left_0.75 border_bottom_0.75">47.13–47.41 MHz</td>
+                        <td colspan="2" class="border_top_0.75 border_right_0.75  border_left_0.75 border_bottom_0.75">e.r.p. not to exceed 10 mW</td>
+                        <td colspan="2" class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">spurious emission level not to exceed the limits set out in Note <sup>[9]</sup></td>
+                    </tr>
+                    <tr>
+                        <td class="border_top_0.75 border_right_0.75  border_left_0.75 border_bottom_0.75">47.43–47.56 MHz<sup>[1]</sup></td>
+                        <td colspan="2" class="border_top_0.75 border_right_0.75  border_left_0.75 border_bottom_0.75">e.r.p. not to exceed 10 mW</td>
+                        <td colspan="2" class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">spurious emission level not to exceed the limits set out in Note <sup>[9](b)</sup></td>
+                    </tr>
+                    <tr>
+                        <td class="border_top_0.75 border_right_0.75  border_left_0.75 border_bottom_0.75">48.75–50 MHz<sup>[2]</sup></td>
+                        <td colspan="2" class="border_top_0.75 border_right_0.75  border_left_0.75 border_bottom_0.75">electric field strength not to exceed 10 mV/m at 3 m from the apparatus</td>
+                        <td colspan="2" class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">spurious emission level not to exceed the limits set out in Note <sup>[10]</sup></td>
+                    </tr>
+                    <tr>
+                        <td class="border_top_0.75 border_right_0.75  border_left_0.75 border_bottom_0.75">72.00–72.02 MHz</td>
+                        <td colspan="2" class="border_top_0.75 border_right_0.75  border_left_0.75 border_bottom_0.75" rowspan="4">carrier power not to exceed 750 mW</td>
+                        <td colspan="2" class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75" rowspan="4">spurious emission level not to exceed 30 μW</td>
+                    </tr>
+                    <tr>
+                        <td class="border_top_0.75 border_right_0.75  border_left_0.75 border_bottom_0.75">72.12–72.14 MHz</td>
+                    </tr>
+                    <tr>
+                        <td class="border_top_0.75 border_right_0.75  border_left_0.75 border_bottom_0.75">72.16–72.22 MHz</td>
+                    </tr>
+                    <tr>
+                        <td class="border_top_0.75 border_right_0.75  border_left_0.75 border_bottom_0.75">72.26–72.28 MHz</td>
+                    </tr>
+                    <tr>
+                        <td class="border_top_0.75 border_right_0.75  border_left_0.75 border_bottom_0.75">173.96–174.24 MHz</td>
+                        <td colspan="2" class="border_top_0.75 border_right_0.75  border_left_0.75 border_bottom_0.75">e.r.p. not to exceed 20 mW</td>
+                        <td colspan="2" class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75" rowspan="2">spurious emission level not to exceed the limits set out in Note <sup>[9]</sup></td>
+                    </tr>
+                    <tr>
+                        <td class="border_top_0.75 border_right_0.75  border_left_0.75 border_bottom_0.75">187.5–188.0 MHz</td>
+                        <td colspan="2" class="border_top_0.75 border_right_0.75  border_left_0.75 border_bottom_0.75">e.r.p. not to exceed 10 mW</td>
+                    </tr>
+                    <tr>
+                        <td class="border_top_0.75 border_right_0.75  border_left_0.75 border_bottom_0.75">253.85–255 MHz<sup>[3]</sup></td>
+                        <td colspan="2" class="border_top_0.75 border_right_0.75  border_left_0.75 border_bottom_0.75">e.r.p. not to exceed 12 mW</td>
+                        <td colspan="2" class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">e.r.p. not to exceed 2.5 μW</td>
+                    </tr>
+                    <tr>
+                        <td class="border_top_0.75 border_right_0.75  border_left_0.75 border_bottom_0.75">266.75–267.25 MHz</td>
+                        <td colspan="2" class="border_top_0.75 border_right_0.75  border_left_0.75 border_bottom_0.75" rowspan="3">e.r.p. not to exceed 10 mW</td>
+                        <td colspan="2" class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75" rowspan="3">spurious emission level not to exceed the limits set out in Note <sup>[9]</sup></td>
+                    </tr>
+                    <tr>
+                        <td class="border_top_0.75 border_right_0.75  border_left_0.75 border_bottom_0.75">313.75–314.25 MHz</td>
+                    </tr>
+                    <tr>
+                        <td class="border_top_0.75 border_right_0.75  border_left_0.75 border_bottom_0.75">314.75–315.25 MHz</td>
+                    </tr>
+                    <tr>
+                        <td class="border_top_0.75 border_right_0.75  border_left_0.75 border_bottom_0.75">380.2–381.325 MHz<sup>[3]</sup></td>
+                        <td colspan="2" class="border_top_0.75 border_right_0.75  border_left_0.75 border_bottom_0.75">e.r.p. not to exceed 12 mW</td>
+                        <td colspan="2" class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">e.r.p. not to exceed 2.5 μW</td>
+                    </tr>
+                    <tr>
+                        <td class="border_top_0.75 border_right_0.75  border_left_0.75 border_bottom_0.75">409.74–410 MHz<sup>[4]</sup></td>
+                        <td colspan="2" class="border_top_0.75 border_right_0.75  border_left_0.75 border_bottom_0.75">e.r.p. not to exceed 0.5 W</td>
+                        <td colspan="2" class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">e.r.p. not to exceed 50 μW</td>
+                    </tr>
+                    <tr>
+                        <td class="border_top_0.75 border_right_0.75  border_left_0.75 border_bottom_0.75" rowspan="2">819.1–823.1 MHz</td>
+                        <td class=" border_top_0.75 border_left_0.75">(a)</td>
+                        <td class="border_top_0.75 border_right_0.75 ">e.r.p. not to exceed 100 mW; and</td>
+                        <td colspan="2" class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75" rowspan="2">spurious emission level not to exceed the limits set out in Note <sup>[9]</sup></td>
+                    </tr>
+                    <tr>
+                        <td class=" border_left_0.75 border_bottom_0.75">(b)</td>
+                        <td class=" border_right_0.75 border_bottom_0.75">power spectral density not to exceed 10 mW per 25 kHz</td>
+                    </tr>
+                    <tr>
+                        <td class="border_top_0.75 border_right_0.75  border_left_0.75 border_bottom_0.75" rowspan="3">864.1–868.1 MHz<sup>[5]</sup></td>
+                        <td colspan="2" class="border_top_0.75 border_right_0.75  border_left_0.75 border_bottom_0.75" rowspan="3">carrier power or e.r.p. not to exceed 10 mW</td>
+                        <td class=" border_top_0.75 border_left_0.75">(a) </td>
+                        <td class="border_top_0.75 border_right_0.75">e.r.p. not to exceed 250 nW for frequency below 1 GHz excluding 41–68 MHz, 87.5–118 MHz, 162–230 MHz and 470–862 MHz;</td>
+                    </tr>
+                    <tr>
+                        <td class="border_left_0.75">(b) </td>
+                        <td class="border_right_0.75"> e.r.p. not to exceed 4 nW for frequency in the bands 41–68 MHz, 87.5–118 MHz, 162–230 MHz and 470–862 MHz; and</td>
+                    </tr>
+                    <tr>
+                        <td class=" border_left_0.75 border_bottom_0.75">(c) </td>
+                        <td class=" border_right_0.75 border_bottom_0.75"> e.r.p. not to exceed 1 μW for frequency at or above 1 GHz</td>
+                    </tr>
+                    <tr>
+                        <td class="border_top_0.75 border_right_0.75  border_left_0.75 border_bottom_0.75">865–868 MHz<sup>[13]</sup></td>
+                        <td colspan="2" class="border_top_0.75 border_right_0.75  border_left_0.75 border_bottom_0.75">e.r.p. not to exceed 100 mW</td>
+                        <td class=" border_top_0.75 border_left_0.75">(a) </td>
+                        <td class="border_top_0.75 border_right_0.75" rowspan="2">e.r.p. not to exceed 250 nW for frequency below 1 GHz excluding 47–74 MHz, 87.5–118 MHz, 174–230 MHz and 470–862 MHz;</td>
+                    </tr>
+                    
+                    <tr>
+                        <td class="border_top_0.75 border_right_0.75  border_left_0.75 border_bottom_0.75">865.6–867.6 MHz<sup>[14]</sup></td>
+                        <td colspan="2" class="border_top_0.75 border_right_0.75  border_left_0.75 border_bottom_0.75">e.r.p. not to exceed 2 W</td>
+                        <td class=" border_left_0.75"></td>
+                    </tr>
+                    
+                    <tr>
+                        <td class="border_top_0.75 border_right_0.75  border_left_0.75 border_bottom_0.75" rowspan="2">865.6–868 MHz<sup>[15]</sup></td>
+                        <td colspan="2" class="border_top_0.75 border_right_0.75  border_left_0.75 border_bottom_0.75" rowspan="2">e.r.p. not to exceed 500 mW</td>
+                        <td class="border_left_0.75">(b) </td>
+                        <td class="border_right_0.75">e.r.p. not to exceed 4 nW for frequency in the bands 47–74 MHz, 87.5–118 MHz, 174–230 MHz and 470–862 MHz; and</td>
+                    </tr>
+                    <tr>
+                        <td class=" border_left_0.75 border_bottom_0.75">(c) </td>
+                        <td class=" border_right_0.75 border_bottom_0.75"> e.r.p. not to exceed 1 μW for frequency at or above 1 GHz</td>
+                    </tr>
+                    <tr>
+                        <td class="border_top_0.75 border_right_0.75  border_left_0.75 border_bottom_0.75">919.5–920.0 MHz</td>
+                        <td colspan="2" class="border_top_0.75 border_right_0.75  border_left_0.75 border_bottom_0.75">e.r.p. not to exceed 10 mW</td>
+                        <td colspan="2" class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">spurious emission level not to exceed the limits set out in Note <sup>[9]</sup></td>
+                    </tr>
+                    <tr>
+                        <td class="border_top_0.75 border_right_0.75  border_left_0.75 border_bottom_0.75">920–925 MHz<sup>[16]</sup></td>
+                        <td colspan="2" class="border_top_0.75 border_right_0.75  border_left_0.75 border_bottom_0.75">e.i.r.p. not to exceed 4 W</td>
+                        <td colspan="2" class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">e.r.p. not to exceed 10 μW for frequency outside the frequency band in which the fundamental frequencies are located</td>
+                    </tr>
+                    <tr>
+                        <td class="border_top_0.75 border_right_0.75  border_left_0.75 border_bottom_0.75" rowspan="2">1880–1900 MHz<sup>[6]</sup></td>
+                        <td class=" border_top_0.75 border_left_0.75">(a) </td>
+                        <td class="border_top_0.75 border_right_0.75"> peak power not to exceed 250 mW for apparatus with antenna output terminal; or</td>
+                        <td class=" border_top_0.75 border_left_0.75">(a) </td>
+                        <td class="border_top_0.75 border_right_0.75"> e.r.p. not to exceed 250 nW for frequency below 1 GHz; and</td>
+                    </tr>
+                    <tr>
+                        <td class=" border_left_0.75 border_bottom_0.75">(b) </td>
+                        <td class=" border_right_0.75 border_bottom_0.75">peak e.i.r.p. not to exceed 250 mW for apparatus with integral antenna</td>
+                        <td class=" border_left_0.75 border_bottom_0.75">(b)</td>
+                        <td class=" border_right_0.75 border_bottom_0.75"> e.r.p. not to exceed 1 μW for frequency at or above 1 GHz</td>
+                    </tr>
+                    <tr>
+                        <td class="border_top_0.75 border_right_0.75  border_left_0.75 border_bottom_0.75" rowspan="2">2400–2483.5 MHz</td>
+                        <td class=" border_top_0.75 border_left_0.75">(a) </td>
+                        <td class="border_top_0.75 border_right_0.75">peak e.i.r.p. not to exceed 4 W for frequency hopping spread spectrum modulation or digital modulation systems; or</td>
+                        <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75" rowspan="2" colspan="2">e.r.p. not to exceed 10 μW for frequency outside the frequency band in which the fundamental frequencies are located</td>
+                    </tr>
+                    <tr>
+                        <td class=" border_left_0.75 border_bottom_0.75">(b) </td>
+                        <td class=" border_right_0.75 border_bottom_0.75">aggregate e.r.p. not to exceed 100 mW for any modulation</td>
+                    </tr>
+                    <tr>
+                        <td class="border_top_0.75 border_right_0.75  border_left_0.75 border_bottom_0.75">5150–5350 MHz<sup>[11]</sup></td>
+                        <td colspan="2" class="border_top_0.75 border_right_0.75  border_left_0.75 border_bottom_0.75">e.i.r.p. not to exceed 200 mW using only digital modulation</td>
+                        <td colspan="2" class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75" rowspan="2">e.r.p. not to exceed 10 μW</td>
+                    </tr>
+                    <tr>
+                        <td class="border_top_0.75 border_right_0.75  border_left_0.75 border_bottom_0.75">5470–5725 MHz<sup>[12]</sup></td>
+                        <td colspan="2" class="border_top_0.75 border_right_0.75  border_left_0.75 border_bottom_0.75">e.i.r.p. not to exceed 1 W</td>
+                    </tr>
+                    <tr>
+                        <td class="border_top_0.75 border_right_0.75  border_left_0.75 border_bottom_0.75" rowspan="2">5725–5850 MHz</td>
+                        <td class=" border_top_0.75 border_left_0.75">(a) </td>
+                        <td class="border_top_0.75 border_right_0.75">peak e.i.r.p. not to exceed 4 W for frequency hopping spread spectrum modulation or digital modulation systems; or</td>
+                        <td colspan="2" class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75" rowspan="2">e.r.p. not to exceed 10 μW for frequency outside the frequency band in which the fundamental frequencies are located</td>
+                    </tr>
+                    <tr>
+                        <td class=" border_left_0.75 border_bottom_0.75">(b) </td>
+                        <td class=" border_right_0.75 border_bottom_0.75">aggregate e.r.p. not to exceed 100 mW for any modulation</td>
+                    </tr>
+                    <tr>
+                        <td class="border_top_0.75 border_right_0.75  border_left_0.75 border_bottom_0.75" rowspan="2">18.82–18.87 GHz</td>
+                        <td class=" border_top_0.75 border_left_0.75">(a) </td>
+                        <td class="border_top_0.75 border_right_0.75">e.r.p. not to exceed 100 mW; and</td>
+                        <td colspan="2" class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75" rowspan="2">e.r.p. not to exceed 10 μW for frequency outside the frequency band in which the fundamental frequencies are located</td>
+                    </tr>
+                    <tr>
+                        <td class=" border_left_0.75 border_bottom_0.75">(b) </td>
+                        <td class=" border_right_0.75 border_bottom_0.75">power spectral density not to exceed 3 mW per 100 kHz</td>
+                    </tr>
+                    <tr>
+                        <td class="border_top_0.75 border_right_0.75  border_left_0.75 border_bottom_0.75" rowspan="2">76–77 GHz</td>
+                        <td colspan="2" class="border_top_0.75 border_right_0.75  border_left_0.75 border_bottom_0.75" rowspan="2">carrier power not to exceed 10 mW</td>
+                        <td class=" border_top_0.75 border_left_0.75">(a) </td>
+                        <td class="border_top_0.75 border_right_0.75">power density not to exceed 600 pW/cm<sup>2</sup> at 3 m from the apparatus for frequency above 40 GHz but below 200 GHz; and</td>
+                    </tr>
+                    <tr>
+                        <td class=" border_left_0.75 border_bottom_0.75">(b) </td>
+                        <td class=" border_right_0.75 border_bottom_0.75"> power density not to exceed 1000 pW/cm<sup>2</sup> at 3 m from the apparatus for frequency at or above 200 GHz</td>
+                    </tr>
+                    <tr>
+                        <td class="border_top_0.75 border_right_0.75  border_left_0.75 border_bottom_0.75">3000 GHz or above <sup>[8]</sup></td>
+                        <td colspan="2" class="border_top_0.75 border_right_0.75  border_left_0.75 border_bottom_0.75">Not applicable</td>
+                        <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75" colspan="2">Not applicable</td>
+                    </tr>
+                </tbody>
+            </table><marker role="blank-line"></marker></text><text class="first_line_indent_0">
+            <table xmlns="http://www.w3.org/1999/xhtml" frame="void" width="100%" class="font_size_8.5">
+                <col width="8%"></col>
+                <col width="2.5%"></col>
+                <col width="89.5%"></col>
+                <tbody>
+                    <tr>
+                        <td>Note: </td>
+                        <td><sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">[1]</sup></td>
+                        
+                        <td class="align_justified">The apparatus shall operate within the frequency bands 1627.5–1796.5 kHz paired with 47.43–47.56 MHz and on one of the following pairs of frequencies—</td>
+                    </tr>
+                </tbody>
+            </table>
+        </text><text class="left_indent_36 first_line_indent_0 font_size_8.5">
+            
+            <table xmlns="http://www.w3.org/1999/xhtml" class="repeat_header left_indent_36 first_line_indent_0 font_size_8.5" width="100%">
+                <col width="33.3333%"></col>
+                <col width="33.3333%"></col>
+                <col width="33.3333%"></col>
+                <thead>
+                    <tr>
+                        <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Channel Number</center>
+                        </td>
+                        <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">kHz</center>
+                        </td>
+                        <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">MHz</center>
+                        </td>
+                    </tr>
+                </thead>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">1</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">1642.00</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">47.45625</center>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">2</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">1662.00</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">47.46875</center>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">3</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">1682.00</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">47.48125</center>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">4</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">1702.00</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">47.49375</center>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">5</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">1722.00</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">47.50625</center>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">6</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">1742.00</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">47.51875</center>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">7</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">1762.00</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">47.53125 or 47.44375</center>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">8</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">1782.00</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">47.54375</center>
+                    </td>
+                </tr>
+            </table>
+            <marker role="blank-line"></marker>
+            
+        </text><text>
+            <table xmlns="http://www.w3.org/1999/xhtml" frame="void" width="100%" class="font_size_8.5">
+                <col width="8%"></col>
+                <col width="2.5%"></col>
+                <col width="89.5%"></col>
+                <tbody>
+                    <tr>
+                        <td></td>
+                        <td><sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">[2]</sup></td>
+                        <td class="align_justified">The apparatus shall operate within the frequency bands 43.71–44.49 MHz, 46.6–46.98 MHz and 48.75–50 MHz and on any one or more of the following pairs of frequencies—</td>
+                    </tr>
+                </tbody>
+            </table>
+        </text><text class="left_indent_36 first_line_indent_0 font_size_8.5">
+            
+            <table xmlns="http://www.w3.org/1999/xhtml" class="repeat_header left_indent_36 first_line_indent_0 font_size_8.5" width="100%">
+                <col width="33.3333%"></col>
+                <col width="33.3333%"></col>
+                <col width="33.3333%"></col>
+                <thead>
+                    <tr>
+                        <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Channel Number</center>
+                        </td>
+                        <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">MHz</center>
+                        </td>
+                        <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">MHz</center>
+                        </td>
+                    </tr>
+                </thead>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">1</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">43.720</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">48.760</center>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">2</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">43.740</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">48.840</center>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">3</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">43.820</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">48.860</center>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">4</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">43.840</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">48.920</center>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">5</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">43.920</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">49.020</center>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">6</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">43.960</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">49.080</center>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">7</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">44.120</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">49.100</center>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">8</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">44.160</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">49.160</center>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">9</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">44.180</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">49.200</center>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">10</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">44.200</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">49.240</center>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">11</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">44.320</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">49.280</center>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">12</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">44.360</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">49.360</center>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">13</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">44.400</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">49.400</center>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">14</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">44.460</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">49.460</center>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">15</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">44.480</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">49.500</center>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">16</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">46.610</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">49.670</center>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">17</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">46.630</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">49.845</center>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">18</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">46.670</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">49.860</center>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">19</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">46.710</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">49.770</center>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">20</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">46.730</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">49.875</center>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">21</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">46.770</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">49.830</center>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">22</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">46.830</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">49.890</center>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">23</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">46.870</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">49.930</center>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">24</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">46.930</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">49.990</center>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">25</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">46.970</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">49.970</center>
+                    </td>
+                </tr>
+            </table>
+            <marker role="blank-line"></marker>
+        </text><text>
+            <table xmlns="http://www.w3.org/1999/xhtml" frame="void" width="100%" class="font_size_8.5">
+                <col width="8%"></col>
+                <col width="2.5%"></col>
+                <col width="89.5%"></col>
+                <tbody>
+                    <tr>
+                        <td></td>
+                        <td><sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">[3]</sup></td>
+                        <td class="align_justified"> The apparatus shall operate within the frequency bands 253.85–255 MHz paired with 380.2–381.325 MHz and the frequency pairs shall be as follows—</td>
+                    </tr>
+                </tbody>
+            </table>
+        </text><text class="left_indent_36 first_line_indent_0 font_size_8.5">
+            
+            <table xmlns="http://www.w3.org/1999/xhtml" class="left_indent_36 first_line_indent_0 font_size_8.5" width="100%">
+                <col width="26.1285%"></col>
+                <col width="36.7882%"></col>
+                <col width="37.0833%"></col>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <p class="align_justified left_indent_12 first_line_indent_0">Speech Channel</p>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">380.2 + n × 0.0125 MHz, where n is an integer in the range 1 to 88 (except 46)</td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">253.85 + n × 0.0125 MHz, where n is an integer in the range 1 to 88 (except 46)</td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <p class="align_justified left_indent_12 first_line_indent_0">Control Channel</p>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">380.775 MHz and 381.3125 MHz</td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">254.425 MHz and 254.9625 MHz</td>
+                </tr>
+            </table>
+            
+            <marker role="blank-line"></marker>
+        </text><text>
+            <table xmlns="http://www.w3.org/1999/xhtml" frame="void" width="100%" class="font_size_8.5">
+                <col width="8%"></col>
+                <col width="2.5%"></col>
+                <col width="89.5%"></col>
+                <tbody>
+                    <tr>
+                        <td></td>
+                        <td><sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">[4]</sup></td>
+                        <td class="align_justified">The apparatus shall employ frequency modulation and the carrier frequencies of the apparatus shall be 409.7375 + (0.0125 × n) MHz, where n is an integer in the range 1 to 20.</td>
+                    </tr>
+                </tbody>
+            </table>
+            <marker role="blank-line"></marker>
+        </text><text>
+            <table xmlns="http://www.w3.org/1999/xhtml" frame="void" width="100%" class="font_size_8.5">
+                <col width="8%"></col>
+                <col width="2.5%"></col>
+                <col width="89.5%"></col>
+                <tbody>
+                    <tr>
+                        <td></td>
+                        <td><sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">[5]</sup></td>
+                        <td class="align_justified">The carrier frequencies of the apparatus shall be 864.05 + (0.1 × n) MHz, where n is an integer in the range 1 to 40.</td>
+                    </tr>
+                </tbody>
+            </table>
+            <marker role="blank-line"></marker>
+        </text><text>
+            <table xmlns="http://www.w3.org/1999/xhtml" frame="void" width="100%" class="font_size_8.5">
+                <col width="8%"></col>
+                <col width="2.5%"></col>
+                <col width="89.5%"></col>
+                <tbody>
+                    <tr>
+                        <td></td>
+                        <td><sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">[6]</sup></td>
+                        <td class="align_justified">The carrier frequencies of the apparatus shall be 1880.064 + (1.728 × n) MHz, where n is an integer in the range 1 to 10.</td>
+                    </tr>
+                </tbody>
+            </table>
+            <marker role="blank-line"></marker>
+        </text><text>
+            <table xmlns="http://www.w3.org/1999/xhtml" frame="void" width="100%" class="font_size_8.5">
+                <col width="8%"></col>
+                <col width="2.5%"></col>
+                <col width="89.5%"></col>
+                <tbody>
+                    <tr>
+                        <td></td>
+                        <td><sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">[7]</sup></td>
+                        <td class="align_justified">
+                            <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="/hk/2012/ln190">L.N. 190 of 2012</ref>)</sourceNote></td>
+                    </tr>
+                </tbody>
+            </table>
+            <marker role="blank-line"></marker>
+        </text><text>
+            <table xmlns="http://www.w3.org/1999/xhtml" frame="void" width="100%" class="font_size_8.5">
+                <col width="8%"></col>
+                <col width="2.5%"></col>
+                <col width="5%"></col>
+                <col width="84.5%"></col>
+                <tbody>
+                    <tr>
+                        <td></td>
+                        <td><sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">[8]</sup></td>
+                        <td colspan="2" class="align_justified">The apparatus shall satisfy at least one of the following conditions—</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td>(a)</td>
+                        <td class="align_justified">the maximum usable range of the apparatus does not exceed 30 m;</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td>(b)</td>
+                        <td class="align_justified">the transmission path does not cross a public street or unleased Government land.</td>
+                    </tr>
+                </tbody>
+            </table>
+            <marker role="blank-line"></marker>
+        </text><text>
+            <table xmlns="http://www.w3.org/1999/xhtml" frame="void" width="100%" class="font_size_8.5">
+                <col width="8%"></col>
+                <col width="2.5%"></col>
+                <col width="5%"></col>
+                <col width="84.5%"></col>
+                <tbody>
+                    <tr>
+                        <td></td>
+                        <td><sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">[9]</sup></td>
+                        <td colspan="2" class="align_justified">An apparatus with the following frequency range shall not generate a spurious emission level which exceeds the limits set out opposite to that frequency range—</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td>(a)</td>
+                        <td class="align_justified">3 kHz–30 MHz</td>
+                    </tr>
+                </tbody>
+            </table>
+            <marker role="blank-line"></marker>
+        </text><text name="a" temporalId="sch2_a-1" class="left_indent_36 first_line_indent_-12">
+            
+            <table xmlns="http://www.w3.org/1999/xhtml" class="left_indent_36 first_line_indent_0 font_size_8.5" width="100%">
+                
+                <col width="39.3229%"></col>
+                
+                <col width="60.6771%"></col>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Frequency Range</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Limits on Spurious Emission Level</center>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">3–415 kHz</td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">electric field strength not to exceed 17 dBμV/m and magnetic field strength not to exceed 25.4 dBnA/m at 300 m from the apparatus</td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">415 kHz–30 MHz</td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">electric field strength not to exceed 30 dBμV/m and magnetic field strength not to exceed 38.4 dBnA/m at 30 m from the apparatus</td>
+                </tr>
+            </table>
+            <marker role="blank-line"></marker>
+        </text><text>
+            <table xmlns="http://www.w3.org/1999/xhtml" frame="void" width="100%" class="font_size_8.5">
+                <col width="8%"></col>
+                <col width="2.5%"></col>
+                <col width="5%"></col>
+                <col width="84.5%"></col>
+                <tbody>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td>(b)</td>
+                        <td class="align_justified">30 MHz–1000 MHz</td>
+                    </tr>
+                </tbody>
+            </table>
+        </text><text name="b" temporalId="sch2_b-1" class="left_indent_36 first_line_indent_-12">
+            <table xmlns="http://www.w3.org/1999/xhtml" class="left_indent_36 first_line_indent_0 font_size_8.5" width="100%">
+                
+                <col width="39.3229%"></col>
+                
+                <col width="60.6771%"></col>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Frequency Range</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Limits on Spurious Emission Level</center>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">30–1000 MHz excluding 87–137 MHz and 470–790 MHz</td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">e.r.p. not to exceed 300 nW</td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">87–137 MHz and 470–790 MHz</td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">e.r.p. not to exceed 60 nW</td>
+                </tr>
+            </table>
+            <marker role="blank-line"></marker>
+        </text><text>
+            <table xmlns="http://www.w3.org/1999/xhtml" frame="void" width="100%" class="font_size_8.5">
+                <col width="8%"></col>
+                <col width="2.5%"></col>
+                <col width="5%"></col>
+                <col width="84.5%"></col>
+                <tbody>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td>(c)</td>
+                        <td class="align_justified">1–2 GHz</td>
+                    </tr>
+                </tbody>
+            </table>
+        </text><text name="c" temporalId="sch2_c" class="left_indent_36 first_line_indent_-12">
+            <table xmlns="http://www.w3.org/1999/xhtml" class="left_indent_36 first_line_indent_0 font_size_8.5" width="100%">
+                
+                <col width="39.3229%"></col>
+                
+                <col width="60.6771%"></col>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Frequency Range</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Limits on Spurious Emission Level</center>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">1–2 GHz</td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">e.r.p. not to exceed 1 μW</td>
+                </tr>
+            </table>
+            <marker role="blank-line"></marker>
+        </text><text>
+            <table xmlns="http://www.w3.org/1999/xhtml" frame="void" width="100%" class="font_size_8.5">
+                <col width="6.5%"></col>
+                <col width="4%"></col>
+                <col width="89.5%"></col>
+                <tbody>
+                    <tr>
+                        <td></td>
+                        <td><sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">[10]</sup></td>
+                        <td class="align_justified">An apparatus with the following frequency range shall not generate a spurious emission level which exceeds the limits set out opposite to that frequency range—</td>
+                    </tr>
+                </tbody>
+            </table>
+        </text><text class="left_indent_36 first_line_indent_-12">
+            
+            <table xmlns="http://www.w3.org/1999/xhtml" class="left_indent_36 first_line_indent_0 font_size_8.5" width="100%">
+                
+                <col width="39.3229%"></col>
+                
+                <col width="60.6771%"></col>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Frequency Range</center>
+                    </td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Limits on Spurious Emission Level</center>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">1.705–30.0 MHz</td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">electric field strength not to exceed 30 μV/m at 30 m from the apparatus</td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">30–88 MHz</td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">electric field strength not to exceed 100 μV/m at 3 m from the apparatus</td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">88–216 MHz</td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">electric field strength not to exceed 150 μV/m at 3 m from the apparatus</td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">216–960 MHz</td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">electric field strength not to exceed 200 μV/m at 3 m from the apparatus</td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">above 960 MHz</td>
+                    <td class="border_top_0.75 border_right_0.75 border_bottom_0.75 border_left_0.75">electric field strength not to exceed 500 μV/m at 3 m from the apparatus</td>
+                </tr>
+            </table>
+            <marker role="blank-line"></marker>
+        </text><text>
+            <table xmlns="http://www.w3.org/1999/xhtml" frame="void" width="100%" class="font_size_8.5">
+                <col width="6.5%"></col>
+                <col width="4%"></col>
+                <col width="89.5%"></col>
+                <tbody>
+                    <tr>
+                        <td></td>
+                        <td><sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">[11]</sup></td>
+                        <td class="align_justified">Use of the band 5150–5350 MHz is restricted to indoor operations.</td>
+                    </tr>
+                </tbody>
+            </table>
+            <marker role="blank-line"></marker>
+        </text><text>
+            <table xmlns="http://www.w3.org/1999/xhtml" frame="void" width="100%" class="font_size_8.5">
+                <col width="6.5%"></col>
+                <col width="4%"></col>
+                <col width="89.5%"></col>
+                <tbody>
+                    <tr>
+                        <td></td>
+                        <td><sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">[12]</sup></td>
+                        <td class="align_justified"> Use of the band 5470–5725 MHz shall comply with the technical requirements in Recommendation ITU–R M.1652 “Dynamic frequency selection (DFS) in wireless access systems including radio local area networks for the purpose of protecting the radiodetermination service in the 5 GHz band” approved by the International Telecommunication Union as revised from time to time.</td>
+                    </tr>
+                </tbody>
+            </table>
+            <marker role="blank-line"></marker>
+        </text><text>
+            <table xmlns="http://www.w3.org/1999/xhtml" frame="void" width="100%" class="font_size_8.5">
+                <col width="6.5%"></col>
+                <col width="4%"></col>
+                <col width="89.5%"></col>
+                <tbody>
+                    <tr>
+                        <td></td>
+                        <td><sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">[13]</sup></td>
+                        <td class="align_justified"> The carrier frequencies of the apparatus shall be 864.90 + (0.2 × n) MHz, where n is an integer in the range 1 to 15.</td>
+                    </tr>
+                </tbody>
+            </table>
+            <marker role="blank-line"></marker>
+        </text><text>
+            <table xmlns="http://www.w3.org/1999/xhtml" frame="void" width="100%" class="font_size_8.5">
+                <col width="6.5%"></col>
+                <col width="4%"></col>
+                <col width="89.5%"></col>
+                <tbody>
+                    <tr>
+                        <td></td>
+                        <td><sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">[14]</sup></td>
+                        <td class="align_justified"> The carrier frequencies of the apparatus shall be 864.90 + (0.2 × n) MHz, where n is an integer in the range 4 to 13.</td>
+                    </tr>
+                </tbody>
+            </table>
+            <marker role="blank-line"></marker>
+        </text><text>
+            <table xmlns="http://www.w3.org/1999/xhtml" frame="void" width="100%" class="font_size_8.5">
+                <col width="6.5%"></col>
+                <col width="4%"></col>
+                <col width="89.5%"></col>
+                <tbody>
+                    <tr>
+                        <td></td>
+                        <td><sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">[15]</sup></td>
+                        <td class="align_justified">The carrier frequencies of the apparatus shall be 864.90 + (0.2 × n) MHz, where n is an integer in the range 4 to 15.</td>
+                    </tr>
+                </tbody>
+            </table>
+            <text>
+                <table xmlns="http://www.w3.org/1999/xhtml" frame="void" width="100%" class="font_size_8.5">
+                    <col width="6.5%"></col>
+                    <col width="4%"></col>
+                    <col width="89.5%"></col>
+                    <tbody>
+                        <tr>
+                            <td></td>
+                            <td><sup xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">[16]</sup></td>
+                            <td class="align_justified"> Use of the band 920–925 MHz is restricted to apparatus operating with frequency hopping spread spectrum modulation.</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </text>
+            <marker role="blank-line"></marker>
+        </text><sourceNote>(<ref>Schedule
+                2</ref> replaced <ref href="/hk/2005/ln22">L.N. 22 of 2005</ref>. Amended <ref href="/hk/2012/ln190">L.N. 190 of 2012</ref>)</sourceNote></schedule><schedule id="ID_1438402553529_002" name="sch3" reason="omittedAsSpent" startPeriod="2017-02-15" status="omitted" temporalId="sch3"><num value="3">Schedule
+            3</num><sourceNote class="align_center">(Omitted as spent—<ref href="/hk/2017/er1">E.R. 1 of
+            2017</ref>)</sourceNote></schedule></main></subLeg>

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?><subLeg xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhtml="http://www.w3.org/1999/xhtml" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd" xml:lang="en" identifier="/hk/cap369BB!en"><meta><docType>cap</docType><docNumber>369BB</docNumber><docName>Cap. 369 sub. leg. BB</docName><docStatus>In effect</docStatus><dc:identifier>/hk/cap369BB!en</dc:identifier><dc:date>2024-01-01</dc:date><dc:subject>legislation</dc:subject><dc:language>en</dc:language><dc:publisher>DoJ</dc:publisher><dc:rights>The Government of the Hong Kong Special Administrative Region</dc:rights></meta><main><docTitle id="ID_1495158651911_001" name="shortTitle" temporalId="shortTitle" startPeriod="2017-11-16" status="operational" reason="inEffect">Merchant
+                        Shipping (Safety) (Radiocommunications)
+                        Regulation</docTitle><enactingFormula>(<ref href="/hk/cap369/s97">Cap.
+                                369,
+                                sections
+                                97</ref>
+                        and <ref href="/hk/cap369/s112B">112B</ref>)</enactingFormula><sourceNote>(Enacting provision omitted—<ref href="/hk/2017/er4">E.R. 4 of
+                                2017</ref>)</sourceNote><commencementNote><marker role="blank-line"></marker><marker role="blank-line"></marker>[1 September
+                        2017]</commencementNote><part id="ID_1500966023666_001" name="P1" temporalId="P1" startPeriod="2017-09-01" status="operational" reason="inEffect"><num value="1">Part 1</num><heading>Preliminary</heading><section id="ID_1500966023822_002" name="s1" temporalId="s1" startPeriod="2017-11-16" status="omitted" reason="omittedAsSpent"><num value="1">1.</num><sourceNote>(Omitted as spent—<ref href="/hk/2017/er4">E.R. 4 of 2017</ref>)</sourceNote></section><section id="ID_1500966023916_003" name="s2" temporalId="s2" startPeriod="2024-01-01" status="operational" reason="inEffect"><num value="2">2.</num><heading>Interpretation</heading><leadIn>In this Regulation—</leadIn><def name="Administration">
+            <leadIn><term>Administration</term> (<term xml:lang="zh-Hant-hk">主管機關</term>)
+                means—</leadIn>
+            <paragraph id="ID_1500975000519_001" name="a" temporalId="s2_a"><num value="a">(a)</num><content>the Director; or</content></paragraph>
+            <paragraph id="ID_1500975000519_002" name="b" temporalId="s2_b"><num value="b">(b)</num><content>the government of a place outside Hong Kong that is a Convention
+                    country;</content></paragraph>
+        </def><def name="CargoShip"><term>cargo ship</term> (<term xml:lang="zh-Hant-hk">貨船</term>) means
+            any ship that is not a passenger ship;</def><def name="ChapterIV"><term>Chapter IV</term> (<term xml:lang="zh-Hant-hk">《第IV章》</term>)
+            means Chapter IV of the Annex to the SOLAS Convention, as from time to time revised or
+            amended by any revision or amendment that applies to Hong Kong;</def><def name="ConventionCountry"><term>Convention country</term> (<term xml:lang="zh-Hant-hk">公約國</term>) means a country which is a party to the SOLAS Convention;</def><def name="DigitalSelectiveCalling">
+            <leadIn><term>digital selective calling</term> (<term xml:lang="zh-Hant-hk">數字選擇呼叫</term>) means a technique—</leadIn>
+            <paragraph id="ID_1500975000519_003" name="a" temporalId="s2_a"><num value="a">(a)</num><content>using digital codes that enables a radio station to establish contact with,
+                    and transfer information to, another radio station; and</content></paragraph>
+            <paragraph id="ID_1500975000519_004" name="b" temporalId="s2_b"><num value="b">(b)</num><content>that complies with the relevant recommendations of the
+                    International
+                    Telecommunication Union Radiocommunication Sector;
+                    <sourceNote>(<ref href="hk/2023/ln104">L.N. 104 of
+                    2023</ref>)</sourceNote></content></paragraph>
+        </def><def name="FishingVessel"><term>fishing vessel</term> (<term xml:lang="zh-Hant-hk">漁船</term>) means a vessel used for catching fish, whales, seals, walrus or other living
+            resources of the sea;</def><def name="HongKongShip"><term>Hong Kong ship</term> (<term xml:lang="zh-Hant-hk">香港船舶</term>) means a ship registered in Hong Kong;</def><def name="IMO"><term>IMO</term> means the International Maritime Organization;</def><def name="InternationalVoyage">
+            <leadIn><term>international voyage</term> (<term xml:lang="zh-Hant-hk">國際航程</term>)
+                means a voyage between—</leadIn>
+            <paragraph id="ID_1500975000519_005" name="a" temporalId="s2_a"><num value="a">(a)</num><content>Hong Kong and a port outside the People’s Republic of China; or</content></paragraph>
+            <paragraph id="ID_1500975000519_006" name="b" temporalId="s2_b"><num value="b">(b)</num><content>a port in a Convention country and a port outside that Convention country
+                    (whether in a Convention country or not);</content></paragraph>
+        </def><def name="MediumFrequency"><term>Medium Frequency</term> (<term xml:lang="zh-Hant-hk">中頻</term>) means the frequency spectrum exceeding 300 kHz and not exceeding 3 000
+            kHz;</def><def name="NonHongKongShip"><term>non-Hong Kong ship</term> (<term xml:lang="zh-Hant-hk">非香港船舶</term>) means a ship other than a Hong Kong ship;</def><def name="PleasureVessel"><term>pleasure vessel</term> (<term xml:lang="zh-Hant-hk">遊樂船隻</term>) means a vessel (other than a passenger ship) primarily used for sport
+            or recreation;</def><def name="RadioRegulations"><term>Radio Regulations</term> (<term xml:lang="zh-Hant-hk">《無線電規則》</term>) means the Radio Regulations
+            complementing
+            the Constitution and Convention of the International Telecommunication Union as in force
+            from time to time;
+            <sourceNote>(<ref href="hk/2023/ln104">L.N. 104 of
+            2023</ref>)</sourceNote></def><def name="SeaAreaA1"><term>sea area A1</term> (<term xml:lang="zh-Hant-hk">A1海區</term>)
+            means a sea area within the radiotelephone coverage of at least one Very High Frequency
+            coast station in which continuous digital selective calling alerting is available;</def><def name="SeaAreaA2"><term>sea area A2</term> (<term xml:lang="zh-Hant-hk">A2海區</term>)
+            means a sea area within the radiotelephone coverage of at least one Medium Frequency
+            coast station in which continuous digital selective calling alerting is available, other
+            than any sea area A1;</def><def name="SeaAreaA3">
+            
+            
+            <leadIn><term>sea area A3</term> (<term xml:lang="zh-Hant-hk">A3海區</term>) means a sea
+                area, other than any sea area A1 or sea area A2, that is within the coverage of a
+                service that— <sourceNote>(<ref href="hk/2023/ln104">L.N. 104 of
+                    2023</ref>)</sourceNote></leadIn>
+            <paragraph name="a" temporalId="s2_a" id="ID_1699238869126_001"><num value="a">(a)</num><content>is supported by the ship earth station carried on board a ship in which
+                    continuous alerting is available; and</content></paragraph>
+            <paragraph name="b" temporalId="s2_b" id="ID_1699238869127_002"><num value="b">(b)</num><content>operates through a satellite system and is recognized by IMO for use in the
+                    Global Maritime Distress and Safety System; <sourceNote>(<ref href="hk/2023/ln104">L.N. 104 of 2023</ref>)</sourceNote></content></paragraph>
+            
+            
+            
+        </def><def name="SeaAreaA4"><term>sea area A4</term> (<term xml:lang="zh-Hant-hk">A4海區</term>)
+            means a sea area other than any sea area A1, sea area A2 or sea area A3;</def><def name="SOLASConvention"><term>SOLAS Convention</term> (<term xml:lang="zh-Hant-hk">《安全公約》</term>) means the International Convention for the Safety of Life at Sea
+            signed in London on 1 November 1974, or any convention that replaces that Convention or
+            any successor convention, as amended from time to time and as applicable to Hong
+            Kong;</def><def name="STCWConvention"><term>STCW Convention</term> (<term xml:lang="zh-Hant-hk">《培訓公約》</term>) means the International Convention on Standards of Training,
+            Certification and Watchkeeping for Seafarers, 1978, as amended from time to time and as
+            applicable to Hong Kong;</def><def name="VeryHighFrequency"><term>Very High Frequency</term> (<term xml:lang="zh-Hant-hk">甚高頻</term>) means the frequency spectrum exceeding 30 MHz and not exceeding 300
+            MHz.</def></section><section id="ID_1500966024010_004" name="s3" temporalId="s3" startPeriod="2017-09-01" status="operational" reason="inEffect"><num value="3">3.</num><heading>Application</heading><subsection id="ID_1500975012004_001" name="1" temporalId="s3_1"><num value="1">(1)</num><leadIn>Subject to subsection (2), this Regulation applies to—</leadIn><paragraph id="ID_1500975012004_002" name="a" temporalId="s3_1_a"><num value="a">(a)</num><content>a Hong Kong ship engaged in an international voyage, wherever it may be;
+                    and</content></paragraph><paragraph id="ID_1500975012004_003" name="b" temporalId="s3_1_b"><num value="b">(b)</num><content>a non-Hong Kong ship engaged in an international voyage within the waters
+                    of Hong Kong.</content></paragraph></subsection><subsection id="ID_1500975012004_004" name="2" temporalId="s3_2"><num value="2">(2)</num><leadIn>This Regulation does not apply to—</leadIn><paragraph id="ID_1500975012004_005" name="a" temporalId="s3_2_a"><num value="a">(a)</num><content>a ship of war or troopship;</content></paragraph><paragraph id="ID_1500975012004_006" name="b" temporalId="s3_2_b"><num value="b">(b)</num><content>a ship not propelled by mechanical means;</content></paragraph><paragraph id="ID_1500975012004_007" name="c" temporalId="s3_2_c"><num value="c">(c)</num><content>a wooden ship of primitive build;</content></paragraph><paragraph id="ID_1500975012004_008" name="d" temporalId="s3_2_d"><num value="d">(d)</num><content>a cargo ship of less than 300 gross tonnage;</content></paragraph><paragraph id="ID_1500975012004_009" name="e" temporalId="s3_2_e"><num value="e">(e)</num><content>a fishing vessel;</content></paragraph><paragraph id="ID_1500975012004_010" name="f" temporalId="s3_2_f"><num value="f">(f)</num><content>a pleasure vessel not engaged in trade;</content></paragraph><paragraph id="ID_1500975012004_011" name="g" temporalId="s3_2_g"><num value="g">(g)</num><content>a high speed craft to which the Merchant Shipping (Safety) (High Speed
+                    Craft) Regulation
+                        (<ref href="/hk/cap369AW">Cap. 369 sub. leg. AW</ref>) applies; or</content></paragraph><paragraph id="ID_1500975012004_012" name="h" temporalId="s3_2_h"><num value="h">(h)</num><leadIn>a non-Hong Kong ship flying the flag of a State that is not a Convention
+                    country, if the ship is within the waters of Hong Kong due to—</leadIn><subparagraph id="ID_1500975012004_013" name="1" temporalId="s3_2_h_1"><num value="1">(i)</num><content>stress of weather; or</content></subparagraph><subparagraph id="ID_1500975012019_014" name="2" temporalId="s3_2_h_2"><num value="2">(ii)</num><content>any other circumstances that could not have been prevented or
+                        forestalled by the owner or the master of the ship.</content></subparagraph></paragraph></subsection></section></part><part id="ID_1500966067750_001" name="P2" temporalId="P2" startPeriod="2017-09-01" status="operational" reason="inEffect"><num value="2">Part 2</num><heading>Radio Installations and Equipment Requirements</heading><section id="ID_1500966067859_002" name="s4" temporalId="s4" startPeriod="2017-09-01" status="operational" reason="inEffect"><num value="4">4.</num><heading>Radio installations</heading><content>Radio installations referred to in <ref>regulation 6</ref> of Chapter IV must be provided on a ship in accordance with the regulation.</content></section><section id="ID_1500966067937_003" name="s5" temporalId="s5" startPeriod="2017-09-01" status="operational" reason="inEffect"><num value="5">5.</num><heading>Radio equipment—general</heading><content>Radio equipment referred to in <ref>regulation 7</ref> of Chapter IV must be provided on a ship in accordance with the regulation.</content></section><section id="ID_1500966068094_004" name="s6" temporalId="s6" startPeriod="2017-09-01" status="operational" reason="inEffect"><num value="6">6.</num><heading>Radio equipment—sea area A1</heading><subsection id="ID_1501034137315_001" name="1" temporalId="s6_1"><num value="1">(1)</num><content>This section applies to a ship engaged in a voyage that is exclusively in one or more sea area A1.</content></subsection><subsection id="ID_1501034137315_002" name="2" temporalId="s6_2"><num value="2">(2)</num><content>Without affecting <ref>section 5</ref>, any radio equipment referred to in <ref>regulation 8</ref> of Chapter IV must be provided on a ship in accordance with the regulation.</content></subsection></section><section id="ID_1500966068187_005" name="s7" temporalId="s7" startPeriod="2017-09-01" status="operational" reason="inEffect"><num value="7">7.</num><heading>Radio equipment—sea area A2</heading><subsection id="ID_1501034147691_001" name="1" temporalId="s7_1"><num value="1">(1)</num><content>This section applies to a ship engaged in a voyage that is wholly or partly in one or more sea area A2 but not in any sea area A3 or sea area A4.</content></subsection><subsection id="ID_1501034147691_002" name="2" temporalId="s7_2"><num value="2">(2)</num><content>Without affecting <ref>section 5</ref>, any radio equipment referred to in <ref>regulation 9</ref> of Chapter IV must be provided on a ship in accordance with the regulation.</content></subsection></section><section id="ID_1500966068265_006" name="s8" temporalId="s8" startPeriod="2017-09-01" status="operational" reason="inEffect"><num value="8">8.</num><heading>Radio
+            equipment—sea area A3</heading><subsection id="ID_1501034158116_001" name="1" temporalId="s8_1"><num value="1">(1)</num><content>This section applies to a ship engaged in a voyage that is wholly or partly in
+                one or more sea area A3 but not in any sea area
+                A4.</content></subsection><subsection id="ID_1501034158116_002" name="2" temporalId="s8_2"><num value="2">(2)</num><content>Without affecting <ref>section 5</ref>, any radio equipment referred to in
+                    <ref>regulation 10</ref> of Chapter IV must be provided on a ship in accordance
+                with the regulation.</content></subsection></section><section id="ID_1500966068328_007" name="s9" temporalId="s9" startPeriod="2017-09-01" status="operational" reason="inEffect"><num value="9">9.</num><heading>Radio equipment—sea area A4</heading><subsection id="ID_1501034170992_001" name="1" temporalId="s9_1"><num value="1">(1)</num><content>This section applies to a ship engaged in a voyage that is wholly or partly in one or more sea area A4.</content></subsection><subsection id="ID_1501034170992_002" name="2" temporalId="s9_2"><num value="2">(2)</num><content>Without affecting <ref>section 5</ref>, any radio equipment referred to in <ref>regulation 11</ref> of Chapter IV must be provided on a ship in accordance with the regulation.</content></subsection></section><section id="ID_1500966068406_008" name="s10" temporalId="s10" startPeriod="2024-01-01" status="operational" reason="inEffect"><num value="10">10.</num><heading>Two-way
+            communication equipment</heading><subsection id="ID_1501491859542_001" name="1" temporalId="s10_1"><num value="1">(1)</num><content>This section applies to a ship on which a piece of two-way communication
+                equipment which is capable of including the ship’s position in a distress alert is
+                provided.</content></subsection><subsection id="ID_1501491859542_002" name="2" temporalId="s10_2"><num value="2">(2)</num><content>The
+                two-way communication equipment must be installed with a navigation receiver and the
+                receiver must automatically provide the ship’s position to the equipment, so that
+                the ship’s position can be included in a distress alert. <sourceNote>(<ref href="hk/2023/ln104">L.N. 104 of
+                2023</ref>)</sourceNote></content></subsection><subsection id="ID_1501491859542_003" name="3" temporalId="s10_3"><num value="3">(3)</num><content>In
+                the case of a malfunction of the navigation
+                receiver,
+                the ship’s position and the time at which the ship is at that position must be
+                manually updated at intervals not exceeding 4 hours while the ship is engaged in a
+                voyage, so that the ship’s position and the time can be transmitted by the two-way
+                communication equipment at any time.
+                <sourceNote>(<ref href="hk/2023/ln104">L.N. 104 of
+                2023</ref>)</sourceNote></content></subsection></section><section id="ID_1500966068531_009" name="s11" temporalId="s11" startPeriod="2017-09-01" status="operational" reason="inEffect"><num value="11">11.</num><heading>Approval for and performance standards of radio equipment</heading><subsection id="ID_1501034225468_001" name="1" temporalId="s11_1"><num value="1">(1)</num><content>This section applies to the radio equipment referred to in <ref>sections 5</ref>, <ref>6</ref>, <ref>7</ref>, <ref>8</ref> and <ref>9</ref>.</content></subsection><subsection id="ID_1501034225484_002" name="2" temporalId="s11_2"><num value="2">(2)</num><content>Any radio equipment must be of a type approved by the Administration after taking into account the applicable standards.</content></subsection><subsection id="ID_1501034225484_003" name="3" temporalId="s11_3"><num value="3">(3)</num><leadIn>In this section—</leadIn><def name="ApplicableStandards"><term>applicable standards</term> (<term xml:lang="zh-Hant-hk">適用標準</term>), in relation to any radio equipment, means the performance standards applicable to the equipment referred to in <ref>regulation 14</ref> of Chapter IV as adopted and amended from time to time by IMO.</def></subsection></section><section id="ID_1500966068609_010" name="s12" temporalId="s12" startPeriod="2017-09-01" status="operational" reason="inEffect"><num value="12">12.</num><heading>Maintenance requirements</heading><subsection id="ID_1501034237502_001" name="1" temporalId="s12_1"><num value="1">(1)</num><content>This section applies to the radio equipment referred to in <ref>sections 5</ref>, <ref>6</ref>, <ref>7</ref>, <ref>8</ref> and <ref>9</ref>.</content></subsection><subsection id="ID_1501034237502_002" name="2" temporalId="s12_2"><num value="2">(2)</num><content>Any radio equipment must be maintained in accordance with <ref>regulation 15</ref> of Chapter IV.</content></subsection></section></part><part id="ID_1500966124724_001" name="P3" temporalId="P3" startPeriod="2017-09-01" status="operational" reason="inEffect"><num value="3">Part 3</num><heading>Other Requirements</heading><section id="ID_1500966124818_002" name="s13" temporalId="s13" startPeriod="2017-09-01" status="operational" reason="inEffect"><num value="13">13.</num><heading>Source
+                        of energy</heading><content>Electrical energy and a reserve source of energy referred to in
+                                <ref>regulation
+                                13</ref>
+                        of Chapter
+                        IV
+                        must be made available on a ship in accordance with the
+                        regulation.</content></section><section id="ID_1500966124911_003" name="s14" temporalId="s14" startPeriod="2017-09-01" status="operational" reason="inEffect"><num value="14">14.</num><heading>Radio
+                        watch</heading><content>A ship must maintain a radio watch in accordance with <ref>regulation
+                                12</ref>
+                        of Chapter
+                        IV.</content></section><section id="ID_1500966125021_004" name="s15" temporalId="s15" startPeriod="2017-11-16" status="operational" reason="inEffect"><num value="15">15.</num><heading>Radio
+            personnel</heading><subsection id="ID_1501041525825_001" name="1" temporalId="s15_1"><num value="1">(1)</num><content>A ship must carry sufficient qualified crew members for the purposes of
+                distress and safety radiocommunications during a voyage.</content></subsection><subsection id="ID_1501041525825_002" name="2" temporalId="s15_2"><num value="2">(2)</num><content>On a cargo ship, at least one qualified crew member must be designated to be
+                responsible primarily for radiocommunications duties during any distress
+                incident.</content></subsection><subsection id="ID_1501041525825_003" name="3" temporalId="s15_3"><num value="3">(3)</num><content>On a passenger ship, at least one qualified crew member must be designated to
+                be responsible solely for radiocommunications duties during any distress
+                incident.</content></subsection><subsection id="ID_1501041525825_004" name="4" temporalId="s15_4"><num value="4">(4)</num><leadIn>On a Hong Kong ship, a crew member is a qualified crew member for the purposes
+                of subsections (1), (2) and (3) if he or she holds one of the following—</leadIn><paragraph id="ID_1501041525825_005" name="a" temporalId="s15_4_a"><num value="a">(a)</num><content>a general certificate (local);</content></paragraph><paragraph id="ID_1501041525825_006" name="b" temporalId="s15_4_b"><num value="b">(b)</num><content>a general certificate (non-local) and a specified document;</content></paragraph><paragraph id="ID_1501041525825_007" name="c" temporalId="s15_4_c"><num value="c">(c)</num><content>a second-class certificate (local);</content></paragraph><paragraph id="ID_1501041525825_008" name="d" temporalId="s15_4_d"><num value="d">(d)</num><content>a second-class certificate (non-local) and a specified document;</content></paragraph><paragraph id="ID_1501041525825_009" name="e" temporalId="s15_4_e"><num value="e">(e)</num><content>a first-class certificate (local);</content></paragraph><paragraph id="ID_1501041525825_010" name="f" temporalId="s15_4_f"><num value="f">(f)</num><content>a first-class certificate (non-local) and a specified document.</content></paragraph></subsection><subsection id="ID_1501041525825_011" name="5" temporalId="s15_5"><num value="5">(5)</num><leadIn>On a non-Hong Kong ship, a crew member is a qualified crew member for the
+                purposes of subsections (1), (2) and (3) if he or she holds one of the
+                following—</leadIn><paragraph id="ID_1501041525841_012" name="a" temporalId="s15_5_a"><num value="a">(a)</num><content>a general certificate (non-local);</content></paragraph><paragraph id="ID_1501041525841_013" name="b" temporalId="s15_5_b"><num value="b">(b)</num><content>a second-class certificate (non-local);</content></paragraph><paragraph id="ID_1501041525841_014" name="c" temporalId="s15_5_c"><num value="c">(c)</num><content>a first-class certificate (non-local).</content></paragraph></subsection><subsection id="ID_1501041525841_015" name="6" temporalId="s15_6"><num value="6">(6)</num><leadIn>If the radio equipment provided on a ship requires maintenance while the ship is
+                engaged in a voyage so as to comply with <ref>section 12</ref>, the ship must carry
+                at least one crew member who holds one of the following—</leadIn><paragraph id="ID_1501041525841_016" name="a" temporalId="s15_6_a"><num value="a">(a)</num><leadIn>in relation to a Hong Kong ship—</leadIn><subparagraph id="ID_1501041525841_017" name="1" temporalId="s15_6_a_1"><num value="1">(i)</num><content>a second-class certificate (local);</content></subparagraph><subparagraph id="ID_1501041525841_018" name="2" temporalId="s15_6_a_2"><num value="2">(ii)</num><content>a second-class certificate (non-local) and a specified
+                        document;</content></subparagraph><subparagraph id="ID_1501041525841_019" name="3" temporalId="s15_6_a_3"><num value="3">(iii)</num><content>a first-class certificate (local);</content></subparagraph><subparagraph id="ID_1501041525841_020" name="4" temporalId="s15_6_a_4"><num value="4">(iv)</num><content>a first-class certificate (non-local) and a specified
+                        document;</content></subparagraph></paragraph><paragraph id="ID_1501041525841_021" name="b" temporalId="s15_6_b"><num value="b">(b)</num><leadIn>in relation to a non-Hong Kong ship—</leadIn><subparagraph id="ID_1501041525841_022" name="1" temporalId="s15_6_b_1"><num value="1">(i)</num><content>a second-class certificate (non-local);</content></subparagraph><subparagraph id="ID_1501041525841_023" name="2" temporalId="s15_6_b_2"><num value="2">(ii)</num><content>a first-class certificate (non-local).</content></subparagraph></paragraph></subsection><subsection id="ID_1501041525841_024" name="7" temporalId="s15_7"><num value="7">(7)</num><leadIn>In this section—</leadIn><def name="FirstclassCertificatelocal">
+                <leadIn><term>first-class certificate (local)</term> (<term xml:lang="zh-Hant-hk">一級證明書(本地)</term>) means a First-class radio electronic certificate that
+                    is—</leadIn>
+                <paragraph id="ID_1501041525857_025" name="a" temporalId="s15_7_a"><num value="a">(a)</num><content>issued by the Communications Authority in exercise of its power under
+                            <ref>section 32K(2)</ref> of the Telecommunications Ordinance (<ref href="/hk/cap106">Cap. 106</ref>); and</content></paragraph>
+                <paragraph id="ID_1501041525857_026" name="b" temporalId="s15_7_b"><num value="b">(b)</num><content>equivalent to a first-class certificate (non-local);</content></paragraph>
+            </def><def name="FirstclassCertificatenonlocal">
+                <leadIn><term>first-class certificate (non-local)</term> (<term xml:lang="zh-Hant-hk">一級證明書(非本地)</term>) means a First-class radio
+                    electronic certificate that is—</leadIn>
+                <paragraph id="ID_1501041525857_027" name="a" temporalId="s15_7_a"><num value="a">(a)</num><content>issued by, or under the authority of, the government of a state party
+                        to the STCW Convention; and</content></paragraph>
+                <paragraph id="ID_1501041525857_028" name="b" temporalId="s15_7_b"><num value="b">(b)</num><content>specified in No. 47.20 of Article 47 of the Radio
+                        Regulations;</content></paragraph>
+            </def><def name="GeneralCertificatelocal">
+                <leadIn><term>general certificate (local)</term> (<term xml:lang="zh-Hant-hk">通用證明書(本地)</term>) means a General operator’s certificate that is—</leadIn>
+                <paragraph id="ID_1501041525857_029" name="a" temporalId="s15_7_a"><num value="a">(a)</num><content>issued by the Communications Authority in exercise of its power under
+                            <ref>section 32K(2)</ref> of the Telecommunications Ordinance (<ref href="/hk/cap106">Cap. 106</ref>); and</content></paragraph>
+                <paragraph id="ID_1501041525857_030" name="b" temporalId="s15_7_b"><num value="b">(b)</num><content>equivalent to a general certificate (non-local);</content></paragraph>
+            </def><def name="GeneralCertificatenonlocal">
+                <leadIn><term>general certificate (non-local)</term> (<term xml:lang="zh-Hant-hk">通用證明書(非本地)</term>) means a General operator’s certificate that is—</leadIn>
+                <paragraph id="ID_1501041525857_031" name="a" temporalId="s15_7_a"><num value="a">(a)</num><content>issued by, or under the authority of, the government of a state party
+                        to the STCW Convention; and</content></paragraph>
+                <paragraph id="ID_1501041525857_032" name="b" temporalId="s15_7_b"><num value="b">(b)</num><content>specified in No. 47.22 of Article 47 of the Radio
+                        Regulations;</content></paragraph>
+            </def><def name="SecondclassCertificatelocal">
+                <leadIn><term>second-class certificate (local)</term> (<term xml:lang="zh-Hant-hk">二級證明書(本地)</term>) means a Second-class radio electronic certificate that
+                    is—</leadIn>
+                <paragraph id="ID_1501041525857_033" name="a" temporalId="s15_7_a"><num value="a">(a)</num><content>issued by the Communications Authority in exercise of its power
+                        under
+                            <ref>section
+                            32K(2)</ref> of the Telecommunications Ordinance (<ref href="/hk/cap106">Cap. 106</ref>); and
+                        <sourceNote>(<ref href="/hk/2017/er4">E.R. 4 of
+                        2017</ref>)</sourceNote></content></paragraph>
+                <paragraph id="ID_1501041525872_034" name="b" temporalId="s15_7_b"><num value="b">(b)</num><content>equivalent to a second-class certificate (non-local);</content></paragraph>
+            </def><def name="SecondclassCertificatenonlocal">
+                <leadIn><term>second-class certificate (non-local)</term> (<term xml:lang="zh-Hant-hk">二級證明書(非本地)</term>) means a Second-class radio
+                    electronic certificate that is—</leadIn>
+                <paragraph id="ID_1501041525872_035" name="a" temporalId="s15_7_a"><num value="a">(a)</num><content>issued by, or under the authority of, the government of a state party
+                        to the STCW Convention; and</content></paragraph>
+                <paragraph id="ID_1501041525872_036" name="b" temporalId="s15_7_b"><num value="b">(b)</num><content>specified in No. 47.21 of Article 47 of the Radio
+                        Regulations;</content></paragraph>
+            </def><def name="SpecifiedDocument">
+                <leadIn><term>specified document</term> (<term xml:lang="zh-Hant-hk">指明文件</term>)
+                    means—</leadIn>
+                <paragraph id="ID_1501041525872_037" name="a" temporalId="s15_7_a"><num value="a">(a)</num><content>a Licence (Deck Officer) Class 1, Licence (Deck Officer) Class 2 or
+                        Licence (Deck Officer) Class 3 issued under <ref>Part V</ref> of the
+                        Merchant Shipping (Seafarers) (Certification of Officers) Regulation (<ref href="/hk/cap478J">Cap. 478 sub. leg. J</ref>); or</content></paragraph>
+                <paragraph id="ID_1501041525872_038" name="b" temporalId="s15_7_b"><num value="b">(b)</num><content>a Certificate of Equivalent Competency issued, by the Communications
+                        Authority in exercise of its power under <ref>section 32K(2)</ref> of the
+                        Telecommunications Ordinance (<ref href="/hk/cap106">Cap. 106</ref>), to a
+                        person who holds a general certificate (non-local), second-class certificate
+                        (non-local) or first-class certificate (non-local).</content></paragraph>
+            </def></subsection></section><section id="ID_1500966125115_005" name="s16" temporalId="s16" startPeriod="2017-09-01" status="operational" reason="inEffect"><num value="16">16.</num><heading>Radio
+            records</heading><subsection id="ID_1501041535889_001" name="1" temporalId="s16_1"><num value="1">(1)</num><leadIn>All of the following information must be recorded in the radio log-book of a
+                ship—</leadIn><paragraph id="ID_1501041535889_002" name="a" temporalId="s16_1_a"><num value="a">(a)</num><content>a summary of all the radiocommunications relating to any distress, urgency
+                    and safety traffic of the ship together with the time of the
+                    communications;</content></paragraph><paragraph id="ID_1501041535889_003" name="b" temporalId="s16_1_b"><num value="b">(b)</num><content>the names of all the persons handling the communications;</content></paragraph><paragraph id="ID_1501041535889_004" name="c" temporalId="s16_1_c"><num value="c">(c)</num><content>all the important service incidents relating to the ship and the time of
+                    their occurrences;</content></paragraph><paragraph id="ID_1501041535889_005" name="c" temporalId="s16_1_c"><num value="c">(c)</num><content>the daily position of the ship.</content></paragraph></subsection><subsection id="ID_1501041535889_006" name="2" temporalId="s16_2"><num value="2">(2)</num><leadIn>In this section—</leadIn><def name="RadioLogbook">
+                <leadIn><term>radio log-book</term> (<term xml:lang="zh-Hant-hk">無線電日誌</term>) means—<marker role="section-break"></marker></leadIn>
+                <paragraph id="ID_1501041535889_007" name="a" temporalId="s16_2_a"><num value="a">(a)</num><content>in relation to a Hong Kong ship, the radio log-book referred to in
+                            <ref>section 97(3)(a)</ref> of the Ordinance;</content></paragraph>
+                <paragraph id="ID_1501041535889_008" name="b" temporalId="s16_2_b"><num value="b">(b)</num><content>in relation to a non-Hong Kong ship, the log referred to in item 3 of
+                        section I of Appendix 16 to the Radio Regulations.</content></paragraph>
+            </def></subsection></section></part></main></subLeg>

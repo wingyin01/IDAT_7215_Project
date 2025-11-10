@@ -1,0 +1,776 @@
+<?xml version="1.0" encoding="UTF-8"?><subLeg xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd" xml:lang="en"><meta><docName>Cap. 132 sub. leg. A</docName><docType>cap</docType><docNumber>132A</docNumber><docStatus>In effect</docStatus><dc:identifier>/hk/cap132A!en</dc:identifier><dc:date>2022-07-21</dc:date><dc:subject>legislation</dc:subject><dc:language>en</dc:language><dc:publisher>DoJ</dc:publisher><dc:rights>the Government of the Hong Kong Special Administrative Region</dc:rights></meta><main xml:lang="en" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd"><docTitle id="ID_1438402664929_001" name="shortTitle" reason="inEffect" status="operational" temporalId="shortTitle" startPeriod="2022-07-21">Abattoirs
+            Regulation</docTitle><sourceNote>(<ref href="/hk/1999/78">78 of 1999 s. 7</ref>)</sourceNote><enactingFormula>(<ref href="/hk/cap132/s77">Cap. 132, section
+            77</ref>)</enactingFormula><commencementNote>[1 August 1968]<sourceNote><inline class="width_3"> </inline><ref href="/hk/1968/ln73">L.N. 73 of 1968</ref> </sourceNote></commencementNote><sourceNote>(Format changes—<ref href="/hk/2022/er3">E.R. 3 of 2022</ref>)</sourceNote><part id="ID_1438402664944_001" name="P1" reason="inEffect" startPeriod="2022-07-21" status="operational" temporalId="P1"><num value="1">Part
+            I</num><heading>Preliminary</heading><section id="ID_1438402664944_003" name="s1" reason="repealed" startPeriod="2000-01-01" status="repealed" temporalId="s1"><num value="1">1.</num><sourceNote>(Repealed <ref href="/hk/1999/78">78 of 1999 s. 7</ref>)</sourceNote></section><section id="ID_1438402664960_002" name="s1A" reason="repealed" startPeriod="2000-01-01" status="repealed" temporalId="s1A"><num value="1A">1A.</num><sourceNote>(Repealed <ref href="/hk/1999/78">78 of 1999 s. 7</ref>)</sourceNote></section><section id="ID_1438402664960_004" name="s2" reason="inEffect" startPeriod="2022-07-21" status="operational" temporalId="s2"><num value="2">2.</num><heading>Interpretation</heading><leadIn>In this Regulation, unless the context otherwise requires—  <sourceNote>(<ref href="/hk/1999/78">78 of 1999 s. 7</ref>)</sourceNote></leadIn><def name="Abattoir"><term>abattoir</term>
+                (<term xml:lang="zh-Hant-HK">屠場</term>) means an abattoir specified in <ref>Schedule
+                1</ref>;</def><def name="AuthorizedOfficer"><leadIn><term>authorized
+                    officer</term>
+                    (<term xml:lang="zh-Hant-HK">獲授權人員</term>) means—</leadIn><paragraph id="ID_1438411176223_026" name="a" temporalId="s2_a"><num value="a">(a)</num><content>a health inspector; and</content></paragraph><paragraph id="ID_1438411176223_034" name="b" temporalId="s2_b"><num value="b">(b)</num><content>a public officer appointed under <ref>section 3(1)</ref>;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1991/ln279">L.N. 279 of 1991</ref>; <ref href="/hk/1999/78">78 of 1999 s. 7</ref>)</sourceNote></content></paragraph></def><def name="Carcass"><term>carcass</term>
+                (<term xml:lang="zh-Hant-HK">屠體</term>) means the body of a dead food animal;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1972/ln210">L.N. 210 of
+                    1972</ref>; <ref href="/hk/1991/ln279">L.N. 279 of
+            1991</ref>)</sourceNote></def><def name="Director"><term>Director</term>
+                (<term xml:lang="zh-Hant-HK">署長</term>) means the Director of Food and Environmental
+                Hygiene;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1999/78">78 of
+                    1999 s. 7</ref>)</sourceNote></def><def name="DressedCarcass"><term>dressed
+                carcass</term>
+                (<term xml:lang="zh-Hant-HK">去臟的屠體</term>) means, in respect of a bovine animal,
+            sheep or soliped, a carcass from which the offal, hide and head have been removed and,
+            in respect of a swine or goat, a carcass from which the offal has been removed;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1991/ln279">L.N. 279 of
+                    1991</ref>)</sourceNote></def><def name="EntryPermit"><term>entry
+                permit</term>
+                (<term xml:lang="zh-Hant-HK">入場許可證</term>) means an entry permit issued under
+                <ref>section 34(1)</ref>;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1991/ln279">L.N. 279 of 1991</ref>; <ref href="/hk/1999/78">78 of 1999
+                    s. 7</ref>)</sourceNote></def><def name="FoodAnimal"><term>food
+                animal</term>
+                (<term xml:lang="zh-Hant-HK">食用牲口</term>) means live bovine animal, swine, goat,
+            sheep or soliped;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1991/ln279">L.N. 279 of 1991</ref>)</sourceNote></def><def name="Lairage"><term>lairage</term>
+                (<term xml:lang="zh-Hant-HK">牲口欄</term>) means a part of an abattoir which is used
+            for the confinement of food animals;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1991/ln279">L.N. 279 of 1991</ref>)</sourceNote></def><def name="LicensedSlaughterhouse"><term>licensed
+                slaughterhouse</term>
+                (<term xml:lang="zh-Hant-HK">持牌屠房</term>) means a slaughterhouse in respect of which
+            a licence has been issued under <ref>section 9</ref> of the Slaughterhouses Regulation
+                (<ref href="/hk/cap132BU">Cap. 132 sub. leg. BU</ref>);<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1990/ln329">L.N. 329 of 1990</ref>; <ref href="/hk/1999/78">78 of 1999 s.
+                7</ref>; <ref href="/hk/2022/er3">E.R. 3 of
+            2022</ref>)</sourceNote></def><def name="Manager"><term>manager</term>
+                (<term xml:lang="zh-Hant-HK">經理</term>) means a person appointed by the Director to
+            manage or assist in the management of an abattoir;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1976/ln143">L.N. 143 of
+                1976</ref>)</sourceNote></def><def name="Offal"><term>offal</term>
+                (<term xml:lang="zh-Hant-HK">什臟</term>) means any part of a carcass which is removed
+            therefrom during the process of dressing it, but does not include the hide or
+                skin;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1972/ln210">L.N.
+                    210 of 1972</ref>; <ref href="/hk/1991/ln279">L.N. 279 of
+                1991</ref>)</sourceNote></def><def name="WaitingLairage"><term>waiting
+                lairage</term>
+                (<term xml:lang="zh-Hant-HK">待宰欄</term>) means a lairage in which food animals are
+            confined while awaiting slaughter.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1991/ln279">L.N. 279 of 1991</ref>)</sourceNote></def><sourceNote>(<ref href="/hk/1999/78">78 of 1999 s. 7</ref>)</sourceNote></section><section id="ID_1438402665038_001" name="s2A" reason="inEffect" startPeriod="2022-07-21" status="operational" temporalId="s2A"><num value="2A">2A.</num><heading>Restriction on slaughtering of food animals</heading><subsection id="ID_1438411176269_004" name="1" temporalId="s2A_1"><num value="1">(1)</num><leadIn>Subject to subsection (2), no person shall—  <sourceNote>(<ref href="/hk/1986/10">10 of 1986 s.
+                    32</ref>)</sourceNote></leadIn><paragraph id="ID_1438411176269_012" name="a" temporalId="s2A_1_a"><num value="a">(a)</num><content>slaughter, or cause or permit to be slaughtered, any food animal for human
+                    consumption in any place except an abattoir or a licensed slaughterhouse;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1990/ln329">L.N. 329
+                            of 1990</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411176269_020" name="b" temporalId="s2A_1_b"><num value="b">(b)</num><content>slaughter, or cause or permit to be slaughtered, any food animal for human
+                    consumption otherwise than in accordance with this Regulation;</content></paragraph><paragraph id="ID_1438411176269_028" name="c" temporalId="s2A_1_c"><num value="c">(c)</num><content>dress, or cause or permit to be dressed, the carcass of any food animal for
+                    human consumption otherwise than in accordance with this Regulation.</content></paragraph></subsection><subsection id="ID_1438411176269_035" name="2" temporalId="s2A_2"><num value="2">(2)</num><content>The Director may authorize in writing the slaughtering or dressing of any food animal for human consumption in a place other than in an abattoir or a licensed slaughterhouse, in such manner and subject to such conditions as he thinks fit.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1991/ln279">L.N. 279 of 1991</ref>)</sourceNote></content></subsection><subsection id="ID_1438411176269_043" name="3" temporalId="s2A_3"><num value="3">(3)</num><content>Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable to a fine at level 5 and to imprisonment for 6<inline class="width_3"> </inline>months, and in the case of a continuing offence to a further daily fine of $600.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1987/ln284">L.N. 284 of 1987</ref>; <ref href="/hk/1996/ln177">L.N. 177 of 1996</ref>)</sourceNote></content></subsection><sourceNote>(<ref href="/hk/1975/ln33">L.N. 33 of 1975</ref>; <ref href="/hk/1991/ln279">L.N. 279 of 1991</ref>; <ref href="/hk/1999/78">78 of 1999 s. 7</ref>)</sourceNote></section><section id="ID_1438402665038_003" name="s3" reason="inEffect" startPeriod="2022-07-21" status="operational" temporalId="s3"><num value="3">3.</num><heading>Appointment of authorized officers</heading><subsection id="ID_1438411176301_011" name="1" temporalId="s3_1"><num value="1">(1)</num><content>The Director may appoint any public officer to be an authorized officer in an abattoir for the purposes of such of this Regulation as he may specify.</content></subsection><subsection id="ID_1438411176301_019" name="2" temporalId="s3_2"><num value="2">(2)</num><content>In the exercise of his powers and functions under this Regulation an authorized officer shall be subject to the directions of the manager of the abattoir.</content></subsection><sourceNote>(<ref href="/hk/1999/78">78 of 1999 s. 7</ref>)</sourceNote></section><section id="ID_1438402665054_002" name="s4" reason="inEffect" startPeriod="2022-07-21" status="operational" temporalId="s4"><num value="4">4.</num><heading>Fees</heading><subsection id="ID_1438411176316_026" name="1" temporalId="s4_1"><num value="1">(1)</num><content>There shall be payable by every person to whom any services have been provided in an abattoir the prescribed fee.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1995/ln179">L.N. 179 of 1995</ref>)</sourceNote></content></subsection><subsection id="ID_1438411176316_034" name="2" temporalId="s4_2"><num value="2">(2)</num><content>The manager may, if there is a prescribed fee for that purpose, nominate that a night will be for night slaughter.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1988/ln345">L.N. 345 of 1988</ref>)</sourceNote></content></subsection><subsection id="ID_1438411176316_042" name="3" temporalId="s4_3"><num value="3">(3)</num><content>If a person brings a food animal into an abattoir to be slaughtered before 8 a.m. on the morning after a night nominated for night slaughter, the person shall pay the prescribed fee, if any, for night slaughter.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1988/ln345">L.N. 345 of 1988</ref>; <ref href="/hk/1991/ln279">L.N. 279 of 1991</ref>)</sourceNote></content></subsection><sourceNote>(<ref href="/hk/1995/ln179">L.N. 179 of 1995</ref>; <ref href="/hk/1999/78">78 of 1999 s. 7</ref>)</sourceNote></section></part><part id="ID_1438402665069_001" name="P2" reason="inEffect" startPeriod="2022-07-21" status="operational" temporalId="P2"><num value="2">Part
+            II</num><heading>Admission
+            of
+            Food Animals
+            to
+            Abattoirs</heading><sourceNote>(<ref href="/hk/1991/ln279">L.N. 279 of 1991</ref>)</sourceNote><section id="ID_1438402665069_003" name="s5" reason="inEffect" startPeriod="2022-07-21" status="operational" temporalId="s5"><num value="5">5.</num><heading>Hours of admission</heading><content>The manager of an abattoir
+            may
+            fix the hours during which it shall be open each day for the admission or slaughter of
+            food animals.</content><sourceNote>(<ref href="/hk/1975/ln33">L.N. 33 of 1975</ref>; <ref href="/hk/1991/ln279">L.N. 279 of 1991</ref>)</sourceNote></section><section id="ID_1438402665085_002" name="s6" reason="inEffect" startPeriod="2022-07-21" status="operational" temporalId="s6"><num value="6">6.</num><heading>Power of manager to prohibit entry to parts of abattoir</heading><subsection id="ID_1438411176363_032" name="1" temporalId="s6_1"><num value="1">(1)</num><content>Notwithstanding any entry permit issued under <ref>section 34</ref> or any pass issued under <ref>section 35</ref>, if in the opinion of the manager of an abattoir it is expedient to do so for its efficient operation or maintenance, he may by order in writing prohibit, either permanently or for such period as he thinks fit, the entry of persons without his consent to any part of the abattoir specified in the order.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1975/ln33">L.N. 33 of 1975</ref>; <ref href="/hk/1991/ln279">L.N. 279 of 1991</ref>)</sourceNote></content></subsection><subsection id="ID_1438411176379_005" name="2" temporalId="s6_2"><num value="2">(2)</num><content>A copy of an order under subsection (1) shall be posted in a conspicuous place outside the part of the abattoir to which it relates.</content></subsection><subsection id="ID_1438411176379_013" name="3" temporalId="s6_3"><num value="3">(3)</num><content>Any person who enters a part of an abattoir in contravention of an order under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine at level 4 and to imprisonment for 6 months.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1987/ln284">L.N. 284 of 1987</ref>; <ref href="/hk/1991/ln279">L.N. 279 of 1991</ref>; <ref href="/hk/1996/ln177">L.N. 177 of 1996</ref>)</sourceNote></content></subsection><sourceNote>(<ref href="/hk/1999/78">78 of 1999 s. 7</ref>)</sourceNote></section><section id="ID_1438402665100_001" name="s7" reason="inEffect" startPeriod="2022-07-21" status="operational" temporalId="s7"><num value="7">7.</num><heading>Food animals which may be brought into abattoir</heading><subsection id="ID_1438411176394_027" name="1" temporalId="s7_1"><num value="1">(1)</num><content>No person shall bring into or keep in an abattoir any animal other than a food animal except with the consent of the manager.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1991/ln279">L.N. 279 of 1991</ref>)</sourceNote></content></subsection><subsection id="ID_1438411176410_005" name="2" temporalId="s7_2"><num value="2">(2)</num><content>Any person who contravenes subsection (1) shall be guilty of an offence.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1999/78">78 of 1999 s. 7</ref>)</sourceNote></content></subsection></section><section id="ID_1438402665100_003" name="s8" reason="inEffect" startPeriod="2022-07-21" status="operational" temporalId="s8"><num value="8">8.</num><heading>Restriction on admission of food animals to abattoir</heading><subsection id="ID_1438411176410_027" name="1" temporalId="s8_1"><num value="1">(1)</num><leadIn>No person shall bring into or keep in an abattoir—</leadIn><paragraph id="ID_1438411176410_035" name="a" temporalId="s8_1_a"><num value="a">(a)</num><content>any animal other than a food animal; and </content></paragraph><paragraph id="ID_1438411176425_006" name="b" temporalId="s8_1_b"><num value="b">(b)</num><content>any food animal for any purpose other than slaughter for human consumption, except with the permission of the manager.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1991/ln279">L.N. 279 of 1991</ref>)</sourceNote> </content></paragraph></subsection><subsection id="ID_1438411176425_013" name="1A" temporalId="s8_1A"><num value="1A">(1A)</num><content>An authorized officer may require any food animal admitted to an abattoir to be examined to ascertain whether it is fit for human consumption when slaughtered.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1991/ln279">L.N. 279 of 1991</ref>)</sourceNote> </content></subsection><subsection id="ID_1438411176425_021" name="2" temporalId="s8_2"><num value="2">(2)</num><content>Any person who brings a food animal into an abattoir in contravention of subsection (1) shall be guilty of an offence.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1999/78">78 of 1999 s. 7</ref>)</sourceNote></content></subsection><sourceNote>(<ref href="/hk/1975/ln33">L.N. 33 of 1975</ref>; <ref href="/hk/1991/ln279">L.N. 279 of 1991</ref>)</sourceNote></section><section id="ID_1438402665116_002" name="s8A" reason="inEffect" startPeriod="2022-07-21" status="operational" temporalId="s8A"><num value="8A">8A.</num><heading>Restriction on admission of animal carcass</heading><subsection id="ID_1438411176441_039" name="1" temporalId="s8A_1"><num value="1">(1)</num><content>Subject to subsection (2), no person shall bring into an abattoir any carcass.
+            </content></subsection><subsection id="ID_1438411176441_047" name="2" temporalId="s8A_2"><num value="2">(2)</num><leadIn>A person may bring a carcass of a food animal into an abattoir for examination
+                under <ref>section 27</ref> if—</leadIn><paragraph id="ID_1438411176441_055" name="a" temporalId="s8A_2_a"><num value="a">(a)</num><content>the carcass has been bled; and </content></paragraph><paragraph id="ID_1438411176441_063" name="b" temporalId="s8A_2_b"><num value="b">(b)</num><leadIn>it is accompanied by a certificate from an authorized officer and, in the
+                    case of soliped sent in by the Hong Kong Jockey Club, by a Veterinary Officer
+                    appointed by that Club stating—  <sourceNote>(<ref href="/hk/2000/59">59 of 2000
+                            s. 3</ref>)</sourceNote></leadIn><subparagraph id="ID_1438411176441_071" name="1" temporalId="s8A_2_b_1"><num value="i">(i)</num><content>the exact time and date of killing and bleeding; </content></subparagraph><subparagraph id="ID_1438411176457_007" name="2" temporalId="s8A_2_b_2"><num value="ii">(ii)</num><content>the reason for the slaughter of the food animal; </content></subparagraph><subparagraph id="ID_1438411176457_015" name="3" temporalId="s8A_2_b_3"><num value="iii">(iii)</num><content>that, to his knowledge, the food animal was not slaughtered by reason
+                        of disease or is not for any other cause unfit for human consumption; and
+                    </content></subparagraph><subparagraph id="ID_1438411176457_023" name="4" temporalId="s8A_2_b_4"><num value="iv">(iv)</num><content>that, to his knowledge, no drug which could affect the fitness of the
+                        carcass (including the offal) for human consumption was administered to the
+                        food animal before it was slaughtered. </content></subparagraph></paragraph></subsection><subsection id="ID_1438411176457_029" name="3" temporalId="s8A_3"><num value="3">(3)</num><content>A person who contravenes subsection (1) commits an offence. </content></subsection><sourceNote>(<ref href="/hk/1991/ln279">L.N. 279 of 1991</ref>; <ref href="/hk/1999/78">78
+                of 1999 s. 7</ref>)</sourceNote></section><section id="ID_1438402665132_001" name="s9" reason="inEffect" startPeriod="2022-07-21" status="operational" temporalId="s9"><num value="9">9.</num><heading>Food animals not to be removed alive from abattoir without consent of manager</heading><subsection id="ID_1438411176472_080" name="1" temporalId="s9_1"><num value="1">(1)</num><content>No person shall, except at the direction or with the consent in writing of the manager, remove alive from an abattoir any food animal which has been admitted to the abattoir in accordance with this Regulation.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1975/ln33">L.N. 33 of 1975</ref>; <ref href="/hk/1991/ln279">L.N. 279 of 1991</ref>)</sourceNote> </content></subsection><subsection id="ID_1438411176488_005" name="2" temporalId="s9_2"><num value="2">(2)</num><content>Any person who contravenes subsection (1) shall be guilty of an offence.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1972/ln210">L.N. 210 of 1972</ref>)</sourceNote> </content></subsection><sourceNote>(<ref href="/hk/1999/78">78 of 1999 s. 7</ref>)</sourceNote></section><section id="ID_1438402665147_001" name="s10" reason="inEffect" startPeriod="2022-07-21" status="operational" temporalId="s10"><num value="10">10.</num><heading>Power of manager to refuse to admit food animals if insufficient accommodation available</heading><content>The manager of an abattoir may refuse to admit to the abattoir a food animal if in his opinion there is insufficient accommodation available in the abattoir for the food animal. </content><sourceNote>(<ref href="/hk/1975/ln33">L.N. 33 of 1975</ref>; <ref href="/hk/1991/ln279">L.N. 279 of
+                1991</ref>) </sourceNote></section><section id="ID_1438402665163_001" name="s11" reason="inEffect" startPeriod="2022-07-21" status="operational" temporalId="s11"><num value="11">11.</num><heading>Admission form to be completed</heading><subsection id="ID_1438411176519_004" name="1" temporalId="s11_1"><num value="1">(1)</num><content>When a food animal is admitted to an abattoir, a statement in the prescribed
+                form in respect of the food animal shall be delivered to the manager within 24 hours
+                thereafter.
+                    <sourceNote>(See <ref>Schedule 3</ref>, Form 1)</sourceNote>
+            </content></subsection><subsection id="ID_1438411176519_012" name="2" temporalId="s11_2"><num value="2">(2)</num><leadIn>If a statement is not delivered to the manager in accordance with subsection (1), then—  <sourceNote>(<ref href="/hk/1999/78">78 of 1999 s. 7</ref>)</sourceNote></leadIn><paragraph id="ID_1438411176519_020" name="a" temporalId="s11_2_a"><num value="a">(a)</num><content>the owner of the food animal; and </content></paragraph><paragraph id="ID_1438411176519_028" name="b" temporalId="s11_2_b"><num value="b">(b)</num><content>the person who was in charge of the food animal at the time of its admission, </content></paragraph><continued>shall be guilty of an offence. </continued></subsection><sourceNote>(<ref href="/hk/1991/ln279">L.N. 279 of 1991</ref>) </sourceNote></section><section id="ID_1438402665163_003" name="s12" reason="inEffect" startPeriod="2022-07-21" status="operational" temporalId="s12"><num value="12">12.</num><heading>Power of authorized officer to affix tags or marks to food animals</heading><subsection id="ID_1438411176535_048" name="1" temporalId="s12_1"><num value="1">(1)</num><content>An authorized officer may affix to a food animal which has been admitted to an abattoir a tag or mark for the purpose of recording its admission and disposal in the abattoir. </content></subsection><subsection id="ID_1438411176535_056" name="2" temporalId="s12_2"><num value="2">(2)</num><content>Any person in an abattoir who, without the consent of the manager, removes, alters or interferes with a tag or mark affixed to a food animal under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine at level 4 and to imprisonment for 6 months.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1987/ln284">L.N. 284 of 1987</ref>; <ref href="/hk/1996/ln177">L.N. 177 of 1996</ref>; <ref href="/hk/1999/78">78 of 1999 s. 7</ref>)</sourceNote> </content></subsection><sourceNote>(<ref href="/hk/1991/ln279">L.N. 279 of 1991</ref>) </sourceNote></section><section id="ID_1438402665178_002" name="s12A" reason="inEffect" startPeriod="2022-07-21" status="operational" temporalId="s12A"><num value="12A">12A.</num><heading>Removal of food animal to another abattoir</heading><subsection id="ID_1438411176566_004" name="1" temporalId="s12A_1"><num value="1">(1)</num><leadIn>A manager may in writing direct—</leadIn><paragraph id="ID_1438411176566_012" name="a" temporalId="s12A_1_a"><num value="a">(a)</num><content>the owner of a food animal in an abattoir; or </content></paragraph><paragraph id="ID_1438411176566_020" name="b" temporalId="s12A_1_b"><num value="b">(b)</num><content>any person appearing to the manager to be in charge of a food animal in an abattoir, </content></paragraph><continued>to remove the food animal from the abattoir to a licensed slaughterhouse for slaughter.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1990/ln329">L.N. 329 of 1990</ref>)</sourceNote> </continued></subsection><subsection id="ID_1438411176566_033" name="2" temporalId="s12A_2"><num value="2">(2)</num><content>Any person who fails to comply with a direction given to him by a manager under subsection (1) shall be guilty of an offence.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1999/78">78 of 1999 s. 7</ref>)</sourceNote></content></subsection><sourceNote>(<ref href="/hk/1975/ln33">L.N. 33 of 1975</ref>; <ref href="/hk/1991/ln279">L.N. 279 of
+                1991</ref>) </sourceNote></section><section id="ID_1438402665194_001" name="s13" reason="inEffect" startPeriod="2022-07-21" status="operational" temporalId="s13"><num value="13">13.</num><heading>Power of authorized officer to give directions as to handling of food animals</heading><subsection id="ID_1438411176581_040" name="1" temporalId="s13_1"><num value="1">(1)</num><leadIn>An authorized officer may give to—</leadIn><paragraph id="ID_1438411176581_048" name="a" temporalId="s13_1_a"><num value="a">(a)</num><content>the owner of a food animal in an abattoir; and </content></paragraph><paragraph id="ID_1438411176581_056" name="b" temporalId="s13_1_b"><num value="b">(b)</num><content>any person appearing to the authorized officer to be in charge of a food animal in an abattoir, </content></paragraph><continued>such directions as he thinks fit as to—</continued><paragraph id="ID_1438411176581_070" name="i" temporalId="s13_1_i"><num value="i">(i)</num><content>the placing or tying of the food animal in any stall, pen, or lairage in the abattoir; and </content></paragraph><paragraph id="ID_1438411176581_078" name="ii" temporalId="s13_1_ii"><num value="ii">(ii)</num><content>the movement of the food animal from any place to any other place in the abattoir. </content></paragraph></subsection><subsection id="ID_1438411176581_085" name="1A" temporalId="s13_1A"><num value="1A">(1A)</num><leadIn>An authorized officer may give such directions he thinks fit as to—</leadIn><paragraph id="ID_1438411176597_005" name="a" temporalId="s13_1A_a"><num value="a">(a)</num><content>the priority; and </content></paragraph><paragraph id="ID_1438411176597_013" name="b" temporalId="s13_1A_b"><num value="b">(b)</num><content>the number, </content></paragraph><continued>of food animals admitted to any part of an abattoir.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1975/ln33">L.N. 33 of 1975</ref>)</sourceNote> </continued></subsection><subsection id="ID_1438411176597_026" name="2" temporalId="s13_2"><num value="2">(2)</num><content>Any person who fails to comply with a direction given to him under subsection (1) or (1A) shall be guilty of an offence.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1975/ln33">L.N. 33 of 1975</ref>; <ref href="/hk/1999/78">78 of 1999 s. 7</ref>)</sourceNote> </content></subsection><sourceNote>(<ref href="/hk/1991/ln279">L.N. 279 of 1991</ref>) </sourceNote></section><section id="ID_1438402665194_003" name="s14" reason="inEffect" startPeriod="2022-07-21" status="operational" temporalId="s14"><num value="14">14.</num><heading>Food animals to be delivered to waiting lairage within 5 days of admission</heading><subsection id="ID_1438411176613_056" name="1" temporalId="s14_1"><num value="1">(1)</num><paragraph id="ID_1438411176613_060" name="a" temporalId="s14_1_a"><num value="a">(a)</num><content>Every food animal which has been admitted to an abattoir in accordance with this Regulation shall be delivered within 5 days thereafter to a waiting lairage to be slaughtered unless previously removed under <ref>section 9</ref>.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1975/ln33">L.N. 33 of 1975</ref>)</sourceNote> </content></paragraph><paragraph id="ID_1438411176628_006" name="b" temporalId="s14_1_b"><num value="b">(b)</num><content>The manager may if he thinks fit extend the time limit referred to in paragraph (a) in respect of any food animal. </content></paragraph></subsection><subsection id="ID_1438411176628_013" name="2" temporalId="s14_2"><num value="2">(2)</num><content>Any person who, being the owner or person in charge of a food animal, fails to comply with subsection (1) shall be guilty of an offence. </content></subsection><subsection id="ID_1438411176628_021" name="3" temporalId="s14_3"><num value="3">(3)</num><content>In the event of a contravention of subsection (1), the manager of the abattoir may cause the food animal to be delivered to a waiting lairage and thereafter slaughtered. </content></subsection><sourceNote>(<ref href="/hk/1991/ln279">L.N. 279 of 1991</ref>; <ref href="/hk/1999/78">78 of 1999 s. 7</ref>)</sourceNote></section><section id="ID_1438402665225_001" name="s15" reason="inEffect" startPeriod="2022-07-21" status="operational" temporalId="s15"><num value="15">15.</num><heading>Power of authorized officer to have diseased or injured food animals segregated and slaughtered</heading><content>If an authorized officer has reason to suspect that a food animal admitted to an abattoir is suffering from disease or injury, he may cause the food animal to be segregated from the other food animals in the abattoir and, if he thinks it is necessary to do so, may cause the food animal to be slaughtered. </content><sourceNote>(<ref href="/hk/1991/ln279">L.N. 279 of 1991</ref>) </sourceNote></section><section id="ID_1438402665225_003" name="s16" reason="inEffect" startPeriod="2022-07-21" status="operational" temporalId="s16"><num value="16">16.</num><heading>Notice to be given to owner of food animal slaughtered under <ref>section 14</ref> or <ref>15</ref></heading><leadIn>When a food animal in an abattoir is slaughtered under <ref>section 14(3)</ref> or <ref>15</ref>, the manager shall forthwith give notice of the fact to—</leadIn><paragraph id="ID_1438411176659_026" name="a" temporalId="s16_a"><num value="a">(a)</num><content>the owner of the food animal; or </content></paragraph><paragraph id="ID_1438411176659_034" name="b" temporalId="s16_b"><num value="b">(b)</num><content>the person who appeared to the manager to be in charge of the food animal immediately prior to the time when the food animal was received into a waiting lairage or segregated, as the case may be. </content></paragraph><sourceNote>(<ref href="/hk/1991/ln279">L.N. 279 of 1991</ref>; <ref href="/hk/1999/78">78 of 1999 s. 7</ref>)</sourceNote></section></part><part id="ID_1438402665241_002" name="P3" reason="inEffect" startPeriod="2022-07-21" status="operational" temporalId="P3"><num value="3">Part
+            III</num><heading>Slaughter
+            of
+            Food
+            Animals</heading><sourceNote>(<ref href="/hk/1991/ln279">L.N. 279 of 1991</ref>)</sourceNote><section id="ID_1438402665241_004" name="s17" reason="inEffect" startPeriod="2022-07-21" status="operational" temporalId="s17"><num value="17">17.</num><heading>Owners register</heading><subsection id="ID_1438411176691_011" name="1" temporalId="s17_1"><num value="1">(1)</num><content>A manager shall maintain for his abattoir a register, to be known as the owners register, in which he shall register the names of owners of food animals delivered or to be delivered for slaughter at the abattoir.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1991/ln279">L.N. 279 of 1991</ref>)</sourceNote></content></subsection><subsection id="ID_1438411176691_019" name="2" temporalId="s17_2"><num value="2">(2)</num><leadIn>The owners register shall consist of—</leadIn><paragraph id="ID_1438411176691_027" name="a" temporalId="s17_2_a"><num value="a">(a)</num><content>Part I, which shall contain the names and particulars of persons whose registration, subject to this Regulation, is permanent; and<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1999/78">78 of 1999 s. 7</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411176691_035" name="b" temporalId="s17_2_b"><num value="b">(b)</num><content>Part II, which shall contain the names and particulars of persons who are registered temporarily or in respect of a specified number of food animals.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1991/ln279">L.N. 279 of 1991</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438411176706_005" name="3" temporalId="s17_3"><num value="3">(3)</num><content>The manager shall assign a registration number to each person registered in the owners register. </content></subsection><subsection id="ID_1438411176706_013" name="4" temporalId="s17_4"><num value="4">(4)</num><leadIn>The particulars to be entered in Part I of the owners register of a person are—</leadIn><paragraph id="ID_1438411176706_021" name="a" temporalId="s17_4_a"><num value="a">(a)</num><content>his registration number; </content></paragraph><paragraph id="ID_1438411176706_029" name="b" temporalId="s17_4_b"><num value="b">(b)</num><content>the date of his registration; </content></paragraph><paragraph id="ID_1438411176706_037" name="c" temporalId="s17_4_c"><num value="c">(c)</num><content>his name in full in English or, in the case of a corporation, the name of the corporation; </content></paragraph><paragraph id="ID_1438411176706_045" name="d" temporalId="s17_4_d"><num value="d">(d)</num><content>his name in full in Chinese, if any, or, in the case of a corporation, the name of the corporation; </content></paragraph><paragraph id="ID_1438411176706_053" name="e" temporalId="s17_4_e"><num value="e">(e)</num><content>his business name; </content></paragraph><paragraph id="ID_1438411176706_061" name="f" temporalId="s17_4_f"><num value="f">(f)</num><content>the business carried on by him; </content></paragraph><paragraph id="ID_1438411176706_069" name="g" temporalId="s17_4_g"><num value="g">(g)</num><content>the address of each of the premises at which he carries on the business. </content></paragraph></subsection><sourceNote>(<ref href="/hk/1975/ln33">L.N. 33 of 1975</ref>)</sourceNote></section><section id="ID_1438402665256_002" name="s18" reason="inEffect" startPeriod="2022-07-21" status="operational" temporalId="s18"><num value="18">18.</num><heading>Registration</heading><subsection id="ID_1438411176753_004" name="1" temporalId="s18_1"><num value="1">(1)</num><content>An application for registration in Part I of the owners register shall be in Form 2 in <ref>Schedule 3</ref>. </content></subsection><subsection id="ID_1438411176753_012" name="2" temporalId="s18_2"><num value="2">(2)</num><leadIn>An applicant for registration in Part I of the owners register shall produce for inspection by the manager—</leadIn><paragraph id="ID_1438411176753_020" name="a" temporalId="s18_2_a"><num value="a">(a)</num><content>a licence to the applicant to carry on a food business in which meat is
+                    sold or prepared for human consumption issued under the Food Business Regulation
+                        (<ref href="/hk/cap132X">Cap. 132 sub. leg. X</ref>);<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1986/10">10 of 1986 s.
+                        32</ref>)</sourceNote>
+                </content></paragraph><paragraph id="ID_1438411176753_028" name="b" temporalId="s18_2_b"><num value="b">(b)</num><content>a business registration certificate issued under <ref>section 6</ref> of
+                    the Business Registration Ordinance (<ref href="/hk/cap310">Cap. 310</ref>) in
+                    respect of a wholesale livestock business carried on by the applicant, or a copy
+                    of the certificate certified under <ref>section
+                        19(1)(a)</ref> of that Ordinance or certified by the
+                    applicant; or<inline class="width_5"> </inline><sourceNote>(<ref href="/hk/2010/13">13 of 2010 s. 27</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411176753_036" name="c" temporalId="s18_2_c"><num value="c">(c)</num><content>a letting under <ref>section 6</ref> of the Public Markets Regulation (<ref href="/hk/cap132BO">Cap. 132 sub. leg. BO</ref>) of a stall in a public
+                    market enabling the applicant to carry on a business in which meat is sold or
+                    prepared for human consumption.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1986/10">10 of 1986 s.
+                        32</ref>)</sourceNote>
+                </content></paragraph></subsection><subsection id="ID_1438411176769_005" name="3" temporalId="s18_3"><num value="3">(3)</num><leadIn>On the receipt of an application under subsection (1) the manager may—</leadIn><paragraph id="ID_1438411176769_013" name="a" temporalId="s18_3_a"><num value="a">(a)</num><content>register the applicant in Part I of the owners register; or </content></paragraph><paragraph id="ID_1438411176769_021" name="b" temporalId="s18_3_b"><num value="b">(b)</num><content>notify the applicant of his refusal to register him. </content></paragraph></subsection><subsection id="ID_1438411176769_028" name="4" temporalId="s18_4"><num value="4">(4)</num><content>The manager may, and if directed by the Director shall, register any person in Part II of the owners register. </content></subsection><sourceNote>(<ref href="/hk/1975/ln33">L.N. 33 of 1975</ref>; <ref href="/hk/1999/78">78 of 1999 s. 7</ref>)</sourceNote></section><section id="ID_1438402665272_002" name="s19" reason="inEffect" startPeriod="2022-07-21" status="operational" temporalId="s19"><num value="19">19.</num><heading>Deletion from owners register</heading><leadIn>The manager shall delete from the owners register the name of any person who—</leadIn><paragraph id="ID_1438411176800_012" name="a" temporalId="s19_a"><num value="a">(a)</num><content>fails to notify the manager in writing within 7 days of any change in the particulars of such person entered in the register; or </content></paragraph><paragraph id="ID_1438411176800_020" name="b" temporalId="s19_b"><num value="b">(b)</num><content>has not been issued with a receipt for any food animal admitted to a waiting lairage for a period of 3 months. </content></paragraph><sourceNote>(<ref href="/hk/1975/ln33">L.N. 33 of 1975</ref>; <ref href="/hk/1991/ln279">L.N. 279 of
+                1991</ref>) </sourceNote></section><section id="ID_1438402665288_002" name="s20" reason="inEffect" startPeriod="2022-07-21" status="operational" temporalId="s20"><num value="20">20.</num><heading>Admission of food animals to waiting lairage</heading><subsection id="ID_1438411176815_004" name="1" temporalId="s20_1"><num value="1">(1)</num><leadIn>No person, not being a public officer, shall deliver a food animal to a waiting lairage unless—</leadIn><paragraph id="ID_1438411176815_012" name="a" temporalId="s20_1_a"><num value="a">(a)</num><content>the name of the owner of such food animal is entered on the owners register; and </content></paragraph><paragraph id="ID_1438411176815_020" name="b" temporalId="s20_1_b"><num value="b">(b)</num><content>the food animal has been marked with the registration number of the owner, or, if the food animal is a pig, has been marked with a tattooing instrument approved by the manager. </content></paragraph></subsection><subsection id="ID_1438411176815_027" name="2" temporalId="s20_2"><num value="2">(2)</num><content>Any person who contravenes subsection (1) shall be guilty of an offence.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1999/78">78 of 1999 s. 7</ref>)</sourceNote> </content></subsection><sourceNote>(<ref href="/hk/1975/ln33">L.N. 33 of 1975</ref>; <ref href="/hk/1991/ln279">L.N. 279 of 1991</ref>)</sourceNote></section><section id="ID_1438402665288_004" name="s21" reason="inEffect" startPeriod="2022-07-21" status="operational" temporalId="s21"><num value="21">21.</num><heading>Power of manager to detain and dispose of unidentified food animals, dressed carcasses or carcasses</heading><subsection id="ID_1438411176831_041" name="1" temporalId="s21_1"><num value="1">(1)</num><content>If the owner of any food animal, dressed carcass or carcass in an abattoir is not known or cannot be found the manager may cause it to be detained until the owner is ascertained or found. </content></subsection><subsection id="ID_1438411176831_049" name="2" temporalId="s21_2"><num value="2">(2)</num><content>Where a food animal, dressed carcass or carcass is detained under subsection (1) and the manager is satisfied that the owner of the food animal, dressed carcass or carcass cannot be ascertained or found, he may cause it to be disposed of in such manner as he thinks fit.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1999/78">78 of 1999 s. 7</ref>)</sourceNote></content></subsection><sourceNote>(<ref href="/hk/1972/ln210">L.N. 210 of 1972</ref>; <ref href="/hk/1991/ln279">L.N. 279
+                of
+            1991</ref>)</sourceNote></section><section id="ID_1438402665303_002" name="s22" reason="inEffect" startPeriod="2022-07-21" status="operational" temporalId="s22"><num value="22">22.</num><heading>Manager to post daily statement of food animals held in waiting lairage</heading><subsection id="ID_1438411176862_004" name="1" temporalId="s22_1"><num value="1">(1)</num><content>The manager of an abattoir shall cause to be posted daily in a conspicuous place in the vicinity of every waiting lairage therein a statement containing the name of every person in whose name any food animal was being held in the waiting lairage at the close of working hours on the previous day and the number of food animals then held for that person.</content></subsection><subsection id="ID_1438411176862_012" name="2" temporalId="s22_2"><num value="2">(2)</num><content>No persons shall have any claim whatsoever against the Director or any public
+                officer in respect of the theft of a food animal from a waiting lairage unless a
+                complaint in writing, and the receipt issued for the food animal under this Part,
+                are lodged by the claimant with the manager within 48 hours after the posting of the
+                first statement under subsection (1) in which the lost food animal is not
+                    included.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1975/ln33">L.N. 33 of 1975</ref>; <ref href="/hk/1976/ln143">L.N.
+                        143 of 1976</ref>; <ref href="/hk/1986/10">10 of 1986 s.
+                    32</ref>; <ref href="/hk/1999/78">78 of 1999 s. 7</ref>)</sourceNote></content></subsection><sourceNote>(<ref href="/hk/1991/ln279">L.N. 279 of 1991</ref>)</sourceNote></section><section id="ID_1438402665334_001" name="s23" reason="inEffect" startPeriod="2022-07-21" status="operational" temporalId="s23"><num value="23">23.</num><heading>Offence to remove food animal from waiting lairage</heading><content>Any person who removes a food animal from a waiting lairage otherwise than at the direction or with the consent in writing of an authorized officer shall be guilty of an offence. </content><sourceNote>(<ref href="/hk/1991/ln279">L.N. 279 of 1991</ref>) </sourceNote></section><section id="ID_1438402665350_002" name="s24" reason="inEffect" startPeriod="2022-07-21" status="operational" temporalId="s24"><num value="24">24.</num><heading>Unauthorized persons not permitted to slaughter food animals in abattoir</heading><subsection id="ID_1438411176909_004" name="1" temporalId="s24_1"><num value="1">(1)</num><leadIn>Except with the permission of the manager no person in an abattoir shall—</leadIn><paragraph id="ID_1438411176909_012" name="a" temporalId="s24_1_a"><num value="a">(a)</num><content>slaughter or assist in the slaughtering of any food animal; or </content></paragraph><paragraph id="ID_1438411176909_020" name="b" temporalId="s24_1_b"><num value="b">(b)</num><content>take part in any process of the dressing, trimming, cutting, tying, washing or handling of a slaughtered food animal or any part thereof.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1975/ln33">L.N. 33 of 1975</ref>)</sourceNote> </content></paragraph></subsection><subsection id="ID_1438411176909_027" name="2" temporalId="s24_2"><num value="2">(2)</num><content>Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine at level 4 and to imprisonment for 6 months.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1987/ln284">L.N. 284 of 1987</ref>; <ref href="/hk/1996/ln177">L.N. 177 of 1996</ref>; <ref href="/hk/1999/78">78 of 1999 s. 7</ref>)</sourceNote> </content></subsection><sourceNote>(<ref href="/hk/1991/ln279">L.N. 279 of 1991</ref>) </sourceNote></section><section id="ID_1438402665366_001" name="s25" reason="inEffect" startPeriod="2022-07-21" status="operational" temporalId="s25"><num value="25">25.</num><heading>Owner responsible for collection of certain parts of slaughtered food animal</heading><subsection id="ID_1438411176925_041" name="1" temporalId="s25_1"><num value="1">(1)</num><paragraph id="ID_1438411176925_045" name="a" temporalId="s25_1_a"><num value="a">(a)</num><content>The owner of a food animal which has been slaughtered in an abattoir shall be responsible for the collection from the abattoir of every part of the food animal specified in columns 1 and 2 of <ref>Schedule 4</ref>. </content></paragraph><paragraph id="ID_1438411176925_051" name="b" temporalId="s25_1_b"><num value="b">(b)</num><content>The owner of a food animal which has been slaughtered in an abattoir shall not be entitled to any part of the food animal specified in column 2 of <ref>Schedule 4</ref> if the same part from another food animal of the same type is made available in its place for collection by the owner of the first-mentioned food animal. </content></paragraph></subsection><subsection id="ID_1438411176940_005" name="2" temporalId="s25_2"><num value="2">(2)</num><content>Every part referred to in subsection (1) shall be available for collection from the abattoir by the owner, or by any person who has been approved by the manager as the agent of the owner, during working hours on the day on which the food animal has been slaughtered unless an alternative arrangement has been made between the owner and the manager as to the time of collection thereof. </content></subsection><subsection id="ID_1438411176940_013" name="3" temporalId="s25_3"><num value="3">(3)</num><content>If within the time specified in or arranged with the manager under subsection (2) the owner or his agent does not collect any part referred to in subsection (1), the manager may cause that part to be disposed of as he thinks fit. </content></subsection><sourceNote>(<ref href="/hk/1991/ln279">L.N. 279 of 1991</ref>; <ref href="/hk/1999/78">78 of 1999 s. 7</ref>)</sourceNote></section><section id="ID_1438402665366_003" name="s26" reason="inEffect" startPeriod="2022-07-21" status="operational" temporalId="s26"><num value="26">26.</num><heading>Power of Director to dispose of certain parts of slaughtered food animals</heading><leadIn>The Director may, in such manner as he thinks fit, dispose of—</leadIn><paragraph id="ID_1438411176987_012" name="a" temporalId="s26_a"><num value="a">(a)</num><content>any blood, loose hairs and bristles, stomach contents and other waste matter; and</content></paragraph><paragraph id="ID_1438411176987_020" name="b" temporalId="s26_b"><num value="b">(b)</num><content>any ductless gland specified in <ref>Schedule 5</ref>,</content></paragraph><continued>obtained from a food animal slaughtered in an abattoir.</continued><sourceNote>(<ref href="/hk/1991/ln279">L.N. 279 of 1991</ref>; <ref href="/hk/1999/78">78 of 1999 s. 7</ref>)</sourceNote></section><section id="ID_1438402665381_002" name="s26A" reason="inEffect" startPeriod="2022-07-21" status="operational" temporalId="s26A"><num value="26A">26A.</num><heading>Method of killing</heading><subsection id="ID_1438411177003_011" name="1" temporalId="s26A_1"><num value="1">(1)</num><content><leadIn>Subject to subsection (3), every food animal killed in an abattoir shall be slaughtered by means of a firearm or mechanically operated instrument in proper repair:<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1991/ln279">L.N. 279 of 1991</ref>; <ref href="/hk/1999/78">78 of 1999 s. 7</ref>)</sourceNote></leadIn><proviso name="proviso" temporalId="s26A_1_proviso">Provided that any pig may be rendered unconscious with an electric stunner and then killed with a knife. </proviso></content></subsection><subsection id="ID_1438411177003_025" name="2" temporalId="s26A_2"><num value="2">(2)</num><leadIn>All firearms and instruments of slaughter used in an abattoir shall be—</leadIn><paragraph id="ID_1438411177003_033" name="a" temporalId="s26A_2_a"><num value="a">(a)</num><content>of a type approved by the Director; </content></paragraph><paragraph id="ID_1438411177003_041" name="b" temporalId="s26A_2_b"><num value="b">(b)</num><content>kept in the custody of the manager; and </content></paragraph><paragraph id="ID_1438411177003_049" name="c" temporalId="s26A_2_c"><num value="c">(c)</num><content>used only by an officer authorized by the Director. </content></paragraph></subsection><subsection id="ID_1438411177003_056" name="3" temporalId="s26A_3"><num value="3">(3)</num><content>The Director may authorize the slaughter of any food
+                                                animal in an abattoir by any method which accords
+                                                with religious belief.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1991/ln279">L.N. 279 of 1991</ref>) <marker role="section-break"></marker></sourceNote>
+                                    </content></subsection><sourceNote>(<ref href="/hk/1975/ln33">L.N. 33 of
+            1975</ref>)</sourceNote></section></part><part id="ID_1438402665412_001" name="P4" reason="inEffect" startPeriod="2022-07-21" status="operational" temporalId="P4"><num value="4">Part
+            IV</num><heading>Marking
+            and Transport
+            of
+            Slaughtered
+            Food
+            Animals</heading><sourceNote>(<ref href="/hk/1991/ln279">L.N. 279 of 1991</ref>)</sourceNote><section id="ID_1438402665412_003" name="s27" reason="inEffect" startPeriod="2022-07-21" status="operational" temporalId="s27"><num value="27">27.</num><heading>Health inspector or authorized person to examine carcasses, dressed carcasses and offals</heading><subsection id="ID_1438411177034_046" name="1" temporalId="s27_1"><num value="1">(1)</num><content>A health inspector or a person authorized by the manager shall examine the carcass, or dressed carcass and offal of every food animal which is slaughtered in an abattoir or which is brought into an abattoir in compliance with <ref>section 8A(2)</ref> and shall detain the carcass or the whole or part of the dressed carcass or offal if in his opinion it is unfit for human consumption. </content></subsection><subsection id="ID_1438411177049_005" name="2" temporalId="s27_2"><num value="2">(2)</num><content>A health inspector or a person authorized by the manager may cause the carcass or the whole or part of the dressed carcass or offal detained under subsection (1) to be destroyed in such manner as he thinks fit.</content></subsection><sourceNote>(<ref href="/hk/1991/ln279">L.N. 279 of 1991</ref>; <ref href="/hk/1999/78">78 of 1999
+                s.
+            7</ref>)</sourceNote></section><section id="ID_1438402665428_002" name="s28" reason="inEffect" startPeriod="2022-07-21" status="operational" temporalId="s28"><num value="28">28.</num><heading>Marking of dressed carcasses fit for human consumption</heading><content>If, after examining the dressed carcass of a food animal slaughtered in an abattoir, a health inspector or person authorized under <ref>section 27</ref> is satisfied that it is fit for human consumption, he shall cause it to be marked with the appropriate mark specified in <ref>Schedule 6</ref>. </content><sourceNote>(<ref href="/hk/1972/ln210">L.N. 210 of 1972</ref>; <ref href="/hk/1991/ln279">L.N. 279
+                of 1991</ref>; <ref href="/hk/1999/78">78 of 1999 s. 7</ref>) </sourceNote></section><section id="ID_1438402665444_001" name="s29" reason="inEffect" startPeriod="2022-07-21" status="operational" temporalId="s29"><num value="29">29.</num><heading>Marking of specified parts of offal fit for human consumption</heading><content>If, after examining the offal from a food animal slaughtered in an abattoir, a health inspector or person authorized under <ref>section 27</ref> is satisfied that any part of the offal specified in <ref>Schedule 6</ref> is fit for human consumption, he shall cause that part to be marked with the appropriate mark specified in <ref>Schedule 6</ref>. </content><sourceNote>(<ref href="/hk/1991/ln279">L.N. 279 of 1991</ref>; <ref href="/hk/1999/78">78 of 1999
+                s.
+            7</ref>)</sourceNote></section><section id="ID_1438402665444_003" name="s30" reason="inEffect" startPeriod="2022-07-21" status="operational" temporalId="s30"><num value="30">30.</num><heading>Unexamined or unmarked carcasses, dressed carcasses or offals not to be removed without consent of manager</heading><subsection id="ID_1438411177096_011" name="1" temporalId="s30_1"><num value="1">(1)</num><leadIn>No person shall—</leadIn><paragraph id="ID_1438411177096_019" name="a" temporalId="s30_1_a"><num value="a">(a)</num><content>remove any carcass, dressed carcass or offal from an abattoir without the consent of the manager; or<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1972/ln210">L.N. 210 of 1972</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411177096_027" name="b" temporalId="s30_1_b"><num value="b">(b)</num><content>except with the consent of the manager given under subsection (2) and in accordance with the conditions, if any, on which the consent is given, remove any carcass, dressed carcass or offal from the abattoir before such carcass, dressed carcass or offal has been examined under <ref>section 27</ref>, or when marking of a dressed carcass or offal is required under <ref>section 28</ref> or <ref>29</ref>, before such dressed carcass or offal has been so marked.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1972/ln210">L.N. 210 of 1972</ref>)</sourceNote> </content></paragraph></subsection><subsection id="ID_1438411177112_005" name="2" temporalId="s30_2"><num value="2">(2)</num><content>The manager may give his consent on such conditions as he thinks fit to the removal of any carcass or offal from the abattoir before it has been examined under <ref>section 27</ref> or, where it is required under <ref>section 28</ref> or <ref>29</ref> to be marked, before it has been so marked. </content></subsection><subsection id="ID_1438411177112_013" name="3" temporalId="s30_3"><num value="3">(3)</num><content>A consent given under subsection (2) shall be in writing and shall specify the reason for which it is given. </content></subsection><subsection id="ID_1438411177112_021" name="4" temporalId="s30_4"><num value="4">(4)</num><content>Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine at level 5 and to imprisonment for 6 months.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1987/ln284">L.N. 284 of 1987</ref>; <ref href="/hk/1996/ln177">L.N. 177 of 1996</ref>; <ref href="/hk/1996/ln275">L.N. 275 of 1996</ref>)</sourceNote> </content></subsection><sourceNote>(<ref href="/hk/1999/78">78 of 1999 s. 7</ref>)</sourceNote></section><section id="ID_1438402665459_002" name="s31" reason="repealed" startPeriod="2000-01-01" status="repealed" temporalId="s31"><num value="31">31.</num><sourceNote>(Repealed <ref href="/hk/1991/ln279">L.N. 279 of 1991</ref>)</sourceNote></section><section id="ID_1438402665475_001" name="s32" reason="repealed" startPeriod="2000-01-01" status="repealed" temporalId="s32"><num value="32">32.</num><sourceNote>(Repealed <ref href="/hk/1988/ln93">L.N. 93 of 1988</ref>)</sourceNote></section><section id="ID_1438402665490_002" name="s33" reason="inEffect" startPeriod="2022-07-21" status="operational" temporalId="s33"><num value="33">33.</num><heading>Collection by private transport</heading><subsection id="ID_1438411177159_004" name="1" temporalId="s33_1"><num value="1">(1)</num><content>The manager of an abattoir may, subject to such conditions as he sees fit, authorize the collection from the abattoir by private transport of the dressed carcass of and the offal from a food animal which has been slaughtered in the abattoir.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1991/ln279">L.N. 279 of 1991</ref>)</sourceNote> </content></subsection><subsection id="ID_1438411177159_012" name="2" temporalId="s33_2"><num value="2">(2)</num><leadIn>The manager shall not authorize a collection by private transport under subsection (1)—</leadIn><paragraph id="ID_1438411177159_020" name="a" temporalId="s33_2_a"><num value="a">(a)</num><content>at any hour that will cause hindrance to the operation of the abattoir; or </content></paragraph><paragraph id="ID_1438411177159_028" name="b" temporalId="s33_2_b"><num value="b">(b)</num><content>if in his opinion the vehicle by which the dressed carcass or offal is to be removed is not of suitable construction and in a clean and satisfactory condition. </content></paragraph></subsection><subsection id="ID_1438411177174_005" name="3" temporalId="s33_3"><num value="3">(3)</num><leadIn>Any person who—</leadIn><paragraph id="ID_1438411177174_013" name="a" temporalId="s33_3_a"><num value="a">(a)</num><content>removes a dressed carcass or offal by private transport from an abattoir without the authority of the manager under subsection (1); or</content></paragraph><paragraph id="ID_1438411177174_021" name="b" temporalId="s33_3_b"><num value="b">(b)</num><content>having obtained such authority fails to comply with the conditions, if any, to which the authorization is subject, </content></paragraph><continued>shall be guilty of an offence and shall be liable on conviction to a fine at level 4 and
+                to imprisonment for 6 months.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1987/ln284">L.N. 284 of 1987</ref>; <ref href="/hk/1991/ln279">L.N.
+                        279 of 1991</ref>; <ref href="/hk/1996/ln177">L.N. 177 of
+                    1996</ref>)</sourceNote>
+            </continued></subsection><sourceNote>(<ref href="/hk/1972/ln210">L.N. 210 of 1972</ref>; <ref href="/hk/1999/78">78 of 1999 s. 7</ref>)</sourceNote></section><section id="ID_1438402665506_001" name="s33A" reason="inEffect" startPeriod="2022-07-21" status="operational" temporalId="s33A"><num value="33A">33A.</num><heading>Power to dispose of dressed carcass if not collected</heading><subsection id="ID_1438411177190_056" name="1" temporalId="s33A_1"><num value="1">(1)</num><content>In the event of the manager of an abattoir having required or authorized the collection by private transport of the dressed carcass of and the offal from a food animal under <ref>section 33(1)</ref>, such dressed carcass and offal shall be available for collection from the abattoir by the owner, or by any person who has been approved by the manager as the agent of the owner, during working hours on the day on which such food animal has been slaughtered, unless an alternative arrangement has been made between the owner and the manager as to the time of collection thereof.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1991/ln279">L.N. 279 of 1991</ref>)</sourceNote></content></subsection><subsection id="ID_1438411177205_005" name="2" temporalId="s33A_2"><num value="2">(2)</num><content>If the owner or his agent fails to collect such dressed carcass and offal from the abattoir within the time specified by or arranged with the manager in accordance with subsection (1) the manager may cause such dressed carcass and offal to be disposed of as he thinks fit.</content></subsection><sourceNote>(<ref href="/hk/1972/ln210">L.N. 210 of 1972</ref>; <ref href="/hk/1999/78">78 of 1999 s. 7</ref>)</sourceNote></section></part><part id="ID_1438402665506_003" name="P5" reason="inEffect" startPeriod="2022-07-21" status="operational" temporalId="P5"><num value="5">Part
+            V</num><heading>Maintenance
+            of
+            Order</heading><section id="ID_1438402665522_002" name="s34" reason="inEffect" startPeriod="2022-07-21" status="operational" temporalId="s34"><num value="34">34.</num><heading>Persons not to enter abattoir without authority</heading><subsection id="ID_1438411177237_004" name="1" temporalId="s34_1"><num value="1">(1)</num><content>No person shall enter, remain in or take a motor vehicle into an abattoir without a valid entry permit for himself, and for the vehicle (if any), issued by the manager.</content></subsection><subsection id="ID_1438411177237_012" name="2" temporalId="s34_2"><num value="2">(2)</num><content>The person to whom an entry permit has been issued shall, while he enters, remains in or takes a motor vehicle into an abattoir, affix in a prominent position to his outer clothing and the windscreen of the motor vehicle (if any) the appropriate entry permit such that the details shown on the entry permit are clearly visible.</content></subsection><subsection id="ID_1438411177252_005" name="3" temporalId="s34_3"><num value="3">(3)</num><content>An entry permit issued by the manager shall be subject to such conditions as he thinks fit.</content></subsection><subsection id="ID_1438411177252_013" name="4" temporalId="s34_4"><num value="4">(4)</num><content>A person who contravenes subsection (1) or (2) commits an offence.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1999/78">78 of 1999 s. 7</ref>)</sourceNote></content></subsection><subsection id="ID_1438411177252_021" name="5" temporalId="s34_5"><num value="5">(5)</num><content>The manager may order a person without an entry permit for himself to leave the abattoir and remove or cause to be removed from the abattoir the motor vehicle (if any) the person takes in.</content></subsection><subsection id="ID_1438411177252_029" name="6" temporalId="s34_6"><num value="6">(6)</num><content>The manager may order a person with an entry permit for himself to remove or cause to be removed from the abattoir any vehicle which the person takes in if it is without an entry permit.</content></subsection><subsection id="ID_1438411177252_037" name="7" temporalId="s34_7"><num value="7">(7)</num><content>If a person fails to comply with an order under subsection (5) or (6), the manager may remove or cause to be removed from the abattoir the person or the motor vehicle.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1999/78">78 of 1999 s. 7</ref>)</sourceNote></content></subsection><sourceNote>(<ref href="/hk/1991/ln279">L.N. 279 of 1991</ref>)</sourceNote></section><section id="ID_1438402665537_002" name="s35" reason="inEffect" startPeriod="2022-07-21" status="operational" temporalId="s35"><num value="35">35.</num><heading>Manager may declare restricted areas</heading><subsection id="ID_1438411177283_004" name="1" temporalId="s35_1"><num value="1">(1)</num><content>The manager may declare any part of an abattoir to be a restricted area and shall indicate such area by means of signs. </content></subsection><subsection id="ID_1438411177283_012" name="2" temporalId="s35_2"><num value="2">(2)</num><content>No person shall enter or remain in a restricted area without a pass issued by the manager in the form in <ref>Schedule 7</ref>. </content></subsection><subsection id="ID_1438411177283_020" name="3" temporalId="s35_3"><num value="3">(3)</num><content>The manager may at any time cancel or suspend a pass issued under subsection (2).<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1998/ln307">L.N. 307 of 1998</ref>; <ref href="/hk/1999/78">78 of 1999 s. 7</ref>)</sourceNote></content></subsection><subsection id="ID_1438411177283_028" name="4" temporalId="s35_4"><num value="4">(4)</num><content>Any person who contravenes subsection (2) shall be guilty of an offence.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1999/78">78 of 1999 s. 7</ref>)</sourceNote></content></subsection><sourceNote>(<ref href="/hk/1975/ln33">L.N. 33 of 1975</ref>)</sourceNote></section><section id="ID_1438402665553_002" name="s36" reason="inEffect" startPeriod="2022-07-21" status="operational" temporalId="s36"><num value="36">36.</num><heading>Power of authorized officer to order persons in abattoir without good cause to leave</heading><subsection id="ID_1438411177299_042" name="1" temporalId="s36_1"><num value="1">(1)</num><content>If it appears to an authorized officer that a person does not have good cause for being in an abattoir, he may order such person to leave the abattoir forthwith.</content></subsection><subsection id="ID_1438411177299_050" name="2" temporalId="s36_2"><num value="2">(2)</num><content>Any person who fails to comply with an order under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine at level 4 and to imprisonment for 6 months.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1987/ln284">L.N. 284 of 1987</ref>; <ref href="/hk/1991/ln279">L.N. 279 of 1991</ref>; <ref href="/hk/1996/ln177">L.N. 177 of 1996</ref>; <ref href="/hk/1999/78">78 of 1999 s. 7</ref>)</sourceNote></content></subsection></section><section id="ID_1438402665568_001" name="s37" reason="inEffect" startPeriod="2022-07-21" status="operational" temporalId="s37"><num value="37">37.</num><heading>Powers to control traffic in abattoir</heading><subsection id="ID_1438411177315_019" name="1" temporalId="s37_1"><num value="1">(1)</num><content>The manager of an abattoir may cause to be erected in the abattoir such signs and notices as are in his opinion necessary for the proper control of traffic in the abattoir.</content></subsection><subsection id="ID_1438411177330_005" name="2" temporalId="s37_2"><num value="2">(2)</num><content>An authorized officer may give to any person appearing to him to be in charge of a vehicle in an abattoir such directions as are in his opinion necessary for the proper control of the movement or parking of the vehicle in the abattoir.</content></subsection><subsection id="ID_1438411177330_013" name="3" temporalId="s37_3"><num value="3">(3)</num><leadIn>Any person who, being the driver or person having the charge of a vehicle in an abattoir, fails to comply with—</leadIn><paragraph id="ID_1438411177330_021" name="a" temporalId="s37_3_a"><num value="a">(a)</num><content>a sign or notice erected under subsection (1); or</content></paragraph><paragraph id="ID_1438411177330_029" name="b" temporalId="s37_3_b"><num value="b">(b)</num><content>a direction given to him under subsection (2),</content></paragraph><continued>shall be guilty of an offence.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1999/78">78 of 1999 s. 7</ref>)</sourceNote></continued></subsection></section><section id="ID_1438402665568_003" name="s38" reason="inEffect" startPeriod="2022-07-21" status="operational" temporalId="s38"><num value="38">38.</num><heading>Power of manager to prohibit smoking, naked lights and flames</heading><subsection id="ID_1438411177346_042" name="1" temporalId="s38_1"><num value="1">(1)</num><content>The manager of an abattoir may by order in writing prohibit smoking or the use of any naked flame or light in any part of the abattoir. </content></subsection><subsection id="ID_1438411177346_050" name="2" temporalId="s38_2"><num value="2">(2)</num><content>A copy of an order under subsection (1) shall be posted in a conspicuous place outside the part of the abattoir to which it relates. </content></subsection><subsection id="ID_1438411177346_058" name="3" temporalId="s38_3"><num value="3">(3)</num><content>Any person who smokes or uses a naked flame or light in contravention of an order under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine at level 4 and to imprisonment for 6 months.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1987/ln284">L.N. 284 of 1987</ref>; <ref href="/hk/1996/ln177">L.N. 177 of 1996</ref>)</sourceNote></content></subsection><sourceNote>(<ref href="/hk/1999/78">78 of 1999 s. 7</ref>)</sourceNote></section><section id="ID_1438402665584_002" name="s39" reason="inEffect" startPeriod="2022-07-21" status="operational" temporalId="s39"><num value="39">39.</num><heading>Goods and personal effects not to be kept in unapproved places</heading><subsection id="ID_1438411177377_004" name="1" temporalId="s39_1"><num value="1">(1)</num><content>No person shall keep goods or personal effects in an abattoir except in a place approved for the purpose by the manager.</content></subsection><subsection id="ID_1438411177377_012" name="2" temporalId="s39_2"><num value="2">(2)</num><content>Any person who contravenes subsection (1) shall be guilty of an offence. </content></subsection><subsection id="ID_1438411177377_020" name="3" temporalId="s39_3"><num value="3">(3)</num><content>The manager may direct any person appearing to him to be the owner of any goods or personal effects kept in the abattoir in contravention of subsection (1) to remove them forthwith from the abattoir or to an approved place therein. </content></subsection><subsection id="ID_1438411177377_028" name="4" temporalId="s39_4"><num value="4">(4)</num><leadIn>If—</leadIn><paragraph id="ID_1438411177377_036" name="a" temporalId="s39_4_a"><num value="a">(a)</num><content>any person fails to comply within 48 hours with a direction under subsection (3); or</content></paragraph><paragraph id="ID_1438411177377_044" name="b" temporalId="s39_4_b"><num value="b">(b)</num><content>the manager is satisfied that the owner of any goods or personal effects stored in contravention of subsection (1) cannot be ascertained or found,</content></paragraph><continued>the manager may cause the goods or personal effects to be disposed of in such manner as he thinks fit.</continued></subsection><sourceNote>(<ref href="/hk/1999/78">78 of 1999 s. 7</ref>)</sourceNote></section><section id="ID_1438402665600_001" name="s40" reason="inEffect" startPeriod="2022-07-21" status="operational" temporalId="s40"><num value="40">40.</num><heading>Power of authorized officer to give directions as to use of water, steam, electricity and ventilating equipment</heading><subsection id="ID_1438411177408_004" name="1" temporalId="s40_1"><num value="1">(1)</num><leadIn>An authorized officer may—</leadIn><paragraph id="ID_1438411177408_012" name="a" temporalId="s40_1_a"><num value="a">(a)</num><content>prohibit; or </content></paragraph><paragraph id="ID_1438411177408_020" name="b" temporalId="s40_1_b"><num value="b">(b)</num><content>give directions to any person in an abattoir in respect of, </content></paragraph><continued>the use of any supply of water, steam or electricity, or any water, steam, electrical or ventilating equipment in an abattoir. </continued></subsection><subsection id="ID_1438411177408_033" name="2" temporalId="s40_2"><num value="2">(2)</num><leadIn>Any person who uses or interferes with—</leadIn><paragraph id="ID_1438411177408_041" name="a" temporalId="s40_2_a"><num value="a">(a)</num><content>any supply of water, steam or electricity; or </content></paragraph><paragraph id="ID_1438411177408_049" name="b" temporalId="s40_2_b"><num value="b">(b)</num><content>any water, steam, electrical or ventilating equipment, </content></paragraph><continued>in contravention of a prohibition or direction under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine at level 4 and to imprisonment for 6 months.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1987/ln284">L.N. 284 of 1987</ref>; <ref href="/hk/1991/ln279">L.N. 279 of 1991</ref>; <ref href="/hk/1996/ln177">L.N. 177 of 1996</ref>; <ref href="/hk/1999/78">78 of 1999 s. 7</ref>)</sourceNote></continued></subsection></section><section id="ID_1438402665615_001" name="s41" reason="inEffect" startPeriod="2022-07-21" status="operational" temporalId="s41"><num value="41">41.</num><heading>Offences</heading><leadIn>Any person who—</leadIn><paragraph id="ID_1438411177424_048" name="a" temporalId="s41_a"><num value="a">(a)</num><content>obstructs any other person making lawful use of an abattoir or of any facilities or services provided therein; or </content></paragraph><paragraph id="ID_1438411177424_056" name="b" temporalId="s41_b"><num value="b">(b)</num><content>without lawful authority interferes with any equipment provided in an abattoir, </content></paragraph><continued>shall be guilty of an offence and shall be liable on conviction to a fine at level 4 and to imprisonment for 6 months. </continued><sourceNote>(<ref href="/hk/1987/ln284">L.N. 284 of 1987</ref>; <ref href="/hk/1991/ln279">L.N. 279
+                of 1991</ref>; <ref href="/hk/1996/ln177">L.N. 177 of 1996</ref>) </sourceNote></section><section id="ID_1438402665615_003" name="s42" reason="inEffect" startPeriod="2022-07-21" status="operational" temporalId="s42"><num value="42">42.</num><heading>Further offences</heading><leadIn>Any person who—</leadIn><paragraph id="ID_1438411177439_048" name="a" temporalId="s42_a"><num value="a">(a)</num><content>spits, urinates or deposits any refuse in an abattoir, otherwise than in a place provided for the purpose; </content></paragraph><paragraph id="ID_1438411177439_056" name="b" temporalId="s42_b"><num value="b">(b)</num><content>puts up or affixes any notice or poster in an abattoir, except with the consent of the manager and in a place provided for the purpose; </content></paragraph><paragraph id="ID_1438411177455_006" name="c" temporalId="s42_c"><num value="c">(c)</num><content>without the consent of the manager, brings into or keeps in an abattoir any intoxicating liquor or drug;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1991/ln279">L.N. 279 of 1991</ref>)</sourceNote> </content></paragraph><paragraph id="ID_1438411177455_014" name="ca" temporalId="s42_ca"><num value="ca">(ca)</num><content>takes part in any process of the trimming, cutting, tying, washing or handling of an offal in an abattoir otherwise than in a place provided for the purpose; or<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1991/ln279">L.N. 279 of 1991</ref>)</sourceNote> </content></paragraph><paragraph id="ID_1438411177455_022" name="d" temporalId="s42_d"><num value="d">(d)</num><content>behaves in a disorderly manner in an
+                    abattoir,<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1975/ln33">L.N. 33 of
+                        1975</ref>)</sourceNote>
+            </content></paragraph><continued>shall be guilty of an offence.
+            </continued></section></part><part id="ID_1438402665631_002" name="P6" reason="inEffect" startPeriod="2022-07-21" status="operational" temporalId="P6"><num value="6">Part
+            VI</num><heading>Miscellaneous</heading><section id="ID_1438402665646_001" name="s43" reason="inEffect" startPeriod="2022-07-21" status="operational" temporalId="s43"><num value="43">43.</num><heading>Offence to give false information</heading><content>Any person who, in any form required by, under or for the purposes of this Regulation, makes any statement or furnishes any information which he knows or reasonably ought to know to be false in a material particular shall be guilty of an offence and shall be liable on conviction to a fine at level 4 and to imprisonment for 6 months. </content><sourceNote>(<ref href="/hk/1987/ln284">L.N. 284 of 1987</ref>; <ref href="/hk/1996/ln177">L.N. 177
+                of 1996</ref>; <ref href="/hk/1999/78">78 of 1999 s.
+            7</ref>)</sourceNote></section><section id="ID_1438402665646_003" name="s44" reason="inEffect" startPeriod="2022-07-21" status="operational" temporalId="s44"><num value="44">44.</num><heading>Offence to use or imitate marks in <ref>Schedule 6</ref></heading><subsection id="ID_1438411177486_032" name="1" temporalId="s44_1"><num value="1">(1)</num><content>Except as provided in <ref>sections 28</ref> and <ref>29</ref>, no person shall mark the carcass or the offal of a food animal, whether or not it has been slaughtered in an abattoir, with a mark specified in <ref>Schedule 6</ref> or with a mark so closely resembling a mark specified in <ref>Schedule 6</ref> as to be likely to mislead.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1991/ln279">L.N. 279 of 1991</ref>)</sourceNote> </content></subsection><subsection id="ID_1438411177502_005" name="2" temporalId="s44_2"><num value="2">(2)</num><content>Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine at level 5 and to imprisonment for 6 months.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1987/ln284">L.N. 284 of 1987</ref>; <ref href="/hk/1996/ln177">L.N. 177 of 1996</ref>; <ref href="/hk/1996/ln275">L.N. 275 of 1996</ref>)</sourceNote></content></subsection><sourceNote>(<ref href="/hk/1999/78">78 of 1999 s. 7</ref>)</sourceNote></section><section id="ID_1438402665678_001" name="s45" reason="inEffect" startPeriod="2022-07-21" status="operational" temporalId="s45"><num value="45">45.</num><heading>General penalty</heading><content>Every person who commits an offence under this Regulation for which no other penalty is provided shall be liable on conviction to a fine at level 4 and to imprisonment for 6 months.</content><sourceNote>(<ref href="/hk/1987/ln284">L.N. 284 of 1987</ref>; <ref href="/hk/1991/ln279">L.N. 279 of 1991</ref>; <ref href="/hk/1996/ln177">L.N. 177 of 1996</ref>; <ref href="/hk/1999/78">78 of 1999 s. 7</ref>)</sourceNote></section><section id="ID_1438402665678_003" name="s46" reason="inEffect" startPeriod="2022-07-21" status="operational" temporalId="s46"><num value="46">46.</num><heading>Saving</heading><content>Nothing in this Regulation shall be deemed to derogate from or in any way affect the provisions of the Public Health (Animals and Birds) Ordinance (<ref href="/hk/cap139">Cap. 139</ref>).</content><sourceNote>(<ref href="/hk/1999/78">78 of 1999 s. 7</ref>)</sourceNote></section><section id="ID_1438402665693_002" name="s47" reason="inEffect" startPeriod="2022-07-21" status="operational" temporalId="s47"><num value="47">47.</num><heading>Name in which proceedings for offences may be brought</heading><content>Without prejudice to the provisions of any other enactment relating to the prosecution of criminal offences and without prejudice to the powers of the Secretary for Justice in relation to those offences, a prosecution for an offence under this Regulation may be brought in the name of the Director. </content><sourceNote>(<ref href="/hk/1991/ln279">L.N. 279 of 1991</ref>; <ref href="/hk/1997/ln362">L.N. 362 of 1997</ref>; <ref href="/hk/1999/78">78 of 1999 s. 7</ref>)</sourceNote></section></part><schedule id="ID_1438402665709_001" name="sch1" reason="inEffect" startPeriod="2022-07-21" status="operational" temporalId="sch1"><num value="1">Schedule
+            1</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap132A/s2">s. 2</ref>]<sourceNote>(<ref href="/hk/1999/78">78 of 1999 s.
+            7</ref>)</sourceNote></note><heading>Specified
+            Abattoirs</heading><text>
+            
+            <table xmlns="http://www.w3.org/1999/xhtml" width="445">
+                
+                <col width="10%"></col>
+                
+                <col width="45%"></col>
+                
+                <col width="45%"></col>
+                <tr>
+                    <td>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td>
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Name of
+                            abattoir</center>
+                        
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        
+                    </td>
+                    <td>
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Address </center>
+                        
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td>1.</td>
+                    <td><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="/hk/1990/ln329">L.N. 329 of 1990</ref>) </sourceNote></td>
+                    <td>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                </tr>
+                <tr>
+                    <td>2.</td>
+                    <td>Cheung
+                        Sha Wan
+                        Abattoir</td>
+                    <td>737
+                        Lai Chi Kok Road, Kowloon
+                        <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="/hk/1969/ln108">L.N. 108 of 1969</ref>; <ref href="/hk/1991/ln279">L.N. 279 of
+                            1991</ref>; <ref href="/hk/2022/er3">E.R. 3 of
+                            2022</ref>)</sourceNote></td>
+                </tr>
+            </table>
+            
+        </text></schedule><schedule id="ID_1438402665709_003" name="sch2" reason="repealed" startPeriod="2000-01-01" status="repealed" temporalId="sch2"><num value="2">Schedule 2</num><sourceNote>(Repealed <ref href="/hk/1995/ln179">L.N. 179 of 1995</ref>)</sourceNote></schedule><schedule id="ID_1438402665724_002" name="sch3" reason="inEffect" startPeriod="2022-07-21" status="operational" temporalId="sch3"><num value="3">Schedule
+                3</num><crossHeading><inline class="not_bold">Form 1</inline></crossHeading><note class="align_right">[<ref href="/hk/cap132A/s11">s.
+                11(1)</ref>]</note><text>
+            
+            
+            
+            
+            <text class="align_center"><inline class="small_caps">Abattoirs
+                    Regulation</inline><marker role="blank-line"></marker><marker role="blank-line"></marker>STATEMENT
+                AS TO ADMISSION OF FOOD ANIMALS TO ABATTOIR
+                <marker role="blank-line"></marker><marker role="blank-line"></marker></text>
+            <text class="first_line_indent_0">The Manager, <fillIn class=" width_97">.</fillIn>
+                Abattoir: <marker role="blank-line"></marker><marker role="blank-line"></marker></text>
+            <leadIn class="left_indent_0 first_line_indent_24">Pursuant to <ref>section 11(1)</ref>,
+                I hereby supply the following information concerning (a)* food animal(s)* admitted
+                to the abattoir within the previous 24 hours:
+                </leadIn><marker role="blank-line"></marker><marker role="blank-line"></marker><table xmlns="http://www.w3.org/1999/xhtml" frame="void" width="445">
+                <col width="8%"></col>
+                <col width="35%"></col>
+                <col width="35%"></col>
+                <col width="22%"></col>
+                <tbody>
+                    <tr>
+                        <td>1.</td>
+                        
+                        <td class="align_center border_top_0.5 border_right_0.5 border_bottom_0.5">Type of food animal</td>
+                        
+                        <td class="align_center border_top_0.5 border_right_0.5 border_bottom_0.5">Country of origin</td>
+                        
+                        <td class="align_center border_top_0.5 border_bottom_0.5">Number </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td class="border_right_0.5 border_bottom_0.5">
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                        <td class="border_right_0.5 border_bottom_0.5">
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                        <td class="border_bottom_0.5">
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                    </tr>
+                </tbody>
+            </table><table xmlns="http://www.w3.org/1999/xhtml" frame="void" width="445">
+                <col width="8%"></col>
+                <col width="25%"></col>
+                <col width="3%"></col>
+                <col width="64%"></col>
+                <tbody>
+                    <tr>
+                        <td>2.</td>
+                        <td colspan="3">Date and time of admission: <fillIn xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_100">.</fillIn> 19 <fillIn xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class=" width_44">.</fillIn>, at <fillIn xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class=" width_43">.</fillIn> a.m./p.m.* </td>
+                    </tr>
+                    <tr>
+                        <td>3.</td>
+                        <td colspan="2">Full name of owner: </td>
+                        <td class="leaders_."></td>
+                    </tr>
+                    <tr>
+                        <td>4.</td>
+                        <td colspan="1">Address of owner: </td>
+                        <td colspan="2" class="leaders_."></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td colspan="1"></td>
+                        <td colspan="2" class="leaders_."></td>
+                    </tr>
+                </tbody>
+            </table>
+            <marker role="blank-line"></marker><marker role="blank-line"></marker><table xmlns="http://www.w3.org/1999/xhtml" frame="void" width="445">
+                <col width="38%"></col>
+                <col width="25%"></col>
+                <col width="37%"></col>
+                <tbody>
+                    <tr>
+                        <td class="leaders_."> Date: </td>
+                        <td></td>
+                        <td class="leaders_.">Signature: </td>
+                    </tr>
+                </tbody>
+            </table><marker role="blank-line"></marker><marker role="blank-line"></marker><table xmlns="http://www.w3.org/1999/xhtml" frame="void" width="445">
+                <col width="25%"></col>
+                <col width="15%"></col>
+                <col width="60%"></col>
+                <tbody>
+                    <tr>
+                        <td></td>
+                        <td colspan="2">Capacity in <inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_30"> </inline>Owner/Person in charge of </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td colspan="2">which signing: food animal(s)* at time of admission* </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td colspan="2">
+                            <br></br>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>Address: </td>
+                        <td class="leaders_."></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td class="leaders_."></td>
+                    </tr>
+                </tbody>
+            </table><marker role="blank-line"></marker><marker role="blank-line"></marker><text class="first_line_indent_0">* Note: Delete whichever is
+                    inapplicable.</text><sourceNote>(<ref href="/hk/1986/10">10 of 1986 s.
+                    32</ref>; <ref href="/hk/1991/ln279">L.N. 279 of 1991</ref>; <ref href="/hk/1996/ln164">L.N. 164 of 1996</ref>; <ref href="/hk/1999/78">78 of 1999 s.
+                7</ref>)</sourceNote>
+            
+        </text><crossHeading><inline class="not_bold">Form
+            2</inline></crossHeading><note class="align_right">[<ref role="crossReferences" href="/hk/cap132A/s17">s.
+            17(1)</ref>]</note><text><text class="align_center"><inline class="small_caps">Abattoirs
+                    Regulation</inline><marker role="blank-line"></marker><marker role="blank-line"></marker></text><text class="align_center">APPLICATION FOR REGISTRATION AS OWNER OF<br></br>FOOD ANIMALS TO BE
+                SLAUGHTERED IN
+                ABATTOIR<marker role="blank-line"></marker><marker role="blank-line"></marker></text><text class="first_line_indent_0">The Manager, <fillIn class=" width_97">.</fillIn>
+                Abattoir: <marker role="blank-line"></marker><marker role="blank-line"></marker></text><text class="left_indent_0 first_line_indent_24">Being the owner of (a)* food animal(s)*
+                to be delivered to a waiting lairage in the abattoir for slaughter, I/the undernamed
+                applicant* hereby apply/applies* for registration in Part I of the owners register
+                under <ref>section 18(3)</ref>, and supply/supplies* the following information which
+                is true in every respect: </text><table xmlns="http://www.w3.org/1999/xhtml" frame="void" width="445">
+                <col width="8%"></col>
+                <col width="7%"></col>
+                <col width="85%"></col>
+                <tbody>
+                    <tr>
+                        <td>(1)</td>
+                        <td>(a)</td>
+                        <td class="leaders_.">Full name of applicant in English: </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td class="leaders_."></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>(b)</td>
+                        <td class="leaders_.">Full name of applicant in Chinese (if
+                            applicable):</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td class="leaders_."></td>
+                    </tr>
+                    <tr>
+                        <td>(2)</td>
+                        <td colspan="2" class="leaders_.">Business address of applicant: </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td colspan="2" class="leaders_."></td>
+                    </tr>
+                    <tr>
+                        <td>(3)</td>
+                        <td colspan="2" class="leaders_.">Name under which business carried on (if
+                            different from (1)):</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td colspan="2" class="leaders_."></td>
+                    </tr>
+                    <tr>
+                        <td>(4)</td>
+                        <td colspan="2" class="leaders_.">Address for purpose of deliveries (if
+                            different from (2)): </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td colspan="2" class="leaders_."></td>
+                    </tr>
+                    <tr>
+                        <td>(5)</td>
+                        <td colspan="2" class="leaders_.">Nature of business: </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td colspan="2" class="leaders_."></td>
+                    </tr>
+                    <tr>
+                        <td>(6)</td>
+                        <td colspan="2" class="leaders_.">Telephone number: </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td colspan="2" class="leaders_."></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td colspan="2"></td>
+                    </tr>
+                    <tr>
+                        <td colspan="3">Dated this<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_72"> </inline>day of <inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_72"> </inline>, 19 <inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_48"> </inline>. </td>
+                    </tr>
+                </tbody>
+            </table><marker role="blank-line"></marker><marker role="blank-line"></marker><marker role="blank-line"></marker><marker role="blank-line"></marker><content class="align_right">Signature: <fillIn class=" width_126">.</fillIn>
+                <marker role="blank-line"></marker><marker role="blank-line"></marker></content><text class="left_indent_0">* Note: Delete whichever is
+                inapplicable.<marker role="blank-line"></marker><marker role="blank-line"></marker></text><text class="left_indent_0">For Office Use
+                Only<marker role="blank-line"></marker><marker role="blank-line"></marker></text><table xmlns="http://www.w3.org/1999/xhtml" width="445">
+                <col width="24.9965%"></col>
+                <col width="24.9965%"></col>
+                <col width="24.9965%"></col>
+                <col width="24.9965%"></col>
+                <tr>
+                    <td class="valign_center align_center border_top_0.5 border_right_0.5 border_bottom_0.5">Serial No.</td>
+                    <td class="align_center border_top_0.5 border_right_0.5 border_bottom_0.5 border_left_0.5">Registration No.<br xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"></br>allotted </td>
+                    <td class="valign_center align_center border_top_0.5 border_right_0.5 border_bottom_0.5">Approved by</td>
+                    <td class="valign_center align_center border_top_0.5 border_bottom_0.5">Remarks
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_top_0.5 border_right_0.5 border_bottom_0.5">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td class="border_top_0.5 border_right_0.5 border_bottom_0.5 border_left_0.5">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td class="border_top_0.5 border_right_0.5 border_bottom_0.5 border_left_0.5">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td class="border_top_0.5 border_bottom_0.5 border_left_0.5">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                </tr>
+            </table><sourceNote>(<ref href="/hk/1975/ln33">L.N. 33 of 1975</ref>; <ref href="/hk/1991/ln279">L.N. 279 of 1991</ref>; <ref href="/hk/1996/ln164">L.N.
+                    164 of 1996</ref>; <ref href="/hk/1999/78">78 of 1999 s.
+            7</ref>)</sourceNote></text></schedule><schedule id="ID_1438402665740_002" name="sch4" reason="inEffect" startPeriod="2022-07-21" status="operational" temporalId="sch4"><num value="4">Schedule
+            4</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap132A/s25">s. 25</ref>]<sourceNote>(<ref href="/hk/1999/78">78 of 1999
+                    s. 7</ref>)</sourceNote></note><heading>Parts
+            of
+            Slaughtered
+            Food Animal
+            to
+            be Collected
+            from Abattoir
+            by
+            Owner</heading><text>
+            
+            <table xmlns="http://www.w3.org/1999/xhtml" width="445">
+                
+                <col width="60%"></col>
+                
+                <col width="40%"></col>
+                <tr>
+                    <td>
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Column 1</center>
+                    </td>
+                    <td>
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Column 2 </center>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Hide
+                        or
+                        Skin</td>
+                    <td>Cattle
+                        ears
+                        </td>
+                </tr>
+                <tr>
+                    <td>Horns</td>
+                    <td>Tail
+                        </td>
+                </tr>
+                <tr>
+                    <td>Stomachs</td>
+                    <td>Feet</td>
+                </tr>
+                <tr>
+                    <td>Intestines</td>
+                    <td>Spleen</td>
+                </tr>
+                <tr>
+                    <td>Heart</td>
+                    <td>Lungs</td>
+                </tr>
+                <tr>
+                    <td>Liver</td>
+                    <td>Weasand</td>
+                </tr>
+                <tr>
+                    <td>Kidneys</td>
+                    <td>Urinary
+                        bladder</td>
+                </tr>
+                <tr>
+                    <td>Head
+                        (other than that of a
+                        pig)</td>
+                    <td>Uterus</td>
+                </tr>
+                <tr>
+                    <td>Tongue
+                        (other than that of a pig, goat or
+                        sheep)</td>
+                    <td>Udder
+                        </td>
+                </tr>
+            </table>
+        </text><sourceNote>(<ref href="/hk/1972/ln210">L.N. 210 of 1972</ref>; <ref href="/hk/1991/ln279">L.N. 279 of 1991</ref>)</sourceNote></schedule><schedule id="ID_1438402665771_001" name="sch5" reason="inEffect" startPeriod="2022-07-21" status="operational" temporalId="sch5"><num value="5">Schedule
+            5</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap132A/s26">s. 26(b)</ref>]<sourceNote>(<ref href="/hk/1999/78">78 of 1999 s.
+                7</ref>)</sourceNote></note><heading>Ductless
+            Glands</heading><text>
+            <table xmlns="http://www.w3.org/1999/xhtml" frame="void" width="445" class="align_center">
+                <col width="100%"></col>
+                <tbody>
+                    <tr>
+                        <td>Thyroid</td>
+                    </tr>
+                    <tr>
+                        <td>Parathyroids</td>
+                    </tr>
+                    <tr>
+                        <td>Suprarenals</td>
+                    </tr>
+                    <tr>
+                        <td>Pituitary</td>
+                    </tr>
+                    <tr>
+                        <td>Pineal</td>
+                    </tr>
+                </tbody>
+            </table>
+        </text></schedule><schedule id="ID_1438402665771_003" name="sch6" reason="inEffect" startPeriod="2022-07-21" status="operational" temporalId="sch6"><num value="6">Schedule
+      6</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap132A/s28">ss. 28</ref>, <ref href="/hk/cap132A/s29">29</ref> &amp; <ref href="/hk/cap132A/s44">44</ref>]<sourceNote>(<ref href="/hk/1999/78">78 of 1999 s.
+        7</ref>)</sourceNote></note><heading>Marks
+      to
+      be Applied
+      to
+      Dressed Carcasses
+      and
+      Specified Parts
+      of
+      Offals</heading><crossHeading> </crossHeading><text>
+      
+      <table xmlns="http://www.w3.org/1999/xhtml">
+        
+        <col width="42%"></col>
+        
+        <col width="5%"></col>
+        
+        <col width="22%"></col>
+        
+        <col width="31%"></col>
+        <tr>
+          <td class="border_top_0.5 border_right_0.5 border_bottom_0.5">
+            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Part to be marked</center>
+          </td>
+          <td class="border_top_0.5 border_bottom_0.5 border_left_0.5" colspan="2">
+            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Details of mark</center>
+          </td>
+          <td class="border_top_0.5 border_bottom_0.5 border_left_0.5">
+            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Diagram of mark </center>
+          </td>
+        </tr>
+        <tr>
+          
+          <td class="cellpadding_top_5 border_top_0.5 border_right_0.5 border_bottom_0.5">
+            
+            <paragraph xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" id="ID_1642669518104_001" name="A" temporalId="sch6_A"><num value="A">A.</num><content>Dressed
+                carcass</content></paragraph>
+            
+            
+          </td>
+          
+          <td class="cellpadding_left_5 cellpadding_right_5 cellpadding_top_5 border_top_0.5 border_bottom_0.5 border_left_0.5" colspan="2">
+            
+            <p class="align_left">44.5 mm
+              diameter</p>
+            
+            <p class="align_left">Serial number in
+              middle of
+              stamp</p>
+            
+          </td>
+          
+          <td class="border_top_0.5 border_bottom_0.5 border_left_0.5">
+            
+            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="valign_center"><img src="images/CAP132A_en_sch6_20220721_000000_0001.jpg" alt="This image is the diagram of the mark to be applied to dressed carcass." height="120" title="This image is the diagram of the mark to be applied to dressed carcass."></img> </center>
+          </td>
+        </tr>
+        <tr>
+          
+          <td class="cellpadding_right_3 cellpadding_top_5 border_top_0.5 border_right_0.5 border_bottom_0.5">
+            
+            <paragraph xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" id="ID_1642669518151_002" name="B" temporalId="sch6_B"><num value="B">B.</num><leadIn>Offal:</leadIn><subparagraph id="ID_1642669518151_003" name="1" temporalId="sch6_B_1"><num value="1">(i)</num><content>liver</content></subparagraph><subparagraph id="ID_1642669518151_004" name="2" temporalId="sch6_B_2"><num value="2">(ii)</num><content>tongue (in case of bovine animals only)</content></subparagraph></paragraph>
+            
+            
+            
+            
+            
+          </td>
+          <td class="border_top_0.5 border_bottom_0.5 border_left_0.5">
+            
+            <span class="right_brace align_center">｝</span>
+          </td>
+          
+          <td class="align_left valign_center border_top_0.5 border_bottom_0.5">31.8 mm diameter
+            </td>
+          
+          <td class="border_top_0.5 border_bottom_0.5 border_left_0.5">
+            
+            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="valign_center"><img src="images/CAP132A_en_sch6_20220721_000000_0002.jpg" alt="This image is the diagram of the mark to be applied to specified part of offal." height="87" title="This image is the diagram of the mark to be applied to specified part of offal."></img>  </center>
+          </td>
+        </tr>
+      </table>
+    </text><sourceNote>(<ref href="/hk/1972/ln210">L.N. 210 of 1972</ref>; <ref href="/hk/1979/ln89">L.N. 89 of 1979</ref>; <ref href="/hk/1991/ln279">L.N. 279 of
+      1991</ref>; <ref href="/hk/2022/er3">E.R. 3 of 2022</ref>)</sourceNote></schedule><schedule id="ID_1438402665802_002" name="sch7" reason="inEffect" startPeriod="2022-07-21" status="operational" temporalId="sch7"><num value="7">Schedule
+            7</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap132A/s35">s. 35</ref>]<sourceNote>(<ref href="/hk/1999/78">78 of 1999
+                    s.
+            7</ref>)</sourceNote></note><heading>Pass</heading><text>
+            <table xmlns="http://www.w3.org/1999/xhtml" frame="void" width="445">
+                
+                <col width="8%"></col>
+                
+                
+                <col width="92%"></col>
+                
+                
+                <tbody>
+                    <tr>
+                        
+                        <td></td>
+                        
+                        
+                        <td class="leaders_.">Permission is hereby given to </td>
+                        
+                        
+                    </tr>
+                    <tr>
+                        
+                        <td class="leaders_." colspan="2">of</td>
+                    </tr>
+                    <tr>
+                        
+                        <td class="leaders_." colspan="2">whose photograph is affixed overleaf, to
+                            enter the restricted area of </td>
+                    </tr>
+                    <tr>
+                        
+                        <td colspan="2" class="leaders_.">Abattoir at his/her own risk during its
+                            operation hours for the purpose of </td>
+                    </tr>
+                    <tr>
+                        
+                        <td class="leaders_." colspan="2"></td>
+                        
+                    </tr>
+                </tbody>
+            </table>
+            <br></br>
+        </text><text>
+            
+            <table xmlns="http://www.w3.org/1999/xhtml" frame="void" width="445">
+                <col width="60%"></col>
+                <col width="10%"></col>
+                <col width="30%"></col>
+                <tbody>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td>Manager</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td colspan="2" class="leaders_."></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td class="align_right">Abattoir.</td>
+                    </tr>
+                </tbody>
+            </table>
+        </text><crossHeading> </crossHeading><text class="first_line_indent_0">Serial
+            No.:<marker role="blank-line"></marker><marker role="blank-line"></marker>Date:
+            <marker role="blank-line"></marker><marker role="blank-line"></marker></text><text>
+            
+            <table xmlns="http://www.w3.org/1999/xhtml" frame="void" width="445">
+                <col width="8%"></col>
+                <col width="92%"></col>
+                <tbody>
+                    <tr>
+                        <td>Note: </td>
+                        <td class="leaders_.">This permission which is valid until </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>is not transferable and may be withdrawn at any time. </td>
+                    </tr>
+                </tbody>
+            </table>
+        </text><sourceNote>(<ref href="/hk/1975/ln33">L.N. 33 of 1975</ref>; <ref href="/hk/1996/ln164">L.N. 164 of
+                1996</ref>; <ref href="/hk/2022/er3">E.R. 3 of
+        2022</ref>)</sourceNote></schedule></main></subLeg>

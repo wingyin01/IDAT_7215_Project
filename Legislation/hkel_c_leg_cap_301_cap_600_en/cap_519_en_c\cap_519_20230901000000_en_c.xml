@@ -1,0 +1,1097 @@
+<?xml version="1.0" encoding="UTF-8"?><ordinance xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd" xml:lang="en"><meta><docName>Cap. 519</docName><docType>cap</docType><docNumber>519</docNumber><docStatus>In effect</docStatus><dc:identifier>/hk/cap519!en</dc:identifier><dc:date>2023-09-01</dc:date><dc:subject>legislation</dc:subject><dc:language>en</dc:language><dc:publisher>DoJ</dc:publisher><dc:rights>the Government of the Hong Kong Special Administrative Region</dc:rights></meta><main xml:lang="en" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd"><longTitle id="ID_1438403311566_002" name="longTitle" reason="inEffect" status="operational" temporalId="longTitle" startPeriod="2021-06-24">
+            <content>An Ordinance to provide for the resumption of land, creation of easements or
+                rights and the exercise of other powers by the Government for the construction of
+                railways and to provide for compensation for losses caused by the exercise of the
+                powers.<marker role="blank-line"></marker><marker role="blank-line"></marker></content>
+        </longTitle><commencementNote>[11 July 1997]<sourceNote><inline class="width_3"> </inline><ref href="/hk/1997/ln390">L.N. 390 of 1997</ref></sourceNote></commencementNote><sourceNote>(Format changes—<ref href="hk/2021/er3">E.R. 3 of 2021</ref>)</sourceNote><enactingFormula>
+            <content><sourceNote>(Enacting provision omitted—<ref href="hk/2021/er3">E.R. 3 of
+                        2021</ref>)</sourceNote></content>
+        </enactingFormula><part id="ID_1438403311581_001" name="P1" reason="inEffect" startPeriod="2021-06-24" status="operational" temporalId="P1"><num value="1">Part
+            I</num><heading>Preliminary</heading><section id="ID_1438403311581_003" name="s1" reason="inEffect" startPeriod="2021-06-24" status="operational" temporalId="s1"><num value="1">1.</num><heading>Short title</heading><sourceNote>(Amended <ref href="hk/2021/er3">E.R. 3 of 2021</ref>)</sourceNote><subsection id="ID_1438412908262_004" name="1" temporalId="s1_1"><num value="1">(1)</num><content>This Ordinance may be cited as the <shortTitle>Railways
+                Ordinance</shortTitle>.</content></subsection><subsection id="ID_1438412908262_012" name="2" temporalId="s1_2"><num value="2">(2)</num><sourceNote>(Omitted as spent—<ref href="hk/2021/er3">E.R. 3 of 2021</ref>)</sourceNote></subsection></section><section id="ID_1438403311597_001" name="s2" reason="inEffect" startPeriod="2022-07-01" status="operational" temporalId="s2"><num value="2">2.</num><heading>Interpretation</heading><leadIn>In this Ordinance, unless the context otherwise requires—</leadIn><def name="Building"><term>building</term>
+                (<term xml:lang="zh-Hant-HK">建築物</term>) has the same meaning as in the Buildings
+            Ordinance (<ref href="/hk/cap123">Cap. 123</ref>);</def><def name="BuildingAuthority"><term>Building
+                Authority</term>
+                (<term xml:lang="zh-Hant-HK">建築事務監督</term>) means the Director of Buildings;</def><def name="BuildingWorks"><term>building
+                works</term>
+                (<term xml:lang="zh-Hant-HK">建築工程</term>) includes any kind of building
+            construction, site formation works, ground investigation in the areas set out in
+                <ref>Schedule 5</ref> to the Buildings Ordinance (<ref href="/hk/cap123">Cap.
+                123</ref>), foundation works, repairs, demolition, alteration, addition and every
+            kind of building operation, and includes drainage works;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/2011/16">16 of 2011 s.
+                48</ref>)</sourceNote></def><def name="Claim"><term>claim</term>
+                (<term xml:lang="zh-Hant-HK">申索</term>) means a claim for compensation under this
+            Ordinance;</def><def name="Claimant"><term>claimant</term>
+                (<term xml:lang="zh-Hant-HK">申索人</term>) means a person who has made a claim;</def><def name="CompensatableInterest">
+            <leadIn><term>compensatable
+                    interest</term>
+                    (<term xml:lang="zh-Hant-HK">可獲補償權益</term>) means the estate or interest
+                of—</leadIn>
+            <paragraph id="ID_1438412908294_026" name="a" temporalId="s2_a"><num value="a">(a)</num><content>a person having an unexpired lease of land (including any further term
+                    which could be obtained as of right) of not less than one month or a tenancy or
+                    sub-tenancy terminable (whether by virtue of an Ordinance or otherwise) by
+                    either party by not less than one month’s notice;</content></paragraph>
+            <paragraph id="ID_1438412908294_034" name="b" temporalId="s2_b"><num value="b">(b)</num><content>a mortgagee in possession;</content></paragraph>
+            <paragraph id="ID_1438412908294_042" name="c" temporalId="s2_c"><num value="c">(c)</num><content>the holder of a valid option to purchase an estate or interest referred to
+                    in paragraph (a) or (b);</content></paragraph>
+            <paragraph id="ID_1438412908294_050" name="d" temporalId="s2_d"><num value="d">(d)</num><content>a purchaser under an agreement for sale and purchase to whom the benefit of
+                    an estate or interest referred to in paragraph (a) or (b) has already passed;
+                    or</content></paragraph>
+            <paragraph id="ID_1438412908309_005" name="e" temporalId="s2_e"><num value="e">(e)</num><content>the executor, administrator and beneficiary of a person having an estate or
+                    interest set out in paragraph (a), (b), (c) or (d);</content></paragraph>
+        </def><def name="Foreshore"><term>foreshore</term>
+                (<term xml:lang="zh-Hant-HK">前濱</term>) means the shore and includes the bed of the
+            sea and of any tidal water within Hong Kong, below the line of the high water mark but
+            above the low water mark;</def><def name="Land">
+            <leadIn><term>land</term>
+                    (<term xml:lang="zh-Hant-HK">土地</term>) includes and may, where the context
+                requires, have any one or more of the following meanings separately—</leadIn>
+            <paragraph id="ID_1438412908309_026" name="a" temporalId="s2_a"><num value="a">(a)</num><content>land lying wholly beneath the surface;</content></paragraph>
+            <paragraph id="ID_1438412908309_034" name="b" temporalId="s2_b"><num value="b">(b)</num><content>the whole or part of a building or other erection or fixture on
+                    land;</content></paragraph>
+            <paragraph id="ID_1438412908309_042" name="c" temporalId="s2_c"><num value="c">(c)</num><content>where an undivided share of a leasehold interest in land has appurtenant to
+                    it rights to the exclusive use and occupation of a building or a part of a
+                    building on the land, the share in the land and the appurtenant
+                    rights;</content></paragraph>
+            <paragraph id="ID_1438412908309_050" name="d" temporalId="s2_d"><num value="d">(d)</num><content>any other estate, right, share or interest in land;</content></paragraph>
+        </def><def name="Mortgage"><term>mortgage</term>
+                (<term xml:lang="zh-Hant-HK">按揭</term>) means a mortgage or charge registrable in
+            the Land Registry;</def><def name="OperationsOfAPreventiveOrRemedialNature"><term>operations
+                of a preventive or remedial
+            nature</term>
+                (<term xml:lang="zh-Hant-HK">屬預防或補救性質的作業</term>) means to underpin or strengthen any
+            land or building or any other work intended to render the land or building reasonably
+            safe or to repair or detect damage caused by the construction, operation, modification,
+            improvement or extension of the railway;</def><def name="Owner">
+            <leadIn><term>owner</term>
+                    (<term xml:lang="zh-Hant-HK">擁有人</term>) in relation to land, means the person
+                holding the land—</leadIn>
+            <paragraph id="ID_1438412908325_012" name="a" temporalId="s2_a"><num value="a">(a)</num><content>directly under a Government lease;</content></paragraph>
+            <paragraph id="ID_1438412908325_020" name="b" temporalId="s2_b"><num value="b">(b)</num><content>under another title directly from the Government registered in the Land
+                    Registry;</content></paragraph>
+            <paragraph id="ID_1438412908325_028" name="c" temporalId="s2_c"><num value="c">(c)</num><content>vested by legislation; or</content></paragraph>
+            <paragraph id="ID_1438412908325_036" name="d" temporalId="s2_d"><num value="d">(d)</num><content>by way of possessory title,</content></paragraph>
+            <continued>and includes the executor, administrator and beneficiary of the
+                person;</continued>
+        </def><def name="Railway"><term>railway</term>
+                (<term xml:lang="zh-Hant-HK">鐵路</term>), except in <ref>section 45</ref>, means any
+            railway or proposed railway which is the subject of a scheme and includes all railway
+            premises, depots, tracks, cuttings, embankments, tunnels, stations, goods and rail
+            yards, car parks and other areas for ancillary uses but excludes non-railway
+            developments above stations or above other railway property;</def><def name="Reclamation"><term>reclamation</term>
+                (<term xml:lang="zh-Hant-HK">填海</term>) includes any work over and upon any
+            foreshore and sea-bed;</def><def name="Scheme">
+            <leadIn><term>scheme</term>
+                    (<term xml:lang="zh-Hant-HK">方案</term>) means—</leadIn>
+            <paragraph id="ID_1438412908325_071" name="a" temporalId="s2_a"><num value="a">(a)</num><content>subject to paragraphs (b) to (d), a scheme referred to in <ref>section
+                        4</ref>, <ref>5</ref> or <ref>6</ref>;</content></paragraph>
+            <paragraph id="ID_1438412908325_079" name="b" temporalId="s2_b"><num value="b">(b)</num><content>subject to paragraphs (c) and (d), where a scheme has been amended under
+                        <ref>section 7</ref>, or corrected under <ref>section 8</ref>, or amended
+                    under <ref>section 7</ref> and corrected under <ref>section 8</ref>, the scheme
+                    so amended or corrected or amended and corrected, as the case may be;</content></paragraph>
+            <paragraph id="ID_1438412908340_006" name="c" temporalId="s2_c"><num value="c">(c)</num><content>subject to paragraph (d), where a scheme has been authorized under
+                        <ref>section 11</ref> or <ref>12(1)</ref>, the scheme so
+                    authorized;</content></paragraph>
+            <paragraph id="ID_1438412908340_014" name="d" temporalId="s2_d"><num value="d">(d)</num><content>where a scheme has been amended under <ref>section 12(2)</ref>, the scheme
+                    so amended,</content></paragraph>
+            <continued>and includes the plan attached to the scheme;</continued>
+        </def><def name="Seabed"><term>sea-bed</term>
+                (<term xml:lang="zh-Hant-HK">海床</term>) means the shore and bed of the sea and of
+            any tidal water within Hong Kong, below the line of the high water mark;</def><def name="Secretary"><term>Secretary</term>
+                (<term xml:lang="zh-Hant-HK">局長</term>) means the
+            Secretary
+            for Transport and Logistics;<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/2002/ln106">L.N. 106 of 2002</ref>. Amended <ref href="/hk/2007/ln130">L.N. 130 of
+                2007</ref>; <ref href="hk/2022/ln144">L.N. 144 of 2022</ref>)</sourceNote></def><def name="TelecommunicationsService"><term>telecommunications
+                service</term>
+                (<term xml:lang="zh-Hant-HK">電訊服務</term>) has the meaning under the
+            Telecommunications Ordinance (<ref href="/hk/cap106">Cap. 106</ref>).<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/2000/36">36 of 2000 s.
+                    28</ref>)</sourceNote></def></section><section id="ID_1438403311612_001" name="s3" reason="inEffect" startPeriod="2021-06-24" status="operational" temporalId="s3"><num value="3">3.</num><heading>Assumption and delegation by Secretary</heading><subsection id="ID_1438412908403_004" name="1" temporalId="s3_1"><num value="1">(1)</num><content>The Secretary may act under this Ordinance in relation to any works which he proposes or causes to be executed by some other person, other than a public officer, as well as in relation to works which he proposes or causes to be executed, on his behalf, by a public officer and this Ordinance applies to the works.</content></subsection><subsection id="ID_1438412908403_012" name="2" temporalId="s3_2"><num value="2">(2)</num><content>Where the Secretary proposes that any works be executed by some other person,
+                any compensation payable in respect of those works is, subject to any agreement,
+                payable by the
+                Government.</content></subsection><subsection id="ID_1438412908403_020" name="3" temporalId="s3_3"><num value="3">(3)</num><content>The Secretary may in writing authorize any named person either generally or in any particular case to exercise any of the powers, functions and duties conferred or imposed upon him under this Ordinance.</content></subsection></section></part><part id="ID_1438403311612_003" name="P2" reason="inEffect" startPeriod="2021-06-24" status="operational" temporalId="P2"><num value="2">Part
+            II</num><heading>The
+            Scheme</heading><section id="ID_1438403311628_002" name="s4" reason="inEffect" startPeriod="2021-06-24" status="operational" temporalId="s4"><num value="4">4.</num><heading>Preparation of scheme</heading><leadIn>If the Secretary proposes that a railway is to be constructed or modified, improved or extended in a way which the Secretary considers is not minor, he is to prepare or cause to be prepared a scheme for the railway that—</leadIn><paragraph id="ID_1438412908434_012" name="a" temporalId="s4_a"><num value="a">(a)</num><content>sets out the general nature and effects of the railway;</content></paragraph><paragraph id="ID_1438412908434_020" name="b" temporalId="s4_b"><num value="b">(b)</num><leadIn>includes a plan delineating the boundaries of the scheme showing—</leadIn><subparagraph id="ID_1438412908434_028" name="i" temporalId="s4_b_i"><num value="i">(i)</num><content>the land that the Government may resume under this Ordinance for or incidental to the railway;</content></subparagraph><subparagraph id="ID_1438412908434_036" name="ii" temporalId="s4_b_ii"><num value="ii">(ii)</num><content>the land in<b>, </b>under or over which the Government may create an easement or other permanent or temporary right under this Ordinance for or incidental to the railway and the nature of the easement or right;</content></subparagraph><subparagraph id="ID_1438412908450_007" name="iii" temporalId="s4_b_iii"><num value="iii">(iii)</num><content>the roads, foreshore or sea-bed over which the Government may exercise powers under this Ordinance for or incidental to the railway and indicate the extent to which the powers may be exercised.</content></subparagraph></paragraph></section><section id="ID_1438403311644_001" name="s5" reason="inEffect" startPeriod="2021-06-24" status="operational" temporalId="s5"><num value="5">5.</num><heading>Inspection and survey</heading><subsection id="ID_1438412908465_004" name="1" temporalId="s5_1"><num value="1">(1)</num><leadIn>The Secretary may enter and may authorize a person to enter any land or building at any reasonable time to—</leadIn><paragraph id="ID_1438412908465_012" name="a" temporalId="s5_1_a"><num value="a">(a)</num><content>inspect, carry out a site investigation or test including drilling, excavating and installing or removing instruments;</content></paragraph><paragraph id="ID_1438412908465_020" name="b" temporalId="s5_1_b"><num value="b">(b)</num><content>survey and take levels; and</content></paragraph><paragraph id="ID_1438412908465_028" name="c" temporalId="s5_1_c"><num value="c">(c)</num><content>set out any line of works,</content></paragraph><continued>in order to prepare, correct or amend a plan or scheme.</continued></subsection><subsection id="ID_1438412908465_041" name="2" temporalId="s5_2"><num value="2">(2)</num><content>The Secretary or authorized person must give at least 28 days written notice to the owner and the occupier of the land or building of an intended entry and must describe in the notice the purpose of the entry.</content></subsection></section><section id="ID_1438403311644_003" name="s6" reason="inEffect" startPeriod="2023-09-01" status="operational" temporalId="s6"><num value="6">6.</num><heading>Deposit and publication of schemes</heading><subsection id="ID_1438412908496_004" name="1" temporalId="s6_1"><num value="1">(1)</num><content>The Secretary must deposit a copy of the scheme in the Land Registry.</content></subsection><subsection id="ID_1438412908496_012" name="2" temporalId="s6_2"><num value="2">(2)</num><content>The Secretary must deposit a copy of any amendment to the scheme and any correction made under <ref>section 8</ref> in the Land Registry.</content></subsection><subsection id="ID_1438412908496_020" name="3" temporalId="s6_3"><num value="3">(3)</num><content>A person may inspect a scheme free of charge at the times and the places as the Secretary reasonably directs during the period that the scheme is open for objections.</content></subsection><subsection id="ID_1438412908496_028" name="4" temporalId="s6_4"><num value="4">(4)</num><content>The Secretary must within 21 days of depositing a scheme, amendment to a scheme or any correction made under <ref>section 8</ref>, publish notice of the deposit.</content></subsection><subsection id="ID_1438412908496_036" name="5" temporalId="s6_5"><num value="5">(5)</num><leadIn>A notice is to contain—</leadIn><paragraph id="ID_1438412908496_044" name="a" temporalId="s6_5_a"><num value="a">(a)</num><content>a description of the general nature and effects of the scheme or of the nature and extent of the amendment or the correction;</content></paragraph><paragraph id="ID_1438412908496_052" name="b" temporalId="s6_5_b"><num value="b">(b)</num><content>details of where and when the public may inspect a copy of the scheme, the amendment or the correction; and</content></paragraph><paragraph id="ID_1438412908496_060" name="c" temporalId="s6_5_c"><num value="c">(c)</num><content>details of how a member of the public may obtain a copy of the scheme, the amendment or the correction.</content></paragraph></subsection><subsection id="ID_1438412908496_067" name="6" temporalId="s6_6"><num value="6">(6)</num><leadIn>The Secretary must publish the notice—</leadIn><paragraph id="ID_1438412908496_075" name="a" temporalId="s6_6_a"><num value="a">(a)</num><content>in Chinese and English in 2 issues of the Gazette;</content></paragraph><paragraph alignTo="/hk/2023/25" id="ID_1692091159870_001" name="ab" temporalId="s6_6_ab"><num value="ab">(ab)</num><content>on the website specified by the Secretary; <sourceNote>(Added <ref href="/hk/2023/25">25 of 2023 s. 93</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438412908512_006" name="b" temporalId="s6_6_b"><num value="b">(b)</num><content>in 2 issues of a Chinese language daily newspaper published in Hong
+                    Kong;</content></paragraph><paragraph id="ID_1438412908512_014" name="c" temporalId="s6_6_c"><num value="c">(c)</num><content>in 2 issues of an English language daily newspaper published in Hong Kong;
+                    and</content></paragraph><paragraph id="ID_1438412908512_022" name="d" temporalId="s6_6_d"><num value="d">(d)</num><content>by fixing copies in Chinese and English in prominent positions within the
+                    boundaries of the scheme where the notice will be seen by the public.</content></paragraph></subsection><subsection id="ID_1438412908512_029" name="7" temporalId="s6_7"><num value="7">(7)</num><content>The Secretary must advise a District
+                Council
+                whose district the scheme will affect of the deposit of the scheme, amendment or
+                correction and supply a copy of the scheme, amendment or correction to the District Council.
+                <sourceNote>(Amended <ref href="/hk/2023/25">25 of 2023 s.
+                93</ref>)</sourceNote></content></subsection><subsection id="ID_1438412908512_037" name="8" temporalId="s6_8"><num value="8">(8)</num><content>The Secretary is to ensure that a person who applies for a copy of the scheme, amendment or correction is to obtain the copy at a reasonable cost.</content></subsection></section><section id="ID_1438403311659_002" name="s7" reason="inEffect" startPeriod="2021-06-24" status="operational" temporalId="s7"><num value="7">7.</num><heading>Amendment of schemes</heading><content>The Secretary may amend a scheme. Subject as otherwise provided in this Ordinance, the amended scheme is subject to the same requirements under this Ordinance as the original scheme except that objections to an amendment to a scheme are limited to the amendment of the scheme.</content></section><section id="ID_1438403311675_001" name="s8" reason="inEffect" startPeriod="2021-06-24" status="operational" temporalId="s8"><num value="8">8.</num><heading>Corrections</heading><subsection id="ID_1438412908559_004" name="1" temporalId="s8_1"><num value="1">(1)</num><content>The Secretary may make a correction to the scheme if in the Secretary’s opinion, the changes are minor and private rights or interests are not affected by the correction.</content></subsection><subsection id="ID_1438412908559_012" name="2" temporalId="s8_2"><num value="2">(2)</num><leadIn>The Secretary may make a correction that affects private rights or interests if the correction relates to locations within the boundaries of the scheme and—</leadIn><paragraph id="ID_1438412908559_020" name="a" temporalId="s8_2_a"><num value="a">(a)</num><content>results in private rights or interests being affected to a lesser extent than formerly; or</content></paragraph><paragraph id="ID_1438412908559_028" name="b" temporalId="s8_2_b"><num value="b">(b)</num><content>results in an increase in the extent to which the private rights or interests are affected which increase is minor in the opinion of the Secretary.</content></paragraph></subsection><subsection id="ID_1438412908559_035" name="3" temporalId="s8_3"><num value="3">(3)</num><content>The Secretary must serve written details of a correction on the owner of private rights or interests affected by the correction within 28 days of publishing the notice of the correction in the Gazette.</content></subsection></section><section id="ID_1438403311675_003" name="s9" reason="inEffect" startPeriod="2021-06-24" status="operational" temporalId="s9"><num value="9">9.</num><heading>Decision not to execute works</heading><subsection id="ID_1438412908590_004" name="1" temporalId="s9_1"><num value="1">(1)</num><content>The Secretary must publish notice in the manner set out in <ref>section 6</ref> if he decides not to execute the works for which a copy of a scheme has been deposited under that section. On publishing the notice, the powers set out in <ref>section 5</ref>, <ref>11</ref>, <ref>15</ref>, <ref>16</ref>, <ref>20</ref>, <ref>22</ref>, <ref>24</ref>, <ref>25</ref>, <ref>26</ref>, <ref>27</ref> or <ref>28</ref> cease to be exercisable in relation to those works.</content></subsection><subsection id="ID_1438412908606_005" name="2" temporalId="s9_2"><num value="2">(2)</num><content>This section does not affect anything lawfully done under this Ordinance before the publication or any rights (including rights to compensation) then accrued under this Ordinance in respect of the exercise of any of those powers.</content></subsection></section><section id="ID_1438403311690_001" name="s10" reason="inEffect" startPeriod="2023-09-01" status="operational" temporalId="s10"><num value="10">10.</num><heading>Objections</heading><subsection id="ID_1438412908621_011" name="1" temporalId="s10_1"><num value="1">(1)</num><content>Subject to other provisions of this section, a person may, not later than 60
+                days after the first publication of the relevant notice under <ref>section 6</ref>,
+                object to the scheme, a part of the scheme or an amendment to the scheme by
+                delivering an objection in writing to the Secretary.</content></subsection><subsection id="ID_1438412908621_019" name="2" temporalId="s10_2"><num value="2">(2)</num><content>A person may object to an amendment to a scheme only on matters arising from
+                the amendment to the scheme.</content></subsection><subsection id="ID_1438412908621_027" name="3" temporalId="s10_3"><num value="3">(3)</num><content>An objection alleging that a person is affected by the scheme must describe the
+                interest of the person and the manner in which he alleges he is affected by the
+                scheme.</content></subsection><subsection id="ID_1692157525311_001" name="3A" temporalId="s10_3A"><num value="3A">(3A)</num><content>An objection lodged on a ground relating to any compensation (whether monetary
+                or non-monetary) or any financial or other assistance (<i><b>compensation or
+                        assistance</b></i>) in connection with the scheme is, to the extent that it
+                is lodged on that ground, invalid and treated as not having been lodged for the
+                purposes of <ref>section 11</ref>. <sourceNote>(Added <ref href="/hk/2023/25">25 of
+                        2023 s. 94</ref>)</sourceNote></content></subsection><subsection id="ID_1692157525332_002" name="3B" temporalId="s10_3B"><num value="3B">(3B)</num><leadIn>In subsection (3A), the reference to a ground relating to any compensation or
+                assistance includes—</leadIn><paragraph id="ID_1692157525332_003" name="a" temporalId="s10_3B_a"><num value="a">(a)</num><content>a ground relating to whether any compensation or assistance is to be
+                    provided, whether or not under an enactment; and</content></paragraph><paragraph id="ID_1692157525333_004" name="b" temporalId="s10_3B_b"><num value="b">(b)</num><content>a ground relating to the amount, extent or form of the compensation or
+                    assistance, or the time for its provision. <sourceNote>(Added <ref href="/hk/2023/25">25 of 2023 s. 94</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1692157525350_005" name="3C" temporalId="s10_3C"><num value="3C">(3C)</num><content>If the Secretary gives any written reply to an objection, the person lodging
+                the objection (<b><i>objector</i></b>) may give a response to the reply (including
+                any comment on, or any request in connection with, the reply) within the period of
+                14 days after the day on which the reply is given. <sourceNote>(Added <ref href="/hk/2023/25">25 of 2023 s. 94</ref>)</sourceNote></content></subsection><subsection id="ID_1692157525367_006" name="3D" temporalId="s10_3D"><num value="3D">(3D)</num><content>For subsection (3C), the mere notification by the Secretary that the objection
+                is treated as unwithdrawn and will be submitted to the Chief Executive in Council
+                does not constitute a reply. <sourceNote>(Added <ref href="/hk/2023/25">25 of 2023
+                        s. 94</ref>)</sourceNote></content></subsection><subsection id="ID_1692157525384_007" name="3E" temporalId="s10_3E"><num value="3E">(3E)</num><content>A response that is given after the 14-day period mentioned in subsection (3C)
+                is treated as not having been given. <sourceNote>(Added <ref href="/hk/2023/25">25
+                        of 2023 s. 94</ref>)</sourceNote></content></subsection><subsection id="ID_1438412908637_005" name="4" temporalId="s10_4"><num value="4">(4)</num><leadIn>An
+                objector may, by writing to the Secretary—
+                <sourceNote>(Amended <ref href="/hk/2023/25">25 of 2023 s.
+                94</ref>)</sourceNote></leadIn><paragraph id="ID_1438412908637_013" name="a" temporalId="s10_4_a"><num value="a">(a)</num><content>amend the objection within 60 days of publication of the relevant notice
+                    under <ref>section 6</ref>; or</content></paragraph><paragraph id="ID_1438412908637_021" name="b" temporalId="s10_4_b"><num value="b">(b)</num><content>withdraw the objection in whole or in part at any time before the scheme is
+                    submitted
+                    under <ref>section 11(2)</ref>.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1999/62">62 of 1999 s.
+                            3</ref>; <ref href="/hk/2023/25">25 of 2023 s.
+                        94</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438412908637_028" name="5" temporalId="s10_5"><num value="5">(5)</num><content>An objection or a part of an objection that has been withdrawn is to be treated
+                to the extent that it is withdrawn as not having been lodged and need not be
+                referred to the Chief Executive in Council.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1999/62">62 of 1999 s.
+                    3</ref>)</sourceNote></content></subsection><subsection id="ID_1438412908637_036" name="6" temporalId="s10_6"><num value="6">(6)</num><content>A person may not object to a correction made under <ref>section
+                8</ref>.</content></subsection><subsection id="ID_1692157525497_008" name="7" temporalId="s10_7"><num value="7">(7)</num><leadIn>An objection, an amendment or withdrawal of an objection, or a response
+                (referred to in subsection (3C)) may be given to the Secretary by—</leadIn><paragraph id="ID_1692157525497_009" name="a" temporalId="s10_7_a"><num value="a">(a)</num><content>delivering it to an officer who is authorized by the Secretary to receive
+                    it on the Secretary’s behalf;</content></paragraph><paragraph id="ID_1692157525498_010" name="b" temporalId="s10_7_b"><num value="b">(b)</num><content>sending it by ordinary or registered post;</content></paragraph><paragraph id="ID_1692157525499_011" name="c" temporalId="s10_7_c"><num value="c">(c)</num><content>sending it by electronic mail transmission to an electronic mail address
+                    specified by the Secretary; or</content></paragraph><paragraph id="ID_1692157525499_012" name="d" temporalId="s10_7_d"><num value="d">(d)</num><content>sending it by fax transmission to a fax number specified by the Secretary.
+                        <sourceNote>(Added <ref href="/hk/2023/25">25 of 2023 s.
+                        94</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1692157525516_013" name="8" temporalId="s10_8"><num value="8">(8)</num><leadIn>A reply (referred to in subsection (3C)) may be given to the objector
+                by—</leadIn><paragraph id="ID_1692157525517_014" name="a" temporalId="s10_8_a"><num value="a">(a)</num><content>delivering it to the objector personally;</content></paragraph><paragraph id="ID_1692157525518_015" name="b" temporalId="s10_8_b"><num value="b">(b)</num><content>leaving it at the objector’s last known address;</content></paragraph><paragraph id="ID_1692157525518_016" name="c" temporalId="s10_8_c"><num value="c">(c)</num><content>sending it by ordinary or registered post addressed to the objector at the
+                    objector’s last known address;</content></paragraph><paragraph id="ID_1692157525519_017" name="d" temporalId="s10_8_d"><num value="d">(d)</num><content>sending it by electronic mail transmission to the objector’s last known
+                    electronic mail address; or</content></paragraph><paragraph id="ID_1692157525520_018" name="e" temporalId="s10_8_e"><num value="e">(e)</num><content>sending it by fax transmission to the objector’s last known fax number.
+                        <sourceNote>(Added <ref href="/hk/2023/25">25 of 2023 s.
+                        94</ref>)</sourceNote></content></paragraph></subsection></section><section id="ID_1438403311706_002" name="s11" reason="inEffect" startPeriod="2023-09-01" status="operational" temporalId="s11"><num value="11">11.</num><heading>Procedure after publication of scheme</heading><subsection id="ID_1438412908668_011" name="1" temporalId="s11_1"><num value="1">(1)</num><content>The Secretary may authorize the scheme if after the period for lodging
+                objections under <ref>section 10(1)</ref> has expired no objections have been
+                lodged.</content></subsection><subsection id="ID_1692091163303_001" name="2" temporalId="s11_2"><num value="2">(2)</num><content>Subject to subsection (1), the Secretary must, before the expiry of the period
+                determined in accordance with subsections (2A) and (2B), submit the scheme and every
+                objection lodged under <ref>section 10(1)</ref> to the Chief Executive in Council
+                for consideration. <sourceNote>(Replaced <ref href="/hk/2023/25">25 of 2023 s.
+                        95</ref>)</sourceNote></content></subsection><subsection id="ID_1692091163323_002" name="2A" temporalId="s11_2A"><num value="2A">(2A)</num><leadIn>Except as extended under subsection (2B), the period mentioned in subsection (2)
+                is—</leadIn><paragraph id="ID_1692091163324_003" name="a" temporalId="s11_2A_a"><num value="a">(a)</num><content>unless paragraph (b) applies—5 months after the date of expiry of the time
+                    for lodging objections under <ref>section 10(1)</ref> in respect of the scheme;
+                    or</content></paragraph><paragraph id="ID_1692091163325_004" name="b" temporalId="s11_2A_b"><num value="b">(b)</num><leadIn>if one or more amendments are made to the scheme under <ref>section
+                    7</ref>—whichever of the following periods that ends later—</leadIn><subparagraph id="ID_1692091163326_005" name="1" temporalId="s11_2A_b_1"><num value="1">(i)</num><content>the period mentioned in paragraph (a);</content></subparagraph><subparagraph id="ID_1692091163327_006" name="2" temporalId="s11_2A_b_2"><num value="2">(ii)</num><content>3 months after the date of expiry of the time for lodging objections
+                        under <ref>section 10(1)</ref> in respect of the amendment (or the last of
+                        the amendments). <sourceNote>(Added <ref href="/hk/2023/25">25 of 2023 s.
+                                95</ref>)</sourceNote></content></subparagraph></paragraph></subsection><subsection id="ID_1692091163345_007" name="2B" temporalId="s11_2B"><num value="2B">(2B)</num><leadIn>The Financial Secretary may, on application by the Secretary—</leadIn><paragraph id="ID_1692091163346_008" name="a" temporalId="s11_2B_a"><num value="a">(a)</num><content>extend the period mentioned in subsection (2A) for 2 months if the
+                    Financial Secretary considers it appropriate to do so in a particular case;
+                    and</content></paragraph><paragraph id="ID_1692091163346_009" name="b" temporalId="s11_2B_b"><num value="b">(b)</num><content>further extend the period on not more than 2 occasions and for 2 months for
+                    each extension if the Financial Secretary is satisfied that exceptional
+                    circumstances exist in a particular case. <sourceNote>(Added <ref href="/hk/2023/25">25 of 2023 s. 95</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438412908684_004" name="3" temporalId="s11_3"><num value="3">(3)</num><content>The Chief Executive in Council must consider the scheme and any objections
+                lodged under <ref>section 10(1)</ref>, and not withdrawn, within time.</content></subsection><subsection id="ID_1438412908684_012" name="4" temporalId="s11_4"><num value="4">(4)</num><leadIn>The Chief Executive in Council, after considering the scheme and any objections,
+                may—</leadIn><paragraph id="ID_1438412908684_020" name="a" temporalId="s11_4_a"><num value="a">(a)</num><content>authorize the scheme, with or without any changes, and subject to such
+                    conditions to avoid or lessen any adverse effects of the scheme as the Chief
+                    Executive in Council thinks fit; or</content></paragraph><paragraph id="ID_1438412908684_028" name="b" temporalId="s11_4_b"><num value="b">(b)</num><content>decline to authorize the scheme.</content></paragraph></subsection><sourceNote>(Amended <ref href="/hk/1999/62">62 of 1999 s. 3</ref>)</sourceNote></section><section id="ID_1438403311800_001" name="s12" reason="inEffect" startPeriod="2021-06-24" status="operational" temporalId="s12"><num value="12">12.</num><heading>Power to reconsider any scheme</heading><subsection id="ID_1438412908715_011" name="1" temporalId="s12_1"><num value="1">(1)</num><leadIn>The Chief Executive in Council may reconsider any scheme and—</leadIn><paragraph id="ID_1438412908715_019" name="a" temporalId="s12_1_a"><num value="a">(a)</num><content>authorize the scheme which the Chief Executive in Council has previously
+                    declined to authorize; and</content></paragraph><paragraph id="ID_1438412908715_027" name="b" temporalId="s12_1_b"><num value="b">(b)</num><content>remove or amend any modifications or conditions previously
+                    imposed.</content></paragraph></subsection><subsection id="ID_1438412908715_034" name="2" temporalId="s12_2"><num value="2">(2)</num><leadIn>The Chief Executive in Council may, after the expiry of at least 28
+                days’
+                notice on any person affected, amend a scheme already considered and authorize the
+                amended scheme
+                    if—<inline class="width_3"> </inline><sourceNote>(Amended <ref href="hk/2021/er3">E.R. 3 of
+                        2021</ref>)</sourceNote></leadIn><paragraph id="ID_1438412908715_042" name="a" temporalId="s12_2_a"><num value="a">(a)</num><content>in the opinion of the Chief Executive in Council, the changes are minor and
+                    private rights or interests are not affected by the action of the Chief
+                    Executive in Council;</content></paragraph><paragraph id="ID_1438412908715_050" name="b" temporalId="s12_2_b"><num value="b">(b)</num><content>the action of the Chief Executive in Council relates to locations within
+                    the boundaries of the scheme and affects private rights or interests but the
+                    rights or interests are affected to a lesser extent than formerly in the opinion
+                    of the Chief Executive in Council; or</content></paragraph><paragraph id="ID_1438412908730_006" name="c" temporalId="s12_2_c"><num value="c">(c)</num><content>the action of the Chief Executive in Council relates to locations within
+                    the boundaries of the scheme and increases the extent to which private rights
+                    are affected but the increase is minor in the opinion of the Chief Executive in
+                    Council.</content></paragraph></subsection><sourceNote>(Amended <ref href="/hk/1999/62">62 of 1999 s. 3</ref>)</sourceNote></section><section id="ID_1438403311815_001" name="s13" reason="inEffect" startPeriod="2021-06-24" status="operational" temporalId="s13"><num value="13">13.</num><heading>Scope of railway</heading><subsection id="ID_1438412908746_041" name="1" temporalId="s13_1"><num value="1">(1)</num><content>The Secretary may authorize a person to construct the railway only to the
+                extent authorized and subject to any modifications or conditions imposed by the
+                Chief Executive in Council and as set out in the scheme.</content></subsection><subsection id="ID_1438412908762_005" name="2" temporalId="s13_2"><num value="2">(2)</num><leadIn>Where a condition imposed by the Chief Executive in Council requires anything to
+                be done by the Secretary to lessen or avoid the effects of the scheme—</leadIn><paragraph id="ID_1438412908762_013" name="a" temporalId="s13_2_a"><num value="a">(a)</num><content>anything done by the Secretary or authorized by him to be done in
+                    compliance with that condition is a part of the scheme;</content></paragraph><paragraph id="ID_1438412908762_021" name="b" temporalId="s13_2_b"><num value="b">(b)</num><content>the Secretary may enter or authorize any other person to enter any land or
+                    building, after giving at least 28
+                    days’
+                    notice to the owner and the occupier, and do what is required to comply with
+                    that condition;
+                        and<inline class="width_3"> </inline><sourceNote>(Amended <ref href="hk/2021/er3">E.R.
+                            3 of 2021</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438412908762_029" name="c" temporalId="s13_2_c"><num value="c">(c)</num><content>the condition is taken to have been met if the condition is met in respect
+                    of all the persons for whose benefit the condition was imposed other than those
+                    who waive compliance in writing.</content></paragraph></subsection><subsection id="ID_1438412908762_036" name="3" temporalId="s13_3"><num value="3">(3)</num><leadIn>The notice mentioned in subsection <ref>(2)(b)</ref> must—</leadIn><paragraph id="ID_1438412908762_044" name="a" temporalId="s13_3_a"><num value="a">(a)</num><content>describe the purpose of the entry; and</content></paragraph><paragraph id="ID_1438412908762_052" name="b" temporalId="s13_3_b"><num value="b">(b)</num><content>be served on the owner and the occupier.</content></paragraph></subsection><subsection id="ID_1438412908762_059" name="4" temporalId="s13_4"><num value="4">(4)</num><leadIn>Where—</leadIn><paragraph id="ID_1438412908762_067" name="a" temporalId="s13_4_a"><num value="a">(a)</num><content>the Secretary has authorized the scheme; or</content></paragraph><paragraph id="ID_1438412908762_075" name="b" temporalId="s13_4_b"><num value="b">(b)</num><content>the Chief Executive in Council has declined to authorize the scheme;
+                    or</content></paragraph><paragraph id="ID_1438412908762_083" name="c" temporalId="s13_4_c"><num value="c">(c)</num><content>the Chief Executive in Council has authorized the scheme; or</content></paragraph><paragraph id="ID_1438412908777_006" name="d" temporalId="s13_4_d"><num value="d">(d)</num><content>the Chief Executive in Council imposes any modifications or conditions when
+                    authorizing the scheme; or</content></paragraph><paragraph id="ID_1438412908777_014" name="e" temporalId="s13_4_e"><num value="e">(e)</num><content>any modification or condition previously imposed is removed or
+                    varied,</content></paragraph><continued>that fact is to be published in the manner set out in <ref>section
+                6</ref>.</continued></subsection><sourceNote>(Amended <ref href="/hk/1999/62">62 of 1999 s. 3</ref>)</sourceNote></section><section id="ID_1438403311831_001" name="s14" reason="inEffect" startPeriod="2021-06-24" status="operational" temporalId="s14"><num value="14">14.</num><heading>Secretary may exercise powers</heading><text>The Secretary may exercise the powers set out in this Ordinance for the purposes of or
+            incidental to a scheme subject to the terms of the scheme considered by the Chief
+            Executive in Council and to any condition imposed by the Chief Executive in Council, if
+            the Secretary or the Chief Executive in Council has authorized the scheme under this
+            Ordinance.</text><sourceNote>(Amended <ref href="/hk/1999/62">62 of 1999 s. 3</ref>)</sourceNote></section><section id="ID_1438403311831_003" name="s15" reason="inEffect" startPeriod="2023-09-01" status="operational" temporalId="s15"><num value="15">15.</num><heading>Minor works</heading><subsection id="ID_1438412909011_004" name="1" temporalId="s15_1"><num value="1">(1)</num><leadIn>The Secretary may authorize the carrying out of any works, including
+                                works carried on outside the boundaries of the
+                                scheme
+                                referred to in paragraph (b)—
+                                <sourceNote>(Amended <ref href="/hk/2023/25">25 of 2023 s.
+                                        96</ref>)</sourceNote></leadIn><paragraph id="ID_1692157513426_001" name="a" temporalId="s15_1_a"><num value="a">(a)</num><leadIn>that, in the Secretary’s opinion—</leadIn><subparagraph id="ID_1692157513426_002" name="1" temporalId="s15_1_a_1"><num value="1">(i)</num><content>only involve minor physical or structural
+                                                operations; or</content></subparagraph><subparagraph id="ID_1692157513427_003" name="2" temporalId="s15_1_a_2"><num value="2">(ii)</num><content>only create minimal adverse effect on the road
+                                                users and other people in the neighbourhood;
+                                                  <sourceNote>(Replaced <ref href="/hk/2023/25">25
+                                                  of 2023 s. 96</ref>)</sourceNote></content></subparagraph></paragraph><paragraph id="ID_1692157513444_004" name="b" temporalId="s15_1_b"><num value="b">(b)</num><content>that are required for the purposes of a scheme, or required
+                                        for the purposes of a scheme intended to be proposed; and
+                                                <sourceNote>(Replaced <ref href="/hk/2023/25">25 of
+                                                  2023 s. 96</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438412909011_028" name="c" temporalId="s15_1_c"><num value="c">(c)</num><leadIn>for which the only powers required to be exercised by
+                                        the
+                                        Secretary are any one or more of the following—
+                                        <sourceNote>(Amended <ref href="/hk/2023/25">25 of 2023 s.
+                                                  96</ref>)</sourceNote></leadIn><subparagraph id="ID_1438412909011_036" name="i" temporalId="s15_1_c_i"><num value="i">(i)</num><content>to authorize the closure of a road which, in
+                                                the
+                                                Secretary’s opinion, serves no
+                                                useful purpose;
+                                                <sourceNote>(Amended <ref href="/hk/2023/25">25 of
+                                                  2023 s.
+                                                96</ref>)</sourceNote></content></subparagraph><subparagraph id="ID_1438412909011_044" name="ii" temporalId="s15_1_c_ii"><num value="ii">(ii)</num><content>to authorize the closure of a road to use for a
+                                                period not exceeding 14 days in any period of 3
+                                                months;</content></subparagraph><subparagraph id="ID_1438412909011_052" name="iii" temporalId="s15_1_c_iii"><num value="iii">(iii)</num><content>to authorize the closure of part of the width of a
+                                                road to use but not to such extent as will interfere
+                                                unreasonably with the normal flow of traffic on that
+                                                road and for no longer than is reasonably necessary
+                                                to carry out the works.</content></subparagraph></paragraph></subsection><subsection id="ID_1438412909011_058" name="2" temporalId="s15_2"><num value="2">(2)</num><content>The Secretary may, where the exercise of any of the powers
+                                specified in subsection <ref>(1)(c)(i)</ref>, (ii) or (iii) is
+                                required for the carrying out of any works described in subsection
+                                (1), exercise any such powers for the carrying out of the
+                                works.</content></subsection><subsection id="ID_1438412909027_005" name="3" temporalId="s15_3"><num value="3">(3)</num><leadIn>A person does not have a right against Government or any other
+                                person—</leadIn><paragraph id="ID_1438412909027_013" name="a" temporalId="s15_3_a"><num value="a">(a)</num><content>to restrain or compel anything authorized under this
+                                        section; or</content></paragraph><paragraph id="ID_1438412909027_021" name="b" temporalId="s15_3_b"><num value="b">(b)</num><content>to recover any money
+                                        under
+                                        this Ordinance for anything authorized
+                                        under this section.
+                                        <sourceNote>(Amended <ref href="/hk/2023/25">25 of 2023 s.
+                                                  96</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1692157513517_005" name="3A" temporalId="s15_3A"><num value="3A">(3A)</num><content>To avoid doubt, nothing in this Ordinance prevents a person from
+                                recovering any money, under any other Ordinance or any rule of
+                                common law or of equity, for anything authorized under this section.
+                                        <sourceNote>(Added <ref href="/hk/2023/25">25 of 2023 s.
+                                                96</ref>)</sourceNote></content></subsection><subsection id="ID_1438412909027_028" name="4" temporalId="s15_4"><num value="4">(4)</num><def name="Road">In this section,
+                                        <term>road</term>
+                                        (<term xml:lang="zh-Hant-HK">道路</term>) means a public
+                                road.</def></subsection></section><section id="ID_1438403311846_002" name="s16" reason="inEffect" startPeriod="2021-06-24" status="operational" temporalId="s16"><num value="16">16.</num><heading>Chief Executive may order resumption of land</heading><text>The Chief Executive may order that any land proposed to be resumed in a scheme that
+            has been authorized under <ref>section 11</ref> or <ref>12(1)</ref> be resumed for the
+            purposes of or incidental to the scheme.</text><sourceNote>(Amended <ref href="/hk/1999/62">62 of 1999 s. 3</ref>)</sourceNote></section><section id="ID_1438403311862_001" name="s17" reason="inEffect" startPeriod="2021-06-24" status="operational" temporalId="s17"><num value="17">17.</num><heading>Land required for public purpose</heading><content>Land required for the scheme is taken to be required for a public purpose for the purposes of <ref>section 3(1)</ref> of the Land Acquisition (Possessory Title) Ordinance (<ref href="/hk/cap130">Cap. 130</ref>).</content></section><section id="ID_1438403311862_003" name="s18" reason="inEffect" startPeriod="2021-06-24" status="operational" temporalId="s18"><num value="18">18.</num><heading>Resumption order</heading><subsection id="ID_1438412909074_011" name="1" temporalId="s18_1"><num value="1">(1)</num><leadIn>An order made under <ref>section 16</ref> is to specify the period of notice to be given under subsection (2), which period is to—</leadIn><paragraph id="ID_1438412909074_019" name="a" temporalId="s18_1_a"><num value="a">(a)</num><content>run from the day on which notice of the resumption is affixed on or near the land and in no case expire earlier than 28 days from that day; and</content></paragraph><paragraph id="ID_1438412909074_027" name="b" temporalId="s18_1_b"><num value="b">(b)</num><content>prevail over any other period of notice or resumption (whether shorter or longer) provided for by the Government lease or other instrument under which the land is held.</content></paragraph></subsection><subsection id="ID_1438412909089_005" name="2" temporalId="s18_2"><num value="2">(2)</num><leadIn>Unless the Chief Executive has previously revoked the order for resumption, the resumption of the land described in the order is to be effective upon expiration of the period of notice specified in the order and, upon its expiry, that land is to—  <sourceNote>(Amended <ref href="/hk/1999/62">62 of 1999 s. 3</ref>)</sourceNote></leadIn><paragraph id="ID_1438412909089_013" name="a" temporalId="s18_2_a"><num value="a">(a)</num><content>where it is an undivided share in land, vest in The Financial Secretary Incorporated together with such rights to the use and occupation of any building or part of the building as may be appurtenant to the ownership of that share; and</content></paragraph><paragraph id="ID_1438412909089_021" name="b" temporalId="s18_2_b"><num value="b">(b)</num><content>in all other cases, revert to the Government,</content></paragraph><continued>but in either case the land is to vest or revert without any conveyance and free of all mortgages, charges, claims, estates, easements, rights or interests of any kind in favour of any person.</continued></subsection><subsection id="ID_1438412909089_034" name="3" temporalId="s18_3"><num value="3">(3)</num><content>The ownership of any apparatus belonging to an owner or supplier of gas, electricity, water or telecommunications services and situated in, under or over any land is not altered by reason only of the vesting or reversion of that land under subsection (2).<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/2000/36">36 of 2000 s. 28</ref>)</sourceNote></content></subsection><subsection id="ID_1438412909105_005" name="4" temporalId="s18_4"><num value="4">(4)</num><content>The Secretary is required, as soon as practicable after the land has vested in The Financial Secretary Incorporated or reverted to the Government, to cause such vesting or reversion to be noted in the register of the land kept in the Land Registry.</content></subsection><subsection id="ID_1438412909105_013" name="5" temporalId="s18_5"><num value="5">(5)</num><content>Upon vesting of an undivided share in The Financial Secretary Incorporated, the share together with any part of a building the exclusive use and occupation of which is appurtenant to the ownership of the share, is taken to be unleased land for the purposes of <ref>section 6</ref> of the Land (Miscellaneous Provisions) Ordinance (<ref href="/hk/cap28">Cap. 28</ref>).<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1998/29">29 of 1998 s. 100</ref>)</sourceNote></content></subsection></section><section id="ID_1438403311878_002" name="s19" reason="inEffect" startPeriod="2023-09-01" status="operational" temporalId="s19"><num value="19">19.</num><heading>Notices of resumption of land</heading><subsection id="ID_1438412909136_011" name="1" temporalId="s19_1"><num value="1">(1)</num><leadIn>Notice of resumption by order made under this Ordinance is to be—</leadIn><paragraph id="ID_1438412909136_019" name="a" temporalId="s19_1_a"><num value="a">(a)</num><content>served on every person known to the Secretary as having any estate, right,
+                    share or interest in the land mentioned in the order;</content></paragraph><paragraph id="ID_1438412909136_027" name="b" temporalId="s19_1_b"><num value="b">(b)</num><leadIn>published—</leadIn><subparagraph id="ID_1438412909136_035" name="i" temporalId="s19_1_b_i"><num value="i">(i)</num><content>in Chinese and English in one issue of the Gazette;</content></subparagraph><subparagraph id="ID_1692091165787_001" name="1a" temporalId="s19_1_b_1a"><num value="1a">(ia)</num><content>on the website specified by the Secretary; <sourceNote>(Added <ref href="/hk/2023/25">25 of 2023 s. 97</ref>)</sourceNote></content></subparagraph><subparagraph id="ID_1438412909136_043" name="ii" temporalId="s19_1_b_ii"><num value="ii">(ii)</num><content>in one issue of a Chinese language daily newspaper published in Hong
+                        Kong;</content></subparagraph><subparagraph id="ID_1438412909136_051" name="iii" temporalId="s19_1_b_iii"><num value="iii">(iii)</num><content>in one issue of an English language daily newspaper published in Hong
+                        Kong; and</content></subparagraph><subparagraph id="ID_1438412909152_007" name="iv" temporalId="s19_1_b_iv"><num value="iv">(iv)</num><content>by affixing a copy in Chinese and English on or near the land mentioned
+                        in the order; and</content></subparagraph></paragraph><paragraph id="ID_1438412909152_014" name="c" temporalId="s19_1_c"><num value="c">(c)</num><content>made available for inspection by the public free of charge at such offices
+                    of the Government as the Secretary may direct, during normal opening
+                    hours.</content></paragraph></subsection><subsection id="ID_1438412909152_021" name="2" temporalId="s19_2"><num value="2">(2)</num><leadIn>A notice of resumption must—</leadIn><paragraph id="ID_1438412909152_029" name="a" temporalId="s19_2_a"><num value="a">(a)</num><content>describe the land to be resumed and state that an order for resumption has
+                    been made under this Ordinance for the land;</content></paragraph><paragraph id="ID_1438412909152_037" name="b" temporalId="s19_2_b"><num value="b">(b)</num><content>state where and at what times a copy of the order and, where appropriate, a
+                    plan of the land may be inspected;</content></paragraph><paragraph id="ID_1438412909152_045" name="c" temporalId="s19_2_c"><num value="c">(c)</num><content>state the day on which the notice was affixing on or near the
+                    land;</content></paragraph><paragraph id="ID_1438412909152_053" name="d" temporalId="s19_2_d"><num value="d">(d)</num><content>state the period of notice specified by the Chief Executive;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1999/62">62 of
+                            1999 s. 3</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438412909152_061" name="e" temporalId="s19_2_e"><num value="e">(e)</num><content>declare that, on expiry of that period, the land described in the notice
+                    reverts to the Government or vests in The Financial Secretary Incorporated, as
+                    the case may require, for the purposes of or incidental to the scheme;
+                    and</content></paragraph><paragraph id="ID_1438412909152_069" name="f" temporalId="s19_2_f"><num value="f">(f)</num><content>state that any person entitled to compensation under this Ordinance may
+                    serve a written claim upon the Secretary.</content></paragraph></subsection></section><section id="ID_1438403311893_002" name="s20" reason="inEffect" startPeriod="2021-06-24" status="operational" temporalId="s20"><num value="20">20.</num><heading>Chief Executive may order creation of easements and rights</heading><subsection id="ID_1438412909183_065" name="1" temporalId="s20_1"><num value="1">(1)</num><content>The Chief Executive may by order create easements and other permanent rights
+                in, under or over land and rights of temporary occupation of land within the
+                boundaries of the scheme, which easements and rights were proposed in the scheme in
+                favour of the Government for the purposes of or incidental to the railway.
+                    <sourceNote>(Amended <ref href="/hk/1999/62">62 of 1999 s.
+                3</ref>)</sourceNote></content></subsection><subsection id="ID_1438412909198_005" name="2" temporalId="s20_2"><num value="2">(2)</num><content>An order under subsection (1) must specify the period of notice to be given to
+                the owner and occupier of the land over which the rights are created.<inline class="width_3"> </inline>The notice period is to run from the day on which
+                notice of the order creating the easement or right is affixed to the land and in no
+                case to expire earlier than 28 days from that day.</content></subsection><subsection id="ID_1438412909198_013" name="3" temporalId="s20_3"><num value="3">(3)</num><content>An order referred to in subsection (1) may contain such consequential and
+                incidental provisions as appear to the Chief Executive to be necessary or expedient
+                for the purposes of the order including in particular provisions for authorizing
+                persons to enter upon land or building for the purposes of carrying out any
+                operations or installing, maintaining or removing any structures or
+                    apparatus.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1999/62">62 of 1999 s. 3</ref>)</sourceNote></content></subsection><subsection id="ID_1438412909214_005" name="4" temporalId="s20_4"><num value="4">(4)</num><content>Unless the Chief Executive has revoked the order referred to in subsection (1),
+                upon expiry of the notice period, the easement or right is to be created in favour
+                of the Government and the benefits and obligations of that right and all
+                consequential and incidental provisions are to be of full force and effect against
+                all persons having any estate, right, share or interest in the land without any
+                consent, grant or conveyance.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1999/62">62 of 1999 s. 3</ref>)</sourceNote></content></subsection><subsection id="ID_1438412909214_013" name="5" temporalId="s20_5"><num value="5">(5)</num><content>A person is not permitted, in exercise of any power of entry under subsection
+                (3), to enter upon any land which is occupied without giving at least 28
+                days’
+                notice of his intention to do so, unless the Secretary is of the opinion that an
+                emergency exists which necessitates immediate
+                    entry.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="hk/2021/er3">E.R. 3 of
+                        2021</ref>)</sourceNote></content></subsection><subsection id="ID_1438412909230_005" name="6" temporalId="s20_6"><num value="6">(6)</num><content>A notice under subsection (5) must be served on the owner and occupier of the
+                land.</content></subsection><subsection id="ID_1438412909230_013" name="7" temporalId="s20_7"><num value="7">(7)</num><content>The ownership of any thing is not to be altered by reason only that it is
+                placed on or affixed to any land in exercise of the rights and powers arising from
+                or incidental to an easement or right created under subsection (1).</content></subsection><subsection id="ID_1438412909230_021" name="8" temporalId="s20_8"><num value="8">(8)</num><content>The Secretary is required, as soon as practicable after an easement or other
+                permanent right has been created in favour of the Government, to cause the creation
+                of such easement or right to be noted in the register of the land kept in the Land
+                Registry.</content></subsection></section><section id="ID_1438403311909_001" name="s21" reason="inEffect" startPeriod="2023-09-01" status="operational" temporalId="s21"><num value="21">21.</num><heading>Notices of creation of easements or other rights</heading><subsection id="ID_1438412909261_035" name="1" temporalId="s21_1"><num value="1">(1)</num><leadIn>Notice of creation of an easement or right is to be—</leadIn><paragraph id="ID_1438412909261_043" name="a" temporalId="s21_1_a"><num value="a">(a)</num><content>served on every person known to the Secretary as having any estate, right,
+                    share or interest in the land mentioned in the order;</content></paragraph><paragraph id="ID_1438412909261_051" name="b" temporalId="s21_1_b"><num value="b">(b)</num><leadIn>published—</leadIn><subparagraph id="ID_1438412909261_059" name="i" temporalId="s21_1_b_i"><num value="i">(i)</num><content>in Chinese and English in one issue of the Gazette;</content></subparagraph><subparagraph id="ID_1692091167047_001" name="1a" temporalId="s21_1_b_1a"><num value="1a">(ia)</num><content>on the website specified by the Secretary; <sourceNote>(Added <ref href="/hk/2023/25">25 of 2023 s. 98</ref>)</sourceNote></content></subparagraph><subparagraph id="ID_1438412909276_007" name="ii" temporalId="s21_1_b_ii"><num value="ii">(ii)</num><content>in one issue of a Chinese language daily newspaper published in Hong
+                        Kong;</content></subparagraph><subparagraph id="ID_1438412909276_015" name="iii" temporalId="s21_1_b_iii"><num value="iii">(iii)</num><content>in one issue of an English language daily newspaper published in Hong
+                        Kong; and</content></subparagraph><subparagraph id="ID_1438412909276_023" name="iv" temporalId="s21_1_b_iv"><num value="iv">(iv)</num><content>by affixing a copy in Chinese and English on or near the land mentioned
+                        in the order; and</content></subparagraph></paragraph><paragraph id="ID_1438412909276_030" name="c" temporalId="s21_1_c"><num value="c">(c)</num><content>made available for inspection by the public free of charge at such offices
+                    of the Government as the Secretary may direct, during normal opening
+                    hours.</content></paragraph></subsection><subsection id="ID_1438412909276_037" name="2" temporalId="s21_2"><num value="2">(2)</num><leadIn>A notice of creation of an easement or right is to—</leadIn><paragraph id="ID_1438412909276_045" name="a" temporalId="s21_2_a"><num value="a">(a)</num><content>describe the land and the easement or right and state that an order
+                    creating the easement or right has been made under this Ordinance;</content></paragraph><paragraph id="ID_1438412909276_053" name="b" temporalId="s21_2_b"><num value="b">(b)</num><content>state where and at what times a copy of the order and, where appropriate, a
+                    plan of the land may be inspected;</content></paragraph><paragraph id="ID_1438412909276_061" name="c" temporalId="s21_2_c"><num value="c">(c)</num><content>state the day on which the notice was affixed on or near the
+                    land;</content></paragraph><paragraph id="ID_1438412909276_069" name="d" temporalId="s21_2_d"><num value="d">(d)</num><content>state the period of notice specified by the Chief Executive;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1999/62">62 of
+                            1999 s. 3</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438412909276_077" name="e" temporalId="s21_2_e"><num value="e">(e)</num><content>declare that, on expiry of that period, the easement or right described in
+                    the notice is created in favour of the Government for the purposes of or
+                    incidental to the scheme; and</content></paragraph><paragraph id="ID_1438412909292_006" name="f" temporalId="s21_2_f"><num value="f">(f)</num><content>state that any person entitled to compensation under this Ordinance may
+                    serve a written claim upon the Secretary.</content></paragraph></subsection></section><section id="ID_1438403311909_003" name="s22" reason="inEffect" startPeriod="2021-06-24" status="operational" temporalId="s22"><num value="22">22.</num><heading>Closure of roads, etc.</heading><subsection id="ID_1438412909308_066" name="1" temporalId="s22_1"><num value="1">(1)</num><leadIn>The Secretary may, for the purposes of or incidental to the scheme, in relation to any road, Government foreshore or sea-bed described in the scheme, by order—</leadIn><paragraph id="ID_1438412909323_005" name="a" temporalId="s22_1_a"><num value="a">(a)</num><content>authorize the closure or substantial alteration of the road or part of it either permanently or temporarily;</content></paragraph><paragraph id="ID_1438412909323_013" name="b" temporalId="s22_1_b"><num value="b">(b)</num><content>authorize the reclamation of or other works over or upon the Government foreshore or sea-bed;</content></paragraph><paragraph id="ID_1438412909323_021" name="c" temporalId="s22_1_c"><num value="c">(c)</num><content>declare that, or the extent to which, and the time at, or duration for which, any public or private right in, upon, under or over the road, Government foreshore or sea-bed is extinguished, modified or restricted.</content></paragraph></subsection><subsection id="ID_1438412909323_028" name="2" temporalId="s22_2"><num value="2">(2)</num><content>An order under subsection (1) extinguishes, modifies or restricts the public and private rights in, upon, under or over the road, Government foreshore or sea-bed according to the provisions of the order.</content></subsection><subsection id="ID_1438412909323_036" name="3" temporalId="s22_3"><num value="3">(3)</num><content>This section does not affect the provisions of the Road Traffic Ordinance (<ref href="/hk/cap374">Cap. 374</ref>) in relation to the closure of roads.</content></subsection></section><section id="ID_1438403311924_002" name="s23" reason="inEffect" startPeriod="2023-09-01" status="operational" temporalId="s23"><num value="23">23.</num><heading>Notices of orders for closure of roads, etc.</heading><subsection id="ID_1438412909339_050" name="1" temporalId="s23_1"><num value="1">(1)</num><leadIn>Notice of an order under <ref>section 22(1)</ref> in respect of any road, foreshore or sea-bed must be—</leadIn><paragraph id="ID_1438412909354_005" name="a" temporalId="s23_1_a"><num value="a">(a)</num><content>served on every person known to the Secretary as having any estate, right, share or interest in the land mentioned in the order;</content></paragraph><paragraph id="ID_1438412909354_013" name="b" temporalId="s23_1_b"><num value="b">(b)</num><leadIn>published—</leadIn><subparagraph id="ID_1438412909354_021" name="i" temporalId="s23_1_b_i"><num value="i">(i)</num><content>in Chinese and English in one issue of the Gazette;</content></subparagraph><subparagraph id="ID_1692091168456_001" name="1a" temporalId="s23_1_b_1a"><num value="1a">(ia)</num><content>on the website specified by the Secretary; <sourceNote>(Added <ref href="/hk/2023/25">25 of 2023 s. 99</ref>)</sourceNote></content></subparagraph><subparagraph id="ID_1438412909354_029" name="ii" temporalId="s23_1_b_ii"><num value="ii">(ii)</num><content>in one issue of a Chinese language daily newspaper published in Hong
+                        Kong;</content></subparagraph><subparagraph id="ID_1438412909354_037" name="iii" temporalId="s23_1_b_iii"><num value="iii">(iii)</num><content>in one issue of an English language daily newspaper published in Hong
+                        Kong; and</content></subparagraph><subparagraph id="ID_1438412909354_045" name="iv" temporalId="s23_1_b_iv"><num value="iv">(iv)</num><content>by affixing a copy in Chinese and English on or near the land mentioned
+                        in the order; and</content></subparagraph></paragraph><paragraph id="ID_1438412909354_052" name="c" temporalId="s23_1_c"><num value="c">(c)</num><content>made available for inspection by the public free of charge at such offices of the Government as the Secretary may direct, during normal opening hours.</content></paragraph></subsection><subsection id="ID_1438412909354_059" name="2" temporalId="s23_2"><num value="2">(2)</num><leadIn>The notice must—</leadIn><paragraph id="ID_1438412909354_067" name="a" temporalId="s23_2_a"><num value="a">(a)</num><content>state that an order under <ref>section 22(1)</ref> has been made under this Ordinance and describe the area of the road, foreshore or sea-bed affected thereby and the manner in which it will be affected;</content></paragraph><paragraph id="ID_1438412909354_075" name="b" temporalId="s23_2_b"><num value="b">(b)</num><content>describe briefly any works to be carried out;</content></paragraph><paragraph id="ID_1438412909354_083" name="c" temporalId="s23_2_c"><num value="c">(c)</num><content>state where and at what times a copy of the order and a plan of the affected area of the road, foreshore and sea-bed may be inspected;</content></paragraph><paragraph id="ID_1438412909370_006" name="d" temporalId="s23_2_d"><num value="d">(d)</num><content>state the day on which the notice was affixed on or near the land; and</content></paragraph><paragraph id="ID_1438412909370_014" name="e" temporalId="s23_2_e"><num value="e">(e)</num><content>state that any person having a compensatable interest under this Ordinance may serve a written claim upon the Secretary.</content></paragraph></subsection></section><section id="ID_1438403311924_004" name="s24" reason="inEffect" startPeriod="2021-06-24" status="operational" temporalId="s24"><num value="24">24.</num><heading>Inspection and preventive and remedial work on land and buildings</heading><subsection id="ID_1438412909386_082" name="1" temporalId="s24_1"><num value="1">(1)</num><leadIn>The Secretary or a person authorized by him may, failing agreement with any person affected as to the grant of the powers required by the Secretary, enter any land or building situated wholly or partly within the boundaries of the scheme or wholly or partly within 70 metres of the boundaries of the scheme to—</leadIn><paragraph id="ID_1438412909401_005" name="a" temporalId="s24_1_a"><num value="a">(a)</num><content>inspect, value, investigate the site or test, including drilling, excavating and installing or removing instruments;</content></paragraph><paragraph id="ID_1438412909401_013" name="b" temporalId="s24_1_b"><num value="b">(b)</num><content>survey or take levels; and</content></paragraph><paragraph id="ID_1438412909401_021" name="c" temporalId="s24_1_c"><num value="c">(c)</num><content>set out any line of works,</content></paragraph><continued>for the scheme, an assessment of the value of any land, building or other property or to ascertain the condition of the land or building.</continued></subsection><subsection id="ID_1438412909401_034" name="2" temporalId="s24_2"><num value="2">(2)</num><content>The Secretary or any person authorized by him may enter any such land or building and carry out, at the cost of the Government, all reasonably necessary operations of a preventive or remedial nature.</content></subsection><subsection id="ID_1438412909401_042" name="3" temporalId="s24_3"><num value="3">(3)</num><content>A person must not, for the purposes of subsection (1), enter any land or
+                building which is occupied without giving at least 28
+                days’
+                notice of his intention to do so, unless the Secretary is of the opinion that an
+                emergency exists which necessitates immediate
+                    entry.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="hk/2021/er3">E.R. 3 of
+                        2021</ref>)</sourceNote></content></subsection><subsection id="ID_1438412909417_002" name="4" temporalId="s24_4"><num value="4">(4)</num><leadIn>A notice of entry under subsection (3) must—</leadIn><paragraph id="ID_1438412909417_010" name="a" temporalId="s24_4_a"><num value="a">(a)</num><content>describe the purpose of the entry and the nature of any operations to be carried out; and</content></paragraph><paragraph id="ID_1438412909417_018" name="b" temporalId="s24_4_b"><num value="b">(b)</num><content>be served on the owner and the occupier of the land or building.</content></paragraph></subsection><subsection id="ID_1438412909417_025" name="5" temporalId="s24_5"><num value="5">(5)</num><content>The decision of the Secretary that any operations are of a preventive or remedial nature or that the operations are reasonably necessary is final.</content></subsection><subsection id="ID_1438412909417_033" name="6" temporalId="s24_6"><num value="6">(6)</num><content>The Secretary or any person authorized by him may enter, as occasion may require, any land or building over which any powers under subsection (1) have been exercised and, in relation to that land or building, exercise the powers, subject to notice being given, as often as occasion may require.</content></subsection></section><section id="ID_1438403311940_002" name="s25" reason="inEffect" startPeriod="2021-06-24" status="operational" temporalId="s25"><num value="25">25.</num><heading>Utility services</heading><subsection id="ID_1438412909448_004" name="1" temporalId="s25_1"><num value="1">(1)</num><content>The Secretary may give notice to the owner of any gas, electricity, water or telecommunications service apparatus situated on any unleased Government land requiring him, at his own expense (subject to any contract between that owner and the Government) to alter the course or position of any wire, line, cable, pipe, tube, casing, duct, post or other apparatus which belongs to or is maintained by that owner and to repair any road surface disturbed by the action if, in the opinion of the Secretary, the alteration and repair is required for the purposes of the scheme.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/2000/36">36 of 2000 s. 28</ref>)</sourceNote></content></subsection><subsection id="ID_1438412909464_005" name="2" temporalId="s25_2"><num value="2">(2)</num><leadIn>A notice referred to in subsection (1) must—</leadIn><paragraph id="ID_1438412909464_013" name="a" temporalId="s25_2_a"><num value="a">(a)</num><content>specify the nature of the apparatus to which the notice applies and set out the Secretary’s requirements as to the alteration of its course or position and the repair of any road surface;</content></paragraph><paragraph id="ID_1438412909464_021" name="b" temporalId="s25_2_b"><num value="b">(b)</num><content>stipulate the period within which such work will be carried out; and</content></paragraph><paragraph id="ID_1438412909464_029" name="c" temporalId="s25_2_c"><num value="c">(c)</num><content>be served upon the owner not later than 28 days before the commencement of that period.</content></paragraph></subsection><subsection id="ID_1438412909464_036" name="3" temporalId="s25_3"><num value="3">(3)</num><content>The period mentioned in subsection <ref>(2)(b)</ref> must be a period which is reasonably necessary for the carrying out of the Secretary’s requirements as mentioned in subsection <ref>(2)(a)</ref> and, before stipulating a period, the Secretary must consult the owner of the apparatus to which the notice applies.</content></subsection><subsection id="ID_1438412909479_005" name="4" temporalId="s25_4"><num value="4">(4)</num><content>If the owner does not comply with the notice, the Secretary may carry out the operations mentioned in the notice and, subject to any contract between the owner and the Government, recover the cost from the person to whom the notice was given.</content></subsection></section><section id="ID_1438403311956_002" name="s26" reason="inEffect" startPeriod="2021-06-24" status="operational" temporalId="s26"><num value="26">26.</num><heading>Removal of projections or obstructions</heading><subsection id="ID_1438412909495_058" name="1" temporalId="s26_1"><num value="1">(1)</num><content>The Secretary may give notice to the owner of any land or building requiring the owner to remove any object or structure described in the notice which is attached to or projects from the land or building if, in the opinion of the Secretary, the removal of the object or structure is necessary for the purposes of or incidental to the scheme.</content></subsection><subsection id="ID_1438412909510_005" name="2" temporalId="s26_2"><num value="2">(2)</num><content>A copy of the notice referred to in subsection (1) must be given to any occupier of the land or building known to the Secretary.</content></subsection><subsection id="ID_1438412909510_013" name="3" temporalId="s26_3"><num value="3">(3)</num><leadIn>A notice referred to in subsection (1) must—</leadIn><paragraph id="ID_1438412909510_021" name="a" temporalId="s26_3_a"><num value="a">(a)</num><content>describe the object or structure to be removed;</content></paragraph><paragraph id="ID_1438412909510_029" name="b" temporalId="s26_3_b"><num value="b">(b)</num><content>stipulate the period within which the work of removal is to be carried out;</content></paragraph><paragraph id="ID_1438412909510_037" name="c" temporalId="s26_3_c"><num value="c">(c)</num><content>be given to the owner and occupier of the land or building not later than 28 days before the commencement of that period; and</content></paragraph><paragraph id="ID_1438412909510_045" name="d" temporalId="s26_3_d"><num value="d">(d)</num><content>state that any person having a compensatable interest under this Ordinance may serve a written claim upon the Secretary.</content></paragraph></subsection><subsection id="ID_1438412909510_052" name="4" temporalId="s26_4"><num value="4">(4)</num><content>If the owner of the land or building does not comply with a notice referred to in subsection (1), the Secretary or any public officer authorized by him for the purpose may enter the land or building, together with such other person as he thinks necessary, and remove the object or structure described in the notice or cause it to be removed by those other persons at the expense of the Government.</content></subsection><subsection id="ID_1438412909526_005" name="5" temporalId="s26_5"><num value="5">(5)</num><content>The Secretary may dispose of any object or structure removed under this section as he thinks fit, whether or not it was erected or maintained in contravention of any Ordinance or Government lease or other instrument under which the land is held.</content></subsection></section><section id="ID_1438403311971_001" name="s27" reason="inEffect" startPeriod="2021-06-24" status="operational" temporalId="s27"><num value="27">27.</num><heading>Control of building plans and commencement of work</heading><subsection id="ID_1438412909557_011" name="1" temporalId="s27_1"><num value="1">(1)</num><leadIn>The Building Authority may do the following, notwithstanding the Buildings
+                Ordinance (<ref href="/hk/cap123">Cap. 123</ref>), to the extent necessary to avoid
+                any incompatibility where he is of the opinion that building works, or the
+                commencement of building works, on land described in the scheme including building
+                works outside the boundaries of the scheme would be incompatible with the scheme or
+                the operation or maintenance of the railway—</leadIn><paragraph id="ID_1438412909557_019" name="a" temporalId="s27_1_a"><num value="a">(a)</num><content>refuse to give his approval to any plan or to consent to the commencement
+                    of the building works;</content></paragraph><paragraph id="ID_1438412909557_027" name="b" temporalId="s27_1_b"><num value="b">(b)</num><content>if there is no subsisting consent to the commencement of the building
+                    works, withdraw any approval which he has or is deemed to have given to any
+                    plan;</content></paragraph><paragraph id="ID_1438412909573_006" name="c" temporalId="s27_1_c"><num value="c">(c)</num><content>require the amendment of any plan relating to the building works;</content></paragraph><paragraph id="ID_1438412909573_014" name="d" temporalId="s27_1_d"><num value="d">(d)</num><content>impose conditions, whether as to time or otherwise, on the giving of
+                    approval to plans relating to the building works or consent to commence the
+                    works; and</content></paragraph><paragraph id="ID_1438412909573_022" name="e" temporalId="s27_1_e"><num value="e">(e)</num><content>withdraw an approval which he has given or is deemed to have given or a
+                    consent to the commencement of the building works.</content></paragraph></subsection><subsection id="ID_1438412909573_029" name="2" temporalId="s27_2"><num value="2">(2)</num><leadIn>The carrying out of any building works—</leadIn><paragraph id="ID_1438412909573_037" name="a" temporalId="s27_2_a"><num value="a">(a)</num><content>contrary to any refusal referred to in subsection <ref>(1)(a)</ref> or
+                    following withdrawal of approval or consent referred to in subsection
+                        <ref>(1)(b)</ref> or (e); or</content></paragraph><paragraph id="ID_1438412909573_045" name="b" temporalId="s27_2_b"><num value="b">(b)</num><content>otherwise than in accordance with any plan amended as referred to in
+                    subsection <ref>(1)(c)</ref> or condition imposed as referred to in subsection
+                        <ref>(1)(d)</ref>,</content></paragraph><continued>for the purposes of <ref>sections 23</ref> and <ref>24</ref> of the Buildings
+                Ordinance (<ref href="/hk/cap123">Cap. 123</ref>) is deemed to be a contravention of
+                that Ordinance.</continued></subsection><subsection id="ID_1438412909573_058" name="3" temporalId="s27_3"><num value="3">(3)</num><content>The powers of the Building Authority under subsection (1) arise as soon as a
+                scheme or an amendment to a scheme has been deposited under <ref>section
+                6</ref>.</content></subsection><subsection id="ID_1438412909588_005" name="4" temporalId="s27_4"><num value="4">(4)</num><leadIn>As soon as reasonably practicable after the Chief Executive in Council has
+                authorized the scheme under this Ordinance, the Building Authority
+                    must—  <sourceNote>(Amended <ref href="/hk/1999/62">62 of 1999 s.
+                    3</ref>)</sourceNote></leadIn><paragraph id="ID_1438412909588_013" name="a" temporalId="s27_4_a"><num value="a">(a)</num><content>review any action required under subsection (1);</content></paragraph><paragraph id="ID_1438412909588_021" name="b" temporalId="s27_4_b"><num value="b">(b)</num><content>vary such action so that it is consistent with the authorization.</content></paragraph></subsection><subsection id="ID_1438412909588_028" name="5" temporalId="s27_5"><num value="5">(5)</num><content>The Building Authority, when acting under subsection (1), must advise the
+                person who intends to carry out the building works on land described in the scheme
+                the particulars of which he is of the opinion that the building works would be
+                incompatible with the scheme.</content></subsection><subsection id="ID_1438412909588_036" name="6" temporalId="s27_6"><num value="6">(6)</num><leadIn>The owner of land specified in subsection (5) may, by notice in writing to the
+                Secretary, require that the land be resumed under this Ordinance where—</leadIn><paragraph id="ID_1438412909588_044" name="a" temporalId="s27_6_a"><num value="a">(a)</num><content>the Building Authority refuses to give his approval to any plan or to
+                    consent to the commencement of any building works or withdraws any approval or
+                    consent under subsection <ref>(1)(a)</ref>, (b) or (e); and</content></paragraph><paragraph id="ID_1438412909588_052" name="b" temporalId="s27_6_b"><num value="b">(b)</num><content>the Building Authority maintains a refusal or withdrawal after reviewing
+                    his action; and</content></paragraph><paragraph id="ID_1438412909588_060" name="c" temporalId="s27_6_c"><num value="c">(c)</num><content>the Building Authority advises that any building works on the land
+                    specified by him would be incompatible with the scheme; and</content></paragraph><paragraph id="ID_1438412909604_007" name="d" temporalId="s27_6_d"><num value="d">(d)</num><content>the building works and any related plan are consistent with the Government
+                    lease or other instrument under which the land is held and with any law or
+                    requirement made under any law.</content></paragraph></subsection><subsection id="ID_1438412909604_014" name="7" temporalId="s27_7"><num value="7">(7)</num><leadIn>The owner of land specified in subsection (5) may, by notice in writing to the
+                Secretary, require that the land be resumed under this Ordinance where—</leadIn><paragraph id="ID_1438412909604_022" name="a" temporalId="s27_7_a"><num value="a">(a)</num><content>the Building Authority imposes a condition delaying building works as
+                    described in subsection <ref>(1)(d)</ref>; and</content></paragraph><paragraph id="ID_1438412909604_030" name="b" temporalId="s27_7_b"><num value="b">(b)</num><content>the Building Authority maintains that condition after reviewing his action;
+                    and</content></paragraph><paragraph id="ID_1438412909604_038" name="c" temporalId="s27_7_c"><num value="c">(c)</num><content>the Building Authority advises that, for the time being, building works on
+                    the land specified by him would be incompatible with the scheme; and</content></paragraph><paragraph id="ID_1438412909604_046" name="d" temporalId="s27_7_d"><num value="d">(d)</num><content>the Building Authority does not, on application in writing made not less
+                    than 2 years after imposition of that condition, grant approval and consent to
+                    commence the building works to allow them to commence within 12 months;
+                    and</content></paragraph><paragraph id="ID_1438412909604_054" name="e" temporalId="s27_7_e"><num value="e">(e)</num><content>the building works and any related plan are consistent with the Government
+                    lease or other instrument under which the land is held and with any law or
+                    requirement made under any law.</content></paragraph></subsection><subsection id="ID_1438412909620_005" name="8" temporalId="s27_8"><num value="8">(8)</num><content>Where the owner gives notice as described in subsection (6) or (7), the Chief
+                Executive is required, unless the notice is withdrawn, to order the resumption of
+                the land mentioned in subsection <ref>(6)(c)</ref> or <ref>(7)(c)</ref> not more
+                than 28 days after receipt of the notice by the Secretary. The period of notice
+                specified in the order for resumption of the land is not to be longer than 28
+                    days.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1999/62">62 of 1999 s. 3</ref>)</sourceNote></content></subsection><subsection id="ID_1438412909620_013" name="9" temporalId="s27_9"><num value="9">(9)</num><leadIn>A person with a compensatable interest in land specified in subsection (5) may
+                apply to the Chief Executive in Council for an order that the land be resumed under
+                this Ordinance and the Chief Executive in Council may, if he thinks it just and
+                equitable to do so, order the resumption where—  <sourceNote>(Amended <ref href="/hk/1999/62">62 of 1999 s. 3</ref>)</sourceNote></leadIn><paragraph id="ID_1438412909620_021" name="a" temporalId="s27_9_a"><num value="a">(a)</num><content>the Building Authority imposes a condition delaying building works as
+                    described in subsection <ref>(1)(d)</ref>; and</content></paragraph><paragraph id="ID_1438412909635_006" name="b" temporalId="s27_9_b"><num value="b">(b)</num><content>the Building Authority maintains that condition after reviewing his action;
+                    and</content></paragraph><paragraph id="ID_1438412909635_014" name="c" temporalId="s27_9_c"><num value="c">(c)</num><content>the Building Authority advises that, for any period specified by him,
+                    building works on the land specified by him would be incompatible with the
+                    scheme; and</content></paragraph><paragraph id="ID_1438412909635_022" name="d" temporalId="s27_9_d"><num value="d">(d)</num><content>the building works and any related plan are consistent with the Government
+                    lease or other instrument under which the land is held and with any law or
+                    requirement made under any law.</content></paragraph></subsection><subsection id="ID_1438412909635_029" name="10" temporalId="s27_10"><num value="10">(10)</num><content>Where the Chief Executive in Council makes an order under subsection (9), the
+                Chief Executive is required to order the resumption of the land specified in
+                subsection <ref>(9)(c)</ref> not more than 28 days after the order was made. The
+                period of notice specified in the order for resumption of the land is not to be
+                longer than 28 days.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1999/62">62 of 1999 s. 3</ref>)</sourceNote></content></subsection></section><section id="ID_1438403311971_003" name="s28" reason="inEffect" startPeriod="2023-09-01" status="operational" temporalId="s28"><num value="28">28.</num><heading>Resumption of land on application</heading><subsection id="ID_1438412909698_019" name="1" temporalId="s28_1"><num value="1">(1)</num><leadIn>The Chief Executive may, on the application of any person having a compensatable
+                interest in land that is contiguous or adjacent to land that is resumed
+                (other than on
+                application under this section) (<b><i>resumed land</i></b>), any
+                road that is closed or any private right that is extinguished, modified or
+                restricted, order the resumption of that contiguous or adjacent land, whether or not
+                that land is within the boundaries of the scheme, if the Chief Executive is of the
+                opinion that—
+                <sourceNote>(Amended <ref href="/hk/2023/25">25 of 2023 s.
+                100</ref>)</sourceNote></leadIn><paragraph id="ID_1438412909713_005" name="a" temporalId="s28_1_a"><num value="a">(a)</num><content>the
+                    resumed land, road or right is reasonably necessary to the use
+                    and enjoyment of any contiguous or adjacent land; and
+                    <sourceNote>(Amended <ref href="/hk/2023/25">25 of 2023 s.
+                        100</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438412909713_013" name="b" temporalId="s28_1_b"><num value="b">(b)</num><content>it would be just and equitable to make an order for that contiguous or
+                    adjacent land to be resumed.</content></paragraph></subsection><subsection id="ID_1692169361297_001" name="1A" temporalId="s28_1A"><num value="1A">(1A)</num><leadIn>The application must be made before the expiry of—</leadIn><paragraph id="ID_1692169361298_002" name="a" temporalId="s28_1A_a"><num value="a">(a)</num><leadIn>a period of 1 year from—</leadIn><subparagraph id="ID_1692169361299_003" name="1" temporalId="s28_1A_a_1"><num value="1">(i)</num><content>the date of the resumption of the resumed land; or</content></subparagraph><subparagraph id="ID_1692169361299_004" name="2" temporalId="s28_1A_a_2"><num value="2">(ii)</num><content>the date on which the road is closed or the private right is
+                        extinguished, modified or restricted; or</content></subparagraph></paragraph><paragraph id="ID_1692169361300_005" name="b" temporalId="s28_1A_b"><num value="b">(b)</num><content>a further period allowed by the Chief Executive in a particular case.
+                        <sourceNote>(Added <ref href="/hk/2023/25">25 of 2023 s.
+                        100</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438412909713_020" name="2" temporalId="s28_2"><num value="2">(2)</num><content>A person aggrieved by a decision of the Chief Executive not to order resumption
+                under subsection (1) may apply to the Lands Tribunal to review the
+                decision.</content></subsection><subsection id="ID_1438412909713_028" name="3" temporalId="s28_3"><num value="3">(3)</num><content>On an application under subsection (2), the Lands Tribunal may, if it is
+                satisfied as to the facts mentioned in subsection (1), order the resumption of the
+                land, whether or not that land is within the boundaries of the scheme and
+                compensation for the resumption is to be assessed under this Ordinance.</content></subsection><sourceNote>(Amended <ref href="/hk/1999/62">62 of 1999 s.
+            3</ref>)</sourceNote></section><section id="ID_1438403311987_002" name="s29" reason="inEffect" startPeriod="2021-06-24" status="operational" temporalId="s29"><num value="29">29.</num><heading>Obstruction</heading><content>A person who wilfully obstructs a person lawfully exercising a power, duty or function arising under this Ordinance is guilty of an offence and is liable on conviction to a fine at level 5 and imprisonment for 1 year.</content></section></part><part id="ID_1438403312002_001" name="P3" reason="inEffect" startPeriod="2021-06-24" status="operational" temporalId="P3"><num value="3">Part
+            III</num><heading>Rights
+            to
+            Compensation
+            and
+            Claims
+            Procedure</heading><section id="ID_1438403312002_003" name="s30" reason="inEffect" startPeriod="2021-06-24" status="operational" temporalId="s30"><num value="30">30.</num><heading>No right to compel or restrain</heading><content>A person does not have any right against the Government or any other person to restrain or compel anything authorized under this Ordinance.</content></section><section id="ID_1438403312018_001" name="s31" reason="inEffect" startPeriod="2021-06-24" status="operational" temporalId="s31"><num value="31">31.</num><heading>No recovery of money except under this Ordinance</heading><leadIn>Except to the extent of the rights to compensation under <ref>section 32</ref>, a person does not have any right against the Government or any other person to recover money—</leadIn><paragraph id="ID_1438412909791_012" name="a" temporalId="s31_a"><num value="a">(a)</num><content>for any use authorized under this Ordinance; or</content></paragraph><paragraph id="ID_1438412909791_020" name="b" temporalId="s31_b"><num value="b">(b)</num><content>for any works or anything else authorized under this Ordinance.</content></paragraph></section><section id="ID_1438403312018_003" name="s32" reason="inEffect" startPeriod="2021-06-24" status="operational" temporalId="s32"><num value="32">32.</num><heading>Compensation</heading><subsection id="ID_1438412909807_011" name="1" temporalId="s32_1"><num value="1">(1)</num><leadIn>The right to compensation referred to in <ref>section 31</ref> is the right to
+                recover from the Government for the matters set out in column 1 of Part II of the
+                    <ref>Schedule</ref> a sum assessed on the basis specified in column 2 and with
+                regard to Part I of the <ref>Schedule</ref>, subject to—</leadIn><paragraph id="ID_1438412909807_019" name="a" temporalId="s32_1_a"><num value="a">(a)</num><content>the claim being served on the Secretary within the period specified in
+                    column 4 of Part II of the <ref>Schedule</ref>; and</content></paragraph><paragraph id="ID_1438412909807_027" name="b" temporalId="s32_1_b"><num value="b">(b)</num><content>the other provisions of this Ordinance.</content></paragraph></subsection><subsection id="ID_1438412909807_034" name="2" temporalId="s32_2"><num value="2">(2)</num><content>A person described in column 3 of Part II of the <ref>Schedule</ref> has the
+                right to recover compensation for the matters set out in column 1 to the extent
+                suffered or incurred by him as assessed under this Ordinance.</content></subsection><subsection id="ID_1438412909807_042" name="3" temporalId="s32_3"><num value="3">(3)</num><content>The rights to compensation mentioned in the <ref>Schedule</ref> exist in
+                addition to any benefit accruing to a claimant as a result of the implementation of
+                any conditions imposed by the Chief Executive in Council under <ref>section
+                    11(4)</ref>.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1999/62">62 of 1999 s. 3</ref>)</sourceNote></content></subsection></section><section id="ID_1438403312034_001" name="s33" reason="inEffect" startPeriod="2021-06-24" status="operational" temporalId="s33"><num value="33">33.</num><heading>Claims out of time</heading><subsection id="ID_1438412909838_004" name="1" temporalId="s33_1"><num value="1">(1)</num><content>Subject to subsections (2) and (5), if a claim or an amendment to a claim is not served on the Secretary before the expiry of the period specified in column 4 of Part II of the <ref>Schedule</ref> for that matter, the right to claim compensation is barred.</content></subsection><subsection id="ID_1438412909838_012" name="2" temporalId="s33_2"><num value="2">(2)</num><leadIn>The Lands Tribunal may extend the period referred to in subsection (1) on application made to it either before or after the expiry of the period if it considers that the delay in serving the claim occurred—</leadIn><paragraph id="ID_1438412909838_020" name="a" temporalId="s33_2_a"><num value="a">(a)</num><content>by mistake of fact;</content></paragraph><paragraph id="ID_1438412909838_028" name="b" temporalId="s33_2_b"><num value="b">(b)</num><content>by mistake of any matter of law (other than the relevant provision in column 4 of Part II of the <ref>Schedule</ref>); or</content></paragraph><paragraph id="ID_1438412909838_036" name="c" temporalId="s33_2_c"><num value="c">(c)</num><content>by any other reasonable cause.</content></paragraph></subsection><subsection id="ID_1438412909838_043" name="3" temporalId="s33_3"><num value="3">(3)</num><content>The applicant must give notice of an application under subsection (2) to the Secretary.</content></subsection><subsection id="ID_1438412909854_005" name="4" temporalId="s33_4"><num value="4">(4)</num><content>An extension may be granted by the Lands Tribunal under subsection (2), with or without conditions for such period as it thinks fit but not in any case exceeding 6 years from the time when the right to compensation first arose.</content></subsection><subsection id="ID_1438412909854_013" name="5" temporalId="s33_5"><num value="5">(5)</num><leadIn>The Secretary may, if he is satisfied—</leadIn><paragraph id="ID_1438412909854_021" name="a" temporalId="s33_5_a"><num value="a">(a)</num><content>the claimant has not had actual notice of an order; or</content></paragraph><paragraph id="ID_1438412909854_029" name="b" temporalId="s33_5_b"><num value="b">(b)</num><content>circumstances exist that the Secretary considers reasonable,</content></paragraph><continued>accept service of a claim after the period specified in column 4 of Part II of the <ref>Schedule</ref>, and if he does so, the claim is deemed to have been served within that period.</continued></subsection></section><section id="ID_1438403312034_003" name="s34" reason="inEffect" startPeriod="2021-06-24" status="operational" temporalId="s34"><num value="34">34.</num><heading>Claims procedure</heading><subsection id="ID_1438412909885_004" name="1" temporalId="s34_1"><num value="1">(1)</num><leadIn>A person who claims to be entitled to compensation under this Ordinance must serve on the Secretary a written claim setting out such of the following particulars as are applicable to his claim—</leadIn><paragraph id="ID_1438412909885_012" name="a" temporalId="s34_1_a"><num value="a">(a)</num><content>the name of the claimant, and his address for service of notices;</content></paragraph><paragraph id="ID_1438412909885_020" name="b" temporalId="s34_1_b"><num value="b">(b)</num><content>a full description of the land including any covenants, easements, rights or restrictions affecting the same;</content></paragraph><paragraph id="ID_1438412909885_028" name="c" temporalId="s34_1_c"><num value="c">(c)</num><content>the nature of the claimant’s interest in the land including for a sub-lessee or sub-tenant his landlord’s name and address and details of the sub-lease or tenancy;</content></paragraph><paragraph id="ID_1438412909885_036" name="d" temporalId="s34_1_d"><num value="d">(d)</num><content>details of any mortgage, including the principal still owing and name and address of the mortgagee;</content></paragraph><paragraph id="ID_1438412909885_044" name="e" temporalId="s34_1_e"><num value="e">(e)</num><content>if the claimant has let the land or any part, the name and address of each tenant and details of his lease or tenancy;</content></paragraph><paragraph id="ID_1438412909885_052" name="f" temporalId="s34_1_f"><num value="f">(f)</num><leadIn>particulars of the claim showing—</leadIn><subparagraph id="ID_1438412909885_060" name="i" temporalId="s34_1_f_i"><num value="i">(i)</num><content>the amount of the claim;</content></subparagraph><subparagraph id="ID_1438412909885_068" name="ii" temporalId="s34_1_f_ii"><num value="ii">(ii)</num><content>under which item in Part II of the <ref>Schedule</ref> the claim is made; and</content></subparagraph><subparagraph id="ID_1438412909885_076" name="iii" temporalId="s34_1_f_iii"><num value="iii">(iii)</num><content>how the amount claimed under each item is calculated.</content></subparagraph></paragraph></subsection><subsection id="ID_1438412909900_005" name="2" temporalId="s34_2"><num value="2">(2)</num><content>The Secretary is to acknowledge receipt in writing and the date of receipt of a claim served on him under subsection (1).</content></subsection><subsection id="ID_1438412909900_013" name="3" temporalId="s34_3"><num value="3">(3)</num><content>The Secretary may, within 28 days of the receipt of an amended claim served before proceedings are commenced in the Lands Tribunal if the Secretary considers the amendment to be substantial, notify the claimant that he elects to treat the claim, for the purposes of this section, as if it were a new claim served under subsection (1) on the date on which the amendment was received by the Secretary, and this section applies accordingly.</content></subsection><subsection id="ID_1438412909900_021" name="4" temporalId="s34_4"><num value="4">(4)</num><content>The Secretary may by notice in writing to the claimant request him to furnish further particulars of and in support of his claim or any item in the claim. If any of the particulars are not given to the Secretary within a period of 28 days from the date of the notice, or within such further period as the Secretary may in writing allow, the claim or the item for which the particulars were requested is deemed to be rejected and subsection (5) does not apply.</content></subsection><subsection id="ID_1438412909916_005" name="5" temporalId="s34_5"><num value="5">(5)</num><leadIn>The Secretary must within 6 months of the service of a claim on him or, if he has requested further particulars under subsection (4) within 6 months of the day on which they are furnished in accordance with that subsection, notify the claimant in writing that he—</leadIn><paragraph id="ID_1438412909916_013" name="a" temporalId="s34_5_a"><num value="a">(a)</num><content>admits the entire claim; or</content></paragraph><paragraph id="ID_1438412909916_021" name="b" temporalId="s34_5_b"><num value="b">(b)</num><content>rejects the entire claim; or</content></paragraph><paragraph id="ID_1438412909916_029" name="c" temporalId="s34_5_c"><num value="c">(c)</num><content>admits a specified part or parts and rejects the remainder,</content></paragraph><continued>and in every case must briefly state his reasons for rejection so that the claimant is adequately informed of those reasons. The Secretary may at any time state further reasons for rejection of claim.</continued></subsection><subsection id="ID_1438412909916_042" name="6" temporalId="s34_6"><num value="6">(6)</num><leadIn>The Secretary may, where he has rejected a claim or any part of the claim under subsection (5) or where a claim or any part is deemed to have been rejected under subsection (4)—</leadIn><paragraph id="ID_1438412909932_005" name="a" temporalId="s34_6_a"><num value="a">(a)</num><content>by notice in writing offer to the claimant such sum, including costs as agreed or taxed, as the Government is willing to pay in full and final settlement of the claim or any part;</content></paragraph><paragraph id="ID_1438412909932_013" name="b" temporalId="s34_6_b"><num value="b">(b)</num><content>commence proceedings in the Lands Tribunal, to have the claim or any part for which no offer is made, heard and determined by it under this Ordinance;</content></paragraph><paragraph id="ID_1438412909932_021" name="c" temporalId="s34_6_c"><num value="c">(c)</num><content>commence proceedings in the Lands Tribunal where any offer under paragraph (a) is not accepted by the claimant within 28 days of the date of the offer.</content></paragraph></subsection><subsection id="ID_1438412909932_028" name="7" temporalId="s34_7"><num value="7">(7)</num><content>If, after the expiry of 7 months from the receipt of a claim by the Secretary, it has not been settled by agreement, either the claimant or the Secretary may commence proceedings in the Lands Tribunal to have the claim, or so much thereof as is still then in dispute heard and determined by it under this Ordinance.</content></subsection><subsection id="ID_1438412909932_036" name="8" temporalId="s34_8"><num value="8">(8)</num><leadIn>If the claimant has failed to supply further particulars required by the Secretary under subsection (4), the Lands Tribunal may on the hearing of the claim consider the merits of the Secretary’s request for further particulars and the claimant’s failure to supply them and may, if it thinks fit—</leadIn><paragraph id="ID_1438412909947_005" name="a" temporalId="s34_8_a"><num value="a">(a)</num><content>order the claimant to supply some or all of the particulars; and</content></paragraph><paragraph id="ID_1438412909947_013" name="b" temporalId="s34_8_b"><num value="b">(b)</num><content>adjourn the hearing until the order is complied with and the particulars are considered by the Secretary; and</content></paragraph><paragraph id="ID_1438412909947_021" name="c" temporalId="s34_8_c"><num value="c">(c)</num><content>make such further order as it thinks fit as to the costs of either party occasioned by the Secretary’s request for and the claimant’s failure to supply the further particulars.</content></paragraph></subsection></section><section id="ID_1438403312049_002" name="s35" reason="inEffect" startPeriod="2021-06-24" status="operational" temporalId="s35"><num value="35">35.</num><heading>Settlement after reference to Lands Tribunal</heading><subsection id="ID_1438412909994_004" name="1" temporalId="s35_1"><num value="1">(1)</num><content>At any time after proceedings have been commenced in the Lands Tribunal but before compensation is finally assessed, the Secretary may make an offer in writing or the claimant may by notice to the Secretary state a sum (inclusive or exclusive of costs) which he is willing to accept in full and final settlement of the claim or any rejected part.</content></subsection><subsection id="ID_1438412910010_004" name="2" temporalId="s35_2"><num value="2">(2)</num><content>Until the Lands Tribunal assesses the amount of compensation for that part of a claim for which an offer made by the Secretary under <ref>section 34(6)(a)</ref> or by the Secretary or the claimant under subsection (1) and which is not accepted by the other party, the offer is not to be disclosed to the Lands Tribunal. A copy of the offer enclosed in a sealed envelope may be lodged with the registrar of the Lands Tribunal and opened by it after it has made its assessment.</content></subsection><subsection id="ID_1438412910010_012" name="3" temporalId="s35_3"><num value="3">(3)</num><content>The Lands Tribunal must, unless for special reason it thinks it proper not to do so, order a claimant to bear his own costs and to pay the costs of the Secretary so far as the costs are incurred after the making of an offer if the Secretary has made the offer under subsection (1) or <ref>section 34(6)(a)</ref>, including costs as agreed or taxed, which was not accepted by the claimant and the compensation assessed by the Lands Tribunal does not exceed the amount of compensation in the offer.</content></subsection><subsection id="ID_1438412910025_005" name="4" temporalId="s35_4"><num value="4">(4)</num><content>The Lands Tribunal must, unless for special reason it thinks it proper not to do so, order the Secretary to bear his own costs and to pay the costs of the claimant so far as the costs are incurred after the claimant stated a sum under subsection (1) that the Secretary has not accepted and the compensation assessed by the Lands Tribunal is not less than the amount of compensation stated by the claimant.</content></subsection></section></part><part id="ID_1438403312065_002" name="P4" reason="inEffect" startPeriod="2021-06-24" status="operational" temporalId="P4"><num value="4">Part
+            IV</num><heading>Assessment
+            and
+            Award
+            of
+            Compensation</heading><section id="ID_1438403312065_004" name="s36" reason="inEffect" startPeriod="2021-06-24" status="operational" temporalId="s36"><num value="36">36.</num><heading>Jurisdiction of Lands Tribunal</heading><subsection id="ID_1438412910072_004" name="1" temporalId="s36_1"><num value="1">(1)</num><leadIn>The Lands Tribunal has jurisdiction to hear and determine—</leadIn><paragraph id="ID_1438412910072_012" name="a" temporalId="s36_1_a"><num value="a">(a)</num><content>all claims for compensation which the Secretary or the claimant may refer to it under <ref>section 34(6)</ref> or (7); and</content></paragraph><paragraph id="ID_1438412910072_020" name="b" temporalId="s36_1_b"><num value="b">(b)</num><content>applications under <ref>sections 28(2)</ref> and <ref>33(2)</ref>.</content></paragraph></subsection><subsection id="ID_1438412910072_027" name="2" temporalId="s36_2"><num value="2">(2)</num><content>The Lands Tribunal has jurisdiction to award compensation or a part of the compensation to a claimant if at the time of the award it does not have notice or intimation of any dispute as to his entitlement. The making of an award does not affect the entitlement to receive compensation under this Ordinance of any other person who may after that award be held by a court of competent jurisdiction to have a better title to the compensation or a part of it than the person to whom it was awarded.</content></subsection><subsection id="ID_1438412910088_005" name="3" temporalId="s36_3"><num value="3">(3)</num><content>An award of compensation under subsection (2) does not affect the entitlement of a mortgagee to be paid compensation under <ref>section 37</ref>.</content></subsection></section><section id="ID_1438403312080_002" name="s37" reason="inEffect" startPeriod="2021-06-24" status="operational" temporalId="s37"><num value="37">37.</num><heading>Payment to mortgagees</heading><subsection id="ID_1438412910119_011" name="1" temporalId="s37_1"><num value="1">(1)</num><content>Subject to subsection (2), a mortgagee of land which reverts to the Government
+                or vests in The Financial Secretary Incorporated under this Ordinance, in so far as
+                he has priority over any other mortgagee, is entitled to be paid so much of any
+                compensation as is required to pay out his mortgage debt including any interest
+                owing.</content></subsection><subsection id="ID_1438412910119_019" name="2" temporalId="s37_2"><num value="2">(2)</num><content>If compensation is payable under this Ordinance otherwise than for land resumed
+                or if the land to which compensation relates is part only of the mortgage security,
+                a mortgagee, in so far as he has priority as against any other mortgagee, is
+                entitled to be paid so much of the compensation as is necessary to reduce his
+                mortgage debt to an amount which is adequately secured by the land or the remaining
+                land as the case may be.</content></subsection><subsection id="ID_1438412910134_005" name="3" temporalId="s37_3"><num value="3">(3)</num><content>The payment of compensation, as required by subsections (1) and (2), is to be
+                made with the written agreement of the claimant and every mortgagee of the land or
+                failing agreement in accordance with an order of the High Court under subsection
+                    (4).<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1998/25">25 of 1998 s. 2</ref>)</sourceNote></content></subsection><subsection id="ID_1438412910134_013" name="4" temporalId="s37_4"><num value="4">(4)</num><content>The claimant or a mortgagee may apply to the High Court for an order as to the
+                payment of unpaid compensation. On the application the Court may make such order as
+                it thinks just and equitable having regard to subsections (1) and (2).<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1998/25">25 of
+                        1998 s. 2</ref>)</sourceNote></content></subsection></section><section id="ID_1438403312096_001" name="s38" reason="inEffect" startPeriod="2023-09-01" status="operational" temporalId="s38"><num value="38">38.</num><heading>Interest</heading><subsection id="ID_1438412910166_011" name="1" temporalId="s38_1"><num value="1">(1)</num><leadIn>The Lands Tribunal may direct that interest be paid on compensation (but not on
+                    costs)—  <sourceNote>(Amended <ref href="/hk/2001/6">6 of 2001 s.
+                    12</ref>)</sourceNote></leadIn><paragraph id="ID_1438412910166_019" name="a" temporalId="s38_1_a"><num value="a">(a)</num><content>for compensation payable under item 1 in Part II of the
+                    <ref>Schedule</ref>, as if the claim were made under the Lands Resumption
+                    Ordinance (<ref href="/hk/cap124">Cap. 124</ref>) for land resumed under that
+                    Ordinance; and<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1998/29">29 of 1998 s. 101</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438412910166_027" name="b" temporalId="s38_1_b"><num value="b">(b)</num><content>in any other case, from the date and for the period it thinks
+                        fit.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/2001/6">6 of
+                            2001 s.
+                        12</ref>; <ref href="/hk/2023/25">25 of 2023 s.
+                        101</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1693967130453_001" name="2" temporalId="s38_2"><num value="2">(2)</num><leadIn>For subsection <ref>(1)(b)</ref>, the rate of interest payable—</leadIn><paragraph id="ID_1693967130455_002" name="a" temporalId="s38_2_a"><num value="a">(a)</num><content>in respect of a day on which the reference interest rate is published
+                            (<b><i>publication day</i></b>)—is the reference interest rate;
+                    and</content></paragraph><paragraph id="ID_1693967130456_003" name="b" temporalId="s38_2_b"><num value="b">(b)</num><content>in respect of a day other than a publication day—is the reference interest
+                    rate published on the last publication day before that day.
+                        <sourceNote>(Replaced <ref href="/hk/2023/25">25 of 2023 s.
+                        101</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1693967130478_004" name="3" temporalId="s38_3"><num value="3">(3)</num><leadIn>In this section—</leadIn><def name="ReferenceInterestRate"><term>reference interest rate</term> (<term xml:lang="zh-Hant-HK">參考利率</term>) means the 1-month Hong Kong Dollar Interest
+                Settlement Rate published by The Hong Kong Association of Banks by the close of
+                business on a day. <sourceNote>(Replaced <ref href="/hk/2023/25">25 of 2023 s.
+                        101</ref>)</sourceNote></def></subsection></section><section id="ID_1438403312096_003" name="s39" reason="inEffect" startPeriod="2021-06-24" status="operational" temporalId="s39"><num value="39">39.</num><heading>Compensation payable out of general revenue</heading><leadIn>All compensation (including any interest) and all costs—</leadIn><paragraph id="ID_1438412910212_012" name="a" temporalId="s39_a"><num value="a">(a)</num><content>agreed to be paid to the claimant by the Secretary; or</content></paragraph><paragraph id="ID_1438412910212_020" name="b" temporalId="s39_b"><num value="b">(b)</num><content>awarded by the Lands Tribunal against the Government,</content></paragraph><continued>are to be paid out of the general revenue within 3 months of the agreement or final award, unless there is a dispute as to the person entitled to such compensation.</continued></section><section id="ID_1438403312112_002" name="s40" reason="inEffect" startPeriod="2021-06-24" status="operational" temporalId="s40"><num value="40">40.</num><heading>Surrender of title documents</heading><content>The Secretary may require any claimant to whom compensation is payable for land resumed to surrender his documents of title to the Secretary as a condition of payment being made. Where the documents of title relate also to land not resumed, the Secretary is to return them to the claimant after the resumption has been noted in the register of the land kept in the Land Registry.</content></section></part><part id="ID_1438403312112_004" name="P5" reason="inEffect" startPeriod="2021-06-24" status="operational" temporalId="P5"><num value="5">Part
+            V</num><heading>Miscellaneous</heading><section id="ID_1438403312127_002" name="s41" reason="inEffect" startPeriod="2023-09-01" status="operational" temporalId="s41"><num value="41">41.</num><heading>Certain statements to be evidence</heading><leadIn>A statement which is—</leadIn><paragraph id="ID_1438412910244_019" name="a" temporalId="s41_a"><num value="a">(a)</num><leadIn>a statement in an order or a notice, or in a declaration in an order or a notice, made or given under this Ordinance to the effect that—</leadIn><subparagraph id="ID_1438412910259_006" name="i" temporalId="s41_a_i"><num value="i">(i)</num><content>the resumption of any land;</content></subparagraph><subparagraph id="ID_1438412910259_014" name="ii" temporalId="s41_a_ii"><num value="ii">(ii)</num><content>the reversion to the Government or the vesting in
+                    The
+                    Financial Secretary Incorporated of any
+                        land;<inline class="width_3"></inline><sourceNote>(Amended <ref href="hk/2021/er3">E.R. 3 of
+                            2021</ref>)</sourceNote></content></subparagraph><subparagraph id="ID_1438412910259_022" name="iii" temporalId="s41_a_iii"><num value="iii">(iii)</num><content>the creation of an easement or right; or</content></subparagraph><subparagraph id="ID_1438412910259_030" name="iv" temporalId="s41_a_iv"><num value="iv">(iv)</num><content>an authorization or a declaration under <ref>section 22(1)(a)</ref>, (b) or (c),</content></subparagraph><continued>is for the purposes of or incidental to the scheme;</continued></paragraph><paragraph id="ID_1438412910259_043" name="b" temporalId="s41_b"><num value="b">(b)</num><leadIn>a statement in a notice given under this Ordinance to the effect that—</leadIn><subparagraph id="ID_1438412910259_051" name="i" temporalId="s41_b_i"><num value="i">(i)</num><content>any power is exercised under <ref>section 5</ref> in order to prepare, correct or amend a plan or scheme;</content></subparagraph><subparagraph id="ID_1438412910259_059" name="ii" temporalId="s41_b_ii"><num value="ii">(ii)</num><content>any power is exercised under <ref>section 24</ref> for the scheme, an assessment of the value of any land, building or other property or to ascertain the condition of the land or building; or</content></subparagraph><subparagraph id="ID_1438412910259_067" name="iii" temporalId="s41_b_iii"><num value="iii">(iii)</num><content>the exercise of any power under any of the provisions of this Ordinance is necessary or required for the scheme;</content></subparagraph></paragraph><paragraph id="ID_1438412910259_074" name="c" temporalId="s41_c"><num value="c">(c)</num><leadIn>a statement made in writing by the Secretary for the purposes of <ref>section
+                    15</ref> to the effect that—</leadIn><subparagraph id="ID_1693967138213_001" name="1" temporalId="s41_c_1"><num value="1">(i)</num><leadIn>any works—</leadIn><subparagraph role="subSubparagraph" id="ID_1693967138214_002" name="A" temporalId="s41_c_1_A"><num value="A">(A)</num><content>only involve minor physical or structural operations; or</content></subparagraph><subparagraph role="subSubparagraph" id="ID_1693967138215_003" name="B" temporalId="s41_c_1_B"><num value="B">(B)</num><content>only create minimal adverse effect on the road users and other people
+                        in the neighbourhood; or <sourceNote>(Replaced <ref href="/hk/2023/25">25 of
+                                2023 s. 102</ref>)</sourceNote></content></subparagraph></subparagraph><subparagraph id="ID_1438412910275_007" name="ii" temporalId="s41_c_ii"><num value="ii">(ii)</num><content>a road serves no useful purpose,</content></subparagraph></paragraph><continued>must
+            be admissible as sufficient evidence of the facts stated therein, until the contrary is proved.
+            <sourceNote>(Amended <ref href="/hk/2023/25">25 of 2023 s.
+            102</ref>)</sourceNote></continued></section><section id="ID_1438403312143_001" name="s42" reason="inEffect" startPeriod="2021-06-24" status="operational" temporalId="s42"><num value="42">42.</num><heading>Disposal of lands and easements</heading><content>Any land resumed or any Government foreshore or sea-bed reclaimed or any easement or other right created under this Ordinance and any land which becomes vested in The Financial Secretary Incorporated may be used in such manner as the Government or The Financial Secretary Incorporated thinks fit and may be disposed of to any person by any means and on any terms.</content></section><section id="ID_1692090819062_001" name="s42A" temporalId="s42A" startPeriod="2023-09-01" status="operational" reason="inEffect"><num value="42A">42A.</num><heading>Absence of authorization of expenditure for works not prevent certain
+            matters</heading><leadIn>The fact that the expenditure for any works to be carried out for a scheme has not
+            been approved or authorized under the Public Finance Ordinance (<ref href="/hk/cap2">Cap. 2</ref>) or any other enactment does not prevent—</leadIn><paragraph id="ID_1692091181057_001" name="a" temporalId="s42A_a"><num value="a">(a)</num><content>the authorization of the scheme under <ref>section 11</ref> or
+                <ref>12</ref>;</content></paragraph><paragraph id="ID_1692091181060_002" name="b" temporalId="s42A_b"><num value="b">(b)</num><content>the authorization of the works under <ref>section 15</ref>;</content></paragraph><paragraph id="ID_1692091181062_003" name="c" temporalId="s42A_c"><num value="c">(c)</num><content>the exercise of a power under <ref>section 13(2)</ref>, <ref>16</ref>,
+                    <ref>20</ref>, <ref>22</ref>, <ref>24</ref>, <ref>25</ref>, <ref>26</ref>,
+                    <ref>27</ref> or <ref>28</ref>; or</content></paragraph><paragraph id="ID_1692091181071_004" name="d" temporalId="s42A_d"><num value="d">(d)</num><content>the provision of any compensation (whether monetary or non-monetary) or any
+                financial or other assistance, whether or not under an enactment, in connection with
+                the scheme or the works.</content></paragraph><sourceNote>(Added <ref href="/hk/2023/25">25 of 2023 s. 103</ref>)</sourceNote></section><section id="ID_1438403312143_003" name="s43" reason="inEffect" startPeriod="2021-06-24" status="operational" temporalId="s43"><num value="43">43.</num><heading>Certain Ordinances not to apply</heading><leadIn>Except to the extent that provision is otherwise made in this Ordinance—</leadIn><paragraph id="ID_1438412910306_033" name="a" temporalId="s43_a"><num value="a">(a)</num><content>the Lands Resumption Ordinance (<ref href="/hk/cap124">Cap. 124</ref>) does not
+                apply to the resumption of any land ordered under this Ordinance nor to any claim
+                for or determination, award or payment of compensation for the resumption;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1998/29">29 of
+                        1998 s. 101</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438412910306_041" name="b" temporalId="s43_b"><num value="b">(b)</num><content>the Foreshore and Sea-bed (Reclamations) Ordinance (<ref href="/hk/cap127">Cap.
+                    127</ref>) does not apply to an order made under this Ordinance nor to its
+                implementation or effects;</content></paragraph><paragraph id="ID_1438412910322_006" name="c" temporalId="s43_c"><num value="c">(c)</num><content>the Buildings Ordinance (<ref href="/hk/cap123">Cap. 123</ref>) does not apply
+                to the scheme for the purpose of giving rise to any claim for compensation;
+                and</content></paragraph><paragraph id="ID_1438412910322_014" name="d" temporalId="s43_d"><num value="d">(d)</num><content>the Roads (Works, Use and Compensation) Ordinance (<ref href="/hk/cap370">Cap.
+                    370</ref>) does not apply to the resumption of any land ordered under this
+                Ordinance nor to any claim for or determination, award or payment of compensation
+                for the resumption.</content></paragraph></section><section id="ID_1438403312158_002" name="s44" reason="inEffect" startPeriod="2021-06-24" status="operational" temporalId="s44"><num value="44">44.</num><heading>Service of notices</heading><subsection id="ID_1438412910337_042" name="1" temporalId="s44_1"><num value="1">(1)</num><leadIn>Service of a notice required to be served on any person other than the Secretary under this Ordinance shall be effected—</leadIn><paragraph id="ID_1438412910337_050" name="a" temporalId="s44_1_a"><num value="a">(a)</num><leadIn>subject to paragraph (b), by—</leadIn><subparagraph id="ID_1438412910337_058" name="i" temporalId="s44_1_a_i"><num value="i">(i)</num><content>delivering it to the person personally;</content></subparagraph><subparagraph id="ID_1438412910337_066" name="ii" temporalId="s44_1_a_ii"><num value="ii">(ii)</num><content>leaving it at the last known address of the person; or</content></subparagraph><subparagraph id="ID_1438412910353_007" name="iii" temporalId="s44_1_a_iii"><num value="iii">(iii)</num><content>sending it by post addressed to the person at his last known address;</content></subparagraph></paragraph><paragraph id="ID_1438412910353_014" name="b" temporalId="s44_1_b"><num value="b">(b)</num><content>where the address of the person is unknown and cannot be reasonably ascertained, by affixing it on or near the affected land or building as is appropriate in the circumstances in a manner and location which makes it conspicuously visible.</content></paragraph></subsection><subsection id="ID_1438412910353_021" name="2" temporalId="s44_2"><num value="2">(2)</num><content>A notice required to be served on any person other than the Secretary under this Ordinance is to be in writing and in both the Chinese and English languages.</content></subsection><subsection id="ID_1438412910353_029" name="3" temporalId="s44_3"><num value="3">(3)</num><leadIn>A notice required to be served on the Secretary may be served—</leadIn><paragraph id="ID_1438412910353_037" name="a" temporalId="s44_3_a"><num value="a">(a)</num><content>by sending the notice by post; or</content></paragraph><paragraph id="ID_1438412910353_045" name="b" temporalId="s44_3_b"><num value="b">(b)</num><content>by delivering it to an officer who is authorized by the Secretary to receive notices on his behalf.</content></paragraph></subsection><subsection id="ID_1438412910353_052" name="4" temporalId="s44_4"><num value="4">(4)</num><content>A certificate, relating to the service, giving, publishing or affixing of any notice, purporting to be signed by a public officer is evidence of the facts stated in the certificate.</content></subsection><subsection id="ID_1438412910353_060" name="5" temporalId="s44_5"><num value="5">(5)</num><leadIn>The title to any land is not affected by—</leadIn><paragraph id="ID_1438412910353_068" name="a" temporalId="s44_5_a"><num value="a">(a)</num><content>any defect in a notice required under this Ordinance; or</content></paragraph><paragraph id="ID_1438412910353_076" name="b" temporalId="s44_5_b"><num value="b">(b)</num><content>any failure to serve, publish or affix a notice under this Ordinance.</content></paragraph></subsection></section><section id="ID_1438403312174_002" name="s45" reason="inEffect" startPeriod="2021-06-24" status="operational" temporalId="s45"><num value="45">45.</num><heading>Exemption, repeal and transitional provisions</heading><subsection id="ID_1438412910384_057" name="1" temporalId="s45_1"><num value="1">(1)</num><content>The Secretary for Transport may by notice published in the Gazette appoint a date as the appointed date for the purposes of this section.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/2002/ln106">L.N. 106 of 2002</ref>)</sourceNote></content></subsection><subsection id="ID_1438412910400_005" name="2" temporalId="s45_2"><num value="2">(2)</num><paragraph id="ID_1438412910400_009" name="a" temporalId="s45_2_a"><num value="a">(a)</num><content>Subject to paragraph (b), the Chief Executive in Council may at any time before the appointed date by order published in the Gazette exempt from the operation of this Ordinance any railway or any part of a railway specified in the order.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1999/62">62 of 1999 s. 3</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438412910400_015" name="b" temporalId="s45_2_b"><num value="b">(b)</num><content>An exemption under paragraph (a) shall as from the appointed date cease to have effect in respect of a railway or any part of a railway, unless the railway or the part of the railway, as the case may be, is immediately before the appointed date an existing railway.</content></paragraph></subsection><subsection id="ID_1438412910400_022" name="3" temporalId="s45_3"><num value="3">(3)</num><paragraph id="ID_1438412910400_026" name="a" temporalId="s45_3_a"><num value="a">(a)</num><content>Subject to paragraph (b), the Mass Transit Railway (Land Resumption and Related Provisions) Ordinance (<ref href="/hk/cap276">Cap. 276</ref>) shall as from the appointed date be repealed.</content></paragraph><paragraph id="ID_1438412910400_032" name="b" temporalId="s45_3_b"><num value="b">(b)</num><leadIn>For so long as an exemption under subsection (2) has effect in respect of any existing railway at any time on or after the appointed date, the provisions of the Mass Transit Railway (Land Resumption and Related Provisions) Ordinance (<ref href="/hk/cap276">Cap. 276</ref>) shall, notwithstanding paragraph (a), continue to have effect subject however that—</leadIn><subparagraph id="ID_1438412910415_006" name="i" temporalId="s45_3_b_i"><num value="i">(i)</num><subparagraph id="ID_1438412910415_008" name="A" role="subSubParagraph" temporalId="s45_3_b_i_A"><num value="A">(A)</num><content>any reference therein to railway shall be regarded as a reference to any such existing railway;</content></subparagraph><subparagraph id="ID_1438412910415_015" name="B" role="subSubParagraph" temporalId="s45_3_b_i_B"><num value="B">(B)</num><content>any reference therein to railway area shall be regarded as a reference to the land delineated as railway area in respect of any such existing railway under that Ordinance immediately before the appointed date;</content></subparagraph></subparagraph><subparagraph id="ID_1438412910415_023" name="ii" temporalId="s45_3_b_ii"><num value="ii">(ii)</num><subparagraph id="ID_1438412910415_025" name="A" role="subSubParagraph" temporalId="s45_3_b_ii_A"><num value="A">(A)</num><content>subject to sub-subparagraphs (B) and (C), <ref>sections 3 to 7</ref> and <ref>9</ref>, and <ref>section 15(3)</ref> to (5), of that Ordinance shall be regarded as having been repealed;</content></subparagraph><subparagraph id="ID_1438412910415_032" name="B" role="subSubParagraph" temporalId="s45_3_b_ii_B"><num value="B">(B)</num><content><ref>sections 8</ref> and <ref>20</ref> of that Ordinance shall be regarded as having effect as if <ref>sections 3 to 7</ref> and <ref>9</ref> of that Ordinance had not been repealed;</content></subparagraph><subparagraph id="ID_1438412910415_040" name="C" role="subSubParagraph" temporalId="s45_3_b_ii_C"><num value="C">(C)</num><content>references in <ref>sections 31</ref> and <ref>34</ref> of and the <ref>Schedules</ref> to that Ordinance to any of the provisions of <ref>sections 3 to 7</ref> and <ref>9</ref> of that Ordinance shall be regarded as references to such provisions whilst in force;</content></subparagraph></subparagraph><subparagraph id="ID_1438412910431_007" name="iii" temporalId="s45_3_b_iii"><num value="iii">(iii)</num><leadIn><ref>section 16</ref> of that Ordinance shall be regarded as having been amended—</leadIn><subparagraph id="ID_1438412910431_014" name="A" role="subSubParagraph" temporalId="s45_3_b_iii_A"><num value="A">(A)</num><content>by repealing “5(2)(a)(i), 7(2)(a)(i), 9,”;</content></subparagraph><subparagraph id="ID_1438412910431_022" name="B" role="subSubParagraph" temporalId="s45_3_b_iii_B"><num value="B">(B)</num><content>by repealing “or lawfully exercising any power consequential or incidental to an easement or right created pursuant to <ref>section 6</ref>”.</content></subparagraph></subparagraph></paragraph></subsection><subsection id="ID_1438412910431_028" name="4" temporalId="s45_4"><num value="4">(4)</num><leadIn>In this section—</leadIn><def name="AppointedDate"><term>appointed
+                    date</term>
+                    (<term xml:lang="zh-Hant-HK">指定日期</term>) means the date appointed by the
+                Secretary for Transport under subsection (1);<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/2002/ln106">L.N. 106 of
+                        2002</ref>)</sourceNote></def><def name="ExistingRailway"><leadIn><term>existing
+                        railway</term>
+                        (<term xml:lang="zh-Hant-HK">現有鐵路</term>) means a railway or any part of a
+                    railway—</leadIn><paragraph id="ID_1438412910431_050" name="a" temporalId="s45_4_a"><num value="a">(a)</num><content>in respect of which any land has been delineated as railway area under the Mass Transit Railway (Land Resumption and Related Provisions) Ordinance (<ref href="/hk/cap276">Cap. 276</ref>) immediately before the appointed date; and</content></paragraph><paragraph id="ID_1438412910431_058" name="b" temporalId="s45_4_b"><num value="b">(b)</num><content>the construction of which has been completed at any time before the appointed date.</content></paragraph></def></subsection></section><section id="ID_1438403312190_002" name="s46" reason="omittedAsSpent" startPeriod="2021-06-24" status="omitted" temporalId="s46"><num value="46">46.</num><sourceNote>(Omitted as spent—<ref href="hk/2021/er3">E.R. 3 of 2021</ref>)</sourceNote></section><section id="ID_1438403312205_001" name="s47" reason="omittedAsSpent" startPeriod="2021-06-24" status="omitted" temporalId="s47"><num value="47">47.</num><sourceNote>(Omitted as spent—<ref href="hk/2021/er3">E.R. 3 of 2021</ref>)</sourceNote></section><section id="ID_1692090897846_001" name="s48" temporalId="s48" startPeriod="2023-09-01" status="operational" reason="inEffect"><num value="48">48.</num><heading>Transitional provisions for Development (Town Planning, Lands and Works)
+            (Miscellaneous Amendments) Ordinance 2023</heading><subsection id="ID_1692091183904_001" name="1" temporalId="s48_1"><num value="1">(1)</num><content>If a copy of a scheme has been deposited in the Land Registry under
+                    <ref>section 6(1)</ref> before 1 September 2023, <ref>sections 6(6)</ref>,
+                    <ref>10</ref>, <ref>11</ref>, <ref>19</ref>, <ref>21</ref> and <ref>23</ref> as
+                in force immediately before that date continue to apply in relation to the scheme as
+                if <ref>sections 93(1)</ref>, <ref>94</ref>, <ref>95</ref>, <ref>97</ref>,
+                    <ref>98</ref> and <ref>99</ref> of the Amendment Ordinance had not been
+                enacted.</content></subsection><subsection id="ID_1692091183918_002" name="2" temporalId="s48_2"><num value="2">(2)</num><content><ref>Section 28(1A)</ref> has effect in relation to any application to be made
+                under <ref>section 28(1)</ref> on or after 1 September 2023, regardless of whether
+                the date referred to in <ref>section 28(1A)(a)(i)</ref> or (ii) falls before, on or
+                after 1 September 2023.</content></subsection><subsection id="ID_1692091183923_003" name="3" temporalId="s48_3"><num value="3">(3)</num><content>If the period specified in column 4 of Part II of the <ref>Schedule </ref>in
+                relation to a matter specified in column 1 of that Part begins before 1 September
+                2023, <ref>section 38</ref> as in force immediately before that date continues to
+                apply in relation to the compensation in respect of the matter as if <ref>section
+                    101</ref> of the Amendment Ordinance had not been enacted.</content></subsection><subsection id="ID_1692091183927_004" name="4" temporalId="s48_4"><num value="4">(4)</num><leadIn>In this section—</leadIn><def name="AmendmentOrdinance"><term>Amendment Ordinance</term> (<term xml:lang="zh-Hant-HK">《修訂條例》</term>) means the Development (Town Planning, Lands
+                and Works) (Miscellaneous Amendments) Ordinance 2023 (<ref href="hk/2023/25">25 of
+                    2023</ref>).</def></subsection><sourceNote>(Added <ref href="/hk/2023/25">25 of 2023 s. 104</ref>)</sourceNote></section></part><schedule id="ID_1438403312205_003" name="sch0" reason="inEffect" startPeriod="2023-09-01" status="operational" temporalId="sch0"><num value="0">Schedule</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap519/s32">ss. 32</ref>, <ref href="/hk/cap519/s33">33</ref>, <ref href="/hk/cap519/s34">34</ref>,
+                <ref href="/hk/cap519/s38">38</ref> &amp;
+                <ref href="/hk/cap519/s48">48</ref>]<sourceNote>(Amended <ref href="/hk/2023/25">25 of 2023 s.
+            105</ref>)</sourceNote><marker role="blank-line"></marker><marker role="blank-line"></marker></note><part id="ID_1438412910493_017" name="PI" temporalId="sch0_PI"><num value="I">Part
+                I<marker role="blank-line"></marker><marker role="blank-line"></marker></num><section id="ID_1438412910493_028" name="s1" temporalId="sch0_PI_s1"><num value="1">1.</num><heading>General effect of this Part</heading><leadIn>This Part, where applicable, has effect for assessing compensation under
+                    Part II and is—</leadIn><paragraph id="ID_1438412910493_046" name="a" temporalId="sch0_PI_s1_a"><num value="a">(a)</num><content>in addition to the provisions of the Lands Resumption Ordinance (<ref href="/hk/cap124">Cap. 124</ref>) that apply, by Part II, to the
+                        assessment of compensation; and<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1998/29">29 of 1998 s.
+                                101</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438412910493_055" name="b" temporalId="sch0_PI_s1_b"><num value="b">(b)</num><content>prevail over any provision referred to in paragraph (a) which is
+                        inconsistent or in conflict with a provision in this
+                        Part.<marker role="blank-line"></marker><marker role="blank-line"></marker></content></paragraph></section><section id="ID_1438412910509_004" name="s2" temporalId="sch0_PI_s2"><num value="2">2.</num><heading>Definitions applicable to Part II</heading><leadIn>In this
+                    <ref>Schedule</ref>—</leadIn><def name="DateOfResumption"><term>date of resumption</term>
+                    <inline style="font-family: %(; ">(</inline><term xml:lang="zh-Hant-HK">收回日期</term><inline style="font-family: %(; ">) </inline>means the day on
+                    which land reverts to the Government or vests in The Financial Secretary
+                    Incorporated under <ref>section 18(2)</ref> of this Ordinance;</def><def name="Disturbance"><term>disturbance</term> (<term xml:lang="zh-Hant-HK">騷擾</term>) means the dispossession of a person of land or the interruption
+                    of or interference with a trade or business, whether such dispossession,
+                    interruption or interference is temporary or permanent;</def><def name="DisturbancePayment">
+                    <leadIn><term>disturbance payment</term> (<term xml:lang="zh-Hant-HK">騷擾補償金</term>) means a sum equal to—</leadIn>
+                    <paragraph id="ID_1438412910509_046" name="a" temporalId="sch0_PI_s2_a"><num value="a">(a)</num><content>the expenditure and loss of money actually and reasonably incurred
+                            or to be reasonably incurred and arising from the dispossession of a
+                            person of land by reason of the matter for which the claimant is
+                            entitled to claim compensation under Part II; and</content></paragraph>
+                    <paragraph id="ID_1438412910509_055" name="b" temporalId="sch0_PI_s2_b"><num value="b">(b)</num><content>for disturbance of a trade or business on any land, the expenditure
+                            and loss of money actually and reasonably incurred or to be reasonably
+                            incurred and arising from the disturbance of that trade or business by
+                            reason of the matter for which the claimant is entitled to claim
+                            compensation under Part II,</content></paragraph>
+                    <continued>but a disturbance payment is not to include any expenditure or loss
+                        which would not be recoverable, on the grounds that the expenditure or loss
+                        was too remote or was not caused by the disturbance, if that disturbance
+                        were a tort;</continued>
+                </def><def name="OpenMarketValue"><term>open market value</term> (<term xml:lang="zh-Hant-HK">公開市場價值</term>) means the amount which the land, if
+                    sold in the open market by a willing seller, might reasonably be expected to
+                    realize.<marker role="blank-line"></marker><marker role="blank-line"></marker></def></section><section id="ID_1438412910524_020" name="s3" temporalId="sch0_PI_s3"><num value="3">3.</num><heading>Fluctuations in value of land</heading><content>Subject to <ref>sections 8</ref> and <ref>10</ref>, where the open market
+                    value of any land is relevant for the purposes of assessing compensation under
+                    this Ordinance, no account is taken of any increase or decrease in that value
+                    which is attributable to anything done or proposed to be done under this
+                    Ordinance.<marker role="blank-line"></marker><marker role="blank-line"></marker></content></section><section id="ID_1438412910524_036" name="s4" temporalId="sch0_PI_s4"><num value="4">4.</num><heading>Disturbance payments</heading><paragraph id="ID_1438412910524_046" name="1" temporalId="sch0_PI_s4_1"><num value="1">(1)</num><content>For assessing a disturbance payment, the Lands Tribunal is required,
+                        for any expenditure or loss to be incurred and for which the claimant is
+                        entitled under this Ordinance to be compensated, to assess the value of the
+                        expenditure or loss at the time of the award as if the expenditure or loss
+                        formed part of a claim for damages in tort.</content></paragraph><paragraph id="ID_1438412910540_007" name="2" temporalId="sch0_PI_s4_2"><num value="2">(2)</num><content>No disturbance payment is payable for any interference with a trade or
+                        business if the interference does not last for more than 14
+                        days.<marker role="blank-line"></marker><marker role="blank-line"></marker></content></paragraph></section><section id="ID_1438412910540_013" name="s5" temporalId="sch0_PI_s5"><num value="5">5.</num><heading>Unlawful building works</heading><content>Compensation may be reduced so far as may be just and equitable for any
+                    building or part of a building which has been constructed or modified, or on
+                    which building works have been carried out, that is a contravention of the
+                    Buildings Ordinance (<ref href="/hk/cap123">Cap. 123</ref>) or a contravention
+                    of a Government lease or other instrument under which land built upon is
+                    held.<marker role="blank-line"></marker><marker role="blank-line"></marker></content></section><section id="ID_1438412910540_029" name="s6" temporalId="sch0_PI_s6"><num value="6">6.</num><heading>Compensation where damage results only partly from the scheme</heading><content>The compensation assessed under item 6 or 7 of Part II is to be reduced to
+                    such extent as may be just and equitable having regard to the share in the
+                    responsibility for the loss or damage not reasonably attributable to or
+                    connected with the
+                    scheme.<marker role="blank-line"></marker><marker role="blank-line"></marker></content></section><section id="ID_1438412910540_045" name="s7" temporalId="sch0_PI_s7"><num value="7">7.</num><heading>No compensation under item 8 for loss of advertising</heading><content>Where a sign advertising any business, product, service or activity is
+                    removed under <ref>section 26</ref> of this Ordinance, nothing in item 8 of Part
+                    II is to be construed as conferring upon any person a right to compensation for
+                    the loss of any benefit which might have accrued to him from the advertising of
+                    that business, product, service or activity if the sign had not been
+                    removed.<marker role="blank-line"></marker><marker role="blank-line"></marker></content></section><section id="ID_1438412910540_061" name="s8" temporalId="sch0_PI_s8"><num value="8">8.</num><heading>Set off where compensation paid for loss of value and land later
+                    resumed</heading><content>Where
+                    compensation under item 2, 3, 4, 5, 8 or 9 of Part II has been paid for the
+                    diminution in value of any land and the land or a part of the land is
+                    subsequently resumed by the Government under this Ordinance or any other
+                    enabling power, the diminution in value is to be taken into account to reduce
+                    the compensation for the resumption of that land in so far as it was taken into
+                    account in the assessment of compensation for diminuting its
+                    value.<marker role="blank-line"></marker><marker role="blank-line"></marker></content></section><section id="ID_1438412910556_012" name="s9" temporalId="sch0_PI_s9"><num value="9">9.</num><heading>Claim by a mortgagee in possession</heading><leadIn>Where under this Ordinance a claim for compensation may be made by a
+                    mortgagee in possession—</leadIn><paragraph id="ID_1438412910556_030" name="a" temporalId="sch0_PI_s9_a"><num value="a">(a)</num><content>the claim may include compensation for the whole interest which
+                        comprises the mortgage security; and</content></paragraph><paragraph id="ID_1438412910556_039" name="b" temporalId="sch0_PI_s9_b"><num value="b">(b)</num><content>compensation received by a mortgagee in possession is to be applied by
+                        him firstly, to the settlement or reduction of the debt due under the
+                        mortgage and then to the payment of any excess to the
+                        mortgagor.<marker role="blank-line"></marker><marker role="blank-line"></marker></content></paragraph></section><section id="ID_1438412910556_045" name="s10" temporalId="sch0_PI_s10"><num value="10">10.</num><heading>Limitation on compensation payable under item 9</heading><content>Compensation is payable under item 9 of Part II only to the extent that the
+                    carrying out of building works in accordance with an amendment required, or
+                    condition imposed, under <ref>section 27(1)(c)</ref> or (d) of this Ordinance
+                    does not increase the open market value of the land on which the building works
+                    are carried out.<marker role="blank-line"></marker><marker role="blank-line"></marker></content></section><section id="ID_1438412910556_061" name="s11" temporalId="sch0_PI_s11"><num value="11">11.</num><heading>Apportionment of compensation</heading><content>Where there is a dispute between persons owning compensatable interests in
+                    any land or building as to the apportionment of the compensation payable or
+                    paid, the Lands Tribunal is, on the application of any of the persons, to
+                    apportion that compensation amongst the persons in such manner as may be just
+                    and equitable having regard to their respective rights and interests in the land
+                    or building.<marker role="blank-line"></marker><marker role="blank-line"></marker></content></section><section id="ID_1438412910571_004" name="s12" temporalId="sch0_PI_s12"><num value="12">12.</num><heading>Date of valuation and interest</heading><content>Where, under column 2 of Part II, compensation is to be assessed on the
+                    basis of the value of land, or the value of a claimant’s interest in land, or of
+                    a rent, that value or that rent is to be assessed as at the date of the
+                    happening of the relevant event mentioned in column 1 of Part II; and the person
+                    entitled to claim is the person fitting the description mentioned in column 3 of
+                    Part II on that
+                    date.<marker role="blank-line"></marker><marker role="blank-line"></marker></content></section><section id="ID_1438412910571_020" name="s13" temporalId="sch0_PI_s13"><num value="13">13.</num><heading>No double compensation</heading><leadIn>Nothing in this Ordinance enables any person to recover
+                    compensation—</leadIn><paragraph id="ID_1438412910571_038" name="a" temporalId="sch0_PI_s13_a"><num value="a">(a)</num><content>for a loss or expense which he has not suffered or incurred; or
+                    </content></paragraph><paragraph id="ID_1438412910571_047" name="b" temporalId="sch0_PI_s13_b"><num value="b">(b)</num><content>which is greater than the loss suffered or expense incurred by
+                        him,</content></paragraph><continued>but in assessing compensation under this Ordinance, no account is to be
+                    taken of any amount recovered by the claimant under a policy of
+                    insurance.<marker role="blank-line"></marker><marker role="blank-line"></marker></continued></section><section id="ID_1438412910571_061" name="s14" temporalId="sch0_PI_s14"><num value="14">14.</num><heading>Government may undertake work</heading><content>Where, under this Ordinance, a person is entitled to claim compensation and
+                    that compensation is to be assessed on the basis of an expense incurred, the
+                    Government may, on written notice to that person, carry out the operations for
+                    which the expense would otherwise be
+                    claimable.</content></section></part><part id="ID_1438412910571_074" name="PII" temporalId="sch0_PII" orientation="landscape"><num value="II">Part
+                II<marker role="blank-line"></marker><marker role="blank-line"></marker></num><section class="no_header" id="ID_1591176064200_001" name="s0" temporalId="sch0_PII_s0"><text class="left_indent_0" orientation="landscape">
+                    
+                    <table xmlns="http://www.w3.org/1999/xhtml" class="font_size_8.5 repeat_header" width="593">
+                        <col width="4%"></col>
+                        <col width="1%"></col>
+                        <col width="23%"></col>
+                        <col width="1%"></col>
+                        <col width="23%"></col>
+                        <col width="1%"></col>
+                        <col width="23%"></col>
+                        <col width="1%"></col>
+                        <col width="23%"></col>
+                        <thead>
+                            <tr>
+                                <td>
+                                    <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                                </td>
+                                <th></th>
+                                <td>
+                                    <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Matters
+                                        for which<br></br>compensation may<br></br>be claimed </center>
+                                </td>
+                                <th></th>
+                                <td>
+                                    <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Basis on
+                                        which<br></br>compensation<br></br>is to be<br></br>assessed</center>
+                                </td>
+                                <th></th>
+                                <td>
+                                    <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Persons
+                                        who may claim<br></br>compensation for<br></br>their
+                                        respective<br></br>losses</center>
+                                </td>
+                                <th></th>
+                                <td>
+                                    <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Period
+                                        within which<br></br>the claim must be<br></br>served on
+                                        the<br></br>Secretary<br></br> </center>
+                                </td>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>
+                                    <p class="left_indent_2 first_line_indent_0">1.</p>
+                                </td>
+                                <td></td>
+                                <td>
+                                    <p>The resumption of land under this Ordinance.</p>
+                                </td>
+                                <td></td>
+                                <td>As if the claim were made under the Lands Resumption Ordinance
+                                        (<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap124">Cap. 124</ref>) for land resumed under
+                                    that Ordinance.</td>
+                                <td></td>
+                                <td>Any person who would be entitled to claim compensation for land
+                                    resumed under the Lands Resumption Ordinance (<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap124">Cap. 124</ref>) if the land had been
+                                    resumed thereunder.</td>
+                                <td></td>
+                                <td>Before the expiration of 1 year from the date of
+                                        resumption.<marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Amended <ref href="/hk/1998/29">29 of 1998 s.
+                                    101</ref>)</sourceNote></td>
+                            </tr>
+                            <tr>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <p class="left_indent_2 first_line_indent_0">2.</p>
+                                </td>
+                                <td></td>
+                                <td class="first_line_indent_-16 left_indent_18">(a)<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_7"> </inline>The creation of an easement or
+                                    other permanent right or a right of temporary occupation under
+                                        <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">section
+                                        20</ref> of this
+                                    Ordinance.<marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                                <td></td>
+                                <td class="first_line_indent_-28 left_indent_29">(a)<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_6"> </inline>(i)<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_6"> </inline>In the case of an easement or
+                                    other permanent right, the amount by which the open market value
+                                    of the claimant’s interest in the land is diminished.</td>
+                                <td></td>
+                                <td class="first_line_indent_-16 left_indent_17">(a)<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_7"> </inline>Any person owning a compensatable
+                                    interest in the land.</td>
+                                <td></td>
+                                <td class="first_line_indent_-16 left_indent_17">(a)<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_7"> </inline>Before the expiration of 1 year
+                                    from the date on which the easement or right is created.</td>
+                            </tr>
+                            <tr>
+                                <td></td>
+                                <td></td>
+                                <td class="first_line_indent_-16 left_indent_18"></td>
+                                <td></td>
+                                <td class="first_line_indent_-28 left_indent_29"><inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_12"> </inline>(ii) <inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_5"> </inline>In the case of the creation of a
+                                    right of temporary occupation, the amount of an open market rent
+                                    for the claimant’s interest in the land occupied during the
+                                    period of the easement.</td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                            <tr>
+                                <td></td>
+                                <td></td>
+                                <td class="first_line_indent_-16 left_indent_18"></td>
+                                <td></td>
+                                <td class="first_line_indent_-28 left_indent_29"></td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                                </td>
+                                <td></td>
+                                <td class="first_line_indent_-16 left_indent_18">(b)<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_7"> </inline>Disturbance resulting from the
+                                    creation of an easement or other permanent right or a right of
+                                    temporary occupation under <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">section
+                                        20</ref> of this Ordinance.</td>
+                                <td></td>
+                                <td class="first_line_indent_-16 left_indent_17">(b)<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_7"> </inline>A disturbance payment.</td>
+                                <td></td>
+                                <td class="first_line_indent_-16 left_indent_17">(b)<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_7"> </inline>Same as in paragraph (a).</td>
+                                <td></td>
+                                <td class="first_line_indent_-16 left_indent_17">(b)<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_7"> </inline>Same as in paragraph (a).</td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <p class="left_indent_2 first_line_indent_0">3.</p>
+                                </td>
+                                <td></td>
+                                <td class="first_line_indent_-16 left_indent_18">(a)<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_7"> </inline>The extinction, by the operation
+                                    of <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">section
+                                        18(2)</ref> of this Ordinance, of any easement in favour of
+                                    land not resumed when contiguous or adjacent land is
+                                    resumed.</td>
+                                <td></td>
+                                <td class="first_line_indent_-16 left_indent_18">(a)<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_7"> </inline>The expense fairly and reasonably
+                                    incurred in remedying or mitigating the effect of the extinction
+                                    of the easement, as far as may be practicable, and any
+                                    diminution in the open market value of the claimant’s interest
+                                    in the land not resumed after such expense has been
+                                    incurred.</td>
+                                <td></td>
+                                <td class="first_line_indent_-16 left_indent_18">(a)<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_8"> </inline>Any person owning a compensatable
+                                    interest in the land not resumed.</td>
+                                <td></td>
+                                <td class="first_line_indent_-16 left_indent_17">(a)<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_7"> </inline>Before the expiration of 1 year
+                                    from the date of resumption of the contiguous or adjacent
+                                    land.</td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                                </td>
+                                <td></td>
+                                <td class="first_line_indent_-16 left_indent_18">(b)<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_7"> </inline>Disturbance resulting from the
+                                    extinction of that easement.</td>
+                                <td></td>
+                                <td class="first_line_indent_-16 left_indent_17">(b)<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_7"> </inline>A disturbance payment.</td>
+                                <td></td>
+                                <td class="first_line_indent_-16 left_indent_18">(b)<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_7"> </inline>Same as in paragraph (a).</td>
+                                <td></td>
+                                <td class="first_line_indent_-16 left_indent_18">(b)<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_7"> </inline>Same as in paragraph (a).</td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <p class="left_indent_2 first_line_indent_0">4.</p>
+                                </td>
+                                <td></td>
+                                <td class="first_line_indent_-16 left_indent_18">(a)<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_7"> </inline>The closure of, or extinction,
+                                    modification or restriction of a private right in respect of, a
+                                    road or part of a road under <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">section
+                                        22</ref> of this Ordinance, so that access to any land is
+                                    adversely affected.</td>
+                                <td></td>
+                                <td class="first_line_indent_-16 left_indent_18">(a)<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_7"> </inline>The expense fairly and reasonably
+                                    incurred in remedying or mitigating the effect of such closure,
+                                    extinction, modification or restriction, as far as may be
+                                    practicable, and any diminution in the open market value of the
+                                    claimant’s interest in the land after such expense has been
+                                    incurred.</td>
+                                <td></td>
+                                <td class="first_line_indent_-16 left_indent_18">(a)<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_7"> </inline>Any person owning a compensatable
+                                    interest in the land.</td>
+                                <td></td>
+                                <td class="first_line_indent_-16 left_indent_18">(a)<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_7"> </inline>Before the expiration of 1 year
+                                    from the closure, extinction, modification or restriction.</td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                                </td>
+                                <td></td>
+                                <td class="first_line_indent_-16 left_indent_18">(b)<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_7"> </inline>Disturbance resulting from that
+                                    closure, extinction, modification or restriction.</td>
+                                <td></td>
+                                <td class="first_line_indent_-16 left_indent_17">(b)<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_7"> </inline>A disturbance payment.</td>
+                                <td></td>
+                                <td class="first_line_indent_-16 left_indent_18">(b)<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_7"> </inline>Same as in paragraph (a).</td>
+                                <td></td>
+                                <td class="first_line_indent_-16 left_indent_18">(b)<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_7"> </inline>Same as in paragraph (a).</td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <p class="left_indent_2 first_line_indent_0">5.</p>
+                                </td>
+                                <td></td>
+                                <td class="first_line_indent_-16 left_indent_18">(a)<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_7"> </inline>The extinction, modification or
+                                    restriction of any private right over Government foreshore or
+                                    sea-bed under <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">section
+                                        22</ref> of this Ordinance.</td>
+                                <td></td>
+                                <td class="first_line_indent_-16 left_indent_18">(a)<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_7"> </inline>The amount which is fairly and
+                                    reasonably assessed to be the open market value of the right
+                                    and, where the claimant has a compensatable interest in
+                                    contiguous or adjacent land, any diminution in the open market
+                                    value of that interest.</td>
+                                <td></td>
+                                <td class="first_line_indent_-16 left_indent_17">(a)<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_7"> </inline>Any person in whom the private
+                                    right is vested.</td>
+                                <td></td>
+                                <td class="first_line_indent_-16 left_indent_18">(a)<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_8"> </inline>Before the expiration of 1 year
+                                    from the date of extinction, modification or restriction.</td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                                </td>
+                                <td></td>
+                                <td class="first_line_indent_-16 left_indent_18">(b)<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_7"> </inline>Disturbance resulting from that
+                                    extinction, modification or
+                                    restriction.<marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                                <td></td>
+                                <td class="first_line_indent_-16 left_indent_18">(b)<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_7"> </inline>A disturbance payment.</td>
+                                <td></td>
+                                <td class="first_line_indent_-16 left_indent_18">(b)<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_7"> </inline>Same as in paragraph (a).</td>
+                                <td></td>
+                                <td class="first_line_indent_-16 left_indent_18">(b)<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_7"> </inline>Same as in paragraph (a).</td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <p class="left_indent_2 first_line_indent_0">6.</p>
+                                </td>
+                                <td></td>
+                                <td class="first_line_indent_-16 left_indent_18">(a)<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_7"> </inline>Physical or structural damage to
+                                    any land or building resulting from the works.</td>
+                                <td></td>
+                                <td class="first_line_indent_-16 left_indent_18">(a)<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_7"> </inline>The expense which is fairly and
+                                    reasonably incurred in repairing the damage and any expense
+                                    fairly and reasonably incurred in preventing or mitigating the
+                                    damage.</td>
+                                <td></td>
+                                <td class="first_line_indent_-16 left_indent_17">(a)<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_7"> </inline>Any person owning a compensatable
+                                    interest in the land or building.</td>
+                                <td></td>
+                                
+                                <td class="first_line_indent_-16 left_indent_18">(a)<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_8"> </inline>Before the expiration of 1 year
+                                    from the date of the completion of the works.</td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                                </td>
+                                <td></td>
+                                <td class="first_line_indent_-16 left_indent_18">(b)<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_7"> </inline>Disturbance resulting from the
+                                    structural damage mentioned in paragraph
+                                    (a).<marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker></td>
+                                <td></td>
+                                <td>(b)<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_7"> </inline>A disturbance payment.</td>
+                                <td></td>
+                                <td class="first_line_indent_-16 left_indent_18">(b)<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_7"> </inline>Same as in paragraph (a).</td>
+                                <td></td>
+                                <td class="first_line_indent_-16 left_indent_18">(b)<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_7"> </inline>Same as in paragraph (a).</td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <p class="left_indent_2 first_line_indent_0">7.</p>
+                                </td>
+                                <td></td>
+                                <td class="first_line_indent_-16 left_indent_18">(a)<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_7"> </inline>Physical or structural damage to
+                                    any land or building resulting from the exercise of any power
+                                    contained in <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">section 5</ref> or <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">24</ref> of
+                                    this Ordinance.</td>
+                                <td></td>
+                                <td class="first_line_indent_-16 left_indent_18">(a)<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_7"> </inline>The expense which is fairly and
+                                    reasonably incurred in repairing the damage and any expense
+                                    fairly and reasonably incurred in preventing or mitigating the
+                                    damage.</td>
+                                <td></td>
+                                <td class="first_line_indent_-16 left_indent_18">(a)<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_7"> </inline>Any person owning a compensatable
+                                    interest in the land or building.</td>
+                                <td></td>
+                                <td class="first_line_indent_-16 left_indent_18">(a)<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_7"> </inline>Before the expiration of 1 year
+                                    from the date of completion of the operations carried out under
+                                        <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">section
+                                        5</ref> or <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">24</ref> of
+                                    this Ordinance from which the damage is alleged to have
+                                    resulted.</td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                                </td>
+                                <td></td>
+                                <td class="first_line_indent_-16 left_indent_18">(b)<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_7"> </inline>Disturbance resulting from the
+                                    exercise of any power contained in <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">section
+                                        24</ref> of this Ordinance.</td>
+                                <td></td>
+                                <td class="first_line_indent_-16 left_indent_18">(b)<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_7"> </inline>A disturbance payment.</td>
+                                <td></td>
+                                <td class="first_line_indent_-16 left_indent_18">(b)<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_7"> </inline>Same as in paragraph (a).</td>
+                                <td></td>
+                                <td class="first_line_indent_-16 left_indent_18">(b)<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_7"> </inline>Same as in paragraph (a).</td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <p class="left_indent_2 first_line_indent_0">8.</p>
+                                </td>
+                                <td></td>
+                                <td class="first_line_indent_-16 left_indent_18">(a)<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_7"> </inline>The removal, under <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">section
+                                        26</ref> of this Ordinance, of any object or structure which
+                                    was erected and maintained without the contravention of any
+                                    Ordinance or Government lease.</td>
+                                <td></td>
+                                <td class="first_line_indent_-16 left_indent_18">(a)<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_7"> </inline>Any diminution in the open market
+                                    value of the claimant’s interest in the land or building; and
+                                    the expense which is fairly and reasonably incurred in moving
+                                    the object or structure and making good that part of the
+                                    building from which it is removed.</td>
+                                <td></td>
+                                <td class="first_line_indent_-16 left_indent_18">(a)<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_7"> </inline>Any person owning a compensatable
+                                    interest in the land or building.</td>
+                                <td></td>
+                                <td class="first_line_indent_-16 left_indent_18">(a)<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_7"> </inline>Before the expiration of 1 year
+                                    from the date of removal.</td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                                </td>
+                                <td></td>
+                                <td class="first_line_indent_-16 left_indent_18">(b)<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_7"> </inline>Reinstating an object or structure
+                                    described in paragraph (a) or replacing the same with a similar
+                                    object or structure.</td>
+                                <td></td>
+                                <td class="first_line_indent_-16 left_indent_18">(b)<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_7"> </inline>The expense fairly and reasonably
+                                    incurred in so doing in so far as that expense is not taken into
+                                    account under paragraph (a). </td>
+                                <td></td>
+                                <td class="first_line_indent_-16 left_indent_18">(b)<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_7"> </inline>Same as in paragraph (a).</td>
+                                <td></td>
+                                <td class="first_line_indent_-16 left_indent_18">(b)<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_7"> </inline>Before the expiration of 1 year
+                                    from the date of reinstatement or replacement.</td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                                </td>
+                                <td></td>
+                                <td class="first_line_indent_-16 left_indent_18">(c)<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_7"> </inline>The loss sustained in respect of
+                                    an object or structure which was erected and maintained without
+                                    the contravention of any Ordinance or Government lease and is
+                                    not to be reinstated or replaced with a similar object or
+                                    structure.</td>
+                                <td></td>
+                                <td class="first_line_indent_-16 left_indent_18">(c)<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_7"> </inline>The amount which is fairly and
+                                    reasonably estimated as the value of the object or
+                                    structure.</td>
+                                <td></td>
+                                <td class="first_line_indent_-16 left_indent_18">(c)<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_7"> </inline>Any person owning a share or
+                                    interest in the object or structure.</td>
+                                <td></td>
+                                <td class="first_line_indent_-16 left_indent_18">(c)<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_7"> </inline>Same as in paragraph (a).</td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                                </td>
+                                <td></td>
+                                <td class="first_line_indent_-16 left_indent_18">(d)<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_7"> </inline>Disturbance resulting from the
+                                    exercise of any power contained in <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">section
+                                        26</ref> of this Ordinance.</td>
+                                <td></td>
+                                <td class="first_line_indent_-16 left_indent_18">(d)<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_7"> </inline>A disturbance payment.</td>
+                                <td></td>
+                                <td class="first_line_indent_-16 left_indent_18">(d)<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_7"> </inline>Same as in paragraph (a).</td>
+                                <td></td>
+                                <td class="first_line_indent_-16 left_indent_18">(d)<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_7"> </inline>Same as in paragraph (a).</td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                                    <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                                    <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                                    <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                                    <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                                    <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                                    <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                                    <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                                    <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                                    <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                                    <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                                    <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                                </td>
+                                <td></td>
+                                <td class="first_line_indent_-16 left_indent_18"></td>
+                                <td></td>
+                                <td class="first_line_indent_-16 left_indent_18"></td>
+                                <td></td>
+                                <td class="first_line_indent_-16 left_indent_18"></td>
+                                <td></td>
+                                <td class="first_line_indent_-16 left_indent_18"></td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <p class="left_indent_2 first_line_indent_0">9.</p>
+                                </td>
+                                <td></td>
+                                <td rowspan="4">An amendment required or a condition imposed, under
+                                        <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">section
+                                        27(1)(c)</ref> or (d) of this Ordinance (other than a
+                                    condition mentioned in <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">section
+                                        27(7)</ref> of this Ordinance), to avoid
+                                    incompatibility
+                                    with the works for the construction of a railway.
+                                    <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Amended <ref href="hk/2021/er3">E.R. 3 of
+                                        2021</ref>)</sourceNote></td>
+                                <td></td>
+                                <td>The amount which is fairly and reasonably estimated as the loss
+                                    to the claimant, including—</td>
+                                <td></td>
+                                <td rowspan="4">The owner of the land on which the building works
+                                    are carried out.</td>
+                                <td></td>
+                                <td rowspan="4">Before the expiration of 1 year from the completion
+                                    of the building works.</td>
+                            </tr>
+                            <tr>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                                <td class="first_line_indent_-13 left_indent_23">(i)<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_5"> </inline>any additional expense fairly and
+                                    reasonably incurred in carrying out building works; and</td>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                            <tr>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                                <td class="first_line_indent_-14 left_indent_22">(ii)<inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="width_4"> </inline>professional fees and
+                                    expenses,</td>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                            <tr>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                                <td>which loss, expense, fees and expenses are attributable solely
+                                    to compliance with the amendment required or the condition
+                                    imposed.</td>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                            
+                            
+                        </tbody>
+                    </table>
+                    
+                    
+                    
+                </text></section></part></schedule></main></ordinance>

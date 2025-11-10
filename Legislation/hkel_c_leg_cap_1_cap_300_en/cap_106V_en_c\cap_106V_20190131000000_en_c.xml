@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?><subLeg xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd" xml:lang="en"><meta><docName>Cap. 106 sub. leg. V</docName><docType>cap</docType><docNumber>106V</docNumber><docStatus>In effect</docStatus><dc:identifier>/hk/cap106V!en</dc:identifier><dc:date>2019-01-31</dc:date><dc:subject>legislation</dc:subject><dc:language>en</dc:language><dc:publisher>DoJ</dc:publisher><dc:rights>the Government of the Hong Kong Special Administrative Region</dc:rights></meta><main xml:lang="en" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd"><docTitle id="ID_1438402552577_001" name="shortTitle" reason="inEffect" status="operational" temporalId="shortTitle" startPeriod="2012-08-02">Telecommunications (Carrier Licences)
+            Regulation</docTitle><enactingFormula role="empoweringSection">(<ref href="/hk/cap106/s7">Cap. 106, section
+                7(2)</ref>)</enactingFormula><sourceNote>(Enacting provision omitted—<ref href="/hk/2012/er2">E.R. 2 of
+            2012</ref>)<marker role="blank-line"></marker><marker role="blank-line"></marker></sourceNote><commencementNote>[1 April 2001]</commencementNote><sourceNote>(Format changes—<ref href="/hk/2012/er2">E.R. 2 of 2012</ref>)</sourceNote><section id="ID_1438402552609_001" name="s1" reason="omittedAsSpent" startPeriod="2012-08-02" status="omitted" temporalId="s1"><num value="1">1.</num><sourceNote>(Omitted as spent—<ref href="/hk/2012/er2">E.R. 2 of 2012</ref>)</sourceNote></section><section id="ID_1438402552609_003" name="s2" reason="inEffect" startPeriod="2012-08-02" status="operational" temporalId="s2"><num value="2">2.</num><heading>Interpretation</heading><subsection id="ID_1438410838092_004" name="1" temporalId="s2_1"><num value="1">(1)</num><leadIn>In this Regulation, unless the context otherwise requires—  <sourceNote>(<ref href="/hk/2008/ln132">L.N. 132 of 2008</ref>)</sourceNote></leadIn><def name="CarrierLicence"><term>carrier licence</term> (<term xml:lang="zh-Hant-HK">傳送者牌照</term>) does not include an exclusive licence;</def><def name="EarthStation"><leadIn><term>earth station</term> (<term xml:lang="zh-Hant-HK">地球站</term>) means a station located on the Earth’s surface or within the major portion of the Earth’s atmosphere and intended for communications with or reception from—</leadIn><paragraph id="ID_1438410838092_026" name="a" temporalId="s2_1_a"><num value="a">(a)</num><content>one or more space stations; or</content></paragraph><paragraph id="ID_1438410838092_034" name="b" temporalId="s2_1_b"><num value="b">(b)</num><content>one or more stations of the same kind by means of one or more reflecting satellites intended to reflect radiocommunications signals or other objects in space;</content></paragraph></def><def name="ExistingLicence"><leadIn><term>existing licence</term> (<term xml:lang="zh-Hant-HK">現有牌照</term>) means a licence—</leadIn><paragraph id="ID_1438410838108_012" name="a" temporalId="s2_1_a"><num value="a">(a)</num><content>deemed to be granted under the Ordinance by virtue of <ref>section 7O</ref> of the Ordinance; and</content></paragraph><paragraph id="ID_1438410838108_020" name="b" temporalId="s2_1_b"><num value="b">(b)</num><content>which falls within the definition of <i><b>carrier licence</b></i>;</content></paragraph></def><def name="FixedCarrierLicence"><term>fixed carrier licence</term> (<term xml:lang="zh-Hant-HK">固定傳送者牌照</term>) means a carrier licence issued before the commencement* of the
+                Telecommunications (Carrier Licences) (Amendment) <ref>Regulation 2008</ref>
+                (<ref href="/hk/2008/ln132">L.N. 132 of
+                2008</ref>)
+                for communication between fixed locations, but does not include a space station
+                carrier licence;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2008/ln132">L.N. 132 of 2008</ref>)</sourceNote></def><def name="FixedCarrier,Licence"><term>fixed carrier</term><i><b> (<term xml:lang="en">restricted</term>) <term>licence</term></b></i> (<term xml:lang="zh-Hant-HK">有限制固定傳送者牌照</term>) means a fixed carrier licence which only entitles the licensee to establish or maintain a telecommunications network for carrying television programmes within the meaning of <ref>section 2(1)</ref> of the Broadcasting Ordinance (<ref href="/hk/cap562">Cap. 562</ref>);</def><def name="MobileCarrierLicence"><leadIn><term>mobile carrier licence</term> (<term xml:lang="zh-Hant-HK">移動傳送者牌照</term>) means a carrier licence issued before 21 November 2008 for communications between—  <sourceNote>(<ref href="/hk/2008/ln132">L.N. 132 of 2008</ref>)</sourceNote></leadIn><paragraph id="ID_1438410838123_019" name="a" temporalId="s2_1_a"><num value="a">(a)</num><content>moving locations; or</content></paragraph><paragraph id="ID_1438410838123_027" name="b" temporalId="s2_1_b"><num value="b">(b)</num><content>fixed locations and moving locations,</content></paragraph><continued>	but does not include a space station carrier licence;</continued></def><def name="MobileCarrier,Licence"><leadIn><term>mobile carrier</term><i><b> (<term xml:lang="en">restricted</term>) <term>licence</term></b></i> (<term xml:lang="zh-Hant-HK">有限制移動傳送者牌照</term>) means a mobile carrier licence—</leadIn><paragraph id="ID_1438410838123_048" name="a" temporalId="s2_1_a"><num value="a">(a)</num><content>mentioned in paragraph (a) or (b) of the definition of <i><b>mobile carrier licence</b></i>; and</content></paragraph><paragraph id="ID_1438410838123_056" name="b" temporalId="s2_1_b"><num value="b">(b)</num><content>issued for radiocommunications where moving stations primarily for use in locations other than on land are used;</content></paragraph></def><def name="RelevantLicence"><leadIn><term>relevant licence</term> (<term xml:lang="zh-Hant-HK">有關牌照</term>) means—</leadIn><paragraph id="ID_1438410838123_070" name="a" temporalId="s2_1_a"><num value="a">(a)</num><content>an existing licence other than a carrier licence issued for the licensee to establish, possess, maintain, use and operate a space station or earth station for telemetry, tracking, control and monitoring of a space object and for space radiocommunications;</content></paragraph><paragraph id="ID_1438410838139_006" name="b" temporalId="s2_1_b"><num value="b">(b)</num><content>a fixed carrier licence;</content></paragraph><paragraph id="ID_1438410838139_014" name="c" temporalId="s2_1_c"><num value="c">(c)</num><content>a fixed carrier (restricted) licence;</content></paragraph><paragraph id="ID_1438410838139_022" name="d" temporalId="s2_1_d"><num value="d">(d)</num><content>a mobile carrier licence; or</content></paragraph><paragraph id="ID_1438410838139_030" name="e" temporalId="s2_1_e"><num value="e">(e)</num><content>a mobile carrier (restricted) licence;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2008/ln132">L.N. 132 of 2008</ref>)</sourceNote></content></paragraph></def><def name="SpaceStation"><term>space station</term> (<term xml:lang="zh-Hant-HK">空間電台</term>) means a radiocommunications station located on a space object;</def><def name="SpaceStationCarrierLicence"><term>space station carrier licence</term> (<term xml:lang="zh-Hant-HK">空間電台傳送者牌照</term>) means a carrier licence issued for the licensee to establish, possess, maintain, use and operate a space station or earth station for telemetry, tracking, control and monitoring of a space object and for space radiocommunications;</def><def name="Station"><term>station</term> (<term xml:lang="zh-Hant-HK">電台</term>) means one or more transmitters or receivers or a combination of transmitters and receivers, including the accessory equipment, necessary at one location for carrying a radiocommunications service;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2008/ln132">L.N. 132 of 2008</ref>)</sourceNote></def><def name="UnifiedCarrierLicence"><term>unified carrier licence</term> (<term xml:lang="zh-Hant-HK">綜合傳送者牌照</term>) means a carrier licence issued on or after the commencement* of
+                the Telecommunications (Carrier Licences) (Amendment) <ref>Regulation 2008</ref>
+                (<ref href="/hk/2008/ln132">L.N. 132 of
+                2008</ref>),
+                but does not include a space station carrier licence.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2008/ln132">L.N. 132 of
+                    2008</ref>)</sourceNote></def></subsection><subsection id="ID_1438410838154_004" name="2" temporalId="s2_2"><num value="2">(2)</num><content>For the avoidance of doubt, it is hereby declared that a mobile carrier licence
+                issued on or after the commencement* of the Telecommunications (Carrier Licences)
+                (Amendment) <ref>Regulation 2008</ref>
+                (<ref href="/hk/2008/ln132">L.N. 132 of
+                2008</ref>)
+                but before 21 November 2008 shall not be construed as a unified carrier
+                    licence.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2008/ln132">L.N. 132 of 2008</ref>)</sourceNote></content></subsection><editorialNote type="footnote" id="ID_1501747825707_001"><content>Editorial Note:</content><content><inline class="force_orig_font">*</inline> Commencement date: 1 August
+                2008.</content></editorialNote></section><section id="ID_1438402552640_002" name="s3" reason="inEffect" startPeriod="2012-08-02" status="operational" temporalId="s3"><num value="3">3.</num><heading>General conditions for carrier licences</heading><subsection id="ID_1438410838201_025" name="1" temporalId="s3_1"><num value="1">(1)</num><content>Subject to subsection (2), the general conditions for a carrier licence are the general conditions specified in <ref>Schedule 1</ref>.</content></subsection><subsection id="ID_1438410838201_033" name="2" temporalId="s3_2"><num value="2">(2)</num><content>Subsection (1) does not apply to an existing licence.</content></subsection></section><section id="ID_1438402552655_002" name="s4" reason="inEffect" startPeriod="2012-08-02" status="operational" temporalId="s4"><num value="4">4.</num><heading>Period of validity of carrier licences</heading><subsection id="ID_1438410838217_019" name="1" temporalId="s4_1"><num value="1">(1)</num><content>Subject to subsections (2), (3), (4), (6A), (6B), (6C) and (7), the period of validity of a unified carrier licence, fixed carrier licence, fixed carrier (restricted) licence, mobile carrier licence or space station carrier licence is the period of validity specified in <ref>Schedule 2</ref> in relation to the licence.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2008/ln132">L.N. 132 of 2008</ref>)</sourceNote></content></subsection><subsection id="ID_1438410838232_005" name="2" temporalId="s4_2"><num value="2">(2)</num><content>Subsection (1) does not apply to an existing licence.</content></subsection><subsection id="ID_1438410838232_013" name="3" temporalId="s4_3"><num value="3">(3)</num><leadIn>Where an existing licence has been surrendered to the Authority in return for the Authority issuing under <ref>section 7(5)</ref> of the Ordinance a carrier licence (other than a unified carrier licence)—  <sourceNote>(<ref href="/hk/2008/ln132">L.N. 132 of 2008</ref>)</sourceNote></leadIn><paragraph id="ID_1438410838232_021" name="a" temporalId="s4_3_a"><num value="a">(a)</num><content>to the holder of the existing licence; and</content></paragraph><paragraph id="ID_1438410838232_029" name="b" temporalId="s4_3_b"><num value="b">(b)</num><content>which is, in the opinion of the Authority but subject to subsection (4), equivalent to the existing licence,</content></paragraph><continued>	then the period of validity of the carrier licence (other than a unified carrier licence), and notwithstanding the provisions of <ref>Schedule 2</ref>, shall commence upon the surrender of the existing licence and expire at the expiration of the period of validity which the existing licence had left to run immediately before it was so surrendered.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2008/ln132">L.N. 132 of 2008</ref>)</sourceNote></continued></subsection><subsection id="ID_1438410838232_042" name="4" temporalId="s4_4"><num value="4">(4)</num><leadIn>For the purposes of subsection (3), a carrier licence (other than a unified carrier licence) is equivalent to an existing licence—  <sourceNote>(<ref href="/hk/2008/ln132">L.N. 132 of 2008</ref>)</sourceNote></leadIn><paragraph id="ID_1438410838248_005" name="a" temporalId="s4_4_a"><num value="a">(a)</num><content>where the frequency band, if any, to which the carrier licence (other than a unified carrier licence) relates is the same frequency band to which the existing licence relates; and</content></paragraph><paragraph id="ID_1438410838248_013" name="b" temporalId="s4_4_b"><num value="b">(b)</num><content>irrespective of whether any fee payable for the carrier licence (other than a unified carrier licence) is different from any fee payable for the existing licence.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2008/ln132">L.N. 132 of 2008</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438410838248_020" name="5...6" temporalId="s4_5...6"><num value="5...6">(5)-(6)</num><sourceNote>(Repealed <ref href="/hk/2008/ln132">L.N. 132 of 2008</ref>)</sourceNote></subsection><subsection id="ID_1438410838248_028" name="6A" temporalId="s4_6A"><num value="6A">(6A)</num><leadIn>Where a relevant licence has been surrendered to the Authority in return for the Authority issuing under <ref>section 7(5)</ref> of the Ordinance a unified carrier licence—</leadIn><paragraph id="ID_1438410838248_036" name="a" temporalId="s4_6A_a"><num value="a">(a)</num><content>to the holder of the relevant licence; and</content></paragraph><paragraph id="ID_1438410838248_044" name="b" temporalId="s4_6A_b"><num value="b">(b)</num><content>which is, in the opinion of the Authority but subject to subsection (6B), equivalent to the relevant licence,</content></paragraph><continued>	the period of validity of the unified carrier licence shall, notwithstanding <ref>Schedule 2</ref>, commence upon the surrender of the relevant licence, and expire at the expiration of the period of validity which the relevant licence had left to run immediately before it was so surrendered.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2008/ln132">L.N. 132 of 2008</ref>)</sourceNote></continued></subsection><subsection id="ID_1438410838248_057" name="6B" temporalId="s4_6B"><num value="6B">(6B)</num><leadIn>For the purposes of subsection (6A), a unified carrier licence is equivalent to a relevant licence—</leadIn><paragraph id="ID_1438410838264_005" name="a" temporalId="s4_6B_a"><num value="a">(a)</num><content>if the service provided under the unified carrier licence is, in the opinion of the Authority, the same as the service provided under the relevant licence; and</content></paragraph><paragraph id="ID_1438410838264_013" name="b" temporalId="s4_6B_b"><num value="b">(b)</num><content>irrespective of whether any fee payable for the unified carrier licence is different from any fee payable for the relevant licence.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2008/ln132">L.N. 132 of 2008</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438410838264_020" name="6C" temporalId="s4_6C"><num value="6C">(6C)</num><content>Where the Authority has issued a unified carrier licence under <ref>section 7(5)</ref> of the Ordinance to the holder of a relevant licence which has been surrendered (other than the surrender as referred to in subsection (6A)) or which has expired, the period of validity of the unified carrier licence shall be the period as specified in <ref>Schedule 2</ref>.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2008/ln132">L.N. 132 of 2008</ref>)</sourceNote></content></subsection><subsection id="ID_1438410838264_028" name="7" temporalId="s4_7"><num value="7">(7)</num><leadIn>For the avoidance of doubt, it is hereby declared that nothing in this section shall be construed to confer any right or privilege on a person to—</leadIn><paragraph id="ID_1438410838264_036" name="a" temporalId="s4_7_a"><num value="a">(a)</num><content>be issued a carrier licence; or</content></paragraph><paragraph id="ID_1438410838279_005" name="b" temporalId="s4_7_b"><num value="b">(b)</num><content>have the period of validity of a carrier licence extended or renewed.</content></paragraph></subsection></section><section id="ID_1438402552687_001" name="s5" reason="inEffect" startPeriod="2012-08-02" status="operational" temporalId="s5"><num value="5">5.</num><heading>Fees payable for carrier licences</heading><subsection id="ID_1438410838310_020" name="1" temporalId="s5_1"><num value="1">(1)</num><content>Subject to subsections (2), (3), (4), (5), (6), (7) and (8), the fees payable for a unified carrier licence, fixed carrier licence, fixed carrier (restricted) licence, mobile carrier licence, mobile carrier (restricted) licence or space station carrier licence are the fees specified in <ref>Schedule 3</ref> in relation to the licence.</content></subsection><subsection id="ID_1438410838326_005" name="2" temporalId="s5_2"><num value="2">(2)</num><content>Subsection (1) does not apply to an existing licence.</content></subsection><subsection id="ID_1438410838326_013" name="3" temporalId="s5_3"><num value="3">(3)</num><content>The annual date of payment for a fee specified in <ref>Schedule 3</ref> in relation to a carrier licence mentioned in <ref>section 4(3)</ref> that is not surrendered to the Authority in return for a unified carrier licence shall, notwithstanding the provisions of <ref>Schedule 3</ref>, be the anniversary date of the issue of the existing licence previously surrendered to the Authority in return for that carrier licence, or the annual date of payment as specified by the Chief Executive in Council (as the case may be).</content></subsection><subsection id="ID_1438410838342_005" name="4" temporalId="s5_4"><num value="4">(4)</num><content>The annual date of payment for a fee specified in <ref>Schedule 3</ref> in relation to a unified carrier licence mentioned in <ref>section 4(6A)</ref>, where the relevant licence surrendered is a licence specified in <ref>Schedule 3</ref>, shall be the annual date of payment for a fee as specified in that <ref>Schedule</ref>, in relation to that relevant licence.</content></subsection><subsection id="ID_1438410838342_013" name="5" temporalId="s5_5"><num value="5">(5)</num><content>The annual date of payment for a fee specified in <ref>Schedule 3</ref> in relation to a unified carrier licence mentioned in <ref>section 4(6A)</ref>, where the relevant licence surrendered is a licence specified in Part I of <ref>Schedule 1</ref> to the Telecommunications Regulations (<ref href="/hk/cap106A">Cap. 106 sub. leg. A</ref>) immediately before the commencement* of the Communications Authority Ordinance (<ref href="/hk/cap616">Cap. 616</ref>), shall, notwithstanding the provisions of <ref>Schedule 3</ref>, be the anniversary date of the issue of that relevant licence.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2011/17">17 of 2011 s. 28</ref>)</sourceNote></content></subsection><subsection id="ID_1438410838357_005" name="6" temporalId="s5_6"><num value="6">(6)</num><content>The annual date of payment for a fee specified in <ref>Schedule 3</ref> in relation to a unified carrier licence mentioned in <ref>section 4(6A)</ref>, where the relevant licence surrendered is an existing licence other than a licence specified in Part I of <ref>Schedule 1</ref> to the Telecommunications Regulations (<ref href="/hk/cap106A">Cap. 106 sub. leg. A</ref>) immediately before the commencement* of the Communications Authority Ordinance (<ref href="/hk/cap616">Cap. 616</ref>), shall, notwithstanding the provisions of <ref>Schedule 3</ref>, be the anniversary date of the issue of that relevant licence.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2011/17">17 of 2011 s. 28</ref>)</sourceNote></content></subsection><subsection id="ID_1438410838388_005" name="7" temporalId="s5_7"><num value="7">(7)</num><content>The annual date of payment for a fee specified in <ref>Schedule 3</ref> in
+                relation to a unified carrier licence mentioned in <ref>section 4(6A)</ref>, where
+                the relevant licence surrendered is a carrier licence previously issued in return
+                for an existing licence surrendered to the Authority as mentioned in <ref>section
+                    4(3)</ref> as it read before its amendment by the Telecommunications (Carrier
+                Licences) (Amendment) <ref>Regulation 2008</ref>
+                (<ref href="/hk/2008/ln132">L.N. 132 of
+                2008</ref>),
+                shall, notwithstanding the provisions of <ref>Schedule 3</ref>, be the anniversary
+                date of the issue of that existing licence.</content></subsection><subsection id="ID_1438410838404_005" name="8" temporalId="s5_8"><num value="8">(8)</num><content>The annual date of payment for a fee specified in <ref>Schedule 3</ref> in relation to a unified carrier licence mentioned in <ref>section 4(6C)</ref> shall be the annual date of payment for a fee as specified in that <ref>Schedule</ref>.</content></subsection><sourceNote>(<ref href="/hk/2008/ln132">L.N. 132 of 2008</ref>)</sourceNote><editorialNote type="footnote" id="ID_1501748106766_001"><content>Editorial Note:</content><content><inline class="force_orig_font">*</inline> Commencement date : 1 April
+                2012.</content></editorialNote></section><section id="ID_1438402552702_002" name="s6" reason="inEffect" startPeriod="2012-08-02" status="operational" temporalId="s6"><num value="6">6.</num><heading>References in relevant licences to fixed telecommunications network services
+            licences,
+            etc.</heading><sourceNote>(<ref href="/hk/2008/ln132">L.N. 132 of 2008</ref>)</sourceNote><subsection id="ID_1438410838451_004" name="1" temporalId="s6_1"><num value="1">(1)</num><content>Subject to subsection (2), a reference in a relevant licence to a term
+                mentioned in column 1 of the table to this section (including grammatical variations
+                and cognate expressions of such term) shall include a reference to the term
+                mentioned opposite thereto in column 2 of that table (including grammatical
+                variations and cognate expressions of the second-mentioned term) and, accordingly,
+                the licensee shall comply with the provisions of the relevant licence in accordance
+                with that reference as so construed.</content></subsection><subsection id="ID_1438410838466_005" name="2" temporalId="s6_2"><num value="2">(2)</num><content>Subsection (1) shall not apply to a reference mentioned in that subsection to
+                the extent, if any, to which the operation of that subsection in the case of that
+                reference is inconsistent with the operation of the provisions of <ref>section
+                    7O</ref> of the Ordinance in the case of that
+                reference.</content></subsection><text>
+            <content class="align_center ">Table</content>
+            <table xmlns="http://www.w3.org/1999/xhtml" width="477" class="repeat_header">
+                <col width="48%"></col>
+                <col width="4%"></col>
+                <col width="48%"></col>
+                <thead>
+                    <tr>
+                        <td>
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Column
+                                1 </center>
+                        </td>
+                        <th></th>
+                        <td>
+                            <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Column 2</center>
+                        </td>
+                    </tr>
+                </thead>
+                <tr>
+                    <td>Fixed telecommunications network services licence</td>
+                    <td></td>
+                    <td class="align_justified">Fixed carrier licence, or unified carrier licence
+                        under which a service that may be provided under a fixed carrier licence is
+                        provided</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>Public radiocommunications service licence for personal communications
+                        service</td>
+                    <td></td>
+                    <td class="align_justified">Mobile carrier licence, or unified carrier licence
+                        under which a service that may be provided under a mobile carrier licence is
+                        provided</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>Public radiocommunications service licence for public mobile radiotelephone
+                        service</td>
+                    <td></td>
+                    <td class="align_justified">Mobile carrier licence, or unified carrier licence
+                        under which a service that may be provided under a mobile carrier licence is
+                        provided</td>
+                </tr>
+                <tr>
+                    <td>Public radiocommunications service licence (for services other than land
+                        mobile services)</td>
+                    <td></td>
+                    <td class="align_justified">Mobile carrier (restricted) licence, or unified
+                        carrier licence under which a service that may be provided under a mobile
+                        carrier (restricted) licence is provided</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>Fixed carrier licence</td>
+                    <td></td>
+                    <td class="align_justified">Unified carrier licence under which a service that
+                        may be provided under a fixed carrier licence is provided</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>Fixed carrier (restricted) licence</td>
+                    <td></td>
+                    <td class="align_justified">Unified carrier licence under which a service that
+                        may be provided under a fixed carrier (restricted) licence is provided</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>Mobile carrier licence</td>
+                    <td></td>
+                    <td class="align_justified">Unified carrier licence under which a service that
+                        may be provided under a mobile carrier licence is provided</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>Mobile carrier (restricted) licence</td>
+                    <td></td>
+                    <td class="align_justified">Unified carrier licence under which a service that
+                        may be provided under a mobile carrier (restricted) licence is provided</td>
+                </tr>
+            </table>
+        </text><sourceNote>(<ref href="/hk/2008/ln132">L.N. 132 of 2008</ref>)</sourceNote></section><schedule id="ID_1438402552733_001" name="sch1" reason="inEffect" startPeriod="2016-07-01" status="operational" temporalId="sch1"><num value="1">Schedule 1</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap106V/s3">s. 3</ref>]</note><heading>General Conditions for Carrier Licences</heading><section id="ID_1438410838513_012" name="s1" temporalId="sch1_s1" class="no_header"><num value="1">1.</num><heading>Definitions and interpretation</heading><subsection id="ID_1501752727569_001" name="0" temporalId="sch1_s1_0"><num value="0">1.1 </num><content>In this licence, except as hereinafter provided or unless the context otherwise requires, words or expressions shall have the meanings assigned to them in the Telecommunications Ordinance (<ref href="/hk/cap106">Cap. 106</ref>) (the <i><b>Ordinance</b></i>) and, as the case may be, the Interpretation and General Clauses Ordinance (<ref href="/hk/cap1">Cap. 1</ref>). For the purposes of interpreting this licence, headings and titles shall be disregarded.</content></subsection><subsection id="ID_1501752727569_002" name="0-1" temporalId="sch1_s1_0-1"><num value="0">1.2</num><content>This licence shall not be construed as granting an exclusive right to the licensee to provide the service.</content></subsection><subsection id="ID_1501752727569_003" name="0-2" temporalId="sch1_s1_0-2"><num value="0">1.3</num><content>This licence replaces any licence or any exemption from licensing, however described, which the Authority may have granted to the licensee for providing the service.</content></subsection><subsection id="ID_1501752727569_004" name="0-3" temporalId="sch1_s1_0-3"><num value="0">1.4</num><content>The grant of this licence does not authorize the licensee to do anything which infringes any exclusive licence granted under the Ordinance or any exclusive right to operate and provide telecommunications networks, systems, installations or services granted under any other Ordinance.</content></subsection></section><section id="ID_1438410838513_052" name="s2" temporalId="sch1_s2" class="no_header"><num value="2">2.</num><heading>Transfer</heading><subsection id="ID_1501752727569_005" name="0" temporalId="sch1_s2_0"><num value="0">2.1</num><content>The licensee may, only with the prior written consent of the Authority and subject to such reasonable conditions as the Authority thinks fit, transfer this licence or any permission, right or benefit under this licence. In giving its consent the Authority will have regard to such matters as it thinks fit including but not limited to the effect which the transfer will have on market structure and the financial and technical competence and viability of the transferee.</content></subsection><sourceNote>(<ref href="/hk/2011/17">17 of 2011 s. 28</ref>)</sourceNote></section><section id="ID_1438410838529_012" name="s3" temporalId="sch1_s3" class="no_header"><num value="3">3.</num><heading>International conventions</heading><subsection id="ID_1501752727585_006" name="0" temporalId="sch1_s3_0"><num value="0">3.1 </num><content>The licensee shall at all times perform and observe the requirements of the Constitution and Convention of the International Telecommunication Union and the regulations and recommendations annexed to it, as are stated to be applicable to Hong Kong, and any other international convention, agreement, protocol, understanding or the like to the extent that the instruments described in this General Condition 3.1 impose obligations on Hong Kong of which the Authority gives notice to the licensee, except to the extent that the Authority may in writing exempt the licensee from such compliance.</content></subsection><subsection id="ID_1501752727585_007" name="0-1" temporalId="sch1_s3_0-1"><num value="0">3.2</num><content>Where the Government has been consulted about or is involved in the preparation or negotiation of an international convention, agreement, protocol or understanding or the like or amendments thereto which are on the subject-matter of telecommunications or which relate to another subject-matter but which the Government anticipates could have a material impact on the provision of the service under this licence, the Government will, where practicable, provide the licensee with a reasonable opportunity to make a submission stating its views on the matter.</content></subsection></section><section id="ID_1438410838529_036" name="s4" temporalId="sch1_s4" class="no_header"><num value="4">4.</num><heading>Compliance generally</heading><subsection id="ID_1501752727585_008" name="0" temporalId="sch1_s4_0"><num value="0">4.1 </num><content>The licensee shall comply with the Ordinance, regulations made under the Ordinance, licence conditions or any other instruments which may be issued by the Authority under the Ordinance.</content></subsection></section><section id="ID_1438410838544_012" name="s5" temporalId="sch1_s5" class="no_header"><num value="5">5.</num><heading>Provision of service</heading><subsection id="ID_1501752727585_009" name="0" temporalId="sch1_s5_0"><num value="0">5.1 </num><content>The licensee shall, subject to <ref>Schedule 1</ref> to this licence and any special conditions of this licence relating to the provision of the service, at all times during the validity period of this licence operate, maintain and provide a good, efficient and continuous service in a manner satisfactory to the Authority. The Authority may, on application in writing by the licensee, exempt a part or parts of the service from the requirement of continuous provision.</content></subsection></section><section id="ID_1438410838544_028" name="s6" temporalId="sch1_s6" class="no_header"><num value="6">6.</num><heading>Customer charter</heading><subsection id="ID_1501752727585_010" name="0" temporalId="sch1_s6_0"><num value="0">6.1 </num><content>Unless a waiver in writing is granted by the Authority, the licensee shall prepare a customer charter which sets out the minimum standards of service to the licensee’s customers and gives guidance to the employees of the licensee in their relations and dealings with customers.</content></subsection></section><section id="ID_1438410838544_044" name="s7" temporalId="sch1_s7" class="no_header"><num value="7">7.</num><heading>Confidentiality of customer information</heading><subsection id="ID_1501752727585_011" name="0" temporalId="sch1_s7_0"><num value="0">7.1</num><content>The licensee shall not disclose information of a customer except with the consent of the customer, which form of consent shall be approved by the Authority, except for the prevention or detection of crime or the apprehension or prosecution of offenders or except as may be authorized by or under any law.</content></subsection><subsection id="ID_1501752727585_012" name="0-1" temporalId="sch1_s7_0-1"><num value="0">7.2</num><content>The licensee shall not use information provided by its customers or obtained in the course of provision of service to its customers other than for and in relation to the provision by the licensee of the service.</content></subsection></section><section id="ID_1438410838544_068" name="s8" temporalId="sch1_s8" class="no_header"><num value="8">8.</num><heading>Records and plans of network</heading><subsection id="ID_1501752727585_013" name="0" temporalId="sch1_s8_0"><num value="0">8.1</num><content>The licensee shall keep records and plans (including overall network plans and cable route maps) of the telecommunications installation (including radiocommunications installation) and telecommunications nodes and exchanges, if any, provided under this licence and any other details concerning the network as may be reasonably required by the Authority, including but not limited to information from operational support systems, traffic flow information, and database information relating to the manner in which the network treats any communication (<i><b>network information</b></i>).</content></subsection><subsection id="ID_1501752727585_014" name="0-1" temporalId="sch1_s8_0-1"><num value="0">8.2</num><content>As required by the Authority, the licensee shall make the network information available, within reasonable time, to the Authority or to a person authorized in writing by the Authority for inspection for the Authority’s own purposes.</content></subsection></section><section id="ID_1438410838560_012" name="s9" temporalId="sch1_s9" class="no_header"><num value="9">9.</num><heading>Control of interference and obstruction</heading><subsection id="ID_1501752727585_015" name="0" temporalId="sch1_s9_0"><num value="0">9.1</num><content>The licensee shall take reasonable measures to install, maintain and operate the service and the network in such a manner as not to cause any harmful interference or physical obstruction to any lawful telecommunications service, or cause any physical obstruction to the installation, maintenance, operation, adjustment, repair, alteration, removal or replacement of the facilities of any lawful telecommunications or utility service provider.</content></subsection><subsection id="ID_1501752727585_016" name="0-1" temporalId="sch1_s9_0-1"><num value="0">9.2</num><content>The licensee shall take reasonable measures to ensure that the customers of the service do not cause harmful interference to lawful telecommunications services or utility services through use of the service.</content></subsection><subsection id="ID_1501752727585_017" name="0-2" temporalId="sch1_s9_0-2"><num value="0">9.3</num><content>The Authority may give such reasonable directions as it thinks fit to avoid harmful interference or physical obstruction referred to in General Condition 9.1. The licensee shall comply with the directions. <sourceNote>(<ref href="/hk/2011/17">17 of 2011 s. 28</ref>)</sourceNote></content></subsection></section><section id="ID_1438410838560_044" name="s10" temporalId="sch1_s10" class="no_header"><num value="10">10.</num><heading><sourceNote><inline class="not_bold">(Repealed <ref href="hk/2016/ln57">L.N. 57 of 2016</ref>)</inline></sourceNote><br></br></heading></section><section id="ID_1438410838576_004" name="s11" temporalId="sch1_s11" class="no_header"><num value="11">11.</num><heading>Compliance</heading><subsection id="ID_1501752727647_018" name="0" temporalId="sch1_s11_0"><num value="0">11.1</num><content>If the licensee employs any person under contract for the purpose of the service, or for the installation, maintenance or operation of the network (a <i><b>contractor</b></i>), the licensee shall continue to be responsible for compliance with the conditions of this licence, and the performance thereof, by any contractor.</content></subsection></section><section id="ID_1438410838576_020" name="s12" temporalId="sch1_s12" class="no_header"><num value="12">12.</num><heading>Requirements of radiocommunications installation</heading><subsection id="ID_1501752727647_019" name="0" temporalId="sch1_s12_0"><num value="0">12.1</num><content>Each radiocommunications installation operated by or on behalf of the licensee shall be used only at the location and with emissions and at the frequencies and of the classes and characteristics specified in <ref>Schedule 3</ref> to this licence and with such power and aerial characteristics as are specified in that <ref>Schedule</ref> in relation to the class and characteristics of the emission in use.</content></subsection><subsection id="ID_1501752727647_020" name="0-1" temporalId="sch1_s12_0-1"><num value="0">12.2</num><content>The apparatus comprised in each radiocommunications installation shall at all times comply with such technical standards as may be issued by the Authority.</content></subsection><subsection id="ID_1501752727647_021" name="0-2" temporalId="sch1_s12_0-2"><num value="0">12.3</num><content>The apparatus comprised in a radiocommunications installation shall be of a type approved by the Authority and shall be so designed, constructed, maintained and operated that its use shall not cause any interference to any radiocommunications.</content></subsection><subsection id="ID_1501752727647_022" name="0-3" temporalId="sch1_s12_0-3"><num value="0">12.4</num><content>A radiocommunications installation shall be operated only by the licensee or a person authorized by the licensee. The licensee shall not allow an unauthorized person to have access to the apparatus comprised in a radiocommunications installation. The licensee shall ensure that persons operating each radiocommunications installation shall at all times observe the conditions of this licence.</content></subsection><subsection id="ID_1501752727647_023" name="0-4" temporalId="sch1_s12_0-4"><num value="0">12.5</num><content>
+          <leadIn> The licensee shall not make a change—</leadIn>
+          <paragraph id="ID_1438410838576_070" name="a" temporalId="sch1_s12_0-4_a"><num value="a">(a)</num><content>to any radiocommunications installation; or</content></paragraph>
+          <paragraph id="ID_1438410838576_079" name="b" temporalId="sch1_s12_0-4_b"><num value="b">(b)</num><content>of the location of any radiocommunications installation,</content></paragraph>
+          
+          
+          <continued>without the prior written approval of the Authority. </continued>
+          
+          
+          
+        </content></subsection><subsection id="ID_1501752727647_024" name="0-5" temporalId="sch1_s12_0-5"><num value="0">12.6</num><content>If any telecommunications installation (including radiocommunications installation) crosses above or may fall or be blown onto any overhead power wire (including electric lighting and tramway wires) or power apparatus it shall be guarded to the reasonable satisfaction of the owner of the power wire or power apparatus concerned.</content></subsection></section><section id="ID_1438410838591_020" name="s13" temporalId="sch1_s13" class="no_header"><num value="13">13.</num><heading>Use of frequencies</heading><subsection id="ID_1501752727647_025" name="0" temporalId="sch1_s13_0"><num value="0">13.1</num><content>The radiocommunications installation operated by or on behalf of the licensee shall only be operated on such frequencies as the Authority may assign.</content></subsection></section><section id="ID_1438410838591_036" name="s14" temporalId="sch1_s14" class="no_header"><num value="14">14.</num><heading>Safety</heading><subsection id="ID_1501752727647_026" name="0" temporalId="sch1_s14_0"><num value="0">14.1</num><content>The licensee shall take proper and adequate safety measures for the safeguarding of life and property in connection with all installations, equipment and apparatus operated or used, including safeguarding against exposure to any electrical or radiation hazard emanating from the installations, equipment or apparatus operated or used under this licence.</content></subsection><subsection id="ID_1501752727647_027" name="0-1" temporalId="sch1_s14_0-1"><num value="0">14.2 </num><content>The licensee shall comply with the safety standards and specifications as may from time to time be prescribed by the Authority and any directions of the Authority in relation to any safety matter.</content></subsection></section><section id="ID_1438410838591_060" name="s15" temporalId="sch1_s15" class="no_header"><num value="15">15.</num><heading>Prohibition of claims against government</heading><subsection id="ID_1501752727647_028" name="0" temporalId="sch1_s15_0"><num value="0">15.1 </num><content>The licensee shall have no claim against the Government in tort or in contract in respect of any disturbance or interruption to any part of the network due to works carried out by or on behalf of the Government which result in disturbance to the network.</content></subsection></section><section id="ID_1438410838591_076" name="s16" temporalId="sch1_s16" class="no_header"><num value="16">16.</num><heading>Indemnity</heading><subsection id="ID_1501752727647_029" name="0" temporalId="sch1_s16_0"><num value="0">16.1</num><content> The licensee shall indemnify the Government against any losses, claims, charges, expenses, actions, damages or demands which the Government incurs or which may be made against the Government as a result of or in relation to the activities of the licensee or any employee, agent or contractor of the licensee in relation to the provision of the service or the installation, maintenance and operation of the network.</content></subsection></section><section id="ID_1438410838607_004" name="s17" temporalId="sch1_s17" class="no_header"><num value="17">17.</num><heading>Contravention beyond licensee’s control</heading><subsection id="ID_1501752727647_030" name="0" temporalId="sch1_s17_0"><num value="0">17.1</num><content>The licensee shall not be liable for any breach of this licence where it is able to demonstrate, to the reasonable satisfaction of the Authority, that the breach was caused by circumstances beyond its control and that it has taken all reasonable steps open to it to rectify that breach.</content></subsection><subsection id="ID_1501752727647_031" name="0-1" temporalId="sch1_s17_0-1"><num value="0">17.2</num><content>Where the circumstances referred to in General Condition 17.1 are such that there is an outage or interruption in the service affecting a significant number of the licensee’s customers for a period of more than 7 days, the licensee shall provide the Authority with a full report in writing detailing the reasons for the breach and indicating when, or if, it will be able to continue to provide the service.</content></subsection><subsection id="ID_1501752727647_032" name="0-2" temporalId="sch1_s17_0-2"><num value="0">17.3</num><content>If the Authority is, after considering a report provided under General Condition 17.2, of the reasonable belief that the licensee would be able to provide the service within a reasonable period of time despite the circumstances outlined in that report, the Authority may direct that the licensee recommence the service within such reasonable period as the Authority may in writing direct. The licensee shall comply with such direction.</content></subsection></section><section id="ID_1438410838607_036" name="s18" temporalId="sch1_s18" class="no_header"><num value="18">18.</num><heading>Publication of licence</heading><subsection id="ID_1501752727647_033" name="0" temporalId="sch1_s18_0"><num value="0">18.1</num><content> The licensee, or the Authority, may at their discretion make the terms and conditions of this licence, including any specific conditions, publicly available in any manner they think fit.</content></subsection></section></schedule><schedule id="ID_1438402552765_002" name="sch2" reason="inEffect" startPeriod="2012-08-02" status="operational" temporalId="sch2"><num value="2">Schedule 2</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap106V/s4">s. 4</ref>]</note><heading>Period of Validity of Carrier Licences</heading><section id="ID_1438410838685_020" name="s1" temporalId="sch2_s1"><num value="1">1.</num><heading>Fixed carrier
+                licence</heading><content>	Subject to <ref>section 2</ref>, the period of validity of a fixed carrier licence is 15 years from the day on which it is issued.</content><sourceNote>(<ref href="/hk/2008/ln132">L.N. 132 of
+                                                  2008</ref>)</sourceNote></section><section id="ID_1438410838700_012" name="s2" temporalId="sch2_s2"><num value="2">2.</num><heading>Fixed carrier (restricted)
+                licence</heading><content>	The period of validity of a fixed carrier (restricted) licence is not more than 12 years, as specified by the Authority, from the day on which it is issued.</content><sourceNote>(<ref href="/hk/2008/ln132">L.N. 132 of
+                                                  2008</ref>)</sourceNote></section><section id="ID_1438410838700_036" name="s3" temporalId="sch2_s3"><num value="3">3.</num><heading>Mobile carrier
+                licence</heading><content> The period of validity of a mobile carrier licence shall be 15 years from the day on which
+                                                  it is
+                                                  issued.</content></section><section id="ID_1438410838700_052" name="s4" temporalId="sch2_s4"><num value="4">4.</num><heading>Space station carrier
+                licence</heading><content> The period of validity of a space station carrier licence shall be 20 years from the day
+                                                  on which it is
+                                                  issued.</content></section><section id="ID_1438410838700_068" name="s5" temporalId="sch2_s5"><num value="5">5.</num><heading>Unified carrier
+                licence</heading><content>	The period of validity of a unified carrier licence shall be 15 years from the day on which it is issued.</content><sourceNote>(<ref href="/hk/2008/ln132">L.N. 132 of 2008</ref>)</sourceNote></section></schedule><schedule id="ID_1438402552843_001" name="sch3" reason="inEffect" startPeriod="2019-01-31" status="operational" temporalId="sch3"><num value="3">Schedule 3</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap106V/s5">s. 5</ref>]</note><heading>Fees Payable for Carrier Licences</heading><part id="ID_1438410838732_009" name="P1" temporalId="sch3_P1"><num value="1"><b>Part 1</b></num><heading>Fixed Carrier Licences Other Than Fixed<br></br>Carrier (Restricted) Licences</heading><section id="ID_1438410838732_036" name="s1" temporalId="sch3_P1_s1" class="no_header"><num value="1">1.</num><content>A fee of $1,000,000 shall be payable on the issue of a fixed carrier licence (excluding a fixed carrier (restricted) licence) and, in each year while the licence remains in force, on the anniversary of the issue of the licence. If the licence permits the provision of external services only, the fee is $200,000.
+                    <sourceNote>(<ref href="/hk/2003/ln134">L.N. 134 of 2003</ref>; <ref href="/hk/2004/ln34">L.N. 34 of 2004</ref>)</sourceNote></content></section><section id="ID_1438410838732_044" name="s2" temporalId="sch3_P1_s2" class="no_header"><num value="2">2.</num><content>A fee of $700 shall be payable on each anniversary of the issue or the renewal of a fixed carrier licence (excluding a fixed carrier (restricted) licence) for each 100 customer connections, made by telecommunications line or radiocommunications means, to the network established and maintained under the licence. If the licence permits the provision of external services only, no such fee is payable.
+                    <sourceNote>(<ref href="/hk/2003/ln134">L.N. 134 of 2003</ref>)</sourceNote></content></section><section id="ID_1438410838747_004" name="s3" temporalId="sch3_P1_s3" class="no_header"><num value="3">3.</num><leadIn>Subject to <ref>section 4</ref>, a fee for the management of radio frequency assigned shall be payable on the issue and on each anniversary of the issue of the fixed carrier licence concerned (excluding a fixed carrier (restricted) licence) and calculated as follows—</leadIn><paragraph id="ID_1438410838747_014" name="a" temporalId="sch3_P1_s3_a"><num value="a">(a)</num><leadIn>where the radio frequency is assigned exclusively to the licensee—</leadIn><subparagraph id="ID_1438410838747_023" name="i" temporalId="sch3_P1_s3_a_i"><num value="i">(i)</num><content>$50 for every 1 kHz or part thereof of frequency then assigned below 1 GHz;</content></subparagraph><subparagraph id="ID_1438410838747_032" name="ii" temporalId="sch3_P1_s3_a_ii"><num value="ii">(ii)</num><content>$(50-4F) for every 1 kHz or part thereof of frequency then assigned within 1 GHz to 10.999 GHz, where F is the frequency rounded down to the nearest GHz in the band then assigned;</content></subparagraph><subparagraph id="ID_1438410838747_049" name="iii" temporalId="sch3_P1_s3_a_iii"><num value="iii">(iii)</num><content>$(20-F) for every 1 kHz or part thereof of frequency then assigned within 11 GHz to 18.999 GHz, where F is the frequency rounded down to the nearest GHz in the band then assigned;</content></subparagraph><subparagraph id="ID_1438410838747_066" name="iv" temporalId="sch3_P1_s3_a_iv"><num value="iv">(iv)</num><content>$1 for every 1 kHz or part thereof of frequency then assigned at or above 19 GHz;</content></subparagraph></paragraph><paragraph id="ID_1438410838763_015" name="b" temporalId="sch3_P1_s3_b"><num value="b">(b)</num><leadIn>where any part of the radio frequency is assigned to the licensee on a non-exclusive or shared basis, the fee calculated in accordance with the formula set out in paragraph (a) shall be proportionally reduced by a reduction factor—</leadIn><subparagraph id="ID_1438410838763_024" name="i" temporalId="sch3_P1_s3_b_i"><num value="i">(i)</num><content>equal to the number of users authorized or reserved by the Authority to use that particular part of the radio frequency;</content></subparagraph><subparagraph id="ID_1438410838763_033" name="ii" temporalId="sch3_P1_s3_b_ii"><num value="ii">(ii)</num><content>determined on the date on which the fee is payable.</content></subparagraph></paragraph></section><section id="ID_1438410838763_038" name="s4" temporalId="sch3_P1_s4" class="no_header"><num value="4">4.</num><content>No fee is payable under <ref>section 3</ref> for the management of radio frequency within any of the following frequency bands—</content><content>
+                    <text>
+                        <table xmlns="http://www.w3.org/1999/xhtml" frame="void" width="477">
+                            <col width="10%"></col>
+                            <col width="15%"></col>
+                            <col width="8%"></col>
+                            <col width="67%"></col>
+                            <tbody>
+                                <tr>
+                                    <td></td>
+                                    <td>6.765 </td>
+                                    <td>—</td>
+                                    <td>6.795 MHz</td>
+                                </tr>
+                                <tr>
+                                    <td></td>
+                                    <td>13.553</td>
+                                    <td>—</td>
+                                    <td>13.567 MHz</td>
+                                </tr>
+                                <tr>
+                                    <td></td>
+                                    <td>26.957</td>
+                                    <td>—</td>
+                                    <td>27.283 MHz</td>
+                                </tr>
+                                <tr>
+                                    <td></td>
+                                    <td>40.66 </td>
+                                    <td>—</td>
+                                    <td>40.7 MHz</td>
+                                </tr>
+                                <tr>
+                                    <td></td>
+                                    <td>2400 </td>
+                                    <td>—</td>
+                                    <td>2500 MHz</td>
+                                </tr>
+                                <tr>
+                                    <td></td>
+                                    <td>5.725</td>
+                                    <td>—</td>
+                                    <td>5.875 GHz</td>
+                                </tr>
+                                <tr>
+                                    <td></td>
+                                    <td>24.0 </td>
+                                    <td>—</td>
+                                    <td>24.25 GHz</td>
+                                </tr>
+                                <tr>
+                                    <td></td>
+                                    <td>61 </td>
+                                    <td>—</td>
+                                    <td>61.5 GHz</td>
+                                </tr>
+                                <tr>
+                                    <td></td>
+                                    <td>122 </td>
+                                    <td>—</td>
+                                    <td>123 GHz</td>
+                                </tr>
+                                <tr>
+                                    <td></td>
+                                    <td>244</td>
+                                    <td>—</td>
+                                    <td>246 GHz</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </text>
+                </content></section></part><part id="ID_1438410838763_123" name="P2" temporalId="sch3_P2"><num value="2"><b>Part 2</b></num><heading>Fixed Carrier (Restricted) Licences</heading><section id="ID_1438410838763_142" name="s1" temporalId="sch3_P2_s1" class="no_header"><num value="1">1.</num><content>A fee of $100,000 shall be payable on the issue of a fixed carrier (restricted) licence and, in each year while the licence remains in force, on the anniversary of the issue of the licence.</content></section><section id="ID_1438410838778_004" name="s2" temporalId="sch3_P2_s2" class="no_header"><num value="2">2.</num><content>A fee of $700 shall be payable on each anniversary of the issue or the renewal of a fixed carrier (restricted) licence for each 100 customer connections, made by telecommunications line or radiocommunications means, to the network established and maintained under the licence.</content></section><section id="ID_1438410838778_012" name="s3" temporalId="sch3_P2_s3" class="no_header"><num value="3">3.</num><leadIn>Subject to <ref>section 4</ref>, a fee for the management of radio frequency assigned shall be payable on the issue and on each anniversary of the issue of the fixed carrier (restricted) licence concerned and calculated as follows—</leadIn><paragraph id="ID_1438410838778_022" name="a" temporalId="sch3_P2_s3_a"><num value="a">(a)</num><leadIn>where the radio frequency is assigned exclusively to the licensee—</leadIn><subparagraph id="ID_1438410838778_031" name="i" temporalId="sch3_P2_s3_a_i"><num value="i">(i)</num><content>$50 for every 1 kHz or part thereof of frequency then assigned below 1 GHz;</content></subparagraph><subparagraph id="ID_1438410838778_040" name="ii" temporalId="sch3_P2_s3_a_ii"><num value="ii">(ii)</num><content>$(50-4F) for every 1 kHz or part thereof of frequency then assigned within 1 GHz to 10.999 GHz, where F is the frequency rounded down to the nearest GHz in the band then assigned;</content></subparagraph><subparagraph id="ID_1438410838794_007" name="iii" temporalId="sch3_P2_s3_a_iii"><num value="iii">(iii)</num><content>$(20-F) for every 1 kHz or part thereof of frequency then assigned within 11 GHz to 18.999 GHz, where F is the frequency rounded down to the nearest GHz in the band then assigned;</content></subparagraph><subparagraph id="ID_1438410838794_024" name="iv" temporalId="sch3_P2_s3_a_iv"><num value="iv">(iv)</num><content>$1 for every 1 kHz or part thereof of frequency then assigned at or above 19 GHz;</content></subparagraph></paragraph><paragraph id="ID_1438410838794_040" name="b" temporalId="sch3_P2_s3_b"><num value="b">(b)</num><leadIn>where any part of the radio frequency is assigned to the licensee on a non-exclusive or shared basis, the fee calculated in accordance with the formula set out in paragraph (a) shall be proportionally reduced by a reduction factor—</leadIn><subparagraph id="ID_1438410838794_049" name="i" temporalId="sch3_P2_s3_b_i"><num value="i">(i)</num><content>equal to the number of users authorized or reserved by the Authority to use that particular part of the radio frequency;</content></subparagraph><subparagraph id="ID_1438410838794_058" name="ii" temporalId="sch3_P2_s3_b_ii"><num value="ii">(ii)</num><content>determined on the date on which the fee is payable.</content></subparagraph></paragraph></section><section id="ID_1438410838794_063" name="s4" temporalId="sch3_P2_s4" class="no_header"><num value="4">4.</num><content>No fee is payable under <ref>section 3</ref> for the management of radio frequency within any of the following frequency bands—</content><content>
+                    <table xmlns="http://www.w3.org/1999/xhtml" frame="void" width="477">
+                        <col width="10%"></col>
+                        <col width="15%"></col>
+                        <col width="8%"></col>
+                        <col width="67%"></col>
+                        <tbody>
+                            <tr>
+                                <td></td>
+                                <td>6.765 </td>
+                                <td>—</td>
+                                <td>6.795 MHz</td>
+                            </tr>
+                            <tr>
+                                <td></td>
+                                <td>13.553</td>
+                                <td>—</td>
+                                <td>13.567 MHz</td>
+                            </tr>
+                            <tr>
+                                <td></td>
+                                <td>26.957</td>
+                                <td>—</td>
+                                <td>27.283 MHz</td>
+                            </tr>
+                            <tr>
+                                <td></td>
+                                <td>40.66 </td>
+                                <td>—</td>
+                                <td>40.7 MHz</td>
+                            </tr>
+                            <tr>
+                                <td></td>
+                                <td>2400 </td>
+                                <td>—</td>
+                                <td>2500 MHz</td>
+                            </tr>
+                            <tr>
+                                <td></td>
+                                <td>5.725</td>
+                                <td>—</td>
+                                <td>5.875 GHz</td>
+                            </tr>
+                            <tr>
+                                <td></td>
+                                <td>24.0 </td>
+                                <td>—</td>
+                                <td>24.25 GHz</td>
+                            </tr>
+                            <tr>
+                                <td></td>
+                                <td>61 </td>
+                                <td>—</td>
+                                <td>61.5 GHz</td>
+                            </tr>
+                            <tr>
+                                <td></td>
+                                <td>122 </td>
+                                <td>—</td>
+                                <td>123 GHz</td>
+                            </tr>
+                            <tr>
+                                <td></td>
+                                <td>244</td>
+                                <td>—</td>
+                                <td>246 GHz</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </content></section></part><part id="ID_1438410838810_041" name="P3" temporalId="sch3_P3"><num value="3"><b>Part 3</b></num><heading>Mobile Carrier Licences Other Than Mobile<br></br>Carrier (Restricted) Licences</heading><section id="ID_1438410838810_068" name="s1" temporalId="sch3_P3_s1" class="no_header"><num value="1">1.</num><leadIn>The annual fee payable on the issue and on the anniversary of the issue of a mobile carrier licence (excluding a mobile carrier (restricted) licence) in each year while the licence remains in force shall be the sum of—</leadIn><text>
+                    <table xmlns="http://www.w3.org/1999/xhtml">
+                        <col width="10%"></col>
+                        <col width="10%"></col>
+                        <col width="55%"></col>
+                        <col width="25%"></col>
+                        <tr>
+                            <td></td>
+                            <td>(a)</td>
+                            <td>
+                                
+                                <p class="align_left">for the 1st to the 50th base station installed for the service</p>
+                            </td>
+                            <td>
+                                
+                                <p class="align_left left_indent_12 first_line_indent_0">$1,000 per base station</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td>(b)</td>
+                            <td>
+                                
+                                <p class="align_left">for the 51st to the 100th base station installed for the service</p>
+                            </td>
+                            <td>
+                                
+                                <p class="align_left left_indent_12 first_line_indent_0">$500 per base station</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td>(c)</td>
+                            <td>
+                                
+                                <p class="align_left">for the 101st base station installed for the service and any additional base stations</p>
+                            </td>
+                            <td>
+                                
+                                <p class="align_left left_indent_12 first_line_indent_0">$100 per base station</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td>(d)</td>
+                            <td>
+                                
+                                <p class="align_left">for the 1st 200 mobile stations or less used by customers of the service
+                                    <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="/hk/2002/ln30">L.N. 30 of 2002</ref>; <ref href="/hk/2004/ln34">L.N. 34 of 2004</ref>; <ref href="/hk/2005/ln24">L.N. 24 of 2005</ref>)</sourceNote></p>
+                            </td>
+                            <td>
+                                
+                                <p class="align_left left_indent_12 first_line_indent_0">$3,600</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td>(e)</td>
+                            <td>
+                                
+                                <p class="align_left">for every additional 100 mobile stations or less used by customers of the service
+                                    <sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(<ref href="/hk/2002/ln30">L.N. 30 of 2002</ref>; <ref href="/hk/2004/ln34">L.N. 34 of 2004</ref>; <ref href="/hk/2005/ln24">L.N. 24 of 2005</ref>)</sourceNote></p>
+                            </td>
+                            <td>
+                                
+                                <p class="align_left left_indent_12 first_line_indent_0">$1,800</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td>(f)</td>
+                            <td>
+                                
+                                <p class="align_left">for every 1 kHz of frequency assigned to the licensee</p>
+                            </td>
+                            <td>
+                                
+                                <p class="align_left left_indent_12 first_line_indent_0">$50</p>
+                            </td>
+                        </tr>
+                    </table>
+                </text></section><section id="ID_1438410838810_076" name="s2" temporalId="sch3_P3_s2" class="no_header"><num value="2">2.</num><content>For the purpose of determining the fees payable under <ref>section 1</ref>, the number of stations and the width of the frequency assigned shall be those authorized or in service at the time when the mobile carrier licence concerned is issued or on the anniversary of the issue.</content></section></part><part id="ID_1438410838810_081" name="P4" temporalId="sch3_P4"><num value="4"><b>Part 4</b></num><heading>Mobile Carrier (Restricted) Licences</heading><section id="ID_1438410838825_012" name="s1" temporalId="sch3_P4_s1" class="no_header"><num value="1">1.</num><leadIn>The annual fee payable on the issue and on the anniversary of the issue of a mobile carrier (restricted) licence in each year while the licence remains in force shall be the sum of—</leadIn><paragraph id="ID_1438410838825_022" name="a" temporalId="sch3_P4_s1_a"><num value="a">(a)</num><content>$50,000 per licence; and</content></paragraph><paragraph id="ID_1438410838825_031" name="b" temporalId="sch3_P4_s1_b"><num value="b">(b)</num><content>$1,000 per land station or land earth station operated by the licensee for the service.</content></paragraph></section></part><part id="ID_1438410838825_034" name="P5" temporalId="sch3_P5"><num value="5"><b>Part 5</b></num><heading>Space Station Carrier Licences</heading><section id="ID_1438410838825_053" name="s1" temporalId="sch3_P5_s1" class="no_header"><num value="1">1.</num><leadIn>For a space station carrier licence other than a space station carrier licence mentioned in <ref>section 2</ref>—</leadIn><paragraph id="ID_1438410838825_063" name="a" temporalId="sch3_P5_s1_a"><num value="a">(a)</num><content>an initial fee of $450,000 is payable on the issue of the licence; and</content></paragraph><paragraph id="ID_1438410838825_072" name="b" temporalId="sch3_P5_s1_b"><num value="b">(b)</num><content>a fee of $150,000 is payable on the anniversary of the issue of the licence in each year while the licence remains in force.</content></paragraph></section><section id="ID_1438410838825_078" name="s2" temporalId="sch3_P5_s2" class="no_header"><num value="2">2.</num><leadIn>For a space station carrier licence which permits the licensee to establish, possess, maintain, use and operate an earth station only—</leadIn><paragraph id="ID_1438410838825_088" name="a" temporalId="sch3_P5_s2_a"><num value="a">(a)</num><content>an initial fee of $120,000 is payable on the issue of the licence; and</content></paragraph><paragraph id="ID_1438410838825_097" name="b" temporalId="sch3_P5_s2_b"><num value="b">(b)</num><content>a fee of $80,000 is payable on the anniversary of the issue of the licence in each year while the licence remains in force.</content></paragraph></section></part><part id="ID_1438410838841_001" name="P6" temporalId="sch3_P6"><num value="6"><b>Part 6</b></num><heading>Unified Carrier Licences</heading><sourceNote>(<ref>Part 6</ref> added <ref href="/hk/2008/ln132">L.N. 132 of 2008</ref>)</sourceNote><section id="ID_1438410838841_020" name="s1" temporalId="sch3_P6_s1" class="no_header"><num value="1">1.</num><content>A fee of $1,000,000 shall be payable on the issue of a unified carrier licence and, in each subsequent year while the licence remains in force, on the anniversary of the issue of the licence. If the licence permits the provision of external services only, or of radiocommunications services (where moving stations are primarily for use in locations other than on land) only, or of these two types of services only, the fee is $100,000.</content></section><section id="ID_1438410838841_028" name="s2" temporalId="sch3_P6_s2" class="no_header"><num value="2">2.</num><content>A fee of $500 shall be payable on the issue of a unified carrier licence and on each anniversary of the issue of the licence while the licence remains in force, for each 100 customer connections, made by telecommunications line or radiocommunications means, to the network established and maintained under the licence. For the purposes of this section, a customer connection shall be any network termination point provided by the licensee and as identified by the Authority for connection of customer equipment to the network, and a network termination point shall include any subscriber identification module
+                    used by a customer, and any other device or interface, used for connection to the network, but does not include a Wireless Internet of Things device within the meaning of <ref>section 2A</ref>. If the licence permits the provision of external services only, or of radiocommunications services (where moving stations are primarily for use in locations other than on land) only, or of these two types of services only, no such fee is payable.
+                    <sourceNote>(<ref href="/hk/2012/ln188">L.N. 188 of 2012</ref>; <ref href="hk/2018/ln229">L.N. 229 of 2018</ref>)</sourceNote></content></section><section class="no_header" id="ID_1548298971476_001" name="s2A" temporalId="sch3_P6_s2A"><num value="2A">2A.</num><leadIn>A fee of $200 is payable on the issue of a unified carrier licence and on each anniversary of the issue of the licence while the licence remains in force, for each 100 Wireless Internet of Things devices connected by radiocommunications means to the network established and maintained under the licence. In this section, <term>Wireless Internet of Things device</term> (<term xml:lang="zh-Hant-HK">無線物聯網裝置</term>) means a device, interface, subscriber identification module or any other thing, that—</leadIn><paragraph id="ID_1548298971476_002" name="a" temporalId="sch3_P6_s2A_a"><num value="a">(a)</num><content>is provided by the licensee;</content></paragraph><paragraph id="ID_1548298971491_003" name="b" temporalId="sch3_P6_s2A_b"><num value="b">(b)</num><content>is identified by the Authority for connection to the network established and maintained under the licence;</content></paragraph><paragraph id="ID_1548298971491_004" name="c" temporalId="sch3_P6_s2A_c"><num value="c">(c)</num><content>enables automated data-only machine-to-machine type communications;</content></paragraph><paragraph id="ID_1548298971491_005" name="d" temporalId="sch3_P6_s2A_d"><num value="d">(d)</num><content>operates by radiocommunications means;</content></paragraph><paragraph id="ID_1548298971491_006" name="e" temporalId="sch3_P6_s2A_e"><num value="e">(e)</num><content>does not carry real-time voice communications; and</content></paragraph><paragraph id="ID_1548298971491_007" name="f" temporalId="sch3_P6_s2A_f"><num value="f">(f)</num><content>does not use any subscriber number within the meaning of <ref>section 3</ref>. <sourceNote>(<ref href="hk/2018/ln229">L.N. 229 of 2018</ref>)</sourceNote></content></paragraph></section><section class="no_header" id="ID_1548298971491_008" name="s2B" temporalId="sch3_P6_s2B"><num value="2B">2B.</num><leadIn>However, the fee specified in <ref>section 2A</ref> is not payable if the licence only permits the provision of either or both of the following—</leadIn><paragraph id="ID_1548298971491_009" name="a" temporalId="sch3_P6_s2B_a"><num value="a">(a)</num><content>external services;</content></paragraph><paragraph id="ID_1548298971491_010" name="b" temporalId="sch3_P6_s2B_b"><num value="b">(b)</num><content>radiocommunications services (where moving stations are primarily for use in locations other than on land). <sourceNote>(<ref href="hk/2018/ln229">L.N. 229 of 2018</ref>)</sourceNote></content></paragraph></section><section id="ID_1438410838888_004" name="s3" temporalId="sch3_P6_s3" class="no_header"><num value="3">3.</num><content>A fee of $3 shall be payable on the issue of a unified carrier licence and on each anniversary of the issue of the licence while the licence remains in force, for each subscriber number allocated to the licensee that is not ported out from the licensee’s network or assigned, as authorized by the Authority, to another licensee (who has made payment of the licence fee for such number under its licence) and for each subscriber number allocated to another licensee that is ported in to the licensee’s network. For the purposes of this section, a subscriber number is a number in the numbering plan within numbering blocks allocated by the Authority to a licensee, which number may be assigned by the licensee to its customer for use of a telecommunications service.</content></section><section id="ID_1438410838903_004" name="s4" temporalId="sch3_P6_s4" class="no_header"><num value="4">4.</num><leadIn>A fee for base stations, being—</leadIn><paragraph id="ID_1438410838919_006" name="a" temporalId="sch3_P6_s4_a"><num value="a">(a)</num><content>base stations installed for mobile services; or</content></paragraph><paragraph id="ID_1438410838919_015" name="b" temporalId="sch3_P6_s4_b"><num value="b">(b)</num><content>land stations or land earth stations installed for radiocommunications services (where moving stations are primarily for use in locations other than on land),</content></paragraph><continued> shall be payable on the issue of a unified carrier licence and on each anniversary of the issue of the licence while the licence remains in force, calculated as follows—<table xmlns="http://www.w3.org/1999/xhtml">
+                        <col width="8%"></col>
+                        <col width="8%"></col>
+                        <col width="55%"></col>
+                        <col width="4%"></col>
+                        <col width="25%"></col>
+                        <tr>
+                            <td></td>
+                            <td>(c) </td>
+                            <td>
+                                
+                                <p class="align_left">for the 1st to the 50th base station installed for the service</p>
+                            </td>
+                            <td></td>
+                            <td>
+                                
+                                <p class="align_left">$1,000 per base station</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td>(d)</td>
+                            <td>
+                                
+                                <p class="align_left">for the 51st to the 100th base station installed for the service</p>
+                            </td>
+                            <td></td>
+                            <td>
+                                
+                                <p class="align_left">$500 per base station</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td>(e)</td>
+                            <td>
+                                
+                                <p class="align_left">for the 101st base station installed for the service and any additional base stations</p>
+                            </td>
+                            <td></td>
+                            <td>
+                                
+                                <p class="align_left">$100 per base station</p>
+                            </td>
+                        </tr>
+                    </table>For the purpose of determining the fees payable under this section, the number of stations shall be those authorized or in service at the time when the unified carrier licence concerned is issued or on the anniversary of the issue.</continued></section><section id="ID_1438410838919_037" name="s5" temporalId="sch3_P6_s5" class="no_header"><num value="5">5.</num><leadIn>Subject to <ref>section 6</ref>, a fee for the management of any radio frequency assigned shall be payable on the issue of a unified carrier licence and on each anniversary of the issue of the licence while the licence remains in force, calculated as follows—</leadIn><paragraph id="ID_1438410838919_047" name="a" temporalId="sch3_P6_s5_a"><num value="a">(a)</num><leadIn>subject to paragraph (b), where the radio frequency is assigned to the licensee—</leadIn><subparagraph id="ID_1438410838919_056" name="i" temporalId="sch3_P6_s5_a_i"><num value="i">(i)</num><content>$50 for every 1 kHz or part thereof of frequency then assigned below 1 GHz;</content></subparagraph><subparagraph id="ID_1438410838919_065" name="ii" temporalId="sch3_P6_s5_a_ii"><num value="ii">(ii)</num><content>$(50-4F) for every 1 kHz or part thereof of frequency then assigned within 1 GHz to 10.999 GHz, where F is the frequency rounded down to the nearest GHz in the band then assigned;</content></subparagraph><subparagraph id="ID_1438410838934_008" name="iii" temporalId="sch3_P6_s5_a_iii"><num value="iii">(iii)</num><content>$(20-F) for every 1 kHz or part thereof of frequency then assigned within 11 GHz to 18.999 GHz, where F is the frequency rounded down to the nearest GHz in the band then assigned;</content></subparagraph><subparagraph id="ID_1438410838934_017" name="iv" temporalId="sch3_P6_s5_a_iv"><num value="iv">(iv)</num><content>$1 for every 1 kHz or part thereof of frequency then assigned at or above 19 GHz;</content></subparagraph></paragraph><paragraph id="ID_1438410838934_025" name="b" temporalId="sch3_P6_s5_b"><num value="b">(b)</num><leadIn>where any part of the radio frequency is assigned to the licensee on a shared basis, the fee calculated in accordance with the formula set out in paragraph (a) shall be proportionally reduced by a reduction factor—</leadIn><subparagraph id="ID_1438410838934_034" name="i" temporalId="sch3_P6_s5_b_i"><num value="i">(i)</num><content>equal to the number of users authorized or reserved by the Authority to use that particular part of the radio frequency;</content></subparagraph><subparagraph id="ID_1438410838934_043" name="ii" temporalId="sch3_P6_s5_b_ii"><num value="ii">(ii)</num><content>determined on the date on which the fee is payable.</content></subparagraph></paragraph></section><section id="ID_1438410838934_048" name="s6" temporalId="sch3_P6_s6" class="no_header"><num value="6">6.</num><content>No fee is payable under <ref>section 5</ref> for the management of radio frequency within any of the following frequency bands—</content><content>
+                    <table xmlns="http://www.w3.org/1999/xhtml" frame="void" width="477">
+                        <col width="10%"></col>
+                        <col width="15%"></col>
+                        <col width="8%"></col>
+                        <col width="67%"></col>
+                        <tbody>
+                            <tr>
+                                <td></td>
+                                <td>6.765 </td>
+                                <td>—</td>
+                                <td>6.795 MHz</td>
+                            </tr>
+                            <tr>
+                                <td></td>
+                                <td>13.553</td>
+                                <td>—</td>
+                                <td>13.567 MHz</td>
+                            </tr>
+                            <tr>
+                                <td></td>
+                                <td>26.957</td>
+                                <td>—</td>
+                                <td>27.283 MHz</td>
+                            </tr>
+                            <tr>
+                                <td></td>
+                                <td>40.66 </td>
+                                <td>—</td>
+                                <td>40.7 MHz</td>
+                            </tr>
+                            <tr>
+                                <td></td>
+                                <td>2400 </td>
+                                <td>—</td>
+                                <td>2500 MHz</td>
+                            </tr>
+                            <tr>
+                                <td></td>
+                                <td>5.725</td>
+                                <td>—</td>
+                                <td>5.875 GHz</td>
+                            </tr>
+                            <tr>
+                                <td></td>
+                                <td>24.0 </td>
+                                <td>—</td>
+                                <td>24.25 GHz</td>
+                            </tr>
+                            <tr>
+                                <td></td>
+                                <td>61 </td>
+                                <td>—</td>
+                                <td>61.5 GHz</td>
+                            </tr>
+                            <tr>
+                                <td></td>
+                                <td>122 </td>
+                                <td>—</td>
+                                <td>123 GHz</td>
+                            </tr>
+                            <tr>
+                                <td></td>
+                                <td>244</td>
+                                <td>—</td>
+                                <td>246 GHz</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </content></section></part></schedule></main></subLeg>

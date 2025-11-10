@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?><subLeg xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd" xml:lang="en"><meta><docName>Cap. 59 sub. leg. Q</docName><docType>cap</docType><docNumber>59Q</docNumber><docStatus>In effect</docStatus><dc:identifier>/hk/cap59Q!en</dc:identifier><dc:date>2023-04-28</dc:date><dc:subject>legislation</dc:subject><dc:language>en</dc:language><dc:publisher>DoJ</dc:publisher><dc:rights>the Government of the Hong Kong Special Administrative Region</dc:rights></meta><main xml:lang="en" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd"><docTitle id="ID_1438403508840_001" name="shortTitle" reason="inEffect" status="operational" temporalId="shortTitle" startPeriod="2022-03-10">Factories
+                                    and Industrial Undertakings (Guarding and Operation of
+                                    Machinery) Regulations</docTitle><enactingFormula role="empoweringSection">(<ref href="/hk/cap59/s7">Cap. 59,
+                                                section
+                                    7</ref>)<marker role="blank-line"></marker><marker role="blank-line"></marker></enactingFormula><commencementNote>[1 April 1977]<sourceNote><inline class="width_3"> </inline><ref href="/hk/1977/ln34">L.N. 34 of
+                                                  1977</ref></sourceNote></commencementNote><sourceNote>(Format changes—<ref href="/hk/2022/er1">E.R. 1 of
+                                    2022</ref>)</sourceNote><section id="ID_1438403508856_002" name="s1" reason="inEffect" role="regulation" startPeriod="2022-03-10" status="operational" temporalId="s1"><num value="1">1.</num><heading>Citation</heading><content>These regulations may be cited as the Factories and Industrial Undertakings (Guarding and Operation of Machinery) Regulations.</content></section><section id="ID_1438403508856_004" name="s2" reason="inEffect" role="regulation" startPeriod="2022-03-10" status="operational" temporalId="s2"><num value="2">2.</num><heading>Interpretation</heading><leadIn>In these regulations, unless the context otherwise requires—</leadIn><def name="AutomaticGuard"><term>automatic
+                guard</term>
+                (<term xml:lang="zh-Hant-HK">自動式護罩</term>) means a guard which automatically
+            prevents an operator of any machinery or plant from coming into contact with a dangerous
+            part when that part is in motion;</def><def name="DangerousPart"><term>dangerous
+                part</term>
+                (<term xml:lang="zh-Hant-HK">危險部件</term>) means any part of machinery or plant
+            specified in the <ref>First Schedule</ref> and any combination of such parts;</def><def name="Employee"><term>employee</term>
+                (<term xml:lang="zh-Hant-HK">僱員</term>) means a person employed in a notifiable
+            workplace to which these regulations apply;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1985/50">50 of 1985 s.
+                9</ref>)</sourceNote></def><def name="FixedGuard"><term>fixed
+                guard</term>
+                (<term xml:lang="zh-Hant-HK">固定式護罩</term>) means a guard which by its design and
+            construction prevents access to a dangerous part of machinery or plant and which has no
+            moving parts associated with or dependent upon the machinery or plant to which the guard
+            is fitted;</def><def name="InterlockingGuard"><term>interlocking
+                guard</term>
+                (<term xml:lang="zh-Hant-HK">互鎖式護罩</term>) means a guard which is connected with
+            machinery or plant so that the machinery or plant cannot be operated unless the guard is
+            in a closed position, and the guard cannot be opened unless the machinery or plant is
+            not in motion or its removal from a closed position causes the machinery or plant to
+            cease operating forthwith;</def><def name="PrimeMover"><term>prime
+                mover</term>
+                (<term xml:lang="zh-Hant-HK">原動機</term>) means any engine, motor, or other
+            appliance, which provides mechanical energy derived from any source;</def><def name="StrikingGear"><term>striking
+                gear</term>
+                (<term xml:lang="zh-Hant-HK">撥動裝置</term>) means a device designed for moving a
+            driving belt to and from fast and loose pulleys, and includes a belt shifter;</def><def name="TransmissionMachinery"><term>transmission
+                machinery</term>
+                (<term xml:lang="zh-Hant-HK">傳動機械</term>) includes every shaft, counter-shaft,
+            wheel, drum, pulley, system of fast and loose pulleys, coupling, clutch, driving belt or
+            other device by which the motion of a prime mover is transmitted to or received by any
+            machinery or plant;</def><def name="TripGuard"><term>trip
+                guard</term>
+                (<term xml:lang="zh-Hant-HK">觸覺式護罩</term>) means a guard which is connected with
+            machinery or plant so that upon its activation the machinery or plant stops before a
+            person can come into contact with a dangerous part thereof;</def><def name="TwohandControlDevice"><term>two-hand
+                control
+            device</term>
+                (<term xml:lang="zh-Hant-HK">雙手控制裝置</term>) means a device which is so designed that
+            the operator’s hands must continuously engage the controls of the machinery or plant if
+            it is to complete its cycle of operation and that if one or both of the operator’s hands
+            cease to engage the controls thereof the machinery or plant stops instantly.</def></section><section id="ID_1438403508934_001" name="s3" reason="inEffect" role="regulation" startPeriod="2022-03-10" status="operational" temporalId="s3"><num value="3">3.</num><heading>Application</heading><subsection id="ID_1438413673123_004" name="1" temporalId="s3_1"><num value="1">(1)</num><content>Subject to paragraph (2), these regulations shall apply to machinery or plant in a notifiable workplace.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1985/50">50 of 1985 s. 9</ref>)</sourceNote></content></subsection><subsection id="ID_1438413673123_012" name="2" temporalId="s3_2"><num value="2">(2)</num><leadIn>Notwithstanding paragraph (1), these regulations shall not apply to any—</leadIn><paragraph id="ID_1438413673123_020" name="a" temporalId="s3_2_a"><num value="a">(a)</num><content>machinery or plant whose cycle of operation does not involve the use of a prime mover and is dependent solely upon manual labour;</content></paragraph><paragraph id="ID_1438413673123_028" name="b" temporalId="s3_2_b"><num value="b">(b)</num><content>machinery or plant that is portable and is designed for carrying about by manual labour and for operation while held by hand; and</content></paragraph><paragraph id="ID_1438413673123_036" name="c" temporalId="s3_2_c"><num value="c">(c)</num><content>machinery or plant of the parts and description set out in column A of the <ref>Second Schedule</ref> and to which the regulations opposite thereto in column B apply.</content></paragraph></subsection></section><section id="ID_1438403508950_001" name="s4" reason="inEffect" role="regulation" startPeriod="2022-03-10" status="operational" temporalId="s4"><num value="4">4.</num><heading>Guarding of dangerous parts</heading><subsection id="ID_1438413673185_004" name="1" temporalId="s4_1"><num value="1">(1)</num><content>Subject to paragraph (2), a dangerous part shall be effectively guarded in accordance with and in the manner provided by <ref>regulation 5</ref>.</content></subsection><subsection id="ID_1438413673185_012" name="2" temporalId="s4_2"><num value="2">(2)</num><leadIn>Notwithstanding paragraph (1), a dangerous part which by reason of—</leadIn><paragraph id="ID_1438413673185_020" name="a" temporalId="s4_2_a"><num value="a">(a)</num><content>its position;</content></paragraph><paragraph id="ID_1438413673185_028" name="b" temporalId="s4_2_b"><num value="b">(b)</num><content>its construction; or</content></paragraph><paragraph id="ID_1438413673185_036" name="c" temporalId="s4_2_c"><num value="c">(c)</num><content>the nature of the work being performed,</content></paragraph><continued>does not give rise to any reasonably foreseeable hazard to the safety of any person present at a notifiable workplace need not be guarded as provided in <ref>regulation 5</ref>.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1985/50">50 of 1985 s. 9</ref>)</sourceNote></continued></subsection></section><section id="ID_1438403509028_001" name="s5" reason="inEffect" role="regulation" startPeriod="2022-03-10" status="operational" temporalId="s5"><num value="5">5.</num><heading>Method of guarding</heading><subsection id="ID_1438413673232_004" name="1" temporalId="s5_1"><num value="1">(1)</num><leadIn>Subject to paragraph (3), effective guarding of a dangerous part shall be achieved either by any one of the following methods or by a combination of any of them—</leadIn><paragraph id="ID_1438413673232_012" name="a" temporalId="s5_1_a"><num value="a">(a)</num><content>by a fixed guard;</content></paragraph><paragraph id="ID_1438413673232_020" name="b" temporalId="s5_1_b"><num value="b">(b)</num><content>by an interlocking guard;</content></paragraph><paragraph id="ID_1438413673232_028" name="c" temporalId="s5_1_c"><num value="c">(c)</num><content>by an automatic guard;</content></paragraph><paragraph id="ID_1438413673232_036" name="d" temporalId="s5_1_d"><num value="d">(d)</num><content>by a trip guard;</content></paragraph><paragraph id="ID_1438413673232_044" name="e" temporalId="s5_1_e"><num value="e">(e)</num><content>by a two-hand control device.</content></paragraph></subsection><subsection id="ID_1438413673232_051" name="2" temporalId="s5_2"><num value="2">(2)</num><leadIn>Subject to paragraph (3), every guard or device used pursuant to paragraph (1) shall be—</leadIn><paragraph id="ID_1438413673248_005" name="a" temporalId="s5_2_a"><num value="a">(a)</num><content>of substantial construction;</content></paragraph><paragraph id="ID_1438413673248_013" name="b" temporalId="s5_2_b"><num value="b">(b)</num><content>maintained in an efficient condition; and</content></paragraph><paragraph id="ID_1438413673248_021" name="c" temporalId="s5_2_c"><num value="c">(c)</num><content>kept in its proper position while the machinery or plant is in motion.</content></paragraph></subsection><subsection id="ID_1438413673248_028" name="3" temporalId="s5_3"><num value="3">(3)</num><content>Notwithstanding paragraphs (1) and (2), a guard or device may be removed or
+                rendered inoperative while the machinery or plant is in motion and a dangerous part
+                is necessarily exposed for
+                the
+                purpose of any examination, being an examination which can only be made with the
+                machinery or plant in motion, or of any lubrication or adjustment shown by an
+                examination to be immediately necessary, being a lubrication or adjustment which can
+                only be done with the machinery or plant in motion.</content></subsection><subsection id="ID_1438413673263_005" name="4" temporalId="s5_4"><num value="4">(4)</num><content>A guard or device removed or rendered inoperative pursuant to paragraph (3) shall be immediately replaced or rendered operative upon completion of the purpose for which it was so removed or rendered inoperative.</content></subsection></section><section id="ID_1438403509043_002" name="s6" reason="inEffect" role="regulation" startPeriod="2022-03-10" status="operational" temporalId="s6"><num value="6">6.</num><heading>Fixed guards may have openings</heading><subsection id="ID_1438413673295_017" name="1" temporalId="s6_1"><num value="1">(1)</num><content>Subject to paragraph (2) an opening may be provided in any fixed guard for the insertion and withdrawal of material from machinery or plant.</content></subsection><subsection id="ID_1438413673310_005" name="2" temporalId="s6_2"><num value="2">(2)</num><leadIn>An opening in a fixed guard shall—</leadIn><paragraph id="ID_1438413673310_013" name="a" temporalId="s6_2_a"><num value="a">(a)</num><content>in the case of a fixed guard used in connexion with an automatic feeding device or any gravity feeding system, be as small as is practicable having regard to the operation of the machinery or plant;</content></paragraph><paragraph id="ID_1438413673310_021" name="b" temporalId="s6_2_b"><num value="b">(b)</num><content>in every other case, conform to the Table set out in the <ref>Third Schedule</ref> so that the distance of the fixed guard from any dangerous part shall be not less in any case than the distance set out in column B opposite to the size of opening set out in column A.</content></paragraph></subsection></section><section id="ID_1438403509074_001" name="s7" reason="inEffect" role="regulation" startPeriod="2022-03-10" status="operational" temporalId="s7"><num value="7">7.</num><heading>Young persons working at machines</heading><content>A young person shall not work at or operate any machine specified in the <ref>Fourth Schedule</ref> unless he has been fully instructed as to the dangers arising in the use of the machine and the precautions to be observed, and he has either been given training to the extent that he is proficient in work at and the operation of the machine or he is under supervision by a person who has a knowledge of and is experienced in work at and the operation of the machine.</content></section><section id="ID_1438403509074_003" name="s8" reason="inEffect" role="regulation" startPeriod="2022-03-10" status="operational" temporalId="s8"><num value="8">8.</num><heading>Starting and stopping devices</heading><content>Machinery or plant shall be equipped with an efficient starting and stopping device and the controls of the device shall be designed and constructed with proper regard to the safe working of the machinery or plant and so placed as to be readily and conveniently operated.</content></section><section id="ID_1438403509090_002" name="s9" reason="inEffect" role="regulation" startPeriod="2022-03-10" status="operational" temporalId="s9"><num value="9">9.</num><heading>Push button controls to have emergency stopping devices</heading><content>Machinery or plant driven by 2 or more motors with separate push button controls shall be equipped with one or more overriding stopping devices by means of which the machinery or plant can be stopped forthwith and, where there is more than one stopping device, such devices shall be so spaced as to enable their effective and convenient operation.</content></section><section id="ID_1438403509106_001" name="s10" reason="inEffect" role="regulation" startPeriod="2022-03-10" status="operational" temporalId="s10"><num value="10">10.</num><heading>Stock-bars</heading><content>Any part of a stock-bar which projects beyond the headstock of a lathe shall be effectively guarded in the manner prescribed by <ref>regulation 5</ref> unless it is in such a position as to be as safe to every person present at the notifiable workplace as it would be if effectively guarded.</content><sourceNote>(<ref href="/hk/1985/50">50 of 1985 s. 9</ref>)</sourceNote></section><section id="ID_1438403509106_003" name="s11" reason="inEffect" role="regulation" startPeriod="2022-03-10" status="operational" temporalId="s11"><num value="11">11.</num><heading>Belts and pulleys</heading><subsection id="ID_1438413673451_004" name="1" temporalId="s11_1"><num value="1">(1)</num><leadIn>Machinery or plant not directly driven by an individual motor or other prime mover but driven through a system of belt, pulley and shaft or counter-shaft shall be equipped with—</leadIn><paragraph id="ID_1438413673451_012" name="a" temporalId="s11_1_a"><num value="a">(a)</num><content>a clutch;</content></paragraph><paragraph id="ID_1438413673451_020" name="b" temporalId="s11_1_b"><num value="b">(b)</num><content>a loose pulley; or</content></paragraph><paragraph id="ID_1438413673451_028" name="c" temporalId="s11_1_c"><num value="c">(c)</num><content>other adequate means readily accessible to an operator for the effective starting and stopping of the machinery or plant.</content></paragraph></subsection><subsection id="ID_1438413673451_035" name="2" temporalId="s11_2"><num value="2">(2)</num><content>No driving belt shall rest or ride upon a revolving shaft forming part of any transmission machinery.</content></subsection><subsection id="ID_1438413673451_043" name="3" temporalId="s11_3"><num value="3">(3)</num><content>For the purposes of moving a driving belt to and from fast and loose pulleys forming part of any transmission machinery, suitable striking gear shall be provided and shall be constructed, placed and maintained so as to prevent the driving belt from creeping back or shifting on to a fast pulley while the driving belt is in motion on a loose pulley.</content></subsection><subsection id="ID_1438413673466_005" name="4" temporalId="s11_4"><num value="4">(4)</num><content>Where a foot pedal forms part of any transmission machinery for the purpose of operating a clutch, it shall be effectively guarded against being unintentionally or accidentally struck so as to operate the clutch.</content></subsection></section><section id="ID_1438403509121_002" name="s12" reason="inEffect" role="regulation" startPeriod="2022-03-10" status="operational" temporalId="s12"><num value="12">12.</num><heading>Responsibilities of proprietors, employees and other persons</heading><subsection id="ID_1438413673497_004" name="1" temporalId="s12_1"><num value="1">(1)</num><content>No proprietor, employee or other person shall wilfully and without reasonable cause, remove, render inoperative, misuse, damage or interfere with any guard or device provided in pursuance of these regulations.</content></subsection><subsection id="ID_1438413673497_012" name="2" temporalId="s12_2"><num value="2">(2)</num><content>Every employee shall make full and proper use of any guard or device provided in pursuance of these regulations.</content></subsection><subsection id="ID_1438413673513_005" name="3" temporalId="s12_3"><num value="3">(3)</num><content>Every employee shall report forthwith to the proprietor any fault or defect in any guard or device provided in pursuance of these regulations.</content></subsection></section><section id="ID_1438403509121_004" name="s13" reason="inEffect" role="regulation" startPeriod="2023-04-28" status="operational" temporalId="s13"><num value="13">13.</num><heading>Offences</heading><subsection id="ID_1681976362174_001" name="1" temporalId="s13_1"><num value="1">(1)</num><leadIn>A proprietor of a notifiable workplace—</leadIn><paragraph id="ID_1681976362175_002" name="a" temporalId="s13_1_a"><num value="a">(a)</num><content>in respect of which <ref>regulation 4</ref>,
+                                                <ref>6(2)</ref>, <ref>7</ref>, <ref>8</ref>,
+                                                <ref>9</ref>, <ref>10</ref>, <ref>11(1)</ref>, (2)
+                                        or (3) or 12(1) is contravened commits an offence and is
+                                        liable on conviction to a fine at level 6; or</content></paragraph><paragraph id="ID_1681976362183_003" name="b" temporalId="s13_1_b"><num value="b">(b)</num><content>in respect of which <ref>regulation 11(4)</ref> is
+                                        contravened commits an offence and is liable on conviction
+                                        to a fine at level 4. <sourceNote>(<ref href="hk/2023/5">5 of 2023 s. 44</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438413673544_013" name="2" temporalId="s13_2"><num value="2">(2)</num><content>An employee or a person other than a proprietor who contravenes
+                                        <ref>regulation 12(1)</ref> shall be guilty of an offence
+                                and shall be liable on conviction to a fine
+                                at
+                                level 5.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1994/ln37">L.N. 37 of 1994</ref>)</sourceNote></content></subsection><subsection id="ID_1438413673544_021" name="3" temporalId="s13_3"><num value="3">(3)</num><content>An employee who contravenes any of the provisions of
+                                        <ref>regulation 12(2)</ref> or <ref>12(3)</ref>
+                                commits
+                                an offence and is liable on conviction to a fine at level 5.
+                                <sourceNote>(<ref href="hk/2023/5">5 of 2023 s. 44</ref>)</sourceNote></content></subsection><sourceNote>(<ref href="/hk/1981/ln117">L.N. 117 of
+                        1981</ref>; <ref href="/hk/2022/er1">E.R. 1 of
+                        2022</ref>)</sourceNote></section><schedule id="ID_1438403509137_002" name="sch1" reason="inEffect" startPeriod="2022-03-10" status="operational" temporalId="sch1"><num value="1">First
+            Schedule</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap59Q/s2">reg. 2</ref>]</note><heading>Dangerous
+            Parts of Machinery or Plant</heading><section id="ID_1438413673607_004" name="s1" temporalId="sch1_s1" class="no_header"><num value="1">1.</num><content>Revolving shafts, couplings, spindles, mandrels, bars and flywheels.</content></section><section id="ID_1438413673607_013" name="s2" temporalId="sch1_s2" class="no_header"><num value="2">2.</num><content>In-running nips between pairs of rotating parts.</content></section><section id="ID_1438413673607_022" name="s3" temporalId="sch1_s3" class="no_header"><num value="3">3.</num><content>In-running nips of the belt and pulley type.</content></section><section id="ID_1438413673607_031" name="s4" temporalId="sch1_s4" class="no_header"><num value="4">4.</num><content>Projections on revolving parts.</content></section><section id="ID_1438413673607_040" name="s5" temporalId="sch1_s5" class="no_header"><num value="5">5.</num><content>Discontinuous rotating parts.</content></section><section id="ID_1438413673607_049" name="s6" temporalId="sch1_s6" class="no_header"><num value="6">6.</num><content>Revolving beaters, spiked cylinders and revolving drums.</content></section><section id="ID_1438413673607_058" name="s7" temporalId="sch1_s7" class="no_header"><num value="7">7.</num><content>Revolving mixer arms in casings fitted with openings.</content></section><section id="ID_1438413673607_067" name="s8" temporalId="sch1_s8" class="no_header"><num value="8">8.</num><content>Revolving worms and spirals in casings fitted with openings.</content></section><section id="ID_1438413673607_076" name="s9" temporalId="sch1_s9" class="no_header"><num value="9">9.</num><content>Revolving high-speed cages in casings fitted with openings.</content></section><section id="ID_1438413673607_085" name="s10" temporalId="sch1_s10" class="no_header"><num value="10">10.</num><content>Revolving cutting tools.</content></section><section id="ID_1438413673607_094" name="s11" temporalId="sch1_s11" class="no_header"><num value="11">11.</num><content>Reciprocating cutting tools.</content></section><section id="ID_1438413673607_103" name="s12" temporalId="sch1_s12" class="no_header"><num value="12">12.</num><content>Reciprocating press tools and dies.</content></section><section id="ID_1438413673622_005" name="s13" temporalId="sch1_s13" class="no_header"><num value="13">13.</num><content>Reciprocating needles.</content></section><section id="ID_1438413673622_014" name="s14" temporalId="sch1_s14" class="no_header"><num value="14">14.</num><content>Closing nips between platen motions.</content></section><section id="ID_1438413673622_023" name="s15" temporalId="sch1_s15" class="no_header"><num value="15">15.</num><content>Projecting belt fasteners and fast running belts.</content></section><section id="ID_1438413673622_032" name="s16" temporalId="sch1_s16" class="no_header"><num value="16">16.</num><content>Nips between connecting rods or links, and rotating wheel cranks or
+                    discs.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2000/32">32
+                        of 2000 s. 48</ref>)</sourceNote></content></section><section id="ID_1438413673622_041" name="s17" temporalId="sch1_s17" class="no_header"><num value="17">17.</num><content>Traps arising from the traversing carriages of self-acting machines.</content></section></schedule><schedule id="ID_1438403509137_004" name="sch2" reason="inEffect" startPeriod="2022-03-10" status="operational" temporalId="sch2"><num value="2">Second
+            Schedule</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap59Q/s3">reg. 3(2)(c)</ref>]</note><heading>Parts
+            of Machinery or Plant to which these Regulations do not
+            Apply</heading><text><table xmlns="http://www.w3.org/1999/xhtml" width="100%" class="repeat_header">
+                <colgroup>
+                    <col width="48%"></col>
+                    <col width="52%"></col>
+                </colgroup>
+                <thead>
+                    <tr>
+                        <td align="center" class="border_top_0.75 border_right_0.75 border_bottom_0.75 cellpadding_top_5 cellpadding_bottom_5">A<br xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"></br>Parts and
+                            Description</td>
+                        <td align="center" class="border_top_0.75 border_bottom_0.75 border_left_0.75 cellpadding_top_5 cellpadding_bottom_5">B<br xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"></br>Applicable
+                            Regulations</td>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="border_top_0.75 border_right_0.75">
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                        <td class="left_indent_12 first_line_indent_-12  border_top_0.75 border_left_0.75 cellpadding_left_5 cellpadding_bottom_5">Factories and Industrial Undertakings (Woodworking Machinery)
+                            Regulations (<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap59G">Cap. 59 sub.
+                                leg.
+                                G</ref>)</td>
+                    </tr>
+                    <tr>
+                        <td class="border_right_0.75">
+                            <p>Circular saw, the blade</p>
+                        </td>
+                        <td class="border_left_0.75 cellpadding_left_5">
+                            <p><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">reg. 10</ref></p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="border_right_0.75">
+                            <p>Swing saw, the blade</p>
+                        </td>
+                        <td class="border_left_0.75 cellpadding_left_5">
+                            <p><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">reg. 12</ref></p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="border_right_0.75">
+                            <p>Pendulum saw, the blade</p>
+                        </td>
+                        <td class="border_left_0.75 cellpadding_left_5">
+                            <p><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">reg. 12</ref></p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="border_right_0.75">
+                            <p>Plain band saw, the blade</p>
+                        </td>
+                        <td class="border_left_0.75 cellpadding_left_5">
+                            <p><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">reg. 13</ref></p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="border_right_0.75">
+                            <p>Planing machine, the cutter</p>
+                        </td>
+                        <td class="border_left_0.75 cellpadding_left_5">
+                            <p><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">reg. 14</ref></p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="border_right_0.75 cellpadding_right_5" align="char">
+                            <p class="left_indent_12 first_line_indent_-12">Vertical spindle
+                                moulding machine, the cutter</p>
+                        </td>
+                        <td class="border_left_0.75 cellpadding_left_5">
+                            <p><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">reg. 15</ref></p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="border_right_0.75 border_bottom_0.75 cellpadding_right_5" align="char">
+                            <p class="left_indent_12 first_line_indent_-12">Chain mortising machine,
+                                the chain</p>
+                        </td>
+                        <td class="border_bottom_0.75 border_left_0.75 cellpadding_left_5">
+                            <p><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">reg. 16</ref></p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="border_top_0.75 border_right_0.75">
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                        <td class="border_top_0.75 border_left_0.75 left_indent_12 first_line_indent_-9" align="char">Construction Sites (Safety) Regulations (<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap59I">Cap. 59 sub.
+                                leg.
+                                I</ref>)</td>
+                    </tr>
+                    <tr>
+                        <td class="cellpadding_right_5 border_right_0.75" align="char">
+                            <p class="left_indent_12 first_line_indent_-12">Every flywheel and
+                                moving part of any prime mover</p>
+                        </td>
+                        <td class="border_left_0.75 cellpadding_left_5">
+                            <p><br></br><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">reg.
+                                    44</ref></p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="border_right_0.75 cellpadding_right_5" align="char">
+                            <p class="left_indent_12 first_line_indent_-12">Every part of
+                                transmission machinery</p>
+                        </td>
+                        <td class="border_left_0.75 cellpadding_left_5">
+                            <p><br></br><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">reg.
+                                    44</ref></p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="border_right_0.75 border_bottom_0.75 cellpadding_right_5" align="char">
+                            <p class="left_indent_12 first_line_indent_-12">Every dangerous part of
+                                other machinery (whether or not<br></br>driven by a prime mover)</p>
+                        </td>
+                        <td class="border_bottom_0.75 border_left_0.75 cellpadding_left_5">
+                            <p><br></br><br></br><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">reg.
+                                    44</ref></p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="border_top_0.75 border_right_0.75">
+                            <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        </td>
+                        <td class="border_top_0.75 border_left_0.75 cellpadding_left_5 left_indent_12 first_line_indent_-12 cellpadding_bottom_5" align="char">Factories and Industrial Undertakings (Abrasive Wheels)
+                            Regulations (<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap59L">Cap. 59 sub.
+                                leg.
+                                L</ref>)</td>
+                    </tr>
+                    <tr>
+                        <td class="border_right_0.75 border_bottom_0.75">
+                            <p>Abrasive wheel</p>
+                        </td>
+                        <td class="border_bottom_0.75 border_left_0.75 cellpadding_left_5">
+                            <p><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">regs. 8</ref> and
+                                    <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">9</ref></p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table><sourceNote>(<ref href="/hk/2022/er1">E.R. 1 of
+            2022</ref>)</sourceNote><marker role="blank-line"></marker><marker role="blank-line"></marker></text></schedule><schedule id="ID_1438403509152_002" name="sch3" reason="inEffect" startPeriod="2022-03-10" status="operational" temporalId="sch3"><num value="3">Third
+            Schedule</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap59Q/s6">reg. 6(2)</ref>]</note><heading>Openings
+            in Fixed Guards</heading><text>
+            <table xmlns="http://www.w3.org/1999/xhtml" width="100%">
+                <col width="33%"></col>
+                <col width="33%"></col>
+                <col width="33%"></col>
+                <tr>
+                    <td colspan="2" align="center" class="border_top_0.75 border_bottom_0.75 cellpadding_top_5 cellpadding_bottom_5">A<br></br><br></br>Size of opening in millimetres<br xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"></br>measured at the widest
+                        point</td>
+                    <td align="center" class="border_top_0.75 border_bottom_0.75 cellpadding_top_5 cellpadding_bottom_5">B<br xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"></br>Distance of guard
+                            from<br xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"></br>any dangerous
+                        part<br></br>in millimetres</td>
+                </tr>
+                <tr>
+                    <td align="center" class="cellpadding_right_5 cellpadding_top_5">
+                        <p>More than</p>
+                    </td>
+                    <td class="cellpadding_top_5">
+                        <p class="left_indent_12 first_line_indent_0">But not more than</p>
+                    </td>
+                    <td class="cellpadding_top_5">
+                        <p class="left_indent_27 first_line_indent_0">Not less than</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td align="center" class="cellpadding_right_10">
+                        <p>6</p>
+                    </td>
+                    <td>
+                        <p class="left_indent_51">40</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center">
+                        <p>6</p>
+                    </td>
+                    <td align="center" class="cellpadding_right_15">
+                        <p>10</p>
+                    </td>
+                    <td class="left_indent_51">
+                        <p>40</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center" class="cellpadding_right_5">
+                        <p>10</p>
+                    </td>
+                    <td class="cellpadding_right_15" align="center">
+                        <p>12</p>
+                    </td>
+                    <td class="left_indent_51">
+                        <p>65</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center" class="cellpadding_right_5">
+                        <p>12</p>
+                    </td>
+                    <td class="align_center cellpadding_right_15">
+                        <p>15</p>
+                    </td>
+                    <td class="left_indent_51">
+                        <p>90</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center" class="cellpadding_right_5">
+                        <p>15</p>
+                    </td>
+                    <td class="align_center cellpadding_right_15">
+                        <p>20</p>
+                    </td>
+                    <td class="left_indent_45">
+                        <p>140</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="cellpadding_right_5" align="center">
+                        <p>20</p>
+                    </td>
+                    <td class="align_center cellpadding_right_15">
+                        <p class="align_center cellpadding_right_15">22</p>
+                    </td>
+                    <td class="left_indent_45">
+                        <p>165</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="cellpadding_right_5" align="center">
+                        <p>22</p>
+                    </td>
+                    <td class="align_center cellpadding_right_15">
+                        <p>30</p>
+                    </td>
+                    <td class="left_indent_45">
+                        <p>190</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="cellpadding_right_5" align="center">
+                        <p>30</p>
+                    </td>
+                    <td class="align_center cellpadding_right_15">
+                        <p>40</p>
+                    </td>
+                    <td class="left_indent_45">
+                        <p>320</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center" class="cellpadding_right_5">
+                        <p>40</p>
+                    </td>
+                    <td class="align_center cellpadding_right_15">
+                        <p>50</p>
+                    </td>
+                    <td class="left_indent_45">
+                        <p>400</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="cellpadding_right_5" align="center">
+                        <p>50</p>
+                    </td>
+                    <td class="align_center cellpadding_right_15">
+                        <p>55</p>
+                    </td>
+                    <td class="left_indent_45">
+                        <p>450</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="cellpadding_right_5" align="center">
+                        <p>55</p>
+                    </td>
+                    <td class="align_center cellpadding_right_20">
+                        <p>150</p>
+                    </td>
+                    <td class="left_indent_45">
+                        <p>800</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border_bottom_0.75 cellpadding_right_10 cellpadding_bottom_5" align="center">
+                        <p>150</p>
+                    </td>
+                    <td class="border_bottom_0.75">
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td class="border_bottom_0.75 left_indent_45 cellpadding_bottom_10">
+                        <p>800</p>
+                    </td>
+                </tr>
+            </table>
+        </text></schedule><schedule id="ID_1438403509168_001" name="sch4" reason="inEffect" startPeriod="2022-03-10" status="operational" temporalId="sch4"><num value="4">Fourth
+            Schedule</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap59Q/s7">reg. 7</ref>]</note><heading>Machines
+            not
+            to be Worked at by Young Persons unless Trained or
+            Supervised</heading><section id="ID_1438413673747_012" name="s1" temporalId="sch4_s1" class="no_header"><num value="1">1.</num><content>Power presses, including hydraulic and pneumatic presses.</content></section><section id="ID_1438413673747_021" name="s2" temporalId="sch4_s2" class="no_header"><num value="2">2.</num><content>Loose knife punching machines.</content></section><section id="ID_1438413673747_030" name="s3" temporalId="sch4_s3" class="no_header"><num value="3">3.</num><content>Milling machines, other than those used in tool-room operation.</content></section><section id="ID_1438413673747_039" name="s4" temporalId="sch4_s4" class="no_header"><num value="4">4.</num><content>Dough brakes.</content></section><section id="ID_1438413673747_048" name="s5" temporalId="sch4_s5" class="no_header"><num value="5">5.</num><content>Dough mixers.</content></section><section id="ID_1438413673747_057" name="s6" temporalId="sch4_s6" class="no_header"><num value="6">6.</num><content>Hydro-extractors.</content></section><section id="ID_1438413673747_066" name="s7" temporalId="sch4_s7" class="no_header"><num value="7">7.</num><content>Calenders.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1981/ln377">L.N. 377 of 1981</ref>)</sourceNote></content></section><section id="ID_1438413673747_075" name="s8" temporalId="sch4_s8" class="no_header"><num value="8">8.</num><content>Washing machines.</content></section><section id="ID_1438413673747_084" name="s9" temporalId="sch4_s9" class="no_header"><num value="9">9.</num><content>Garment presses.</content></section><section id="ID_1438413673763_005" name="s10" temporalId="sch4_s10" class="no_header"><num value="10">10.</num><content>Paper baling presses.</content></section><section id="ID_1438413673763_014" name="s11" temporalId="sch4_s11" class="no_header"><num value="11">11.</num><content>Guillotines.</content></section><section id="ID_1438413673763_023" name="s12" temporalId="sch4_s12" class="no_header"><num value="12">12.</num><content>Hand fed platen printing machines.</content></section><section id="ID_1438413673763_032" name="s13" temporalId="sch4_s13" class="no_header"><num value="13">13.</num><content>Hand fed embossing machines.</content></section></schedule></main></subLeg>

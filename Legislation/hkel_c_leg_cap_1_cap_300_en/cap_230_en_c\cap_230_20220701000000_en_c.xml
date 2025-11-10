@@ -1,0 +1,971 @@
+<?xml version="1.0" encoding="UTF-8"?><ordinance xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd" xml:lang="en"><meta><docName>Cap. 230</docName><docType>cap</docType><docNumber>230</docNumber><docStatus>In effect</docStatus><dc:identifier>/hk/cap230!en</dc:identifier><dc:date>2022-07-01</dc:date><dc:subject>legislation</dc:subject><dc:language>en</dc:language><dc:publisher>DoJ</dc:publisher><dc:rights>the Government of the Hong Kong Special Administrative Region</dc:rights></meta><main xml:lang="en" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd"><longTitle id="ID_1438402862472_001" name="longTitle" reason="inEffect" status="operational" temporalId="longTitle" startPeriod="2021-02-25">
+                                                <content>To provide for the granting of franchises
+                                                  to operate public bus services on specified
+                                                  routes, the regulation of the operation and
+                                                  maintenance of such services and for matters
+                                                  ancillary thereto and connected
+                                                  therewith.<marker role="blank-line"></marker><marker role="blank-line"></marker></content>
+                                </longTitle><commencementNote>[1 September 1975]</commencementNote><sourceNote>(Format changes—<ref href="hk/2021/er1">E.R. 1 of 2021</ref>)</sourceNote><part id="ID_1438402862472_003" name="P1" reason="inEffect" startPeriod="2021-02-25" status="operational" temporalId="P1"><num value="1">Part
+            I</num><heading>Preliminary</heading><section id="ID_1438402862488_002" name="s1" reason="inEffect" startPeriod="2021-02-25" status="operational" temporalId="s1"><num value="1">1.</num><heading>Short title</heading><content>This Ordinance may be cited as the <shortTitle>Public Bus Services Ordinance</shortTitle>.</content><sourceNote>(Amended <ref href="/hk/1982/75">75 of 1982 s. 114</ref>)</sourceNote></section><section id="ID_1438402862488_004" name="s2" reason="inEffect" startPeriod="2021-02-25" status="operational" temporalId="s2"><num value="2">2.</num><heading>Interpretation</heading><leadIn>In this Ordinance, unless the context otherwise requires—</leadIn><def name="Bus"><term>bus</term>
+                (<term xml:lang="zh-Hant-HK">巴士</term>) has the same meaning as in the Road Traffic
+            Ordinance (<ref href="/hk/cap374">Cap.
+                374</ref>);
+            <sourceNote>(Replaced <ref href="/hk/1982/75">75 of 1982 s.
+                114</ref>)</sourceNote></def><def name="Commissioner"><term>Commissioner</term>
+                (<term xml:lang="zh-Hant-HK">署長</term>) means the Commissioner for Transport;</def><def name="Franchise"><term>franchise</term>
+                (<term xml:lang="zh-Hant-HK">專營權</term>) means the right to operate a public bus
+            service granted under <ref>section 5</ref>;</def><def name="FranchisePeriod"><term>franchise
+                period</term>
+                (<term xml:lang="zh-Hant-HK">專營期</term>) means the period for which a franchise is
+            granted under <ref>section 6(1)</ref> and any period for which the franchise is extended
+            under <ref>section 6(2)</ref> or (3);</def><def name="Grantee"><term>grantee</term>
+                (<term xml:lang="zh-Hant-HK">專營公司</term>) means a company to which a franchise has
+            been granted;</def><def name="NorthwestTransitServiceArea"><term>North-west
+                Transit Service
+            Area</term>
+                (<term xml:lang="zh-Hant-HK">西北鐵路服務範圍</term>) means the North-west Transit Service
+            Area within the meaning of the Kowloon-Canton Railway Corporation Ordinance (<ref href="/hk/cap372">Cap. 372</ref>);
+            <sourceNote>(Added <ref href="/hk/1986/56">56 of 1986 s.
+                22</ref>)</sourceNote></def><def name="Passenger"><term>passenger</term>
+                (<term xml:lang="zh-Hant-HK">乘客</term>) in relation to a bus means any person
+            carried in or on it other than the driver or conductor or any other employee of the
+            grantee who is in uniform and on duty;
+            <sourceNote>(Added <ref href="/hk/1988/88">88 of 1988 s.
+                2</ref>)</sourceNote></def><def name="ProfitControlScheme"><term>profit
+                control
+            scheme</term>
+                (<term xml:lang="zh-Hant-HK">利潤管制計劃</term>) means the profit control scheme provided
+            for by Part V;</def><def name="Programme"><term>programme</term>
+                (<term xml:lang="zh-Hant-HK">計劃</term>) means a programme in force under
+                <ref>section 12A</ref>;
+            <sourceNote>(Added <ref href="/hk/1984/44">44 of 1984 s.
+                2</ref>)</sourceNote></def><def name="ProperAndEfficientService"><term>proper
+                and efficient
+            service</term>
+                (<term xml:lang="zh-Hant-HK">適當而有效率的服務</term>) means a proper and efficient public
+            bus service within the meaning of <ref>section 12</ref>;
+            <sourceNote>(Added <ref href="/hk/1984/44">44 of 1984 s.
+                2</ref>)</sourceNote></def><def name="PublicBusService"><term>public
+                bus
+            service</term>
+                (<term xml:lang="zh-Hant-HK">公共巴士服務</term>) means a bus service for the carriage of
+            passengers for reward at separate fares;</def><def name="ScheduleOfRoutesOrder"><term><ref>Schedule</ref>
+                of Routes
+            order</term>
+                (<term xml:lang="zh-Hant-HK">路綫表令</term>) means an order under <ref>section
+                5(1)</ref>;</def><def name="SpecifiedRoute"><term>specified
+                route</term>
+                (<term xml:lang="zh-Hant-HK">指明路綫</term>) means a route specified in the
+                <ref>Schedule</ref> of Routes order applying in the case of a grantee and any new
+            route on which a public bus service is operated by that grantee in accordance with a
+            requirement under <ref>section 14</ref> or <ref>15</ref>, or an approval under
+                <ref>section 16A</ref>.
+            <sourceNote>(Amended <ref href="/hk/1984/44">44 of 1984 s.
+                2</ref>)</sourceNote></def></section><section id="ID_1438402862503_002" name="s2A" reason="inEffect" startPeriod="2021-02-25" status="operational" temporalId="s2A"><num value="2A">2A.</num><heading>Construction of references to the Ordinance in a franchise, programme or agreement</heading><content>Unless the context otherwise requires, any reference to this Ordinance (whether as the Public Omnibus Services Ordinance 1975 (<ref href="/hk/1975/59">59 of 1975</ref>) or otherwise), or to any provision thereof, franchise, programme, agreement or other document under or in pursuance of this Ordinance shall be deemed to be a reference to this Ordinance or such provision thereof as amended from time to time.</content><sourceNote>(Added <ref href="/hk/1984/44">44 of 1984 s. 3</ref>)</sourceNote></section><section id="ID_1438402862519_002" name="s3" reason="inEffect" startPeriod="2021-02-25" status="operational" temporalId="s3"><num value="3">3.</num><heading>Power of Chief Executive to give directions to a public officer</heading><subsection id="ID_1438411633771_046" name="1" temporalId="s3_1"><num value="1">(1)</num><content>The Chief Executive may give to a public officer such directions as he thinks
+                fit with respect to the exercise or performance of his powers, functions and duties
+                under this Ordinance, either generally or in any particular case.</content></subsection><subsection id="ID_1438411633771_054" name="2" temporalId="s3_2"><num value="2">(2)</num><content>A public officer shall, in the exercise or performance of his powers, functions
+                and duties under this Ordinance, comply with any direction given by the Chief
+                Executive under subsection (1).</content></subsection><sourceNote>(Amended <ref href="/hk/1984/44">44 of 1984 s. 4</ref>; <ref href="/hk/1999/62">62 of 1999 s. 3</ref>)</sourceNote></section></part><part id="ID_1438402862519_004" name="P2" reason="inEffect" startPeriod="2021-02-25" status="operational" temporalId="P2"><num value="2">Part
+            II</num><heading>Public
+            Bus Service Franchises</heading><section id="ID_1438402862550_001" name="s4" reason="inEffect" startPeriod="2021-02-25" status="operational" temporalId="s4"><num value="4">4.</num><heading>Prohibition of operation of public bus service except under franchise</heading><subsection id="ID_1438411633818_004" name="1" temporalId="s4_1"><num value="1">(1)</num><content>A public bus service shall not be operated except under a franchise granted under this Ordinance or another enactment.</content></subsection><subsection id="ID_1438411633818_012" name="2" temporalId="s4_2"><num value="2">(2)</num><leadIn>Any person who—</leadIn><paragraph id="ID_1438411633818_020" name="a" temporalId="s4_2_a"><num value="a">(a)</num><content>operates, or manages or assists in the management of, a public bus
+                    service;
+                    or</content></paragraph><paragraph id="ID_1438411633818_028" name="b" temporalId="s4_2_b"><num value="b">(b)</num><content>uses, or causes or permits to be used, a bus in the operation of a public bus service,</content></paragraph><continued>which is operated in contravention of subsection (1) shall be guilty of an offence and
+                shall be liable on conviction to a fine
+                at
+                level 6.
+                <sourceNote>(Amended <ref href="/hk/2021/er1">E.R. 1 of
+                2021</ref>)</sourceNote></continued></subsection><subsection id="ID_1438411633818_041" name="3" temporalId="s4_3"><num value="3">(3)</num><leadIn>This section does not apply to a public bus service which is—</leadIn><paragraph id="ID_1438411633834_005" name="a" temporalId="s4_3_a"><num value="a">(a)</num><leadIn>a tour service, that is to say, a service—</leadIn><subparagraph id="ID_1438411633834_013" name="i" temporalId="s4_3_a_i"><num value="i">(i)</num><content>for the carriage of passengers at separate fares;</content></subparagraph><subparagraph id="ID_1438411633834_021" name="ii" temporalId="s4_3_a_ii"><num value="ii">(ii)</num><content>entitling the passengers to travel together on a journey, with or without breaks, from the place or places at which they are taken up (being the same place or 2 or more places in the same vicinity) to one or more other places and back to the place or places at which they were taken up;</content></subparagraph><subparagraph id="ID_1438411633834_029" name="iii" temporalId="s4_3_a_iii"><num value="iii">(iii)</num><content>in which all the passengers are carried for the greater part of the journey; and</content></subparagraph><subparagraph id="ID_1438411633834_037" name="iv" temporalId="s4_3_a_iv"><num value="iv">(iv)</num><content>in which no passenger is a person who frequently, or as a matter of
+                        routine, travels, at or about the time of day at which the journey is made,
+                        to or to the vicinity of a place from or through which the journey is made;
+                        <sourceNote>(Replaced <ref href="/hk/1976/72">72 of 1976
+                                s. 2</ref>)</sourceNote></content></subparagraph></paragraph><paragraph id="ID_1438411633834_044" name="b" temporalId="s4_3_b"><num value="b">(b)</num><leadIn>an international passenger service, that is to say, a service for the carriage of passengers in either direction between any one or more of the following places, that is to say, the Hong Kong International Airport, Hung Hom Railway Station, Macau Ferry Pier or any other pier, any Hong Kong border crossing, any hotel, airline office or ferry or similar terminal, where the passengers on the service consist only of—</leadIn><subparagraph id="ID_1438411633849_006" name="i" temporalId="s4_3_b_i"><num value="i">(i)</num><content>persons arriving in or intending to leave Hong Kong by aircraft, railway, ferry vessel, ship or motor vehicle;</content></subparagraph><subparagraph id="ID_1438411633849_014" name="ii" temporalId="s4_3_b_ii"><num value="ii">(ii)</num><content>persons meeting or accompanying the persons referred to in
+                        subparagraph
+                        (i); or</content></subparagraph><subparagraph id="ID_1438411633849_022" name="iii" temporalId="s4_3_b_iii"><num value="iii">(iii)</num><content>persons employed by an airline or the agent of an airline, or by any
+                        travel, shipping or railway agent;
+                        <sourceNote>(Replaced <ref href="/hk/1984/44">44 of 1984
+                                s. 5</ref>)</sourceNote></content></subparagraph></paragraph><paragraph id="ID_1438411633849_029" name="c" temporalId="s4_3_c"><num value="c">(c)</num><content>an hotel service, that is to say, a service for the carriage of passengers residing at an hotel where every passenger is taken up or set down at the hotel;</content></paragraph><paragraph id="ID_1438411633849_037" name="d" temporalId="s4_3_d"><num value="d">(d)</num><content>a student service, that is to say, a service for the carriage to or from a school, university or other educational establishment of students thereof, persons accompanying or in charge of such students or who teach at the school, university or other educational establishment;</content></paragraph><paragraph id="ID_1438411633849_045" name="e" temporalId="s4_3_e"><num value="e">(e)</num><content>an employees’ service, that is to say, a service provided by an employer
+                    for the carriage to or from their place of work of passengers who are persons
+                    employed by him;
+                    <sourceNote>(Amended <ref href="/hk/1984/44">44 of 1984 s.
+                            5</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411633865_006" name="f" temporalId="s4_3_f"><num value="f">(f)</num><content>a residents’ service, that is to say, a service approved by the
+                    Commissioner, after considering the interests of any grantee franchised to
+                    operate over any part of the route to be covered by the service and any other
+                    relevant matter, and provided by or on behalf of the management, residents or
+                    owners of any residential development for the carriage of passengers to or from
+                    the residential development;
+                    <sourceNote>(Added <ref href="/hk/1984/44">44 of 1984 s.
+                            5</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411633865_014" name="g" temporalId="s4_3_g"><num value="g">(g)</num><content>a multiple transport service, that is to say, a service (other than a
+                    service provided mainly for the carriage of passengers to or from a residential
+                    development) in which no passenger is a person who frequently or as a matter of
+                    routine travels, at or about the time of day at which the journey is to be made,
+                    to or to the vicinity of a place from or through which the journey is made,
+                    approved by the Commissioner, after considering the interests of any grantee
+                    franchised to operate over any part of the route to be covered by the service
+                    and any other relevant matter, for the carriage of passengers by a public bus
+                    service in combination with carriage by another mode or modes of public
+                    transport service from one departure point to one destination and where a
+                    combined fare is paid for the whole journey, single or return, at a place other
+                    than at the boarding point of the bus or on the bus.
+                    <sourceNote>(Added <ref href="/hk/1984/44">44 of 1984 s.
+                            5</ref>. Amended <ref href="/hk/1984/66">66 of 1984 s.
+                        13</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438411633896_005" name="4" temporalId="s4_4"><num value="4">(4)</num><content>For the purposes of this Ordinance, a payment made by a person entitling him to be carried as a passenger in a bus shall be treated as a separate fare notwithstanding that it is made in consideration of other matters in addition to the journey and irrespective of the person by or to whom it is made.</content></subsection></section><section id="ID_1438402862566_001" name="s5" reason="inEffect" startPeriod="2021-02-25" status="operational" temporalId="s5"><num value="5">5.</num><heading>Grant of franchises</heading><subsection id="ID_1438411633959_020" name="1" temporalId="s5_1"><num value="1">(1)</num><content>Subject to this Ordinance, the Chief Executive in Council may grant to any
+                company registered under the Companies Ordinance (<ref href="/hk/cap622">Cap.
+                    622</ref>), or under the Companies Ordinance (<ref href="/hk/cap32">Cap.
+                    32</ref>) as in force from time to time before the commencement
+                    date<sup>#</sup>
+                of <ref>section 2 of Schedule 9</ref> to the Companies Ordinance (<ref href="/hk/cap622">Cap. 622</ref>), the right to operate a public bus service on
+                such routes as he specifies by order.
+                <sourceNote>(Amended <ref href="/hk/2012/28">28 of 2012 ss.
+                        912</ref> &amp; <ref href="/hk/2012/28">920</ref>)</sourceNote></content></subsection><subsection id="ID_1438411633974_005" name="2" temporalId="s5_2"><num value="2">(2)</num><content>A franchise may confer on the grantee the exclusive right to operate a service on any specified route.</content></subsection><subsection id="ID_1438411633974_013" name="3" temporalId="s5_3"><num value="3">(3)</num><leadIn>A franchise—</leadIn><paragraph id="ID_1438411633974_021" name="a" temporalId="s5_3_a"><num value="a">(a)</num><content>may be granted following a public tender or in such other manner as the Chief Executive in Council thinks fit;</content></paragraph><paragraph id="ID_1438411633974_029" name="b" temporalId="s5_3_b"><num value="b">(b)</num><content>shall, except where the Legislative Council by resolution excludes the application of all or any of the provisions of the profit control scheme, be subject to the profit control scheme;</content></paragraph><paragraph id="ID_1438411633990_006" name="c" temporalId="s5_3_c"><num value="c">(c)</num><content>shall be subject to such conditions as the Chief Executive in Council specifies; and</content></paragraph><paragraph id="ID_1438411633990_014" name="d" temporalId="s5_3_d"><num value="d">(d)</num><content>shall prescribe whether it may be extended under <ref>section 6(2)</ref> or (3).</content></paragraph></subsection><subsection id="ID_1438411633990_021" name="4" temporalId="s5_4"><num value="4">(4)</num><content>Without prejudice to any other provision of this Ordinance, a franchise may, with the consent of the grantee, be amended by the Chief Executive in Council.</content></subsection><subsection id="ID_1438411633990_029" name="5" temporalId="s5_5"><num value="5">(5)</num><content>A franchise may, with or without the consent of the grantee, be amended by the
+                Chief Executive in Council by order in the Gazette so as to restrict or prohibit the
+                taking up or setting down of passengers within the North-west Transit Service Area
+                or, where the boundaries of that Area are varied under <ref>section 2(3)</ref> of
+                the Kowloon-Canton Railway Corporation Ordinance (<ref href="/hk/cap372">Cap.
+                    372</ref>), to alter such a restriction or prohibition to take account of such variation.
+                <sourceNote>(Added <ref href="/hk/1986/56">56 of 1986 s.
+                    22</ref>)</sourceNote></content></subsection><subsection id="ID_1438411634005_005" name="6" temporalId="s5_6"><num value="6">(6)</num><content>Where an amendment to a franchise is made under subsection (5) without the
+                consent of the grantee, the grantee shall be entitled to compensation for the loss
+                of any permitted return (as defined in Part V) on any investment which the grantee
+                may reasonably have been expected to make had the franchise not been so amended,
+                subject to the deduction from that permitted return of any sum required to be
+                deducted under <ref>sections 28</ref> and <ref>29</ref>.
+                <sourceNote>(Added <ref href="/hk/1986/56">56 of 1986 s.
+                    22</ref>)</sourceNote></content></subsection><subsection id="ID_1438411634021_005" name="7" temporalId="s5_7"><num value="7">(7)</num><content>In determining any compensation payable under subsection (6) account shall be
+                had of any opportunity which the grantee may have had to mitigate his loss and to
+                the effect the construction and operation of the North-west Railway under the
+                Kowloon-Canton Railway Corporation Ordinance (<ref href="/hk/cap372">Cap. 372</ref>)
+                would have had on the operations of the grantee (being an effect for which no
+                compensation is payable) had his franchise not been amended.
+                <sourceNote>(Added <ref href="/hk/1986/56">56 of 1986 s.
+                    22</ref>)</sourceNote></content></subsection><subsection id="ID_1438411634021_013" name="8" temporalId="s5_8"><num value="8">(8)</num><content>Compensation payable under subsection (6) shall be in such amount as may be
+                agreed between the Commissioner and the grantee or, in the event of a failure to
+                agree, as may be determined by arbitration under the Arbitration Ordinance (<ref href="/hk/cap609">Cap. 609</ref>) and, for the purposes of that Ordinance, the
+                reference in this subsection to arbitration shall be deemed to be arbitration under
+                that Ordinance with 2 arbitrators, one appointed by the grantee and one by the Commissioner.
+                <sourceNote>(Added <ref href="/hk/1986/56">56 of 1986 s. 22</ref>. Amended <ref href="/hk/2010/17">17 of 2010 s. 112</ref>)</sourceNote></content></subsection><subsection id="ID_1438411634037_005" name="9" temporalId="s5_9"><num value="9">(9)</num><content>The powers conferred on the Chief Executive in Council by subsection (5) shall
+                cease to be exercisable after a period of 20 years from the commencement* of the
+                Kowloon-Canton Railway Corporation (Amendment) Ordinance 1986 (<ref href="/hk/1986/56">56 of 1986</ref>) or such further period or periods as may be
+                authorized by resolution of the Legislative Council.
+                <sourceNote>(Added <ref href="/hk/1986/56">56 of 1986 s.
+                    22</ref>)</sourceNote></content></subsection><sourceNote>(Amended <ref href="/hk/1999/62">62 of 1999 s. 3</ref>)</sourceNote><editorialNote type="footnote" id="ID_1611127378840_001">
+            
+            <content>Editorial
+                Note:</content>
+            
+            
+            
+            
+            <table xmlns="http://www.w3.org/1999/xhtml" class="font_size_9" width="100%">
+                <col width="3%"></col>
+                <col width="97%"></col>
+                <tbody>
+                    <tr>
+                        <td><sup>#</sup></td>
+                        <td>Commencement date: 3 March 2014.</td>
+                    </tr>
+                    <tr>
+                        <td><inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="force_orig_font">*</inline></td>
+                        <td>Commencement date: 1 November 1986.</td>
+                    </tr>
+                </tbody>
+            </table>
+            
+        </editorialNote></section><section id="ID_1438402862581_002" name="s6" reason="inEffect" startPeriod="2022-07-01" status="operational" temporalId="s6"><num value="6">6.</num><heading>Periods of grants and extensions thereof</heading><subsection id="ID_1438411635004_022" name="1" temporalId="s6_1"><num value="1">(1)</num><content>A franchise may be granted for a period not exceeding 10 years, and in
+                calculating a franchise period no account shall be taken of any change from time to
+                time in the specified routes.</content></subsection><subsection id="ID_1438411635019_004" name="2" temporalId="s6_2"><num value="2">(2)</num><content>If, not less than 15 months before the expiry of the period for which a
+                franchise was granted under subsection (1), the grantee has by notice in writing to
+                the
+                
+                Financial
+                Secretary
+                requested an extension of such period, the Chief Executive in Council may, if he is
+                satisfied that the grantee is capable of maintaining a proper and efficient service,
+                extend the franchise for a further period not exceeding 5 years.
+                <sourceNote>(Amended <ref href="/hk/1984/44">44 of 1984 s.
+                    6</ref>; <ref href="/hk/1995/82">82 of 1995 s. 2</ref>; <ref href="/hk/1997/ln362">L.N. 362 of
+                    1997</ref>; <ref href="/hk/2022/ln144">L.N. 144 of
+                    2022</ref>)</sourceNote></content></subsection><subsection id="ID_1438411635019_012" name="2A" temporalId="s6_2A"><num value="2A">(2A)</num><content>Where notice has been given by a grantee under subsection (2), the
+                Secretary
+                for Transport and Logistics shall, not less than 9 months before
+                the expiry of the period for which the franchise was granted under subsection (1),
+                submit to the Chief Executive in Council a report setting out his recommendation as
+                to whether the franchise should be extended for a further period under this section.
+                <sourceNote>(Added <ref href="/hk/1995/82">82 of 1995 s. 2</ref>. Amended <ref href="/hk/2002/ln106">L.N. 106 of 2002</ref>; <ref href="/hk/2007/ln130">L.N. 130 of
+                    2007</ref>; <ref href="/hk/2022/ln144">L.N. 144 of
+                    2022</ref>)</sourceNote></content></subsection><subsection id="ID_1438411635035_005" name="3" temporalId="s6_3"><num value="3">(3)</num><leadIn>The Chief Executive in Council may, at any time during a franchise
+                period—</leadIn><paragraph id="ID_1438411635035_013" name="a" temporalId="s6_3_a"><num value="a">(a)</num><content>whenever he considers it appropriate having regard to any circumstances
+                    affecting the franchise; and</content></paragraph><paragraph id="ID_1438411635035_021" name="b" temporalId="s6_3_b"><num value="b">(b)</num><content>if he is satisfied that the grantee is capable of maintaining a proper and
+                    efficient service,
+                    <sourceNote>(Replaced <ref href="/hk/1984/44">44 of 1984 s.
+                            6</ref>)</sourceNote></content></paragraph><continued>extend the franchise from time to time for a further period not exceeding 2 years.
+                <sourceNote>(Amended <ref href="/hk/1984/44">44 of 1984 s.
+                    6</ref>)</sourceNote></continued></subsection><sourceNote>(Amended <ref href="/hk/1999/62">62 of 1999 s. 3</ref>)</sourceNote><editorialNote type="footnote" id="ID_1655366994875_001">
+            <content>Editorial Note:</content>
+            <content>The application of this section is affected by <ref>section 7</ref> of the
+                Public Bus Services (Amendment) Ordinance 1995 (<ref href="/hk/1995/82">82 of
+                    1995</ref>).</content>
+        </editorialNote></section><section id="ID_1438402862597_001" name="s7" reason="inEffect" startPeriod="2021-02-25" status="operational" temporalId="s7"><num value="7">7.</num><heading>Restriction on assignment or other disposition of franchise</heading><content>A grantee shall not assign or otherwise dispose of its franchise, or any part
+            thereof, without the approval of the Chief Executive in Council.</content><sourceNote>(Amended <ref href="/hk/1999/62">62 of 1999 s. 3</ref>)</sourceNote></section><section id="ID_1438402862597_003" name="s8" reason="inEffect" startPeriod="2021-02-25" status="operational" temporalId="s8"><num value="8">8.</num><heading>Directors of grantee companies</heading><subsection id="ID_1438411635097_011" name="1" temporalId="s8_1"><num value="1">(1)</num><content>Save where the Chief Executive in Council otherwise permits on the granting of
+                a franchise, a majority of the directors of a grantee shall be individuals who are
+                ordinarily resident in Hong Kong.
+                <sourceNote>(Amended <ref href="/hk/1982/80">80 of 1982 s.
+                    2</ref>; <ref href="/hk/1998/28">28 of 1998 s. 2</ref>; <ref href="/hk/1999/62">62 of 1999 s. 3</ref>)</sourceNote></content></subsection><subsection id="ID_1438411635097_019" name="2" temporalId="s8_2"><num value="2">(2)</num><content>A majority of the directors required under subsection (1) shall participate
+                actively in the direction of the grantee.</content></subsection></section><section id="ID_1438402862628_001" name="s9" reason="inEffect" startPeriod="2021-02-25" status="operational" temporalId="s9"><num value="9">9.</num><heading>Chief Executive may appoint additional directors</heading><subsection id="ID_1438411635113_026" name="1" temporalId="s9_1"><num value="1">(1)</num><content>The Chief Executive may, notwithstanding any provision of the Companies
+                Ordinance (<ref href="/hk/cap622">Cap. 622</ref>), the Companies (Winding Up and
+                Miscellaneous Provisions) Ordinance (<ref href="/hk/cap32">Cap. 32</ref>) or any
+                other law or of any document, appoint not more than 2 persons to be additional
+                directors of a grantee; and, notwithstanding any such provision as aforesaid, a
+                person so appointed may not be removed from the board of a grantee except by the
+                Chief Executive.
+                <sourceNote>(Amended <ref href="/hk/1999/62">62 of 1999 s.
+                    3</ref>; <ref href="/hk/2012/28">28 of 2012 ss.
+                        912
+                        &amp;
+                    920</ref>)</sourceNote></content></subsection><subsection id="ID_1438411635129_005" name="2" temporalId="s9_2"><num value="2">(2)</num><content>A person so appointed to be an additional director of a grantee shall represent the Government and for that purpose shall be entitled to participate at meetings of the grantee and the board of the grantee, to have access to all material concerning the affairs of the grantee which is available to any other director and require such information with respect to the grantee’s affairs as he may specify to be furnished to him, and, without prejudice to the foregoing but subject to subsection (3), any such person shall be treated for all purposes as if he had been appointed at a general meeting of the grantee as a director thereof.</content></subsection><subsection id="ID_1438411635144_005" name="3" temporalId="s9_3"><num value="3">(3)</num><content>No fee or reward, financial or otherwise, shall be paid by a grantee to a person appointed to be an additional director of the grantee under this section in respect of his performance of the functions of such a director.</content></subsection></section><section id="ID_1438402862644_001" name="s10" reason="inEffect" startPeriod="2021-02-25" status="operational" temporalId="s10"><num value="10">10.</num><heading>Grantee not to alter memorandum or articles without Chief Executive’s
+            approval</heading><content>No alteration shall be made during the franchise period to the memorandum of
+            association (if any) or articles of association of a grantee without the approval of the
+            Chief Executive.</content><sourceNote>(Amended <ref href="/hk/1999/62">62 of 1999 s. 3</ref>; <ref href="/hk/2012/28">28 of 2012 ss.
+                912 &amp;
+                920</ref>)</sourceNote></section></part><part id="ID_1438402862644_003" name="P3" reason="inEffect" startPeriod="2021-02-25" status="operational" temporalId="P3"><num value="3">Part
+            III</num><heading>Operation
+            and Control of Services</heading><section id="ID_1438402862659_001" name="s11" reason="inEffect" startPeriod="2021-02-25" status="operational" temporalId="s11"><num value="11">11.</num><heading>Grantee to operate on specified routes only</heading><subsection id="ID_1438411635191_004" name="1" temporalId="s11_1"><num value="1">(1)</num><content>Subject to subsection (2), a grantee shall not operate a public bus service otherwise than on a specified route.</content></subsection><subsection id="ID_1438411635191_012" name="2" temporalId="s11_2"><num value="2">(2)</num><content>Whenever circumstances beyond the control of a grantee so require, a grantee may cause a public bus service to be diverted from a specified route for so long as such circumstances continue to so require.</content></subsection></section><section id="ID_1438402862659_003" name="s12" reason="inEffect" startPeriod="2021-02-25" status="operational" temporalId="s12"><num value="12">12.</num><heading>Grantee to maintain proper service</heading><subsection id="ID_1438411635207_019" name="1" temporalId="s12_1"><num value="1">(1)</num><content>A grantee shall, at all times during the franchise period, maintain to the satisfaction of the Commissioner a proper and efficient public bus service.</content></subsection><subsection id="ID_1438411635207_027" name="2" temporalId="s12_2"><num value="2">(2)</num><content>Without prejudice to the generality of subsection (1), the grantee shall not be
+                treated for any purpose of this Ordinance as maintaining a proper and efficient
+                public bus service unless it maintains the service and operates the same in
+                accordance with its franchise, this Ordinance, any direction or requirement under
+                its franchise or this Ordinance and any programme or any approval under <ref>section
+                    16A</ref>.
+                <sourceNote>(Amended <ref href="/hk/1984/44">44 of 1984 s.
+                    7</ref>)</sourceNote></content></subsection></section><section id="ID_1438402862675_001" name="s12A" reason="inEffect" startPeriod="2022-07-01" status="operational" temporalId="s12A"><num value="12A">12A.</num><heading>Forward planning programme</heading><subsection id="ID_1438411635253_011" name="1" temporalId="s12A_1"><num value="1">(1)</num><content>With effect from 1 January 1985, a grantee shall in each year, not later than
+                30 June, prepare a programme of the operations of the grantee for the following 5
+                years in respect of the matters specified in the <ref>Schedule</ref>, and the
+                grantee and the Commissioner shall, subject to subsection (4), take all reasonable
+                steps to reach agreement on the programme by 30 September in that year; and the
+                programme as agreed under this subsection or as settled under subsection (4) shall
+                be submitted to the
+                Secretary
+                for Transport and Logistics by the Commissioner.</content></subsection><subsection id="ID_1438411635269_005" name="2" temporalId="s12A_2"><num value="2">(2)</num><content>A programme submitted to the
+                Secretary
+                for Transport and Logistics under subsection (1) in any year shall
+                upon such submission come into force and supersede the programme (if any) so
+                submitted in the immediately preceding year, but where a programme is not submitted
+                in any year the programme submitted in the previous year shall, without prejudice to
+                subsection (5), continue in force until it is superseded or it expires, whichever is
+                the earlier.</content></subsection><subsection id="ID_1438411635285_005" name="3" temporalId="s12A_3"><num value="3">(3)</num><content>A programme which is in force under this section may from time to time be
+                altered by mutual consent of the Commissioner and a grantee and such alterations
+                shall be submitted to the
+                Secretary
+                for Transport and Logistics by the Commissioner and upon such
+                submission the programme shall continue in force as altered.</content></subsection><subsection id="ID_1438411635285_013" name="4" temporalId="s12A_4"><num value="4">(4)</num><content>If the grantee and the Commissioner fail to reach agreement on any point in a
+                programme prepared by a grantee under subsection (1) in any year, or fail to
+                mutually agree any alterations under subsection (3), the grantee and the
+                Commissioner shall forward the details of the point in disagreement to the
+                Secretary
+                for Transport and Logistics who shall decide on the point having
+                regard to the submissions of the grantee and the Commissioner and such decisions of
+                the
+                Secretary
+                for Transport and Logistics shall, subject to <ref>section
+                    33</ref>, be final and shall be incorporated in the programme and such programme
+                shall be the settled programme.</content></subsection><subsection id="ID_1438411635300_005" name="5" temporalId="s12A_5"><num value="5">(5)</num><content>Where, without reasonable excuse, a grantee fails to prepare a programme in
+                compliance with subsection (1) it shall be deemed to be incapable of maintaining
+                    a<inline class="width_3"> </inline>proper and efficient service.</content></subsection><sourceNote>(Added <ref href="/hk/1984/44">44 of 1984 s. 8</ref>. Amended <ref href="/hk/2002/ln106">L.N. 106 of 2002</ref>; <ref href="/hk/2007/ln130">L.N. 130 of
+                2007</ref>; <ref href="/hk/2022/ln144">L.N. 144 of 2022</ref>)</sourceNote></section><section id="ID_1438402862675_003" name="s12B" reason="inEffect" startPeriod="2021-02-25" status="operational" temporalId="s12B"><num value="12B">12B.</num><heading>Relevance of programme and non-compliance in certain circumstances</heading><subsection id="ID_1438411635331_026" name="1" temporalId="s12B_1"><num value="1">(1)</num><content>In the exercise of any power under this Ordinance, the Chief Executive in
+                Council and the Commissioner shall have regard to a programme.
+                <sourceNote>(Amended <ref href="/hk/1999/62">62 of 1999 s.
+                    3</ref>)</sourceNote></content></subsection><subsection id="ID_1438411635331_034" name="2" temporalId="s12B_2"><num value="2">(2)</num><content>Where a grantee fails to comply with a programme by reason of circumstances
+                beyond its control, such failure shall not be taken as a breach of its franchise or
+                a failure to maintain a proper and efficient services.</content></subsection><sourceNote>(Added <ref href="/hk/1984/44">44 of 1984 s. 8</ref>)</sourceNote></section><section id="ID_1438402862706_001" name="s13" reason="inEffect" startPeriod="2021-02-25" status="operational" temporalId="s13"><num value="13">13.</num><heading>Fares</heading><subsection id="ID_1438411635363_026" name="1" temporalId="s13_1"><num value="1">(1)</num><leadIn>The Chief Executive in Council may determine—  <sourceNote>(Amended <ref href="/hk/1999/62">62 of 1999 s. 3</ref>)</sourceNote></leadIn><paragraph id="ID_1438411635363_034" name="a" temporalId="s13_1_a"><num value="a">(a)</num><content>the scale of fares which may be charged for the carriage of passengers,
+                    baggage and goods on any specified route or group of specified routes;
+                    and</content></paragraph><paragraph id="ID_1438411635363_042" name="b" temporalId="s13_1_b"><num value="b">(b)</num><content>the maximum rate of increase which may be permitted by the Commissioner
+                    under subsection (3) in the scale of fares determined under paragraph
+                    (a).</content></paragraph></subsection><subsection id="ID_1438411635363_049" name="2" temporalId="s13_2"><num value="2">(2)</num><leadIn>Where the Commissioner requires a grantee under <ref>section 15</ref>, or
+                approves an application by a grantee under <ref>section 16A</ref>, to—</leadIn><paragraph id="ID_1438411635363_057" name="a" temporalId="s13_2_a"><num value="a">(a)</num><content>alter a specified route temporarily; or</content></paragraph><paragraph id="ID_1438411635378_006" name="b" temporalId="s13_2_b"><num value="b">(b)</num><content>operate a temporary public bus service on a route, not being a specified
+                    route,</content></paragraph><continued>the Commissioner shall determine the fares which may be charged for the
+                carriage of passengers, baggage and goods on such altered route or temporary
+                service, and such fares shall be based on the appropriate scale of fares determined
+                under subsection <ref>(1)(a)</ref>:</continued><proviso name="proviso" temporalId="s13_2_proviso">Provided that the Commissioner shall
+                not reduce the fares on a specified route under this subsection where the reason for
+                the temporary alteration arises out of circumstances beyond the control of the grantee.
+                <sourceNote>(Replaced <ref href="/hk/1984/44">44 of 1984 s.
+                        9</ref>)</sourceNote></proviso></subsection><subsection id="ID_1438411635378_026" name="3" temporalId="s13_3"><num value="3">(3)</num><leadIn>Where circumstances require a public bus service to be operated on a specified
+                route—</leadIn><paragraph id="ID_1438411635378_034" name="a" temporalId="s13_3_a"><num value="a">(a)</num><content>on any day at a frequency greater than that specified in a direction under
+                        <ref>section 16(1)(a)</ref> or in an application approved under <ref>section
+                        16A</ref>;</content></paragraph><paragraph id="ID_1438411635378_042" name="b" temporalId="s13_3_b"><num value="b">(b)</num><content>during a period or on a day other than that specified in a direction under
+                        <ref>section 16(1)(a)</ref> or in an application approved under <ref>section
+                        16A</ref>; or</content></paragraph><paragraph id="ID_1438411635378_050" name="c" temporalId="s13_3_c"><num value="c">(c)</num><content>with a bus of a carrying capacity or of a type other than that specified in
+                    a direction under <ref>section 16(1)(b)</ref> or in an application approved
+                    under <ref>section 16A</ref>,</content></paragraph><continued>the Commissioner may by notice in writing to the grantee permit the grantee
+                to charge an increased fare for the carriage of passengers, baggage and goods on
+                such route during such operation of a public bus service, and such increased fare
+                shall be based on the appropriate scale of fares determined under subsection
+                    <ref>(1)(a)</ref> to which may be added such increase as the Commissioner may
+                think fit at a rate not exceeding the rate of increase determined under subsection
+                    <ref>(1)(b)</ref>.
+                <sourceNote>(Replaced <ref href="/hk/1984/44">44 of 1984 s.
+                        9</ref>)</sourceNote></continued></subsection><subsection id="ID_1438411635394_004" name="4" temporalId="s13_4"><num value="4">(4)</num><leadIn>A grantee shall not charge any passenger—</leadIn><paragraph id="ID_1438411635394_012" name="a" temporalId="s13_4_a"><num value="a">(a)</num><content>a fare exceeding the fare determined in accordance with the appropriate
+                    scale of fares determined under subsection <ref>(1)(a)</ref> or the fare
+                    determined under subsection (2) or permitted under subsection (3); or</content></paragraph><paragraph id="ID_1438411635394_020" name="b" temporalId="s13_4_b"><num value="b">(b)</num><content>except with the prior permission of the Commissioner, a fare lower than
+                    that so determined or, where applicable, the increased fare permitted under
+                    subsection (3).
+                    <sourceNote>(Amended <ref href="/hk/1984/44">44 of 1984 s.
+                            9</ref>)</sourceNote></content></paragraph></subsection></section><section id="ID_1438402862878_002" name="s14" reason="inEffect" startPeriod="2021-02-25" status="operational" temporalId="s14"><num value="14">14.</num><heading>Alteration of routes and provision of additional routes</heading><subsection id="ID_1438411635441_011" name="1" temporalId="s14_1"><num value="1">(1)</num><leadIn>Subject to subsections (4) and (5), the Chief Executive in Council may by notice
+                in writing to the grantee require it, before the expiry of such period as may be
+                specified in the notice, to—</leadIn><paragraph id="ID_1438411635441_019" name="a" temporalId="s14_1_a"><num value="a">(a)</num><content>alter a specified route in the manner specified in the notice, whether by
+                    way of extending or curtailing or otherwise varying the route;</content></paragraph><paragraph id="ID_1438411635441_027" name="b" temporalId="s14_1_b"><num value="b">(b)</num><content>operate a public bus service on such route, not being a specified route, as
+                    may be specified in the notice.</content></paragraph></subsection><subsection id="ID_1438411635441_034" name="2" temporalId="s14_2"><num value="2">(2)</num><content>Where under subsection (1) the Chief Executive in Council requires a grantee to
+                operate a service on a new route, he may confer on the grantee the exclusive right
+                to operate a public bus service on that route.</content></subsection><subsection id="ID_1438411635441_042" name="3" temporalId="s14_3"><num value="3">(3)</num><leadIn>The period of notice referred to in subsection (1) shall be—</leadIn><paragraph id="ID_1438411635441_050" name="a" temporalId="s14_3_a"><num value="a">(a)</num><content>in the case of a notice served under paragraph (a) thereof, not less than 3
+                    months; and</content></paragraph><paragraph id="ID_1438411635441_058" name="b" temporalId="s14_3_b"><num value="b">(b)</num><content>in the case of a notice served under paragraph (b) thereof, not less than 6
+                    months.</content></paragraph></subsection><subsection id="ID_1438411635441_065" name="4" temporalId="s14_4"><num value="4">(4)</num><content>A requirement shall not be made under subsection <ref>(1)(a)</ref> unless the
+                Commissioner has consulted the grantee with respect thereto.
+                <sourceNote>(Amended <ref href="/hk/1984/44">44 of 1984 s.
+                        10</ref>)</sourceNote></content></subsection><subsection id="ID_1438411635456_007" name="5" temporalId="s14_5"><num value="5">(5)</num><leadIn>Before a requirement under subsection <ref>(1)(b)</ref> is made, the
+                Commissioner shall consult the grantee on the proposed service and satisfy himself
+                that the grantee, if he is required to operate a public bus service on a new route,
+                will—</leadIn><paragraph id="ID_1438411635456_015" name="a" temporalId="s14_5_a"><num value="a">(a)</num><content>have available a sufficient number of buses for use on the new route and
+                    all existing routes; and</content></paragraph><paragraph id="ID_1438411635456_023" name="b" temporalId="s14_5_b"><num value="b">(b)</num><content>be able to maintain a proper and efficient service on the new route and all
+                    existing routes,</content></paragraph><continued>and shall submit a report of his findings, and details of any points in
+                disagreement between the grantee and him, to the Chief Executive in Council.
+                <sourceNote>(Added <ref href="/hk/1984/44">44 of 1984 s.
+                    10</ref>)</sourceNote></continued></subsection><sourceNote>(Amended <ref href="/hk/1984/44">44 of 1984 s. 10</ref>; <ref href="/hk/1999/62">62 of 1999 s. 3</ref>)</sourceNote></section><section id="ID_1438402862893_002" name="s15" reason="inEffect" startPeriod="2021-02-25" status="operational" temporalId="s15"><num value="15">15.</num><heading>Temporary alteration of routes and provision of additional routes</heading><subsection id="ID_1438411635503_033" name="1" temporalId="s15_1"><num value="1">(1)</num><leadIn>The Commissioner may, after consultation with a grantee, by notice in writing to the grantee, require it, before the expiry of such period (being not less than 3 months) as may be specified in the notice, to—</leadIn><paragraph id="ID_1438411635503_041" name="a" temporalId="s15_1_a"><num value="a">(a)</num><content>alter a specified route temporarily in the manner specified in the notice, whether by way of extending or curtailing or otherwise varying the route;</content></paragraph><paragraph id="ID_1438411635503_049" name="b" temporalId="s15_1_b"><num value="b">(b)</num><content>operate a temporary public bus service on such route, not being a specified route, as may be specified in the notice.</content></paragraph></subsection><subsection id="ID_1438411635519_005" name="2" temporalId="s15_2"><num value="2">(2)</num><content>A requirement under subsection (1) shall have effect for such period, not exceeding 12 months, as may be specified in the notice, and may be extended by the Commissioner for a further period not exceeding 12 months.</content></subsection><subsection id="ID_1438411635519_013" name="3" temporalId="s15_3"><num value="3">(3)</num><leadIn>Before a requirement under subsection <ref>(1)(b)</ref> is made, the Commissioner shall satisfy himself that the grantee, if he is required to operate a public bus service on a new route, will—</leadIn><paragraph id="ID_1438411635519_021" name="a" temporalId="s15_3_a"><num value="a">(a)</num><content>have available a sufficient number of buses for use on the new route and all existing routes; and</content></paragraph><paragraph id="ID_1438411635519_029" name="b" temporalId="s15_3_b"><num value="b">(b)</num><content>be able to maintain a proper and efficient service on the new route and all
+                    existing routes.
+                    <sourceNote>(Added <ref href="/hk/1984/44">44 of 1984 s.
+                            11</ref>)</sourceNote></content></paragraph></subsection></section><section id="ID_1438402862909_002" name="s16" reason="inEffect" startPeriod="2021-02-25" status="operational" temporalId="s16"><num value="16">16.</num><heading>Commissioner to specify frequency of services and carrying capacity and types of buses</heading><subsection id="ID_1438411635534_057" name="1" temporalId="s16_1"><num value="1">(1)</num><leadIn>The Commissioner shall, after consultation with a grantee, from time to time as he thinks necessary, direct by notice in writing to the grantee—</leadIn><paragraph id="ID_1438411635550_002" name="a" temporalId="s16_1_a"><num value="a">(a)</num><content>the frequency at and the period on each day during which a public bus service shall be operated on a specified route;</content></paragraph><paragraph id="ID_1438411635550_010" name="b" temporalId="s16_1_b"><num value="b">(b)</num><content>the carrying capacity and types of the buses to be used on any such route.</content></paragraph></subsection><subsection id="ID_1438411635550_017" name="2" temporalId="s16_2"><num value="2">(2)</num><content>Where the effect of a notice under subsection (1) is to alter the frequency at which a public bus service is being operated under such a notice in force at the time that the first-mentioned notice is given, such first-mentioned notice shall take effect on such day as the Commissioner may specify, being not less than 3 months after the service of the notice.</content></subsection><subsection id="ID_1438411635550_025" name="3" temporalId="s16_3"><num value="3">(3)</num><content>Subject to subsection (3A), a grantee may, on any specified route in respect of
+                which it has the exclusive right to operate a public bus service, increase the
+                frequency at which the service is operated on that route in accordance with a
+                direction under subsection (1) whenever in its opinion circumstances so require.
+                <sourceNote>(Amended <ref href="/hk/1984/44">44 of 1984 s.
+                        12</ref>)</sourceNote></content></subsection><subsection id="ID_1438411635565_005" name="3A" temporalId="s16_3A"><num value="3A">(3A)</num><leadIn>For the purposes of subsection (3)—</leadIn><paragraph id="ID_1438411635565_013" name="a" temporalId="s16_3A_a"><num value="a">(a)</num><content>subject to paragraph (b), before a grantee increases the frequency of service on any specified route he shall give to the Commissioner notice in writing of not less than 14 days or such lesser period as the Commissioner may allow;</content></paragraph><paragraph id="ID_1438411635565_021" name="b" temporalId="s16_3A_b"><num value="b">(b)</num><content>where due to the special circumstances of any case a grantee increases the
+                    frequency of service on any specified route without notice as required under
+                    paragraph (a), he shall, within 7 days after the date on which the frequency of
+                    service is increased, give to the Commissioner notice in writing of such
+                    increase and of the circumstances necessitating it.
+                    <sourceNote>(Added <ref href="/hk/1984/44">44 of 1984 s.
+                            12</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438411635565_028" name="4" temporalId="s16_4"><num value="4">(4)</num><leadIn>A grantee may, on any specified route in respect of which it does not have the exclusive right to operate a public bus service, increase the frequency at which the service is operated on that route in accordance with a direction under subsection (1) whenever in its opinion circumstances so require, if the increase in the frequency is—</leadIn><paragraph id="ID_1438411635581_005" name="a" temporalId="s16_4_a"><num value="a">(a)</num><content>agreed between the grantee and any other grantee which operates a public bus service on that route; and</content></paragraph><paragraph id="ID_1438411635581_013" name="b" temporalId="s16_4_b"><num value="b">(b)</num><content>approved by the Commissioner.</content></paragraph></subsection><subsection id="ID_1438411635581_020" name="5" temporalId="s16_5"><num value="5">(5)</num><leadIn>Before a direction under subsection (1) is given, the Commissioner shall satisfy himself that the grantee, if he is required to operate a public bus service on a route at the frequency required, will—</leadIn><paragraph id="ID_1438411635581_028" name="a" temporalId="s16_5_a"><num value="a">(a)</num><content>have available a sufficient number of buses for use on the route and all other routes; and</content></paragraph><paragraph id="ID_1438411635581_036" name="b" temporalId="s16_5_b"><num value="b">(b)</num><content>be able to maintain a proper and efficient service on the route and all
+                    other routes.
+                    <sourceNote>(Added <ref href="/hk/1984/44">44 of 1984 s.
+                            12</ref>)</sourceNote></content></paragraph></subsection></section><section id="ID_1438402862956_001" name="s16A" reason="inEffect" startPeriod="2021-02-25" status="operational" temporalId="s16A"><num value="16A">16A.</num><heading>Temporary variation of route, frequency of services, carrying capacity and types of buses on grantee’s application</heading><subsection id="ID_1438411635612_019" name="1" temporalId="s16A_1"><num value="1">(1)</num><leadIn>A grantee may apply in writing to the Commissioner—</leadIn><paragraph id="ID_1438411635612_027" name="a" temporalId="s16A_1_a"><num value="a">(a)</num><content>to alter a specified route temporarily by way of extending or curtailing or otherwise varying the route;</content></paragraph><paragraph id="ID_1438411635612_035" name="b" temporalId="s16A_1_b"><num value="b">(b)</num><content>to operate a temporary public bus service on a route, not being a specified route, or to suspend a public bus service on a specified route;</content></paragraph><paragraph id="ID_1438411635612_043" name="c" temporalId="s16A_1_c"><num value="c">(c)</num><content>to vary temporarily the frequency at and the period on each day during which a public bus service is operated on a specified route;</content></paragraph><paragraph id="ID_1438411635628_006" name="d" temporalId="s16A_1_d"><num value="d">(d)</num><content>to vary temporarily the carrying capacity and types of buses used on any route, whether specified or not.</content></paragraph></subsection><subsection id="ID_1438411635628_013" name="2" temporalId="s16A_2"><num value="2">(2)</num><content><leadIn>An application under subsection (1) shall be delivered to the Commissioner not less than 14 days prior to the date upon which the grantee desires to introduce the variation set out in his application:</leadIn><proviso name="proviso" temporalId="s16A_2_proviso">Provided that, where special circumstances exist, the Commissioner may shorten the period of notice to be given by the grantee.</proviso></content></subsection><subsection id="ID_1438411635628_027" name="3" temporalId="s16A_3"><num value="3">(3)</num><content>The Commissioner may approve, subject to such conditions as he thinks fit, or may refuse any application under subsection (1), and where the Commissioner refuses any application he shall give the grantee in writing the reasons for such refusal.</content></subsection><subsection id="ID_1438411635628_035" name="4" temporalId="s16A_4"><num value="4">(4)</num><content>An approval under subsection (3) shall have effect for such period, not exceeding 12 months, as the Commissioner shall specify.</content></subsection><subsection id="ID_1438411635628_043" name="5" temporalId="s16A_5"><num value="5">(5)</num><content>The requirements of a notice under <ref>section 14</ref> or <ref>15</ref> or a direction under <ref>section 16</ref> shall, so far as they are inconsistent with an approval of an application under subsection (3), be suspended during the period of the approval and shall again take effect on the expiration of the period of the approval.</content></subsection><sourceNote>(Added <ref href="/hk/1984/44">44 of 1984 s. 13</ref>)</sourceNote></section><section id="ID_1438402863034_002" name="s17" reason="repealed" startPeriod="1997-06-30" status="repealed" temporalId="s17"><num value="17">17.</num><sourceNote>(Repealed <ref href="/hk/1984/72">72 of 1984 s. 2</ref>)</sourceNote></section><section id="ID_1438402863034_004" name="s18" reason="inEffect" startPeriod="2021-02-25" status="operational" temporalId="s18"><num value="18">18.</num><heading>Records</heading><subsection id="ID_1438411635675_004" name="1" temporalId="s18_1"><num value="1">(1)</num><leadIn>A grantee shall keep, to the satisfaction of the Commissioner, proper records in respect of the following matters—</leadIn><paragraph id="ID_1438411635675_012" name="a" temporalId="s18_1_a"><num value="a">(a)</num><content>the number and capacity of the buses in use on each specified route on each day;</content></paragraph><paragraph id="ID_1438411635675_020" name="b" temporalId="s18_1_b"><num value="b">(b)</num><content>the number of journeys and the total kilometres travelled by each such bus
+                    on each day on each such route;
+                    <sourceNote>(Amended <ref href="/hk/1982/75">75 of 1982 s.
+                            114</ref>; <ref href="/hk/1984/ln307">L.N. 307 of
+                        1984</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411635675_028" name="c" temporalId="s18_1_c"><num value="c">(c)</num><content>the number of passengers carried by each such bus on each day on each such route;
+                    <sourceNote>(Amended <ref href="/hk/1982/75">75 of 1982 s.
+                            114</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411635675_036" name="d" temporalId="s18_1_d"><num value="d">(d)</num><content>the daily receipts in respect of each such route;</content></paragraph><paragraph id="ID_1438411635675_044" name="e" temporalId="s18_1_e"><num value="e">(e)</num><content>the total kilometres lost each day in relation to each such route due to
+                    accidents, breakdowns and vehicle and staff shortages, respectively;
+                    <sourceNote>(Amended <ref href="/hk/1984/ln307">L.N. 307 of
+                            1984</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411635675_052" name="f" temporalId="s18_1_f"><num value="f">(f)</num><content>the maintenance of vehicles and stores;
+                    <sourceNote>(Amended <ref href="/hk/1984/44">44 of 1984 s.
+                            14</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411635690_006" name="g" temporalId="s18_1_g"><num value="g">(g)</num><content>the number and types of buses, and their carrying capacity, on order or
+                    under construction together with details of the likely availability of such
+                    buses for use in the operation of the public bus service.
+                    <sourceNote>(Added <ref href="/hk/1984/44">44 of 1984 s.
+                            14</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438411635690_013" name="2" temporalId="s18_2"><num value="2">(2)</num><content>A grantee shall furnish to the Commissioner, at such times and in such form as he may require, copies of the records kept by the grantee in accordance with subsection (1).</content></subsection><subsection id="ID_1438411635690_021" name="3" temporalId="s18_3"><num value="3">(3)</num><content>A grantee shall permit the Commissioner, and any person authorized in writing
+                by him, to inspect at any reasonable time all such records and all accounts kept by
+                the grantee in
+                connexion
+                with its franchise; and the Commissioner or any such person may make copies of any
+                such records or accounts.</content></subsection></section><section id="ID_1438402863065_002" name="s19" reason="inEffect" startPeriod="2021-02-25" status="operational" temporalId="s19"><num value="19">19.</num><heading>Provision of vehicle maintenance facilities, etc.</heading><content>A grantee shall provide and maintain such premises as the Commissioner considers necessary
+            for construction, repair and maintenance of vehicles used by the grantee in
+            connexion
+            with its franchise and for the parking of all such vehicles when they are not in
+            use.</content></section><section id="ID_1438402863080_001" name="s20" reason="inEffect" startPeriod="2021-02-25" status="operational" temporalId="s20"><num value="20">20.</num><heading>Restrictions in connection with <ref>section 19</ref></heading><leadIn>Except with the written permission of the Commissioner, a grantee shall not—</leadIn><paragraph id="ID_1438411635737_026" name="a" temporalId="s20_a"><num value="a">(a)</num><content>use any premises provided and maintained in accordance with <ref>section 19</ref> other than for the construction, repair, maintenance or parking of vehicles used by the grantee in connection with its franchise; or</content></paragraph><paragraph id="ID_1438411635753_006" name="b" temporalId="s20_b"><num value="b">(b)</num><content>undertake or permit to be undertaken the construction, repair or maintenance of vehicles used by the grantee in connection with its franchise, or the parking of such vehicles when they are not in use, other than in premises provided and maintained in accordance with <ref>section 19</ref>.</content></paragraph><sourceNote>(Replaced <ref href="/hk/1995/82">82 of 1995 s. 3</ref>)</sourceNote><editorialNote type="footnote" id="ID_1611289794512_001">
+            
+            <content>Editorial
+                Note:</content>
+            
+            <content>The application of this section is affected by <ref>section 7</ref> of the
+                Public Bus Services (Amendment) Ordinance 1995 (<ref href="/hk/1995/82">82 of
+                    1995</ref>).</content>
+            
+            
+            
+        </editorialNote></section><section id="ID_1438402863080_003" name="s21" reason="inEffect" startPeriod="2021-02-25" status="operational" temporalId="s21"><num value="21">21.</num><heading>Inspection of premises, maintenance facilities and vehicles</heading><subsection id="ID_1438411635784_004" name="1" temporalId="s21_1"><num value="1">(1)</num><leadIn>The Commissioner, and any person authorized in writing by him, may—</leadIn><paragraph id="ID_1438411635784_012" name="a" temporalId="s21_1_a"><num value="a">(a)</num><leadIn>at all reasonable times inspect—</leadIn><subparagraph id="ID_1438411635784_020" name="i" temporalId="s21_1_a_i"><num value="i">(i)</num><content>any premises used by a grantee in
+                        connexion
+                        with its franchise and all facilities provided by a grantee for the
+                        construction, repair and maintenance of vehicles so used by it;</content></subparagraph><subparagraph id="ID_1438411635784_028" name="ii" temporalId="s21_1_a_ii"><num value="ii">(ii)</num><content>any vehicle used by a grantee in
+                        connexion
+                        with its franchise;</content></subparagraph></paragraph><paragraph id="ID_1438411635784_035" name="b" temporalId="s21_1_b"><num value="b">(b)</num><content>require a grantee to carry out in respect of all such vehicles, or such of
+                    those vehicles as he may specify, such repair, maintenance or other works,
+                    within such time (being not less than 3 months), as he may specify;
+                    <sourceNote>(Amended <ref href="/hk/1984/44">44 of 1984 s.
+                            15</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411635784_043" name="c" temporalId="s21_1_c"><num value="c">(c)</num><content>require a grantee to carry out in respect of all or any vehicles used by
+                    the grantee in
+                    connexion
+                    with its franchise any maintenance and servicing in accordance with any programme.
+                    <sourceNote>(Added <ref href="/hk/1984/44">44 of 1984 s.
+                            15</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438411635799_005" name="2" temporalId="s21_2"><num value="2">(2)</num><content>A grantee shall afford such facilities for the inspections referred to in subsection <ref>(1)(a)</ref> as may be required by the Commissioner.</content></subsection></section><section id="ID_1438402863096_001" name="s22" reason="inEffect" startPeriod="2021-02-25" status="operational" temporalId="s22"><num value="22">22.</num><heading>Chief Executive in Council may impose financial penalty</heading><subsection id="ID_1438411635815_019" name="1" temporalId="s22_1"><num value="1">(1)</num><content>The Chief Executive in Council may, by notice in writing to a grantee, require
+                the payment of the financial penalty specified in such notice.
+                <sourceNote>(Amended <ref href="/hk/1999/62">62 of 1999 s.
+                    3</ref>)</sourceNote></content></subsection><subsection id="ID_1438411635815_027" name="2" temporalId="s22_2"><num value="2">(2)</num><content>A financial penalty may be imposed in respect of any failure by a grantee to
+                comply with its franchise or this Ordinance or any direction or requirement under
+                its franchise or this Ordinance, or with any programme or any approval under
+                    <ref>section 16A</ref>.
+                <sourceNote>(Amended <ref href="/hk/1984/44">44 of 1984 s.
+                        16</ref>; <ref href="/hk/1994/66">66 of 1994 s.
+                2</ref>)</sourceNote></content></subsection><subsection id="ID_1438411635831_005" name="2A" temporalId="s22_2A"><num value="2A">(2A)</num><leadIn>Without affecting the generality of subsection (2), a financial penalty may be
+                imposed under this section in respect of a failure by the grantee as
+                regards—</leadIn><paragraph id="ID_1438411635831_013" name="a" temporalId="s22_2A_a"><num value="a">(a)</num><content>a particular route operated by it; or</content></paragraph><paragraph id="ID_1438411635831_021" name="b" temporalId="s22_2A_b"><num value="b">(b)</num><content>2 or more routes so operated.
+                    <sourceNote>(Added <ref href="/hk/1994/66">66 of 1994 s.
+                            2</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438411635831_028" name="3" temporalId="s22_3"><num value="3">(3)</num><content>A financial penalty imposed under this section shall not exceed $10,000 for the
+                first occasion on which a penalty is imposed, and shall not exceed $20,000 for the
+                second occasion on which a penalty is imposed, and shall not exceed $50,000 for any
+                subsequent occasion on which a penalty is imposed.
+                <sourceNote>(Amended <ref href="/hk/1994/66">66 of 1994 s.
+                    2</ref>)</sourceNote></content></subsection><subsection id="ID_1438411635831_036" name="3A" temporalId="s22_3A"><num value="3A">(3A)</num><leadIn>In determining for the purposes of subsection (3) whether an occasion
+                        (<b><i>the
+                        occasion</i></b>)
+                is the first, second or a subsequent occasion on which a financial penalty was
+                imposed, the following shall apply—</leadIn><paragraph id="ID_1438411635831_044" name="a" temporalId="s22_3A_a"><num value="a">(a)</num><content>a previous occasion on which a financial penalty was imposed and which
+                    occurred more than 5 years prior to the occasion shall not be taken into
+                    account; and</content></paragraph><paragraph id="ID_1438411635831_052" name="b" temporalId="s22_3A_b"><num value="b">(b)</num><leadIn>a financial penalty previously imposed—</leadIn><subparagraph id="ID_1438411635846_006" name="i" temporalId="s22_3A_b_i"><num value="i">(i)</num><content>either in respect of the same route or any other route (where the
+                        financial penalty being imposed relates to a failure as regards a route);
+                        or</content></subparagraph><subparagraph id="ID_1438411635846_014" name="ii" temporalId="s22_3A_b_ii"><num value="ii">(ii)</num><content>for any other reason,</content></subparagraph><continued>shall be taken into account.
+                    <sourceNote>(Added <ref href="/hk/1994/66">66 of 1994 s.
+                            2</ref>)</sourceNote></continued></paragraph></subsection><subsection id="ID_1438411635846_026" name="4" temporalId="s22_4"><num value="4">(4)</num><leadIn>A financial penalty shall not be imposed under this section unless—</leadIn><paragraph id="ID_1438411635846_034" name="a" temporalId="s22_4_a"><num value="a">(a)</num><content>the Commissioner is satisfied that the grantee has had a reasonable
+                    opportunity of complying with its franchise or this Ordinance or the direction
+                    or requirement, or with any programme or any approval under <ref>section
+                        16A</ref>, as the case may be;</content></paragraph><paragraph id="ID_1438411635846_042" name="b" temporalId="s22_4_b"><num value="b">(b)</num><content>the Commissioner has notified the grantee of the failure and the details
+                    thereof; and</content></paragraph><paragraph id="ID_1438411635846_050" name="c" temporalId="s22_4_c"><num value="c">(c)</num><content>the grantee has been given an opportunity of showing cause to the
+                    Commissioner why the penalty should not be imposed.
+                    <sourceNote>(Replaced <ref href="/hk/1984/44">44 of 1984 s.
+                            16</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438411635846_057" name="5" temporalId="s22_5"><num value="5">(5)</num><content>A financial penalty imposed under this section shall be recoverable as a civil
+                debt.</content></subsection></section></part><part id="ID_1438402863127_001" name="P4" reason="inEffect" startPeriod="2021-02-25" status="operational" temporalId="P4"><num value="4">Part
+            IV</num><heading>Emergency
+            and Revocation</heading><section id="ID_1438402863127_003" name="s23" reason="inEffect" startPeriod="2021-02-25" status="operational" temporalId="s23"><num value="23">23.</num><heading>Emergency</heading><subsection id="ID_1438411635893_011" name="1" temporalId="s23_1"><num value="1">(1)</num><content>If the Chief Executive in Council considers that an emergency exists he may
+                direct that the franchise of a grantee be suspended, either altogether or in respect
+                of any specified route he may specify, until the Chief Executive in Council declares
+                that the emergency no longer exists.
+                <sourceNote>(Amended <ref href="/hk/1999/62">62 of 1999 s.
+                    3</ref>)</sourceNote></content></subsection><subsection id="ID_1438411635893_019" name="2" temporalId="s23_2"><num value="2">(2)</num><leadIn>Where under subsection (1) a franchise is suspended altogether or in respect of
+                any specified route, the Government may by written notice served on the company and
+                published in the Gazette require the company to deliver to the Government possession
+                of the following property, that is to say—</leadIn><paragraph id="ID_1438411635909_005" name="a" temporalId="s23_2_a"><num value="a">(a)</num><content>any premises provided and maintained in accordance with <ref>section
+                        19</ref>;</content></paragraph><paragraph id="ID_1438411635909_013" name="b" temporalId="s23_2_b"><num value="b">(b)</num><content>any property (other than premises mentioned in paragraph (a)) used or kept
+                    by the company for the purposes of or in connection with its
+                    franchise,</content></paragraph><continued>and may at the time of or as soon as practicable after service of the notice
+                take possession of such property.</continued></subsection><subsection id="ID_1438411635909_026" name="3" temporalId="s23_3"><num value="3">(3)</num><leadIn>Any property taken possession of under subsection (2)—</leadIn><paragraph id="ID_1438411635909_034" name="a" temporalId="s23_3_a"><num value="a">(a)</num><content>may be retained by the Government until such time as the Chief Executive in
+                    Council declares that the emergency no longer exists, and may be so retained
+                    notwithstanding that the franchise period of the grantee has expired during the
+                    period of the emergency; and
+                    <sourceNote>(Amended <ref href="/hk/1999/62">62 of 1999 s.
+                            3</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411635909_042" name="b" temporalId="s23_3_b"><num value="b">(b)</num><content>may during its retention be used by the Government or its nominee in the
+                    operation of such bus service as the Commissioner thinks fit.</content></paragraph></subsection><subsection id="ID_1438411635909_049" name="4" temporalId="s23_4"><num value="4">(4)</num><content>Subject to subsection (9), where possession is taken under subsection (2) of
+                any property, the person having for the time being the right to possession over the
+                property during its retention by the Government under subsection (3) shall be
+                entitled to compensation as provided in subsections (5) to (7).</content></subsection><subsection id="ID_1438411635924_005" name="5" temporalId="s23_5"><num value="5">(5)</num><leadIn>The compensation payable under subsection (4) shall be an amount equal to the
+                open market rental that a willing lessor might be expected to realize under a lease
+                of the property on the following terms, that is to say a lease—</leadIn><paragraph id="ID_1438411635924_013" name="a" temporalId="s23_5_a"><num value="a">(a)</num><content>which is terminable by either party upon the giving of 1 month’s
+                    notice;</content></paragraph><paragraph id="ID_1438411635924_021" name="b" temporalId="s23_5_b"><num value="b">(b)</num><content>which is subject to terms and conditions similar to the provisions applying
+                    by virtue of <ref>section 25A</ref> in respect of possession of the property
+                    under this section; and</content></paragraph><paragraph id="ID_1438411635924_029" name="c" temporalId="s23_5_c"><num value="c">(c)</num><content>under which the rental is payable monthly in arrears.</content></paragraph></subsection><subsection id="ID_1438411635924_036" name="6" temporalId="s23_6"><num value="6">(6)</num><leadIn>For the purposes of subsection (5)—</leadIn><paragraph id="ID_1438411635924_044" name="a" temporalId="s23_6_a"><num value="a">(a)</num><content>in the case of property being a number of motor vehicles, reference to the
+                    open market rental shall be taken to be reference to the open market rental that
+                    a lessor might be expected to realize in respect of that number of vehicles
+                    leased as a single lot;</content></paragraph><paragraph id="ID_1438411635940_006" name="b" temporalId="s23_6_b"><num value="b">(b)</num><content>in the case of property being land or buildings on land, reference to a
+                    lease of the property shall be construed as reference to a lease on terms
+                    prohibiting the use of the property other than in accordance with the terms of
+                    any Government lease under which the land is held.
+                    <sourceNote>(Amended <ref href="/hk/1998/29">29 of 1998 s.
+                            105</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438411635940_013" name="7" temporalId="s23_7"><num value="7">(7)</num><leadIn>Notwithstanding subsection (5)—</leadIn><paragraph id="ID_1438411635940_021" name="a" temporalId="s23_7_a"><num value="a">(a)</num><content>the compensation payable in respect of property being spare parts and other
+                    consumables shall be an amount equal to the difference in book value of the
+                    stock of such consumables taken over the period of the Government’s possession
+                    of the property under subsection (3);</content></paragraph><paragraph id="ID_1438411635940_029" name="b" temporalId="s23_7_b"><num value="b">(b)</num><content>the compensation payable in respect of property being the fixed assets of
+                    the franchisee (including plant and machinery) other than motor vehicles and
+                    land or buildings on land shall be an amount equal to the depreciation in the
+                    value of the property over the period of the Government’s possession of the
+                    property under subsection (3) as calculated at the rate of depreciation
+                    applicable in respect of that property for the purposes of <ref>section
+                    30</ref>,</content></paragraph><continued>and any such compensation shall be payable at the end of that period of
+                possession.</continued></subsection><subsection id="ID_1438411635955_011" name="8" temporalId="s23_8"><num value="8">(8)</num><content>A grantee shall, in addition to any entitlement to compensation under
+                subsection (4), be entitled to compensation for any loss or damage sustained during
+                the franchise period in consequence of any suspension of its franchise under
+                subsection (1), but nothing in this subsection shall be construed so as to entitle a
+                grantee to receive compensation under both this subsection and subsection (4) in
+                respect of the same loss or damage.</content></subsection><subsection id="ID_1438411635971_005" name="9" temporalId="s23_9"><num value="9">(9)</num><content>The liability of the Government under this section to pay compensation to any
+                person under subsection (4) shall cease to accrue upon the making of a declaration
+                by the Chief Executive in Council under subsection (1).
+                <sourceNote>(Amended <ref href="/hk/1999/62">62 of 1999 s.
+                    3</ref>)</sourceNote></content></subsection><subsection id="ID_1438411635971_013" name="10" temporalId="s23_10"><num value="10">(10)</num><content>Compensation payable under this section shall, unless otherwise stated, be
+                payable monthly in arrears.</content></subsection><sourceNote>(Replaced <ref href="/hk/1995/82">82 of 1995 s. 4</ref>)</sourceNote></section><section id="ID_1438402863158_002" name="s24" reason="inEffect" startPeriod="2021-02-25" status="operational" temporalId="s24"><num value="24">24.</num><heading>Revocation of right to operate a service on a specified route or of
+            franchise</heading><subsection id="ID_1438411636033_026" name="1" temporalId="s24_1"><num value="1">(1)</num><leadIn>If—</leadIn><paragraph id="ID_1438411636033_034" name="a" temporalId="s24_1_a"><num value="a">(a)</num><content>it appears to the Chief Executive in Council that without good cause a
+                    grantee has failed, or is likely to fail, to maintain a proper and efficient
+                    public bus service, either generally or in respect of any specified route, in
+                    accordance with <ref>section 12</ref>; or</content></paragraph><paragraph id="ID_1438411636049_006" name="b" temporalId="s24_1_b"><num value="b">(b)</num><content>a grantee has failed to pay any financial penalty imposed under
+                        <ref>section 22</ref>,</content></paragraph><continued>the Chief Executive in Council may direct the Commissioner to serve on the
+                grantee a notice requiring the grantee to show cause in writing, within 28 days
+                after the service of such notice—</continued><paragraph id="ID_1438411636049_020" name="i" temporalId="s24_1_i"><num value="i">(i)</num><content>why its right to operate a public bus service on such specified routes as
+                    are set out in such notice should not be revoked; or</content></paragraph><paragraph id="ID_1438411636049_028" name="ii" temporalId="s24_1_ii"><num value="ii">(ii)</num><content>why its franchise should not be revoked altogether,</content></paragraph><continued>and any such notice shall specify the ground on which such right or the
+                franchise may be revoked.</continued></subsection><subsection id="ID_1438411636049_041" name="2" temporalId="s24_2"><num value="2">(2)</num><leadIn>If, after the service of a notice under subsection <ref>(1)(i)</ref>—</leadIn><paragraph id="ID_1438411636049_049" name="a" temporalId="s24_2_a"><num value="a">(a)</num><content>the grantee does not show cause why its right to operate a public bus
+                    service on the specified routes set out therein should not be revoked;
+                    or</content></paragraph><paragraph id="ID_1438411636049_057" name="b" temporalId="s24_2_b"><num value="b">(b)</num><content>the Chief Executive in Council, having considered any representations made
+                    by the grantee, is of the opinion that the grantee has not shown good cause why
+                    such right should not be revoked,</content></paragraph><continued>the Chief Executive in Council may, with effect from such date as he may
+                specify, revoke such right.</continued></subsection><subsection id="ID_1438411636049_070" name="3" temporalId="s24_3"><num value="3">(3)</num><leadIn>If, after the service of a notice under subsection <ref>(1)(ii)</ref>—</leadIn><paragraph id="ID_1438411636065_007" name="a" temporalId="s24_3_a"><num value="a">(a)</num><content>the grantee does not show cause why the franchise should not be revoked
+                    altogether; or</content></paragraph><paragraph id="ID_1438411636065_015" name="b" temporalId="s24_3_b"><num value="b">(b)</num><content>the Chief Executive in Council, having considered any representations made
+                    by the grantee, is of the opinion that the grantee has not shown good cause why
+                    the franchise should not be revoked altogether,</content></paragraph><continued>the Chief Executive in Council may, with effect from such date as he may
+                specify, revoke the franchise.</continued></subsection><subsection id="ID_1438411636065_028" name="4" temporalId="s24_4"><num value="4">(4)</num><content>Notice of the revocation of a right or franchise under this section shall be
+                served on the grantee and, as soon as practicable thereafter, shall be published in
+                the Gazette.</content></subsection><subsection id="ID_1438411636065_036" name="5" temporalId="s24_5"><num value="5">(5)</num><content>A grantee shall not be entitled to compensation in respect of the revocation of
+                a right or franchise under this section and where a franchise is revoked altogether
+                the grantee shall be liable to pay to the Government any expense incurred by the
+                Government in
+                connexion
+                with the franchise or the revocation thereof.</content></subsection><sourceNote>(Amended <ref href="/hk/1999/62">62 of 1999 s. 3</ref>)</sourceNote></section><section id="ID_1438402863174_002" name="s25" reason="inEffect" startPeriod="2021-02-25" status="operational" temporalId="s25"><num value="25">25.</num><heading>Temporary retention by Government of bus assets used by company whose franchise is
+            revoked or has expired</heading><subsection id="ID_1438411636111_011" name="1" temporalId="s25_1"><num value="1">(1)</num><leadIn>Where—</leadIn><paragraph id="ID_1438411636111_019" name="a" temporalId="s25_1_a"><num value="a">(a)</num><content>a franchise has been revoked under <ref>section 24(3)</ref>; or</content></paragraph><paragraph id="ID_1438411636111_027" name="b" temporalId="s25_1_b"><num value="b">(b)</num><content>a franchise period has expired and no new franchise has been granted under
+                        <ref>section 5(1)</ref> to the company,</content></paragraph><continued>the company shall deliver to the Government possession of such of the
+                following property as may be specified by the Government in a notice served on the
+                company and published in the Gazette, that is to say—</continued><paragraph id="ID_1438411636111_041" name="i" temporalId="s25_1_i"><num value="i">(i)</num><content>any premises provided and maintained in accordance with <ref>section
+                        19</ref> within the period of 3 months immediately prior to the service of a
+                    notice on the company under <ref>section 24(1)</ref> or within the period of 3
+                    months ending with the expiry of the franchise period (as the case may
+                    be);</content></paragraph><paragraph id="ID_1438411636111_049" name="ii" temporalId="s25_1_ii"><num value="ii">(ii)</num><content>any property (other than premises mentioned in paragraph (i)) used or kept
+                    by the company for the purposes of or in connection with its revoked or expired
+                    franchise within that period,</content></paragraph><continued>and the Government may take possession of such property as from the time that
+                the notice has effect.</continued></subsection><subsection id="ID_1438411636127_011" name="2" temporalId="s25_2"><num value="2">(2)</num><leadIn>A notice served and published in accordance with subsection (1) shall have
+                effect—</leadIn><paragraph id="ID_1438411636127_019" name="a" temporalId="s25_2_a"><num value="a">(a)</num><content>where the notice was served and published prior to the revocation of the
+                    franchise or the expiry of the franchise period, as from such revocation or
+                    expiry;</content></paragraph><paragraph id="ID_1438411636127_027" name="b" temporalId="s25_2_b"><num value="b">(b)</num><content>in any other case, as from the time of its service and
+                    publication.</content></paragraph></subsection><subsection id="ID_1438411636127_034" name="3" temporalId="s25_3"><num value="3">(3)</num><leadIn>Subject to subsection (8), any property taken possession of under subsection
+                (1)—</leadIn><paragraph id="ID_1438411636127_042" name="a" temporalId="s25_3_a"><num value="a">(a)</num><content>may be retained by the Government for such periods not exceeding 3 years in
+                    aggregate, and not exceeding 2 years in the case of any one such period, as the
+                    Chief Executive in Council may direct; and
+                        <sourceNote>(Amended <ref href="/hk/1999/62">62 of 1999 s. 3</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411636127_050" name="b" temporalId="s25_3_b"><num value="b">(b)</num><content>may during its retention be used by the Government or its nominee, or by a
+                    third party designated by the Government for the purposes of this subsection, in
+                    the operation of such bus service as the Commissioner thinks fit.</content></paragraph></subsection><subsection id="ID_1438411636127_057" name="4" temporalId="s25_4"><num value="4">(4)</num><content>Subject to subsection (8), where possession is taken under subsection (1) of
+                any property, a person having for the time being the right to possession over the
+                property during its retention by the Government under subsection (3) shall be
+                entitled to compensation as provided in subsections (5) to (7).</content></subsection><subsection id="ID_1438411636143_005" name="5" temporalId="s25_5"><num value="5">(5)</num><leadIn>The compensation payable under subsection (4) shall be an amount equal to the
+                open market rental that a willing lessor might be expected to realize under a lease
+                of the property on the following terms, that is to say a lease—</leadIn><paragraph id="ID_1438411636143_013" name="a" temporalId="s25_5_a"><num value="a">(a)</num><content>for the period specified in the notice given under subsection (1) as the
+                    period of the Government’s intended possession of the property and terminable by
+                    the lessee on giving 3
+                    months’
+                    notice;</content></paragraph><paragraph id="ID_1438411636143_021" name="b" temporalId="s25_5_b"><num value="b">(b)</num><content>which is subject to terms and conditions similar to the provisions applying
+                    by virtue of <ref>section 25A</ref> in respect of possession of the property
+                    under this section;</content></paragraph><paragraph id="ID_1438411636143_029" name="c" temporalId="s25_5_c"><num value="c">(c)</num><content>under which the rental is payable monthly in arrears.</content></paragraph></subsection><subsection id="ID_1438411636143_036" name="6" temporalId="s25_6"><num value="6">(6)</num><leadIn>For the purposes of subsection (5)—</leadIn><paragraph id="ID_1438411636143_044" name="a" temporalId="s25_6_a"><num value="a">(a)</num><content>in the case of property being a number of motor vehicles, reference to the
+                    open market rental shall be taken to be reference to the open market rental that
+                    a lessor might be expected to realize in respect of that number of vehicles
+                    leased as a single lot;</content></paragraph><paragraph id="ID_1438411636158_008" name="b" temporalId="s25_6_b"><num value="b">(b)</num><leadIn>in the case of property being land or buildings on land—</leadIn><subparagraph id="ID_1438411636158_016" name="i" temporalId="s25_6_b_i"><num value="i">(i)</num><leadIn>no regard shall be had to any improvements made to the
+                        property—</leadIn><subparagraph id="ID_1438411636158_023" name="A" role="subSubParagraph" temporalId="s25_6_b_i_A"><num value="A">(A)</num><content>after notice has been served on the company under <ref>section
+                                24(1)</ref>; or</content></subparagraph><subparagraph id="ID_1438411636158_031" name="B" role="subSubParagraph" temporalId="s25_6_b_i_B"><num value="B">(B)</num><content>within a period of 1 year before the expiry of the franchise
+                            period,</content></subparagraph><continued>as the case may be, except that sub-subparagraph (B) shall not apply
+                        as regards any improvements made with the prior written approval of the
+                        Commissioner given for the purposes of this section; and</continued></subparagraph><subparagraph id="ID_1438411636158_044" name="ii" temporalId="s25_6_b_ii"><num value="ii">(ii)</num><content>reference to a lease of the property shall be construed as reference to
+                        a lease on terms prohibiting the use of the property other than in
+                        accordance with the terms of any Government lease under which the land is held.
+                        <sourceNote>(Amended <ref href="/hk/1998/29">29 of 1998 s.
+                        105</ref>)</sourceNote></content></subparagraph></paragraph></subsection><subsection id="ID_1438411636158_051" name="7" temporalId="s25_7"><num value="7">(7)</num><leadIn>Notwithstanding subsection (5)—</leadIn><paragraph id="ID_1438411636174_005" name="a" temporalId="s25_7_a"><num value="a">(a)</num><content>the compensation payable in respect of property being spare parts and other
+                    consumables shall be an amount equal to the difference in book value of the
+                    stock of such consumables taken over the period of the Government’s possession
+                    of the property under subsection (3);</content></paragraph><paragraph id="ID_1438411636174_013" name="b" temporalId="s25_7_b"><num value="b">(b)</num><content>the compensation payable in respect of property being the fixed assets of
+                    the franchisee (including plant and machinery) other than motor vehicles and
+                    land or buildings on land shall be an amount equal to the depreciation in the
+                    value of the property over the period of the Government’s possession of the
+                    property under subsection (3) as calculated at the rate of depreciation
+                    applicable in respect of that property for the purposes of <ref>section
+                    30</ref>,</content></paragraph><continued>and any such compensation shall be payable at the end of that period of
+                possession.</continued></subsection><subsection id="ID_1438411636189_011" name="8" temporalId="s25_8"><num value="8">(8)</num><leadIn>The liability of the Government under subsection (4) to pay compensation to any
+                person shall cease to accrue, and its right to retain possession of any property
+                under subsection (3) shall terminate—</leadIn><paragraph id="ID_1438411636189_019" name="a" temporalId="s25_8_a"><num value="a">(a)</num><content>at the expiry of the period specified in the notice given under subsection
+                    (1) as the period for which the Government intends to retain possession of the
+                    property, or at the expiry of any extension of that period that the Government
+                    may specify by notice under this paragraph published in the Gazette;
+                    or</content></paragraph><paragraph id="ID_1438411636189_027" name="b" temporalId="s25_8_b"><num value="b">(b)</num><content>on such earlier date as the Government may specify by notice under this
+                    paragraph published in the Gazette, being a date not earlier than 3 months after
+                    the date of publication of the notice.</content></paragraph></subsection><subsection id="ID_1438411636189_034" name="9" temporalId="s25_9"><num value="9">(9)</num><content>Compensation payable under this section shall, unless otherwise stated, be
+                payable monthly in arrears.</content></subsection><subsection id="ID_1438411636189_042" name="10" temporalId="s25_10"><num value="10">(10)</num><content>For the avoidance of doubt it is declared that subsection (4) has effect
+                notwithstanding <ref>section 24(5)</ref>.</content></subsection><sourceNote>(Replaced <ref href="/hk/1995/82">82 of 1995 s. 5</ref>)</sourceNote><editorialNote type="footnote" id="ID_1657078715488_001">
+            
+            <content>Editorial
+                Note:</content>
+            
+            <content>The application of this section is affected by <ref>section 7</ref> of the
+                Public Bus Services (Amendment) Ordinance 1995 (<ref href="/hk/1995/82">82 of
+                    1995</ref>).</content>
+            
+            
+            
+        </editorialNote></section><section id="ID_1438402863205_001" name="s25A" reason="inEffect" startPeriod="2021-02-25" status="operational" temporalId="s25A"><num value="25A">25A.</num><heading>Terms upon which Government takes possession under <ref>section 23</ref> or <ref>25</ref></heading><subsection id="ID_1438411636283_004" name="1" temporalId="s25A_1"><num value="1">(1)</num><leadIn>Where the Government takes possession of any property under <ref>section
+                    23</ref> or <ref>25</ref> (in either case referred to in this section as
+                        <b><i>the
+                        relevant
+                section</i></b>)
+                the following provisions shall have effect—</leadIn><paragraph id="ID_1438411636283_012" name="a" temporalId="s25A_1_a"><num value="a">(a)</num><leadIn>if the property is land or buildings on land—</leadIn><subparagraph id="ID_1438411636283_020" name="i" temporalId="s25A_1_a_i"><num value="i">(i)</num><content>the Government shall be liable to pay a fair and reasonable proportion
+                        (apportioned in respect of the period of its possession of the property
+                        under the relevant section) of all rates and other outgoings of a
+                        periodically recurring nature incurred in respect of the property during the
+                        period of its possession of the property under the relevant
+                        section;</content></subparagraph><subparagraph id="ID_1438411636299_007" name="ii" temporalId="s25A_1_a_ii"><num value="ii">(ii)</num><content>the Government may replace from time to time any fixtures and fittings
+                        on the property which may be or become beyond repair at any time during the
+                        period of its possession of the property under the relevant section, without
+                        any obligation to reinstate the property at the termination of its right to
+                        possession of the property;</content></subparagraph><subparagraph id="ID_1438411636299_015" name="iii" temporalId="s25A_1_a_iii"><num value="iii">(iii)</num><content>the Government shall be at liberty at any time during the period of its
+                        possession of the property under the relevant section to undertake any works
+                        that it may reasonably deem necessary to render the property safe or to
+                        ensure the safety of any person lawfully using the property, without any
+                        obligation to reinstate the property at the termination of its right to
+                        possession of the property, and the reasonable cost of any such work shall
+                        be recoverable from the owner of the property as a civil debt due to the
+                        Government;</content></subparagraph><subparagraph id="ID_1438411636314_007" name="iv" temporalId="s25A_1_a_iv"><num value="iv">(iv)</num><content>subject to subparagraphs (ii) and (iii), at the termination of its
+                        right to possession of the property under the relevant section, the
+                        Government shall ensure that the property is left in its original condition,
+                        fair wear and tear excepted and excepting any damage not caused by any act
+                        or default of the Government or anyone on the property with the Government’s
+                        authority and under the Government’s control;</content></subparagraph></paragraph><paragraph id="ID_1438411636314_014" name="b" temporalId="s25A_1_b"><num value="b">(b)</num><leadIn>if the property is property other than land or buildings on land—</leadIn><subparagraph id="ID_1438411636314_022" name="i" temporalId="s25A_1_b_i"><num value="i">(i)</num><content>the Government may during the period of its possession of the property
+                        under the relevant section fit any such new parts to any item of the
+                        property as shall from time to time be necessary, without any obligation to
+                        reinstate the property at the termination of its right to possession of the
+                        property;</content></subparagraph><subparagraph id="ID_1438411636330_007" name="ii" temporalId="s25A_1_b_ii"><num value="ii">(ii)</num><content>the Government shall be liable to pay a fair and reasonable proportion
+                        (apportioned in respect of the period of its possession under the relevant
+                        section) of all outgoings of a periodically recurring nature incurred in
+                        respect of the property during the period of its possession of the property
+                        under the relevant section;</content></subparagraph><subparagraph id="ID_1438411636330_015" name="iii" temporalId="s25A_1_b_iii"><num value="iii">(iii)</num><content>the Government may at its own expense during the period of its
+                        possession of the property under the relevant section add to or install on
+                        any item of the property any safety or other equipment, or make any
+                        alteration or modification to the property, as may be required under any
+                        Ordinance, without any obligation to reinstate the property at the
+                        termination of its right to possession of the property;</content></subparagraph><subparagraph id="ID_1438411636345_007" name="iv" temporalId="s25A_1_b_iv"><num value="iv">(iv)</num><content>subject to subparagraphs (i) and (iii), at the termination of its right
+                        to possession of the property under the relevant section, the Government
+                        shall ensure that the property, other than such property as may have been
+                        acquired by the Government under <ref>section 25B</ref>, is left in its
+                        original state of repair and working order, fair wear and tear excepted, and
+                        excepting any damage not caused by any act or default of the Government or
+                        anyone in possession of the property with the Government’s authority and
+                        under the Government’s control.</content></subparagraph></paragraph></subsection><subsection id="ID_1438411636361_005" name="2" temporalId="s25A_2"><num value="2">(2)</num><def name="OriginalCondition,OriginalStateOfRepairAndWorkingOrder">In this section
+                    <term>original
+                    condition</term>
+                    (<term xml:lang="zh-Hant-HK">原來狀況</term>) and
+                    <term>original
+                    state of repair and working
+                order</term>
+                    (<term xml:lang="zh-Hant-HK">原來的維修及操作狀態</term>) mean, in relation to any
+                property, the condition or state of repair and working order of the property at the
+                time of the Government’s taking possession of it under the relevant section.</def></subsection><sourceNote>(Added <ref href="/hk/1995/82">82 of 1995 s. 6</ref>)</sourceNote><editorialNote type="footnote" id="ID_1611297357616_001">
+            
+            <content>Editorial
+                Note:</content>
+            
+            <content>The application of this section is affected by <ref>section 7</ref> of the
+                Public Bus Services (Amendment) Ordinance 1995 (<ref href="/hk/1995/82">82 of
+                    1995</ref>).</content>
+            
+            
+            
+        </editorialNote></section><section id="ID_1438402863221_002" name="s25B" reason="inEffect" startPeriod="2021-02-25" status="operational" temporalId="s25B"><num value="25B">25B.</num><heading>Acquisition of bus assets (other than land) used by grantee whose franchise is revoked or has expired</heading><subsection id="ID_1438411636408_011" name="1" temporalId="s25B_1"><num value="1">(1)</num><leadIn>Where—</leadIn><paragraph id="ID_1438411636408_019" name="a" temporalId="s25B_1_a"><num value="a">(a)</num><content>a franchise is revoked under <ref>section 24(3)</ref>; or</content></paragraph><paragraph id="ID_1438411636408_027" name="b" temporalId="s25B_1_b"><num value="b">(b)</num><content>a franchise period expires and no new franchise is granted under <ref>section 5(1)</ref> to the company,</content></paragraph><continued>the Government may acquire, in its own name or in the name of a third party designated by the Government for the purposes of this section, any property (other than land, interests in land or buildings on land) used or kept by the company for the purposes of or in connection with its franchise within the period of 3 months immediately prior to the service of a notice on the company under <ref>section 24(1)</ref> or within the period of 3 months ending with the expiry of the franchise period (as the case may be).</continued></subsection><subsection id="ID_1438411636423_004" name="2" temporalId="s25B_2"><num value="2">(2)</num><content>In respect of any property of which the Government has taken possession under <ref>section 25(3)</ref>, the power conferred by subsection (1) may be exercised at any time within the period of 1 year from the date of revocation or expiry of the franchise period, as the case may be.</content></subsection><subsection id="ID_1438411636423_012" name="3" temporalId="s25B_3"><num value="3">(3)</num><content>Where the Government acquires any property under subsection (1), any person having an interest or right in or over that property shall be entitled to compensation in an amount equal to the open market value that a willing vendor might be expected to realize on the sale of such interest or right in the property.</content></subsection><subsection id="ID_1438411636439_005" name="4" temporalId="s25B_4"><num value="4">(4)</num><content>In subsection (3), in the case of an interest or right in property being a number of motor vehicles reference to the open market value shall be taken to be reference to the open market value of the interest in that number of vehicles when dealt with as a single lot.</content></subsection><subsection id="ID_1438411636439_013" name="5" temporalId="s25B_5"><num value="5">(5)</num><content>Where any property is acquired under this section the owner of the property or any person having an interest or right in or over the property shall, when called upon to do so by the Government, execute a transfer in favour of the Government or a third party designated by the Government for the purposes of subsection (1).</content></subsection><sourceNote>(Added <ref href="/hk/1995/82">82 of 1995 s. 6</ref>)</sourceNote><editorialNote type="footnote" id="ID_1611297448965_001">
+            
+            <content>Editorial
+                Note:</content>
+            
+            <content>The application of this section is affected by <ref>section 7</ref> of the
+                Public Bus Services (Amendment) Ordinance 1995 (<ref href="/hk/1995/82">82 of
+                    1995</ref>).</content>
+            
+            
+            
+        </editorialNote></section><section id="ID_1438402863236_002" name="s25C" reason="inEffect" startPeriod="2021-02-25" status="operational" temporalId="s25C"><num value="25C">25C.</num><heading>Power of entry</heading><content>The Government or its nominee may, for the purpose of taking possession of property under this Part, enter upon any land or buildings on land where it is reasonably necessary to do so for that purpose.</content><sourceNote>(Added <ref href="/hk/1995/82">82 of 1995 s. 6</ref>)</sourceNote><editorialNote type="footnote" id="ID_1611297529423_001">
+            
+            <content>Editorial
+                Note:</content>
+            
+            <content>The application of this section is affected by <ref>section 7</ref> of the
+                Public Bus Services (Amendment) Ordinance 1995 (<ref href="/hk/1995/82">82 of
+                    1995</ref>).</content>
+            
+            
+            
+        </editorialNote></section><section id="ID_1438402863252_001" name="s25D" reason="inEffect" startPeriod="2021-02-25" status="operational" temporalId="s25D"><num value="25D">25D.</num><heading>Determination of compensation by arbitrator</heading><subsection id="ID_1438411636517_004" name="1" temporalId="s25D_1"><num value="1">(1)</num><content>The Government may compromise or settle any claim for compensation under this Part.</content></subsection><subsection id="ID_1438411636517_012" name="2" temporalId="s25D_2"><num value="2">(2)</num><content>In default of an agreement between a claimant for compensation under this Part
+                and the Government as regards the amount of compensation, if any, payable to the
+                claimant the compensation shall be determined by arbitration under the Arbitration
+                Ordinance (<ref href="/hk/cap609">Cap. 609</ref>) and for that purpose the
+                Government and the claimant shall be regarded as having made an arbitration
+                agreement within the meaning of that Ordinance whose provisions shall be deemed to
+                include a provision that the compensation referred to shall, in the absence of an
+                agreement, be determined by a single arbitrator.
+                <sourceNote>(Amended <ref href="/hk/2010/17">17 of 2010 s.
+                        112</ref>)</sourceNote></content></subsection><sourceNote>(Added <ref href="/hk/1995/82">82 of 1995 s. 6</ref>)</sourceNote><editorialNote type="footnote" id="ID_1611298834830_001"><content>Editorial
+                Note:</content><content>The
+                application of this section is affected by <ref>section 7</ref> of the Public Bus
+                Services (Amendment) Ordinance 1995 (<ref href="/hk/1995/82">82 of
+                1995</ref>).</content>.</editorialNote></section><section id="ID_1438402863252_003" name="s25E" reason="inEffect" startPeriod="2021-02-25" status="operational" temporalId="s25E"><num value="25E">25E.</num><heading>Provisional payment pending determination of compensation</heading><subsection id="ID_1438411636579_004" name="1" temporalId="s25E_1"><num value="1">(1)</num><leadIn>Where any offer of compensation made by the Government to any person under this Part in respect of any claim is not accepted, the Government may, pending the determination by the arbitrator of the compensation, if any, payable in respect of such claim under this Part, pay—</leadIn><paragraph id="ID_1438411636579_012" name="a" temporalId="s25E_1_a"><num value="a">(a)</num><content>an amount as a provisional payment of the amount payable by virtue of such determination; and</content></paragraph><paragraph id="ID_1438411636579_020" name="b" temporalId="s25E_1_b"><num value="b">(b)</num><def name="7DayDepositRate">interest on any payment made under paragraph (a), for
+                    the period from the date on which the amount becomes payable until the date on
+                    which the payment is made, calculated at a rate equal to the 7 day deposit rate
+                    plus 2%, where
+                        <term>7
+                        day deposit
+                    rate</term>
+                        (<term xml:lang="zh-Hant-HK">7天通知存款利率</term>) means the highest rate of
+                    interest (expressed as a percentage) paid from time to time by the continuing
+                    members of the Committee of The Hong Kong Association of Banks on deposits of
+                    that amount fixed for 7 days.</def></paragraph></subsection><subsection id="ID_1438411636595_004" name="2" temporalId="s25E_2"><num value="2">(2)</num><content>Any payment made by the Government under subsection (1) in respect of any claim shall be without prejudice to the claim or the submission of the claim to, or its determination by, the arbitrator under this Part; but the amount of compensation payable by virtue of such determination in respect of such claim shall be reduced by the amount of such payment.</content></subsection><subsection id="ID_1438411636595_012" name="3" temporalId="s25E_3"><num value="3">(3)</num><content>Where the amount of compensation payable by virtue of a determination of the arbitrator under this Part is reduced under subsection (2) by the amount of any payment made under subsection (1), such compensation shall not as from the date on which the payment is made bear interest except on the amount of the compensation as so reduced.</content></subsection><subsection id="ID_1438411636611_005" name="4" temporalId="s25E_4"><num value="4">(4)</num><content>Where the amount of any payment made by the Government under subsection (1) in respect of any claim exceeds the amount of the compensation determined by the arbitrator in respect of such claim, the amount of the excess shall be recoverable by the Government as a civil debt.</content></subsection><sourceNote>(Added <ref href="/hk/1995/82">82 of 1995 s. 6</ref>)</sourceNote><editorialNote type="footnote" id="ID_1611299011911_001">
+            
+            <content>Editorial Note:</content>
+            
+            <content>The application of this section is affected by <ref>section 7</ref> of the
+                Public Bus Services (Amendment) Ordinance 1995 (<ref href="/hk/1995/82">82 of
+                    1995</ref>).</content>
+            
+            
+        </editorialNote></section><section id="ID_1438402863283_001" name="s25F" reason="inEffect" startPeriod="2021-02-25" status="operational" temporalId="s25F"><num value="25F">25F.</num><heading>Payment of compensation and interest</heading><subsection id="ID_1438411636642_032" name="1" temporalId="s25F_1"><num value="1">(1)</num><content>At any time after agreement or determination by the arbitrator of the amount of compensation to be paid under this Part, the Government may by notice published in the Gazette require the person entitled to such compensation to collect the same within the time and at the place specified in the notice.</content></subsection><subsection id="ID_1438411636657_005" name="2" temporalId="s25F_2"><num value="2">(2)</num><content>Subject to <ref>section 25E(3)</ref>, any sum of money payable as compensation by virtue of an agreement under this Part or a determination of the arbitrator shall bear interest from the date on which it became payable until the expiration of the time specified in the notice referred to in subsection (1); but no interest shall be payable on any costs or remuneration.</content></subsection><subsection id="ID_1438411636657_013" name="3" temporalId="s25F_3"><num value="3">(3)</num><def name="7DayDepositRate">The rate of interest for the purposes of subsection (2)
+                shall be a rate equal to the 7 day deposit rate plus 2%, where
+                    <term>7
+                    day deposit
+                rate</term>
+                    (<term xml:lang="zh-Hant-HK">7天通知存款利率</term>) means the highest rate of interest
+                (expressed as a percentage) paid from time to time by the continuing members of the
+                Committee of The Hong Kong Association of Banks on deposits fixed for 7 days of an
+                amount equal to the amount of compensation payable.</def></subsection><sourceNote>(Added <ref href="/hk/1995/82">82 of 1995 s. 6</ref>)</sourceNote><editorialNote type="footnote" id="ID_1611299162845_001">
+            
+            <content>Editorial
+                Note:</content>
+            
+            <content>The application of this section is affected by <ref>section 7</ref> of the
+                Public Bus Services (Amendment) Ordinance 1995 (<ref href="/hk/1995/82">82 of
+                    1995</ref>).</content>
+            
+            
+            
+        </editorialNote></section></part><part id="ID_1438402863299_001" name="P5" reason="inEffect" startPeriod="2021-02-25" status="operational" temporalId="P5"><num value="5">Part
+            V</num><heading>Profit
+            Control Scheme</heading><section id="ID_1438402863299_003" name="s26" reason="inEffect" startPeriod="2021-02-25" status="operational" temporalId="s26"><num value="26">26.</num><heading>Interpretation</heading><leadIn>In this Part, unless the context otherwise requires—</leadIn><def name="AccountingYear"><term>accounting
+                year</term>
+                (<term xml:lang="zh-Hant-HK">會計年度</term>) means the accounting year adopted by a
+            grantee for drawing up its annual profit and loss accounts and balance sheet;</def><def name="AverageNetFixedAssets"><term>average
+                net fixed
+            assets</term>
+                (<term xml:lang="zh-Hant-HK">固定資產平均淨值</term>) for any accounting year means the
+            average of the opening and closing balances for that accounting year, as shown by the
+            records of a grantee, of its net fixed assets;</def><def name="DevelopmentFund"><term>Development
+                Fund</term>
+                (<term xml:lang="zh-Hant-HK">發展基金</term>) means the Development Fund referred to in
+                <ref>section 27(1)</ref>;</def><def name="FixedAssets"><term>fixed
+                assets</term>
+                (<term xml:lang="zh-Hant-HK">固定資產</term>) means the stocks of capital items of
+            stores and spares, investments in land, buildings, buses and other motor vehicles,
+            plant, machinery and equipment, furniture, fixtures and fittings and other fixed assets
+            (including assets in the course of construction, goods in transit and payments on
+            account) used or kept by a grantee for the purposes of or in
+            connexion
+            with its franchise;</def><def name="NetFixedAssets"><term>net
+                fixed
+            assets</term>
+                (<term xml:lang="zh-Hant-HK">固定資產淨值</term>) means the fixed assets of a grantee
+            after any depreciation under <ref>section 30</ref>;</def><def name="OperatingCosts">
+            <leadIn><term>operating
+                    costs</term>
+                    (<term xml:lang="zh-Hant-HK">經營成本</term>) means—</leadIn>
+            <paragraph id="ID_1438411636735_047" name="a" temporalId="s26_a"><num value="a">(a)</num><content>the total operating costs incurred by a grantee in
+                    connexion
+                    with its franchise;</content></paragraph>
+            <paragraph id="ID_1438411636735_055" name="b" temporalId="s26_b"><num value="b">(b)</num><content>any realized and unrealized currency exchange losses arising after the date
+                    of
+                        commencement<sup>#</sup>
+                    of the Public Bus Services (Amendment) Ordinance 1986 (<ref href="/hk/1986/30">30 of 1986</ref>) from transactions in
+                    connexion
+                    with the franchise of a grantee; and</content></paragraph>
+            <paragraph id="ID_1438411636751_006" name="c" temporalId="s26_c"><num value="c">(c)</num><content>depreciation effected in accordance with <ref>section 30</ref>;
+                    <sourceNote>(Added <ref href="/hk/1986/30">30 of 1986 s.
+                            2</ref>)</sourceNote></content></paragraph>
+        </def><def name="OperatingProfit"><term>operating
+                profit</term>
+                (<term xml:lang="zh-Hant-HK">經營利潤</term>) of a grantee means the difference between
+            its operating receipts and its operating costs, to which difference is added the
+            interest (referred to in <ref>section 29(1)(b)</ref>) on all borrowed capital of the grantee;
+            <sourceNote>(Added <ref href="/hk/1986/30">30 of 1986 s.
+                2</ref>)</sourceNote></def><def name="OperatingReceipts">
+            <leadIn><term>operating
+                    receipts</term>
+                    (<term xml:lang="zh-Hant-HK">經營收入</term>) means—</leadIn>
+            <paragraph id="ID_1438411636751_027" name="a" temporalId="s26_a"><num value="a">(a)</num><leadIn>the total gross sums received by a grantee by way of—</leadIn><subparagraph id="ID_1438411636751_035" name="i" temporalId="s26_a_i"><num value="i">(i)</num><content>the fares charged by the grantee for the carriage of passengers,
+                        baggage and goods on public buses;</content></subparagraph><subparagraph id="ID_1438411636751_043" name="ii" temporalId="s26_a_ii"><num value="ii">(ii)</num><content>any charges imposed or other benefits obtained by the grantee under
+                        this Ordinance or its franchise;
+                        <sourceNote>(Amended <ref href="/hk/1986/30">30 of 1986 s.
+                                2</ref>)</sourceNote></content></subparagraph><subparagraph id="ID_1438411636751_051" name="iia" temporalId="s26_a_iia"><num value="iia">(iia)</num><content>any realized currency exchange profits arising after the date of
+                            commencement<sup>#</sup>
+                        of the Public Bus Services (Amendment) Ordinance 1986 (<ref href="/hk/1986/30">30 of 1986</ref>) from transactions in
+                        connexion
+                        with the franchise of the grantee;
+                        <sourceNote>(Added <ref href="/hk/1986/30">30 of 1986 s.
+                                2</ref>)</sourceNote></content></subparagraph><subparagraph id="ID_1438411636767_007" name="iib" temporalId="s26_a_iib"><num value="iib">(iib)</num><content>any proceeds of sale of obsolete or used stores and spares which were,
+                        when new or before being used, acquired by the grantee for the purposes of
+                        or in
+                        connexion
+                        with its franchise; and
+                        <sourceNote>(Added <ref href="/hk/1986/30">30 of 1986 s.
+                                2</ref>)</sourceNote></content></subparagraph><subparagraph id="ID_1438411636767_015" name="iii" temporalId="s26_a_iii"><num value="iii">(iii)</num><content>any other revenue, including revenue from advertisements, derived from
+                        the use of fixed assets, </content></subparagraph><continued name="iii" temporalId="s26_a_iii">but does
+                    not include interest or dividends on deposits or investments and the proceeds of
+                    the sale or redemption of investments or fixed or other assets;
+                    and</continued></paragraph>
+            <paragraph id="ID_1438411636767_022" name="b" temporalId="s26_b"><num value="b">(b)</num><content>the gross value, as determined by the Financial Secretary, of any fixed
+                    assets, services or facilities received by a grantee in lieu of any part of such
+                    total gross sums;</content></paragraph>
+            <paragraph id="ID_1438411636767_030" name="c" temporalId="s26_c"><num value="c">(c)</num><content>the interest or dividends accruing in respect of cash or securities which
+                    are for the time being deposited by a grantee with the Director of Accounting
+                    Services for the purposes of <ref>section 4(4)(c)</ref> of the Motor Vehicles
+                    Insurance (Third Party Risks) Ordinance (<ref href="/hk/cap272">Cap. 272</ref>);
+                    <sourceNote>(Added <ref href="/hk/1988/88">88 of 1988 s.
+                            3</ref>)</sourceNote></content></paragraph>
+        </def><def name="PermittedReturn"><term>permitted
+                return</term>
+                (<term xml:lang="zh-Hant-HK">准許收益</term>) means the return allowed to a grantee in
+            an accounting year and which is computed in accordance with <ref>section 28(1)</ref>.
+            <sourceNote>(Replaced <ref href="/hk/1986/30">30 of 1986 s.
+                2</ref>)</sourceNote></def><editorialNote type="footnote" id="ID_1611301599752_001">
+            <content>Editorial Note:</content>
+            <content><sup>#</sup> Commencement date: 6 June 1986.</content>
+        </editorialNote></section><section id="ID_1438402863314_002" name="s26A" reason="inEffect" startPeriod="2021-02-25" status="operational" temporalId="s26A"><num value="26A">26A.</num><heading>Deduction of financial penalty payments</heading><leadIn>In ascertaining as regards a grantee, its—</leadIn><paragraph id="ID_1438411636813_056" name="a" temporalId="s26A_a"><num value="a">(a)</num><content>operating costs; or</content></paragraph><paragraph id="ID_1438411636813_064" name="b" temporalId="s26A_b"><num value="b">(b)</num><content>service related expenditure,</content></paragraph><continued>for any purpose related to this Ordinance or the franchise granted to such grantee under this Ordinance, neither of the following shall be taken into account—</continued><paragraph id="ID_1438411636829_012" name="i" temporalId="s26A_i"><num value="i">(i)</num><content>any amount paid by or recovered from the grantee as a financial penalty imposed under <ref>section 22</ref>; or</content></paragraph><paragraph id="ID_1438411636829_020" name="ii" temporalId="s26A_ii"><num value="ii">(ii)</num><content>any costs paid or incurred by it in connection with the recovery of a financial penalty under <ref>section 22(5)</ref>.</content></paragraph><sourceNote>(Added <ref href="/hk/1994/66">66 of 1994 s. 3</ref>)</sourceNote></section><section id="ID_1438402863330_002" name="s27" reason="inEffect" startPeriod="2021-02-25" status="operational" temporalId="s27"><num value="27">27.</num><heading>Development Fund</heading><subsection id="ID_1438411636845_011" name="1" temporalId="s27_1"><num value="1">(1)</num><content>A grantee shall, for the purposes of its franchise, maintain a Reserve to be called the Development Fund the purpose of which, subject to <ref>section 28(4)</ref> and (5), shall be to assist in the acquisition of fixed assets.</content></subsection><subsection id="ID_1438411636845_019" name="2" temporalId="s27_2"><num value="2">(2)</num><content>The balance in the Development Fund represents a liability of a grantee and shall not be applied except as provided in this Part or in the franchise of a grantee.</content></subsection></section><section id="ID_1438402863346_001" name="s28" reason="inEffect" startPeriod="2021-02-25" status="operational" temporalId="s28"><num value="28">28.</num><heading>Permitted return</heading><subsection id="ID_1438411636860_019" name="1" temporalId="s28_1"><num value="1">(1)</num><content>The permitted return to a grantee in an accounting year shall be an amount
+                equal to the percentage per annum specified in its franchise of the average net
+                fixed assets of the grantee in that accounting year.
+                <sourceNote>(Amended <ref href="/hk/1986/30">30 of 1986 s.
+                    3</ref>)</sourceNote></content></subsection><subsection id="ID_1438411636860_027" name="2" temporalId="s28_2"><num value="2">(2)</num><content>There shall be deducted from the permitted return the amounts specified in <ref>section 29</ref>.</content></subsection><subsection id="ID_1438411636876_005" name="3" temporalId="s28_3"><num value="3">(3)</num><leadIn>Where in an accounting year the operating receipts of a grantee exceed the aggregate of—</leadIn><paragraph id="ID_1438411636876_013" name="a" temporalId="s28_3_a"><num value="a">(a)</num><content>the operating costs of the grantee;
+                    <sourceNote>(Replaced <ref href="/hk/1986/30">30 of 1986 s.
+                            3</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411636876_021" name="b" temporalId="s28_3_b"><num value="b">(b)</num><content>any profits tax arising from the operating profit of the grantee; and
+                    <sourceNote>(Replaced <ref href="/hk/1986/30">30 of 1986 s.
+                            3</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411636876_029" name="c" temporalId="s28_3_c"><num value="c">(c)</num><content>any deferred tax (the inclusion of deferred tax in the accounts for that
+                    accounting year being at the discretion of the grantee),
+                    <sourceNote>(Added <ref href="/hk/1986/30">30 of 1986 s.
+                            3</ref>)</sourceNote></content></paragraph><continued>for that accounting year, the grantee shall deduct the permitted return from such excess or so much thereof as is permitted by such excess, and in the former case any excess remaining thereafter shall be added to the Development Fund.</continued></subsection><subsection id="ID_1438411636876_042" name="4" temporalId="s28_4"><num value="4">(4)</num><leadIn>Where in an accounting year—</leadIn><paragraph id="ID_1438411636876_050" name="a" temporalId="s28_4_a"><num value="a">(a)</num><content>the operating receipts of a grantee are less than the aggregate of the
+                    amounts in respect of subsection <ref>(3)(a)</ref>, (b) and (c); or
+                    <sourceNote>(Amended <ref href="/hk/1986/30">30 of 1986 s.
+                            3</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411636876_058" name="b" temporalId="s28_4_b"><num value="b">(b)</num><content>only part of the permitted return has been deducted under subsection (3),</content></paragraph><continued>the grantee shall, subject to subsection (5), deduct from the Development Fund—</continued><paragraph id="ID_1438411636876_072" name="i" temporalId="s28_4_i"><num value="i">(i)</num><content>in the case of paragraph (a), the deficiency in the operating receipts and the entire amount of the permitted return; and</content></paragraph><paragraph id="ID_1438411636891_006" name="ii" temporalId="s28_4_ii"><num value="ii">(ii)</num><content>in the case of paragraph (b), such part of the permitted return as has not been deducted under subsection (3).</content></paragraph></subsection><subsection id="ID_1438411636891_013" name="5" temporalId="s28_5"><num value="5">(5)</num><content>If in an accounting year there is no balance in the Development Fund, or the balance in the Development Fund is insufficient, for the purposes of subsection <ref>(4)(i)</ref> or (ii) as the case may be, the Financial Secretary may in writing permit the grantee to deduct from the Development Fund in subsequent years any amount due to it under that subsection in that accounting year.</content></subsection></section><section id="ID_1438402863346_003" name="s29" reason="inEffect" startPeriod="2021-02-25" status="operational" temporalId="s29"><num value="29">29.</num><heading>Deductions from permitted return</heading><subsection id="ID_1438411636923_004" name="1" temporalId="s29_1"><num value="1">(1)</num><leadIn>Subject to such conditions as may be specified in its franchise, there shall be deducted from the permitted return in each accounting year of a grantee—</leadIn><paragraph id="ID_1438411636923_012" name="a" temporalId="s29_1_a"><num value="a">(a)</num><content>a charge at the rate specified in its franchise on the average of the opening and closing balances of the Development Fund in the accounting year; and</content></paragraph><paragraph id="ID_1438411636923_020" name="b" temporalId="s29_1_b"><num value="b">(b)</num><content>interest at the rate specified in its franchise on all borrowed capital of the grantee.</content></paragraph></subsection><subsection id="ID_1438411636923_027" name="2" temporalId="s29_2"><num value="2">(2)</num><content>Any amounts deducted under subsection <ref>(1)(a)</ref> shall be added to the Development Fund in the accounts of each accounting year and shall form part of the opening balance of the Development Fund in the next following accounting year.</content></subsection></section><section id="ID_1438402863361_002" name="s30" reason="inEffect" startPeriod="2021-02-25" status="operational" temporalId="s30"><num value="30">30.</num><heading>Depreciation</heading><content>Subject to such conditions as may be specified in its franchise, the annual rates of depreciation and the residual value in respect of the fixed assets of a grantee shall be as specified in its franchise.</content></section><section id="ID_1438402863377_001" name="s31" reason="inEffect" startPeriod="2021-02-25" status="operational" temporalId="s31"><num value="31">31.</num><heading>Review of profit control scheme</heading><text>The operation of the profit control scheme in respect of a grantee shall be reviewed
+            by the Chief Executive in Council every 2 years.</text><sourceNote>(Amended <ref href="/hk/1999/62">62 of 1999 s. 3</ref>)</sourceNote></section><section id="ID_1438402863377_003" name="s32" reason="inEffect" startPeriod="2021-02-25" status="operational" temporalId="s32"><num value="32">32.</num><heading>Powers of Financial Secretary to require production of accounts, etc.</heading><leadIn>The Financial Secretary may require a grantee—</leadIn><paragraph id="ID_1438411636969_033" name="a" temporalId="s32_a"><num value="a">(a)</num><content>to produce to him, at such time and place as he may specify, such books and statements of account of the grantee; and</content></paragraph><paragraph id="ID_1438411636969_041" name="b" temporalId="s32_b"><num value="b">(b)</num><content>to provide to him such information in relation to the public bus service operations of the grantee,</content></paragraph><continued>as he may require.</continued></section></part><part id="ID_1438402863392_002" name="P6" reason="inEffect" startPeriod="2021-02-25" status="operational" temporalId="P6"><num value="6">Part
+            VI</num><heading>Miscellaneous</heading><section id="ID_1438402863392_004" name="s33" reason="inEffect" startPeriod="2022-07-01" status="operational" temporalId="s33"><num value="33">33.</num><heading>Appeal by grantee</heading><subsection id="ID_1438411637001_011" name="1" temporalId="s33_1"><num value="1">(1)</num><content>A grantee which is aggrieved by any decision, direction or requirement of the
+                Secretary
+                for Transport and
+                Logistics,
+                or a public officer given directions under <ref>section 3</ref>, or the
+                Commissioner, or any person authorized by him, under this Ordinance or its franchise
+                may, within 28 days of the giving or making of the decision, direction or
+                requirement, appeal by petition to the Chief Executive in Council, and the decision
+                of the Chief Executive in Council on any such appeal shall be final.
+                <sourceNote>(Amended <ref href="/hk/1984/44">44 of 1984 s.
+                        17</ref>; <ref href="/hk/2002/ln106">L.N. 106 of 2002</ref>; <ref href="/hk/2007/ln130">L.N. 130 of
+                    2007</ref>; <ref href="/hk/2022/ln144">L.N. 144 of
+                    2022</ref>)</sourceNote></content></subsection><subsection id="ID_1438411637016_005" name="2" temporalId="s33_2"><num value="2">(2)</num><content>Where a grantee has appealed under subsection (1), the decision, direction or
+                requirement, as the case may be, shall not have effect until the appeal has been
+                determined, unless the Chief Executive in Council otherwise directs.</content></subsection><sourceNote>(Amended <ref href="/hk/1999/62">62 of 1999 s. 3</ref>)</sourceNote></section><section id="ID_1438402863408_002" name="s34" reason="inEffect" startPeriod="2021-02-25" status="operational" temporalId="s34"><num value="34">34.</num><heading>Amendment of <ref>Schedule</ref> of Routes orders</heading><leadIn>The Commissioner shall, whenever necessary in consequence of—</leadIn><paragraph id="ID_1438411637032_034" name="a" temporalId="s34_a"><num value="a">(a)</num><content>the exercise of any power conferred on the Chief Executive in Council by
+                    <ref>section 14</ref>;</content></paragraph><paragraph id="ID_1438411637032_042" name="aa" temporalId="s34_aa"><num value="aa">(aa)</num><content>a revocation of a right to operate a public bus service on any specified route
+                by mutual consent of the Commissioner and a grantee or in consequence of an order
+                under <ref>section 5(5)</ref>;
+                <sourceNote>(Added <ref href="/hk/1984/44">44 of 1984 s. 18</ref>. Amended <ref href="/hk/1986/56">56 of 1986 s. 22</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411637032_050" name="b" temporalId="s34_b"><num value="b">(b)</num><content>a revocation under <ref>section 24(2)</ref>; or</content></paragraph><paragraph id="ID_1438411637047_005" name="c" temporalId="s34_c"><num value="c">(c)</num><content>any decision of the Chief Executive in Council on an appeal under <ref>section
+                    33</ref>,</content></paragraph><continued>by order amend the <ref>Schedule</ref> of Routes order affected
+            thereby.</continued><sourceNote>(Amended <ref href="/hk/1999/62">62 of 1999 s. 3</ref>)</sourceNote></section><section id="ID_1438402863424_001" name="s35" reason="inEffect" startPeriod="2022-07-01" status="operational" temporalId="s35"><num value="35">35.</num><heading>Secretary
+            for Transport and Logistics to make
+            regulations</heading><sourceNote>(Amended <ref href="/hk/2007/ln130">L.N. 130 of
+            2007</ref>; <ref href="/hk/2022/ln144">L.N. 144 of
+            2022</ref>)</sourceNote><subsection id="ID_1438411637063_011" name="1" temporalId="s35_1"><num value="1">(1)</num><leadIn>The
+                Secretary
+                for Transport and Logistics may make regulations for all or any of
+                the following matters—  <sourceNote>(Amended <ref href="/hk/1994/66">66 of 1994 s.
+                        4</ref>; <ref href="/hk/2002/ln106">L.N. 106 of 2002</ref>; <ref href="/hk/2007/ln130">L.N. 130 of
+                    2007</ref>; <ref href="/hk/2022/ln144">L.N. 144 of
+                    2022</ref>)</sourceNote></leadIn><paragraph id="ID_1438411637063_019" name="a" temporalId="s35_1_a"><num value="a">(a)</num><content>the provision of adequate signs and destination indicators on buses used by
+                    a grantee;</content></paragraph><paragraph id="ID_1438411637063_027" name="b" temporalId="s35_1_b"><num value="b">(b)</num><content>the provision of uniforms and badges for the drivers, conductors and
+                    authorized persons employed by a grantee;
+                    <sourceNote>(Amended <ref href="/hk/1984/44">44 of 1984 s.
+                            19</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411637063_035" name="c" temporalId="s35_1_c"><num value="c">(c)</num><content>regulating the conduct of such drivers, conductors and authorized persons
+                    while so employed;
+                    <sourceNote>(Amended <ref href="/hk/1984/44">44 of 1984 s.
+                            19</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411637063_043" name="d" temporalId="s35_1_d"><num value="d">(d)</num><content>generally as to the conduct of passengers and intending passengers on buses
+                    used by a grantee;
+                    <sourceNote>(Replaced <ref href="/hk/1988/88">88 of 1988 s.
+                            4</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411637063_051" name="da" temporalId="s35_1_da"><num value="da">(da)</num><sourceNote>(Repealed <ref href="/hk/1988/88">88 of 1988 s. 4</ref>)</sourceNote></paragraph><paragraph id="ID_1438411637063_059" name="db" temporalId="s35_1_db"><num value="db">(db)</num><content>controlling or prohibiting the carriage of goods and dangerous items on
+                    such buses;
+                    <sourceNote>(Added <ref href="/hk/1984/44">44 of 1984 s.
+                            19</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411637079_006" name="dc" temporalId="s35_1_dc"><num value="dc">(dc)</num><content>controlling or prohibiting the carriage of animals and birds on such buses;
+                    <sourceNote>(Added <ref href="/hk/1984/44">44 of 1984 s.
+                            19</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411637079_014" name="dd" temporalId="s35_1_dd"><num value="dd">(dd)</num><content>the control and disposal of property lost on such buses;
+                    <sourceNote>(Added <ref href="/hk/1984/44">44 of 1984 s.
+                            19</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411637079_022" name="e" temporalId="s35_1_e"><num value="e">(e)</num><content>the method of payment of fares by passengers using such buses;</content></paragraph><paragraph id="ID_1438411637079_030" name="f" temporalId="s35_1_f"><num value="f">(f)</num><content>the designation of bus stops and the erection of appropriate signs and
+                    notices thereon;</content></paragraph><paragraph id="ID_1438411637079_038" name="fa" temporalId="s35_1_fa"><num value="fa">(fa)</num><content>during the period referred to in <ref>section 5(9)</ref>, prohibiting or
+                    restricting the putting down or taking up of passengers or of any class of
+                    passengers by a grantee within the North-west Transit Service Area otherwise
+                    than as may be permitted by its franchise;
+                    <sourceNote>(Added <ref href="/hk/1986/56">56 of 1986 s.
+                            22</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438411637079_046" name="g" temporalId="s35_1_g"><num value="g">(g)</num><content>regulating the number of the seated passengers and standing passengers
+                    respectively whom a bus used by a grantee is constructed or adapted and fit to
+                    carry;</content></paragraph><paragraph id="ID_1438411637079_054" name="h" temporalId="s35_1_h"><num value="h">(h)</num><content>regulating the number of such passengers respectively who may be carried in
+                    such a bus;</content></paragraph><paragraph id="ID_1438411637079_062" name="i" temporalId="s35_1_i"><num value="i">(i)</num><content>the marks to be carried on such a bus showing the numbers referred to in
+                    paragraphs (g) and (h) and the manner in which those marks are to be
+                    carried;</content></paragraph><paragraph id="ID_1438411637094_006" name="j" temporalId="s35_1_j"><num value="j">(j)</num><leadIn>regulating, in relation to the drivers of buses used by a grantee—</leadIn><subparagraph id="ID_1438411637094_014" name="i" temporalId="s35_1_j_i"><num value="i">(i)</num><content>the maximum number of hours during which any such driver may be
+                        permitted to drive such a bus; and</content></subparagraph><subparagraph id="ID_1438411637094_022" name="ii" temporalId="s35_1_j_ii"><num value="ii">(ii)</num><content>the intervals to be provided by a grantee for the rest and refreshment
+                        of such drivers,</content></subparagraph><continued>in any period specified in the regulations;
+                    <sourceNote>(Amended <ref href="/hk/1984/44">44 of 1984 s.
+                            19</ref>)</sourceNote></continued></paragraph><paragraph id="ID_1438411637094_035" name="k" temporalId="s35_1_k"><num value="k">(k)</num><content>generally for the purposes of this Ordinance.</content></paragraph></subsection><subsection id="ID_1438411637094_042" name="2" temporalId="s35_2"><num value="2">(2)</num><leadIn>The Chief Executive in Council may by regulation provide—  <sourceNote>(Amended <ref href="/hk/1999/62">62 of 1999 s. 3</ref>)</sourceNote></leadIn><paragraph id="ID_1438411637094_050" name="a" temporalId="s35_2_a"><num value="a">(a)</num><content>that the contravention of any regulation made pursuant to subsection (1) is
+                    an offence; and</content></paragraph><paragraph id="ID_1438411637094_058" name="b" temporalId="s35_2_b"><num value="b">(b)</num><content>in respect of such offence, a penalty of a fine not exceeding
+                    level
+                    2 and imprisonment not exceeding 6 months.
+                    <sourceNote>(Added <ref href="/hk/1994/66">66 of 1994 s.
+                            4</ref>. Amended <ref href="/hk/2021/er1">E.R. 1 of
+                        2021</ref>)</sourceNote></content></paragraph></subsection></section><section id="ID_1438402863455_001" name="s36" reason="inEffect" startPeriod="2021-02-25" status="operational" temporalId="s36"><num value="36">36.</num><heading>By-laws</heading><subsection id="ID_1438411637157_004" name="1" temporalId="s36_1"><num value="1">(1)</num><leadIn>Subject to this Ordinance and its franchise, a grantee may make by-laws for all or any of the following matters—</leadIn><paragraph id="ID_1438411637157_012" name="a" temporalId="s36_1_a"><num value="a">(a)</num><content>the protection of property owned or controlled by the grantee from damage or injury;</content></paragraph><paragraph id="ID_1438411637157_020" name="b" temporalId="s36_1_b"><num value="b">(b)</num><content>the prevention of frauds on the grantee;</content></paragraph><paragraph id="ID_1438411637157_028" name="c" temporalId="s36_1_c"><num value="c">(c)</num><content>the safe and efficient operation of the grantee’s public bus service;</content></paragraph><paragraph id="ID_1438411637157_036" name="d" temporalId="s36_1_d"><num value="d">(d)</num><content>the procedure to be followed in case of accident;</content></paragraph><paragraph id="ID_1438411637157_044" name="e" temporalId="s36_1_e"><num value="e">(e)</num><leadIn>generally as to the conduct of passengers while using the grantee’s buses and in particular (but without prejudice to the generality of the foregoing) for—</leadIn><subparagraph id="ID_1438411637157_052" name="i...ii" temporalId="s36_1_e_i...ii"><num value="i...ii">(i)-(ii)</num><sourceNote>(Repealed <ref href="/hk/1984/44">44 of 1984 s. 20</ref>)</sourceNote></subparagraph><subparagraph id="ID_1438411637157_060" name="iii" temporalId="s36_1_e_iii"><num value="iii">(iii)</num><content>requiring a passenger to declare, if so requested by the driver or
+                        conductor, the journey he intends to take or has taken in the bus and to pay
+                        the fare for the whole of that journey and to accept any ticket provided therefor;
+                        <sourceNote>(Amended <ref href="/hk/1982/75">75 of 1982 s.
+                                114</ref>)</sourceNote></content></subparagraph><subparagraph id="ID_1438411637172_007" name="iv" temporalId="s36_1_e_iv"><num value="iv">(iv)</num><content>requiring, on demand being made for the purpose by the driver or conductor or other person authorized by the grantee, production during the journey and surrender at the end of the journey by the holder thereof of any ticket issued to him;</content></subparagraph><subparagraph id="ID_1438411637172_015" name="v" temporalId="s36_1_e_v"><num value="v">(v)</num><content>requiring a passenger, if so requested by the driver or conductor, to
+                        leave the bus on the completion of the journey the fare for which he has paid;
+                        <sourceNote>(Amended <ref href="/hk/1982/75">75 of 1982 s.
+                                114</ref>)</sourceNote></content></subparagraph><subparagraph id="ID_1438411637172_023" name="vi" temporalId="s36_1_e_vi"><num value="vi">(vi)</num><content>requiring the surrender by the holder thereof on the expiry of the period for which it is issued of a ticket issued to him.</content></subparagraph></paragraph></subsection><subsection id="ID_1438411637172_029" name="2" temporalId="s36_2"><num value="2">(2)</num><content>All by-laws made under subsection (1) shall be subject to the approval of the Legislative Council.</content></subsection><subsection id="ID_1438411637172_037" name="3" temporalId="s36_3"><num value="3">(3)</num><content>Any such by-laws may provide that a contravention of specified provisions
+                thereof shall be an offence and may provide penalties therefor not exceeding a fine
+                at
+                level 1.
+                <sourceNote>(Amended <ref href="/hk/2021/er1">E.R. 1 of
+                2021</ref>)</sourceNote></content></subsection><subsection id="ID_1438411637188_005" name="4" temporalId="s36_4"><num value="4">(4)</num><content>A grantee shall cause printed copies of all by-laws made under this section to be kept at its registered office and to be sold at a reasonable charge to any person applying therefor.</content></subsection></section><section id="ID_1438402863455_003" name="s36A" reason="inEffect" startPeriod="2021-02-25" status="operational" temporalId="s36A"><num value="36A">36A.</num><heading>Further powers in relation to regulations and by-laws</heading><subsection id="ID_1438411637219_004" name="1" temporalId="s36A_1"><num value="1">(1)</num><leadIn>Any regulations made under <ref>section 35</ref> or by-laws made under <ref>section 36</ref> may—</leadIn><paragraph id="ID_1438411637219_012" name="a" temporalId="s36A_1_a"><num value="a">(a)</num><content>require a passenger or intending passenger to comply with any reasonable direction given in the interests of public safety by a driver, conductor or authorized person;</content></paragraph><paragraph id="ID_1438411637219_020" name="b" temporalId="s36A_1_b"><num value="b">(b)</num><content>authorize the removal from a bus of any person committing an offence against the regulations or by-laws, as the case may be, by the driver, the conductor or an authorized person, or by a police officer at the request of a driver, conductor or authorized person;</content></paragraph><paragraph id="ID_1438411637219_028" name="c" temporalId="s36A_1_c"><num value="c">(c)</num><content>require any person whom a driver, conductor or authorized person has reasonable grounds to believe has committed an offence against the regulations or by-laws, as the case may be, to give his name and proof of his identity to the driver, conductor or authorized person;</content></paragraph><paragraph id="ID_1438411637219_036" name="d" temporalId="s36A_1_d"><num value="d">(d)</num><content>authorize a driver, conductor or authorized person to arrest without a warrant and detain until he can be handed over to a police officer, any person whom he has reasonable grounds to believe has committed an offence under the regulations or by-laws, as the case may be.</content></paragraph></subsection><subsection id="ID_1438411637235_005" name="2" temporalId="s36A_2"><num value="2">(2)</num><leadIn>Any such regulations or by-laws may—</leadIn><paragraph id="ID_1438411637235_013" name="a" temporalId="s36A_2_a"><num value="a">(a)</num><content>authorize a police officer, to whom a person has been handed over under subsection <ref>(1)(d)</ref>, to take such person into custody without a warrant; and</content></paragraph><paragraph id="ID_1438411637235_021" name="b" temporalId="s36A_2_b"><num value="b">(b)</num><content>apply <ref>sections 51</ref> and <ref>52</ref> of the Police Force Ordinance (<ref href="/hk/cap232">Cap. 232</ref>) to persons taken into custody under the regulations or by-laws.</content></paragraph></subsection><sourceNote>(Added <ref href="/hk/1988/88">88 of 1988 s. 5</ref>)</sourceNote></section><section id="ID_1438402863470_002" name="s37" reason="inEffect" startPeriod="2021-02-25" status="operational" temporalId="s37"><num value="37">37.</num><heading>Power to amend <ref>Schedule</ref></heading><content>The Chief Executive may, by order published in the Gazette, amend
+                                    the <ref>Schedule</ref>.</content><sourceNote>(Added <ref href="/hk/1984/44">44 of 1984 s. 21</ref>. Amended <ref href="/hk/1999/62">62 of 1999 s.
+                                    3</ref>)</sourceNote></section><section id="ID_1438402863486_001" name="s38" reason="inEffect" startPeriod="2021-02-25" status="operational" temporalId="s38"><num value="38">38.</num><heading>Transitional</heading><content>For the avoidance of doubt it is hereby declared that, notwithstanding the
+            provisions of a franchise, agreement or other document under or in pursuance of this
+            Ordinance, which franchise, agreement or document is in existence at the
+                commencement<inline class="force_orig_font">*</inline> of the Public Omnibus Services
+            (Amendment) Ordinance 1984 (<ref href="/hk/1984/44">44 of 1984</ref>)
+                    (<b><i>the
+                    amending
+            Ordinance</i></b>),
+            the amendments to this Ordinance effected by the amending Ordinance shall apply to and
+            in relation to such a franchise, agreement or document in the same manner and to the
+            same extent as they would apply to a franchise, agreement or document granted or made
+            after the commencement of the amending Ordinance.</content><sourceNote>(<ref href="/hk/1984/44">44 of 1984 s. 22</ref> incorporated)</sourceNote><editorialNote type="footnote" id="ID_1611301461135_001">
+            <content>Editorial Note:</content>
+            <content><inline class="force_orig_font">*</inline> Commencement date: 29 June
+                1984.</content>
+        </editorialNote></section><section id="ID_1438402863502_002" name="s39" reason="inEffect" startPeriod="2021-02-25" status="operational" temporalId="s39"><num value="39">39.</num><heading>Saving of existing regulations</heading><leadIn>Any regulation made under this Ordinance—</leadIn><paragraph id="ID_1438411637313_026" name="a" temporalId="s39_a"><num value="a">(a)</num><content>whether in the exercise of the enabling powers in the Ordinance only or those
+                and other enabling powers; and</content></paragraph><paragraph id="ID_1438411637313_034" name="b" temporalId="s39_b"><num value="b">(b)</num><content>which was in force immediately before the
+                    commencement<inline class="force_orig_font">*</inline> of the Public Bus Services
+                (Amendment) Ordinance 1994 (<ref href="/hk/1994/66">66 of 1994</ref>)
+                        (<b><i>the
+                        amending
+                Ordinance</i></b>),</content></paragraph><continued>shall continue to be in force and have effect as if made by the authority who,
+            having regard to the subject-matter of the regulation, is empowered to make that
+            regulation on or after the commencement of the amending Ordinance and may be amended or
+            revoked by such authority.</continued><sourceNote>(Added <ref href="/hk/1994/66">66 of 1994 s. 5</ref>)</sourceNote><editorialNote type="footnote" id="ID_1611301918976_001">
+            <content>Editorial Note:</content>
+            <content><inline class="force_orig_font">*</inline> Commencement date: 8 July
+                1994.</content>
+        </editorialNote></section></part><schedule id="ID_1438402863517_002" name="sch0" reason="inEffect" startPeriod="2021-02-25" status="operational" temporalId="sch0"><num value="0">Schedule</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap230/s12A">s.
+                12A</ref>]</note><heading>Contents
+            of
+            Programme</heading><sourceNote>(<ref>Schedule</ref> added <ref href="/hk/1984/44">44 of 1984 s.
+            21</ref>)<marker role="blank-line"></marker><marker role="blank-line"></marker></sourceNote><leadIn>A
+            programme of the operations of a grantee for the following 5 years prepared in any year
+            under <ref>section 12A</ref> shall contain—</leadIn><paragraph id="ID_1438411637344_030" name="a" temporalId="sch0_a"><num value="a">(a)</num><content>a bus route development programme, together with details of proposed changes to
+                the routes operated, their frequency and vehicle allocation, on a monthly basis for
+                the first 2 years of the programme and half yearly thereafter;</content></paragraph><paragraph id="ID_1438411637344_039" name="b" temporalId="sch0_b"><num value="b">(b)</num><content>an estimate of the number and types of buses required in daily service to meet
+                the requirements of the route development programme referred to in paragraph
+                (a);</content></paragraph><paragraph id="ID_1438411637344_048" name="c" temporalId="sch0_c"><num value="c">(c)</num><content>an estimate of the overall number of buses required to meet the daily public
+                bus service
+                requirements, with allowance being made for a reasonable
+                proportion of the buses being unavailable for use in the operation of the service
+                due to accidents, breakdowns or for any other reason;</content></paragraph><paragraph id="ID_1438411637344_057" name="d" temporalId="sch0_d"><num value="d">(d)</num><content>a programme for the scrapping of buses that are or are likely to be unfit for
+                use in the operation of the public bus service, and for the purchase or construction
+                of additional buses for the replacement of buses that are to be scrapped or for the
+                expansion of the fleet of buses for use in the operation of the service;</content></paragraph><paragraph id="ID_1438411637359_007" name="e" temporalId="sch0_e"><num value="e">(e)</num><content>a programme for the provision and equipment of premises necessary for the
+                construction, repair and maintenance of vehicles used by the grantee in
+                connexion
+                with its franchise and for the parking of all such vehicles when they are not in
+                use;</content></paragraph><paragraph id="ID_1438411637359_016" name="f" temporalId="sch0_f"><num value="f">(f)</num><content>a programme for the regular maintenance and servicing of all vehicles used by
+                the grantee in
+                connexion
+                with its franchise;</content></paragraph><paragraph id="ID_1438411637359_025" name="g" temporalId="sch0_g"><num value="g">(g)</num><content>a forecast of the financial implications of the adherence to the overall
+                programme prepared under <ref>section 12A</ref>, including estimates of the timing
+                and magnitude of any adjustments to fare levels that may be necessary;</content></paragraph><paragraph id="ID_1438411637359_034" name="h" temporalId="sch0_h"><num value="h">(h)</num><content>any other matters, whether or not specified in paragraphs (a)
+                to (g)
+                inclusive, as may be required by the Commissioner by notice in writing to the
+                grantee.</content></paragraph></schedule></main></ordinance>

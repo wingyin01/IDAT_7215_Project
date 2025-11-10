@@ -1,0 +1,1319 @@
+<?xml version="1.0" encoding="UTF-8"?><ordinance xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd" xml:lang="en"><meta><docName>Cap. 375</docName><docType>cap</docType><docNumber>375</docNumber><docStatus>In effect</docStatus><dc:identifier>/hk/cap375!en</dc:identifier><dc:date>2025-09-15</dc:date><dc:subject>legislation</dc:subject><dc:language>en</dc:language><dc:publisher>DoJ</dc:publisher><dc:rights>the Government of the Hong Kong Special Administrative Region</dc:rights></meta><main xml:lang="en" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd"><longTitle id="ID_1438403132259_001" name="longTitle" reason="inEffect" status="operational" temporalId="longTitle" startPeriod="2021-11-04">
+            <content>To provide for the recording of points in relation to various road traffic
+                offences connected with road safety, for the disqualification from driving of, or
+                the obligatory attendance of driving improvement courses by, persons in respect of
+                whom a certain number of points have been recorded and for connected
+                purposes.</content>
+        </longTitle><sourceNote>(Amended <ref href="/hk/2008/23">23 of 2008 s.
+            58</ref>)<marker role="blank-line"></marker><marker role="blank-line"></marker></sourceNote><commencementNote>[25 August 1984]<sourceNote><inline class="width_3"> </inline><ref href="/hk/1984/ln295">L.N. 295 of 1984</ref></sourceNote></commencementNote><sourceNote>(Format changes—<ref href="/hk/2021/er5">E.R. 5 of 2021</ref>)</sourceNote><section id="ID_1438403132259_003" name="s1" reason="inEffect" startPeriod="2021-11-04" status="operational" temporalId="s1"><num value="1">1.</num><heading>Short title</heading><content>This Ordinance may be cited as the <shortTitle>Road Traffic (Driving-offence Points) Ordinance</shortTitle>.</content></section><section id="ID_1438403132275_001" name="s2" reason="inEffect" startPeriod="2025-06-15" status="operational" temporalId="s2"><num value="2">2.</num><heading>Interpretation</heading><subsection id="ID_1438412335242_004" name="1" temporalId="s2_1"><num value="1">(1)</num><leadIn>In this Ordinance, unless the context otherwise requires—</leadIn><def name="Commissioner"><term>Commissioner</term>
+                    (<term xml:lang="zh-Hant-HK">署長</term>) means the Commissioner for
+                Transport;</def><def name="CourseCertificate"><term>course
+                    certificate</term>
+                    (<term xml:lang="zh-Hant-HK">課程證書</term>) has the meaning assigned to it by
+                    <ref>section 102A</ref> of the Road Traffic Ordinance (<ref href="/hk/cap374">Cap. 374</ref>);<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/2002/3">3 of 2002 s. 8</ref>)</sourceNote></def><def name="DomesticDrivingPermit,DomesticDrivingLicence"><term>domestic
+                    driving
+                permit</term>
+                    (<term xml:lang="zh-Hant-HK">當地駕駛許可證</term>) and
+                    <term>domestic
+                    driving
+                licence</term>
+                    (<term xml:lang="zh-Hant-HK">當地駕駛執照</term>) have the meanings assigned to them
+                by the Road Traffic Ordinance (<ref href="/hk/cap374">Cap. 374</ref>);<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1990/81">81 of 1990
+                        s. 2</ref>)</sourceNote></def><def name="Drive"><term>drive</term>
+                    (<term xml:lang="zh-Hant-HK">駕駛</term>) means, in relation to a motor vehicle,
+                to be in charge of or assist in controlling a motor vehicle;</def><def name="DrivingImprovementCourse"><term>driving
+                    improvement
+                course</term>
+                    (<term xml:lang="zh-Hant-HK">駕駛改進課程</term>) has the meaning assigned to it by
+                    <ref>section 2</ref> of the Road Traffic Ordinance (<ref href="/hk/cap374">Cap.
+                    374</ref>);<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/2002/3">3 of 2002 s. 8</ref>)</sourceNote></def><def name="DrivingLicence"><term>driving
+                    licence</term>
+                    (<term xml:lang="zh-Hant-HK">駕駛執照</term>) means a driving licence issued under
+                the Road Traffic Ordinance (<ref href="/hk/cap374">Cap. 374</ref>);</def><def name="FixedPenalty"><term>fixed
+                    penalty</term>
+                    (<term xml:lang="zh-Hant-HK">定額罰款</term>) means a fixed penalty incurred under
+                the Fixed Penalty (Criminal Proceedings) Ordinance (<ref href="/hk/cap240">Cap.
+                    240</ref>);</def><def name="InternationalDrivingPermit"><term>international
+                    driving
+                permit</term>
+                    (<term xml:lang="zh-Hant-HK">國際駕駛許可證</term>) has the meaning assigned to it by
+                the Road Traffic Ordinance (<ref href="/hk/cap374">Cap. 374</ref>);<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1990/81">81 of 1990
+                        s. 2</ref>)</sourceNote></def><def name="MotorVehicle"><term>motor
+                    vehicle</term>
+                    (<term xml:lang="zh-Hant-HK">汽車</term>) has the meaning assigned to it by the
+                Road Traffic Ordinance (<ref href="/hk/cap374">Cap. 374</ref>);</def><def name="Points"><term>points</term>
+                    (<term xml:lang="zh-Hant-HK">分</term>、<term xml:lang="zh-Hant-HK">分數</term>)
+                means driving-offence points incurred under this Ordinance;</def><def name="RegisterOfPoints"><term>register
+                    of
+                points</term>
+                    (<term xml:lang="zh-Hant-HK">分數紀錄冊</term>)
+                means the register of points mentioned in <ref>section 3</ref>;</def><def name="ScheduledOffence"><term>scheduled
+                    offence</term>
+                    (<term xml:lang="zh-Hant-HK">表列罪行</term>) means an offence mentioned in the
+                    <ref>Schedule</ref>.</def></subsection><subsection id="ID_1438412335258_018" name="2" temporalId="s2_2"><num value="2">(2)</num><leadIn>For the purposes of this Ordinance, a person becomes liable to a fixed penalty
+                when—</leadIn><paragraph id="ID_1750302181576_001" name="a" temporalId="s2_2_a"><num value="a">(a)</num><leadIn>the person pays the fixed penalty in accordance with—</leadIn><subparagraph id="ID_1750302181576_002" name="1" temporalId="s2_2_a_1"><num value="1">(i)</num><content>a fixed penalty notice served on the person under <ref>section
+                            3(3)</ref> or <ref>(4)</ref> of the Fixed Penalty (Criminal Proceedings)
+                        Ordinance (<ref href="/hk/cap240">Cap. 240</ref>); or</content></subparagraph><subparagraph id="ID_1750302181576_003" name="2" temporalId="s2_2_a_2"><num value="2">(ii)</num><content>a demand notice served on the person under <ref>section 3AAB(1)</ref>
+                        or <ref>(2)</ref> of that Ordinance; <sourceNote>(Replaced <ref href="hk/2024/13">13 of 2024 s. 71</ref>)</sourceNote></content></subparagraph></paragraph><paragraph id="ID_1438412335258_034" name="b" temporalId="s2_2_b"><num value="b">(b)</num><content>he is ordered to pay penalties under <ref>section 3A</ref> of that
+                    Ordinance;</content></paragraph><paragraph id="ID_1438412335258_042" name="c" temporalId="s2_2_c"><num value="c">(c)</num><content>the
+                    person has notified the Commissioner of Police that the person wishes to dispute
+                    liability in accordance with a demand notice served under <ref>section
+                        3AAB(1)</ref> or
+                    <ref>(2)</ref>
+                    of that Ordinance but subsequently pays the fixed penalty, the additional
+                    penalty and costs in accordance with <ref>section 9</ref> of that Ordinance; or
+                    <sourceNote>(Amended <ref href="hk/2024/13">13 of 2024 s.
+                    71</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438412335258_050" name="d" temporalId="s2_2_d"><num value="d">(d)</num><content>his liability to a fixed penalty revives under <ref>section
+                        4B</ref>.<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/1990/81">81 of 1990 s. 2</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438412335258_057" name="3" temporalId="s2_3"><num value="3">(3)</num><content>The provision of the enactment mentioned in the second column of the <ref>Schedule</ref> shall be deemed to include any other provision of that enactment which makes the conduct or omission concerned an offence.</content></subsection></section><section id="ID_1438403132290_001" name="s3" reason="inEffect" startPeriod="2021-11-04" status="operational" temporalId="s3"><num value="3">3.</num><heading>Register of points</heading><subsection id="ID_1438412335305_004" name="1" temporalId="s3_1"><num value="1">(1)</num><leadIn>The Commissioner shall maintain a register of points in which he shall record—</leadIn><paragraph id="ID_1438412335305_012" name="a" temporalId="s3_1_a"><num value="a">(a)</num><content>the name, and such further particulars as he thinks fit, of a person who has incurred points;</content></paragraph><paragraph id="ID_1438412335305_020" name="b" temporalId="s3_1_b"><num value="b">(b)</num><content>the number of points incurred by him;</content></paragraph><paragraph id="ID_1438412335305_028" name="c" temporalId="s3_1_c"><num value="c">(c)</num><content>the offence in respect of which the points have been incurred;</content></paragraph><paragraph id="ID_1438412335305_036" name="d" temporalId="s3_1_d"><num value="d">(d)</num><content>the date when the points were incurred under <ref>section 4(1)</ref> or <ref>5</ref>;</content></paragraph><paragraph id="ID_1438412335305_044" name="e" temporalId="s3_1_e"><num value="e">(e)</num><content>the date of the commission of the offence in respect of which the points were incurred;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/2002/3">3 of 2002 s. 9</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438412335305_052" name="ea" temporalId="s3_1_ea"><num value="ea">(ea)</num><content>if applicable, the date on which the person was issued with a course certificate;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/2002/3">3 of 2002 s. 9</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438412335320_006" name="eb" temporalId="s3_1_eb"><num value="eb">(eb)</num><content>if applicable, the date on which points were deducted, in accordance with <ref>section 6A</ref>, from the total number of points that have been incurred by the person; and<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/2002/3">3 of 2002 s. 9</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438412335320_014" name="f" temporalId="s3_1_f"><num value="f">(f)</num><content>such other information as he thinks fit.</content></paragraph></subsection><subsection id="ID_1438412335320_021" name="2" temporalId="s3_2"><num value="2">(2)</num><content>A document issued under <ref>section 75</ref> of the Road Traffic Ordinance (<ref href="/hk/cap374">Cap. 374</ref>) may contain an extract from the register of points and that section shall apply to that extract as if that extract was a record of a conviction compiled and maintained by the Commissioner of Police under that section.</content></subsection><subsection id="ID_1438412335320_029" name="3" temporalId="s3_3"><num value="3">(3)</num><content>The Commissioner may cancel any entry in the register of points in respect of points incurred more than 5 years before.</content></subsection></section><section id="ID_1438403132306_001" name="s4" reason="inEffect" startPeriod="2021-11-04" status="operational" temporalId="s4"><num value="4">4.</num><heading>Recording of points</heading><subsection id="ID_1438412335351_004" name="1" temporalId="s4_1"><num value="1">(1)</num><leadIn>Subject to <ref>section 6(2)</ref>, where a person—</leadIn><paragraph id="ID_1438412335351_012" name="a" temporalId="s4_1_a"><num value="a">(a)</num><content>is convicted of a scheduled offence; or</content></paragraph><paragraph id="ID_1438412335351_020" name="b" temporalId="s4_1_b"><num value="b">(b)</num><content>becomes liable to a fixed penalty in respect of a scheduled offence,</content></paragraph><continued>he shall incur the appropriate number of points in respect of that offence.</continued></subsection><subsection id="ID_1438412335351_033" name="2" temporalId="s4_2"><num value="2">(2)</num><content>The appropriate number of points in respect of each scheduled offence is that set out opposite that offence in the <ref>Schedule</ref>.</content></subsection><subsection id="ID_1438412335351_041" name="3" temporalId="s4_3"><num value="3">(3)</num><content>The Legislative Council may, by resolution, amend the <ref>Schedule</ref>.</content></subsection></section><section id="ID_1438403132321_001" name="s4A" reason="inEffect" startPeriod="2025-06-15" status="operational" temporalId="s4A"><num value="4A">4A.</num><heading>Cessation of liability to fixed penalty in certain cases</heading><subsection id="ID_1438412335367_048" name="1" temporalId="s4A_1"><num value="1">(1)</num><leadIn>Where a person has become liable to a fixed penalty, and—</leadIn><paragraph id="ID_1438412335383_005" name="a" temporalId="s4A_1_a"><num value="a">(a)</num><content>the
+                    fixed penalty notice or demand notice issued against the person under
+                        <ref>section 3(2)</ref> or <ref>3AA(2)</ref> (as the case may
+                    be)
+                    of the Fixed Penalty (Criminal Proceedings) Ordinance (<ref href="/hk/cap240">Cap. 240</ref>) is withdrawn by the Commissioner of Police, under
+                        <ref>section 4</ref> of that Ordinance;
+                    <sourceNote>(Amended <ref href="hk/2024/13">13 of 2024 s.
+                    72</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438412335383_013" name="b" temporalId="s4A_1_b"><num value="b">(b)</num><content>the order made against him under <ref>section 3A(1)</ref> of that Ordinance is rescinded by a magistrate under <ref>section 3B(1)</ref> of that Ordinance; or</content></paragraph><paragraph id="ID_1438412335383_021" name="c" temporalId="s4A_1_c"><num value="c">(c)</num><content>the order for the payment of a fixed penalty made against him under that Ordinance is rescinded by a magistrate under <ref>section 3B(5)</ref> of that Ordinance,</content></paragraph><continued>as may be appropriate, he shall cease to be liable to the fixed penalty.</continued></subsection><subsection id="ID_1438412335383_034" name="2" temporalId="s4A_2"><num value="2">(2)</num><content>Where a person ceases to be liable to a fixed penalty under subsection (1), the points incurred under the notice or order which has been withdrawn or rescinded, as may be appropriate, shall have no effect and the Commissioner shall cancel the relevant entry in the register of points if he has already made the entry.</content></subsection><sourceNote>(Added <ref href="/hk/1990/81">81 of 1990 s. 3</ref>)</sourceNote></section><section id="ID_1438403132321_003" name="s4B" reason="inEffect" startPeriod="2021-11-04" status="operational" temporalId="s4B"><num value="4B">4B.</num><heading>Revival of liability to fixed penalty in certain cases</heading><leadIn>Where a person ceases to be liable to a fixed penalty in respect of a scheduled offence under <ref>section 4A(1)(b)</ref>, his liability to that fixed penalty revives if, as may be appropriate,—</leadIn><paragraph id="ID_1438412335414_012" name="a" temporalId="s4B_a"><num value="a">(a)</num><content>proceedings in respect of the scheduled offence are subsequently instituted against him and he pays the fixed penalty and additional penalty in respect of that offence and costs in accordance with <ref>section 9</ref> of the Fixed Penalty (Criminal Proceedings) Ordinance (<ref href="/hk/cap240">Cap. 240</ref>); or</content></paragraph><paragraph id="ID_1438412335414_020" name="b" temporalId="s4B_b"><num value="b">(b)</num><content>subsequent to the rescission of an order made against him under <ref>section 3A(1)</ref> of that Ordinance by a magistrate under <ref>section 3B(1)</ref> of that Ordinance, the magistrate orders him to pay the fixed penalty under <ref>section 3B(1)(b)</ref> of that Ordinance.</content></paragraph><sourceNote>(Added <ref href="/hk/1990/81">81 of 1990 s. 3</ref>)</sourceNote></section><section id="ID_1438403132337_002" name="s5" reason="inEffect" startPeriod="2021-11-04" status="operational" temporalId="s5"><num value="5">5.</num><heading>Appeal against conviction</heading><subsection id="ID_1438412335445_004" name="1" temporalId="s5_1"><num value="1">(1)</num><content>Where an appeal against a conviction for manslaughter is allowed to the extent of substituting a conviction for a scheduled offence, the Commissioner shall record the appropriate number of points in respect of that scheduled offence in the register of points; and the appellant shall incur that number of points on the date the appeal is so allowed.</content></subsection><subsection id="ID_1438412335461_005" name="2" temporalId="s5_2"><num value="2">(2)</num><content>Where a person appeals against a conviction for a scheduled offence, the points incurred in respect of that offence shall be of no effect until the appeal is determined and then shall have effect subject to subsections (3) and (4).</content></subsection><subsection id="ID_1438412335461_013" name="3" temporalId="s5_3"><num value="3">(3)</num><content>Where an appeal against a conviction for a<inline class="width_3"> </inline>scheduled offence is allowed, the points incurred in respect of that conviction shall have no effect and the Commissioner shall cancel the entry in the register of points in respect of that conviction.</content></subsection><subsection id="ID_1438412335461_021" name="4" temporalId="s5_4"><num value="4">(4)</num><content>Where an appeal against a conviction for a<inline class="width_3"> </inline>scheduled offence is allowed to the extent of substituting a conviction for another scheduled offence, the Commissioner shall amend the entry in the register of points to record a conviction in respect of that other scheduled offence and the appropriate number of points; and the appellant shall incur that number of points on the date the appeal is so allowed.</content></subsection></section><section id="ID_1438403132353_001" name="s6" reason="inEffect" startPeriod="2021-11-04" status="operational" temporalId="s6"><num value="6">6.</num><heading>Cancellation of points</heading><subsection id="ID_1438412335492_042" name="1" temporalId="s6_1"><num value="1">(1)</num><content>Where a person is disqualified from holding or obtaining a driving licence under <ref>section 8</ref>, the Commissioner shall cancel those entries in respect of that person in the register of points which relate to the offences mentioned in subsection (1) of that section and the points incurred in respect of those offences shall have no effect.</content></subsection><subsection id="ID_1438412335507_005" name="2" temporalId="s6_2"><num value="2">(2)</num><leadIn>Where a person, on being convicted of a scheduled offence, is disqualified under the Road Traffic Ordinance (<ref href="/hk/cap374">Cap. 374</ref>) from holding or obtaining a driving licence—</leadIn><paragraph id="ID_1438412335507_013" name="a" temporalId="s6_2_a"><num value="a">(a)</num><content>no points shall be incurred in respect of that offence or any other offence of which he is convicted on the same occasion; and</content></paragraph><paragraph id="ID_1438412335507_021" name="b" temporalId="s6_2_b"><num value="b">(b)</num><content>the Commissioner shall cancel any entries in respect of that person in the register of points which relate to offences committed before the commission of the offence in respect of which that person is disqualified and the points incurred in respect of those offences shall have no effect.</content></paragraph></subsection></section><section id="ID_1438403132353_003" name="s6A" reason="inEffect" startPeriod="2021-11-04" status="operational" temporalId="s6A"><num value="6A">6A.</num><heading>Deduction of points on completion of driving improvement courses</heading><subsection id="ID_1438412335539_004" name="1" temporalId="s6A_1"><num value="1">(1)</num><content>Subject to subsections (2) and (3), where a person is issued with a course certificate, the Commissioner shall, as soon as practicable thereafter, cause 3 points to be deducted from the total number of points that have been incurred by the person under <ref>section 4</ref>.</content></subsection><subsection id="ID_1438412335539_012" name="2" temporalId="s6A_2"><num value="2">(2)</num><leadIn>No point may be deducted under subsection (1) if, on the date the person completes the driving improvement course in relation to which he is issued with the course certificate—</leadIn><paragraph id="ID_1438412335539_020" name="a" temporalId="s6A_2_a"><num value="a">(a)</num><leadIn>the person—</leadIn><subparagraph id="ID_1438412335539_028" name="i" temporalId="s6A_2_a_i"><num value="i">(i)</num><content>has not incurred any point; or</content></subparagraph><subparagraph id="ID_1438412335539_036" name="ii" temporalId="s6A_2_a_ii"><num value="ii">(ii)</num><content>has incurred 15 or more points; or</content></subparagraph></paragraph><paragraph id="ID_1438412335539_043" name="b" temporalId="s6A_2_b"><num value="b">(b)</num><content>the Commissioner has within the past 2 years deducted points under subsection (1) from the total number of points incurred by the person.</content></paragraph></subsection><subsection id="ID_1438412335539_050" name="3" temporalId="s6A_3"><num value="3">(3)</num><content>If, on the date the person completes the driving improvement course in relation to which he is issued with the course certificate, an appeal under <ref>section 5(2)</ref> against a conviction for a scheduled offence that the person committed within the past 2 years is in progress, no point may be deducted under subsection (1) pending the determination of the appeal.</content></subsection><subsection id="ID_1438412335554_005" name="4" temporalId="s6A_4"><num value="4">(4)</num><leadIn>The points deducted under subsection (1)—</leadIn><paragraph id="ID_1438412335554_013" name="a" temporalId="s6A_4_a"><num value="a">(a)</num><content>are deemed to have been deducted on the date the person completes the driving improvement course in relation to which he is issued with the course certificate; and</content></paragraph><paragraph id="ID_1438412335554_021" name="b" temporalId="s6A_4_b"><num value="b">(b)</num><content>are, for the purposes of <ref>sections 7</ref> and <ref>8</ref>, deemed not to have been incurred by the person.</content></paragraph></subsection><sourceNote>(Added <ref href="/hk/2002/3">3 of 2002 s. 10</ref>)</sourceNote></section><section id="ID_1438403132384_001" name="s7" reason="inEffect" startPeriod="2021-11-04" status="operational" temporalId="s7"><num value="7">7.</num><heading>Notice of points</heading><subsection id="ID_1438412335585_004" name="1" temporalId="s7_1"><num value="1">(1)</num><leadIn>Subject to <ref>sections 4A</ref>, <ref>5</ref> and <ref>6</ref>, where 8 or more, but less than 15, points have been incurred by a person, the Commissioner shall serve on that person a<inline class="width_3"> </inline>notice informing him—  <sourceNote>(Amended <ref href="/hk/1986/44">44 of 1986 s. 2</ref>; <ref href="/hk/1990/81">81 of 1990 s. 4</ref>)</sourceNote></leadIn><paragraph id="ID_1438412335585_012" name="a" temporalId="s7_1_a"><num value="a">(a)</num><content>of the number of points incurred by him; and</content></paragraph><paragraph id="ID_1438412335585_020" name="b" temporalId="s7_1_b"><num value="b">(b)</num><content>that if 15 or more points are incurred by him in respect of offences which are committed within a period of 2 years of each other, he will be disqualified from holding or obtaining a driving licence.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1983/63">63 of 1983 s. 2</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438412335585_027" name="2" temporalId="s7_2"><num value="2">(2)</num><content>The operation of <ref>section 8</ref> shall not be affected by a failure to comply with subsection (1).</content></subsection><subsection id="ID_1438412335585_035" name="3" temporalId="s7_3"><num value="3">(3)</num><content>For the purposes of subsection (1), in calculating the number of points incurred by a person, any deduction of points in accordance with <ref>section 6A</ref> shall be taken into account.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/2002/3">3 of 2002 s. 11</ref>)</sourceNote></content></subsection></section><section id="ID_1438403132384_003" name="s8" reason="inEffect" startPeriod="2021-11-04" status="operational" temporalId="s8"><num value="8">8.</num><heading>Disqualification</heading><subsection id="ID_1438412335617_004" name="1" temporalId="s8_1"><num value="1">(1)</num><content>Subject to <ref>sections 4A</ref>, <ref>5</ref> and <ref>6</ref>, where 15 or more points have been incurred by a person in respect of offences which were committed within a period of 2 years of each other, he shall be liable to be disqualified from holding or obtaining a driving licence in accordance with this section.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1990/81">81 of 1990 s. 5</ref>)</sourceNote></content></subsection><subsection id="ID_1438412335617_012" name="2" temporalId="s8_2"><num value="2">(2)</num><content>Where the circumstances mentioned in subsection (1) arise in relation to any person, the Commissioner shall apply to a magistrate by way of complaint for the issue of a summons and a summons may be issued specifying the date of the commission of, and the number of points incurred in respect of, each offence mentioned in subsection (1).</content></subsection><subsection id="ID_1438412335632_005" name="3" temporalId="s8_3"><num value="3">(3)</num><leadIn>Upon the hearing of the summons and upon being satisfied that the circumstances set out in subsection (1) apply to the person on whom the summons was served, the magistrate shall order him to be disqualified from holding or obtaining a driving licence—</leadIn><paragraph id="ID_1438412335632_013" name="a" temporalId="s8_3_a"><num value="a">(a)</num><content>for a period of 3 months from the date of the order if no previous disqualification has been imposed on him under this Ordinance; and</content></paragraph><paragraph id="ID_1438412335632_021" name="b" temporalId="s8_3_b"><num value="b">(b)</num><content>for a period of 6 months from the date of the order if any previous disqualification has been imposed on him under this Ordinance,</content></paragraph><continued>unless the magistrate is satisfied, having regard to all the circumstances not excluded by subsection (4), that there are grounds to order a shorter period of disqualification or not to order him to be disqualified.</continued></subsection><subsection id="ID_1438412335632_034" name="4" temporalId="s8_4"><num value="4">(4)</num><leadIn>No account shall be taken under subsection (3) of—</leadIn><paragraph id="ID_1438412335632_042" name="a" temporalId="s8_4_a"><num value="a">(a)</num><content>any circumstances that are alleged to make the offence not a serious one;</content></paragraph><paragraph id="ID_1438412335632_050" name="b" temporalId="s8_4_b"><num value="b">(b)</num><content>hardship, other than exceptional hardship; or</content></paragraph><paragraph id="ID_1438412335648_006" name="c" temporalId="s8_4_c"><num value="c">(c)</num><content>any circumstances which, within 2 years immediately preceding the issue of the summons under subsection (2), have been taken into account under subsection (3) in ordering a shorter period of disqualification or not ordering a disqualification.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1983/63">63 of 1983 s. 3</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438412335648_013" name="4A" temporalId="s8_4A"><num value="4A">(4A)</num><content>Account shall be taken under subsection (1) of any deduction of points in accordance with <ref>section 6A</ref>.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/2002/3">3 of 2002 s. 12</ref>)</sourceNote></content></subsection><subsection id="ID_1438412335648_021" name="5" temporalId="s8_5"><num value="5">(5)</num><sourceNote>(Repealed <ref href="/hk/1990/81">81 of 1990 s. 5</ref>)</sourceNote></subsection><subsection id="ID_1438412335648_029" name="6" temporalId="s8_6"><num value="6">(6)</num><content>Any disqualification imposed under subsection (3) shall apply to the driving of all classes of motor vehicles shown on the driving licence.</content></subsection><subsection id="ID_1438412335648_037" name="7" temporalId="s8_7"><num value="7">(7)</num><content>Where a person is disqualified under this section, his driving licence, international driving permit, domestic driving permit and domestic driving licence, if any, whether obtained before or during the period of disqualification, shall be of no effect so long as the disqualification continues in force.<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/1990/81">81 of 1990 s. 5</ref>)</sourceNote></content></subsection><subsection id="ID_1438412335663_005" name="8" temporalId="s8_8"><num value="8">(8)</num><sourceNote>(Repealed <ref href="/hk/1990/81">81 of 1990 s. 5</ref>)</sourceNote></subsection></section><section id="ID_1438403132399_002" name="s8AA" reason="inEffect" startPeriod="2021-11-04" status="operational" temporalId="s8AA"><num value="8AA">8AA.</num><heading>Obligatory attendance of driving improvement courses</heading><subsection id="ID_1438412335695_004" name="1" temporalId="s8AA_1"><num value="1">(1)</num><leadIn>Subject to <ref>sections 4A</ref>, <ref>5</ref> and <ref>6</ref>, where a person incurs 10 or more points in respect of offences that were committed during a period of 2 years, the person shall attend and complete a driving improvement course at his own cost—</leadIn><paragraph id="ID_1438412335695_012" name="a" temporalId="s8AA_1_a"><num value="a">(a)</num><content>within 3 months after the date of a notice served on him under subsection (2); or</content></paragraph><paragraph id="ID_1438412335695_020" name="b" temporalId="s8AA_1_b"><num value="b">(b)</num><content>if the Commissioner has fixed a longer period under subsection (3), within the period after the date of a notice served on him under subsection (2).</content></paragraph></subsection><subsection id="ID_1438412335695_027" name="2" temporalId="s8AA_2"><num value="2">(2)</num><leadIn>For the purposes of subsection (1), the Commissioner shall serve on the person a notice—</leadIn><paragraph id="ID_1438412335695_035" name="a" temporalId="s8AA_2_a"><num value="a">(a)</num><leadIn>specifying—</leadIn><subparagraph id="ID_1438412335695_043" name="i" temporalId="s8AA_2_a_i"><num value="i">(i)</num><content>the number of points incurred by him; and</content></subparagraph><subparagraph id="ID_1438412335695_051" name="ii" temporalId="s8AA_2_a_ii"><num value="ii">(ii)</num><content>the offence in respect of which the points have been incurred; and</content></subparagraph></paragraph><paragraph id="ID_1438412335695_058" name="b" temporalId="s8AA_2_b"><num value="b">(b)</num><content>informing him that he shall attend and complete a driving improvement course at his own cost in accordance with subsection <ref>(1)(a)</ref> or (b).</content></paragraph></subsection><subsection id="ID_1438412335710_005" name="3" temporalId="s8AA_3"><num value="3">(3)</num><leadIn>If the Commissioner, on an application by the person, considers that the person is not able to, or has failed to, attend and complete a driving improvement course at his own cost within 3 months after the date of the notice with reasonable excuse, the Commissioner—</leadIn><paragraph id="ID_1438412335710_013" name="a" temporalId="s8AA_3_a"><num value="a">(a)</num><content>may fix a longer period within which the person shall attend and complete the course for the purposes of subsection (1); and</content></paragraph><paragraph id="ID_1438412335710_021" name="b" temporalId="s8AA_3_b"><num value="b">(b)</num><content>shall, as soon as practicable after fixing the period, notify the person of his decision.</content></paragraph></subsection><subsection id="ID_1438412335710_028" name="4" temporalId="s8AA_4"><num value="4">(4)</num><content>An application for the purposes of subsection (3) is to be made by the person in writing to the Commissioner before the end of the period of 3 months.</content></subsection><subsection id="ID_1438412335710_036" name="5" temporalId="s8AA_5"><num value="5">(5)</num><content>A person who, without reasonable excuse, contravenes subsection (1) commits an offence and is liable on conviction to a fine at level 2 and to imprisonment for 1 month.</content></subsection><subsection id="ID_1438412335710_044" name="6" temporalId="s8AA_6"><num value="6">(6)</num><content>If a court or magistrate convicts a person of an offence under subsection (5), the court or magistrate shall order the person to attend and complete a driving improvement course at his own cost within the period specified in the order, unless the court or magistrate for special reasons decides not to make such an order.</content></subsection><subsection id="ID_1438412335726_005" name="7" temporalId="s8AA_7"><num value="7">(7)</num><content>A person who, without reasonable excuse, fails to comply with the order made under subsection (6) commits an offence and is liable on conviction to a fine at level 3 and to imprisonment for 2 months.</content></subsection><subsection id="ID_1438412335726_013" name="8" temporalId="s8AA_8"><num value="8">(8)</num><content>If a court or magistrate convicts a person of an offence under subsection (7), and the person is not disqualified, the court or magistrate shall order that the person be disqualified for a period of not less than 3 months, or until the person has attended and completed a driving improvement course at his own cost, whichever is the later, unless the court or magistrate for special reasons orders that the person be disqualified for a shorter period or that the person not be disqualified.</content></subsection><subsection id="ID_1438412335741_005" name="9" temporalId="s8AA_9"><num value="9">(9)</num><content>If a person is ordered to attend and complete a driving improvement course under subsection (6), he may appeal against the order in like manner as if it were an order made against him for the payment of a fine.</content></subsection><subsection id="ID_1438412335741_013" name="10" temporalId="s8AA_10"><num value="10">(10)</num><content>If a person appeals against an order under subsection (9), the period specified in the order within which the person is required to attend and complete a driving improvement course does not commence or continue to run, as the case may be, until the appeal is withdrawn or dismissed.</content></subsection><subsection id="ID_1438412335741_021" name="11" temporalId="s8AA_11"><num value="11">(11)</num><content>For the purposes of subsection (8), a person is disqualified for a shorter period if he is disqualified for a period of less than 3 months, or until the person has attended and completed a driving improvement course at his own cost, whichever is the later.</content></subsection><sourceNote>(Added <ref href="/hk/2008/23">23 of 2008 s. 59</ref>)</sourceNote></section><section id="ID_1438403132415_002" name="s8A" reason="inEffect" startPeriod="2021-11-04" status="operational" temporalId="s8A"><num value="8A">8A.</num><heading>Calculation of points</heading><subsection id="ID_1438412335788_018" name="1" temporalId="s8A_1"><num value="1">(1)</num><leadIn>In calculating the number of points incurred for the purposes of <ref>sections 7</ref>, <ref>8</ref> and <ref>8AA</ref>, where 2 or more of the offences in respect of which points have been incurred are constituted by the same, or substantially the same, act,—  <sourceNote>(Amended <ref href="/hk/2008/23">23 of 2008 s. 60</ref>)</sourceNote></leadIn><paragraph id="ID_1438412335788_026" name="a" temporalId="s8A_1_a"><num value="a">(a)</num><content>only that offence attracting the highest number of points; or</content></paragraph><paragraph id="ID_1438412335788_034" name="b" temporalId="s8A_1_b"><num value="b">(b)</num><content>where those offences each attract the same number of points, only one of those offences,</content></paragraph><continued>shall be taken into account.</continued></subsection><subsection id="ID_1438412335804_011" name="2" temporalId="s8A_2"><num value="2">(2)</num><content>If a person, on being convicted of an offence in any proceedings, is ordered under <ref>section 72A(1)(b)</ref> or (1A) of the Road Traffic Ordinance (<ref href="/hk/cap374">Cap. 374</ref>) to attend and complete a driving improvement course, that offence, or any scheduled offence of which he is convicted in those proceedings, is not to be taken into account in calculating the number of points incurred by the person for the purposes of <ref>section 8AA</ref>.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/2008/23">23 of 2008 s. 60</ref>)</sourceNote></content></subsection><subsection id="ID_1438412335804_019" name="3" temporalId="s8A_3"><num value="3">(3)</num><leadIn>Subsection (4) applies—</leadIn><paragraph id="ID_1438412335804_027" name="a" temporalId="s8A_3_a"><num value="a">(a)</num><leadIn>if—</leadIn><subparagraph id="ID_1438412335804_035" name="i" temporalId="s8A_3_a_i"><num value="i">(i)</num><content>a person, on having incurred 10 or more points, is required to attend and complete a driving improvement course under <ref>section 8AA(1)</ref>;</content></subparagraph><subparagraph id="ID_1438412335804_043" name="ii" temporalId="s8A_3_a_ii"><num value="ii">(ii)</num><content>a notice is served on the person under <ref>section 8AA(2)</ref> on the requirement; and</content></subparagraph><subparagraph id="ID_1438412335819_007" name="iii" temporalId="s8A_3_a_iii"><num value="iii">(iii)</num><content>the person has attended and completed a driving improvement course;</content></subparagraph></paragraph><paragraph id="ID_1438412335819_014" name="b" temporalId="s8A_3_b"><num value="b">(b)</num><leadIn>if—</leadIn><subparagraph id="ID_1438412335819_022" name="i" temporalId="s8A_3_b_i"><num value="i">(i)</num><content>a person, on having incurred 10 or more points, is required to attend and complete a driving improvement course under <ref>section 8AA(1)</ref>; and</content></subparagraph><subparagraph id="ID_1438412335819_030" name="ii" temporalId="s8A_3_b_ii"><num value="ii">(ii)</num><content>the person has, on his own initiative, attended and completed a driving improvement course before a notice is served on him under <ref>section 8AA(2)</ref> on the requirement; or</content></subparagraph></paragraph><paragraph id="ID_1438412335819_037" name="c" temporalId="s8A_3_c"><num value="c">(c)</num><content>if a person has, on his own initiative, attended and completed a driving improvement course before he is required to do so under <ref>section 8AA(1)</ref>.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/2008/23">23 of 2008 s. 60</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438412335819_044" name="4" temporalId="s8A_4"><num value="4">(4)</num><leadIn>In calculating the number of points incurred by the person for the purposes of <ref>section 8AA</ref> as at the date of completion of the driving improvement course—</leadIn><paragraph id="ID_1438412335819_052" name="a" temporalId="s8A_4_a"><num value="a">(a)</num><content>the person under subsection <ref>(3)(a)</ref> or (b) no longer incurs the number of points specified in the notice served on him under <ref>section 8AA(2)</ref>; and</content></paragraph><paragraph id="ID_1438412335819_060" name="b" temporalId="s8A_4_b"><num value="b">(b)</num><content>the person under subsection <ref>(3)(c)</ref> no longer incurs any number of points that was incurred immediately before the date of completion of the course.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/2008/23">23 of 2008 s. 60</ref>)</sourceNote></content></paragraph></subsection><sourceNote>(Added <ref href="/hk/1990/81">81 of 1990 s. 6</ref>)</sourceNote></section><section id="ID_1438403132431_001" name="s9" reason="inEffect" startPeriod="2021-11-04" status="operational" temporalId="s9"><num value="9">9.</num><heading>Evidence</heading><subsection id="ID_1438412335866_004" name="1" temporalId="s9_1"><num value="1">(1)</num><leadIn>A certificate stating—</leadIn><paragraph id="ID_1438412335866_012" name="a" temporalId="s9_1_a"><num value="a">(a)</num><content>that the person named in it was convicted of, or became liable to fixed penalties in respect of, the scheduled offences specified;</content></paragraph><paragraph id="ID_1438412335866_020" name="b" temporalId="s9_1_b"><num value="b">(b)</num><content>the dates upon which the person was convicted or became liable to the fixed penalties;</content></paragraph><paragraph id="ID_1438412335866_028" name="c" temporalId="s9_1_c"><num value="c">(c)</num><content>the dates of the commission of the offences in respect of which the person was convicted or became liable to the fixed penalties;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/2002/3">3 of 2002 s. 13</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438412335866_036" name="d" temporalId="s9_1_d"><num value="d">(d)</num><content>the number of points incurred in respect of each of the offences;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/2002/3">3 of 2002 s. 13</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438412335882_006" name="e" temporalId="s9_1_e"><num value="e">(e)</num><content>if applicable, the date on which the person was issued with a course certificate; and<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/2002/3">3 of 2002 s. 13</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438412335882_014" name="f" temporalId="s9_1_f"><num value="f">(f)</num><content>if applicable, the date on which points were deducted, in accordance with <ref>section 6A</ref>, from the total number of points that have been incurred by the person,<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/2002/3">3 of 2002 s. 13</ref>)</sourceNote></content></paragraph><continued>and purporting to be signed by or on behalf of the Commissioner shall be admitted in any proceedings under <ref>section 8</ref> on its production without further proof; and—</continued><paragraph id="ID_1438412335882_028" name="i" temporalId="s9_1_i"><num value="i">(i)</num><content>until the contrary is proved, the magistrate shall presume that the certificate is so signed;</content></paragraph><paragraph id="ID_1438412335882_036" name="ii" temporalId="s9_1_ii"><num value="ii">(ii)</num><content>until the contrary is proved, the magistrate shall presume that the person named in the certificate is the person named in the proceedings; and</content></paragraph><paragraph id="ID_1438412335882_044" name="iii" temporalId="s9_1_iii"><num value="iii">(iii)</num><content>the certificate shall be prima facie evidence of the facts stated therein.</content></paragraph></subsection><subsection id="ID_1438412335882_051" name="2" temporalId="s9_2"><num value="2">(2)</num><content>Where a person on whom a summons issued under <ref>section 8(2)</ref> is served in accordance with <ref>section 14A</ref> alleges that a certificate mentioned in this section is incorrect, the magistrate shall give him an opportunity to apply to the Commissioner under <ref>section 13</ref> and may adjourn the hearing for this purpose.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/2009/4">4 of 2009 s. 2</ref>)</sourceNote></content></subsection><subsection id="ID_1438412335897_005" name="3" temporalId="s9_3"><num value="3">(3)</num><leadIn>A certificate stating that—</leadIn><paragraph id="ID_1438412335897_013" name="a" temporalId="s9_3_a"><num value="a">(a)</num><content>the person named in it was disqualified from holding or obtaining a driving licence under <ref>section 8</ref> of this Ordinance;</content></paragraph><paragraph id="ID_1438412335897_021" name="b" temporalId="s9_3_b"><num value="b">(b)</num><content>the date upon which such disqualification was imposed; and</content></paragraph><paragraph id="ID_1438412335897_029" name="c" temporalId="s9_3_c"><num value="c">(c)</num><content>the period of such disqualification,</content></paragraph><continued>and purporting to be signed by or on behalf of the Commissioner shall be admitted in any proceedings before any court without further proof; and—</continued><paragraph id="ID_1438412335897_043" name="i" temporalId="s9_3_i"><num value="i">(i)</num><content>until the contrary is proved, the court shall presume that the certificate is so signed;</content></paragraph><paragraph id="ID_1438412335897_051" name="ii" temporalId="s9_3_ii"><num value="ii">(ii)</num><content>until the contrary is proved, the court shall presume that the person named in the certificate is the person named in the proceedings; and</content></paragraph><paragraph id="ID_1438412335897_059" name="iii" temporalId="s9_3_iii"><num value="iii">(iii)</num><content>the certificate shall be prima facie evidence of the facts stated therein.</content></paragraph></subsection></section><section id="ID_1438403132431_003" name="s10" reason="inEffect" startPeriod="2021-11-04" status="operational" temporalId="s10"><num value="10">10.</num><heading>Deposit of driving licence</heading><content>Where a magistrate makes an order under <ref>section 8</ref> that a person shall be disqualified from holding or obtaining a driving licence and at the date of such order the person holds a driving licence, an international driving permit, a domestic driving permit or a domestic driving licence, he shall deposit the licence or permit with the magistrate within 72 hours of the making of the order or such longer period as the magistrate may determine.</content><sourceNote>(Amended <ref href="/hk/1990/81">81 of 1990 s. 7</ref>)</sourceNote></section><section id="ID_1438403132446_002" name="s11" reason="inEffect" startPeriod="2025-09-15" status="operational" temporalId="s11"><num value="11">11.</num><heading>Notice of order</heading><leadIn>If a magistrate orders under <ref>section 8</ref> that a person be disqualified from
+            holding or obtaining a driving licence, the magistrate must—</leadIn><paragraph id="ID_1757399942191_001" name="a" temporalId="s11_a"><num value="a">(a)</num><content>immediately cause a notice of the order to be sent to the Commissioner and the
+                Commissioner of Police; and</content></paragraph><paragraph id="ID_1757399942191_002" name="b" temporalId="s11_b"><num value="b">(b)</num><content>if on the date of the order the person holds a driving licence, an
+                international driving permit, a domestic driving permit or a domestic driving
+                licence—cause the licence or permit to be forwarded to the Commissioner as soon as
+                it is deposited with the magistrate in accordance with <ref>section
+                10</ref>.</content></paragraph><sourceNote>(Replaced <ref href="/hk/2025/26">26 of 2025 s. 19</ref>)</sourceNote></section><section id="ID_1438403132462_001" name="s11A" reason="inEffect" startPeriod="2021-11-04" status="operational" temporalId="s11A"><num value="11A">11A.</num><heading>Surrendered licence or permit of a visiting driver</heading><leadIn>Where, pursuant to <ref>section 11</ref>, a magistrate has forwarded to the Commissioner an
+            international driving permit, a domestic driving permit or a domestic driving licence of
+            a person who has been ordered to be disqualified from holding or obtaining a driving
+            licence, the
+            Commissioner
+            shall—</leadIn><paragraph id="ID_1438412335975_019" name="a" temporalId="s11A_a"><num value="a">(a)</num><content>record particulars of the disqualification on the permit or licence;</content></paragraph><paragraph id="ID_1438412335975_027" name="b" temporalId="s11A_b"><num value="b">(b)</num><content>send the holder’s name and address together with the particulars of disqualification to the authority by whom the permit or licence was issued; and</content></paragraph><paragraph id="ID_1438412335975_035" name="c" temporalId="s11A_c"><num value="c">(c)</num><content>withhold the permit or licence until the holder leaves Hong Kong or until the period of disqualification expires, whichever is the earlier.</content></paragraph><sourceNote>(Added <ref href="/hk/1990/81">81 of 1990 s. 9</ref>)</sourceNote></section><section id="ID_1438403132462_003" name="s12" reason="inEffect" startPeriod="2021-11-04" status="operational" temporalId="s12"><num value="12">12.</num><heading>Offence and penalty</heading><subsection id="ID_1438412335991_041" name="1" temporalId="s12_1"><num value="1">(1)</num><content>Any person against whom an order under <ref>section 8</ref> is made who fails,
+                without reasonable excuse, to comply with <ref>section 10</ref> commits an offence
+                and is liable to a fine
+                at
+                level 2 and to imprisonment for 1
+                    month.<inline class="width_3"> </inline></content></subsection><subsection id="ID_1438412336007_005" name="2" temporalId="s12_2"><num value="2">(2)</num><leadIn>If a person disqualified under this Ordinance from holding or obtaining a
+                driving licence—</leadIn><paragraph id="ID_1438412336007_013" name="a" temporalId="s12_2_a"><num value="a">(a)</num><content>applies for or obtains a driving licence while he is so disqualified;
+                    or</content></paragraph><paragraph id="ID_1438412336007_021" name="b" temporalId="s12_2_b"><num value="b">(b)</num><content>while he is so disqualified drives a motor vehicle,</content></paragraph><continued>he commits an offence and is liable to a
+                fine
+                at level
+                3
+                and to imprisonment for 12
+                months.</continued></subsection><sourceNote>(Amended <ref href="/hk/2021/er5">E.R. 5 of 2021</ref>)</sourceNote></section><section id="ID_1438403132477_001" name="s13" reason="inEffect" startPeriod="2021-11-04" status="operational" temporalId="s13"><num value="13">13.</num><heading>Correction of record</heading><subsection id="ID_1438412336022_041" name="1" temporalId="s13_1"><num value="1">(1)</num><content>Where the Commissioner is of the opinion that an entry in the register of points in respect of any person is incorrect, he shall, after consultation with the Commissioner of Police, rectify the register and shall in writing notify that person of the rectification.</content></subsection><subsection id="ID_1438412336038_005" name="2" temporalId="s13_2"><num value="2">(2)</num><content>Any person, who considers that an entry in the register of points in respect of him is incorrect, may apply, with such information as the Commissioner may require, for rectification of the register.</content></subsection><subsection id="ID_1438412336038_013" name="3" temporalId="s13_3"><num value="3">(3)</num><leadIn>Upon receipt of any application under subsection (2), the Commissioner shall examine the register of points and if he is satisfied—</leadIn><paragraph id="ID_1438412336038_021" name="a" temporalId="s13_3_a"><num value="a">(a)</num><content>that the register is correct, refuse to rectify it; or</content></paragraph><paragraph id="ID_1438412336038_029" name="b" temporalId="s13_3_b"><num value="b">(b)</num><content>that the register is incorrect, rectify it,</content></paragraph><continued>and shall in writing notify the applicant of his decision.</continued></subsection></section><section id="ID_1438403132493_001" name="s14" reason="inEffect" startPeriod="2021-11-04" status="operational" temporalId="s14"><num value="14">14.</num><heading>Service of
+            notice</heading><sourceNote>(Replaced <ref href="/hk/2009/4">4 of 2009 s. 3</ref>)</sourceNote><content>Any notice required under this Ordinance to be given to any person may be served on
+            him in person or by forwarding it by post or registered post to his address shown in the
+            record of driving licences kept by the Commissioner under the Road Traffic Ordinance
+                (<ref href="/hk/cap374">Cap. 374</ref>).</content><sourceNote><inline class="width_3"> </inline>(Amended <ref href="/hk/2008/23">23 of 2008 s.
+                61</ref>)</sourceNote></section><section id="ID_1438403132493_003" name="s14A" reason="inEffect" startPeriod="2021-11-04" status="operational" temporalId="s14A"><num value="14A">14A.</num><heading>Service of summons</heading><subsection id="ID_1438412336069_039" name="1" temporalId="s14A_1"><num value="1">(1)</num><content>A summons issued under <ref>section 8(2)</ref> may be served on a person by hand in accordance with subsection (2) or by post in accordance with subsection (3).</content></subsection><subsection id="ID_1438412336069_047" name="2" temporalId="s14A_2"><num value="2">(2)</num><leadIn>If the summons is to be served on a person by hand, the summons must be served by a police officer, usher or other officer of a magistrate’s court—</leadIn><paragraph id="ID_1438412336069_055" name="a" temporalId="s14A_2_a"><num value="a">(a)</num><content>delivering it to the person personally; or</content></paragraph><paragraph id="ID_1438412336085_006" name="b" temporalId="s14A_2_b"><num value="b">(b)</num><content>leaving it with a third person for the person at the person’s address shown in the record of driving licences kept by the Commissioner under the Road Traffic Ordinance (<ref href="/hk/cap374">Cap. 374</ref>).</content></paragraph></subsection><subsection id="ID_1438412336085_013" name="3" temporalId="s14A_3"><num value="3">(3)</num><content>If the summons is to be served on a person by post, the summons must be served by forwarding it by ordinary post or registered post to the person by prepaying and posting an envelope addressed to the person at the person’s address shown in the record of driving licences kept by the Commissioner under the Road Traffic Ordinance (<ref href="/hk/cap374">Cap. 374</ref>) and containing the summons.</content></subsection><subsection id="ID_1438412336085_021" name="4" temporalId="s14A_4"><num value="4">(4)</num><content>If the summons is served by ordinary post, and the person to be served fails to appear at the time and place specified in the summons for the appearance of the person, the service is deemed to have never been effected and the summons must then be served on the person by hand or by registered post.</content></subsection><subsection id="ID_1438412336100_005" name="5" temporalId="s14A_5"><num value="5">(5)</num><content>If the summons is served by registered post, the summons is deemed to have been served at the time at which it would have been delivered in the ordinary course of post, even if it is returned through the post undelivered to the person to be served.</content></subsection><sourceNote>(Added <ref href="/hk/2009/4">4 of 2009 s. 4</ref>)</sourceNote></section><section id="ID_1438403132509_001" name="s15" reason="inEffect" startPeriod="2021-11-04" status="operational" temporalId="s15"><num value="15">15.</num><heading>Delegation</heading><content>The Commissioner may delegate any of his functions under this Ordinance to any public officer.</content></section><section id="ID_1438403132509_003" name="s16" reason="inEffect" startPeriod="2021-11-04" status="operational" temporalId="s16"><num value="16">16.</num><heading>Procedure</heading><subsection id="ID_1438412336131_011" name="1" temporalId="s16_1"><num value="1">(1)</num><content>Where a summons issued under <ref>section 8(2)</ref> has been served on a person in accordance with <ref>section 14A</ref> a reasonable time before the hearing and that person fails to appear at the hearing, the magistrate may proceed to deal with the matter in the absence of that person.</content></subsection><subsection id="ID_1438412336131_019" name="1A" temporalId="s16_1A"><num value="1A">(1A)</num><content>Subsection (1) does not empower the magistrate to order a person to be disqualified from holding or obtaining a driving licence in the absence of that person.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/2009/4">4 of 2009 s. 5</ref>)</sourceNote></content></subsection><subsection id="ID_1438412336147_005" name="2" temporalId="s16_2"><num value="2">(2)</num><content>Subject to subsections (1) and (1A), the Magistrates Ordinance (<ref href="/hk/cap227">Cap. 227</ref>) shall apply, with any necessary adaptations and as far as it is consistent with this Ordinance, to proceedings under this Ordinance as it applies to proceedings in respect of a summary offence.</content></subsection><sourceNote>(Amended <ref href="/hk/2009/4">4 of 2009 s. 5</ref>)</sourceNote></section><section id="ID_1438403132524_001" name="s17" reason="inEffect" startPeriod="2021-11-04" status="operational" temporalId="s17"><num value="17">17.</num><heading>Application to persons in public service of State</heading><text>This Ordinance shall apply to persons in the public service of the State.</text><sourceNote>(Amended <ref href="/hk/2002/3">3 of 2002 s. 16</ref>)</sourceNote></section><schedule id="ID_1438403132540_001" name="sch0" reason="inEffect" startPeriod="2025-05-31" status="operational" temporalId="sch0"><num value="0">Schedule</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap375/s2">ss.
+                2</ref> &amp; <ref href="/hk/cap375/s4">4</ref>]</note><sourceNote>(Format changes—<ref href="/hk/2012/er2">E.R. 2 of 2012</ref>)</sourceNote><text>
+            
+            <table xmlns="http://www.w3.org/1999/xhtml" width="100%" class="repeat_header">
+                
+                <col width="10%"></col>
+                
+                <col width="30%"></col>
+                
+                <col width="50%"></col>
+                
+                <col width="10%"></col>
+                
+                <thead>
+                    <tr>
+                        <td colspan="4" class="align_center">
+                            <p>Offence</p>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <p><br></br>Item</p>
+                            
+                            <br></br>
+                            
+                        </td>
+                        
+                        <td class="align_center">
+                            
+                            <p>Section, Regulation<br></br>or By-law<br></br></p>
+                            
+                            
+                        </td>
+                        
+                        <td class="align_center">
+                            
+                            <p>Description of general<br xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"></br>nature of
+                                offence<br></br></p>
+                            
+                            
+                        </td>
+                        
+                        <td class="align_right">
+                            <p><br xmlns="http://www.xml.gov.hk/schemas/hklm/1.0"></br>Points</p>
+                            
+                            
+                            <br></br>
+                            
+                        </td>
+                    </tr>
+                </thead>
+                <tr>
+                    <td>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    
+                    <td align="char">
+                        
+                        
+                        <p>Road
+                            Traffic
+                            Ordinance (<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap374">Cap. 374</ref>)</p>
+                        
+                    </td>
+                    <td>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        
+                        <p>1</p>
+                    </td>
+                    <td>
+                        
+                        <p><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Section
+                            36(1)</ref></p>
+                    </td>
+                    
+                    <td align="char">
+                        
+                        <p>Causing death by dangerous driving</p>
+                    </td>
+                    <td>
+                        <p class="align_right">10</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p class="first_line_indent_0">1A</p>
+                    </td>
+                    <td>
+                        <p class="first_line_indent_0"><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Section
+                            36A(1)</ref></p>
+                    </td>
+                    <td>
+                        <p class="first_line_indent_0">Causing grievous bodily harm by dangerous
+                            driving</p>
+                    </td>
+                    <td>
+                        <p class="align_right">10</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        
+                        <p>2</p>
+                    </td>
+                    <td>
+                        
+                        <p><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Section
+                            37(1)</ref></p>
+                    </td>
+                    
+                    <td align="char">
+                        
+                        <p>Dangerous driving</p>
+                    </td>
+                    <td>
+                        <p class="align_right">10</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        
+                        <p>3</p>
+                    </td>
+                    <td>
+                        
+                        <p><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Section
+                            38(1)</ref></p>
+                    </td>
+                    <td>
+                        
+                        <p>Careless driving</p>
+                    </td>
+                    <td>
+                        <p class="align_right">5</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        
+                        <p>4</p>
+                    </td>
+                    <td>
+                        
+                        <p><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Section 39</ref></p>
+                    </td>
+                    
+                    <td align="char">
+                        
+                        <p>Driving, attempting to drive or being in charge of a motor vehicle under
+                            the influence of drink</p>
+                    </td>
+                    <td>
+                        <p class="align_right">10</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        
+                        <p>4A</p>
+                    </td>
+                    <td>
+                        
+                        <p><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Section 39A</ref></p>
+                    </td>
+                    
+                    <td align="char">
+                        
+                        <p>Driving, attempting to drive or being in charge of a motor vehicle with
+                            alcohol concentration above prescribed limit</p>
+                    </td>
+                    <td>
+                        <p class="align_right">10</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        
+                        <p>4B</p>
+                    </td>
+                    <td>
+                        
+                        <p><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Section
+                            39B(6)</ref></p>
+                    </td>
+                    
+                    <td align="char">
+                        
+                        <p>Failing to provide a specimen of breath for screening breath test without
+                            reasonable excuse</p>
+                    </td>
+                    <td>
+                        <p class="align_right">10</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        
+                        <p>4C</p>
+                    </td>
+                    <td>
+                        
+                        <p><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Section
+                            39C(15)</ref></p>
+                    </td>
+                    
+                    <td align="char">
+                        
+                        <p>Failing to provide a specimen of breath for breath analysis or a specimen
+                            of blood or urine for laboratory test, or failing to give consent to
+                            laboratory test of a specimen of blood, without reasonable excuse</p>
+                    </td>
+                    <td>
+                        <p class="align_right">10</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p class="first_line_indent_0">4D</p>
+                    </td>
+                    <td>
+                        
+                        <p><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Section
+                            39J(1)</ref></p>
+                    </td>
+                    
+                    <td align="char">
+                        
+                        <p>Driving, attempting to drive or being in charge of a motor vehicle under
+                            the influence of a specified illicit drug</p>
+                    </td>
+                    <td>
+                        <p class="align_right">10</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p class="first_line_indent_0">4E</p>
+                    </td>
+                    <td>
+                        
+                        <p><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Section
+                            39K(1)</ref></p>
+                    </td>
+                    
+                    <td align="char">
+                        
+                        <p>Driving, attempting to drive or being in charge of a motor vehicle while
+                            any concentration of a specified illicit drug is present in the blood or
+                            urine</p>
+                    </td>
+                    <td>
+                        <p class="align_right">10</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p class="first_line_indent_0">4F</p>
+                    </td>
+                    <td>
+                        
+                        <p><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Section
+                            39L(1)</ref></p>
+                    </td>
+                    
+                    <td align="char">
+                        
+                        <p>Driving, attempting to drive or being in charge of a motor vehicle under
+                            the influence of a drug other than a specified illicit drug</p>
+                    </td>
+                    <td>
+                        <p class="align_right">10</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p class="first_line_indent_0">4G</p>
+                    </td>
+                    <td>
+                        
+                        <p><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Section
+                            39O(1)</ref></p>
+                    </td>
+                    
+                    <td align="char">
+                        
+                        <p>Failing to undergo an Impairment Test or provide a specimen of oral fluid
+                            without reasonable excuse</p>
+                    </td>
+                    <td>
+                        <p class="align_right">10</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p class="first_line_indent_0">4H</p>
+                    </td>
+                    <td>
+                        
+                        <p><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Section
+                            39S(1)</ref></p>
+                    </td>
+                    
+                    <td align="char">
+                        
+                        <p>Failing to provide a specimen of blood or urine for laboratory test, or
+                            failing to give consent to the analysis of a specimen of blood, without
+                            reasonable excuse</p>
+                    </td>
+                    <td>
+                        <p class="align_right">10</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        
+                        <p>5</p>
+                    </td>
+                    <td>
+                        
+                        <p><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Section 41</ref></p>
+                    </td>
+                    
+                    <td align="char">
+                        
+                        <p>Driving in excess of speed limit by more than 15 kilometres an hour,
+                            other than where item 5A or 5B applies</p>
+                    </td>
+                    <td>
+                        <p class="align_right">3</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        
+                        <p>5A</p>
+                    </td>
+                    <td>
+                        
+                        <p><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Section 41</ref></p>
+                    </td>
+                    <td>
+                        
+                        <p>Driving in excess of speed limit by more than 30 kilometres an hour,
+                            other than where item 5B applies</p>
+                    </td>
+                    <td>
+                        <p class="align_right">5</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        
+                        <p>5B</p>
+                    </td>
+                    <td>
+                        
+                        <p><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Section 41</ref></p>
+                    </td>
+                    
+                    <td align="char">
+                        
+                        <p>Driving in excess of speed limit by more than 45 kilometres an hour</p>
+                    </td>
+                    <td>
+                        <p class="align_right">10</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        
+                        <p>6</p>
+                    </td>
+                    <td>
+                        
+                        <p><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Section<inline class="width_3"> </inline>55(1)</ref></p>
+                    </td>
+                    
+                    <td align="char">
+                        
+                        <p>Driving in a motor race or speed trial on a road</p>
+                    </td>
+                    <td>
+                        <p class="align_right">10</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        
+                        <p>7</p>
+                    </td>
+                    <td>
+                        
+                        <p><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Section
+                            56(1)</ref></p>
+                    </td>
+                    
+                    <td align="char">
+                        
+                        <p>Failing to stop after an accident</p>
+                    </td>
+                    <td>
+                        <p class="align_right">5</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        
+                        <p>8</p>
+                    </td>
+                    <td>
+                        <p class="left_indent_1 first_line_indent_0"><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Section
+                            56(2)</ref></p>
+                    </td>
+                    
+                    <td align="char">
+                        
+                        <p>Failing to give particulars after an accident</p>
+                    </td>
+                    <td>
+                        <p class="align_right">3</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        
+                        <p>9</p>
+                    </td>
+                    <td>
+                        
+                        <p><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Section
+                            56(3)</ref></p>
+                    </td>
+                    
+                    <td align="char">
+                        
+                        <p>Failing to report an accident</p>
+                    </td>
+                    <td>
+                        <p class="align_right">3</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        
+                        <p>10</p>
+                    </td>
+                    <td>
+                        
+                        <p><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Section 61</ref></p>
+                    </td>
+                    
+                    <td align="char">
+                        
+                        <p>Failing to obey directions of police officer or traffic warden</p>
+                    </td>
+                    <td>
+                        <p class="align_right">3</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    
+                    <td align="char">
+                        
+                        <p><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>Road
+                            Traffic
+                            (Traffic
+                            Control) Regulations (<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap374G">Cap. 374 sub. leg. G</ref>)</p>
+                        
+                    </td>
+                    <td>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        
+                        <p>11</p>
+                    </td>
+                    <td>
+                        
+                        <p><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Regulation
+                                11(1)</ref></p>
+                    </td>
+                    
+                    <td align="char">
+                        
+                        <p>Crossing double white lines</p>
+                    </td>
+                    <td>
+                        <p class="align_right">3</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        
+                        <p>12</p>
+                    </td>
+                    <td>
+                        
+                        <p><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Regulation
+                            18</ref></p>
+                    </td>
+                    
+                    <td align="char">
+                        
+                        <p>Failing to comply with traffic signals</p>
+                    </td>
+                    <td>
+                        <p class="align_right">5</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        
+                        <p>13</p>
+                    </td>
+                    <td>
+                        
+                        <p><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Regulation
+                            31</ref></p>
+                    </td>
+                    
+                    <td align="char">
+                        
+                        <p>Failing to give precedence to pedestrians on zebra crossing</p>
+                    </td>
+                    <td>
+                        <p class="align_right">3</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        
+                        <p>14</p>
+                    </td>
+                    <td>
+                        
+                        <p><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Regulation
+                                38(2)</ref></p>
+                    </td>
+                    
+                    <td align="char">
+                        
+                        <p>Failing to stop for school crossing patrol</p>
+                    </td>
+                    <td>
+                        <p class="align_right">3</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    
+                    <td align="char">
+                        
+                        <p><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>Road
+                            Tunnels (Government)
+                            Regulations
+                                (<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap368A">Cap.<br></br>368 sub. leg.
+                            A</ref>)</p>
+                        
+                    </td>
+                    <td>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        
+                        <p>15</p>
+                    </td>
+                    <td>
+                        
+                        <p><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Regulation
+                            4(2)</ref></p>
+                    </td>
+                    
+                    <td align="char">
+                        
+                        <p>Driving in excess of temporary maximum speed limit by more than 15
+                            kilometres an hour, other than where item 16 or 17 applies</p>
+                        
+                    </td>
+                    <td>
+                        <p class="align_right">3</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        
+                        <p>16</p>
+                    </td>
+                    <td>
+                        
+                        <p><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Regulation
+                            4(2)</ref></p>
+                    </td>
+                    
+                    <td align="char">
+                        
+                        <p>Driving in excess of temporary maximum speed limit by more than 30
+                            kilometres an hour, other than where item 17 applies</p>
+                        
+                    </td>
+                    <td>
+                        <p class="align_right">5</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        
+                        <p>17</p>
+                    </td>
+                    <td>
+                        <p class="left_indent_1 first_line_indent_0"><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Regulation
+                            4(2)</ref></p>
+                    </td>
+                    
+                    <td align="char">
+                        
+                        <p>Driving in excess of temporary maximum speed limit by more than 45
+                            kilometres an hour</p>
+                    </td>
+                    <td>
+                        <p class="align_right">10</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        
+                        <p>18</p>
+                    </td>
+                    <td>
+                        
+                        <p><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Regulation
+                                9(1)(g)</ref></p>
+                    </td>
+                    
+                    <td align="char">
+                        
+                        <p>Crossing continuous double lines</p>
+                    </td>
+                    <td>
+                        <p class="align_right">3</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        
+                        <p>19</p>
+                    </td>
+                    <td>
+                        
+                        <p><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Regulation
+                                18(4)</ref></p>
+                    </td>
+                    
+                    <td align="char">
+                        
+                        <p>Crossing a continuous white line with a broken white line of the type
+                            shown in Figure No. 502 in <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Schedule 2</ref> to
+                            the Road Traffic (Traffic Control) Regulations (<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap374G">Cap. 374 sub. leg. G</ref>)</p>
+                    </td>
+                    <td>
+                        <p class="align_right">3</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        
+                        <p>20</p>
+                    </td>
+                    <td>
+                        
+                        <p><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Regulation
+                                18(4)</ref></p>
+                    </td>
+                    
+                    <td align="char">
+                        
+                        <p>Driving in excess of the speed limit indicated by a traffic sign of the
+                            type shown in Figure No. 136 in <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Schedule 1</ref> to
+                            the Road Traffic (Traffic Control) Regulations (<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap374G">Cap. 374 sub. leg. G</ref>) by more than 15 kilometres an hour,
+                            other than where item 21 or 22 applies</p>
+                    </td>
+                    <td>
+                        <p class="align_right">3</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        
+                        <p>21</p>
+                    </td>
+                    <td>
+                        
+                        <p><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Regulation
+                                18(4)</ref></p>
+                    </td>
+                    
+                    <td align="char">
+                        
+                        <p>Driving in excess of the speed limit referred to in item 20 by more than
+                            30 kilometres an hour, other than where item 22 applies</p>
+                    </td>
+                    <td>
+                        <p class="align_right">5</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        
+                        <p>22</p>
+                    </td>
+                    <td>
+                        
+                        <p><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Regulation
+                                18(4)</ref></p>
+                    </td>
+                    
+                    <td align="char">
+                        
+                        <p>Driving in excess of the speed limit referred to in item 20 by more than
+                            45 kilometres an hour</p>
+                    </td>
+                    <td>
+                        <p class="align_right">10</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        
+                        <p>23<span class="force_eng_font">−</span>27</p>
+                    </td>
+                    <td colspan="2">
+                        
+                        <p><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="/hk/1999/ln198">L.N. 198 of 1999</ref>)</sourceNote></p>
+                    </td>
+                    <td>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        
+                        <p>28</p>
+                    </td>
+                    <td colspan="2">
+                        
+                        <p><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="hk/2016/7">7 of 2016 s. 25</ref>)</sourceNote></p>
+                    </td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>
+                        
+                        <p>28A<span class="force_eng_font">−</span>D</p>
+                    </td>
+                    <td colspan="2">
+                        
+                        <p><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="hk/2016/7">7 of 2016 s. 25</ref>)</sourceNote></p>
+                    </td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>
+                        
+                        <p>29<span class="force_eng_font">−</span>32</p>
+                    </td>
+                    <td colspan="2">
+                        
+                        <p><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="hk/2016/7">7 of 2016 s. 25</ref>)</sourceNote></p>
+                    </td>
+                    <td></td>
+                </tr>
+                
+                <tr>
+                    <td>
+                        
+                        <p>33</p>
+                    </td>
+                    <td colspan="2">
+                        
+                        
+                        <p><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="hk/2018/9">9 of 2018 s.
+                            16</ref>)</sourceNote></p>
+                        
+                    </td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>
+                        
+                        <p>33A<span class="force_eng_font">−</span>D</p>
+                    </td>
+                    <td colspan="2">
+                        
+                        
+                        <p><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="hk/2018/9">9 of 2018 s.
+                            16</ref>)</sourceNote></p>
+                        
+                    </td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>
+                        
+                        <p>34<span class="force_eng_font">−</span>36</p>
+                    </td>
+                    <td colspan="2">
+                        
+                        
+                        <p><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="hk/2018/9">9 of 2018 s.
+                            16</ref>)</sourceNote></p>
+                        
+                    </td>
+                    <td></td>
+                </tr>
+                
+                
+                <tr>
+                    <td>
+                        <p class="first_line_indent_0">37</p>
+                    </td>
+                    
+                    <td align="char">
+                        
+                        <p><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Renumbered as item 33D—see <ref href="/hk/2013/ln100">L.N. 100 of
+                            2013</ref>)</sourceNote></p>
+                    </td>
+                    <td>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                </tr>
+                
+                
+                <tr>
+                    <td>
+                        <p>37A<span class="force_eng_font">−</span>K</p>
+                    </td>
+                    <td colspan="2"><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="hk/2023/18">18 of 2023 s.
+                        26</ref>)</sourceNote></td>
+                    <td></td>
+                </tr>
+                
+                <tr>
+                    <td>
+                        
+                        <p>38<span class="force_eng_font">−</span>40</p>
+                    </td>
+                    <td colspan="2"><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="hk/2023/18">18 of 2023 s.
+                        26</ref>)</sourceNote></td>
+                    <td></td>
+                </tr>
+                
+                <tr>
+                    <td>
+                        <p class="first_line_indent_0">41</p>
+                    </td>
+                    <td><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Renumbered as item 37J—see <ref href="/hk/2013/ln100">L.N. 100 of 2013</ref>)</sourceNote></td>
+                    <td>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        
+                        <p>42</p>
+                    </td>
+                    <td colspan="2"><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="hk/2023/18">18 of 2023 s.
+                        26</ref>)</sourceNote></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    
+                    <td align="char">
+                        <p class="left_indent_1 first_line_indent_0"><marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>Tsing
+                            Ma Control Area (General) Regulation (<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap498B">Cap. 498 sub. leg. B</ref>)</p>
+                    </td>
+                    <td>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        
+                        <p>43</p>
+                    </td>
+                    <td>
+                        <p class="left_indent_1 first_line_indent_0"><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Section 9</ref></p>
+                    </td>
+                    
+                    <td align="char">
+                        <p class="left_indent_2 first_line_indent_0">Driving in excess of the speed
+                            limit indicated by a traffic sign of the type shown in Figure No. 22 in
+                                <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Schedule 1</ref>
+                            to the Tsing Ma Control Area (General) Regulation (<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap498B">Cap. 498 sub. leg. B</ref>) by more than 15 kilometres an hour,
+                            other than where item 44 or 45 applies</p>
+                    </td>
+                    <td>
+                        <p class="align_right">3</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        
+                        <p>44</p>
+                    </td>
+                    <td>
+                        <p class="left_indent_1 first_line_indent_0"><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Section 9</ref></p>
+                    </td>
+                    
+                    <td align="char">
+                        <p class="left_indent_2 first_line_indent_0">Driving in excess of the speed
+                            limit referred to in item 43 by more than 30 kilometres an hour, other
+                            than where item 45 applies</p>
+                    </td>
+                    <td>
+                        <p class="align_right">5</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        
+                        <p>45</p>
+                    </td>
+                    <td>
+                        <p class="left_indent_1 first_line_indent_0"><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Section 9</ref></p>
+                    </td>
+                    <td>
+                        <p class="left_indent_2 first_line_indent_0">Driving in excess of the speed
+                            limit referred to in item 43 by more than 45 kilometres an hour</p>
+                    </td>
+                    <td>
+                        <p class="align_right">10</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        
+                        <p>46</p>
+                    </td>
+                    <td>
+                        <p class="left_indent_1 first_line_indent_0"><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Section 9</ref></p>
+                    </td>
+                    
+                    <td align="char">
+                        <p class="left_indent_2 first_line_indent_0">Crossing continuous double
+                            white lines or a continuous white line with a broken white line of the
+                            type shown in Figure No. 501, 502 or 503 in <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Schedule 2</ref> to
+                            the Road Traffic (Traffic Control) Regulations (<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap374G">Cap. 374 sub. leg. G</ref>)</p>
+                    </td>
+                    <td>
+                        <p class="align_right">3</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        
+                        <p>47</p>
+                    </td>
+                    <td>
+                        <p class="left_indent_1 first_line_indent_0"><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Section
+                            10(2)</ref></p>
+                    </td>
+                    <td>
+                        <p class="left_indent_2 first_line_indent_0">Driving in excess of temporary
+                            speed limit by more than 15 kilometres an hour, other than where item 48
+                            or 49 applies</p>
+                    </td>
+                    <td>
+                        <p class="align_right">3</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        
+                        <p>48</p>
+                    </td>
+                    <td>
+                        <p class="left_indent_1 first_line_indent_0"><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Section
+                            10(2)</ref></p>
+                    </td>
+                    
+                    <td align="char">
+                        <p class="left_indent_2 first_line_indent_0">Driving in excess of temporary
+                            speed limit by more than 30 kilometres an hour, other than where item 49
+                            applies</p>
+                    </td>
+                    <td>
+                        <p class="align_right">5</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p class="first_line_indent_0">49</p>
+                    </td>
+                    <td>
+                        <p class="first_line_indent_0"><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Section
+                            10(2)</ref></p>
+                    </td>
+                    
+                    <td align="char">
+                        <p class="align_justified left_indent_2 first_line_indent_0">Driving in
+                            excess of temporary speed limit by more than 45 kilometres an hour</p>
+                    </td>
+                    <td>
+                        <p class="align_right">10</p>
+                    </td>
+                </tr>
+                
+                
+                <tr>
+                    <td>
+                        
+                        <p>49A<span class="force_eng_font">−</span>K</p>
+                        
+                        
+                    </td>
+                    
+                    <td colspan="2"><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="/hk/2025/3">3 of 2025 s.
+                        21</ref>)</sourceNote></td>
+                    
+                    
+                    
+                </tr>
+                
+                <tr>
+                    <td>
+                        
+                        <p>50<span class="force_eng_font">−</span>52</p>
+                        
+                        
+                    </td>
+                    
+                    <td colspan="2"><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="/hk/2025/3">3 of 2025 s.
+                        21</ref>)</sourceNote></td>
+                    
+                    
+                </tr>
+                
+                <tr>
+                    <td>
+                        <p class="first_line_indent_0">53</p>
+                    </td>
+                    
+                    <td align="char"><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Renumbered as item 49J—see <ref href="/hk/2013/ln100">L.N. 100 of 2013</ref>)</sourceNote></td>
+                    <td>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p class="first_line_indent_0">54</p>
+                    </td>
+                    
+                    <td colspan="2"><sourceNote xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">(Repealed <ref href="/hk/2025/3">3 of 2025 s.
+                        21</ref>)</sourceNote></td>
+                    
+                    
+                </tr>
+                
+                <tr>
+                    <td></td>
+                    <td colspan="2"></td>
+                    <td></td>
+                    <td align="char"></td>
+                    <td></td>
+                </tr>
+                
+                <tr>
+                    <td>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    
+                    <td align="char">
+                        
+                        <p>Discovery
+                            Bay Tunnel Link Bylaw (<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap520B">Cap. 520 sub. leg. B</ref>)</p>
+                    </td>
+                    <td>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p class="first_line_indent_0">55</p>
+                    </td>
+                    <td>
+                        <p class="first_line_indent_0"><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Section 7</ref></p>
+                    </td>
+                    
+                    <td align="char">
+                        
+                        <p>Driving in excess of speed limit indicated by a speed limit sign of the
+                            type shown in Figure No. 6 or 7 in the <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Schedule</ref> to the
+                            Discovery Bay Tunnel Link Bylaw (<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap520B">Cap. 520 sub. leg. B</ref>) by more than 15 kilometres an hour,
+                            other than where item 56 or 57 applies</p>
+                    </td>
+                    <td>
+                        <p class="align_right">3</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p class="first_line_indent_0">56</p>
+                    </td>
+                    <td>
+                        <p class="first_line_indent_0"><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Section 7</ref></p>
+                    </td>
+                    
+                    <td align="char">
+                        
+                        <p>Driving in excess of speed limit referred to in item 55 by more than 30
+                            kilometres an hour, other than where item 57 applies</p>
+                    </td>
+                    <td>
+                        <p class="align_right">5</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p class="first_line_indent_0">57</p>
+                    </td>
+                    <td>
+                        <p class="first_line_indent_0"><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Section 7</ref></p>
+                    </td>
+                    
+                    <td align="char">
+                        
+                        <p>Driving in excess of speed limit referred to in item 55 by more than 45
+                            kilometres an hour</p>
+                    </td>
+                    <td>
+                        <p class="align_right">10</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p class="first_line_indent_0">58</p>
+                    </td>
+                    <td>
+                        <p class="first_line_indent_0"><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Section 8</ref></p>
+                    </td>
+                    
+                    <td align="char">
+                        
+                        <p>Crossing continuous double white lines</p>
+                    </td>
+                    <td>
+                        <p class="align_right">3</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p class="first_line_indent_0">59</p>
+                    </td>
+                    <td>
+                        <p class="first_line_indent_0"><ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Section
+                            10(b)</ref></p>
+                    </td>
+                    
+                    <td align="char">
+                        
+                        <p>Crossing a continuous white line with a broken white line of the type
+                            shown in Figure No. 502 in <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Schedule 2</ref> to
+                            the Road Traffic (Traffic Control) Regulations (<ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap374G">Cap. 374 sub. leg. G</ref>)</p>
+                    </td>
+                    <td>
+                        <p class="align_right">3</p>
+                    </td>
+                </tr>
+            </table>
+        </text><sourceNote class="left_indent_24 first_line_indent_0 align_left">(Amended <ref href="/hk/1986/44">44 of 1986 s. 3</ref>; <ref href="/hk/1995/39">39 of 1995 s.
+                14</ref>; <ref href="/hk/1998/ln47">L.N. 47 of 1998</ref>; <ref href="/hk/2000/33">33 of 2000 s. 5</ref>; <ref href="/hk/2000/50">50 of 2000 s. 4</ref>; <ref href="/hk/2002/3">3 of 2002 s. 14</ref>; <ref href="/hk/2005/ln116">L.N. 116 of
+                2005</ref>; <ref href="/hk/2010/19">19 of 2010 s. 24</ref>; <ref href="/hk/2011/24">24 of 2011 s. 27</ref>; <ref href="/hk/2013/ln100">L.N. 100 of
+            2013</ref>; <ref href="/hk/2016/7">7 of 2016 s.
+            25</ref>; <ref href="/hk/2018/9">9 of 2018 s.
+            16</ref>; <ref href="hk/2023/18">18 of 2023 s.
+            26</ref>; <ref href="/hk/2025/3">3 of 2025 s.
+        21</ref>)</sourceNote></schedule></main></ordinance>

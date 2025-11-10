@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="UTF-8"?><subLeg xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd" xml:lang="en"><meta><docName>Cap. 406 sub. leg. A</docName><docType>cap</docType><docNumber>406A</docNumber><docStatus>In effect</docStatus><dc:identifier>/hk/cap406A!en</dc:identifier><dc:date>2025-08-24</dc:date><dc:subject>legislation</dc:subject><dc:language>en</dc:language><dc:publisher>DoJ</dc:publisher><dc:rights>the Government of the Hong Kong Special Administrative Region</dc:rights></meta><main xml:lang="en" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd"><docTitle id="ID_1438403161805_001" name="shortTitle" reason="inEffect" status="operational" temporalId="shortTitle" startPeriod="2021-08-12">Electricity
+      Supply Regulations</docTitle><enactingFormula role="empoweringSection">(<ref href="/hk/cap406/s59">Cap. 406, section
+        59(1)</ref>)*<marker role="blank-line"></marker><marker role="blank-line"></marker></enactingFormula><commencementNote>[19 May 1911]</commencementNote><sourceNote>(Format changes—<ref href="hk/2021/er3">E.R. 3 of 2021</ref>)</sourceNote><editorialNote type="footnote" id="ID_1619607926602_001">
+      <content>Editorial Note:</content>
+      
+      <content class="left_indent_9 first_line_indent_-9"><inline class="force_orig_font">*</inline> These regulations were made under
+        section
+        3
+        of the repealed Electricity Supply Ordinance
+        (Chapter
+        103,
+        1976 R.
+        Edition).
+        See <ref>section 36(1)</ref> of the Interpretation and General Clauses Ordinance (<ref href="/hk/cap1">Cap. 1</ref>) and <ref>section 59(1)</ref> of the Electricity Ordinance,
+        enacted in 1990 (<ref href="/hk/cap406">Cap. 406</ref>).</content>
+    </editorialNote><crossHeading class="tied-tag-crossHeading-center add-toc">Definitions</crossHeading><section id="ID_1438403161821_002" name="s1" reason="inEffect" role="regulation" startPeriod="2021-08-12" status="operational" temporalId="s1"><num value="1">1.</num><heading>Interpretation</heading><subsection id="ID_1438412409998_004" name="1" temporalId="s1_1"><num value="1">(1)</num><leadIn>In these regulations, unless the context otherwise requires—</leadIn><def name="Company"><term>company</term>
+                    (<term xml:lang="zh-Hant-HK">公司</term>) means any person or any body of persons
+                corporate or unincorporate by whom electricity is generated or supplied;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1990/ln215">L.N. 215 of
+                        1990</ref>)</sourceNote></def><def name="ConsumersWires"><term>consumer’s
+                    wires</term>
+                    (<term xml:lang="zh-Hant-HK">用戶電線</term>) means any electric lines which are
+                connected to the service lines of the company at the company’s meter
+                    terminals;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1976/ln138">L.N. 138 of 1976</ref>)</sourceNote></def><def name="Electricity"><term>electricity</term>
+                    (<term xml:lang="zh-Hant-HK">電力</term>) means electricity, electric current or
+                any like agency;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1990/ln215">L.N. 215 of 1990</ref>)</sourceNote></def><def name="OverheadLine"><term>overhead
+                    line</term>
+                    (<term xml:lang="zh-Hant-HK">架空電纜</term>) means any electric line which is
+                placed above ground and in the open air;</def><def name="Pressure">
+                <leadIn><term>pressure</term>
+                        (<term xml:lang="zh-Hant-HK">壓力</term>) means the difference of electrical
+                    potential between any 2 conductors through which a supply of energy is given, or
+                    between any part of either conductor and the earth; and—</leadIn>
+                <paragraph id="ID_1438412409998_047" name="a" temporalId="s1_1_a"><num value="a">(a)</num><content>where the conditions of the supply are such that the pressure at any
+                        pair of consumer’s terminals does not exceed 250 volts, the supply shall be
+                        deemed a low pressure supply;</content></paragraph>
+                <paragraph id="ID_1438412409998_055" name="b" temporalId="s1_1_b"><num value="b">(b)</num><content>where the conditions of the supply are such that the pressure exceeds
+                        250 volts but does not exceed 650 volts, the supply shall be deemed a medium
+                        pressure supply;</content></paragraph>
+                <paragraph id="ID_1438412409998_063" name="c" temporalId="s1_1_c"><num value="c">(c)</num><content>where the conditions of the supply are such that the pressure exceeds
+                        650 volts but does not exceed
+                        3,000
+                        volts, the supply shall be deemed a high pressure supply; and</content></paragraph>
+                <paragraph id="ID_1438412410013_006" name="d" temporalId="s1_1_d"><num value="d">(d)</num><content>where the conditions of the supply are such that the pressure exceeds
+                        3,000
+                        volts, the supply shall be deemed an extra high pressure supply;</content></paragraph>
+            </def><def name="Street"><term>street</term>
+                    (<term xml:lang="zh-Hant-HK">街道</term>) includes any square, court or alley,
+                highway, lane, road, thoroughfare or public passage or place;<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1990/ln215">L.N. 215 of
+                    1990</ref>)</sourceNote></def><def name="Substation">
+                <leadIn><term>sub-station</term>
+                        (<term xml:lang="zh-Hant-HK">電力分站</term>) means any premises in which energy
+                    is transformed or converted for the purpose of supply to consumers, and which
+                    are large enough to admit the entrance of a person after the transforming or
+                    converting apparatus is in position:</leadIn>
+                <proviso name="proviso" temporalId="s1_1_proviso">Provided that for the purpose of
+                    these regulations any place within any such premises which is used solely for
+                    some purpose other than such transformation or conversion shall not be deemed to
+                    form part of a sub-station;</proviso>
+            </def><def name="Works"><term>works</term>
+                    (<term xml:lang="zh-Hant-HK">工程</term>) includes electric lines and any
+                buildings, machinery, engines, works, matters or things of whatever description
+                required to supply electricity and to carry into effect the objects of a
+                    company.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1990/ln215">L.N. 215 of 1990</ref>)</sourceNote></def></subsection><sourceNote>(<ref href="/hk/1999/69">69 of 1999 s. 5</ref>)</sourceNote><subsection id="ID_1438412410013_047" name="2" temporalId="s1_2"><num value="2">(2)</num><content>Where these regulations require any metallic body to be “efficiently connected
+                with earth”, it shall be connected with the general mass of earth in such manner as
+                will ensure at all times an immediate and safe discharge of electrical
+                energy.</content></subsection></section><crossHeading class="tied-tag-crossHeading-center add-toc">General</crossHeading><section id="ID_1438403161837_002" name="s2" reason="inEffect" role="regulation" startPeriod="2021-08-12" status="operational" temporalId="s2"><num value="2">2.</num><heading>Pressure of supply to consumers</heading><leadIn>The pressure of a supply delivered to any consumer shall not exceed the limit of low
+            pressure except for special purposes, for which a medium pressure supply may be given on
+            the consumer undertaking to comply with the following conditions—</leadIn><paragraph id="ID_1438412410060_026" name="a" temporalId="s2_a"><num value="a">(a)</num><leadIn>where the supply is for power purposes—</leadIn><subparagraph id="ID_1438412410060_034" name="i" temporalId="s2_a_i"><num value="i">(i)</num><content>the frame of every electric motor shall be efficiently connected with
+                    earth;</content></subparagraph><subparagraph id="ID_1438412410060_042" name="ii" temporalId="s2_a_ii"><num value="ii">(ii)</num><content>the consumer’s wires forming the
+                    connexions
+                    to motors, or otherwise in
+                    connexion
+                    with the supply, shall be, as far as practicable, completely inclosed in strong
+                    metal casing efficiently connected with earth, or they shall be fixed in such a
+                    manner that there shall be no danger of any shock;</content></subparagraph><subparagraph id="ID_1438412410060_050" name="iii" temporalId="s2_a_iii"><num value="iii">(iii)</num><content>the supply to every motor shall be controlled by means of an efficient
+                    cut-off switch, placed in such a position as to be easily handled by the person
+                    in charge of the motor, and connected so that by its means all pressure can be
+                    cut-off from the motor itself and from any regulating switch, resistance or
+                    other device in
+                    connexion
+                    therewith;</content></subparagraph><subparagraph id="ID_1438412410076_007" name="iv" temporalId="s2_a_iv"><num value="iv">(iv)</num><content>switches, efficient fuses or other automatic circuit-breakers shall be
+                    provided, so as to protect the circuits from excess of current, and all switches
+                    and cut-outs shall be so inclosed and protected that there shall be no danger of
+                    any shock being obtained in the ordinary handling thereof, or of any fire being
+                    caused by their normal or abnormal action;</content></subparagraph><subparagraph id="ID_1438412410076_015" name="v" temporalId="s2_a_v"><num value="v">(v)</num><content>a notice shall be fixed in a conspicuous position at every motor and switch
+                    board in
+                    connexion
+                    with the supply forbidding unauthorized persons to touch the motors or
+                    apparatus;</content></subparagraph></paragraph><paragraph id="ID_1438412410076_022" name="b" temporalId="s2_b"><num value="b">(b)</num><leadIn>where the supply is for arc lamps in series—</leadIn><subparagraph id="ID_1438412410076_030" name="i" temporalId="s2_b_i"><num value="i">(i)</num><content>the consumer’s wires forming the
+                    connexions
+                    to the arc lamps, or otherwise a
+                    connexion
+                    with the supply, shall be, as far as practicable, completely inclosed in strong
+                    metal casing efficiently connected with earth, or they shall be fixed in such a
+                    manner that there shall be no danger of any shock;</content></subparagraph><subparagraph id="ID_1438412410091_007" name="ii" temporalId="s2_b_ii"><num value="ii">(ii)</num><content>
+                    <leadIn>the supply to every arc lamp shall be controlled by means of an
+                        efficient cut-off switch, placed in such a position as to be easily handled
+                        by the person in charge of the arc lighting, and connected so that by its
+                        means all pressure can be cut off from the arc lamp itself and from any
+                        regulating switch, resistance or other device in
+                        connexion
+                        therewith:</leadIn>
+                    <proviso name="proviso" temporalId="s2_b_ii_proviso">Provided that where the arc
+                        lamps are connected in series across the outer conductors of a three-wire
+                        system, it shall be sufficient if 1 such switch be provided for each series
+                        of arc lamps;</proviso>
+                </content></subparagraph><subparagraph id="ID_1438412410091_021" name="iii" temporalId="s2_b_iii"><num value="iii">(iii)</num><content>switches, efficient fuses or other automatic cut-outs shall be provided, so
+                    as to protect the circuits from excess of current, and all switches and cut-outs
+                    shall be so inclosed and protected that there shall be no danger of any shock
+                    being obtained in the ordinary handling thereof, or of any fire being caused by
+                    their normal or abnormal action;</content></subparagraph></paragraph><paragraph id="ID_1438412410091_028" name="c" temporalId="s2_c"><num value="c">(c)</num><leadIn>where the supply is for incandescent lamps in series, unless the Director of
+                Electrical and Mechanical Services otherwise allows—  <sourceNote>(<ref href="/hk/1982/ln76">L.N. 76 of 1982</ref>; <ref href="/hk/1982/ln298">L.N.
+                        298 of 1982</ref>)</sourceNote></leadIn><subparagraph id="ID_1438412410107_006" name="i" temporalId="s2_c_i"><num value="i">(i)</num><content>the consumer’s wires forming the
+                    connexions
+                    to the incandescent lamps, or otherwise in
+                    connexion
+                    with the supply, shall be completely inclosed in strong metal casing and this
+                    casing together with the switches and lamp holders, if metallic, shall be
+                    efficiently connected with earth;</content></subparagraph><subparagraph id="ID_1438412410107_014" name="ii" temporalId="s2_c_ii"><num value="ii">(ii)</num><content>switches, efficient fuses or other automatic
+                    cut-outs
+                    shall be provided, so as to protect the circuits from excess of current, and all
+                    switches and cut-outs shall be so inclosed and protected that there shall be no
+                    danger of any shock being obtained in the ordinary handling thereof, or of any
+                    fire being caused by their normal action;</content></subparagraph></paragraph><paragraph id="ID_1438412410107_021" name="d" temporalId="s2_d"><num value="d">(d)</num><content>where the supply is for any special purpose other than those above mentioned,
+                or where the pressure of the supply exceeds the limits of medium pressure, it shall
+                be subject to such other regulations as the Chief Executive in Council may
+                    prescribe.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/2000/61">61 of 2000 s. 3</ref>)</sourceNote></content></paragraph></section><section id="ID_1438403161852_001" name="s2A" reason="inEffect" role="regulation" startPeriod="2021-08-12" status="operational" temporalId="s2A"><num value="2A">2A.</num><heading>Low and high voltage supply</heading><subsection id="ID_1438412410154_004" name="1" temporalId="s2A_1"><num value="1">(1)</num><leadIn>The company shall supply low voltage electricity to the main incoming terminals of an owner’s electrical installation at a frequency of 50Hz (+/-2%) at either or both of the following—</leadIn><paragraph id="ID_1438412410154_012" name="a" temporalId="s2A_1_a"><num value="a">(a)</num><content>220V (+/-6%) root mean square alternating current between a phase conductor and earth for a single phase supply; and</content></paragraph><paragraph id="ID_1438412410154_020" name="b" temporalId="s2A_1_b"><num value="b">(b)</num><content>220V (+/-6%) root mean square alternating current between a phase conductor and earth and 380V (+/-6%) alternating current between phase conductors for a 3 phase supply.</content></paragraph></subsection><subsection id="ID_1438412410154_027" name="2" temporalId="s2A_2"><num value="2">(2)</num><content>The company shall supply high voltage electricity to the main incoming terminals of an owner’s electrical installation at a frequency of 50Hz (+/-2%).</content></subsection><sourceNote>(<ref href="/hk/1992/ln344">L.N. 344 of 1992</ref>)</sourceNote></section><section id="ID_1438403161852_003" name="s2B" reason="inEffect" role="regulation" startPeriod="2021-08-12" status="operational" temporalId="s2B"><num value="2B">2B.</num><heading>Application of <ref>regulation 2A(1)</ref></heading><subsection id="ID_1438412410185_004" name="1" temporalId="s2B_1"><num value="1">(1)</num><leadIn><ref>Regulation 2A(1)</ref> applies to—</leadIn><paragraph id="ID_1438412410185_012" name="a" temporalId="s2B_1_a"><num value="a">(a)</num><content>an electrical installation that is, on or after 3 December 1992, supplied with electricity for the first time; and</content></paragraph><paragraph id="ID_1438412410185_020" name="b" temporalId="s2B_1_b"><num value="b">(b)</num><content>all other electrical installations in accordance with orders of the Director who shall have regard to the voltage upgrading programme recommended by the Supply Voltage Advisory Committee (appointed by the Financial Secretary, G.N. 535 in Gazette No. 7/1991 of 13 February 1991).</content></paragraph></subsection><subsection id="ID_1438412410185_027" name="2" temporalId="s2B_2"><num value="2">(2)</num><content>Despite <ref>regulation 2A</ref>, where an electrical installation has been designed for 200V single phase supply or 346V 3 phase supply and has been wholly or substantially completed before 3 December 1992, the Director may authorize the company to supply electricity to the installation at the designed voltage where he considers that it is not practicable to convert the installation to receive the higher voltage.</content></subsection><subsection id="ID_1438412410200_005" name="3" temporalId="s2B_3"><num value="3">(3)</num><content>Despite paragraph <ref>(1)(a)</ref>, where an electrical installation has been designed for 200V single phase supply or 346V 3 phase supply and has been wholly or substantially completed before 3 December 1992, the Director may authorize the company to supply electricity to the installation at the designed voltage until a date specified by the Director when <ref>regulation 2A(1)</ref> shall apply.</content></subsection><subsection id="ID_1438412410200_013" name="4" temporalId="s2B_4"><num value="4">(4)</num><content>Despite paragraph <ref>(1)(a)</ref>, where an electrical installation is to be connected to a part of the company’s low voltage supply network that has not been converted to the voltage referred to in <ref>regulation 2A(1)</ref>, the Director may authorize the company to supply electricity to the installation at the unconverted voltage until a date specified by the Director when <ref>regulation 2A(1)</ref> shall apply.</content></subsection><sourceNote>(<ref href="/hk/1992/ln344">L.N. 344 of 1992</ref>)</sourceNote></section><section id="ID_1438403161868_002" name="s3" reason="inEffect" role="regulation" startPeriod="2021-08-12" status="operational" temporalId="s3"><num value="3">3.</num><heading>Introduction of three-wire system into consumer’s premises</heading><content>When the pressure between the outer conductors of a three-wire system exceeds 250 volts and the 3 wires of the system or 2 pairs of wires are brought into a consumer’s premises, the supply shall be given to 2 pairs of terminals arranged in such a manner that there shall be no danger of any shock, and the wiring from those terminals shall be kept distinct.</content></section><section id="ID_1438403161883_001" name="s4" reason="inEffect" role="regulation" startPeriod="2025-08-24" status="operational" temporalId="s4"><num value="4">4.</num><heading>Minimum size of conductors</heading><subsection id="ID_1438412410263_018" name="1" temporalId="s4_1"><num value="1">(1)</num><content>The sectional area of the conductor in any electric line other than low tension
+                laid or erected in any street after 2 December 1921, shall not be less than that of
+                a strand of 7 wires,
+                the
+                sectional area of each is 0.0006 sq. in. (<b><i>relevant
+                area</i></b>), and the sectional area of every wire in a strand
+                forming any such conductor shall not be less than
+                the
+                relevant area, and where such stranded conductor is erected it
+                shall be suspended from a suitable bearer wire or shall be protected by a suitable
+                cradle fixed underneath. In the case of low tension conductors in any electric line
+                the sectional area shall not be less than
+                that
+                of a single wire that has a sectional area of 0.0032 sq. in. and that is efficiently insulated.
+                <sourceNote>(<ref href="hk/2025/31">31 of 2025 s. 107</ref>)</sourceNote></content></subsection><subsection id="ID_1438412410278_005" name="2" temporalId="s4_2"><num value="2">(2)</num><content>This regulation shall not apply in the case of an electric line placed in a lamp post.</content></subsection></section><section id="ID_1438403161883_003" name="s5" reason="inEffect" role="regulation" startPeriod="2021-08-12" status="operational" temporalId="s5"><num value="5">5.</num><heading>Insulation test of low pressure and medium pressure mains</heading><content>Every low pressure and medium pressure main, after having been placed in position and before it is used for the purposes of supply, shall withstand a pressure equal to the maximum pressure to which it is intended to be subjected in use, and in any case at least 200 volts, and further, before being used as aforesaid it shall be tested for insulation, and the company shall duly record the results of the tests of each main or section of a main.</content></section><section id="ID_1438403161899_001" name="s6" reason="inEffect" role="regulation" startPeriod="2021-08-12" status="operational" temporalId="s6"><num value="6">6.</num><heading>Testing of insulation of all parts of high pressure circuit</heading><content>A high pressure circuit shall not be brought into use unless the insulation of every part thereof has withstood the continuous application, during 1 hour, in the case of every electric line, of a pressure equal to the full working pressure to which it is intended to be subjected in use, and in the case of every machine, device or apparatus, of a pressure equal to the full working pressure to which it is intended to be subjected. The company shall duly record the results of each test.</content></section><section id="ID_1438403161899_003" name="s7" reason="inEffect" role="regulation" startPeriod="2021-08-12" status="operational" temporalId="s7"><num value="7">7.</num><heading>Maintenance of insulation</heading><leadIn>There shall be maintained by the company at each station or sub-station as may be necessary a leakage indicator of approved pattern and so arranged that the leakage on each main feeder can be readily ascertained at any time and a weekly test recorded. If at any time the leakage is in the opinion of the Director of Electrical and Mechanical Services excessive, he shall require the company to remedy the same and it shall forthwith be remedied:</leadIn><proviso name="proviso" temporalId="s7_proviso">Provided that where any part of any electric circuit
+                                    is connected with
+                                    earth,
+                                    either in accordance with these regulations or with the approval
+                                    of the Director of Electrical and Mechanical Services, the
+                                    provisions of this regulation shall not apply to that part of
+                                    that circuit so long as the
+                                    connexion
+                                    with earth exists.</proviso><sourceNote>(<ref href="/hk/1982/ln76">L.N. 76 of 1982</ref>; <ref href="/hk/1982/ln298">L.N. 298 of 1982</ref>)</sourceNote></section><section id="ID_1438403161915_002" name="s8" reason="inEffect" role="regulation" startPeriod="2021-08-12" status="operational" temporalId="s8"><num value="8">8.</num><heading>Circuit-breaker for high pressure mains, etc.</heading><leadIn>Every high pressure main, conductor or other apparatus shall be protected by a suitable fuse or automatic circuit-breaker:</leadIn><proviso name="proviso" temporalId="s8_proviso">Provided that it shall not be incumbent upon the company to provide such a fuse or circuit-breaker for the outer conductor of a concentric main which is, in accordance with these regulations or with the approval of the Director of Electrical and Mechanical Services, efficiently connected with earth.</proviso><sourceNote>(<ref href="/hk/1982/ln76">L.N. 76 of 1982</ref>; <ref href="/hk/1982/ln298">L.N. 298 of 1982</ref>)</sourceNote></section><section id="ID_1438403161915_004" name="s9" reason="inEffect" role="regulation" startPeriod="2021-08-12" status="operational" temporalId="s9"><num value="9">9.</num><heading>Transformers</heading><content>In every case where a high pressure supply is transformed for the purpose of supply to 1 or more consumers, some suitable automatic and quick-acting means shall be provided to protect the consumer’s wires from any accidental contact with or leakage from the high pressure circuit, either within or without the transforming apparatus.</content></section><section id="ID_1438403161930_002" name="s10" reason="inEffect" role="regulation" startPeriod="2021-08-12" status="operational" temporalId="s10"><num value="10">10.</num><heading>Connexion
+            of transformers with earth</heading><leadIn>The metallic portion of every high pressure transformer, with the exception of the
+            conductors thereof, shall be efficiently connected with earth except in respect of
+            transformers supported on poles at such a height as to be inaccessible except by the use
+            of a ladder or other special appliance:</leadIn><proviso name="proviso" temporalId="s10_proviso">Provided that in such cases such poles
+            shall be efficiently connected with earth.</proviso></section><section id="ID_1438403161930_004" name="s11" reason="inEffect" role="regulation" startPeriod="2021-08-12" status="operational" temporalId="s11"><num value="11">11.</num><heading>Protection from lightning</heading><content>Where any portion of any electric line or any support for any electric line is exposed in such a position as to be liable to cause injury from lightning, it shall be efficiently protected against such liability.</content></section><section id="ID_1438403161946_002" name="s12" reason="repealed" role="regulation" startPeriod="1997-06-30" status="repealed" temporalId="s12"><num value="12">12.</num><sourceNote>(Repealed <ref href="/hk/1990/ln215">L.N. 215 of 1990</ref>)</sourceNote></section><crossHeading>Part
+        I<br></br>General</crossHeading><section id="ID_1438403161961_001" name="s13" reason="inEffect" role="regulation" startPeriod="2025-08-24" status="operational" temporalId="s13"><num value="13">13.</num><heading>Specifications and requirements respecting lines, line conductors, etc.</heading><subsection id="ID_1438412410419_018" name="1" temporalId="s13_1"><num value="1">(1)</num><content>Line conductors shall be copper, aluminium or such other materials as may be
+                approved by the Director of Electrical and Mechanical Services.</content></subsection><subsection id="ID_1438412410419_026" name="2" temporalId="s13_2"><num value="2">(2)</num><content>All line conductors at the time of erection shall comply, as regards
+                elongation, breaking load and elasticity, with the specification of the
+                International
+                Electrotechnical Commission, or any equivalent body recognized by the Director of
+                Electrical and Mechanical Services, then in force.
+                <sourceNote>(<ref href="hk/2025/31">31 of 2025 s. 108</ref>)</sourceNote></content></subsection><subsection name="3" temporalId="s13_3" id="ID_1498614702205_001"><num value="3">(3)</num><content>The minimum permissible size for copper and other line conductors (other than
+                service lines) shall be such as to have an actual breaking load of not less than
+                1,237
+                lb., the equivalent minimum cross-sectional area and weight per mile for copper
+                being as
+                        follows—<text><marker role="blank-line"></marker><table xmlns="http://www.w3.org/1999/xhtml" width="100%">
+                        <col width="50%"></col>
+                        <col width="50%"></col>
+                        <tr>
+                            <td class="align_center">Cross-sectional area</td>
+                            <td class="align_center">Weight per mile</td>
+                        </tr>
+                        <tr>
+                            <td class="align_center">sq. in.</td>
+                            <td class="align_center">lb.</td>
+                        </tr>
+                        <tr>
+                            <td valign="bottom" class="valign_bottom align_center">0.0201</td>
+                            <td valign="bottom" class="valign_bottom align_center">409</td>
+                        </tr>
+                    </table><marker role="blank-line"></marker>The minimum permissible
+                    size of service line shall be such as to have an actual breaking load of not
+                    less than 816 lb., the equivalent minimum cross-sectional area and weight per
+                    mile for copper being as
+                    follows—</text><table xmlns="http://www.w3.org/1999/xhtml" width="100%">
+                    <col width="50%"></col>
+                    <col width="50%"></col>
+                    <tr>
+                        <td class="align_center">Cross-sectional area</td>
+                        <td class="align_center">Weight per mile</td>
+                    </tr>
+                    <tr>
+                        <td class="align_center">sq. in.</td>
+                        <td class="align_center">lb.</td>
+                    </tr>
+                    <tr>
+                        <td valign="bottom" class="valign_bottom align_center">0.0129</td>
+                        <td valign="bottom" class="valign_bottom align_center">262</td>
+                    </tr>
+                </table></content><sourceNote>(<ref href="hk/2025/31">31 of 2025 s. 108</ref>)</sourceNote></subsection><subsection id="ID_1438412410434_004" name="4" temporalId="s13_4"><num value="4">(4)</num><content>Line conductors shall be rendered inaccessible to any person from any building
+                or other place without the use of a ladder or other special appliance. Regard shall
+                be had to the normal use by the occupier of any premises or land and where necessary
+                (a) the height of the line conductors shall be increased to provide sufficient
+                clearance for safety in accordance with such use, and (b) provision as prescribed in
+                paragraph (14) or (17) shall be made to prevent danger.</content></subsection><subsection id="ID_1438412410434_012" name="5" temporalId="s13_5"><num value="5">(5)</num><content>
+                <leadIn>Where a line conductor crosses over or under or is in proximity to any other
+                    overhead wire, precautions shall be taken by the company to prevent contact, due
+                    to breakage or otherwise, between the line conductor and the other overhead
+                    wire, or between the other wire and the line conductor:</leadIn>
+                
+                <proviso name="proviso" temporalId="s13_5_proviso">Provided that this paragraph
+                    shall not be deemed to require the company to take precautions against contact
+                    between a broken line conductor and other auxiliary conductors and earth wires
+                    carried on the same support and forming part of the same overhead
+                    line.</proviso>
+            </content></subsection><subsection id="ID_1438412410450_004" name="6" temporalId="s13_6"><num value="6">(6)</num><content>Line conductors shall be attached to suitable insulators carried on supports of
+                iron, steel, reinforced concrete or wood. Special
+                precautions
+                shall be taken to prevent the corrosion of all metal work at or below the surface of
+                the ground.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1972/ln236">L.N. 236 of 1972</ref>)</sourceNote></content></subsection><subsection id="ID_1438412410450_012" name="7" temporalId="s13_7"><num value="7">(7)</num><content><leadIn>The
+                    supports, in conjunction with stays or struts if provided, shall withstand the
+                    longitudinal, transverse and vertical loads due to the wind pressure hereinafter
+                    specified without damage and without movement in the ground. In no case shall
+                    the strength of a support in the direction of the overhead line be less than
+                    one-quarter the required strength in a direction transverse to the
+                    line.</leadIn><proviso>The
+                    following factors of safety shall apply to each
+                    support—</proviso><table xmlns="http://www.w3.org/1999/xhtml" width="100%">
+                    <col width="81%"></col>
+                    <col width="19%"></col>
+                    <tr>
+                        
+                        <td class="align_center valign_bottom">Material</td>
+                        
+                        <td class="align_center valign_bottom">Factor of safety</td>
+                    </tr>
+                    <tr>
+                        <td class="leaders_. align_left">Iron or steel
+                            </td>
+                        <td class="align_center">3</td>
+                    </tr>
+                    <tr>
+                        <td class="leaders_. align_left">Reinforced concrete </td>
+                        <td class="align_center">4</td>
+                    </tr>
+                    <tr>
+                        <td class="leaders_. align_left">Wood </td>
+                        <td class="align_center">3</td>
+                    </tr>
+                </table><marker role="blank-line"></marker>These
+                factors of safety shall be calculated on the assumption that all line conductors,
+                cables and wires carried by the supports are at a temperature of
+                70℉.,
+                and that together with the supports they are subjected to a wind pressure of 40 lb.
+                per square foot.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1972/ln236">L.N. 236 of 1972</ref>)</sourceNote></content></subsection><subsection id="ID_1438412410466_004" name="8" temporalId="s13_8"><num value="8">(8)</num><content>Service lines shall be connected to line conductors at a point of support only
+                and shall be fixed to insulators on consumers’ premises. Every part of a service
+                line (other than a neutral conductor connected with earth) which is accessible from
+                a building with the use of a ladder or other special appliance shall be efficiently
+                protected either by insulating material or by other means approved by the Director
+                of Electrical and Mechanical Services.</content></subsection><subsection id="ID_1438412410466_012" name="9" temporalId="s13_9"><num value="9">(9)</num><content>Where line conductors forming parts of systems at different voltages are
+                erected on the same poles or supports adequate provision shall be made to guard
+                against danger to linesmen and from the lower voltage system being charged above its
+                normal voltage by leakage from or contact with the higher voltage system; and the
+                type of construction shall be subject to the prior approval of the Director of
+                Electrical and Mechanical Services.</content></subsection><subsection id="ID_1438412410481_005" name="10" temporalId="s13_10"><num value="10">(10)</num><content>Every overhead line, including its supports and structural parts, and
+                electrical appliances and devices belonging to or connected therewith, shall be
+                regularly inspected and efficiently maintained.</content></subsection><subsection id="ID_1438412410481_013" name="11" temporalId="s13_11"><num value="11">(11)</num><content>All materials used shall at the time of erection conform to the specifications
+                for the time being in force of the
+                International
+                Electrotechnical Commission, or any equivalent body recognized by the Director of
+                Electrical and Mechanical Services, for the construction of aerial
+                lines, so far as the same are applicable and are not inconsistent with this regulation.
+                <sourceNote>(<ref href="hk/2025/31">31 of 2025 s. 108</ref>)</sourceNote></content></subsection><crossHeading>Part
+            II<br></br>Specific</crossHeading><text class="left_indent_36">(Applicable according to the voltage between line conductors
+            where no part of the system is connected with earth, or according to the voltage to
+            earth where part of the system is connected with earth.)</text><crossHeading>A—For voltages not exceeding 650 volts direct current
+            and
+            325 volts alternating current</crossHeading><subsection id="ID_1438412410497_039" name="12" temporalId="s13_12"><num value="12">(12)</num><content>The factor of safety of line conductors shall be 2. The factor of safety shall
+                be based on the breaking load and shall be calculated on the assumption that the
+                line conductors are at a temperature of
+                70℉.
+                and that they are subjected to a wind pressure of 40 lb. per square foot.</content></subsection><subsection id="ID_1438412410497_047" name="13" temporalId="s13_13"><num value="13">(13)</num><content>
+                
+                <leadIn>The height from the ground of any line conductor (other
+                    than a service line), earth wire or auxiliary conductor at any point of the span
+                    at a temperature of
+                    160℉.
+                    shall not, except with the consent of the Director of Electrical and Mechanical
+                    Services, be less than 19 feet across a public road or 17 feet in other
+                    positions. A height of 15 feet may be adopted in situations inaccessible to
+                    vehicular traffic.</leadIn>
+                
+                
+                <proviso>Where a service line is carried across or along a
+                    carriage-way, the height of the line from the ground at any part of the
+                    carriage-way shall not, except with the consent of the Director of Electrical
+                    and Mechanical Services, be less than 19 feet and 17 feet
+                    respectively.</proviso>
+            </content></subsection><subsection id="ID_1438412410512_011" name="14" temporalId="s13_14"><num value="14">(14)</num><content>Where the voltage to earth exceeds 250 volts direct current or 125 volts
+                alternating current, precaution should be taken to prevent danger,</content></subsection><subsection id="ID_1438412410512_019" name="I" temporalId="s13_I"><num value="I">(I)</num><leadIn>from a broken line conductor by the provision of—</leadIn><paragraph id="ID_1438412410512_027" name="a" temporalId="s13_I_a"><num value="a">(a)</num><content>a neutral or earthed conductor carried continuously from pole to pole, and
+                    so arranged in relation to the other conductors that in the event of breakage of
+                    any one of them the line conductor shall make contact with the earthed wire;
+                    or</content></paragraph><paragraph id="ID_1438412410512_035" name="b" temporalId="s13_I_b"><num value="b">(b)</num><content>other means approved by the Director of Electrical and Mechanical
+                    Services;</content></paragraph></subsection><subsection id="ID_1438412410512_042" name="II" temporalId="s13_II"><num value="II">(II)</num><leadIn>from leakage by the provision—</leadIn><paragraph id="ID_1438412410512_050" name="a" temporalId="s13_II_a"><num value="a">(a)</num><leadIn>in cases where metal poles are used, of—</leadIn><subparagraph id="ID_1438412410512_058" name="i" temporalId="s13_II_a_i"><num value="i">(i)</num><content>an earthed wire, running from pole to pole and connected to the poles;
+                        or</content></subparagraph><subparagraph id="ID_1438412410528_007" name="ii" temporalId="s13_II_a_ii"><num value="ii">(ii)</num><content>a suitable metal framework to support the insulators carrying the line
+                        conductors, the framework being insulated from the pole but connected to the
+                        neutral conductor; or</content></subparagraph><subparagraph id="ID_1438412410528_015" name="iii" temporalId="s13_II_a_iii"><num value="iii">(iii)</num><content>other means approved by the Director of Electrical and Mechanical
+                        Services.</content></subparagraph></paragraph><paragraph id="ID_1438412410528_022" name="b" temporalId="s13_II_b"><num value="b">(b)</num><leadIn>in cases where wooden poles are used, of—</leadIn><subparagraph id="ID_1438412410528_030" name="i" temporalId="s13_II_b_i"><num value="i">(i)</num><content>a bonding wire connected to the supporting metal work of all
+                        insulators, the bonding wire terminating at the lowest part of the
+                        supporting metal work; or</content></subparagraph><subparagraph id="ID_1438412410528_038" name="ii" temporalId="s13_II_b_ii"><num value="ii">(ii)</num><content>other means approved by the Director of Electrical and Mechanical
+                        Services.</content></subparagraph></paragraph><continued>All stay wires other than those which are connected with earth by means of a
+                continuous earth wire shall be insulated to prevent danger from leakage. For this
+                purpose an insulator shall be placed in each stay wire at a height of not less than
+                10 feet from the
+                ground.</continued></subsection><crossHeading>B—For voltages exceeding 650 volts direct current
+            and
+            325 volts alternating current</crossHeading><subsection id="ID_1438412410528_064" name="15" temporalId="s13_15"><num value="15">(15)</num><content>The factor of safety of line conductors shall be 2. The factor of safety shall
+                be based on the breaking load and shall be calculated on the assumption that the
+                line conductors are at a temperature of
+                70℉.
+                and that they are subjected to a wind pressure of 40 lb. per square foot.</content></subsection><subsection id="ID_1438412410544_005" name="16" temporalId="s13_16"><num value="16">(16)</num><content>The height from the ground of any line conductor at any point on the span at a
+                temperature of
+                160℉.
+                shall not, except with the consent of the Director of Electrical and Mechanical
+                Services, be less than the height hereunder
+                    stated—<marker role="blank-line"></marker><table xmlns="http://www.w3.org/1999/xhtml" width="100%">
+                    
+                    <col width="82%"></col>
+                    
+                    <col width="18%"></col>
+                    <tr>
+                        <td class="leaders_. align_justified">Voltages not exceeding
+                            66,000
+                            volts </td>
+                        <td class="align_center valign_bottom">20 feet</td>
+                    </tr>
+                    <tr>
+                        <td class="leaders_. align_justified">Voltages exceeding
+                            66,000
+                            volts and not exceeding
+                            110,000
+                            volts </td>
+                        <td class="align_center valign_bottom">21 feet</td>
+                    </tr>
+                    <tr>
+                        <td class="leaders_. align_justified">Voltages exceeding
+                            110,000
+                            volts and not exceeding
+                            165,000
+                            volts </td>
+                        <td class="align_center valign_bottom">22 feet</td>
+                    </tr>
+                    <tr>
+                        <td class="leaders_. align_justified">Voltages exceeding
+                            165,000
+                            volts </td>
+                        <td class="align_center valign_bottom">23 feet</td>
+                    </tr>
+                </table><marker role="blank-line"></marker></content><content>The height from the ground of an earth wire or auxiliary conductor shall not be
+                less than the minimum heights prescribed in paragraph (13) above.</content></subsection><subsection id="ID_1438412410544_019" name="17" temporalId="s13_17"><num value="17">(17)</num><content>
+                
+                <leadIn>Adequate means shall be provided to render any line
+                    conductor dead or harmless to human beings or animals in the event of it
+                    falling, due to breakage or otherwise.</leadIn>
+                
+                
+                <proviso>All metal work other than conductors shall be permanently
+                    and efficiently connected with earth. For this purpose a continuous earth wire
+                    shall be provided and connected with earth at 4 points in every mile, the
+                    spacing between the points being as nearly equidistant as possible, or
+                    alternatively the metal work shall be connected to an effective earthing device
+                    at each individual support. The design and construction of the system of earth
+                    connexions
+                    shall be such that when contact is made between a line conductor and metal
+                    connected with earth the resulting leakage current shall not be less than twice
+                    the leakage current required to operate the devices which make the line dead or
+                    harmless to human beings or animals.</proviso>
+            </content></subsection><subsection id="ID_1438412410559_004" name="17A" temporalId="s13_17A"><num value="17A">(17A)</num><leadIn>An overhead line carrying a voltage not exceeding
+                11,000
+                volts may be erected on wooden poles and any line so erected shall comply with the
+                requirements of—</leadIn><paragraph id="ID_1438412410559_012" name="a" temporalId="s13_17A_a"><num value="a">(a)</num><content>the
+                    specifications for the time being in force of the International Electrotechnical
+                    Commission, or any equivalent body recognized by the Director of Electrical and
+                    Mechanical Services, for such an overhead line; and
+                    <sourceNote>(<ref href="hk/2025/31">31 of 2025 s. 108</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438412410559_020" name="b" temporalId="s13_17A_b"><num value="b">(b)</num><content>these regulations, except in so far as they are
+                    inconsistent
+                    with the requirements of
+                    subparagraph
+                        (a).<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1972/ln236">L.N. 236 of
+                        1972</ref>; <ref href="hk/2021/er3">E.R. 3 of
+                        2021</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438412410559_027" name="18" temporalId="s13_18"><num value="18">(18)</num><leadIn>Where an overhead line is erected along or across a public road or canal or
+                across a railway all wires including earth wires and auxiliary conductors shall be
+                placed at the appropriate height from the ground specified in paragraph (16) for
+                line conductors, and the following additional precautions shall be taken to prevent
+                danger—</leadIn><paragraph id="ID_1438412410559_035" name="a" temporalId="s13_18_a"><num value="a">(a)</num><leadIn>in the case of a line erected along a public road or canal (or within 50
+                    feet thereof) there shall be provided—</leadIn><subparagraph id="ID_1438412410559_043" name="i" temporalId="s13_18_a_i"><num value="i">(i)</num><content>duplicate insulators supporting the conductors; or</content></subparagraph><subparagraph id="ID_1438412410559_051" name="ii" temporalId="s13_18_a_ii"><num value="ii">(ii)</num><content>a device to ensure that in the event of a line conductor falling it
+                        shall be put to earth; or</content></subparagraph><subparagraph id="ID_1438412410575_007" name="iii" temporalId="s13_18_a_iii"><num value="iii">(iii)</num><content>other means approved by the Director of Electrical and Mechanical
+                        Services;</content></subparagraph></paragraph><paragraph id="ID_1438412410575_014" name="b" temporalId="s13_18_b"><num value="b">(b)</num><leadIn>in the case of a line erected across a public road, canal or railway there
+                    shall be provided—</leadIn><subparagraph id="ID_1438412410575_022" name="i" temporalId="s13_18_b_i"><num value="i">(i)</num><content>duplicate insulators for supporting the line conductor and a device to
+                        ensure that in the event of a line conductor falling it shall be put to
+                        earth; or</content></subparagraph><subparagraph id="ID_1438412410575_030" name="ii" temporalId="s13_18_b_ii"><num value="ii">(ii)</num><content>duplicate insulators supporting duplicate conductors tied at intervals
+                        not exceeding 5 feet; or</content></subparagraph><subparagraph id="ID_1438412410575_038" name="iii" temporalId="s13_18_b_iii"><num value="iii">(iii)</num><content>other means approved by the Director of Electrical and Mechanical
+                        Services.</content></subparagraph></paragraph></subsection><subsection id="ID_1438412410575_044" name="19" temporalId="s13_19"><num value="19">(19)</num><content>Supports shall be numbered consecutively and each support shall have a danger
+                notice of a permanent character securely fixed to it. Adequate provision shall also
+                be made to prevent unauthorized climbing.</content></subsection><subsection id="ID_1438412410575_052" name="20" temporalId="s13_20"><num value="20">(20)</num><content>All overhead lines shall be removed on ceasing to be used for the purposes for
+                which they were erected.</content></subsection><sourceNote>(<ref href="/hk/1982/ln76">L.N. 76 of 1982</ref>; <ref href="/hk/1982/ln298">L.N. 298 of 1982</ref>)</sourceNote></section><section id="ID_1438403161977_001" name="s14" reason="inEffect" role="regulation" startPeriod="2021-08-12" status="operational" temporalId="s14"><num value="14">14.</num><heading>Other overhead lines</heading><content>Save as above provided, overhead lines shall not be erected except in accordance
+            with such regulations as the Chief Executive in Council may prescribe.</content><sourceNote>(<ref href="/hk/2000/61">61 of 2000 s. 3</ref>)</sourceNote></section><crossHeading class="tied-tag-crossHeading-center add-toc">Electric
+        lines other than overhead lines</crossHeading><section id="ID_1438403161977_003" name="s15" reason="inEffect" role="regulation" startPeriod="2021-08-12" status="operational" temporalId="s15"><num value="15">15.</num><heading>Construction of receptacles for electric lines</heading><content>All conduits, pipes, casings and street boxes used as receptacles for electric
+            lines shall be constructed of durable material, and where laid under carriage-ways shall
+            be of ample strength to prevent damage from heavy traffic, and reasonable means shall be
+            taken by the company to prevent accumulation of gas in such receptacles.</content></section><section id="ID_1438403161993_002" name="s16" reason="inEffect" role="regulation" startPeriod="2021-08-12" status="operational" temporalId="s16"><num value="16">16.</num><heading>Crossing pipes, etc.</heading><content>Where any electric line crosses, or is in proximity to, any metallic substance, special precautions shall be taken by the company against the possibility of any electrical charging of the metallic substance from the line or from any metal conduit, pipe or casing inclosing the line.</content></section><section id="ID_1438403161993_004" name="s17" reason="inEffect" role="regulation" startPeriod="2021-08-12" status="operational" temporalId="s17"><num value="17">17.</num><heading>Electric continuity of metal conduits, etc., of high pressure line</heading><content>All metal conduits, pipes or casings containing any high pressure electric line shall be
+            efficiently connected with earth, and shall be so jointed and connected across all
+            street boxes and other openings as to make good electrical
+            connexion
+            throughout their whole length.</content></section><section id="ID_1438403162008_002" name="s18" reason="inEffect" role="regulation" startPeriod="2021-08-12" status="operational" temporalId="s18"><num value="18">18.</num><heading>Precautions to be taken when bare conductors are used</heading><subsection id="ID_1438412410731_011" name="1" temporalId="s18_1"><num value="1">(1)</num><content>Where the conductors of electric lines placed in any conduit are not continuously covered with insulating material, they shall be secured in position, and no unfixed uninsulated material of a conducting nature shall be contained in the conduit. No such conductor shall be at a pressure exceeding 300 volts from earth.</content></subsection><subsection id="ID_1438412410746_004" name="2" temporalId="s18_2"><num value="2">(2)</num><content>Adequate precautions shall be taken to ensure that no accumulation of water shall take place in any part of the conduit and to prevent any dangerous access of moisture to the conductors or the insulators.</content></subsection><subsection id="ID_1438412410746_012" name="3" temporalId="s18_3"><num value="3">(3)</num><content>The insulators of any such electric line shall be so disposed that they can be readily inspected; but this requirement shall not apply to any such insulators which before 2 December 1921, were not required by any regulation then in force to be so capable of ready inspection.</content></subsection></section><section id="ID_1438403162008_004" name="s19" reason="inEffect" role="regulation" startPeriod="2021-08-12" status="operational" temporalId="s19"><num value="19">19.</num><heading>High pressure lines laid above ground or in subways</heading><content>Every portion of any high pressure electric line placed above the surface of the ground, or in any subway not in the sole occupation of the company, shall be completely inclosed either in a tube of highly insulating material embedded in brickwork, masonry or cement-concrete, or in strong metal casing efficiently connected with earth.</content></section><section id="ID_1438403162024_002" name="s20" reason="inEffect" role="regulation" startPeriod="2021-08-12" status="operational" temporalId="s20"><num value="20">20.</num><heading>Protection for surface of ground and electric lines</heading><content>Where any high pressure electric line is laid beneath the surface of the ground, efficient means shall be taken to render it impossible that the surface of the ground or any neighbouring electric line or conductor shall become charged by leakage from the high pressure electric line.</content></section><section id="ID_1438403162039_001" name="s21" reason="inEffect" role="regulation" startPeriod="2021-08-12" status="operational" temporalId="s21"><num value="21">21.</num><heading>Completion and control of high pressure lines</heading><content>A high pressure electric line shall not, except with the consent of the Director of Electrical and Mechanical Services, be used for the supply of energy before it has been completely laid, properly jointed, examined and tested, or until it is in the sole charge of the company, and every such line shall during its use be in the sole charge of the company.</content><sourceNote>(<ref href="/hk/1982/ln76">L.N. 76 of 1982</ref>; <ref href="/hk/1982/ln298">L.N. 298 of 1982</ref>)</sourceNote></section><crossHeading class="tied-tag-crossHeading-center add-toc">Sub-stations
+        and street boxes</crossHeading><section id="ID_1438403162039_003" name="s22" reason="inEffect" role="regulation" startPeriod="2021-08-12" status="operational" temporalId="s22"><num value="22">22.</num><heading>Sub-stations</heading><content>Sub-stations shall be established in suitable places and shall be in the sole
+            occupation and charge of the company. Sub-stations shall be erected above ground
+            wherever possible, but where necessarily underground, due provision shall be made for
+            ventilation and for drainage.</content></section><section id="ID_1438403162055_001" name="s23" reason="inEffect" role="regulation" startPeriod="2021-08-12" status="operational" temporalId="s23"><num value="23">23.</num><heading>Street boxes</heading><leadIn>In addition to the provisions contained in <ref>regulation 15</ref> as to the construction of receptacles for electric lines, the following conditions shall be observed with respect to street boxes—</leadIn><paragraph id="ID_1438412410824_040" name="a" temporalId="s23_a"><num value="a">(a)</num><content>the covers of all street boxes shall be so secured that they cannot be opened except by means of a special appliance;</content></paragraph><paragraph id="ID_1438412410840_006" name="b" temporalId="s23_b"><num value="b">(b)</num><content>the covers of all street boxes containing high pressure apparatus other than cables shall be connected to strips of metal laid immediately underneath the street, and efficient means shall be taken to render it impossible that the covers or other exposed parts of these boxes, or any adjacent material forming the surface of the street, shall become electrically charged, whether by reason of leakage, defect or otherwise;</content></paragraph><paragraph id="ID_1438412410840_014" name="c" temporalId="s23_c"><num value="c">(c)</num><content>where street boxes are used as transformer chambers, reasonable means shall be taken to prevent as far as possible any influx of water, either from the adjacent soil or by means of pipes; and in the case of any such street box exceeding 1 cubic yard in capacity, ample provision shall be made, by ventilation or otherwise, for the immediate escape of any gas which may by accident have obtained access to the box, and for the prevention of danger from sparking;</content></paragraph><paragraph id="ID_1438412410856_006" name="d" temporalId="s23_d"><num value="d">(d)</num><content>all street boxes shall be regularly inspected for the presence of gas, and if any influx or accumulation is discovered the company shall give immediate notice to the company whose gas mains are laid in the neighbourhood of the street box;</content></paragraph><paragraph id="ID_1438412410856_014" name="e" temporalId="s23_e"><num value="e">(e)</num><content>where mains at different pressures pass through the same street box they shall be readily distinguishable from one another.</content></paragraph></section><section id="ID_1438403162055_003" name="s24" reason="inEffect" role="regulation" startPeriod="2021-08-12" status="operational" temporalId="s24"><num value="24">24.</num><heading>Maximum power in case of underground sub-station, etc.</heading><content>The maximum power supplied to any underground sub-station or street box shall not, without the consent of the Director of Electrical and Mechanical Services, exceed 30 kilowatts in the case of a sub-station or street box containing a single transformer, or 75 kilowatts in the case of a sub-station or street box containing 2 or more transformers.</content><sourceNote>(<ref href="/hk/1982/ln76">L.N. 76 of 1982</ref>; <ref href="/hk/1982/ln298">L.N. 298 of 1982</ref>)</sourceNote></section><crossHeading class="tied-tag-crossHeading-center add-toc">Consumer’s
+                        premises</crossHeading><section id="ID_1438403162071_002" name="s25" reason="inEffect" role="regulation" startPeriod="2021-08-12" status="operational" temporalId="s25"><num value="25">25.</num><heading>Responsibility of company for lines, etc., on consumer’s
+                                    premises</heading><content>The company shall be responsible for all electric lines, fittings
+                                    and apparatus belonging to it or under its control, which may be
+                                    upon a consumer’s premises, being maintained in a safe condition
+                                    and in all
+                                    respects
+                                    fit for supplying energy.</content></section><section id="ID_1438403162071_004" name="s26" reason="inEffect" role="regulation" startPeriod="2021-08-12" status="operational" temporalId="s26"><num value="26">26.</num><heading>Fire risks</heading><content>In delivering the energy to a consumer’s terminals the company shall exercise all due precautions so as to avoid risk of causing fire of the premises.</content></section><section id="ID_1438403162086_002" name="s27" reason="inEffect" role="regulation" startPeriod="2021-08-12" status="operational" temporalId="s27"><num value="27">27.</num><heading>Main fuses or circuit-breakers</heading><subsection id="ID_1438412410934_004" name="1" temporalId="s27_1"><num value="1">(1)</num><content>A suitable safety fuse or other automatic circuit-breaker shall be inserted in each service line within a consumer’s premises as close as possible to the point of entry, and contained within a suitable locked or sealed receptacle of fireproof construction, except in cases where the service line is protected by fuses in a street box; but no fuse or automatic circuit-breaker shall be inserted in the intermediate conductor of a three-wire system.</content></subsection><subsection id="ID_1438412410934_012" name="2" temporalId="s27_2"><num value="2">(2)</num><content>Wherever a seal is found broken on a consumer’s premises and unless the same has been broken by an employee of the company, the consumer shall be liable to a penalty of $5.</content></subsection></section><section id="ID_1438403162086_004" name="s28" reason="inEffect" role="regulation" startPeriod="2021-08-12" status="operational" temporalId="s28"><num value="28">28.</num><heading>Treatment of service lines and apparatus on consumer’s premises</heading><content>All service lines and apparatus placed on a consumer’s premises shall be highly insulated and thoroughly protected against injury to the insulation or access of moisture, and any metal forming part of the electric circuit shall not, unless efficiently connected with earth, be exposed so that it can be touched. All electric lines shall be so fixed and protected as to prevent the possibility of electrical discharge to any adjacent metallic substance.</content></section><section id="ID_1438403162102_002" name="s29" reason="inEffect" role="regulation" startPeriod="2021-08-12" status="operational" temporalId="s29"><num value="29">29.</num><heading>Transformers and high pressure apparatus to be inclosed in metal, etc.</heading><content>Where the general supply of energy is a high pressure supply and transforming apparatus is installed on a consumer’s premises, the whole of the high pressure service lines, conductors and apparatus, including the transforming apparatus itself, so far as they are on the consumer’s premises, shall be completely inclosed in solid walls or in strong metal casing efficiently connected with earth and securely fastened throughout.</content></section><section id="ID_1438403162102_004" name="s30" reason="repealed" role="regulation" startPeriod="1997-06-30" status="repealed" temporalId="s30"><num value="30">30.</num><sourceNote>(Repealed <ref href="/hk/1990/ln215">L.N. 215 of 1990</ref>)</sourceNote></section><section id="ID_1438403162117_002" name="s31" reason="repealed" role="regulation" startPeriod="1997-06-30" status="repealed" temporalId="s31"><num value="31">31.</num><sourceNote>(Repealed <ref href="/hk/1990/ln215">L.N. 215 of 1990</ref>)</sourceNote></section><section id="ID_1438403162117_004" name="s32" reason="repealed" role="regulation" startPeriod="1997-06-30" status="repealed" temporalId="s32"><num value="32">32.</num><sourceNote>(Repealed <ref href="/hk/1990/ln215">L.N. 215 of 1990</ref>)</sourceNote></section><section id="ID_1438403162133_002" name="s33" reason="repealed" role="regulation" startPeriod="1997-06-30" status="repealed" temporalId="s33"><num value="33">33.</num><sourceNote>(Repealed <ref href="/hk/1990/ln215">L.N. 215 of 1990</ref>)</sourceNote></section><section id="ID_1438403162133_004" name="s34" reason="repealed" role="regulation" startPeriod="1997-06-30" status="repealed" temporalId="s34"><num value="34">34.</num><sourceNote>(Repealed <ref href="/hk/1990/ln215">L.N. 215 of 1990</ref>)</sourceNote></section><crossHeading class="tied-tag-crossHeading-center add-toc">Arc
+        lighting</crossHeading><section id="ID_1438403162149_002" name="s35" reason="inEffect" role="regulation" startPeriod="2021-08-12" status="operational" temporalId="s35"><num value="35">35.</num><heading>Height from ground</heading><content>Arc lamps used in any street for public lighting shall be so fixed as not to be in
+            any part at a less height than 10 feet from the ground.</content></section><section id="ID_1438403162149_004" name="s36" reason="inEffect" role="regulation" startPeriod="2021-08-12" status="operational" temporalId="s36"><num value="36">36.</num><heading>Arc lamps to be guarded</heading><content>All arc lamps shall be so guarded as to prevent pieces of ignited carbon or broken glass falling from them, and shall not be used in situations where there is any danger of the presence of explosive dust or gas.</content></section><crossHeading class="tied-tag-crossHeading-center add-toc">Connexion
+        of circuits with earth</crossHeading><section id="ID_1438403162164_002" name="s37" reason="inEffect" role="regulation" startPeriod="2021-08-12" status="operational" temporalId="s37"><num value="37">37.</num><heading>Connexion
+            with earth of a three-wire system</heading><leadIn>Where the pressure of a supply between the adjacent conductors of a three-wire
+            system of mains exceeds 125 volts the intermediate conductor shall be connected with
+            earth in accordance with the following conditions—</leadIn><paragraph id="ID_1438412411058_019" name="a" temporalId="s37_a"><num value="a">(a)</num><content>the
+                connexion
+                with earth of the intermediate conductor shall be made at 1 point only on each
+                distinct circuit, namely at the generating station, sub-station or transformer, and
+                the insulation of the circuit shall be efficiently maintained at all other
+                parts;</content></paragraph><paragraph id="ID_1438412411074_008" name="b" temporalId="s37_b"><num value="b">(b)</num><content>the current from the intermediate conductor to earth shall be continuously
+                recorded and if it at any time becomes excessive steps shall be immediately taken to
+                improve the insulation of the system.</content></paragraph></section><section id="ID_1438403162164_004" name="s38" reason="inEffect" role="regulation" startPeriod="2021-08-12" status="operational" temporalId="s38"><num value="38">38.</num><heading>Connexion
+            of other circuits with earth</heading><content>The company shall not connect any other circuit with earth except with the approval
+            of the Director of Electrical and Mechanical Services and subject to such conditions as
+            he may prescribe.</content><sourceNote>(<ref href="/hk/1982/ln76">L.N. 76 of 1982</ref>; <ref href="/hk/1982/ln298">L.N. 298 of 1982</ref>)</sourceNote></section><crossHeading class="tied-tag-crossHeading-center add-toc">Extra
+        high pressure</crossHeading><section id="ID_1438403162180_002" name="s39" reason="inEffect" role="regulation" startPeriod="2021-08-12" status="operational" temporalId="s39"><num value="39">39.</num><heading>Special regulations as to extra high pressure</heading><subsection id="ID_1438412411105_011" name="1" temporalId="s39_1"><num value="1">(1)</num><content>This regulation shall have effect in the case of a supply at extra high
+                pressure, and shall be in addition to and not in substitution for the obligations
+                imposed by the foregoing regulations.</content></subsection><subsection id="ID_1438412411105_019" name="2" temporalId="s39_2"><num value="2">(2)</num><content>An extra high pressure main shall not be brought into use unless, after it has
+                been placed in position and before it is used for the purposes of supply, the
+                insulation of every part thereof has withstood the continuous application, during
+                half an hour, of pressure exceeding the maximum pressure to which it is intended to
+                be subject in use, that is to say, in the case of every electric line to be used for
+                a pressure not exceeding
+                10,000
+                volts twice the said maximum pressure, and in the case of a line to be used for a
+                pressure exceeding
+                10,000
+                volts, a pressure exceeding the said maximum pressure by
+                10,000
+                volts; and the company shall record the results of the tests of each main or section
+                of a main.</content></subsection><subsection id="ID_1438412411121_005" name="3" temporalId="s39_3"><num value="3">(3)</num><content>Every extra high pressure main shall be protected by a suitable fuse or
+                automatic circuit-breaker, but in the case of a concentric main that fuse or
+                circuit-breaker shall not be inserted in any external conductor thereof which is
+                connected with
+                earth.</content></subsection><subsection id="ID_1438412411136_005" name="4" temporalId="s39_4"><num value="4">(4)</num><content>In every case where an extra high pressure supply is transformed or converted
+                to a reduced pressure, some suitable automatic and quick-acting means shall be
+                provided to protect the reduced pressure circuits from any accidental contact with
+                or leakage from the extra high pressure system, either within or without the
+                transforming or converting apparatus.</content></subsection><subsection id="ID_1438412411136_013" name="5" temporalId="s39_5"><num value="5">(5)</num><content>All metal conduits, pipes or casings containing any extra high pressure
+                electric line shall be efficiently connected with earth and shall be so jointed and
+                connected across all street boxes and other openings as to make good electrical
+                connexion
+                throughout their whole length.</content></subsection><subsection id="ID_1438412411152_005" name="6" temporalId="s39_6"><num value="6">(6)</num><content>Every portion of any extra high pressure electric line placed above the surface
+                of the ground, otherwise than in a sub-station, or in any subway not in the sole
+                occupation of the company, shall be completely inclosed either in a tube of highly
+                insulated material embedded in brickwork, masonry or cement-concrete, or in strong
+                metal casing efficiently connected with earth.</content></subsection><subsection id="ID_1438412411152_013" name="7" temporalId="s39_7"><num value="7">(7)</num><paragraph id="ID_1438412411152_017" name="a" temporalId="s39_7_a"><num value="a">(a)</num><content>Where extra high pressure mains for three-phase supply consist of insulated
+                    conductors laid together, provision shall be made to ensure that neither the
+                    ground nor any neighbouring or electric line or conductor can become charged by
+                    leakage from any such main.</content></paragraph><paragraph id="ID_1438412411152_023" name="b" temporalId="s39_7_b"><num value="b">(b)</num><content>Where this provision is made by a copper strip under a lead sheath that
+                    strip shall be not less than sixteen-thousandths of an inch in thickness, and
+                    where it is made by steel wires outside a lead sheath each of those wires shall
+                    be not less than one-tenth of an inch in diameter.</content></paragraph><paragraph id="ID_1438412411168_006" name="c" temporalId="s39_7_c"><num value="c">(c)</num><content>Where the mains are inclosed in a lead sheath the sheath shall be not less
+                    than one-tenth of an inch in thickness and shall be permanently and efficiently
+                    connected with
+                    earth.</content></paragraph></subsection><subsection id="ID_1438412411168_013" name="8" temporalId="s39_8"><num value="8">(8)</num><content>Extra high pressure mains for single phase supply and all cables connected
+                therewith shall consist either of 2 concentric conductors or of separate conductors.
+                Where concentric conductors are used the insulation shall be maintained efficiently
+                throughout except that the outer conductor shall be connected with earth at 1 point,
+                and where separate conductors are used provision shall be made as in the case of
+                mains for three-phase supply to ensure that neither the ground nor any neighbouring
+                electric line or conductor can become charged by leakage.</content></subsection><subsection id="ID_1438412411183_005" name="9" temporalId="s39_9"><num value="9">(9)</num><content>An extra high pressure electric line shall not be brought into use for the
+                supply of energy before it has been completely laid, properly jointed, examined and
+                tested or until it is in the sole charge of the company, and every such line shall
+                during its use be in the sole charge of the company.</content></subsection><subsection id="ID_1438412411183_013" name="10" temporalId="s39_10"><num value="10">(10)</num><content>
+                <leadIn>Extra high pressure mains shall not pass through the same street box with
+                    other mains, unless they are inclosed in strong metal casing; and street boxes
+                    containing high pressure mains shall not contain pipes for water, gas or other
+                    service, or electric mains belonging to another undertaking:</leadIn>
+                <proviso name="proviso" temporalId="s39_10_proviso">Provided that any such street
+                    box may contain telephone wires belonging to the company.</proviso>
+            </content></subsection><subsection id="ID_1438412411183_027" name="11" temporalId="s39_11"><num value="11">(11)</num><content>Sub-stations supplied at extra high pressure shall be established in suitable
+                places and shall be in the sole occupation of the company.</content></subsection><subsection id="ID_1438412411183_035" name="12" temporalId="s39_12"><num value="12">(12)</num><content>Sub-stations constructed below the surface of any street after 2 December 1921,
+                to which an extra high pressure is to be given shall not contain switches or
+                apparatus other than transformers.</content></subsection><subsection id="ID_1438412411199_005" name="13" temporalId="s39_13"><num value="13">(13)</num><content>The transforming apparatus at any sub-station supplied at extra high pressure
+                shall be so arranged that there shall be no danger of any mains connected therewith
+                being charged to any pressure beyond the limits of pressure for which those mains
+                are intended.</content></subsection><subsection id="ID_1438412411199_013" name="14" temporalId="s39_14"><num value="14">(14)</num><content>In delivering the energy to a sub-station at extra high pressure the company
+                shall exercise all due precautions so as to avoid risk of causing fire on the
+                premises.</content></subsection><subsection id="ID_1438412411199_021" name="15" temporalId="s39_15"><num value="15">(15)</num><content>All extra high pressure electric lines and apparatus placed in a sub-station
+                shall be highly insulated and thoroughly protected against injury to the insulation
+                or access of moisture, and any metal forming part of the electric circuit shall not,
+                unless efficiently connected with earth, be exposed so that it can be inadvertently
+                touched. All such lines shall be so fixed and protected as to prevent the
+                possibility of electrical discharge to any adjacent metallic substance.</content></subsection><subsection id="ID_1438412411214_005" name="16" temporalId="s39_16"><num value="16">(16)</num><content>The Director of Electrical and Mechanical Services shall be entitled to enter
+                at all times any of the generating stations or sub-stations of the company supplying
+                or supplied at an extra high pressure, and to make any such examination and tests of
+                the mains, machines, transformers or other apparatus in use in those stations as may
+                appear to him necessary, and the company shall afford all due facilities for any
+                such examination and tests.<inline class="width_3"> </inline><sourceNote>(<ref href="/hk/1982/ln76">L.N. 76 of 1982</ref>; <ref href="/hk/1982/ln298">L.N.
+                        298 of 1982</ref>)</sourceNote></content></subsection><subsection id="ID_1438412411230_005" name="17" temporalId="s39_17"><num value="17">(17)</num><content>Where any extra high pressure circuit is connected with earth the
+                connexion
+                shall be made at one point only, namely at the generating station, sub-station or
+                transformer, and the insulation of the circuit shall, except at that point, be
+                efficiently maintained throughout.</content></subsection><subsection id="ID_1438412411230_013" name="18" temporalId="s39_18"><num value="18">(18)</num><paragraph id="ID_1438412411230_017" name="a" temporalId="s39_18_a"><num value="a">(a)</num><content>The neutral point of the star winding of each distinct three-phase circuit,
+                    used for extra high pressure, may be connected with earth or may be insulated.
+                    If connected with earth through a resistance, that resistance shall be
+                    sufficiently low to ensure that the fuse or automatic circuit-breaker in the
+                    mains shall act.</content></paragraph><paragraph id="ID_1438412411230_023" name="b" temporalId="s39_18_b"><num value="b">(b)</num><content>If the neutral point is not connected with earth a separate electro-static
+                    voltmeter placed in a conspicuous position in the generating station shall be
+                    connected between each circuit and earth; and if the indications of the
+                    voltmeters show that the insulation of any of the circuits is faulty, immediate
+                    steps shall be taken to restore the insulation.</content></paragraph></subsection></section><crossHeading class="tied-tag-crossHeading-center add-toc">Penalties</crossHeading><section id="ID_1438403162195_001" name="s40" reason="inEffect" role="regulation" startPeriod="2021-08-12" status="operational" temporalId="s40"><num value="40">40.</num><heading>Penalties for default</heading><subsection id="ID_1438412411292_020" name="1" temporalId="s40_1"><num value="1">(1)</num><content>If the company makes default in complying with any of these regulations, it
+                shall be liable to a penalty of $100 for every such default and in the case of
+                continuing offence to a further penalty of $100 for each day during which the
+                offence continues.</content></subsection><subsection id="ID_1438412411308_005" name="2" temporalId="s40_2"><num value="2">(2)</num><content>The recovery of a penalty under these regulations shall not affect the
+                liability of the company to make compensation in respect of any damage or injury
+                which may be caused by reason of the default.</content></subsection></section><crossHeading class="tied-tag-crossHeading-center add-toc">Exemptions</crossHeading><section id="ID_1438403162195_003" name="s41" reason="repealed" role="regulation" startPeriod="1997-06-30" status="repealed" temporalId="s41"><num value="41">41.</num><sourceNote>(Repealed <ref href="/hk/1990/ln215">L.N. 215 of 1990</ref>)</sourceNote></section><section id="ID_1438403162211_002" name="s42" reason="repealed" role="regulation" startPeriod="1997-06-30" status="repealed" temporalId="s42"><num value="42">42.</num><sourceNote>(Repealed <ref href="/hk/1990/ln215">L.N. 215 of 1990</ref>)</sourceNote></section><crossHeading class="tied-tag-crossHeading-center add-toc">Citation</crossHeading><section id="ID_1438403162211_004" name="s43" reason="inEffect" role="regulation" startPeriod="2021-08-12" status="operational" temporalId="s43"><num value="43">43.</num><heading>Citation</heading><content>These regulations may be cited as the Electricity Supply Regulations.</content></section></main></subLeg>

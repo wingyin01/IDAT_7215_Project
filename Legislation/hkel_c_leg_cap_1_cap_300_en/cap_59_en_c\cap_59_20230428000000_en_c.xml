@@ -1,0 +1,676 @@
+<?xml version="1.0" encoding="UTF-8"?><ordinance xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd" xml:lang="en"><meta><docName>Cap. 59</docName><docType>cap</docType><docNumber>59</docNumber><docStatus>In effect</docStatus><dc:identifier>/hk/cap59!en</dc:identifier><dc:date>2023-04-28</dc:date><dc:subject>legislation</dc:subject><dc:language>en</dc:language><dc:publisher>DoJ</dc:publisher><dc:rights>the Government of the Hong Kong Special Administrative Region</dc:rights></meta><main xml:lang="en" xsi:schemaLocation="http://www.xml.gov.hk/schemas/hklm/1.0 https://www.elegislation.gov.hk/schemas/hklm.xsd"><longTitle id="ID_1438403494785_001" name="longTitle" reason="inEffect" status="operational" temporalId="longTitle" startPeriod="2015-11-12">
+            <content>To amend the
+                law
+                relating to factories and industrial undertakings and to the employment of women,
+                young persons and children
+                therein.<marker role="blank-line"></marker><marker role="blank-line"></marker></content>
+        </longTitle><commencementNote>[29 September 1955]</commencementNote><sourceNote>(Format changes—<ref href="hk/2015/er3">E.R. 3 of 2015</ref>)</sourceNote><section id="ID_1438403494785_003" name="s1" reason="inEffect" startPeriod="2015-11-12" status="operational" temporalId="s1"><num value="1">1.</num><heading>Short title</heading><content>This Ordinance may be cited as the <shortTitle>Factories and Industrial Undertakings Ordinance</shortTitle>.</content></section><section id="ID_1438403494800_002" name="s2" reason="inEffect" startPeriod="2015-11-12" status="operational" temporalId="s2"><num value="2">2.</num><heading>Interpretation</heading><subsection id="ID_1438413602736_011" name="1" temporalId="s2_1"><num value="1">(1)</num><leadIn>In this Ordinance, unless the context otherwise requires—</leadIn><def name="ApprovedCode"><term>approved code</term> (<term xml:lang="zh-Hant-HK">認可守則</term>) means a code of practice issued under <ref>section 7A</ref>;
+                <sourceNote>(Added <ref href="/hk/1993/81">81 of 1993 s. 2</ref>)</sourceNote></def><def name="BodilyInjury"><term>bodily injury</term> (<term xml:lang="zh-Hant-HK">身體傷害</term>) includes injury to health;</def><def name="Child"><term>child</term> (<term xml:lang="zh-Hant-HK">兒童</term>) has the meaning assigned to it in the Employment Ordinance (<ref href="/hk/cap57">Cap. 57</ref>);
+                <sourceNote>(Replaced <ref href="/hk/1979/55">55 of 1979 s. 2</ref>)</sourceNote></def><def name="Commissioner">
+                <leadIn><term>Commissioner</term> (<term xml:lang="zh-Hant-HK">處長</term>) means the Commissioner for Labour holding office under the Occupational Safety and Health Ordinance (<ref href="/hk/cap509">Cap. 509</ref>), and—</leadIn>
+                <paragraph id="ID_1438413602751_012" name="a" temporalId="s2_1_a"><num value="a">(a)</num><content>includes any person who is acting in that office; and</content></paragraph>
+                <paragraph id="ID_1438413602751_020" name="b" temporalId="s2_1_b"><num value="b">(b)</num><content>in relation to the exercise or performance of a particular function conferred or imposed on the Commissioner by or under this Ordinance, also includes (subject to <ref>section 3</ref>) any person authorized to exercise or perform the function;
+                        <sourceNote>(Replaced <ref href="/hk/1997/39">39 of 1997 s. 48</ref>)</sourceNote></content></paragraph>
+            </def><def name="ConstructionWork">
+                <leadIn><term>construction work</term> (<term xml:lang="zh-Hant-HK">建築工程</term>) means—</leadIn>
+                <paragraph id="ID_1438413602751_034" name="a" temporalId="s2_1_a-1"><num value="a">(a)</num><content>the construction, erection, installation, reconstruction, repair,
+                        maintenance (including redecoration and external cleaning), renewal,
+                        removal, alteration, improvement, dismantling, or demolition of any
+                        structure or works specified in
+                        <ref>Schedule
+                            3</ref>;</content></paragraph>
+                <paragraph id="ID_1438413602767_006" name="b" temporalId="s2_1_b-1"><num value="b">(b)</num><content>any work involved in preparing for any operation referred to in paragraph (a), including the laying of foundations and the excavation of earth and rock prior to the laying of foundations;</content></paragraph>
+                <paragraph id="ID_1438413602767_014" name="c" temporalId="s2_1_c"><num value="c">(c)</num><content>the use of machinery, plant, tools, gear, and materials in connexion with any operation referred to in paragraph (a) or (b);
+                        <sourceNote>(Added <ref href="/hk/1973/52">52 of 1973 s. 2</ref>)</sourceNote></content></paragraph>
+            </def><def name="Container">
+                <leadIn><term>container</term> (<term xml:lang="zh-Hant-HK">貨櫃</term>) means an article of transport equipment—</leadIn>
+                <paragraph id="ID_1438413602767_028" name="a" temporalId="s2_1_a-2"><num value="a">(a)</num><content>of a permanent character and accordingly strong enough to be suitable for repeated use;</content></paragraph>
+                <paragraph id="ID_1438413602767_036" name="b" temporalId="s2_1_b-2"><num value="b">(b)</num><content>specially designed to facilitate the transport of goods, by one or more modes of transport, without intermediate reloading;</content></paragraph>
+                <paragraph id="ID_1438413602767_044" name="c" temporalId="s2_1_c-1"><num value="c">(c)</num><content>designed to be secured or readily handled or both and having corner fittings for these purposes; and</content></paragraph>
+                <paragraph id="ID_1438413602767_052" name="d" temporalId="s2_1_d"><num value="d">(d)</num><leadIn>of a size such that the area enclosed by the 4 outer bottom corners is either—</leadIn><subparagraph id="ID_1438413602783_006" name="i" temporalId="s2_1_d_i"><num value="i">(i)</num><content>at least 14 square metres; or</content></subparagraph><subparagraph id="ID_1438413602783_014" name="ii" temporalId="s2_1_d_ii"><num value="ii">(ii)</num><content>at least 7 square metres if it is fitted with top corner fittings;
+                            <sourceNote>(Added <ref href="/hk/1992/32">32 of 1992 s. 2</ref>)</sourceNote></content></subparagraph></paragraph>
+            </def><def name="ContainerHandling"><term>container handling</term> (<term xml:lang="zh-Hant-HK">貨櫃處理作業</term>) means the loading, unloading, handling, stacking, unstacking, storing or maintaining (including repairing) of containers;
+                <sourceNote>(Added <ref href="/hk/1999/53">53 of 1999 s. 2</ref>)</sourceNote></def><def name="Contractor"><term>contractor</term> (<term xml:lang="zh-Hant-HK">承建商</term>), in relation to construction work, means any person or firm engaged in carrying out construction work by way of trade or business, either on his own account or pursuant to a contract or arrangement entered into with another person, including the State or any public body;
+                <sourceNote>(Added <ref href="/hk/1973/52">52 of 1973 s. 2</ref>. Amended <ref href="/hk/2000/54">54 of 2000 s. 3</ref>)</sourceNote></def><def name="CornerFittings"><term>corner fittings</term> (<term xml:lang="zh-Hant-HK">夾角接頭</term>) means an arrangement of apertures and faces either at the top or at the bottom or both at the top and the bottom of a container for the purposes of handling, stacking and securing or any of these purposes;
+                <sourceNote>(Added <ref href="/hk/1992/32">32 of 1992 s. 2</ref>)</sourceNote></def><def name="Court"><term>court</term> (<term xml:lang="zh-Hant-HK">法庭</term>) includes a magistrate;
+                <sourceNote>(Added <ref href="/hk/1993/81">81 of 1993 s. 2</ref>)</sourceNote></def><def name="DangerousTrade"><term>dangerous
+                    trade</term>
+                    (<term xml:lang="zh-Hant-HK">危險行業</term>) means any trade, process or occupation
+                specified in
+                <ref>Schedule
+                    1</ref>;</def><def name="Factory">
+                <leadIn><term>factory</term> (<term xml:lang="zh-Hant-HK">工廠</term>) means any premises or place, (other than a mine or quarry), in which articles are manufactured, altered, cleansed, repaired, ornamented, finished, adapted for sale, broken up or demolished or in which materials are transformed, and within the close or curtilage or precincts of which— <sourceNote>(Amended <ref href="/hk/1969/4">4 of 1969 s. 2</ref>)</sourceNote></leadIn>
+                <paragraph id="ID_1438413602798_012" name="a" temporalId="s2_1_a-3"><num value="a">(a)</num><content>any machinery other than machinery worked entirely by hand is used; or</content></paragraph>
+                <paragraph id="ID_1438413602798_020" name="b" temporalId="s2_1_b-3"><num value="b">(b)</num><content>20 or more persons are employed in manual labour;
+                        <sourceNote>(Replaced <ref href="/hk/1983/37">37 of 1983 s. 2</ref>)</sourceNote></content></paragraph>
+            </def><def name="Function"><term>function</term> (<term xml:lang="zh-Hant-HK">職能</term>) includes a power and a duty; <sourceNote>(Added <ref href="/hk/1997/39">39 of 1997 s. 48</ref>)</sourceNote></def><def name="IndustrialUndertaking">
+                <leadIn><term>industrial undertaking</term> (<term xml:lang="zh-Hant-HK">工業經營</term>) includes—</leadIn>
+                <paragraph id="ID_1438413602798_041" name="a" temporalId="s2_1_a-4"><num value="a">(a)</num><content>any factory;</content></paragraph>
+                <paragraph id="ID_1438413602798_049" name="b" temporalId="s2_1_b-4"><num value="b">(b)</num><content>any mine or quarry;
+                        <sourceNote>(Amended <ref href="/hk/1969/4">4 of 1969 s. 2</ref>)</sourceNote></content></paragraph>
+                <paragraph id="ID_1438413602798_057" name="c" temporalId="s2_1_c-2"><num value="c">(c)</num><content>any industry in which articles are manufactured, altered, cleansed, repaired, ornamented, finished, adapted for sale, broken up or demolished, or in which materials are transformed, including shipbuilding;</content></paragraph>
+                <paragraph id="ID_1438413602814_006" name="d" temporalId="s2_1_d-1"><num value="d">(d)</num><content>the generation, transformation, and transmission of electricity or motive power of any kind;</content></paragraph>
+                <paragraph id="ID_1438413602814_014" name="e" temporalId="s2_1_e"><num value="e">(e)</num><content>any construction work;
+                        <sourceNote>(Replaced <ref href="/hk/1973/52">52 of 1973 s. 2</ref>)</sourceNote></content></paragraph>
+                <paragraph id="ID_1438413602814_022" name="f" temporalId="s2_1_f"><num value="f">(f)</num><content>the loading, unloading, or handling of goods or cargo at any dock, quay, wharf, warehouse or airport;
+                        <sourceNote>(Replaced <ref href="/hk/1973/52">52 of 1973 s. 2</ref>. Amended <ref href="/hk/1977/73">73 of 1977 s. 2</ref>)</sourceNote></content></paragraph>
+                <paragraph id="ID_1438413602814_030" name="fa" temporalId="s2_1_fa"><num value="fa">(fa)</num><content>container handling;
+                        <sourceNote>(Replaced <ref href="/hk/1999/53">53 of 1999 s. 2</ref>)</sourceNote></content></paragraph>
+                <paragraph id="ID_1438413602814_038" name="g" temporalId="s2_1_g"><num value="g">(g)</num><content>the carriage of coal, building materials, or debris;
+                        <sourceNote>(Added <ref href="/hk/1973/52">52 of 1973 s. 2</ref>)</sourceNote></content></paragraph>
+                <paragraph id="ID_1438413602814_046" name="h" temporalId="s2_1_h"><num value="h">(h)</num><content>the transport of passengers or goods by road, rail, cableway or aerial ropeway;
+                        <sourceNote>(Replaced <ref href="/hk/1976/19">19 of 1976 s. 32</ref>. Amended <ref href="/hk/1990/77">77 of 1990 s. 2</ref>)</sourceNote></content></paragraph>
+                <paragraph id="ID_1438413602814_054" name="ha" temporalId="s2_1_ha"><num value="ha">(ha)</num><content>the preparation of food for consumption and sale on the premises where it is prepared;
+                        <sourceNote>(Added <ref href="/hk/1990/77">77 of 1990 s. 2</ref>)</sourceNote></content></paragraph>
+                <paragraph id="ID_1438413602814_062" name="i" temporalId="s2_1_i"><num value="i">(i)</num><content>any premises or site in or upon which, and the machinery, plant, tools, gear and materials with which, any of the foregoing industrial undertakings is carried on;
+                        <sourceNote>(Added <ref href="/hk/1978/37">37 of 1978 s. 2</ref>)</sourceNote></content></paragraph>
+            </def><def name="Mine"><term>mine</term> (<term xml:lang="zh-Hant-HK">礦場</term>) means any works or system of works for the extraction of minerals from the earth;
+                <sourceNote>(Replaced <ref href="/hk/1969/4">4 of 1969 s. 2</ref>)</sourceNote></def><def name="Mineral">
+                <leadIn><term>mineral</term> (<term xml:lang="zh-Hant-HK">礦物</term>) includes—</leadIn>
+                <paragraph id="ID_1438413602829_019" name="a" temporalId="s2_1_a-5"><num value="a">(a)</num><content>metalliferous ores and other substances in their natural state which are obtainable only by mining or in the course of prospecting operations;</content></paragraph>
+                <paragraph id="ID_1438413602829_027" name="b" temporalId="s2_1_b-5"><num value="b">(b)</num><content>metalliferous ores and other substances in their natural state mined or obtained in the course of prospecting operations;</content></paragraph>
+                <paragraph id="ID_1438413602829_035" name="c" temporalId="s2_1_c-3"><num value="c">(c)</num><content>the valuable parts of such ores or other substances when unmanufactured;</content></paragraph>
+                <paragraph id="ID_1438413602829_043" name="d" temporalId="s2_1_d-2"><num value="d">(d)</num><content>the product of treating or dressing such ores or other substances for marketing or export; and</content></paragraph>
+                <paragraph id="ID_1438413602829_051" name="e" temporalId="s2_1_e-1"><num value="e">(e)</num><content>kaolin,</content></paragraph>
+                <continued>but does not include—</continued>
+                <paragraph id="ID_1438413602829_065" name="i" temporalId="s2_1_i-1"><num value="i">(i)</num><content>any clay other than kaolin;</content></paragraph>
+                <paragraph id="ID_1438413602829_073" name="ii" temporalId="s2_1_ii"><num value="ii">(ii)</num><content>granite, porphyry, limestone or sand;</content></paragraph>
+                <paragraph id="ID_1438413602845_005" name="iii" temporalId="s2_1_iii"><num value="iii">(iii)</num><content>any common mineral substance which the Chief Executive by notice in the Gazette under the Mining Ordinance (<ref href="/hk/cap285">Cap. 285</ref>) has declared not to be a mineral for the purposes of the provisions of that Ordinance other than <ref>section 3</ref> thereof; or
+                        <sourceNote>(Amended <ref href="/hk/2000/54">54 of 2000 s. 3</ref>)</sourceNote></content></paragraph>
+                <paragraph id="ID_1438413602845_013" name="iv" temporalId="s2_1_iv"><num value="iv">(iv)</num><content>any mineral oil;
+                        <sourceNote>(Added <ref href="/hk/1969/4">4 of 1969 s. 2</ref>)</sourceNote></content></paragraph>
+            </def><def name="NotifiableWorkplace">
+                <leadIn><term>notifiable workplace</term> (<term xml:lang="zh-Hant-HK">應呈報工場</term>) means—</leadIn>
+                <paragraph id="ID_1438413602845_027" name="a" temporalId="s2_1_a-6"><num value="a">(a)</num><content>any factory, mine or quarry; and</content></paragraph>
+                <paragraph id="ID_1438413602845_035" name="b" temporalId="s2_1_b-6"><num value="b">(b)</num><content>any premises or place in which a dangerous trade or scheduled trade is carried on or is proposed to be carried on,</content></paragraph>
+                <continued>but does not include a construction site within the meaning of the Construction Sites (Safety) Regulations (<ref href="/hk/cap59I">Cap. 59 sub. leg. I</ref>); <sourceNote>(Added <ref href="/hk/1985/50">50 of 1985 s. 2</ref>)</sourceNote></continued>
+            </def><def name="OccupationalSafetyOfficer"><term>occupational safety officer</term> (<term xml:lang="zh-Hant-HK">職業安全主任</term>) has the same meaning as in the Occupational Safety and Health Ordinance (<ref href="/hk/cap509">Cap. 509</ref>);
+                <sourceNote>(Added <ref href="/hk/1997/39">39 of 1997 s. 48</ref>)</sourceNote></def><def name="ProhibitionNotice"><term>prohibition notice</term> (<term xml:lang="zh-Hant-HK">禁止通知書</term>) means a notice issued under <ref>section 9A(1)</ref>;
+                <sourceNote>(Added <ref href="/hk/1985/50">50 of 1985 s. 2</ref>)</sourceNote></def><def name="Proprietor"><term>proprietor</term> (<term xml:lang="zh-Hant-HK">東主</term>) in relation to any industrial undertaking or notifiable workplace includes the person for the time being having the management or control of the business carried on in such industrial undertaking or notifiable workplace and includes a body corporate and a firm and also the occupier of any industrial undertaking or notifiable workplace and the agent of such occupier;
+                <sourceNote>(Amended <ref href="/hk/1985/50">50 of 1985 s. 2</ref>; <ref href="/hk/1989/71">71 of 1989 s. 2</ref>)</sourceNote></def><def name="Quarry"><term>quarry</term> (<term xml:lang="zh-Hant-HK">石礦場</term>) means any works or system of works the principal purpose of which is to extract from the earth for commercial purposes any granite, porphyry or limestone;
+                <sourceNote>(Added <ref href="/hk/1969/4">4 of 1969 s. 2</ref>)</sourceNote></def><def name="ScheduledTrade"><term>scheduled
+                    trade</term>
+                    (<term xml:lang="zh-Hant-HK"><ref>附表</ref>所列行業</term>) means any trade, process
+                or occupation specified in
+                <ref>Schedule
+                    2</ref>;</def><def name="YoungPerson"><term>young person</term> (<term xml:lang="zh-Hant-HK">青年</term>) has the meaning assigned to it in the Employment Ordinance (<ref href="/hk/cap57">Cap. 57</ref>).
+                <sourceNote>(Replaced <ref href="/hk/1979/55">55 of 1979 s. 2</ref>)</sourceNote></def></subsection><sourceNote>(Amended <ref href="/hk/1997/39">39 of 1997 s. 48</ref>)</sourceNote><subsection id="ID_1438413602876_011" name="2" temporalId="s2_2"><num value="2">(2)</num><content>A woman, young person or child who works in an industrial undertaking, whether for wages or not, either in a process or in cleaning any part of the industrial undertaking used for any process, or in cleaning or oiling any part of the machinery or plant, or in any other kind of work whatsoever incidental to or connected with the process, or connected with the article made or otherwise the subject of the process therein, shall be deemed to be employed therein for the purposes of this Ordinance or any proceedings thereunder.
+                <sourceNote>(Added <ref href="/hk/1961/51">51 of 1961 s. 2</ref>)</sourceNote></content></subsection><subsection id="ID_1438413602892_005" name="3" temporalId="s2_3"><num value="3">(3)</num><leadIn>None of the provisions of this Ordinance shall apply to— <sourceNote>(Amended <ref href="/hk/1977/73">73 of 1977 s. 2</ref>; <ref href="/hk/1980/11">11 of 1980 s. 2</ref>)</sourceNote></leadIn><paragraph id="ID_1438413602892_013" name="a" temporalId="s2_3_a"><num value="a">(a)</num><content>any undertaking which is not carried on by way of trade or for purposes of gain; or</content></paragraph><paragraph id="ID_1438413602892_021" name="b" temporalId="s2_3_b"><num value="b">(b)</num><content>any agricultural operation.
+                    <sourceNote>(Amended <ref href="/hk/1990/77">77 of 1990 s. 2</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438413602892_029" name="c" temporalId="s2_3_c"><num value="c">(c)</num><sourceNote>(Repealed <ref href="/hk/1990/77">77 of 1990 s. 2</ref>)</sourceNote></paragraph></subsection><sourceNote>(Amended <ref href="/hk/1985/50">50 of 1985 s. 2</ref>; <ref href="hk/2015/er3">E.R. 3 of 2015</ref>)</sourceNote></section><section id="ID_1438403494816_002" name="s3" reason="inEffect" startPeriod="2015-11-12" status="operational" temporalId="s3"><num value="3">3.</num><heading>Certain functions to be exercised or performed by Commissioner personally</heading><content>The functions conferred or imposed on the Commissioner by <ref>sections 4(2)</ref> and (2A), <ref>7(1)</ref> to (3), <ref>7A</ref> and <ref>8</ref> may be exercised or performed only by the Commissioner personally.</content><sourceNote>(Replaced <ref href="/hk/1997/39">39 of 1997 s. 48</ref>)</sourceNote></section><section id="ID_1438403494832_001" name="s4" reason="inEffect" startPeriod="2015-11-12" status="operational" temporalId="s4"><num value="4">4.</num><heading>Powers of officers</heading><subsection id="ID_1438413603063_011" name="1" temporalId="s4_1"><num value="1">(1)</num><leadIn>An occupational safety officer may exercise the following powers— <sourceNote>(Replaced <ref href="/hk/1965/10">10 of 1965 s. 4</ref>. Amended <ref href="/hk/1977/73">73 of 1977 s. 4</ref>; <ref href="/hk/1989/71">71 of 1989 s. 4</ref>; <ref href="/hk/1997/39">39 of 1997 s. 48</ref>)</sourceNote></leadIn><paragraph id="ID_1438413603063_019" name="a" temporalId="s4_1_a"><num value="a">(a)</num><content>to enter, inspect and examine at all reasonable times, by day and night, any premises or place in which he knows or has reasonable cause to believe that an industrial undertaking is being carried on;</content></paragraph><paragraph id="ID_1438413603079_006" name="b" temporalId="s4_1_b"><num value="b">(b)</num><sourceNote>(Repealed <ref href="/hk/1977/73">73 of 1977 s. 4</ref>)</sourceNote></paragraph><paragraph id="ID_1438413603079_014" name="c" temporalId="s4_1_c"><num value="c">(c)</num><content>to require the production of any register or other document required to be kept under this Ordinance and inspect, examine and copy the same;</content></paragraph><paragraph id="ID_1438413603079_022" name="d" temporalId="s4_1_d"><num value="d">(d)</num><content>to make such examination and inquiry as may be necessary to ascertain whether the requirements of this Ordinance are complied with, and seize anything which may appear to be evidence of an offence against this Ordinance;</content></paragraph><paragraph id="ID_1438413603079_030" name="e" temporalId="s4_1_e"><num value="e">(e)</num><content>to examine, either alone or in the presence of any other person, as he thinks fit, respecting matters under this Ordinance, any person whom he finds in any industrial undertaking, or whom he has reasonable cause to believe has been within the preceding 2 months employed in any industrial undertaking, or require any such person to be so examined and to sign a declaration of the truth of the matters respecting which he has been so examined;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1969/4">4 of 1969 s. 4</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438413603095_006" name="f" temporalId="s4_1_f"><num value="f">(f)</num><content>to require any person who employs or has employed any woman, young person or child in an industrial undertaking or any agent or servant of any such employer to give to him all information in the possession of such person, agent or servant with reference to such woman, young person or child and to the labour conditions and treatment of every woman, young person and child employed by such employer;</content></paragraph><paragraph id="ID_1438413603110_006" name="g" temporalId="s4_1_g"><num value="g">(g)</num><content>to remove and detain for inquiries in a place of refuge appointed under any Ordinance for the time being in force relating to women, young persons or children any young person or child whom he finds in any place in or in respect of which he has reasonable cause to suspect that an offence against this Ordinance has been committed;</content></paragraph><paragraph id="ID_1438413603110_014" name="h" temporalId="s4_1_h"><num value="h">(h)</num><content>to require the posting up, in such place and manner and for such period as
+                    he may direct, of any notice in
+                    connexion
+                    with the provisions of this Ordinance or any matter related to the manufacture
+                    carried out, or machinery, plant, process or persons employed in any industrial
+                    undertaking; and<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1980/11">11 of 1980 s. 3</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438413603126_006" name="i" temporalId="s4_1_i"><num value="i">(i)</num><content>any other powers which may be conferred by any regulation made under this Ordinance.</content></paragraph></subsection><subsection id="ID_1438413603126_013" name="2" temporalId="s4_2"><num value="2">(2)</num><content>Any Health Officer, any officer of the Fire Services Department with the written authority of the Director of Fire Services and any officer specially authorized by the Commissioner may, subject to such directions as the Commissioner may impose, at any time enter and inspect any industrial undertaking for the purpose of ascertaining whether the requirements of this Ordinance are complied with.
+                <sourceNote>(Amended <ref href="/hk/1961/42">42 of 1961 s. 2</ref>; <ref href="/hk/1969/4">4 of 1969 s. 4</ref>; <ref href="/hk/1997/39">39 of 1997 s. 48</ref>)</sourceNote></content></subsection><subsection id="ID_1438413603141_005" name="2A" temporalId="s4_2A"><num value="2A">(2A)</num><content>An officer exercising any power conferred on him by subsection (1) may take with him any person, whether a public officer or not, whom he may reasonably need to assist him in carrying out his duties under this Ordinance and in particular may, for his assistance, take persons who have been engaged by the Commissioner, on account of their special expertise, to advise the Commissioner on the safety and health of persons employed in industrial undertakings.
+                <sourceNote>(Added <ref href="/hk/1977/73">73 of 1977 s. 4</ref>; <ref href="/hk/1997/39">39 of 1997 s. 48</ref>)</sourceNote></content></subsection><subsection id="ID_1438413603141_013" name="2B" temporalId="s4_2B"><num value="2B">(2B)</num><leadIn>A person who accompanies an officer pursuant to subsection (2A)—</leadIn><paragraph id="ID_1438413603157_005" name="a" temporalId="s4_2B_a"><num value="a">(a)</num><content>may give to the officer such assistance in the exercise of any power conferred on him by subsection (1) as the officer may reasonably require;</content></paragraph><paragraph id="ID_1438413603157_013" name="b" temporalId="s4_2B_b"><num value="b">(b)</num><content>shall be deemed to be a public officer for the purposes of <ref>section 6</ref>.
+                    <sourceNote>(Added <ref href="/hk/1977/73">73 of 1977 s. 4</ref>. Amended <ref href="/hk/2000/32">32 of 2000 s. 48</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1438413603157_020" name="3" temporalId="s4_3"><num value="3">(3)</num><content>The powers conferred by this Ordinance on any officer shall be in addition to and not in substitution for any other powers which such officer may possess.</content></subsection></section><section id="ID_1438403494832_003" name="s5" reason="repealed" startPeriod="1997-06-30" status="repealed" temporalId="s5"><num value="5">5.</num><sourceNote>(Repealed <ref href="/hk/1997/39">39 of 1997 s. 48</ref>)</sourceNote></section><section id="ID_1438403494847_001" name="s6" reason="inEffect" startPeriod="2015-11-12" status="operational" temporalId="s6"><num value="6">6.</num><heading>Employment not to be terminated, etc. by reason of fact that employee has given evidence in proceedings under Ordinance, etc.</heading><leadIn>No employer shall terminate, or threaten to terminate, the employment of, or in any way discriminate against, any of his employees by reason of the fact that the employee has—</leadIn><paragraph id="ID_1438413603282_005" name="a" temporalId="s6_a"><num value="a">(a)</num><content>given evidence, or agreed to give evidence, in any proceeding for the enforcement of any of the provisions of this Ordinance; or</content></paragraph><paragraph id="ID_1438413603282_013" name="b" temporalId="s6_b"><num value="b">(b)</num><content>given information to a public officer in any inquiry made by such officer for
+                the purposes of or in
+                connexion
+                with the enforcement of any of the provisions of this Ordinance.</content></paragraph><sourceNote>(Added <ref href="/hk/1961/51">51 of 1961 s. 3</ref>. Amended <ref href="/hk/1969/4">4 of 1969 s. 5</ref>)</sourceNote></section><section id="ID_1438403494847_003" name="s6A" reason="inEffect" startPeriod="2023-04-28" status="operational" temporalId="s6A"><num value="6A">6A.</num><heading>General duties of a proprietor</heading><subsection id="ID_1438413603313_004" name="1" temporalId="s6A_1"><num value="1">(1)</num><content>It shall be the duty of every proprietor of an industrial undertaking to
+                ensure, so far as is reasonably practicable, the health and safety at work of all
+                persons employed by
+                the
+                proprietor at the industrial undertaking.</content></subsection><subsection id="ID_1438413603313_012" name="2" temporalId="s6A_2"><num value="2">(2)</num><leadIn>Without prejudice to the generality of a proprietor’s duty under subsection (1),
+                the matters to which that duty extends include in particular—</leadIn><paragraph id="ID_1438413603313_020" name="a" temporalId="s6A_2_a"><num value="a">(a)</num><content>the provision and maintenance of plant and systems of work that are, so far
+                    as is reasonably practicable, safe and without risks to health;</content></paragraph><paragraph id="ID_1438413603329_006" name="b" temporalId="s6A_2_b"><num value="b">(b)</num><content>arrangements for ensuring, so far as is reasonably practicable, safety and
+                    absence of risks to health in connection with the use, handling, storage and
+                    transport of articles and substances;</content></paragraph><paragraph id="ID_1438413603329_014" name="c" temporalId="s6A_2_c"><num value="c">(c)</num><content>the provision of such information, instruction, training and supervision as
+                    is necessary to ensure, so far as is reasonably practicable, the health and
+                    safety at work of all persons employed by
+                    the
+                    proprietor at the industrial undertaking;</content></paragraph><paragraph id="ID_1438413603329_022" name="d" temporalId="s6A_2_d"><num value="d">(d)</num><content>so far as is reasonably practicable as regards any part of the industrial
+                    undertaking under the proprietor’s control, the maintenance of it in a condition
+                    that is safe and without risks to health and the provision and maintenance of
+                    means of access to and egress from it that are safe and without such risks;
+                    and</content></paragraph><paragraph id="ID_1438413603344_006" name="e" temporalId="s6A_2_e"><num value="e">(e)</num><content>the provision and maintenance of a working environment for all persons
+                    employed by
+                    the
+                    proprietor at the industrial undertaking that is, so far as is
+                    reasonably practicable, safe, and without risks to health.</content></paragraph></subsection><subsection id="ID_1438413603344_013" name="3" temporalId="s6A_3"><num value="3">(3)</num><leadIn>Subject to subsection (4), a proprietor of an industrial undertaking who
+                contravenes this section commits an offence and is
+                liable—
+                    <sourceNote>(Amended <ref href="/hk/1997/40">40 of 1997 s.
+                        2</ref>; <ref href="hk/2023/5">5 of 2023 s. 3</ref>)</sourceNote></leadIn><paragraph id="ID_1682303764380_001" name="a" temporalId="s6A_3_a"><num value="a">(a)</num><content>on summary conviction—to a fine of $3,000,000; or</content></paragraph><paragraph id="ID_1682303764381_002" name="b" temporalId="s6A_3_b"><num value="b">(b)</num><content>on conviction on indictment—to a fine of $10,000,000.</content></paragraph></subsection><subsection id="ID_1438413603344_021" name="4" temporalId="s6A_4"><num value="4">(4)</num><leadIn>A proprietor of an industrial undertaking who contravenes this section wilfully
+                and without reasonable excuse commits an offence and is liable—
+                <sourceNote>(Amended <ref href="/hk/1997/40">40 of 1997 s.
+                    2</ref>; <ref href="hk/2023/5">5 of 2023 s. 3</ref>)</sourceNote></leadIn><paragraph id="ID_1682303764445_003" name="a" temporalId="s6A_4_a"><num value="a">(a)</num><content>on summary conviction—to a fine of $3,000,000 and to imprisonment for 6
+                    months; or</content></paragraph><paragraph id="ID_1682303764446_004" name="b" temporalId="s6A_4_b"><num value="b">(b)</num><content>on conviction on indictment—to a fine of $10,000,000 and to imprisonment
+                    for 2 years.</content></paragraph></subsection><sourceNote>(Added <ref href="/hk/1989/71">71 of 1989 s. 5</ref>. Amended <ref href="/hk/1993/81">81 of 1993 s.
+            3</ref>; <ref href="hk/2023/5">5 of 2023 s. 3</ref>)</sourceNote></section><section id="ID_1438403494863_001" name="s6B" reason="inEffect" startPeriod="2023-04-28" status="operational" temporalId="s6B"><num value="6B">6B.</num><heading>General duties of persons employed</heading><subsection id="ID_1438413603391_019" name="1" temporalId="s6B_1"><num value="1">(1)</num><leadIn>It shall be the duty of every person employed at an industrial undertaking while
+                at work—</leadIn><paragraph id="ID_1438413603391_027" name="a" temporalId="s6B_1_a"><num value="a">(a)</num><content>to take reasonable care for the health and safety of
+                    the
+                    person and of other persons who may be affected by the
+                    person’s acts or omissions at work; and</content></paragraph><paragraph id="ID_1438413603407_006" name="b" temporalId="s6B_1_b"><num value="b">(b)</num><content>as regards any duty or requirement imposed on a proprietor of the
+                    industrial undertaking or on any other person by this Ordinance for securing the
+                    health and safety of persons employed at the industrial undertaking, to
+                    co-operate with
+                    the
+                    proprietor or other person so far as is necessary to enable
+                    that duty or requirement to be performed or complied with.</content></paragraph></subsection><subsection id="ID_1438413603407_013" name="2" temporalId="s6B_2"><num value="2">(2)</num><content>A person who contravenes subsection (1) commits an offence and is
+                liable
+                on conviction to a fine of $150,000.
+                <sourceNote>(Amended <ref href="/hk/1997/40">40 of 1997 s.
+                    3</ref>)</sourceNote></content></subsection><subsection id="ID_1438413603407_021" name="3" temporalId="s6B_3"><num value="3">(3)</num><content>A person employed at an industrial undertaking who wilfully and without
+                reasonable excuse does anything while at work likely to endanger
+                the
+                person or others commits an offence and is liable on conviction to a fine of
+                $150,000 and to imprisonment for 6 months.
+                <sourceNote>(Amended <ref href="/hk/1993/81">81 of 1993 s.
+                    4</ref>; <ref href="hk/2019/er2">E.R. 2 of
+                2019</ref>)</sourceNote></content></subsection><sourceNote>(Added <ref href="/hk/1989/71">71 of 1989 s.
+            5</ref>. Amended <ref href="hk/2023/5">5 of 2023 s. 4</ref>)</sourceNote></section><section id="ID_1438403494863_003" name="s6BA" reason="inEffect" startPeriod="2023-04-28" status="operational" temporalId="s6BA"><num value="6BA">6BA.</num><heading>Proprietor of relevant industrial undertaking not to employ, etc. relevant person
+            who does not have relevant certificate</heading><subsection id="ID_1438413603469_004" name="1" temporalId="s6BA_1"><num value="1">(1)</num><leadIn>In this section—</leadIn><def name="AppointedDay"><term>appointed
+                    day</term>
+                    (<term xml:lang="zh-Hant-HK">指定日期</term>) means the day appointed under
+                subsection (17);</def><def name="Certificate"><term>certificate</term>
+                    (<term xml:lang="zh-Hant-HK">證明書</term>) means a certificate referred to in
+                subsection (2);</def><def name="EquivalentDocument"><term>equivalent document</term> (<term xml:lang="zh-Hant-HK">同等文件</term>) means a document recognized by the
+                Commissioner for the purposes of <ref>section 6BA(7)(a)</ref> as being equivalent to
+                a person’s relevant certificate;
+                <sourceNote>(Added <ref href="/hk/2014/22">22 of 2014 s.
+                    41</ref>)</sourceNote></def><def name="RelevantCertificate"><term>relevant
+                    certificate</term>
+                    (<term xml:lang="zh-Hant-HK">有關證明書</term>), in relation to a relevant person
+                employed at a relevant industrial undertaking, means the certificate issued to the
+                person in respect of his attendance at the relevant safety training course which
+                relates to that undertaking;</def><def name="RelevantIndustrialUndertaking"><term>relevant
+                    industrial
+                undertaking</term>
+                    (<term xml:lang="zh-Hant-HK">有關工業經營</term>) means an industrial undertaking the
+                subject of a notice under subsection (2);</def><def name="RelevantPerson"><term>relevant
+                    person</term>
+                    (<term xml:lang="zh-Hant-HK">有關人士</term>), in relation to a relevant industrial
+                undertaking, means a person the subject of a notice under subsection (2) in the case
+                of that undertaking;</def><def name="RelevantSafetyTrainingCourse"><term>relevant
+                    safety training
+                course</term>
+                    (<term xml:lang="zh-Hant-HK">有關安全訓練課程</term>), in relation to a relevant person,
+                means the safety training course the subject of a notice under subsection (2) in the
+                case of the class of persons to which that person belongs.</def></subsection><subsection id="ID_1438413603500_004" name="2" temporalId="s6BA_2"><num value="2">(2)</num><leadIn>The Commissioner may, by notice in the Gazette, or by notice in writing
+                published in such other manner as the Commissioner thinks fit, recognize a safety
+                training course—</leadIn><paragraph id="ID_1438413603500_012" name="a" temporalId="s6BA_2_a"><num value="a">(a)</num><leadIn>for a class of persons—</leadIn><subparagraph id="ID_1438413603500_020" name="i" temporalId="s6BA_2_a_i"><num value="i">(i)</num><content>employed at an industrial undertaking specified in column 1 of
+                            <ref>Schedule
+                            4</ref>; and</content></subparagraph><subparagraph id="ID_1438413603500_028" name="ii" temporalId="s6BA_2_a_ii"><num value="ii">(ii)</num><content>belonging to the persons specified opposite the undertaking in column 2
+                        of that <ref>Schedule</ref>; and</content></subparagraph></paragraph><paragraph id="ID_1438413603500_035" name="b" temporalId="s6BA_2_b"><num value="b">(b)</num><content>in respect of which a certificate is issued to a person who attends the
+                    course.</content></paragraph></subsection><subsection id="ID_1438413603500_042" name="3" temporalId="s6BA_3"><num value="3">(3)</num><content>A certificate issued to a person who attends a safety training course which is
+                subsequently recognized under subsection (2) shall, unless otherwise provided in the
+                notice under that subsection recognizing the course, for the purposes of this
+                Ordinance have the same effect as a certificate issued to a person who attends the
+                course on or after the day on which the course is so recognized.</content></subsection><subsection id="ID_1438413603516_005" name="4" temporalId="s6BA_4"><num value="4">(4)</num><leadIn>Where the Commissioner is satisfied that a relevant person has undergone
+                training—</leadIn><paragraph id="ID_1438413603516_013" name="a" temporalId="s6BA_4_a"><num value="a">(a)</num><content>equivalent to the training provided by a relevant safety training course;
+                    and</content></paragraph><paragraph id="ID_1438413603516_021" name="b" temporalId="s6BA_4_b"><num value="b">(b)</num><content>of a standard not less than the standard of the training provided by that
+                    course,</content></paragraph><continued>then—</continued><paragraph id="ID_1438413603516_035" name="i" temporalId="s6BA_4_i"><num value="i">(i)</num><content>the Commissioner may issue or cause to be issued to the person a
+                    certificate in the same terms as the certificate that would have been issued to
+                    the person if he had attended that course; and</content></paragraph><paragraph id="ID_1438413603531_006" name="ii" temporalId="s6BA_4_ii"><num value="ii">(ii)</num><content>the certificate so issued shall, for the purposes of this Ordinance, have
+                    the same effect as a certificate issued to a person who has attended that
+                    course.</content></paragraph></subsection><subsection id="ID_1438413603531_013" name="5" temporalId="s6BA_5"><num value="5">(5)</num><leadIn>On and after the appointed day, every proprietor of a relevant industrial
+                undertaking—</leadIn><paragraph id="ID_1438413603531_021" name="a" temporalId="s6BA_5_a"><num value="a">(a)</num><content>shall not employ at the undertaking a relevant person who has not been
+                    issued a relevant certificate or whose relevant certificate has
+                    expired;</content></paragraph><paragraph id="ID_1438413603531_029" name="b" temporalId="s6BA_5_b"><num value="b">(b)</num><leadIn>in the case of a relevant person employed at the undertaking—</leadIn><subparagraph id="ID_1438413603531_037" name="i" temporalId="s6BA_5_b_i"><num value="i">(i)</num><content>immediately before that day who has not been issued a relevant
+                        certificate or whose relevant certificate has expired, shall cease to
+                        continue to employ the person at the undertaking on the expiration of 1
+                        month after that day unless, before that expiration, the person has been
+                        issued a relevant certificate;</content></subparagraph><subparagraph id="ID_1438413603547_007" name="ii" temporalId="s6BA_5_b_ii"><num value="ii">(ii)</num><content>on or after that day whose relevant certificate expires during the
+                        course of his employment, shall cease to continue to employ the person at
+                        the undertaking on the expiration of 1 month after the expiration of the
+                        certificate unless, before the expiration of that month, the person has been
+                        issued a relevant certificate.</content></subparagraph></paragraph></subsection><subsection id="ID_1438413603547_013" name="6" temporalId="s6BA_6"><num value="6">(6)</num><leadIn>A certificate shall expire on—</leadIn><paragraph id="ID_1438413603547_021" name="a" temporalId="s6BA_6_a"><num value="a">(a)</num><content>the day specified in the certificate, being a day not less than 1 year, and
+                    not more than 3 years, after the day on which the certificate was
+                    issued;</content></paragraph><paragraph id="ID_1438413603547_029" name="b" temporalId="s6BA_6_b"><num value="b">(b)</num><content>if no such day is specified, on the expiration of 3 years after the day on
+                    which the certificate was issued.</content></paragraph></subsection><subsection id="ID_1438413603547_036" name="7" temporalId="s6BA_7"><num value="7">(7)</num><leadIn>On and after the appointed day, it shall be the duty of every relevant person
+                employed at a relevant industrial undertaking who has been issued a relevant
+                certificate which has not expired to—</leadIn><paragraph id="ID_1438413603563_005" name="a" temporalId="s6BA_7_a"><num value="a">(a)</num><content>carry with the person the certificate or an equivalent document while at
+                    work at the undertaking;
+                    <sourceNote>(Amended <ref href="/hk/2014/22">22 of 2014 s.
+                            41</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438413603563_013" name="b" temporalId="s6BA_7_b"><num value="b">(b)</num><leadIn>produce the certificate upon demand by—</leadIn><subparagraph id="ID_1438413603563_021" name="i" temporalId="s6BA_7_b_i"><num value="i">(i)</num><content>subject to paragraph (c), the proprietor of the undertaking or an agent
+                        of the proprietor authorized by the proprietor for the purpose; or</content></subparagraph><subparagraph id="ID_1438413603563_029" name="ii" temporalId="s6BA_7_b_ii"><num value="ii">(ii)</num><content>subject to paragraph (d), an occupational safety officer;</content></subparagraph></paragraph><paragraph id="ID_1438413603563_036" name="c" temporalId="s6BA_7_c"><num value="c">(c)</num><leadIn>if unable to comply with a demand under paragraph <ref>(b)(i)</ref>, make a
+                    statement—</leadIn><subparagraph id="ID_1438413603563_044" name="i" temporalId="s6BA_7_c_i"><num value="i">(i)</num><content>subject to subparagraph (ii), in a register kept by the proprietor of
+                        the undertaking under subsection (8), that he has been issued the
+                        certificate and the certificate has not expired and containing such other
+                        particulars as are required by the register; and</content></subparagraph><subparagraph id="ID_1438413603578_007" name="ii" temporalId="s6BA_7_c_ii"><num value="ii">(ii)</num><content>if and only if he has not made a like statement in that register on the
+                        day immediately preceding the day on which that demand is made;</content></subparagraph></paragraph><paragraph id="ID_1438413603578_014" name="d" temporalId="s6BA_7_d"><num value="d">(d)</num><leadIn>if unable to comply with a demand under paragraph <ref>(b)(ii)</ref>,
+                    produce the certificate at a place and within a period—</leadIn><subparagraph id="ID_1438413603578_022" name="i" temporalId="s6BA_7_d_i"><num value="i">(i)</num><content>specified by the occupational safety officer who made the demand;
+                        and</content></subparagraph><subparagraph id="ID_1438413603578_030" name="ii" temporalId="s6BA_7_d_ii"><num value="ii">(ii)</num><content>which are reasonable in all the circumstances.</content></subparagraph></paragraph></subsection><subsection id="ID_1438413603578_036" name="8" temporalId="s6BA_8"><num value="8">(8)</num><leadIn>On and after the appointed day, every proprietor of a relevant industrial
+                undertaking shall—</leadIn><paragraph id="ID_1438413603578_044" name="a" temporalId="s6BA_8_a"><num value="a">(a)</num><content>establish and maintain a register or registers for the purposes of
+                    subsection <ref>(7)(c)</ref> in such form as is specified by the
+                    Commissioner;</content></paragraph><paragraph id="ID_1438413603578_052" name="b" temporalId="s6BA_8_b"><num value="b">(b)</num><content>not cause or permit any statement referred to in subsection
+                        <ref>(7)(c)</ref> made in any such register to be removed therefrom at any
+                    time before the expiration of 18 months from the date on which the statement was
+                    made in the register.</content></paragraph></subsection><subsection id="ID_1438413603594_005" name="9" temporalId="s6BA_9"><num value="9">(9)</num><content>Where a relevant certificate which has not expired has been lost, defaced or
+                destroyed, the relevant person to whom it was issued shall, unless he has ceased to
+                be employed at a relevant industrial undertaking, as soon as is reasonably
+                practicable make an application to the Commissioner to be issued a replacement
+                relevant certificate in the same terms (and any such application may consist of, or
+                require the accompaniment of, a statutory declaration made by the person as to the
+                loss, defacement or destruction of the certificate).</content></subsection><subsection id="ID_1438413603609_005" name="10" temporalId="s6BA_10"><num value="10">(10)</num><content>The Commissioner shall issue or cause to be issued a replacement relevant
+                certificate pursuant to an application under subsection (9) upon being satisfied
+                that the relevant certificate which it will replace has in fact been lost, defaced
+                or destroyed.</content></subsection><subsection id="ID_1438413603609_013" name="11" temporalId="s6BA_11"><num value="11">(11)</num><content>A replacement relevant certificate issued pursuant to an application under
+                subsection (9) shall, for the purposes of this Ordinance, have the same effect as
+                the relevant certificate which it replaces.</content></subsection><subsection id="ID_1438413603609_021" name="12" temporalId="s6BA_12"><num value="12">(12)</num><content>Subject to subsection (13), a proprietor who contravenes subsection (5) commits
+                an offence and is liable
+                on
+                conviction to a fine at level 6. <sourceNote>(Amended <ref href="hk/2023/5">5 of 2023 s. 5</ref>)</sourceNote></content></subsection><subsection id="ID_1438413603609_029" name="13" temporalId="s6BA_13"><num value="13">(13)</num><content>It shall be a defence to a prosecution for an offence under subsection (12) for
+                the proprietor to show that he believed, and that it was reasonable for him to
+                believe, that the relevant person to whom the offence relates had been issued with a
+                relevant certificate and that the certificate had not expired.</content></subsection><subsection id="ID_1438413603625_005" name="14" temporalId="s6BA_14"><num value="14">(14)</num><leadIn>A relevant person employed at a relevant industrial undertaking who—</leadIn><paragraph id="ID_1438413603625_013" name="a" temporalId="s6BA_14_a"><num value="a">(a)</num><content>makes a statement referred to in subsection <ref>(7)(c)</ref>;
+                    and</content></paragraph><paragraph id="ID_1438413603625_021" name="b" temporalId="s6BA_14_b"><num value="b">(b)</num><content>is not a person who has been issued a relevant certificate which has not
+                    expired at the time of making that statement,</content></paragraph><continued>commits an offence and is liable to a fine at level 3.</continued></subsection><subsection id="ID_1438413603625_034" name="15" temporalId="s6BA_15"><num value="15">(15)</num><content>A relevant person who, without reasonable excuse, contravenes subsection
+                    <ref>(7)(d)</ref> commits an offence and is liable to a fine at level
+                3.</content></subsection><subsection id="ID_1438413603641_005" name="16" temporalId="s6BA_16"><num value="16">(16)</num><content>A proprietor who contravenes subsection (8) commits an offence and is liable
+                on
+                conviction to a fine at level 4. <sourceNote>(Amended <ref href="hk/2023/5">5 of 2023 s. 5</ref>)</sourceNote></content></subsection><subsection id="ID_1438413603641_013" name="17" temporalId="s6BA_17"><num value="17">*(17)</num><content>The Secretary for Education and Manpower may, by notice in the Gazette, appoint
+                a day for the purposes of subsections (5), (7) and (8).</content></subsection><subsection id="ID_1438413603641_021" name="18" temporalId="s6BA_18"><num value="18">(18)</num><content>A notice under subsection (17) is subsidiary legislation.</content></subsection><subsection id="ID_1438413603641_029" name="19" temporalId="s6BA_19"><num value="19">(19)</num><content>For the avoidance of doubt, it is hereby declared that subsection
+                    <ref>(5)(b)</ref> shall not operate to entitle an employer to terminate the
+                contract of employment of an employee otherwise than in accordance with the
+                provisions of the Employment Ordinance (<ref href="/hk/cap57">Cap. 57</ref>) in the
+                case of an employee within the meaning of <ref>section 2(1)</ref> of that
+                Ordinance.</content></subsection><sourceNote>(Added <ref href="/hk/1999/53">53 of 1999 s.
+            3</ref>. Amended <ref href="hk/2015/er3">E.R. 3 of 2015</ref>)</sourceNote><editorialNote type="footnote" id="ID_1681959060654_001">
+            <content>Editorial Note:<table xmlns="http://www.w3.org/1999/xhtml" frame="void" class="font_size_9" width="100%">
+                    <col width="6%"></col>
+                    <col width="94%"></col>
+                    <tbody>
+                        <tr>
+                            <td><inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="force_orig_font">*</inline></td>
+                            <td class="align_justified">1 May 2001 was the day appointed under this
+                                subsection—see <ref xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" href="/hk/cap59AH">Cap. 59 sub. leg. AH</ref>.</td>
+                        </tr>
+                    </tbody>
+                </table></content>
+        </editorialNote></section><section id="ID_1438403494878_002" name="s6C" reason="inEffect" startPeriod="2015-11-12" status="operational" temporalId="s6C"><num value="6C">6C.</num><heading>Meaning of
+                                <term>at
+                                work</term>
+                                (<term xml:lang="zh-hant-hk"><b>工作時</b></term>)</heading><content>For the purposes of <ref>sections 6A</ref>, <ref>6B</ref> and
+                                <ref>6BA</ref>, a person is at work throughout the time when he is
+                        in the course of employment, but not otherwise.</content><sourceNote>(Added <ref href="/hk/1989/71">71 of 1989 s. 5</ref>. Amended <ref href="/hk/1999/53">53 of 1999 s. 4</ref>)</sourceNote></section><section id="ID_1438403494878_004" name="s7" reason="inEffect" startPeriod="2023-04-28" status="operational" temporalId="s7"><num value="7">7.</num><heading>Power of Commissioner to make regulations, etc.</heading><subsection id="ID_1438413603828_010" name="1" temporalId="s7_1"><num value="1">(1)</num><leadIn>The Commissioner may in respect of industrial undertakings by regulation
+                prescribe or provide for—</leadIn><paragraph id="ID_1438413603828_018" name="a" temporalId="s7_1_a"><num value="a">(a)</num><content>prohibiting or controlling the employment of all persons or any class of
+                    persons in dangerous trades or scheduled trades;</content></paragraph><paragraph id="ID_1438413603828_026" name="b" temporalId="s7_1_b"><num value="b">(b)</num><content>prohibiting or controlling the employment of women, young persons and
+                    children in industrial undertakings, and requiring registers to be kept of
+                    women, young persons and children employed in industrial undertakings;</content></paragraph><paragraph id="ID_1438413603828_034" name="c" temporalId="s7_1_c"><num value="c">(c)</num><content>imposing obligations for securing compliance with the provisions of this
+                    Ordinance upon persons who employ women, young persons or children in industrial
+                    undertakings and upon the agents and servants of such persons;</content></paragraph><paragraph id="ID_1438413603828_042" name="d" temporalId="s7_1_d"><num value="d">(d)</num><content>defining the duties and powers of all officers appointed under <ref>section
+                        3</ref>;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1965/10">10 of 1965 s. 5</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438413603843_006" name="e" temporalId="s7_1_e"><num value="e">(e)</num><content>exempting any industrial undertaking from the operation of this Ordinance
+                    or any part thereof;</content></paragraph><paragraph id="ID_1438413603843_014" name="f" temporalId="s7_1_f"><num value="f">(f)</num><content>the forms to be used for the purposes of this Ordinance and the manner of
+                    publishing such forms;<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/1985/50">50 of 1985 s. 3</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438413603843_022" name="g" temporalId="s7_1_g"><num value="g">(g)</num><content>means of securing hygienic conditions;</content></paragraph><paragraph id="ID_1438413603843_030" name="h" temporalId="s7_1_h"><num value="h">(h)</num><content>means of ensuring the safety of persons in industrial undertakings and of
+                    relieving persons suffering from the effects of accidents in industrial
+                        undertakings;<inline class="width_3"> </inline><sourceNote>(Replaced <ref href="/hk/1969/4">4 of 1969 s. 6</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438413603843_038" name="i" temporalId="s7_1_i"><num value="i">(i)</num><content>means of securing the removal of any danger or defect;</content></paragraph><paragraph id="ID_1438413603843_046" name="j" temporalId="s7_1_j"><num value="j">(j)</num><content>requiring notifications to be made in relation to accidents and such
+                    dangerous occurrences as may be specified in the regulations;</content></paragraph><paragraph id="ID_1438413603843_054" name="k" temporalId="s7_1_k"><num value="k">(k)</num><content>precautions to be taken against fire and providing for means of escape from
+                    fire;</content></paragraph><paragraph id="ID_1438413603843_062" name="l" temporalId="s7_1_l"><num value="l">(l)</num><content>the taking for purposes of analysis of samples of materials or substances
+                    used or handled;</content></paragraph><paragraph id="ID_1438413603859_006" name="m" temporalId="s7_1_m"><num value="m">(m)</num><content>requiring notifications to be made in relation to the occurrence amongst
+                    person who have been or are employed in industrial undertakings of such diseases
+                    as may be specified in such regulations;</content></paragraph><paragraph id="ID_1438413603859_014" name="n" temporalId="s7_1_n"><num value="n">(n)</num><content>requiring the medical inspection by a Health Officer or by a medical
+                    practitioner employed by the proprietor of the industrial undertaking concerned
+                    of any person or of any class of person employed or intended to be employed in
+                    any industrial undertaking, and the keeping of records of any such
+                        inspections;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1969/4">4 of 1969 s. 6</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438413603859_022" name="o" temporalId="s7_1_o"><num value="o">(o)</num><content>imposing duties on proprietors, contractors and persons employed;<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1973/52">52 of
+                            1973 s. 3</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438413603859_030" name="oa" temporalId="s7_1_oa"><num value="oa">(oa)</num><leadIn>without prejudice to the generality of paragraph (o), requiring proprietors
+                    and contractors (including any class of proprietors and contractors)—</leadIn><subparagraph id="ID_1438413603875_006" name="i" temporalId="s7_1_oa_i"><num value="i">(i)</num><content>to develop, implement and maintain any management system that relate to
+                        the safety of personnel in their industrial undertakings;</content></subparagraph><subparagraph id="ID_1438413603875_014" name="ii" temporalId="s7_1_oa_ii"><num value="ii">(ii)</num><content>to prepare and revise safety policy statements in relation to the
+                        general safety policy of their industrial undertakings and make such
+                        statements available to persons employed;</content></subparagraph><subparagraph id="ID_1438413603875_022" name="iii" temporalId="s7_1_oa_iii"><num value="iii">(iii)</num><content>to establish safety committees to identify, recommend and review
+                        measures to improve the safety and health of persons employed;</content></subparagraph><subparagraph id="ID_1438413603875_030" name="iv" temporalId="s7_1_oa_iv"><num value="iv">(iv)</num><content>to employ, or otherwise use the services of, persons specified in
+                        regulations made under this section to assess the effectiveness of any
+                        management system referred to in subparagraph (i) as implemented;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1999/53">53
+                                of 1999 s. 5</ref>)</sourceNote></content></subparagraph></paragraph><paragraph id="ID_1438413603875_037" name="ob" temporalId="s7_1_ob"><num value="ob">(ob)</num><leadIn>in relation to any registration of persons referred to in paragraph
+                        <ref>(oa)(iv)</ref> or who operate schemes to train those persons (including
+                    any class of those persons)—</leadIn><subparagraph id="ID_1438413603875_045" name="i" temporalId="s7_1_ob_i"><num value="i">(i)</num><content>the keeping of a register;</content></subparagraph><subparagraph id="ID_1438413603890_007" name="ii" temporalId="s7_1_ob_ii"><num value="ii">(ii)</num><content>the specification of conditions (including requirements) for
+                        registration;</content></subparagraph><subparagraph id="ID_1438413603890_015" name="iii" temporalId="s7_1_ob_iii"><num value="iii">(iii)</num><content>the recognition by the Commissioner of any scheme having regard to the
+                        scheme operator;</content></subparagraph><subparagraph id="ID_1438413603890_023" name="iv" temporalId="s7_1_ob_iv"><num value="iv">(iv)</num><content>the better and more effectual carrying out of the scheme of
+                            registration;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1999/53">53 of 1999 s. 5</ref>)</sourceNote></content></subparagraph></paragraph><paragraph id="ID_1438413603890_030" name="oc" temporalId="s7_1_oc"><num value="oc">(oc)</num><content>means of assessing by the Commissioner the performance of persons referred
+                    to in paragraph (ob);<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1999/53">53 of 1999 s. 5</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438413603890_038" name="od" temporalId="s7_1_od"><num value="od">(od)</num><leadIn>the appointment of a disciplinary board panel and a disciplinary board by
+                    the Secretary for Labour and Welfare with—  <sourceNote>(Amended <ref href="/hk/2002/ln106">L.N. 106 of 2002</ref>; <ref href="/hk/2007/ln130">L.N. 130 of 2007</ref>)</sourceNote></leadIn><subparagraph id="ID_1438413603890_046" name="i" temporalId="s7_1_od_i"><num value="i">(i)</num><content>all such powers that are necessary for the purposes of conducting any
+                        hearing before the board;</content></subparagraph><subparagraph id="ID_1438413603890_054" name="ii" temporalId="s7_1_od_ii"><num value="ii">(ii)</num><content>power to exonerate or discipline the person concerned (including the
+                        power of cancellation of registration, suspension of registration, the
+                        imposition of a fine not exceeding
+                        level
+                        4 or reprimanding the person concerned);
+                        <sourceNote>(Amended <ref href="hk/2023/5">5 of 2023 s. 6</ref>)</sourceNote></content></subparagraph><subparagraph id="ID_1438413603906_007" name="iii" temporalId="s7_1_od_iii"><num value="iii">(iii)</num><content>power to make any order with respect to costs;<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1999/53">53 of 1999 s.
+                                5</ref>)</sourceNote></content></subparagraph></paragraph><paragraph id="ID_1438413603906_014" name="oe" temporalId="s7_1_oe"><num value="oe">(oe)</num><content>decisions in relation to which appeals may be made to the Administrative
+                    Appeals Board (including consequentially amending the <ref>Schedule</ref> to the
+                    Administrative Appeals Board Ordinance (<ref href="/hk/cap442">Cap.
+                        442</ref>));<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1999/53">53 of 1999 s. 5</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438413603906_022" name="p" temporalId="s7_1_p"><num value="p">(p)</num><content>generally, carrying into effect the provisions of this Ordinance.</content></paragraph></subsection><subsection id="ID_1438413603906_029" name="2" temporalId="s7_2"><num value="2">(2)</num><paragraph id="ID_1438413603906_033" name="a" temporalId="s7_2_a"><num value="a">(a)</num><leadIn>Where the Commissioner is satisfied that any manufacture, machinery, plant,
+                    process or description of manual labour, used in industrial undertakings is of
+                    such a nature as to cause risk of bodily injury to persons employed in
+                    connexion
+                    therewith, or any class of those persons, he may, without prejudice to the
+                    generality of the power to make regulations under subsection (1), make such
+                    special regulations as appear to him to be reasonably practicable and to meet
+                    the necessity of the case and
+                    in
+                    particular such special regulations may—</leadIn><subparagraph id="ID_1438413603921_006" name="i" temporalId="s7_2_a_i"><num value="i">(i)</num><content>prohibit or control the employment of all persons or any class of
+                        persons in
+                        connexion
+                        with any manufacture, machinery, plant, process, or description of manual
+                        labour; or</content></subparagraph><subparagraph id="ID_1438413603921_014" name="ii" temporalId="s7_2_a_ii"><num value="ii">(ii)</num><content>prohibit or control the use of any material or process;</content></subparagraph><continued>and may impose duties on proprietors, contractors, employed persons and
+                    other persons.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1973/52">52 of 1973 s. 3</ref>)</sourceNote></continued></paragraph><paragraph id="ID_1438413603921_027" name="b" temporalId="s7_2_b"><num value="b">(b)</num><content>Special regulations so made may apply to all industrial undertakings in
+                    which the manufacture, machinery, plant, process, or description of manual
+                    labour is used or to any specified class or description of such undertaking, and
+                    may provide for the exemption of any specified class or description of
+                    undertaking either absolutely or subject to conditions.</content></paragraph></subsection><subsection id="ID_1438413603937_005" name="3" temporalId="s7_3"><num value="3">(3)</num><content>All regulations made by the Commissioner shall be submitted to the Chief
+                Executive, and shall be subject to the approval of the Legislative Council.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/2000/54">54 of
+                        2000 s. 3</ref>)</sourceNote></content></subsection><subsection id="ID_1438413603937_013" name="4" temporalId="s7_4"><num value="4">(4)</num><content>The Commissioner in such cases as he shall think fit may, for such period and
+                subject to such conditions as he may specify, exempt any industrial undertaking from
+                any regulation made under this Ordinance and the Commissioner, or any officer
+                authorized in writing by him, may order the adoption of special precautions in
+                addition to any precautions required by any regulation made under this
+                    Ordinance.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1959/7">7 of 1959 s. 2</ref>; <ref href="/hk/1969/4">4 of 1969 s.
+                        6</ref>; <ref href="/hk/1994/6">6 of 1994 s.
+                36</ref>)</sourceNote></content></subsection><subsection id="ID_1438413603953_005" name="4A" temporalId="s7_4A"><num value="4A">(4A)</num><content>Any person aggrieved by an exemption or order made under subsection (4) may,
+                within 28 days of being notified of such exemption or order, appeal to the
+                Administrative Appeals Board.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1994/6">6 of 1994 s. 36</ref>)</sourceNote></content></subsection><subsection id="ID_1681959160567_001" name="5" temporalId="s7_5"><num value="5">(5)</num><content>Regulations made under this section may prescribe offences for contravention of
+                the regulations, punishable by a fine, imprisonment or both. <sourceNote>(Replaced <ref href="hk/2023/5">5 of 2023 s. 6</ref>)</sourceNote></content></subsection><subsection id="ID_1681959160571_002" name="6" temporalId="s7_6"><num value="6">(6)</num><content>The maximum fine that may be prescribed by a regulation made under this section
+                for an offence is $400,000 and the maximum imprisonment is 12 months.
+                    <sourceNote>(Added <ref href="hk/2023/5">5 of 2023 s. 6</ref>)</sourceNote></content></subsection><sourceNote>(Amended <ref href="/hk/1997/39">39 of 1997 s. 48</ref>)</sourceNote></section><section id="ID_1438403494894_002" name="s7A" reason="inEffect" startPeriod="2015-11-12" status="operational" temporalId="s7A"><num value="7A">7A.</num><heading>Codes of practice</heading><subsection id="ID_1438413604077_004" name="1" temporalId="s7A_1"><num value="1">(1)</num><content>For the purpose of providing practical guidance in respect of any one or more of the requirements of this Ordinance or of regulations under this Ordinance, the Commissioner may issue such codes of practice (whether prepared by the Commissioner or not) as the Commissioner considers appropriate.</content></subsection><subsection id="ID_1438413604093_005" name="2" temporalId="s7A_2"><num value="2">(2)</num><content>The Commissioner may amend or revoke a code of practice issued by him under subsection (1).</content></subsection><subsection id="ID_1438413604093_013" name="3" temporalId="s7A_3"><num value="3">(3)</num><content>Where the Commissioner exercises a power under subsection (1) or (2), he shall as soon as may be reasonably practicable publish notice thereof in the Gazette and the notice shall be in such form as the Commissioner considers appropriate.</content></subsection><subsection id="ID_1438413604093_021" name="4" temporalId="s7A_4"><num value="4">(4)</num><leadIn>A failure by any person to observe a provision of an approved code shall not of itself cause him to incur any criminal liability, but where—</leadIn><paragraph id="ID_1438413604093_029" name="a" temporalId="s7A_4_a"><num value="a">(a)</num><leadIn>in any criminal proceedings the defendant is alleged to have committed an offence either—</leadIn><subparagraph id="ID_1438413604093_037" name="i" temporalId="s7A_4_a_i"><num value="i">(i)</num><content>by reason of a contravention of or a failure to comply with, whether by act or omission, this Ordinance or regulations under this Ordinance; or</content></subparagraph><subparagraph id="ID_1438413604109_007" name="ii" temporalId="s7A_4_a_ii"><num value="ii">(ii)</num><content>by reason of a failure to discharge or perform a duty imposed by this Ordinance or such regulations; and</content></subparagraph></paragraph><paragraph id="ID_1438413604109_014" name="b" temporalId="s7A_4_b"><num value="b">(b)</num><content>the matter to which the alleged contravention or failure relates is one to which, in the opinion of the court, an approved code relates,</content></paragraph><continued>then subsection (5) shall apply as regards the proceedings.</continued></subsection><subsection id="ID_1438413604109_027" name="5" temporalId="s7A_5"><num value="5">(5)</num><leadIn>In any criminal proceedings to which this subsection applies, the following, namely—</leadIn><paragraph id="ID_1438413604109_035" name="a" temporalId="s7A_5_a"><num value="a">(a)</num><content>compliance with a provision of an approved code found by the court to be relevant to a matter to which a contravention or failure alleged in the proceedings relates;</content></paragraph><paragraph id="ID_1438413604109_043" name="b" temporalId="s7A_5_b"><num value="b">(b)</num><content>a contravention or failure to comply with, whether by act or omission, any such provision so found,</content></paragraph><continued>may be relied on by any party to the proceedings as tending to establish or to negative any liability which is in question in the proceedings.</continued></subsection><subsection id="ID_1438413604109_056" name="6" temporalId="s7A_6"><num value="6">(6)</num><content>In any criminal proceedings, any document which purports to be a copy of a particular approved code shall, in the absence of evidence to the contrary, be regarded by the court as being a true copy of that code.</content></subsection><sourceNote>(Added <ref href="/hk/1993/81">81 of 1993 s. 6</ref>)</sourceNote></section><section id="ID_1438403494910_001" name="s8" reason="inEffect" startPeriod="2015-11-12" status="operational" temporalId="s8"><num value="8">8.</num><heading>Commissioner may amend the <ref>Schedules</ref></heading><subsection id="ID_1438413604155_029" name="1" temporalId="s8_1"><num value="1">(1)</num><content>The Commissioner may by notice published in the Gazette amend
+                    <ref>Schedule
+                    1</ref>, <ref>2</ref> or <ref>3</ref>.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1999/53">53 of 1999 s.
+                    6</ref>)</sourceNote></content></subsection><subsection id="ID_1438413604171_005" name="2" temporalId="s8_2"><num value="2">(2)</num><content>The Commissioner may, by notice in the Gazette and subject to the approval of
+                the Legislative Council, amend
+                <ref>Schedule
+                    4</ref>.<inline class="width_3"> </inline><sourceNote>(Added <ref href="/hk/1999/53">53 of 1999 s. 6</ref>)</sourceNote></content></subsection><sourceNote>(Replaced <ref href="/hk/1993/81">81 of 1993 s. 7</ref>. Amended <ref href="/hk/1997/39">39 of 1997 s.
+            48</ref>; <ref href="hk/2015/er3">E.R. 3 of 2015</ref>)</sourceNote></section><section id="ID_1438403494910_003" name="s9" reason="inEffect" startPeriod="2015-11-12" status="operational" temporalId="s9"><num value="9">9.</num><heading>Notification of workplaces</heading><subsection id="ID_1438413604187_019" name="1" temporalId="s9_1"><num value="1">(1)</num><content>The person having the management or control of a notifiable workplace shall, before the first occasion on which any industrial process is commenced or any industrial operation is carried on in the notifiable workplace, notify the Commissioner in the prescribed form of such particulars relating to the workplace and the industrial process or industrial operation proposed to be carried on there as may be specified in the prescribed form.</content></subsection><subsection id="ID_1438413604202_005" name="2" temporalId="s9_2"><num value="2">(2)</num><content>The person having the management or control of a notifiable workplace in respect of which any change in the location or name of the notifiable workplace or in the nature of the industrial process or industrial operation carried on there is proposed shall notify the Commissioner in the prescribed form of the proposed change before it takes effect.</content></subsection><subsection id="ID_1438413604218_005" name="3" temporalId="s9_3"><num value="3">(3)</num><content>Where there has been a change in the identity of the person having the management or control of a notifiable workplace, that person shall notify the Commissioner of the fact of such change within 21 days after it takes effect.</content></subsection><sourceNote>(Replaced <ref href="/hk/1985/50">50 of 1985 s. 5</ref>. Amended <ref href="/hk/1997/39">39 of 1997 s. 48</ref>)</sourceNote></section><section id="ID_1438403494925_001" name="s9A" reason="inEffect" startPeriod="2019-06-20" status="operational" temporalId="s9A"><num value="9A">9A.</num><heading>Prohibition notices</heading><subsection id="ID_1438413604249_004" name="1" temporalId="s9A_1"><num value="1">(1)</num><leadIn>If at any time the Commissioner considers that any notifiable workplace, whether a notifiable workplace which has been notified to him under <ref>section 9</ref> or not, is not suitable—</leadIn><paragraph id="ID_1438413604265_005" name="a" temporalId="s9A_1_a"><num value="a">(a)</num><content>for use as a factory, mine or quarry; or</content></paragraph><paragraph id="ID_1438413604265_013" name="b" temporalId="s9A_1_b"><num value="b">(b)</num><content>for the carrying on therein of any dangerous trade or scheduled trade; or</content></paragraph><paragraph id="ID_1438413604265_021" name="c" temporalId="s9A_1_c"><num value="c">(c)</num><content>for the carrying on therein of any industrial process or industrial operation or any part thereof,</content></paragraph><continued>he may issue to the proprietor of the notifiable workplace a notice in the prescribed form prohibiting—</continued><paragraph id="ID_1438413604265_035" name="i" temporalId="s9A_1_i"><num value="i">(i)</num><content>its use as a factory, mine or quarry;</content></paragraph><paragraph id="ID_1438413604265_043" name="ii" temporalId="s9A_1_ii"><num value="ii">(ii)</num><content>the carrying on therein of any dangerous trade or scheduled trade; or</content></paragraph><paragraph id="ID_1438413604265_051" name="iii" temporalId="s9A_1_iii"><num value="iii">(iii)</num><content>the carrying on therein of such industrial process or industrial operation, or such part thereof, as may be specified in the notice.</content></paragraph></subsection><subsection id="ID_1438413604265_058" name="2" temporalId="s9A_2"><num value="2">(2)</num><content>Upon issuing a prohibition notice in respect of any notifiable workplace the Commissioner shall on the notice state the reasons for the issue of the notice and specify a date by which it is to be complied with.</content></subsection><subsection id="ID_1438413604280_005" name="3" temporalId="s9A_3"><num value="3">(3)</num><content>Where at any time after issuing a prohibition notice in respect of a notifiable workplace the Commissioner is satisfied that the matter leading to the issuing of the notice has been remedied, he may, and if so requested by the proprietor of the notifiable workplace shall, cancel the prohibition notice, but may upon doing so give directions in writing to the proprietor of the notifiable workplace in respect of any matter which led to the issuing of the notice.</content></subsection><subsection id="ID_1438413604280_013" name="4" temporalId="s9A_4"><num value="4">(4)</num><leadIn>Any proprietor of a notifiable workplace who is aggrieved by—</leadIn><paragraph id="ID_1438413604296_005" name="a" temporalId="s9A_4_a"><num value="a">(a)</num><content>the issue of a prohibition notice in respect of that notifiable workplace;</content></paragraph><paragraph id="ID_1438413604296_013" name="b" temporalId="s9A_4_b"><num value="b">(b)</num><content>a refusal by the Commissioner to cancel a prohibition notice; or</content></paragraph><paragraph id="ID_1438413604296_021" name="c" temporalId="s9A_4_c"><num value="c">(c)</num><content>the giving of any direction upon the cancellation of a prohibition notice,</content></paragraph><continued>may, within 28 days of being notified of such issue, refusal or direction, appeal against it to the Administrative Appeals Board.
+                <sourceNote>(Amended <ref href="/hk/1994/6">6 of 1994 s. 36</ref>)</sourceNote></continued></subsection><subsection id="ID_1438413604296_034" name="5" temporalId="s9A_5"><num value="5">(5)</num><leadIn>In this section—</leadIn><paragraph id="ID_1438413604296_042" name="a" temporalId="s9A_5_a"><num value="a">(a)</num><def name="Commissioner"><term>Commissioner</term> (<term xml:lang="zh-Hant-HK">處長</term>) includes any person authorized by the Commissioner in writing for the purposes of this section;</def></paragraph><paragraph id="ID_1438413604296_049" name="b" temporalId="s9A_5_b"><num value="b">(b)</num><def name="Suitable"><leadIn><term>suitable</term>
+                            (<term xml:lang="zh-Hant-HK">適宜</term>) means—
+                        <sourceNote>(Amended <ref href="hk/2019/er2">E.R. 2 of 2019</ref>)</sourceNote></leadIn><subparagraph id="ID_1438413604296_057" name="i" temporalId="s9A_5_b_i"><num value="i">(i)</num><content>in the case of a notifiable workplace designed and constructed for industrial use, suitable in respect of the safety, health and welfare of persons employed therein;</content></subparagraph><subparagraph id="ID_1438413604296_065" name="ii" temporalId="s9A_5_b_ii"><num value="ii">(ii)</num><content>in the case of a notifiable workplace not so designed and constructed, suitable in respect of the safety, health and welfare of persons generally other than in respect of noise affecting persons not employed therein.
+                            <sourceNote>(Amended <ref href="/hk/1988/75">75 of 1988 s. 40</ref>)</sourceNote></content></subparagraph></def></paragraph></subsection><sourceNote>(Added <ref href="/hk/1985/50">50 of 1985 s. 5</ref>. Amended <ref href="/hk/1997/39">39 of 1997 s. 48</ref>)</sourceNote></section><section id="ID_1438403494925_003" name="s9B" reason="repealed" startPeriod="1997-06-30" status="repealed" temporalId="s9B"><num value="9B">9B.</num><sourceNote>(Repealed <ref href="/hk/1997/39">39 of 1997 s. 48</ref>)</sourceNote></section><section id="ID_1438403494925_005" name="s9C" reason="repealed" startPeriod="1997-06-30" status="repealed" temporalId="s9C"><num value="9C">9C.</num><sourceNote>(Repealed <ref href="/hk/1997/39">39 of 1997 s. 48</ref>)</sourceNote></section><section id="ID_1438403494941_002" name="s9D" reason="repealed" startPeriod="1997-06-30" status="repealed" temporalId="s9D"><num value="9D">9D.</num><sourceNote>(Repealed <ref href="/hk/1997/39">39 of 1997 s. 48</ref>)</sourceNote></section><section id="ID_1438403494941_004" name="s10" reason="inEffect" startPeriod="2023-04-28" status="operational" temporalId="s10"><num value="10">10.</num><heading>Offences and penalties</heading><subsection id="ID_1438413604421_004" name="1" temporalId="s10_1"><num value="1">(1)</num><content>A person who contravenes <ref>section 9</ref> commits an offence and is
+                liable
+                on conviction to a fine at level 6.
+                <sourceNote>(Replaced <ref href="/hk/1985/50">50 of 1985 s.
+                        6</ref>. Amended <ref href="hk/2019/er2">E.R. 2 of
+                    2019</ref>; <ref href="hk/2023/5">5 of 2023 s. 7</ref>)</sourceNote></content></subsection><subsection id="ID_1438413604421_012" name="1A" temporalId="s10_1A"><num value="1A">(1A)</num><content>Subject to subsection (1C) a proprietor of a notifiable workplace who fails to
+                comply with the terms of a prohibition notice relating to that notifiable workplace
+                within the period specified in the prohibition notice commits an offence and is
+                liable
+                on
+                conviction to a fine of $400,000 and to imprisonment for 6 months.
+                <sourceNote>(Replaced <ref href="/hk/1985/50">50 of 1985 s.
+                        6</ref>. Amended <ref href="/hk/1989/71">71 of 1989 s.
+                    7</ref>; <ref href="hk/2023/5">5 of 2023 s. 7</ref>)</sourceNote></content></subsection><subsection id="ID_1438413604421_020" name="1B" temporalId="s10_1B"><num value="1B">(1B)</num><content>Where a proprietor has appealed to the Administrative Appeals Board under
+                    <ref>section 9A(4)</ref>, the period for compliance with the terms of a
+                prohibition notice shall be as specified in the decision on the appeal or, if it is
+                not so specified, shall run from the date when the proprietor is notified of the
+                result of the appeal.
+                <sourceNote>(Added <ref href="/hk/1985/50">50 of 1985 s. 6</ref>. Amended <ref href="/hk/1994/6">6 of 1994 s. 36</ref>)</sourceNote></content></subsection><subsection id="ID_1438413604436_005" name="1C" temporalId="s10_1C"><num value="1C">(1C)</num><content>Where under <ref>section 9A(3)</ref> the Commissioner has upon cancelling a
+                prohibition notice issued in respect of a notifiable workplace given any directions,
+                a proprietor who carries on an industrial process or industrial operation in the
+                notifiable workplace without complying with those directions commits an offence and
+                is liable
+                on
+                conviction to a fine of $400,000 and to imprisonment for 6 months.
+                <sourceNote>(Added <ref href="/hk/1985/50">50 of 1985 s. 6</ref>. Amended <ref href="/hk/1989/71">71 of 1989 s. 7</ref>; <ref href="/hk/1997/39">39 of 1997 s.
+                    48</ref>; <ref href="hk/2023/5">5 of 2023 s. 7</ref>)</sourceNote></content></subsection><subsection id="ID_1682304038660_001" name="2" temporalId="s10_2"><num value="2">(2)</num><leadIn>A person who—</leadIn><paragraph id="ID_1682304038661_002" name="a" temporalId="s10_2_a"><num value="a">(a)</num><content>fails to comply with a condition specified under <ref>section 7(4)</ref>;
+                    or</content></paragraph><paragraph id="ID_1682304038663_003" name="b" temporalId="s10_2_b"><num value="b">(b)</num><content>fails to comply with an order made under that section,</content></paragraph><continued>commits an offence and is liable on conviction to a fine of $400,000 and to
+                imprisonment for 6 months. <sourceNote>(Replaced <ref href="hk/2023/5">5 of 2023 s. 7</ref>)</sourceNote></continued></subsection><subsection id="ID_1438413604467_005" name="3" temporalId="s10_3"><num value="3">(3)</num><leadIn>Any person who—</leadIn><paragraph id="ID_1438413604467_013" name="a" temporalId="s10_3_a"><num value="a">(a)</num><content>fails to comply with a requirement made by any officer under <ref>section
+                        4(1)</ref>; or</content></paragraph><paragraph id="ID_1438413604467_021" name="b" temporalId="s10_3_b"><num value="b">(b)</num><content>wilfully or recklessly gives false information or withholds information as
+                    to any of the matters in respect of which information is required to be given
+                    under <ref>section 4(1)</ref>; or</content></paragraph><paragraph id="ID_1438413604467_029" name="c" temporalId="s10_3_c"><num value="c">(c)</num><content>obstructs or delays any officer in the exercise of any of the powers
+                    conferred
+                    on
+                    the officer by <ref>section 4</ref>,
+                    <sourceNote>(Amended <ref href="hk/2023/5">5 of 2023 s. 7</ref>)</sourceNote></content></paragraph><continued>commits
+                an offence and is liable on conviction to a fine at level 6.
+                <sourceNote>(Amended <ref href="hk/2019/er2">E.R. 2 of
+                    2019</ref>; <ref href="hk/2023/5">5 of 2023 s. 7</ref>)</sourceNote></continued></subsection><subsection id="ID_1438413604467_042" name="4" temporalId="s10_4"><num value="4">(4)</num><sourceNote>(Repealed <ref href="/hk/1997/39">39 of 1997 s. 48</ref>)</sourceNote></subsection><subsection id="ID_1438413604467_050" name="4A" temporalId="s10_4A"><num value="4A">(4A)</num><content>Any person who contravenes <ref>section 6</ref> commits an offence and is
+                liable on conviction to a fine
+                at
+                level 6.
+                <sourceNote>(Added <ref href="/hk/1992/30">30 of 1992 s.
+                    2</ref>. Amended <ref href="hk/2019/er2">E.R. 2 of
+                    2019</ref>; <ref href="hk/2023/5">5 of 2023 s. 7</ref>)</sourceNote></content></subsection><subsection id="ID_1438413604483_005" name="5" temporalId="s10_5"><num value="5">(5)</num><content>The proprietor of a notifiable workplace shall be deemed to have complied with
+                    <ref>section 9(1)</ref> if before the commencement* of the Factories and
+                Industrial Undertakings (Amendment) Ordinance 1985 (<ref href="/hk/1985/50">50 of
+                    1985</ref>) the workplace was registered or provisionally registered under
+                repealed <ref>section 9(5)</ref>.
+                <sourceNote>(Added <ref href="/hk/1985/50">50 of 1985 s.
+                    6</ref>)</sourceNote></content></subsection><subsection id="ID_1438413604483_013" name="6" temporalId="s10_6"><num value="6">(6)</num><content>The proprietor of a notifiable workplace which before the
+                commencement*
+                of Factories and Industrial Undertakings (Amendment) Ordinance 1985 (<ref href="/hk/1985/50">50 of 1985</ref>) was a registrable workplace under repealed
+                    <ref>section 9(1)</ref> but which was not registered or provisionally registered
+                under repealed <ref>section 9(5)</ref> may be exempted from the requirements of
+                    <ref>section 9(1)</ref> by the Commissioner for Labour by notice in writing not
+                later than 6 months after the commencement of that Ordinance.
+                <sourceNote>(Added <ref href="/hk/1985/50">50 of 1985 s. 6</ref>. Amended <ref href="/hk/1995/ln587">L.N. 587 of
+                1995</ref>)</sourceNote></content></subsection><subsection id="ID_1438413604499_005" name="7" temporalId="s10_7"><num value="7">(7)</num><def name="Repealed">In this section
+                    <term>repealed</term>
+                    (<term xml:lang="zh-Hant-HK">已廢除</term>) means repealed by <ref>section 5</ref>
+                of the Factories and Industrial Undertakings (Amendment) Ordinance 1985 (<ref href="/hk/1985/50">50 of 1985</ref>).
+                <sourceNote>(Added <ref href="/hk/1985/50">50 of 1985 s.
+                    6</ref>)</sourceNote></def></subsection><subsection id="ID_1438413604514_004" name="8...9" temporalId="s10_8...9"><num value="8...9">(8)-(9)</num><sourceNote>(Repealed <ref href="/hk/1997/39">39 of 1997 s. 48</ref>)</sourceNote></subsection><sourceNote>(Replaced <ref href="/hk/1963/19">19 of 1963 s. 3</ref>. Amended <ref href="/hk/1969/4">4 of 1969 s. 8</ref>; <ref href="/hk/1983/37">37 of 1983 s.
+                5</ref>; <ref href="/hk/1993/81">81 of 1993 s. 8</ref>)</sourceNote><editorialNote type="footnote" id="ID_1682304039455_004">
+            <content>Editorial Note:<table xmlns="http://www.w3.org/1999/xhtml" frame="void" class="font_size_9" width="100%">
+                    <col width="6%"></col>
+                    <col width="94%"></col>
+                    <tbody>
+                        <tr>
+                            <td><inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="force_orig_font">*</inline></td>
+                            <td class="cellpadding_bottom_3">Commencement date: 2 August 1985.</td>
+                        </tr>
+                    </tbody>
+                </table></content>
+        </editorialNote></section><section id="ID_1438403494956_002" name="s11" reason="repealed" startPeriod="1997-06-30" status="repealed" temporalId="s11"><num value="11">11.</num><sourceNote>(Repealed <ref href="/hk/1996/51">51 of 1996 s. 4</ref>)</sourceNote></section><section id="ID_1438403494956_004" name="s11A" reason="repealed" startPeriod="1997-06-30" status="repealed" temporalId="s11A"><num value="11A">11A.</num><sourceNote>(Repealed <ref href="/hk/1997/39">39 of 1997 s. 48</ref>)</sourceNote><editorialNote type="footnote" id="ID_1558948188781_001"><content>Editorial Note:</content><content>Please see the savings and transitional provisions contained in
+                section
+                2 of <ref>Schedule 5</ref> to the Occupational Safety and Health Ordinance (<ref href="/hk/cap509">Cap. 509</ref>).</content></editorialNote></section><section id="ID_1438403494972_002" name="s11B" reason="repealed" startPeriod="1997-06-30" status="repealed" temporalId="s11B"><num value="11B">11B.</num><sourceNote>(Repealed <ref href="/hk/1997/39">39 of 1997 s. 48</ref>)</sourceNote><editorialNote type="footnote" id="ID_1558948260838_001"><content>Editorial Note:</content><content>Please see the savings and transitional provisions contained in
+                section
+                2 of <ref>Schedule 5</ref> to the Occupational Safety and Health Ordinance (<ref href="/hk/cap509">Cap. 509</ref>).</content></editorialNote></section><section id="ID_1438403494972_004" name="s11C" reason="repealed" startPeriod="1997-06-30" status="repealed" temporalId="s11C"><num value="11C">11C.</num><sourceNote>(Repealed <ref href="/hk/1997/39">39 of 1997 s. 48</ref>)</sourceNote></section><section reason="inEffect" status="operational" id="ID_1438403494988_001" name="s12" temporalId="s12" startPeriod="2023-04-28"><num value="12">12.</num><heading>Continuing offences</heading><content>A person who is convicted of an offence under this Ordinance is, in addition to any
+            other penalty prescribed for the offence, liable to a fine of $10,000 for each day
+            during the whole or any part of which the offence is knowingly and wilfully
+            continued.</content><sourceNote>(Replaced <ref href="hk/2023/5">5 of 2023 s. 8</ref>)</sourceNote></section><section id="ID_1438403494988_003" name="s13" reason="inEffect" startPeriod="2015-11-12" status="operational" temporalId="s13"><num value="13">13.</num><heading>Liability of proprietor</heading><subsection id="ID_1438413604686_004" name="1" temporalId="s13_1"><num value="1">(1)</num><content>Except as may be otherwise provided by regulations made under this Ordinance, the proprietor of every industrial undertaking in or in respect of which any offence against this Ordinance has been committed shall be guilty of a like offence, and shall be liable to the penalty prescribed for such offence.</content></subsection><subsection id="ID_1438413604686_012" name="2" temporalId="s13_2"><num value="2">(2)</num><content>It shall be no defence to a prosecution of the proprietor of an industrial undertaking for an offence against this Ordinance that the offence was committed without his knowledge or consent or that the actual offender has not been convicted of the offence.</content></subsection><subsection id="ID_1438413604701_005" name="3" temporalId="s13_3"><num value="3">(3)</num><content>Nothing in this section shall apply to an offence under <ref>section 6B</ref>
+                or
+                    <ref>6BA(15)</ref>.
+                <sourceNote>(Added <ref href="/hk/1989/71">71 of 1989 s. 9</ref>. Amended <ref href="/hk/1999/53">53 of 1999 s. 7</ref>)</sourceNote></content></subsection></section><section id="ID_1438403494988_005" name="s14" reason="inEffect" startPeriod="2015-11-12" status="operational" temporalId="s14"><num value="14">14.</num><heading>Liability of directors, partners, etc.</heading><subsection id="ID_1438413604779_004" name="1" temporalId="s14_1"><num value="1">(1)</num><content>Where the person convicted of an offence against this Ordinance is a company and it is proved that the offence was committed with the consent or connivance of, or was attributable to any neglect on the part of, any director, manager, secretary or other similar officer of the company, the director, manager, secretary or other similar officer shall be guilty of the like offence.</content></subsection><subsection id="ID_1438413604779_012" name="2" temporalId="s14_2"><num value="2">(2)</num><content>Where the person convicted of an offence against this Ordinance is a firm and it is proved that the offence was committed with the consent or connivance of, or was attributable to any neglect on the part of, any partner in the firm or any person concerned in the management of the firm, the partner or the person concerned in the management of the firm shall be guilty of the like offence.</content></subsection><sourceNote>(Replaced <ref href="/hk/1989/71">71 of 1989 s. 10</ref>)</sourceNote></section><section id="ID_1438403495003_002" name="s14A" reason="inEffect" startPeriod="2015-11-12" status="operational" temporalId="s14A"><num value="14A">14A.</num><heading>Protection of public officers</heading><subsection id="ID_1438413604873_011" name="1" temporalId="s14A_1"><num value="1">(1)</num><content>A public officer is not personally liable in respect of any act or omission of his if it was done or made by him in the honest belief that it was required or authorized in the exercise of any function, duty or power of his under this Ordinance.</content></subsection><subsection id="ID_1438413604873_019" name="2" temporalId="s14A_2"><num value="2">(2)</num><content>The protection conferred on public officers by subsection (1) in respect of any act or omission shall not in any way affect any liability of the Government in tort for that act or omission.<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/2000/54">54 of 2000 s. 3</ref>)</sourceNote></content></subsection><sourceNote>(Added <ref href="/hk/1989/71">71 of 1989 s. 11</ref>)</sourceNote></section><section id="ID_1438403495003_004" name="s15" reason="inEffect" startPeriod="2023-04-28" status="operational" temporalId="s15"><num value="15">15.</num><heading>Procedure</heading><subsection id="ID_1438413604904_004" name="1" temporalId="s15_1"><num value="1">(1)</num><paragraph id="ID_1438413604904_008" name="a" temporalId="s15_1_a"><num value="a">(a)</num><content>Any summons relating to an offence against this Ordinance by a proprietor of an industrial undertaking may be served by leaving a copy of the summons with some person for him at the industrial undertaking mentioned in the summons.</content></paragraph><paragraph id="ID_1438413604904_014" name="b" temporalId="s15_1_b"><num value="b">(b)</num><content>Any such summons may be addressed to the proprietor of an industrial undertaking without specifying the name of the proprietor.</content></paragraph><paragraph id="ID_1438413604904_022" name="c" temporalId="s15_1_c"><num value="c">(c)</num><sourceNote>(Repealed <ref href="hk/2023/5">5 of 2023 s. 9</ref>)</sourceNote></paragraph></subsection><subsection id="ID_1438413604920_005" name="2" temporalId="s15_2"><num value="2">(2)</num><content>Any summons relating to an offence against this Ordinance by a person employed in an industrial undertaking may be served by leaving a copy of the summons either with some person for him at his last or most usual place of abode or with some person for him at the industrial undertaking mentioned in the summons.</content></subsection></section><section id="ID_1438403495019_001" name="s16" reason="inEffect" startPeriod="2023-04-28" status="operational" temporalId="s16"><num value="16">16.</num><heading>Presumptions</heading><leadIn>In any prosecution under this Ordinance—</leadIn><paragraph id="ID_1438413604982_012" name="a" temporalId="s16_a"><num value="a">(a)</num><content>if it appears to the
+                court
+                that any person who is alleged in the charge to have been a young person or child at
+                the date of the alleged offence was a young person or child at
+                that
+                date, it is, until the contrary is proved, presumed that the person was a young
+                person or child at that date;</content></paragraph><paragraph id="ID_1438413604982_020" name="b" temporalId="s16_b"><num value="b">(b)</num><content>if it appears to the
+                court
+                that any young person or child who is alleged in the charge to have been under any
+                particular age at the date of the alleged offence was under that particular age at
+                that
+                date, it is, until the contrary is proved, presumed that the young person or child
+                was under that particular age at that date;</content></paragraph><paragraph id="ID_1438413604998_006" name="c" temporalId="s16_c"><num value="c">(c)</num><content>if the charge alleges the contravention of any of the provisions of this
+                Ordinance prohibiting or controlling the employment of women, young persons or
+                children and the defendant in such prosecution is the proprietor of the industrial
+                undertaking in or in respect of which the offence is alleged to have been committed,
+                it shall, until the contrary is proved, be presumed that any woman, young person or
+                child to whom the charge relates and who was employed in the industrial undertaking
+                on the day on which the offence is alleged to have been committed was employed
+                therein on that day by such proprietor.
+                <sourceNote>(Added <ref href="/hk/1961/51">51 of 1961 s.
+                    5</ref>)</sourceNote></content></paragraph><sourceNote>(Amended <ref href="hk/2023/5">5 of 2023 s. 10</ref>)</sourceNote></section><section id="ID_1438403495019_003" name="s17" reason="inEffect" startPeriod="2023-04-28" status="operational" temporalId="s17"><num value="17">17.</num><heading>Prosecution of offences</heading><subsection id="ID_1681959867370_001" name="1" temporalId="s17_1"><num value="1">(1)</num><leadIn>A prosecution for an offence under this Ordinance, or an offence of conspiracy
+                to commit such an offence, may—</leadIn><paragraph id="ID_1681959867371_002" name="a" temporalId="s17_1_a"><num value="a">(a)</num><content>be brought by the Commissioner in the Commissioner’s own name;
+                    and</content></paragraph><paragraph id="ID_1681959867372_003" name="b" temporalId="s17_1_b"><num value="b">(b)</num><content>be commenced and conducted by an officer of the Labour Department.
+                        <sourceNote>(Replaced <ref href="hk/2023/5">5 of 2023 s. 11</ref>)</sourceNote></content></paragraph></subsection><subsection id="ID_1681959867375_004" name="1A" temporalId="s17_1A"><num value="1A">(1A)</num><content>For the purposes of subsection (1), the offence must be tried before a
+                magistrate as an offence that is triable summarily. <sourceNote>(Added <ref href="hk/2023/5">5 of 2023 s. 11</ref>)</sourceNote></content></subsection><subsection id="ID_1438413605045_012" name="2" temporalId="s17_2"><num value="2">(2)</num><content>Save as is provided in subsection (1), no prosecution for an offence against
+                this Ordinance shall be commenced without the written consent of the Commissioner.
+                <sourceNote>(Amended <ref href="/hk/1997/39">39 of 1997 s.
+                        48</ref>)</sourceNote></content></subsection><subsection id="ID_1438413605045_020" name="3" temporalId="s17_3"><num value="3">(3)</num><content>Nothing in this section shall be deemed to derogate from the powers of the
+                Secretary for Justice in relation to the prosecution of criminal offences.
+                <sourceNote>(Amended <ref href="/hk/1997/ln362">L.N. 362 of
+                        1997</ref>)</sourceNote></content></subsection><subsection id="ID_1438413605045_028" name="4" temporalId="s17_4"><num value="4">(4)</num><content>A person who has been convicted or acquitted of having committed an offence
+                under a provision of the Occupational Safety and Health Ordinance (<ref href="/hk/cap509">Cap. 509</ref>) in relation to an act or omission is not
+                liable to be proceeded against for an offence under a corresponding provision of
+                this Ordinance relating to the same act or omission. <sourceNote>(Added <ref href="/hk/1997/39">39 of 1997 s. 48</ref>)</sourceNote></content></subsection><subsection id="ID_1438413605060_005" name="5" temporalId="s17_5"><num value="5">(5)</num><sourceNote>(Repealed <ref href="hk/2023/5">5 of 2023 s. 11</ref>)</sourceNote></subsection><sourceNote>(Amended <ref href="hk/2015/er3">E.R. 3 of 2015</ref>)</sourceNote></section><section id="ID_1681959880921_001" name="s17A" temporalId="s17A" startPeriod="2023-04-28" status="operational" reason="inEffect"><num value="17A">17A.</num><heading>Prosecution
+            deadline</heading><subsection id="ID_1681959942139_001" name="1" temporalId="s17A_1"><num value="1">(1)</num><content>A prosecution for an offence specified in <ref>Schedule 5</ref> may only be
+                started before the end of 9 months beginning on the date on which the offence is
+                discovered by, or comes to the notice of, the Commissioner.</content></subsection><subsection id="ID_1681959942141_002" name="2" temporalId="s17A_2"><num value="2">(2)</num><content>A prosecution for a summary offence (other than an offence specified in
+                    <ref>Schedule 5</ref>) under this Ordinance, or an indictable offence under this
+                Ordinance that is to be tried summarily, may only be started before the end of 9
+                months beginning on the date on which the offence is committed.</content></subsection><statutoryNote><b>Note—</b><content>This replaces the time limit under <ref>section 26</ref>
+                of the Magistrates Ordinance (<ref href="/hk/cap227">Cap. 227</ref>) in respect of a
+                summary offence.</content>
+        </statutoryNote><sourceNote>(Added <ref href="hk/2023/5">5 of 2023 s. 12</ref>)</sourceNote></section><section id="ID_1438403495034_001" name="s18" reason="inEffect" startPeriod="2015-11-12" status="operational" temporalId="s18"><num value="18">18.</num><heading>Onus of proving limits of what is practicable, etc.</heading><subsection id="ID_1438413605107_004" name="1" temporalId="s18_1"><num value="1">(1)</num><content>In a proceeding for an offence under a provision in this Ordinance consisting
+                of a failure to comply with a duty or requirement to do something so far as is
+                necessary, where practicable, so far as is reasonably practicable, or so far as
+                practicable or to take all reasonable steps, all practicable steps, adequate steps
+                or all reasonably practicable steps to do something, the onus is on the accused to
+                prove that it was not necessary, not practicable or not reasonably practicable to do
+                more than was in fact done to satisfy the duty or requirement, or that he has taken
+                all reasonable steps, or practicable steps or done the appropriate thing to satisfy
+                the duty or requirement.</content></subsection><subsection id="ID_1438413605123_005" name="2" temporalId="s18_2"><num value="2">(2)</num><content>In a proceeding for an offence under a provision in this Ordinance consisting
+                of an exemption from compliance with a duty or requirement to do something where it
+                is impracticable, not reasonably practicable or rendered impracticable to comply
+                with that duty or requirement, the onus is on the accused to prove that it was
+                impracticable or not reasonably practicable to do more than was in fact done to
+                comply with the duty or requirement.</content></subsection><subsection id="ID_1438413605138_005" name="3" temporalId="s18_3"><num value="3">(3)</num><content>Subsections (1) and (2) do not apply where the offence is committed on or
+                before the commencement* of this section.</content></subsection><sourceNote>(Added <ref href="/hk/1989/71">71 of 1989 s. 12</ref>)</sourceNote><editorialNote type="footnote" id="ID_1560152217918_001">
+            <content>Editorial Note:<table xmlns="http://www.w3.org/1999/xhtml" frame="void" class="font_size_9" width="100%">
+                    <col width="5.5%"></col>
+                    <col width="94.5%"></col>
+                    <tbody>
+                        <tr>
+                            <td><inline xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" class="force_orig_font">*</inline></td>
+                            <td>Commencement date: 15 December 1989.</td>
+                        </tr>
+                    </tbody>
+                </table></content>
+        </editorialNote></section><section id="ID_1438403495034_003" name="s19" reason="inEffect" startPeriod="2015-11-12" status="operational" temporalId="s19"><num value="19">19.</num><heading>Civil liability</heading><leadIn>This Ordinance does not—</leadIn><paragraph id="ID_1438413605169_047" name="a" temporalId="s19_a"><num value="a">(a)</num><content>confer a right of action in civil proceedings in respect of a failure to comply with <ref>section 6A</ref>, <ref>6B</ref> or <ref>6BA</ref>; and<inline class="width_3"> </inline><sourceNote>(Amended <ref href="/hk/1999/53">53 of 1999 s. 8</ref>)</sourceNote></content></paragraph><paragraph id="ID_1438413605185_006" name="b" temporalId="s19_b"><num value="b">(b)</num><content>affect the extent (if any) to which breach of any other provision is actionable.</content></paragraph><sourceNote>(Added <ref href="/hk/1989/71">71 of 1989 s. 12</ref>)</sourceNote></section><section id="ID_1681959962338_001" name="s20" temporalId="s20" startPeriod="2023-04-28" status="operational" reason="inEffect"><num value="20">20.</num><heading>Court to order
+            convicted proprietor to give financial information</heading><subsection id="ID_1682304079034_001" name="1" temporalId="s20_1"><num value="1">(1)</num><content>If a proprietor of an industrial undertaking is convicted on indictment of an
+                offence under this Ordinance, the court must order the proprietor to give
+                information on the turnover of the proprietor’s business to determine the scale of
+                operation of the proprietor.</content></subsection><subsection id="ID_1682304079035_002" name="2" temporalId="s20_2"><num value="2">(2)</num><leadIn>For the purpose of complying with an order made under subsection (1), the
+                proprietor must provide—</leadIn><paragraph id="ID_1682304079036_003" name="a" temporalId="s20_2_a"><num value="a">(a)</num><content>a copy of the return furnished by the proprietor for profits tax under
+                        <ref>section 51(1)</ref> of the Inland Revenue Ordinance (<ref href="/hk/cap112">Cap. 112</ref>); or</content></paragraph><paragraph id="ID_1682304079039_004" name="b" temporalId="s20_2_b"><num value="b">(b)</num><content>a document containing the turnover information of the proprietor’s business
+                    that has been audited by a certified public accountant (practising) as defined
+                    by <ref>section 2(1)</ref> of the Accounting and Financial Reporting Council
+                    Ordinance (<ref href="/hk/cap588">Cap. 588</ref>).</content></paragraph></subsection><subsection id="ID_1682304079043_005" name="3" temporalId="s20_3"><num value="3">(3)</num><content>If the proprietor fails to comply with an order made under subsection (1) by
+                giving sufficient information, the court may further order the proprietor to give
+                any other financial information that the court considers relevant in determining the
+                scale of operation of the proprietor.</content></subsection><subsection id="ID_1682304079044_006" name="4" temporalId="s20_4"><num value="4">(4)</num><content>Information given in compliance with an order made under subsection (1) or an
+                order made under subsection (3), or both, must cover the year in which the offence
+                is committed.</content></subsection><subsection id="ID_1682304079045_007" name="5" temporalId="s20_5"><num value="5">(5)</num><leadIn>In this section—</leadIn><def name="Turnover"><term>turnover</term> (<term xml:lang="zh-Hant-HK">營業額</term>)
+                means the revenue arising in or derived from Hong Kong from the principal business
+                activities carried on in Hong Kong by a proprietor, but excluding the revenue that
+                arises incidentally or is exceptional in nature;</def><def name="Year">
+                <leadIn><term>year</term> (<term xml:lang="zh-Hant-HK">年份</term>), in relation to a
+                    proprietor, means—</leadIn>
+                <paragraph id="ID_1682304079046_008" name="a" temporalId="s20_5_a"><num value="a">(a)</num><content>the financial year of the proprietor; or</content></paragraph>
+                <paragraph id="ID_1682304079047_009" name="b" temporalId="s20_5_b"><num value="b">(b)</num><content>if the proprietor does not have a financial year, a calendar
+                        year.</content></paragraph>
+            </def></subsection><sourceNote>(Added <ref href="hk/2023/5">5 of 2023 s. 13</ref>)</sourceNote></section><section id="ID_1681959962879_002" name="s21" temporalId="s21" startPeriod="2023-04-28" status="operational" reason="inEffect"><num value="21">21.</num><heading>Court to take
+            into account financial information of convicted proprietor</heading><leadIn>In determining the amount of the fine to be imposed on a proprietor of an industrial
+            undertaking who is convicted on indictment of an offence under this Ordinance, the court
+            must take into account—</leadIn><paragraph id="ID_1681960114283_001" name="a" temporalId="s21_a"><num value="a">(a)</num><content>any financial information given by the proprietor (whether or not given in
+                compliance with an order under <ref>section 20(1)</ref> or<ref> (3)</ref>) that is
+                relevant in determining the scale of operation of the proprietor; and</content></paragraph><paragraph id="ID_1681960114286_002" name="b" temporalId="s21_b"><num value="b">(b)</num><content>if no such information is given by the proprietor—any financial information
+                from any other source provided by the prosecution that the court considers relevant
+                in determining the scale of operation of the proprietor and reliable in the
+                circumstances.</content></paragraph><sourceNote>(Added <ref href="hk/2023/5">5 of 2023 s. 14</ref>)</sourceNote></section><schedule id="ID_1438403495034_005" name="sch1" reason="inEffect" startPeriod="2015-11-12" status="operational" temporalId="sch1"><num value="1">Schedule
+            1</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap59/s2">ss.
+                2</ref> &amp; <ref href="/hk/cap59/s8">8</ref>]</note><heading>Dangerous
+            Trades</heading><section id="ID_1438413605201_027" name="s1" temporalId="sch1_s1" class="no_header"><num value="1">1.</num><content>Boiler chipping.</content></section><section id="ID_1438413605201_035" name="s2" temporalId="sch1_s2" class="no_header"><num value="2">2.</num><content><sourceNote>(Repealed <ref href="/hk/1983/ln222">L.N. 222 of
+                    1983</ref>)</sourceNote></content></section><section id="ID_1438413605216_004" name="s3" temporalId="sch1_s3" class="no_header"><num value="3">3.</num><content>The manufacture of glass from basic raw materials.
+                <sourceNote>(Replaced <ref href="/hk/1983/ln222">L.N. 222 of
+                        1983</ref>)</sourceNote></content></section><section id="ID_1438413605216_012" name="s4" temporalId="sch1_s4" class="no_header"><num value="4">4.</num><content>Manufacturing
+                processes involving the use of arsenic, lead, manganese, mercury,
+                phosphorus, or any compound of any of them.
+                <sourceNote>(Amended <ref href="/hk/1983/ln222">L.N. 222 of
+                        1983</ref>)</sourceNote></content></section><section id="ID_1438413605216_020" name="s5" temporalId="sch1_s5" class="no_header"><num value="5">5.</num><content>Vermillion manufacture.</content></section><section id="ID_1438413605216_028" name="s6" temporalId="sch1_s6" class="no_header"><num value="6">6.</num><content>Chromium plating.</content></section><section id="ID_1438413605216_036" name="s7" temporalId="sch1_s7" class="no_header"><num value="7">7.</num><content>The machining or grinding of celluloid or magnesium, or of any article wholly
+                or partly made of celluloid or magnesium in any manufacturing process.
+                <sourceNote>(Replaced <ref href="/hk/1983/ln222">L.N. 222 of
+                        1983</ref>)</sourceNote></content></section><section id="ID_1438413605216_044" name="s8" temporalId="sch1_s8" class="no_header"><num value="8">8.</num><content>The manufacture of hydrochloric, nitric or sulphuric acids.</content></section></schedule><schedule id="ID_1438403495050_002" name="sch2" reason="inEffect" startPeriod="2022-03-31" status="operational" temporalId="sch2"><num value="2">Schedule
+            2</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap59/s2">ss. 2</ref> &amp; <ref href="/hk/cap59/s8">8</ref>]</note><heading>Scheduled
+            Trades</heading><section id="ID_1438413605247_020" name="s1" temporalId="sch2_s1" class="no_header"><num value="1">1.</num><content>Any industrial undertaking involving the use of
+                any
+                Class 3 dangerous goods or Class 3A dangerous goods, as defined by <ref>section
+                    2</ref> of the Dangerous Goods (Application and Exemption) Regulation 2012 (<ref href="/hk/cap295E">Cap. 295 sub. leg. E</ref>) (if a licence is required for the
+                use of the dangerous goods under <ref>section 6</ref> of the Dangerous Goods
+                Ordinance (<ref href="/hk/cap295">Cap. 295</ref>)). 
+                <sourceNote>(Amended <ref href="/hk/1983/ln222">L.N. 222 of
+                        1983</ref>; <ref href="/hk/1997/80">80 of 1997 s.
+                    102</ref>; <ref href="hk/2021/29">29 of 2021 s. 13</ref>)</sourceNote></content></section><section id="ID_1438413605263_004" name="s2" temporalId="sch2_s2" class="no_header"><num value="2">2.</num><content>Any industrial undertaking involving the use of coal gas.</content></section><section id="ID_1438413605263_012" name="s3" temporalId="sch2_s3" class="no_header"><num value="3">3.</num><content>Any industrial undertaking involving the use of electricity as motive power or
+                for heating or in any electrolytic process, other than electricity used solely for
+                the ventilation, heating or lighting of a building.</content></section><section id="ID_1438413605263_020" name="s4" temporalId="sch2_s4" class="no_header"><num value="4">4.</num><content>Any industrial undertaking involving the use of any X-ray or radioactive
+                substance. <sourceNote>(Added <ref href="/hk/1956/gna62">G.N.A. 62 of
+                    1956</ref>)</sourceNote></content></section><sourceNote>(Amended <ref href="hk/2015/er3">E.R. 3 of
+        2015</ref>)</sourceNote></schedule><schedule id="ID_1438403495050_004" name="sch3" reason="inEffect" startPeriod="2015-11-12" status="operational" temporalId="sch3"><num value="3">Schedule
+            3</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap59/s2">ss.
+                2</ref> &amp; <ref href="/hk/cap59/s8">8</ref>]</note><heading>Specified
+            Structures and Works</heading><section id="ID_1438413605294_012" name="s1" temporalId="sch3_s1" class="no_header"><num value="1">1.</num><content>Any building, edifice, wall, fence, or chimney, whether constructed wholly or
+                partly above or below ground level.</content></section><section id="ID_1438413605294_020" name="s2" temporalId="sch3_s2" class="no_header"><num value="2">2.</num><content>Any road, motorway, railway, tramway, cableway, aerial ropeway or canal.
+                    <sourceNote>(Amended <ref href="/hk/1976/19">19 of 1976 s.
+                    32</ref>)</sourceNote></content></section><section id="ID_1438413605294_028" name="s3" temporalId="sch3_s3" class="no_header"><num value="3">3.</num><content>Any harbour works, dock, pier, sea defence work, or lighthouse.</content></section><section id="ID_1438413605310_004" name="s4" temporalId="sch3_s4" class="no_header"><num value="4">4.</num><content>Any aqueduct, viaduct, bridge, or tunnel.</content></section><section id="ID_1438413605310_012" name="s5" temporalId="sch3_s5" class="no_header"><num value="5">5.</num><content>Any sewer, sewage disposal works, or filter bed.</content></section><section id="ID_1438413605310_020" name="s6" temporalId="sch3_s6" class="no_header"><num value="6">6.</num><content>Any airport or works connected with air navigation.</content></section><section id="ID_1438413605310_028" name="s7" temporalId="sch3_s7" class="no_header"><num value="7">7.</num><content>Any dam, reservoir, well, pipeline, culvert, shaft, or reclamation.</content></section><section id="ID_1438413605310_036" name="s8" temporalId="sch3_s8" class="no_header"><num value="8">8.</num><content>Any drainage, irrigation, or river control work.</content></section><section id="ID_1438413605310_044" name="s9" temporalId="sch3_s9" class="no_header"><num value="9">9.</num><content>Any water, electrical, gas, telephonic, telegraphic, radio, or television
+                installation or works, or any other works designed for the manufacturing or
+                transmission of power or the transmission or reception of radio or sound
+                waves.<marker role="section-break"></marker></content></section><section id="ID_1438413605310_052" name="s10" temporalId="sch3_s10" class="no_header"><num value="10">10.</num><content>Any structure designed for the support of machinery, plant, or power
+                transmission lines.</content><sourceNote>(Added <ref href="/hk/1973/52">52 of 1973 s. 6</ref>)</sourceNote></section></schedule><schedule id="ID_1438403495066_002" name="sch4" reason="inEffect" startPeriod="2015-11-12" status="operational" temporalId="sch4"><num value="4">Schedule
+            4</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap59/s6BA">ss. 6BA</ref> &amp; <ref href="/hk/cap59/s8">8</ref>]</note><heading>Specified
+            Industrial Undertakings and Persons Employed at the
+            Undertakings</heading><text>
+            
+            <table xmlns="http://www.w3.org/1999/xhtml" width="100%">
+                <col width="10%"></col>
+                
+                <col width="35%"></col>
+                
+                <col width="55%"></col>
+                <tr>
+                    <td></td>
+                    <td>
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Column 1</center>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td>
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Column 2</center>
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td class="valign_bottom">
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Industrial
+                            undertaking</center>
+                        
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                    <td>
+                        <center xmlns="http://www.xml.gov.hk/schemas/hklm/1.0">Persons employed at
+                            
+                            industrial
+                            undertaking</center>
+                        
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                    </td>
+                </tr>
+                <tr>
+                    <td>1. </td>
+                    <td>
+                        
+                        <p>Construction work</p>
+                    </td>
+                    <td>
+                        
+                        <p>Every person carrying out construction work</p>
+                        
+                        <marker xmlns="http://www.xml.gov.hk/schemas/hklm/1.0" role="blank-line"></marker>
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td>2. </td>
+                    <td>
+                        
+                        <p>Container handling</p>
+                    </td>
+                    <td>
+                        
+                        <p>Every person carrying out container handling</p>
+                    </td>
+                </tr>
+            </table>
+        </text><sourceNote>(Added <ref href="/hk/1999/53">53 of 1999 s.
+        9</ref>)</sourceNote></schedule><schedule id="ID_1438403495066_004" name="sch5" reason="inEffect" startPeriod="2023-04-28" status="operational" temporalId="sch5"><num value="5">Schedule
+      5</num><note class="align_right" role="crossReferences" type="inline">[<ref href="/hk/cap59/s17A">s.
+      17A</ref>]</note><sourceNote>(Amended <ref href="hk/2023/5">5 of 2023 s. 15</ref>)</sourceNote><heading>Offences
+      to be Prosecuted within
+      9
+      Months from Offence being Discovered by or Coming to Notice of
+      Commissioner</heading><sourceNote>(Amended <ref href="hk/2023/5">5 of 2023 s. 15</ref>)</sourceNote><section id="ID_1438413605388_012" name="s1" temporalId="sch5_s1" class="no_header"><num value="1">1.</num><content>Contravention of <ref>section 9(1)</ref> of this Ordinance.</content></section><section id="ID_1438413605388_021" name="s2" temporalId="sch5_s2" class="no_header"><num value="2">2.</num><content>Contravention of <ref>regulation 56(1)</ref> of the Construction Sites (Safety)
+        Regulations (<ref href="/hk/cap59I">Cap. 59 sub. leg. I</ref>).</content></section><section id="ID_1438413605388_030" name="s3" temporalId="sch5_s3" class="no_header"><num value="3">3.</num><content>Failure to comply with <ref>regulation 30</ref> of the Factories and Industrial
+        Undertakings (Work in Compressed Air) Regulations (<ref href="/hk/cap59M">Cap. 59 sub. leg.
+          M</ref>).</content></section><section id="ID_1438413605403_005" name="s4" temporalId="sch5_s4" class="no_header"><num value="4">4.</num><content>Failure to comply with <ref>section 6(1)</ref> of the Factories and Industrial
+        Undertakings (Asbestos) Regulation (<ref href="/hk/cap59AD">Cap. 59 sub. leg.
+        AD</ref>).</content><sourceNote>(Added <ref href="/hk/2000/11">11 of 2000 s.
+        3</ref>. Amended <ref href="hk/2015/er3">E.R. 3 of 2015</ref>)</sourceNote></section></schedule></main></ordinance>
