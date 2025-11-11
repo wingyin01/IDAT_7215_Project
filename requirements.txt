@@ -16,3 +16,11 @@ threadpoolctl==3.6.0
 tqdm==4.67.1
 Werkzeug==3.0.1
 zipp==3.23.0
+
+# RAG and Semantic Search Dependencies
+sentence-transformers>=2.3.0
+huggingface-hub>=0.20.0
+faiss-cpu==1.7.4
+ollama==0.1.6
+transformers>=4.36.0
+torch>=2.1.0

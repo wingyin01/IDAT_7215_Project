@@ -10,7 +10,7 @@ import os
 project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, project_root)
 
-from flask import Flask, render_template, request, jsonify
+from flask import Flask, render_template, request, jsonify, Response, stream_with_context
 from engine.rule_engine import InferenceEngine, analyze_case
 from engine.case_matcher import CaseMatcher
 from engine.document_analyzer import DocumentAnalyzer
@@ -20,12 +20,35 @@ from engine.explanation import generate_legal_advice_disclaimer
 from knowledge_base import hk_all_ordinances as hk_ordinances
 from knowledge_base import all_cases_database as case_database
 
+# Import RAG engine
+try:
+    from engine.rag_engine import RAGLegalEngine
+    RAG_AVAILABLE = True
+    print("✅ RAG engine available")
+except Exception as e:
+    RAG_AVAILABLE = False
+    print(f"⚠️  RAG engine not available: {e}")
+
 app = Flask(__name__)
 app.config['SECRET_KEY'] = 'hk-criminal-law-expert-system-2024'
 
 # Initialize components
 case_matcher = CaseMatcher()
 document_analyzer = DocumentAnalyzer()
+
+# Initialize RAG engine (lazy loading)
+rag_engine = None
+def get_rag_engine():
+    """Get or initialize RAG engine"""
+    global rag_engine
+    if rag_engine is None and RAG_AVAILABLE:
+        try:
+            print("Initializing RAG engine...")
+            rag_engine = RAGLegalEngine()
+        except Exception as e:
+            print(f"Failed to initialize RAG engine: {e}")
+            return None
+    return rag_engine
 
 @app.route('/')
 def index():
@@ -46,6 +69,101 @@ def case_search():
 def document_analysis():
     """Document analysis page"""
     return render_template('document_analysis.html')
+
+@app.route('/api/rag-consultation', methods=['POST'])
+def api_rag_consultation():
+    """
+    RAG-powered legal consultation endpoint
+    Uses hybrid search + LLaMA for intelligent advice
+    """
+    try:
+        data = request.json
+        query = data.get('query', '')
+        stream = data.get('stream', False)
+        
+        if not query:
+            return jsonify({'error': 'No query provided'}), 400
+        
+        # Check if RAG is available
+        engine = get_rag_engine()
+        if engine is None:
+            return jsonify({
+                'error': 'RAG engine not available',
+                'message': 'Please ensure Ollama is running and embeddings are generated'
+            }), 503
+        
+        # Stream response
+        if stream:
+            def generate():
+                try:
+                    result = engine.consult(query, stream=True)
+                    
+                    # Send sources first
+                    import json
+                    sources_data = {
+                        'type': 'sources',
+                        'legislation_count': len(result['sources']['legislation']),
+                        'cases_count': len(result['sources']['cases']),
+                        'citations': engine.get_source_citations(result['sources'])
+                    }
+                    yield f"data: {json.dumps(sources_data)}\n\n"
+                    
+                    # Stream advice
+                    for chunk in result['advice']:
+                        chunk_data = {
+                            'type': 'advice',
+                            'content': chunk
+                        }
+                        yield f"data: {json.dumps(chunk_data)}\n\n"
+                    
+                    # Send completion
+                    yield f"data: {json.dumps({'type': 'done'})}\n\n"
+                    
+                except Exception as e:
+                    error_data = {
+                        'type': 'error',
+                        'message': str(e)
+                    }
+                    yield f"data: {json.dumps(error_data)}\n\n"
+            
+            return Response(
+                stream_with_context(generate()),
+                mimetype='text/event-stream',
+                headers={
+                    'Cache-Control': 'no-cache',
+                    'X-Accel-Buffering': 'no'
+                }
+            )
+        
+        # Non-streaming response
+        else:
+            result = engine.consult(query, stream=False)
+            
+            # Get citations
+            citations = engine.get_source_citations(result['sources'])
+            
+            return jsonify({
+                'success': True,
+                'query': result['query'],
+                'advice': result['advice'],
+                'legislation_count': result['legislation_count'],
+                'cases_count': result['cases_count'],
+                'citations': citations,
+                'disclaimer': generate_legal_advice_disclaimer()
+            })
+    
+    except Exception as e:
+        return jsonify({'error': str(e)}), 500
+
+@app.route('/api/rag-status')
+def api_rag_status():
+    """Check if RAG engine is available"""
+    engine = get_rag_engine()
+    return jsonify({
+        'available': engine is not None,
+        'ollama_installed': RAG_AVAILABLE,
+        'indexed': engine.search_engine.is_indexed if engine else False
+    })
 
 @app.route('/api/analyze', methods=['POST'])
 def api_analyze():

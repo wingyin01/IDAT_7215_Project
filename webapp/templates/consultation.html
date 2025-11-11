@@ -5,7 +5,7 @@
 {% block content %}
 <div class="card">
     <h2>⚖️ Legal Consultation</h2>
-    <p>Describe the facts of your case, and the system will analyze potential criminal offences and defenses under Hong Kong law.</p>
+    <p>Get legal guidance powered by Hong Kong legislation and case law.</p>
     
     <div class="alert alert-warning">
         <strong>⚠️ Important:</strong> This is NOT legal advice. For actual legal matters, consult a qualified solicitor.
@@ -13,42 +13,275 @@
 </div>
 
 <div class="card">
-    <form id="consultation-form">
+    <div class="mode-selector">
+        <h3>Select Consultation Mode:</h3>
+        <div class="toggle-container">
+            <label class="toggle-option">
+                <input type="radio" name="mode" value="rule-based" checked>
+                <span>Rule-Based Analysis</span>
+                <small>Fast fact-based analysis using predefined rules</small>
+            </label>
+            <label class="toggle-option">
+                <input type="radio" name="mode" value="rag">
+                <span>Expert Mode (RAG) 🚀</span>
+                <small>AI-powered consultation with LLaMA using semantic search</small>
+            </label>
+        </div>
+        <div id="rag-status" style="margin-top: 10px; display: none;"></div>
+    </div>
+    
+    <form id="consultation-form" style="margin-top: 20px;">
         <div class="form-group">
-            <label for="facts-text">Case Facts:</label>
-            <textarea id="facts-text" class="form-control" placeholder="Describe what happened... For example: A person entered a store, took items worth HK$5,000 without paying, and left. They were arrested with the items." required></textarea>
+            <label for="query-text" id="input-label">Case Facts or Legal Question:</label>
+            <textarea id="query-text" class="form-control" 
+                placeholder="For Rule-Based: Describe facts (e.g., 'A person entered a store, took items worth HK$5,000')&#10;&#10;For Expert Mode: Ask any legal question (e.g., 'What are the penalties for theft in Hong Kong?')" 
+                required></textarea>
         </div>
         
-        <button type="submit" class="btn btn-primary">Analyze Case</button>
+        <button type="submit" class="btn btn-primary" id="submit-btn">Analyze Case</button>
     </form>
 </div>
 
 <div id="loader" class="loader">
     <div class="spinner"></div>
-    <p>Analyzing case...</p>
+    <p id="loader-text">Analyzing...</p>
 </div>
 
 <div id="results" style="display: none;">
     <div class="card">
-        <h2>📋 Analysis Results</h2>
+        <h2>📋 Results</h2>
         <div id="results-content"></div>
     </div>
 </div>
 
+<style>
+.mode-selector {
+    padding: 20px;
+    background: #f8f9fa;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+.toggle-container {
+    display: flex;
+    gap: 15px;
+    margin-top: 15px;
+}
+
+.toggle-option {
+    flex: 1;
+    padding: 15px;
+    border: 2px solid #ddd;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s;
+    background: white;
+}
+
+.toggle-option:hover {
+    border-color: #007bff;
+}
+
+.toggle-option input[type="radio"] {
+    display: none;
+}
+
+.toggle-option input[type="radio"]:checked + span {
+    color: #007bff;
+    font-weight: bold;
+}
+
+.toggle-option input[type="radio"]:checked ~ * {
+    color: #007bff;
+}
+
+.toggle-option span {
+    display: block;
+    font-size: 1.1em;
+    margin-bottom: 5px;
+}
+
+.toggle-option small {
+    display: block;
+    color: #666;
+    font-size: 0.9em;
+}
+
+.citation-list {
+    background: #f8f9fa;
+    padding: 15px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.citation-item {
+    padding: 8px 0;
+    border-bottom: 1px solid #ddd;
+}
+
+.citation-item:last-child {
+    border-bottom: none;
+}
+
+.streaming-advice {
+    line-height: 1.8;
+    white-space: pre-wrap;
+}
+
+.badge {
+    display: inline-block;
+    padding: 4px 8px;
+    background: #007bff;
+    color: white;
+    border-radius: 4px;
+    font-size: 0.85em;
+    margin-right: 5px;
+}
+</style>
+
 <script>
+let currentMode = 'rule-based';
+
+// Check RAG status on load
+async function checkRAGStatus() {
+    try {
+        const response = await fetch('/api/rag-status');
+        const data = await response.json();
+        const statusDiv = document.getElementById('rag-status');
+        
+        if (data.available && data.indexed) {
+            statusDiv.innerHTML = '<span style="color: green;">✅ Expert Mode Ready</span>';
+        } else if (!data.ollama_installed) {
+            statusDiv.innerHTML = '<span style="color: orange;">⚠️ Expert Mode requires Ollama installation</span>';
+        } else if (!data.indexed) {
+            statusDiv.innerHTML = '<span style="color: orange;">⚠️ Expert Mode requires embeddings generation</span>';
+        } else {
+            statusDiv.innerHTML = '<span style="color: red;">❌ Expert Mode unavailable</span>';
+        }
+        statusDiv.style.display = 'block';
+    } catch (error) {
+        console.error('Failed to check RAG status:', error);
+    }
+}
+
+checkRAGStatus();
+
+// Handle mode switching
+document.querySelectorAll('input[name="mode"]').forEach(radio => {
+    radio.addEventListener('change', function() {
+        currentMode = this.value;
+        const submitBtn = document.getElementById('submit-btn');
+        const inputLabel = document.getElementById('input-label');
+        
+        if (currentMode === 'rag') {
+            submitBtn.textContent = 'Get Expert Advice';
+            submitBtn.classList.add('btn-success');
+            submitBtn.classList.remove('btn-primary');
+            inputLabel.textContent = 'Your Legal Question:';
+        } else {
+            submitBtn.textContent = 'Analyze Case';
+            submitBtn.classList.add('btn-primary');
+            submitBtn.classList.remove('btn-success');
+            inputLabel.textContent = 'Case Facts:';
+        }
+    });
+});
+
+// Handle form submission
 document.getElementById('consultation-form').addEventListener('submit', async function(e) {
     e.preventDefault();
     
-    const factsText = document.getElementById('facts-text').value;
+    const queryText = document.getElementById('query-text').value;
     const loader = document.getElementById('loader');
+    const loaderText = document.getElementById('loader-text');
     const results = document.getElementById('results');
     
     // Show loader
     loader.classList.add('active');
     results.style.display = 'none';
     
+    if (currentMode === 'rag') {
+        loaderText.textContent = 'Searching legislation and case law...';
+        await handleRAGMode(queryText, loader, results);
+    } else {
+        loaderText.textContent = 'Analyzing case...';
+        await handleRuleBasedMode(queryText, loader, results);
+    }
+});
+
+async function handleRAGMode(query, loader, results) {
     try {
-        // First analyze document to extract facts
+        const loaderText = document.getElementById('loader-text');
+        loaderText.textContent = 'Consulting with AI expert...';
+        
+        const response = await fetch('/api/rag-consultation', {
+            method: 'POST',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({query: query, stream: false})
+        });
+        
+        const data = await response.json();
+        
+        if (!data.success) {
+            throw new Error(data.error || data.message || 'RAG consultation failed');
+        }
+        
+        // Display results
+        let html = '';
+        
+        // Show source count
+        html += '<div class="alert alert-info">';
+        html += `<strong>📚 Sources:</strong> Analyzed ${data.legislation_count} legislation sections and ${data.cases_count} case precedents`;
+        html += '</div>';
+        
+        // Show advice
+        html += '<div class="result"><h3>💼 Expert Legal Advice</h3>';
+        html += `<div class="streaming-advice">${data.advice}</div>`;
+        html += '</div>';
+        
+        // Show citations
+        if (data.citations.legislation.length > 0) {
+            html += '<div class="result"><h3>📖 Legislation Cited</h3>';
+            html += '<div class="citation-list">';
+            data.citations.legislation.slice(0, 5).forEach(cite => {
+                html += `<div class="citation-item">
+                    <strong>${cite.reference}</strong>: ${cite.title}<br>
+                    <small>${cite.ordinance}</small>
+                </div>`;
+            });
+            html += '</div></div>';
+        }
+        
+        if (data.citations.cases.length > 0) {
+            html += '<div class="result"><h3>⚖️ Cases Cited</h3>';
+            html += '<div class="citation-list">';
+            data.citations.cases.forEach(cite => {
+                html += `<div class="citation-item">
+                    <strong>${cite.case_name}</strong> (${cite.year})<br>
+                    <small>Outcome: ${cite.outcome}</small>
+                </div>`;
+            });
+            html += '</div></div>';
+        }
+        
+        // Disclaimer
+        html += '<div class="alert alert-warning">';
+        html += data.disclaimer;
+        html += '</div>';
+        
+        document.getElementById('results-content').innerHTML = html;
+        results.style.display = 'block';
+        results.scrollIntoView({behavior: 'smooth'});
+        
+    } catch (error) {
+        alert('Error: ' + error.message);
+    } finally {
+        loader.classList.remove('active');
+    }
+}
+
+async function handleRuleBasedMode(factsText, loader, results) {
+    try {
         const docResponse = await fetch('/api/analyze-document', {
             method: 'POST',
             headers: {'Content-Type': 'application/json'},
@@ -61,10 +294,8 @@ document.getElementById('consultation-form').addEventListener('submit', async fu
             throw new Error(docData.error);
         }
         
-        // Display results
         let html = '';
         
-        // Show inference results if available
         if (docData.inference_results && docData.inference_results.offences.length > 0) {
             html += '<div class="result"><h3>🔴 Potential Offences</h3>';
             docData.inference_results.offences.forEach((offence, idx) => {
@@ -78,14 +309,12 @@ document.getElementById('consultation-form').addEventListener('submit', async fu
             });
             html += '</div>';
             
-            // Show full explanation
             html += '<div class="result"><h3>📖 Detailed Reasoning</h3><pre>' + 
                     docData.inference_results.explanation + '</pre></div>';
         } else {
-            html += '<div class="alert alert-info">No specific offences identified based on the facts provided. More details may be needed.</div>';
+            html += '<div class="alert alert-info">No specific offences identified. Try Expert Mode for more detailed analysis.</div>';
         }
         
-        // Show document analysis
         html += '<div class="result"><h3>🔍 Document Analysis</h3>';
         html += `<p><strong>Summary:</strong> ${docData.analysis.summary}</p>`;
         
@@ -98,7 +327,7 @@ document.getElementById('consultation-form').addEventListener('submit', async fu
         }
         
         if (docData.analysis.legal_issues.length > 0) {
-            html += '<p><strong>Legal Issues to Consider:</strong></p><ul>';
+            html += '<p><strong>Legal Issues:</strong></p><ul>';
             docData.analysis.legal_issues.forEach(issue => {
                 html += `<li>${issue}</li>`;
             });
@@ -116,7 +345,6 @@ document.getElementById('consultation-form').addEventListener('submit', async fu
     } finally {
         loader.classList.remove('active');
     }
-});
+}
 </script>
 {% endblock %}
-

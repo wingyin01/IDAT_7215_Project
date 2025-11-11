@@ -1,198 +1,319 @@
-# IDAT7215 Hong Kong Legal Expert System
+# Hong Kong Legal Expert System with RAG
 
-A comprehensive expert system covering **ALL Hong Kong law** with **2,234 ordinances** and **52,269 legal sections**. Built using official Hong Kong e-Legislation XML data.
+An intelligent legal consultation system powered by Retrieval-Augmented Generation (RAG), combining Hong Kong legislation, case law, and LLaMA AI for expert legal guidance.
 
-## 🎯 Project Overview
+## 🌟 Features
 
-**IDAT7215 Group Project** - Comprehensive legal expert system covering the entire Hong Kong legal system across criminal, civil, commercial, employment, property, family law, and more.
+### Dual Consultation Modes
 
-### System Scale
+1. **Rule-Based Analysis** 
+   - Fast fact-based analysis using forward chaining inference
+   - Identifies criminal offences and potential defenses
+   - Based on predefined legal rules
 
-| Metric | Count |
-|--------|-------|
-| **Total Ordinances** | 2,234 |
-| **Total Legal Sections** | 52,269 |
-| **XML Files Processed** | 3,085 |
-| **Legal Categories** | 11 |
-| **Legal Rules** | 47 |
-| **Case Precedents** | 9 |
+2. **Expert Mode (RAG)** 🚀
+   - AI-powered consultation using LLaMA
+   - Semantic search across 52,269 legislation sections
+   - Hybrid scoring (semantic embeddings + TF-IDF)
+   - Citations from actual legislation and case law
+   - Natural language question answering
 
-## 📚 Legal Coverage
+### Knowledge Base
 
-| Legal Area | Ordinances | Sections |
-|------------|------------|----------|
-| **Criminal Law** | 36 | 2,019 |
-| **Commercial & Company** | 25 | 3,401 |
-| **Property & Land** | 58 | 1,713 |
-| **Employment Law** | 24 | 1,112 |
-| **Civil Law** | 20 | 1,058 |
-| **Tax & Revenue** | 10 | 933 |
-| **Constitutional & Admin** | 20 | 801 |
-| **Intellectual Property** | 4 | 727 |
-| **Family Law** | 17 | 479 |
-| **Immigration** | 2 | 203 |
-| **Other Specialized** | 2,018 | 39,823 |
-
-**Data Source:** https://www.elegislation.gov.hk/ (Official HK Government)
+- **Legislation**: 2,234 Hong Kong ordinances with 52,269 sections
+- **Case Law**: 9 case precedents with full analysis
+- **Categories**: Criminal Law, Commercial Law, Employment Law, Property & Land, and more
 
 ## 🚀 Quick Start
 
-```bash
-# 1. Navigate to project directory
-cd "/Users/wingyin/Documents/Expert system"
-
-# 2. Activate virtual environment
-source venv/bin/activate
-
-# 3. Run the application
-python webapp/app.py
-```
-
-Open browser to: **http://localhost:8080**
-
-**Note:** First load takes ~30 seconds to parse 3,085 XML files.
-
-## 📖 Features
-
-### 1. Legal Consultation
-- Input case facts from any legal area
-- Get rule-based analysis with ordinance citations
-- See complete reasoning chains
-
-### 2. Case Search
-- Find similar precedents using TF-IDF and cosine similarity
-- 9 sample cases across multiple legal areas
-- View outcomes and legal principles
-
-### 3. Document Analysis
-- Paste legal documents for automatic fact extraction
-- NLP-based entity recognition
-- Multi-domain legal issue identification
-
-## 🏗️ Project Structure
-
-```
-Expert system/
-├── knowledge_base/          # Legal knowledge (2,234 ordinances, 47 rules, 9 cases)
-├── engine/                  # AI components (inference, matching, NLP)
-├── webapp/                  # Flask web app + templates
-├── Legislation/             # Official XML files (3,085 files)
-├── venv/                    # Virtual environment
-├── requirements.txt         # Dependencies
-├── run.sh                   # Helper script
-└── README.md                # This file
-```
-
-## ⚙️ Installation
-
 ### Prerequisites
-- Python 3.8+
-- pip
 
-### Setup
+- Python 3.9+
+- 8GB RAM minimum (for LLaMA models)
+- macOS or Linux
 
+### Installation
+
+1. **Clone and setup:**
 ```bash
-# Create virtual environment
+cd IDAT_7215_Project
 python3 -m venv venv
-
-# Activate it
-source venv/bin/activate  # macOS/Linux
-# or: venv\Scripts\activate  # Windows
-
-# Install dependencies
-pip install -r requirements.txt
+source venv/bin/activate
+pip3 install -r requirements.txt
 ```
+
+2. **Preprocess data (one-time, ~2-3 minutes):**
+```bash
+./preprocess_data.sh
+```
+
+This converts XML legislation to JSON and generates embeddings cache.
+
+3. **Setup RAG (one-time, ~10-15 minutes):**
+```bash
+./setup_rag.sh
+```
+
+This installs Ollama and downloads the LLaMA model (choose 3B for testing or 8B for best quality).
+
+4. **Run the application:**
+```bash
+./run.sh
+```
+
+Visit http://localhost:8080
+
+## 📋 System Architecture
+
+```
+User Query
+    ↓
+[Hybrid Search Engine]
+    ├─ Semantic Embeddings (sentence-transformers)
+    ├─ TF-IDF Vectors
+    └─ Hybrid Scoring (0.7 * semantic + 0.3 * tfidf)
+    ↓
+[Retrieved Context]
+    ├─ Top-10 Legislation Sections
+    └─ Top-5 Case Precedents
+    ↓
+[LLaMA Model]
+    ├─ Context: Retrieved sources
+    ├─ Prompt: Legal consultation template
+    └─ Generation: Expert advice
+    ↓
+[Response]
+    ├─ Legal Advice
+    ├─ Source Citations
+    └─ Disclaimer
+```
+
+## 🛠️ Technical Stack
+
+### Backend
+- **Flask**: Web framework
+- **sentence-transformers**: Semantic embeddings (all-MiniLM-L6-v2)
+- **scikit-learn**: TF-IDF vectorization
+- **Ollama**: LLaMA model inference
+- **NLTK**: Natural language processing
+
+### AI Models
+- **Embeddings**: all-MiniLM-L6-v2 (~80MB)
+- **LLM**: LLaMA 3.1 8B or LLaMA 3.2 3B
+
+### Data Processing
+- **XML Parser**: Extracts legislation from official HK e-Legislation portal
+- **JSON Loader**: Fast loading (2-5s vs 30-60s for XML)
+- **Embeddings Cache**: Pre-computed vectors (~200MB)
+
+## 📁 Project Structure
+
+```
+IDAT_7215_Project/
+├── engine/
+│   ├── rule_engine.py          # Rule-based inference engine
+│   ├── hybrid_search.py        # Semantic + TF-IDF search
+│   ├── rag_engine.py           # RAG consultation pipeline
+│   ├── case_matcher.py         # Case law matching
+│   └── document_analyzer.py    # Document analysis
+├── knowledge_base/
+│   ├── preprocess_legislation.py   # XML → JSON converter
+│   ├── json_loader.py              # Fast JSON loader
+│   ├── embeddings_index.py         # Embedding generator
+│   ├── legislation_database.json   # Processed knowledge base
+│   ├── cached_embeddings/          # Pre-computed vectors
+│   ├── hk_all_ordinances.py        # Ordinance loader
+│   └── all_cases_database.py       # Case database
+├── webapp/
+│   ├── app.py                      # Flask application
+│   ├── templates/                  # HTML templates
+│   └── static/                     # CSS, JS, images
+├── Legislation/                    # Raw XML files (3,085 files)
+├── requirements.txt                # Python dependencies
+├── preprocess_data.sh              # Data preprocessing script
+├── setup_rag.sh                    # RAG setup script
+└── run.sh                          # Application launcher
+```
+
+## 🔧 API Endpoints
+
+### RAG Consultation
+```
+POST /api/rag-consultation
+Body: {"query": "What are the penalties for theft?", "stream": false}
+Response: {
+  "success": true,
+  "advice": "...",
+  "legislation_count": 10,
+  "cases_count": 5,
+  "citations": {...}
+}
+```
+
+### RAG Status
+```
+GET /api/rag-status
+Response: {
+  "available": true,
+  "ollama_installed": true,
+  "indexed": true
+}
+```
+
+### Rule-Based Analysis
+```
+POST /api/analyze
+Body: {"facts": ["appropriates_property", "property_belongs_to_another", ...]}
+```
+
+### Case Search
+```
+POST /api/search-cases
+Body: {"query": "theft", "top_n": 5}
+```
+
+## 📊 Performance
+
+### Loading Times
+- **XML Parsing**: 30-60 seconds
+- **JSON Loading**: 2-5 seconds (94% faster!)
+- **Embeddings Loading**: <1 second (from cache)
+- **RAG Query Response**: 3-8 seconds
+
+### Resource Usage
+- **JSON Database**: ~50-100MB
+- **Embeddings Cache**: ~200MB
+- **LLaMA 3.2 3B**: ~2GB RAM
+- **LLaMA 3.1 8B**: ~4.7GB RAM
 
 ## 🧪 Testing
 
-### Quick Test
+### Test Preprocessing
 ```bash
-source venv/bin/activate
-python final_system_test.py
+python3 -m knowledge_base.preprocess_legislation
 ```
 
-Expected output: All 8 tests pass, 2,234 ordinances loaded
-
-### Verify XML Usage
+### Test Embeddings
 ```bash
-python test_xml_loading.py
+python3 -m knowledge_base.embeddings_index
 ```
 
-Shows that official XML files are being used.
-
-## 🎯 Technical Highlights
-
-### AI Techniques
-1. **Expert System**: Forward chaining inference with 47 legal rules
-2. **Machine Learning**: TF-IDF vectorization + cosine similarity for case matching
-3. **NLP**: Text extraction and entity recognition for document analysis
-
-### Data Processing
-- XML parsing of 3,085 official government files
-- Extraction of 52,269 legal sections
-- Organization into 11 legal categories
-- Real-time search across entire database
-
-## 📊 API Endpoints
-
-```
-GET  /api/stats              - System statistics
-GET  /api/categories         - Legal categories
-GET  /api/ordinances         - List ordinances
-GET  /api/ordinance/<ch>     - Specific ordinance
-GET  /api/ordinance/<ch>/<s> - Specific section
-POST /api/analyze            - Legal analysis
-POST /api/search-cases       - Case search
-POST /api/analyze-document   - Document analysis
+### Test RAG Engine
+```bash
+python3 -m engine.rag_engine
 ```
 
-## 🔧 Troubleshooting
+### Test Full System
+```bash
+python3 final_system_test.py
+```
 
-**Long initial loading:**
-- Normal - parsing 3,085 XML files takes ~30 seconds
-- Wait for "Access the system at: http://localhost:8080" message
+## 📖 Usage Examples
 
-**Port already in use:**
-- Edit `webapp/app.py` line 327
-- Change `port=8080` to another port like `8081`
+### Expert Mode (RAG)
 
-**Module import errors:**
-- Ensure virtual environment is activated: `source venv/bin/activate`
+**Question**: "What are the legal requirements for starting a company in Hong Kong?"
 
-## ⚠️ Disclaimer
+**Response**: 
+- Analyzes Cap. 622 (Companies Ordinance)
+- Retrieves relevant sections about company registration
+- Cites case precedents about company formation
+- Provides step-by-step guidance with legal citations
 
-This system provides general information only and is NOT legal advice. For actual legal matters, consult a qualified Hong Kong solicitor or barrister.
+### Rule-Based Mode
 
-## 🎓 For IDAT7215 Assessment
+**Input Facts**: 
+- Person entered store
+- Took items worth HK$5,000
+- Left without paying
+- Had intent to permanently deprive
 
-### Key Achievements
-- 2,234 ordinances (100x larger than typical academic projects)
-- Official government data (not simulated)
-- Three AI techniques (Expert Systems + ML + NLP)
-- 11 legal categories (multi-domain coverage)
-- Production-quality web application
+**Output**:
+- Identifies: Theft (Cap. 210, s.2)
+- Maximum Penalty: 10 years imprisonment
+- Detailed reasoning chain
 
-### Demo Points
-1. Show homepage statistics: 2,234 ordinances, 52,269 sections
-2. Run legal consultation: Show inference reasoning
-3. Search cases: Demonstrate TF-IDF similarity matching
-4. Analyze document: Show NLP extraction
-5. Run test script: Prove official XML usage
+## ⚠️ Important Notes
 
-## 📞 Support
+### Legal Disclaimer
+This system provides general legal information, NOT legal advice. For specific legal matters, consult a qualified Hong Kong solicitor.
 
-For technical details, see:
-- `COMPREHENSIVE_SYSTEM_DOCUMENTATION.md` - Full technical documentation
-- `WHAT_LAWS_ARE_INCLUDED.md` - Complete law coverage
-- `HOW_CATEGORIZATION_WORKS.md` - Explains the 11 categories
+### Data Currency
+Legislation data is from the official HK e-Legislation portal (last updated: 2024-2025). Laws may have changed since the data was collected.
 
-## 📄 License
+### System Limitations
+- RAG responses depend on LLaMA model quality
+- Semantic search may miss edge cases
+- Case database is limited (9 cases currently)
+- Not a substitute for professional legal counsel
 
-Official Hong Kong government data from e-Legislation portal.  
-For educational use in IDAT7215 project.
+## 🔄 Maintenance
+
+### Update Legislation Data
+1. Download new XML files from https://www.elegislation.gov.hk
+2. Place in `Legislation/` directory
+3. Run: `./preprocess_data.sh`
+
+### Rebuild Embeddings
+```bash
+python3 -m knowledge_base.embeddings_index --rebuild
+```
+
+### Update LLaMA Model
+```bash
+ollama pull llama3.1:8b  # or llama3.2:3b
+```
+
+## 🤝 Contributing
+
+### Adding New Cases
+Edit `knowledge_base/all_cases_database.py` and add cases using the `CriminalCase` class.
+
+### Adding New Rules
+Edit `knowledge_base/all_legal_rules.py` and add rules using the `Rule` class.
+
+### Improving Categorization
+Update categories in `knowledge_base/all_ordinances_loader.py`.
+
+## 📝 License
+
+This project is for educational purposes (IDAT 7215). The legislation data is from official Hong Kong Government sources.
+
+## 🆘 Troubleshooting
+
+### "RAG engine not available"
+- Ensure Ollama is running: `ollama serve`
+- Check embeddings exist: `ls knowledge_base/cached_embeddings/`
+- Run: `./setup_rag.sh`
+
+### "Port 8080 already in use"
+- The system will automatically kill the old process
+- Or manually: `lsof -ti:8080 | xargs kill -9`
+
+### Slow loading times
+- Ensure JSON database exists: `ls knowledge_base/legislation_database.json`
+- Rebuild if needed: `./preprocess_data.sh`
+
+### Out of memory
+- Use smaller model: `ollama pull llama3.2:3b`
+- Reduce `top_k_legislation` in RAG engine
+
+## 📧 Support
+
+For issues or questions:
+1. Check the troubleshooting section
+2. Review system logs in terminal
+3. Ensure all prerequisites are installed
+
+## 🎓 Academic Context
+
+This is a course project for IDAT 7215 - Expert Systems, demonstrating:
+- Knowledge representation (rules, cases, legislation)
+- Inference engines (forward chaining)
+- Modern AI integration (RAG with LLaMA)
+- Hybrid retrieval methods (semantic + keyword)
+- Real-world application (Hong Kong legal system)
 
 ---
 
-**IDAT7215 Hong Kong Legal Expert System**  
-*2,234 Ordinances | 52,269 Sections | 11 Categories*  
-*Ready for Demonstration* 🏆
+**Built with ❤️ for Hong Kong Legal Education**
