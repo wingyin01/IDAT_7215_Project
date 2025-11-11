@@ -2,6 +2,9 @@
 # Setup script for RAG system
 # Installs Ollama and pulls LLaMA model
 
+# Change to project root directory
+cd "$(dirname "$0")/.."
+
 echo "=========================================="
 echo "RAG System Setup"
 echo "=========================================="
@@ -129,6 +132,6 @@ echo "2. Ensure you've run: python3 -m knowledge_base.embeddings_index"
 echo "3. Test the RAG engine with sample queries"
 echo ""
 echo "To start the Flask app with RAG enabled:"
-echo "  ./run.sh"
+echo "  ./scripts/run.sh"
 echo ""
 

@@ -34,7 +34,7 @@ An intelligent legal consultation system powered by Retrieval-Augmented Generati
 
 ### Installation
 
-1. **Clone and setup:**
+1. **Setup Python environment:**
 ```bash
 cd IDAT_7215_Project
 python3 -m venv venv
@@ -44,24 +44,54 @@ pip3 install -r requirements.txt
 
 2. **Preprocess data (one-time, ~2-3 minutes):**
 ```bash
-./preprocess_data.sh
+./scripts/preprocess_data.sh
 ```
 
 This converts XML legislation to JSON and generates embeddings cache.
 
 3. **Setup RAG (one-time, ~10-15 minutes):**
 ```bash
-./setup_rag.sh
+./scripts/setup_rag.sh
 ```
 
 This installs Ollama and downloads the LLaMA model (choose 3B for testing or 8B for best quality).
 
 4. **Run the application:**
 ```bash
-./run.sh
+./scripts/run.sh
 ```
 
 Visit http://localhost:8080
+
+## 💻 CLI Usage
+
+New! Use the system directly from command line without starting the web server:
+
+### Show System Statistics
+```bash
+python query.py
+```
+
+### Quick Legal Query (RAG Mode)
+```bash
+python query.py "What are the penalties for theft?"
+```
+
+### Rule-Based Analysis
+```bash
+python query.py --mode rule "Person stole property worth HK$5000"
+```
+
+### Search Case Law
+```bash
+python query.py --mode cases "theft from store" --top-k 5
+```
+
+### Available Modes
+- `rag` (default) - AI-powered consultation using LLaMA
+- `rule` - Traditional rule-based analysis
+- `cases` - Search case law precedents
+- `stats` - Display system statistics
 
 ## 📋 System Architecture
 
@@ -71,7 +101,7 @@ User Query
 [Hybrid Search Engine]
     ├─ Semantic Embeddings (sentence-transformers)
     ├─ TF-IDF Vectors
-    └─ Hybrid Scoring (0.7 * semantic + 0.3 * tfidf)
+    └─ Hybrid Scoring (0.7 × semantic + 0.3 × tfidf)
     ↓
 [Retrieved Context]
     ├─ Top-10 Legislation Sections
@@ -88,6 +118,8 @@ User Query
     └─ Disclaimer
 ```
 
+For detailed architecture documentation, see [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md)
+
 ## 🛠️ Technical Stack
 
 ### Backend
@@ -102,37 +134,52 @@ User Query
 - **LLM**: LLaMA 3.1 8B or LLaMA 3.2 3B
 
 ### Data Processing
-- **XML Parser**: Extracts legislation from official HK e-Legislation portal
-- **JSON Loader**: Fast loading (2-5s vs 30-60s for XML)
+- **JSON Database**: Fast loading (2-5s) vs XML parsing (30-60s)
 - **Embeddings Cache**: Pre-computed vectors (~200MB)
+- **XML Parser**: One-time preprocessing from official HK e-Legislation
 
 ## 📁 Project Structure
 
 ```
 IDAT_7215_Project/
-├── engine/
-│   ├── rule_engine.py          # Rule-based inference engine
-│   ├── hybrid_search.py        # Semantic + TF-IDF search
-│   ├── rag_engine.py           # RAG consultation pipeline
-│   ├── case_matcher.py         # Case law matching
-│   └── document_analyzer.py    # Document analysis
-├── knowledge_base/
-│   ├── preprocess_legislation.py   # XML → JSON converter
-│   ├── json_loader.py              # Fast JSON loader
-│   ├── embeddings_index.py         # Embedding generator
-│   ├── legislation_database.json   # Processed knowledge base
-│   ├── cached_embeddings/          # Pre-computed vectors
-│   ├── hk_all_ordinances.py        # Ordinance loader
-│   └── all_cases_database.py       # Case database
-├── webapp/
-│   ├── app.py                      # Flask application
-│   ├── templates/                  # HTML templates
-│   └── static/                     # CSS, JS, images
-├── Legislation/                    # Raw XML files (3,085 files)
-├── requirements.txt                # Python dependencies
-├── preprocess_data.sh              # Data preprocessing script
-├── setup_rag.sh                    # RAG setup script
-└── run.sh                          # Application launcher
+├── README.md                    # This file
+├── requirements.txt             # Python dependencies
+├── query.py                     # CLI interface
+│
+├── docs/                        # Documentation
+│   ├── ARCHITECTURE.md          # Detailed system design
+│   └── DEPLOYMENT.md            # Deployment guide
+│
+├── scripts/                     # Setup scripts
+│   ├── preprocess_data.sh       # Data preprocessing
+│   ├── setup_rag.sh             # RAG setup
+│   └── run.sh                   # Application launcher
+│
+├── tests/                       # Test files
+│   ├── test_system.py           # System tests
+│   └── test_json_loader.py      # Loader tests
+│
+├── engine/                      # Processing engines
+│   ├── rag_engine.py            # RAG consultation pipeline
+│   ├── hybrid_search.py         # Semantic + TF-IDF search
+│   ├── rule_engine.py           # Rule-based inference
+│   ├── case_matcher.py          # Case law matching
+│   └── document_analyzer.py     # Document analysis
+│
+├── knowledge_base/              # Knowledge base
+│   ├── json_loader.py           # Fast JSON loader
+│   ├── preprocess_legislation.py # XML → JSON converter
+│   ├── embeddings_index.py      # Embedding generator
+│   ├── all_cases_database.py    # Case database
+│   └── all_legal_rules.py       # Legal rules
+│
+├── webapp/                      # Web application
+│   ├── app.py                   # Flask application
+│   ├── templates/               # HTML templates
+│   └── static/                  # CSS, JS, images
+│
+├── Legislation/                 # Raw XML files (3,085 files)
+└── venv/                        # Virtual environment
 ```
 
 ## 🔧 API Endpoints
@@ -172,13 +219,15 @@ POST /api/search-cases
 Body: {"query": "theft", "top_n": 5}
 ```
 
+For complete API documentation, see [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md)
+
 ## 📊 Performance
 
 ### Loading Times
-- **XML Parsing**: 30-60 seconds
-- **JSON Loading**: 2-5 seconds (94% faster!)
+- **JSON Loading**: 2-5 seconds (optimized!) ⚡
 - **Embeddings Loading**: <1 second (from cache)
 - **RAG Query Response**: 3-8 seconds
+- **Rule-Based Analysis**: <0.1 seconds
 
 ### Resource Usage
 - **JSON Database**: ~50-100MB
@@ -205,7 +254,7 @@ python3 -m engine.rag_engine
 
 ### Test Full System
 ```bash
-python3 final_system_test.py
+python tests/test_system.py
 ```
 
 ## 📖 Usage Examples
@@ -233,6 +282,19 @@ python3 final_system_test.py
 - Maximum Penalty: 10 years imprisonment
 - Detailed reasoning chain
 
+### CLI Examples
+
+```bash
+# Quick consultation
+python query.py "Can I sue my employer for wrongful termination?"
+
+# Analyze a scenario
+python query.py --mode rule "Person assaulted another causing bodily harm"
+
+# Find similar cases
+python query.py --mode cases "employment discrimination" --top-k 3
+```
+
 ## ⚠️ Important Notes
 
 ### Legal Disclaimer
@@ -252,7 +314,7 @@ Legislation data is from the official HK e-Legislation portal (last updated: 202
 ### Update Legislation Data
 1. Download new XML files from https://www.elegislation.gov.hk
 2. Place in `Legislation/` directory
-3. Run: `./preprocess_data.sh`
+3. Run: `./scripts/preprocess_data.sh`
 
 ### Rebuild Embeddings
 ```bash
@@ -273,18 +335,14 @@ Edit `knowledge_base/all_cases_database.py` and add cases using the `CriminalCas
 Edit `knowledge_base/all_legal_rules.py` and add rules using the `Rule` class.
 
 ### Improving Categorization
-Update categories in `knowledge_base/all_ordinances_loader.py`.
-
-## 📝 License
-
-This project is for educational purposes (IDAT 7215). The legislation data is from official Hong Kong Government sources.
+Update categories in `knowledge_base/preprocess_legislation.py`.
 
 ## 🆘 Troubleshooting
 
 ### "RAG engine not available"
 - Ensure Ollama is running: `ollama serve`
 - Check embeddings exist: `ls knowledge_base/cached_embeddings/`
-- Run: `./setup_rag.sh`
+- Run: `./scripts/setup_rag.sh`
 
 ### "Port 8080 already in use"
 - The system will automatically kill the old process
@@ -292,18 +350,20 @@ This project is for educational purposes (IDAT 7215). The legislation data is fr
 
 ### Slow loading times
 - Ensure JSON database exists: `ls knowledge_base/legislation_database.json`
-- Rebuild if needed: `./preprocess_data.sh`
+- If missing, run: `./scripts/preprocess_data.sh`
+- System should load in 2-5 seconds (not 30-60 seconds)
 
 ### Out of memory
 - Use smaller model: `ollama pull llama3.2:3b`
-- Reduce `top_k_legislation` in RAG engine
+- Reduce `top_k_legislation` in RAG engine configuration
 
 ## 📧 Support
 
 For issues or questions:
-1. Check the troubleshooting section
-2. Review system logs in terminal
-3. Ensure all prerequisites are installed
+1. Check the troubleshooting section above
+2. Review [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) for technical details
+3. Review [docs/DEPLOYMENT.md](docs/DEPLOYMENT.md) for deployment options
+4. Check system logs in terminal
 
 ## 🎓 Academic Context
 
@@ -314,6 +374,28 @@ This is a course project for IDAT 7215 - Expert Systems, demonstrating:
 - Hybrid retrieval methods (semantic + keyword)
 - Real-world application (Hong Kong legal system)
 
+## 📝 License
+
+This project is for educational purposes (IDAT 7215). The legislation data is from official Hong Kong Government sources.
+
 ---
 
 **Built with ❤️ for Hong Kong Legal Education**
+
+## 🚀 Quick Command Reference
+
+```bash
+# Initial Setup
+./scripts/preprocess_data.sh      # Convert XML to JSON (one-time)
+./scripts/setup_rag.sh             # Install Ollama + LLaMA (one-time)
+
+# Run Application
+./scripts/run.sh                   # Start web server
+python query.py                    # CLI interface
+
+# Testing
+python tests/test_system.py        # Run tests
+
+# Maintenance
+python3 -m knowledge_base.embeddings_index --rebuild  # Rebuild embeddings
+```

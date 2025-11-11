@@ -2,6 +2,9 @@
 # Data Preprocessing Script
 # Runs XML to JSON conversion and generates embeddings cache
 
+# Change to project root directory
+cd "$(dirname "$0")/.."
+
 echo "=========================================="
 echo "Data Preprocessing Pipeline"
 echo "=========================================="
@@ -105,7 +108,7 @@ echo "   Embeddings Cache: $CACHE_SIZE"
 echo ""
 
 echo "Next steps:"
-echo "1. Run ./setup_rag.sh to install Ollama and LLaMA"
-echo "2. Start the application with ./run.sh"
+echo "1. Run ./scripts/setup_rag.sh to install Ollama and LLaMA"
+echo "2. Start the application with ./scripts/run.sh"
 echo ""
 

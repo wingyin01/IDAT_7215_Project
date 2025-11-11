@@ -16,8 +16,8 @@ from engine.case_matcher import CaseMatcher
 from engine.document_analyzer import DocumentAnalyzer
 from engine.explanation import generate_legal_advice_disclaimer
 
-# Import comprehensive knowledge base with ALL HK law
-from knowledge_base import hk_all_ordinances as hk_ordinances
+# Import comprehensive knowledge base with ALL HK law (using fast JSON loader)
+from knowledge_base import json_loader as hk_ordinances
 from knowledge_base import all_cases_database as case_database
 
 # Import RAG engine
@@ -338,7 +338,7 @@ def api_ordinance_detail(chapter):
             ordinance = hk_ordinances.ALL_ORDINANCES[cap_key]
             info = {
                 'chapter': ordinance.get('chapter'),
-                'title': ordinance.get('full_title', ''),
+                'title': ordinance.get('title', ''),
                 'num_sections': len(ordinance.get('sections', {}))
             }
             return jsonify({

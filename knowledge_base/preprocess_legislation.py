@@ -11,10 +11,52 @@ from datetime import datetime
 # Import existing XML parser
 try:
     from .xml_parser import parse_ordinance_xml, clean_text
-    from .all_ordinances_loader import ORDINANCE_CATEGORIES
 except ImportError:
     from xml_parser import parse_ordinance_xml, clean_text
-    from all_ordinances_loader import ORDINANCE_CATEGORIES
+
+# Ordinance categories for classification
+ORDINANCE_CATEGORIES = {
+    'Criminal Law': {
+        'chapters': ['200', '201', '210', '221', '228', '245', '374'],
+        'keywords': ['crime', 'offence', 'punishment', 'criminal', 'theft', 'assault', 'drug']
+    },
+    'Civil Law': {
+        'chapters': ['26', '29', '35', '347'],
+        'keywords': ['contract', 'tort', 'negligence', 'sale of goods', 'damages']
+    },
+    'Employment Law': {
+        'chapters': ['57', '282', '608'],
+        'keywords': ['employment', 'labour', 'employee', 'employer', 'wages', 'termination']
+    },
+    'Property & Land': {
+        'chapters': ['1', '7', '28', '123', '124'],
+        'keywords': ['land', 'property', 'landlord', 'tenant', 'lease', 'conveyancing']
+    },
+    'Commercial & Company': {
+        'chapters': ['32', '333', '571', '622'],
+        'keywords': ['company', 'business', 'commercial', 'securities', 'banking']
+    },
+    'Family Law': {
+        'chapters': ['179', '181', '192'],
+        'keywords': ['marriage', 'divorce', 'matrimonial', 'child', 'custody']
+    },
+    'Immigration': {
+        'chapters': ['115'],
+        'keywords': ['immigration', 'entry', 'deportation', 'visa']
+    },
+    'Tax & Revenue': {
+        'chapters': ['112', '117'],
+        'keywords': ['tax', 'revenue', 'duty', 'stamp', 'inland revenue']
+    },
+    'Constitutional & Administrative': {
+        'chapters': ['1', '2', '382'],
+        'keywords': ['constitution', 'basic law', 'administrative', 'judicial review']
+    },
+    'Intellectual Property': {
+        'chapters': ['528', '559'],
+        'keywords': ['copyright', 'trademark', 'patent', 'intellectual property']
+    }
+}
 
 def create_embedding_text(section_data, chapter_title):
     """

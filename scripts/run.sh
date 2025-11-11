@@ -1,6 +1,9 @@
 #!/bin/bash
 # Helper script to run the Hong Kong Criminal Law Expert System
 
+# Change to project root directory
+cd "$(dirname "$0")/.."
+
 echo "=========================================="
 echo "HK Criminal Law Expert System"
 echo "=========================================="
