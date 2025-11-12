@@ -1,0 +1,225 @@
+{% extends "base.html" %}
+
+{% block title %}{{ chapter }} - HK Legal Expert System{% endblock %}
+
+{% block content %}
+<div class="card">
+    <div style="display: flex; justify-content: space-between; align-items: center;">
+        <div>
+            <h2 id="ordinance-title">📖 Loading...</h2>
+            <p id="ordinance-subtitle" style="color: #666; margin-top: 0.5rem;"></p>
+        </div>
+        <a href="javascript:history.back()" class="btn btn-secondary">← Back</a>
+    </div>
+</div>
+
+<div class="card">
+    <div style="margin-bottom: 1.5rem;">
+        <input type="text" id="search-sections" class="form-control" placeholder="🔍 Search within this ordinance...">
+    </div>
+    
+    <div id="sections-list">
+        <p style="text-align: center; color: #999; padding: 2rem;">Loading sections...</p>
+    </div>
+</div>
+
+<style>
+.section-card {
+    background: white;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    margin-bottom: 1rem;
+    overflow: hidden;
+    transition: all 0.3s;
+}
+
+.section-card:hover {
+    border-color: #667eea;
+    box-shadow: 0 4px 12px rgba(102, 126, 234, 0.15);
+}
+
+.section-header {
+    padding: 1.2rem;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: linear-gradient(135deg, #667eea11 0%, #764ba222 100%);
+}
+
+.section-header:hover {
+    background: linear-gradient(135deg, #667eea22 0%, #764ba233 100%);
+}
+
+.section-number {
+    font-size: 1.3rem;
+    font-weight: bold;
+    color: #667eea;
+    min-width: 100px;
+}
+
+.section-title {
+    flex: 1;
+    padding: 0 1rem;
+}
+
+.section-title h4 {
+    margin: 0;
+    color: #333;
+    font-size: 1.05rem;
+}
+
+.section-content {
+    padding: 1.5rem;
+    display: none;
+    border-top: 2px solid #f0f0f0;
+    background: white;
+}
+
+.section-content.expanded {
+    display: block;
+}
+
+.section-text {
+    line-height: 1.8;
+    color: #444;
+    margin-bottom: 1rem;
+}
+
+.section-penalty {
+    background: linear-gradient(135deg, #e74c3c22 0%, #c0392b11 100%);
+    border-left: 4px solid #e74c3c;
+    padding: 1rem 1.2rem;
+    border-radius: 6px;
+    margin-top: 1rem;
+}
+
+.section-penalty strong {
+    color: #e74c3c;
+}
+
+.expand-icon {
+    font-size: 1.2rem;
+    color: #667eea;
+    transition: transform 0.3s;
+}
+
+.expand-icon.expanded {
+    transform: rotate(180deg);
+}
+
+.no-results {
+    text-align: center;
+    padding: 3rem;
+    color: #999;
+}
+</style>
+
+<script>
+const chapter = "{{ chapter }}";
+let allSections = [];
+let filteredSections = [];
+
+// Load ordinance details
+async function loadOrdinance() {
+    try {
+        // Get ordinance metadata
+        const response = await fetch(`/api/ordinance/${chapter}`);
+        const data = await response.json();
+        
+        if (!data.success) {
+            throw new Error(data.error);
+        }
+        
+        // Update header
+        document.getElementById('ordinance-title').textContent = 
+            `📖 Cap. ${chapter}: ${data.ordinance.title}`;
+        document.getElementById('ordinance-subtitle').textContent = 
+            `${data.ordinance.num_sections} sections in this ordinance`;
+        
+        // Get full ordinance data with sections
+        const fullData = await fetch(`/api/ordinance/${chapter}/sections`);
+        const sectionsData = await fullData.json();
+        
+        if (sectionsData.success) {
+            allSections = sectionsData.sections;
+            filteredSections = allSections;
+            displaySections(filteredSections);
+        }
+        
+    } catch (error) {
+        document.getElementById('sections-list').innerHTML = 
+            `<div class="alert alert-danger">Error loading ordinance: ${error.message}</div>`;
+    }
+}
+
+// Display sections
+function displaySections(sections) {
+    const container = document.getElementById('sections-list');
+    
+    if (sections.length === 0) {
+        container.innerHTML = '<div class="no-results">No sections found matching your search.</div>';
+        return;
+    }
+    
+    let html = '';
+    
+    sections.forEach((section, idx) => {
+        const sectionId = `section-${idx}`;
+        html += `
+            <div class="section-card">
+                <div class="section-header" onclick="toggleSection('${sectionId}')">
+                    <div class="section-number">s. ${section.number}</div>
+                    <div class="section-title">
+                        <h4>${section.title || 'Untitled Section'}</h4>
+                    </div>
+                    <div class="expand-icon" id="icon-${sectionId}">▼</div>
+                </div>
+                <div class="section-content" id="${sectionId}">
+                    <div class="section-text">${section.text}</div>
+                    ${section.penalty ? `
+                        <div class="section-penalty">
+                            <strong>⚖️ Penalty:</strong> ${section.penalty}
+                        </div>
+                    ` : ''}
+                </div>
+            </div>
+        `;
+    });
+    
+    container.innerHTML = html;
+}
+
+// Toggle section expansion
+function toggleSection(sectionId) {
+    const content = document.getElementById(sectionId);
+    const icon = document.getElementById(`icon-${sectionId}`);
+    
+    content.classList.toggle('expanded');
+    icon.classList.toggle('expanded');
+}
+
+// Search functionality
+document.addEventListener('DOMContentLoaded', () => {
+    loadOrdinance();
+    
+    const searchBox = document.getElementById('search-sections');
+    searchBox.addEventListener('input', (e) => {
+        const query = e.target.value.toLowerCase();
+        
+        if (query === '') {
+            filteredSections = allSections;
+        } else {
+            filteredSections = allSections.filter(section => 
+                section.title.toLowerCase().includes(query) ||
+                section.text.toLowerCase().includes(query) ||
+                section.number.includes(query)
+            );
+        }
+        
+        displaySections(filteredSections);
+    });
+});
+</script>
+{% endblock %}
+

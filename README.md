@@ -21,8 +21,20 @@ An intelligent legal consultation system powered by Retrieval-Augmented Generati
 ### Knowledge Base
 
 - **Legislation**: 2,234 Hong Kong ordinances with 52,269 sections
-- **Case Law**: 9 case precedents with full analysis
+- **Case Law**: 29 real criminal appeal cases (Court of Appeal, 2018-2025)
 - **Categories**: Criminal Law, Commercial Law, Employment Law, Property & Land, and more
+
+### ⚖️ Copyright & Data Sources
+
+**Legislation**: From official HK e-Legislation portal (https://www.elegislation.gov.hk)
+- XML files processed into JSON for performance
+- All data from official Hong Kong Government sources
+
+**Case Law**: From official HK Judiciary database (https://legalref.judiciary.hk)
+- 29 real criminal appeal cases manually downloaded
+- Used for educational/research purposes under fair use
+- Processed into structured format for case matching algorithms
+- **Note**: Cases are criminal law only; system focuses on this area
 
 ## 🚀 Quick Start
 
@@ -34,20 +46,31 @@ An intelligent legal consultation system powered by Retrieval-Augmented Generati
 
 ### Installation
 
-1. **Setup Python environment:**
+1. **Clone the repository:**
 ```bash
+git clone https://github.com/yourusername/IDAT_7215_Project.git
 cd IDAT_7215_Project
+```
+
+2. **Setup Python environment:**
+```bash
 python3 -m venv venv
 source venv/bin/activate
 pip3 install -r requirements.txt
 ```
 
-2. **Preprocess data (one-time, ~2-3 minutes):**
+3. **⚠️ REQUIRED: Preprocess data (one-time, ~5-10 minutes):**
 ```bash
 ./scripts/preprocess_data.sh
 ```
 
-This converts XML legislation to JSON and generates embeddings cache.
+**This step is mandatory!** It will:
+- Convert 3,085 XML legislation files to fast-loading JSON (~2-3 mins)
+- Generate embeddings for 52,269 legislation sections (~3-5 mins)
+- Generate embeddings for 29 real criminal cases (~1 min)
+- Create search indices (~200MB cache)
+
+**Note**: The generated files are too large for GitHub and must be built locally.
 
 3. **Setup RAG (one-time, ~10-15 minutes):**
 ```bash

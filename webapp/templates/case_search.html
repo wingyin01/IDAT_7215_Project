@@ -3,24 +3,45 @@
 {% block title %}Case Search - HK Criminal Law Expert System{% endblock %}
 
 {% block content %}
+<div style="background: linear-gradient(135deg, #667eea22 0%, #764ba233 100%); border-left: 5px solid #667eea; padding: 1.5rem; border-radius: 8px; margin-bottom: 2rem;">
+    <h3 style="color: #667eea; margin-top: 0; margin-bottom: 0.8rem;">⚖️ Real Hong Kong Criminal Appeal Cases</h3>
+    <p style="margin-bottom: 0.8rem;">
+        <strong>Database Contains:</strong> 29 real cases from the <strong>Court of Appeal</strong> (Criminal Appeals, 2018-2025)
+    </p>
+    <p style="margin-bottom: 0.8rem; font-size: 0.95rem;">
+        <strong>⚠️ Scope:</strong> This database focuses on <strong>criminal law appeals</strong> only. 
+        For civil, employment, property, or other legal areas, please consult comprehensive legal databases.
+    </p>
+    <p style="margin-bottom: 0; font-size: 0.9rem; color: #666;">
+        <strong>Copyright Notice:</strong> Cases sourced from official <a href="https://legalref.judiciary.hk/" target="_blank" style="color: #667eea;">HK Judiciary Database</a>. 
+        Used for educational/research purposes under fair use. For official case research, visit the 
+        <a href="https://legalref.judiciary.hk/" target="_blank" style="color: #667eea;">HK Judiciary website</a>.
+    </p>
+</div>
+
 <div class="card">
     <h2>🔍 Case Search</h2>
-    <p>Search for similar criminal cases from Hong Kong courts based on your scenario.</p>
+    <p>Search for similar criminal appeal cases from Hong Kong courts based on your scenario.</p>
 </div>
 
 <div class="card">
     <form id="search-form">
         <div class="form-group">
             <label for="search-query">Describe your scenario:</label>
-            <textarea id="search-query" class="form-control" placeholder="For example: Person threatened victim with knife and stole wallet..." required></textarea>
+            <textarea id="search-query" class="form-control" placeholder="For example: Person threatened victim with knife and stole wallet..." required>Defendant trafficked 2.5 kilograms of cocaine concealed in luggage arriving from Colombia. Customs officers discovered the drugs during routine inspection at Hong Kong International Airport. The defendant claimed ignorance but evidence showed prior knowledge and intent to distribute.</textarea>
         </div>
+        <p style="font-size: 0.9rem; color: #666; margin-top: 0.5rem;">
+            💡 <strong>Tip:</strong> Serious criminal case example provided. Replace with your own scenario to search.
+        </p>
         
         <div class="form-group">
             <label for="top-n">Number of cases to find:</label>
             <select id="top-n" class="form-control">
+                <option value="1">1 case</option>
+                <option value="2" selected>2 cases</option>
                 <option value="3">3 cases</option>
-                <option value="5" selected>5 cases</option>
-                <option value="10">10 cases</option>
+                <option value="4">4 cases</option>
+                <option value="5">5 cases</option>
             </select>
         </div>
         
@@ -73,13 +94,22 @@ document.getElementById('search-form').addEventListener('submit', async function
             html = `<p>Found ${data.total} similar case(s):</p>`;
             
             data.results.forEach((caseData, idx) => {
+                // Fix case name display - use case_id if name is missing or contains "BETWEEN"
+                let displayName = caseData.case_name;
+                if (!displayName || displayName.trim() === '' || displayName.includes('BETWEEN') || displayName.includes('Before:')) {
+                    displayName = `Criminal Appeal Case (${caseData.year})`;
+                }
+                if (displayName.length > 100) {
+                    displayName = displayName.substring(0, 100) + '...';
+                }
+                
                 html += `
                     <div class="case-item">
-                        <h3>${idx + 1}. ${caseData.case_name} (${caseData.year})</h3>
-                        <p><strong>Similarity:</strong> <span style="color: #667eea; font-weight: bold;">${caseData.similarity}</span></p>
+                        <h3>${idx + 1}. ${displayName}</h3>
+                        <p><strong>Year:</strong> ${caseData.year} | <strong>Similarity:</strong> <span style="color: #667eea; font-weight: bold;">${caseData.similarity}</span></p>
                         <p><strong>Court:</strong> ${caseData.court}</p>
                         <p><strong>Outcome:</strong> ${caseData.outcome}</p>
-                        <p><strong>Sentence:</strong> ${caseData.sentence}</p>
+                        <p><strong>Sentence:</strong> ${caseData.sentence || 'Not specified'}</p>
                         
                         <div style="margin-top: 1rem;">
                             <strong>Facts:</strong>
@@ -90,15 +120,15 @@ document.getElementById('search-form').addEventListener('submit', async function
                         
                         <div style="margin-top: 1rem;">
                             <strong>Charges:</strong>
-                            <ul style="margin-top: 0.5rem;">
-                                ${caseData.charges.map(charge => `<li>${charge}</li>`).join('')}
-                            </ul>
+                            <p style="margin-top: 0.5rem; color: #555;">${caseData.charges || 'Not specified'}</p>
                         </div>
                         
                         <div style="margin-top: 1rem;">
                             <strong>Legal Principles:</strong>
                             <ul style="margin-top: 0.5rem;">
-                                ${caseData.legal_principles.map(principle => `<li>${principle}</li>`).join('')}
+                                ${Array.isArray(caseData.legal_principles) ? 
+                                  caseData.legal_principles.map(principle => `<li>${principle}</li>`).join('') : 
+                                  `<li>${caseData.legal_principles}</li>`}
                             </ul>
                         </div>
                     </div>

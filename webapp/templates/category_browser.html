@@ -1,0 +1,182 @@
+{% extends "base.html" %}
+
+{% block title %}{{ category }} - HK Legal Expert System{% endblock %}
+
+{% block content %}
+<div class="card">
+    <h2 id="category-title">📂 {{ category }}</h2>
+    <p id="category-subtitle">Loading ordinances...</p>
+    <a href="/" class="btn btn-secondary" style="display: inline-block; margin-top: 1rem;">← Back to Home</a>
+</div>
+
+<div class="card">
+    <div style="margin-bottom: 1.5rem;">
+        <input type="text" id="search-box" class="form-control" placeholder="🔍 Search ordinances by name or chapter number...">
+    </div>
+    
+    <div id="ordinances-list">
+        <p style="text-align: center; color: #999; padding: 2rem;">Loading ordinances...</p>
+    </div>
+</div>
+
+<style>
+.ordinance-card {
+    padding: 1.2rem;
+    background: white;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    margin-bottom: 1rem;
+    transition: all 0.3s;
+    cursor: pointer;
+}
+
+.ordinance-card:hover {
+    border-color: #667eea;
+    box-shadow: 0 4px 12px rgba(102, 126, 234, 0.15);
+    transform: translateY(-2px);
+}
+
+.ordinance-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.ordinance-chapter {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #667eea;
+    min-width: 120px;
+}
+
+.ordinance-title {
+    flex: 1;
+    padding: 0 1rem;
+}
+
+.ordinance-title h4 {
+    margin: 0 0 0.5rem 0;
+    color: #333;
+    font-size: 1.1rem;
+}
+
+.ordinance-sections {
+    display: inline-block;
+    padding: 0.4rem 0.8rem;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    border-radius: 20px;
+    font-size: 0.9rem;
+    font-weight: 500;
+}
+
+.no-results {
+    text-align: center;
+    padding: 3rem;
+    color: #999;
+}
+
+.category-stats {
+    background: linear-gradient(135deg, #667eea22 0%, #764ba233 100%);
+    padding: 1rem 1.5rem;
+    border-radius: 8px;
+    display: inline-block;
+    margin: 1rem 0;
+}
+
+.category-stats strong {
+    color: #667eea;
+    font-size: 1.2rem;
+}
+</style>
+
+<script>
+const category = "{{ category }}";
+let allOrdinances = [];
+let filteredOrdinances = [];
+
+// Load ordinances on page load
+async function loadOrdinances() {
+    try {
+        const response = await fetch(`/api/category/${encodeURIComponent(category)}`);
+        const data = await response.json();
+        
+        if (!data.success) {
+            throw new Error(data.error);
+        }
+        
+        allOrdinances = data.ordinances;
+        filteredOrdinances = allOrdinances;
+        
+        // Update title
+        document.getElementById('category-subtitle').innerHTML = 
+            `<div class="category-stats">
+                <strong>${data.total}</strong> ordinances with 
+                <strong>${allOrdinances.reduce((sum, o) => sum + o.num_sections, 0).toLocaleString()}</strong> sections
+            </div>`;
+        
+        // Display ordinances
+        displayOrdinances(filteredOrdinances);
+        
+    } catch (error) {
+        document.getElementById('ordinances-list').innerHTML = 
+            `<div class="alert alert-danger">Error loading ordinances: ${error.message}</div>`;
+    }
+}
+
+// Display ordinances
+function displayOrdinances(ordinances) {
+    const container = document.getElementById('ordinances-list');
+    
+    if (ordinances.length === 0) {
+        container.innerHTML = '<div class="no-results">No ordinances found matching your search.</div>';
+        return;
+    }
+    
+    let html = '';
+    
+    ordinances.forEach((ord, idx) => {
+        html += `
+            <div class="ordinance-card" onclick="viewOrdinance('${ord.chapter}')">
+                <div class="ordinance-header">
+                    <div class="ordinance-chapter">Cap. ${ord.chapter}</div>
+                    <div class="ordinance-title">
+                        <h4>${ord.title || 'Untitled Ordinance'}</h4>
+                    </div>
+                    <div class="ordinance-sections">${ord.num_sections} sections</div>
+                </div>
+            </div>
+        `;
+    });
+    
+    container.innerHTML = html;
+}
+
+// Search functionality
+document.addEventListener('DOMContentLoaded', () => {
+    loadOrdinances();
+    
+    const searchBox = document.getElementById('search-box');
+    searchBox.addEventListener('input', (e) => {
+        const query = e.target.value.toLowerCase();
+        
+        if (query === '') {
+            filteredOrdinances = allOrdinances;
+        } else {
+            filteredOrdinances = allOrdinances.filter(ord => 
+                ord.title.toLowerCase().includes(query) ||
+                ord.chapter.toLowerCase().includes(query)
+            );
+        }
+        
+        displayOrdinances(filteredOrdinances);
+    });
+});
+
+// View ordinance detail
+function viewOrdinance(chapter) {
+    window.location.href = `/ordinance/${chapter}`;
+}
+</script>
+{% endblock %}
+

@@ -7,7 +7,7 @@
     <h2>Welcome to the IDAT7215 Hong Kong Legal Expert System</h2>
     <p style="margin-bottom: 1.5rem;">
         <strong>IDAT7215 Group Project:</strong> A comprehensive expert system covering <strong>ALL Hong Kong law</strong> - criminal, civil, commercial, employment, property, family law, and more.
-        This system uses official e-Legislation XML data with rule-based reasoning and machine learning for legal analysis.
+        This system uses official e-Legislation XML data downloaded from <a href="https://data.gov.hk/en-data/dataset/hk-doj-hkel-legislation-current" target="_blank" style="color: #667eea;">Hong Kong Government Open Data Portal</a>, combined with rule-based reasoning and machine learning for legal analysis.
     </p>
     
     <div class="alert alert-success">
@@ -121,13 +121,15 @@ fetch('/api/stats')
             sortedCategories.forEach(([category, info]) => {
                 const color = getCategoryColor(category);
                 html += `
-                    <div style="padding: 1.2rem; background: linear-gradient(135deg, ${color}22 0%, ${color}11 100%); border-left: 4px solid ${color}; border-radius: 8px; transition: transform 0.2s, box-shadow 0.2s;" onmouseover="this.style.transform='translateY(-3px)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.1)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'">
-                        <h4 style="color: ${color}; margin-bottom: 0.6rem; font-size: 1.05rem; font-weight: 600;">${category}</h4>
-                        <p style="margin: 0; font-size: 0.9rem; color: #666; line-height: 1.5;">
-                            <strong>${info.count}</strong> ordinances<br>
-                            <strong>${info.sections.toLocaleString()}</strong> sections
-                        </p>
-                    </div>
+                    <a href="/category/${encodeURIComponent(category)}" style="text-decoration: none; display: block;">
+                        <div style="padding: 1.2rem; background: linear-gradient(135deg, ${color}22 0%, ${color}11 100%); border-left: 4px solid ${color}; border-radius: 8px; transition: transform 0.2s, box-shadow 0.2s; cursor: pointer;" onmouseover="this.style.transform='translateY(-3px)'; this.style.boxShadow='0 6px 16px rgba(0,0,0,0.15)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'">
+                            <h4 style="color: ${color}; margin-bottom: 0.6rem; font-size: 1.05rem; font-weight: 600;">${category} →</h4>
+                            <p style="margin: 0; font-size: 0.9rem; color: #666; line-height: 1.5;">
+                                <strong>${info.count}</strong> ordinances<br>
+                                <strong>${info.sections.toLocaleString()}</strong> sections
+                            </p>
+                        </div>
+                    </a>
                 `;
             });
             

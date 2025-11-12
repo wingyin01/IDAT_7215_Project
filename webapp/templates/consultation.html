@@ -35,8 +35,11 @@
             <label for="query-text" id="input-label">Case Facts or Legal Question:</label>
             <textarea id="query-text" class="form-control" 
                 placeholder="For Rule-Based: Describe facts (e.g., 'A person entered a store, took items worth HK$5,000')&#10;&#10;For Expert Mode: Ask any legal question (e.g., 'What are the penalties for theft in Hong Kong?')" 
-                required></textarea>
+                required>Person broke into residential flat at 2 AM through window. Stole laptop, jewelry, and cash totaling HK$35,000. CCTV showed defendant wearing gloves and mask. Fingerprints found on window frame. Defendant has prior theft conviction from 2020.</textarea>
         </div>
+        <p style="font-size: 0.9rem; color: #666; margin-top: 0.5rem;">
+            💡 <strong>Tip:</strong> Realistic burglary example provided. Replace with your own scenario or legal question.
+        </p>
         
         <button type="submit" class="btn btn-primary" id="submit-btn">Analyze Case</button>
     </form>
@@ -128,6 +131,95 @@
     white-space: pre-wrap;
 }
 
+.legal-advice-content {
+    font-family: 'Georgia', 'Times New Roman', serif;
+    line-height: 1.9;
+    font-size: 1.05rem;
+    color: #2c3e50;
+    background: #ffffff;
+    padding: 1.5rem;
+    border-radius: 8px;
+}
+
+.legal-advice-content h1 {
+    color: #667eea;
+    font-size: 1.8rem;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    border-bottom: 3px solid #667eea;
+    padding-bottom: 0.7rem;
+}
+
+.legal-advice-content h2 {
+    color: #764ba2;
+    font-size: 1.5rem;
+    margin-top: 1.8rem;
+    margin-bottom: 0.8rem;
+    border-bottom: 2px solid #e0e0e0;
+    padding-bottom: 0.5rem;
+}
+
+.legal-advice-content h3 {
+    color: #9b59b6;
+    font-size: 1.3rem;
+    margin-top: 1.5rem;
+    margin-bottom: 0.7rem;
+}
+
+.legal-advice-content p {
+    margin-bottom: 1.2rem;
+    text-align: justify;
+}
+
+.legal-advice-content ul, .legal-advice-content ol {
+    margin-left: 2rem;
+    margin-bottom: 1.2rem;
+    line-height: 2;
+}
+
+.legal-advice-content li {
+    margin-bottom: 0.6rem;
+}
+
+.legal-advice-content strong {
+    color: #2c3e50;
+    font-weight: 600;
+}
+
+.legal-advice-content em {
+    font-style: italic;
+    color: #555;
+}
+
+.legal-advice-content code {
+    background: #f8f9fa;
+    padding: 3px 8px;
+    border-radius: 4px;
+    color: #e74c3c;
+    font-family: 'Courier New', monospace;
+    font-size: 0.95rem;
+}
+
+.legal-advice-content blockquote {
+    border-left: 4px solid #667eea;
+    padding-left: 1.5rem;
+    margin: 1.5rem 0;
+    color: #555;
+    font-style: italic;
+    background: #f8f9fa;
+    padding: 1rem 1.5rem;
+    border-radius: 4px;
+}
+
+.legal-advice-content a {
+    color: #667eea;
+    text-decoration: underline;
+}
+
+.legal-advice-content a:hover {
+    color: #764ba2;
+}
+
 .badge {
     display: inline-block;
     padding: 4px 8px;
@@ -212,66 +304,100 @@ document.getElementById('consultation-form').addEventListener('submit', async fu
 async function handleRAGMode(query, loader, results) {
     try {
         const loaderText = document.getElementById('loader-text');
-        loaderText.textContent = 'Consulting with AI expert...';
+        loaderText.innerHTML = '🔍 Searching legislation database...<br><small style="font-size: 0.9rem; opacity: 0.8;">Analyzing 52,269 legal sections</small>';
         
+        // Show results immediately with streaming
+        results.style.display = 'block';
+        
+        // Prepare results container
+        let html = '<div class="alert alert-info" id="sources-info">🔍 Searching...</div>';
+        html += '<div class="result"><h3>💼 Expert Legal Advice</h3>';
+        html += '<div class="legal-advice-content" id="streaming-advice-content">';
+        html += '<p style="color: #999;">⏳ Consulting AI expert...</p></div></div>';
+        html += '<div id="citations-section"></div>';
+        
+        document.getElementById('results-content').innerHTML = html;
+        results.scrollIntoView({behavior: 'smooth'});
+        
+        // Stream response
         const response = await fetch('/api/rag-consultation', {
             method: 'POST',
             headers: {'Content-Type': 'application/json'},
-            body: JSON.stringify({query: query, stream: false})
+            body: JSON.stringify({query: query, stream: true})
         });
         
-        const data = await response.json();
+        const reader = response.body.getReader();
+        const decoder = new TextDecoder();
+        let adviceText = '';
+        let citations = null;
         
-        if (!data.success) {
-            throw new Error(data.error || data.message || 'RAG consultation failed');
+        loaderText.innerHTML = '💬 Generating response...<br><small style="font-size: 0.9rem; opacity: 0.8;">Reading as it arrives</small>';
+        
+        while (true) {
+            const {done, value} = await reader.read();
+            if (done) break;
+            
+            const chunk = decoder.decode(value);
+            const lines = chunk.split('\n');
+            
+            for (const line of lines) {
+                if (line.startsWith('data: ')) {
+                    try {
+                        const jsonData = JSON.parse(line.slice(6));
+                        
+                        if (jsonData.type === 'sources') {
+                            // Update sources count
+                            document.getElementById('sources-info').innerHTML = 
+                                `<strong>📚 Sources:</strong> Analyzed ${jsonData.legislation_count} legislation sections and ${jsonData.cases_count} case precedents`;
+                            citations = jsonData.citations;
+                        } else if (jsonData.type === 'advice') {
+                            // Append advice chunks with markdown rendering
+                            adviceText += jsonData.content;
+                            const rendered = marked.parse(adviceText);
+                            document.getElementById('streaming-advice-content').innerHTML = rendered;
+                        } else if (jsonData.type === 'done') {
+                            // Show citations
+                            let citHtml = '';
+                            
+                            if (citations && citations.legislation && citations.legislation.length > 0) {
+                                citHtml += '<div class="result"><h3>📖 Legislation Cited</h3>';
+                                citHtml += '<div class="citation-list">';
+                                citations.legislation.slice(0, 5).forEach(cite => {
+                                    citHtml += `<div class="citation-item">
+                                        <strong>${cite.reference}</strong>: ${cite.title}<br>
+                                        <small>${cite.ordinance}</small>
+                                    </div>`;
+                                });
+                                citHtml += '</div></div>';
+                            }
+                            
+                            if (citations && citations.cases && citations.cases.length > 0) {
+                                citHtml += '<div class="result"><h3>⚖️ Cases Cited</h3>';
+                                citHtml += '<div class="citation-list">';
+                                citations.cases.forEach(cite => {
+                                    citHtml += `<div class="citation-item">
+                                        <strong>${cite.case_name}</strong> (${cite.year})<br>
+                                        <small>Outcome: ${cite.outcome}</small>
+                                    </div>`;
+                                });
+                                citHtml += '</div></div>';
+                            }
+                            
+                            // Add disclaimer
+                            citHtml += '<div class="alert alert-warning">';
+                            citHtml += '⚠️ <strong>Disclaimer:</strong> This is general legal information, not legal advice. Consult a qualified Hong Kong solicitor for specific legal matters.';
+                            citHtml += '</div>';
+                            
+                            document.getElementById('citations-section').innerHTML = citHtml;
+                        } else if (jsonData.type === 'error') {
+                            throw new Error(jsonData.message);
+                        }
+                    } catch (e) {
+                        console.error('Error parsing stream data:', e);
+                    }
+                }
+            }
         }
-        
-        // Display results
-        let html = '';
-        
-        // Show source count
-        html += '<div class="alert alert-info">';
-        html += `<strong>📚 Sources:</strong> Analyzed ${data.legislation_count} legislation sections and ${data.cases_count} case precedents`;
-        html += '</div>';
-        
-        // Show advice
-        html += '<div class="result"><h3>💼 Expert Legal Advice</h3>';
-        html += `<div class="streaming-advice">${data.advice}</div>`;
-        html += '</div>';
-        
-        // Show citations
-        if (data.citations.legislation.length > 0) {
-            html += '<div class="result"><h3>📖 Legislation Cited</h3>';
-            html += '<div class="citation-list">';
-            data.citations.legislation.slice(0, 5).forEach(cite => {
-                html += `<div class="citation-item">
-                    <strong>${cite.reference}</strong>: ${cite.title}<br>
-                    <small>${cite.ordinance}</small>
-                </div>`;
-            });
-            html += '</div></div>';
-        }
-        
-        if (data.citations.cases.length > 0) {
-            html += '<div class="result"><h3>⚖️ Cases Cited</h3>';
-            html += '<div class="citation-list">';
-            data.citations.cases.forEach(cite => {
-                html += `<div class="citation-item">
-                    <strong>${cite.case_name}</strong> (${cite.year})<br>
-                    <small>Outcome: ${cite.outcome}</small>
-                </div>`;
-            });
-            html += '</div></div>';
-        }
-        
-        // Disclaimer
-        html += '<div class="alert alert-warning">';
-        html += data.disclaimer;
-        html += '</div>';
-        
-        document.getElementById('results-content').innerHTML = html;
-        results.style.display = 'block';
-        results.scrollIntoView({behavior: 'smooth'});
         
     } catch (error) {
         alert('Error: ' + error.message);
@@ -282,7 +408,8 @@ async function handleRAGMode(query, loader, results) {
 
 async function handleRuleBasedMode(factsText, loader, results) {
     try {
-        const docResponse = await fetch('/api/analyze-document', {
+        // Use enhanced analyzer for better results
+        const docResponse = await fetch('/api/analyze-enhanced', {
             method: 'POST',
             headers: {'Content-Type': 'application/json'},
             body: JSON.stringify({text: factsText})
@@ -296,42 +423,58 @@ async function handleRuleBasedMode(factsText, loader, results) {
         
         let html = '';
         
-        if (docData.inference_results && docData.inference_results.offences.length > 0) {
-            html += '<div class="result"><h3>🔴 Potential Offences</h3>';
-            docData.inference_results.offences.forEach((offence, idx) => {
-                html += `
-                    <div class="offence-item">
-                        <h4>${idx + 1}. ${offence.name}</h4>
-                        <p><strong>Legal Basis:</strong> ${offence.ordinance_ref}</p>
-                        <p><strong>Maximum Penalty:</strong> ${offence.penalty}</p>
-                    </div>
-                `;
-            });
+        // Show risk assessment first if available
+        if (docData.risk_assessment) {
+            html += '<div class="result">';
+            html += '<h3>⚠️ Risk Assessment & Prediction</h3>';
+            html += generateRiskDashboard(docData.risk_assessment);
             html += '</div>';
+        }
+        
+        // Show comprehensive advice from enhanced analyzer
+        if (docData.comprehensive_advice) {
+            html += '<div class="result">';
+            html += '<h3>💼 Comprehensive Legal Analysis</h3>';
+            const rendered = marked.parse(docData.comprehensive_advice);
+            html += `<div class="legal-advice-content">${rendered}</div>`;
+            html += '</div>';
+        }
+        
+        // Show relevant laws found
+        if (docData.relevant_laws && docData.relevant_laws.length > 0) {
+            html += '<div class="result"><h3>📖 Relevant Legislation Found</h3>';
+            html += '<div class="citation-list">';
+            docData.relevant_laws.slice(0, 5).forEach(law => {
+                html += `<div class="citation-item">
+                    <strong>${law.reference}</strong>: ${law.title}<br>
+                    ${law.penalty ? `<small style="color: #e74c3c;">Penalty: ${law.penalty}</small><br>` : ''}
+                    <small>Relevance Score: ${(law.score * 100).toFixed(1)}%</small>
+                </div>`;
+            });
+            html += '</div></div>';
+        }
+        
+        // Show traditional analysis as supplementary
+        if (docData.document_analysis) {
+            const analysis = docData.document_analysis;
+            html += '<div class="result"><h3>🔍 Document Analysis Details</h3>';
+            html += `<p><strong>Summary:</strong> ${analysis.summary}</p>`;
             
-            html += '<div class="result"><h3>📖 Detailed Reasoning</h3><pre>' + 
-                    docData.inference_results.explanation + '</pre></div>';
-        } else {
-            html += '<div class="alert alert-info">No specific offences identified. Try Expert Mode for more detailed analysis.</div>';
-        }
-        
-        html += '<div class="result"><h3>🔍 Document Analysis</h3>';
-        html += `<p><strong>Summary:</strong> ${docData.analysis.summary}</p>`;
-        
-        if (docData.analysis.offences.length > 0) {
-            html += '<p><strong>Potential Offence Categories:</strong></p><ul>';
-            docData.analysis.offences.forEach(o => {
-                html += `<li>${o.type.replace('_', ' ').toUpperCase()} (Confidence: ${(o.confidence * 100).toFixed(0)}%)</li>`;
-            });
-            html += '</ul>';
-        }
-        
-        if (docData.analysis.legal_issues.length > 0) {
-            html += '<p><strong>Legal Issues:</strong></p><ul>';
-            docData.analysis.legal_issues.forEach(issue => {
-                html += `<li>${issue}</li>`;
-            });
-            html += '</ul>';
+            if (analysis.offences && analysis.offences.length > 0) {
+                html += '<p><strong>Detected Keywords:</strong></p><ul>';
+                analysis.offences.forEach(o => {
+                    html += `<li>${o.type.replace('_', ' ').toUpperCase()} (Confidence: ${(o.confidence * 100).toFixed(0)}%)</li>`;
+                });
+                html += '</ul>';
+            }
+            
+            if (analysis.legal_issues && analysis.legal_issues.length > 0) {
+                html += '<p><strong>Legal Issues:</strong></p><ul>';
+                analysis.legal_issues.forEach(issue => {
+                    html += `<li>${issue}</li>`;
+                });
+                html += '</ul>';
+            }
         }
         
         html += '</div>';
@@ -341,10 +484,122 @@ async function handleRuleBasedMode(factsText, loader, results) {
         results.scrollIntoView({behavior: 'smooth'});
         
     } catch (error) {
+        console.error('Error in Rule-Based mode:', error);
         alert('Error: ' + error.message);
     } finally {
         loader.classList.remove('active');
     }
 }
+
+// Generate visual risk dashboard
+function generateRiskDashboard(risk) {
+    let html = '';
+    
+    // Overall risk level banner
+    const riskLevel = risk.risk_level;
+    html += `<div style="background: linear-gradient(135deg, ${riskLevel.color}22 0%, ${riskLevel.color}11 100%); border-left: 5px solid ${riskLevel.color}; padding: 1.5rem; border-radius: 8px; margin-bottom: 1.5rem;">`;
+    html += `<h4 style="color: ${riskLevel.color}; margin: 0 0 0.5rem 0; font-size: 1.3rem;">Overall Risk: ${riskLevel.level}</h4>`;
+    html += `<p style="margin: 0; color: #666;">Risk Score: <strong style="color: ${riskLevel.color};">${riskLevel.score}/100</strong></p>`;
+    html += `</div>`;
+    
+    // Prosecution likelihood
+    const prosecution = risk.prosecution;
+    html += '<div style="margin-bottom: 1.5rem;">';
+    html += '<h4 style="color: #667eea; margin-bottom: 0.8rem;">⚖️ Prosecution Likelihood</h4>';
+    html += generateProgressBar(prosecution.likelihood, prosecution.category);
+    if (prosecution.adjustments && prosecution.adjustments.length > 0) {
+        html += '<div style="margin-top: 0.8rem; font-size: 0.9rem; color: #666;">';
+        html += '<strong>Factors:</strong><ul style="margin: 0.5rem 0 0 1.5rem;">';
+        prosecution.adjustments.forEach(([adj, reason]) => {
+            html += `<li>${reason} (${adj})</li>`;
+        });
+        html += '</ul></div>';
+    }
+    html += '</div>';
+    
+    // Sentence prediction
+    const sentence = risk.sentence_prediction;
+    html += '<div style="margin-bottom: 1.5rem;">';
+    html += '<h4 style="color: #9b59b6; margin-bottom: 0.8rem;">📊 Predicted Sentence Range</h4>';
+    html += '<div style="background: #f8f9fa; padding: 1rem; border-radius: 6px;">';
+    html += `<p style="margin: 0.5rem 0;"><strong>Low estimate:</strong> ${formatMonths(sentence.low_months)}</p>`;
+    html += `<p style="margin: 0.5rem 0;"><strong style="color: #9b59b6;">Typical sentence:</strong> ${formatMonths(sentence.typical_months)}</p>`;
+    html += `<p style="margin: 0.5rem 0;"><strong>High estimate:</strong> ${formatMonths(sentence.high_months)}</p>`;
+    html += `<p style="margin: 0.5rem 0; font-size: 0.9rem; color: #666;">Confidence: ${sentence.confidence}% | ${sentence.basis}</p>`;
+    html += '</div>';
+    if (sentence.adjustments && sentence.adjustments.length > 0) {
+        html += '<div style="margin-top: 0.8rem; font-size: 0.9rem; color: #666;">';
+        html += '<strong>Adjustments applied:</strong><ul style="margin: 0.5rem 0 0 1.5rem;">';
+        sentence.adjustments.forEach(adj => {
+            html += `<li>${adj}</li>`;
+        });
+        html += '</ul></div>';
+    }
+    html += '</div>';
+    
+    // Outcome probabilities
+    const outcomes = risk.outcome_probabilities;
+    html += '<div style="margin-bottom: 1.5rem;">';
+    html += '<h4 style="color: #e74c3c; margin-bottom: 0.8rem;">🎯 Outcome Probabilities</h4>';
+    html += '<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem;">';
+    
+    html += generateOutcomeCard('Conviction', outcomes.conviction_likelihood, '#e74c3c');
+    html += generateOutcomeCard('Custodial Sentence', outcomes.custodial_sentence, '#f39c12');
+    html += generateOutcomeCard('Non-Custodial', outcomes.non_custodial, '#27ae60');
+    html += generateOutcomeCard('Appeal Success', outcomes.appeal_success_rate, '#3498db');
+    
+    html += '</div></div>';
+    
+    // Disclaimer
+    html += '<div style="background: #fff3cd; border-left: 4px solid #f39c12; padding: 1rem; border-radius: 6px; font-size: 0.9rem;">';
+    html += '<strong>📊 Disclaimer:</strong> These predictions are estimates based on statistical analysis of real cases and legal rules. ';
+    html += 'Actual outcomes depend on many factors including judge discretion, quality of legal representation, and specific circumstances. ';
+    html += 'Consult a qualified lawyer for accurate assessment of your situation.';
+    html += '</div>';
+    
+    return html;
+}
+
+// Generate progress bar
+function generateProgressBar(percentage, label) {
+    const color = percentage > 70 ? '#e74c3c' : percentage > 40 ? '#f39c12' : '#27ae60';
+    return `
+        <div style="margin-bottom: 0.5rem;">
+            <div style="display: flex; justify-content: space-between; margin-bottom: 0.3rem;">
+                <span style="font-weight: 500;">${label || ''}</span>
+                <span style="font-weight: bold; color: ${color};">${percentage}%</span>
+            </div>
+            <div style="background: #e0e0e0; height: 24px; border-radius: 12px; overflow: hidden;">
+                <div style="background: linear-gradient(90deg, ${color} 0%, ${color}dd 100%); width: ${percentage}%; height: 100%; transition: width 0.5s ease;"></div>
+            </div>
+        </div>
+    `;
+}
+
+// Generate outcome card
+function generateOutcomeCard(title, percentage, color) {
+    return `
+        <div style="background: white; border: 2px solid ${color}; border-radius: 8px; padding: 1rem; text-align: center;">
+            <div style="font-size: 2rem; font-weight: bold; color: ${color}; margin-bottom: 0.5rem;">${percentage}%</div>
+            <div style="color: #666; font-size: 0.9rem;">${title}</div>
+        </div>
+    `;
+}
+
+// Format months to text
+function formatMonths(months) {
+    if (months >= 12) {
+        const years = months / 12;
+        if (years === Math.floor(years)) {
+            return `${years} year${years > 1 ? 's' : ''}`;
+        } else {
+            return `${years.toFixed(1)} years`;
+        }
+    }
+    return `${months} months`;
+}
 </script>
+
+<!-- Markdown Parsing Library -->
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 {% endblock %}

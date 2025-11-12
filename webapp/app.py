@@ -16,6 +16,13 @@ from engine.case_matcher import CaseMatcher
 from engine.document_analyzer import DocumentAnalyzer
 from engine.explanation import generate_legal_advice_disclaimer
 
+# Import enhanced analyzer for better analysis
+try:
+    from engine.enhanced_analyzer import get_enhanced_analyzer
+    ENHANCED_AVAILABLE = True
+except:
+    ENHANCED_AVAILABLE = False
+
 # Import comprehensive knowledge base with ALL HK law (using fast JSON loader)
 from knowledge_base import json_loader as hk_ordinances
 from knowledge_base import all_cases_database as case_database
@@ -211,6 +218,30 @@ def api_analyze():
     except Exception as e:
         return jsonify({'error': str(e)}), 500
 
+@app.route('/api/analyze-enhanced', methods=['POST'])
+def api_analyze_enhanced():
+    """
+    Enhanced legal analysis with semantic search and context awareness
+    """
+    try:
+        if not ENHANCED_AVAILABLE:
+            return jsonify({'error': 'Enhanced analyzer not available'}), 503
+        
+        data = request.json
+        text = data.get('text', '')
+        
+        if not text:
+            return jsonify({'error': 'No text provided'}), 400
+        
+        # Run enhanced analysis
+        analyzer = get_enhanced_analyzer()
+        result = analyzer.analyze(text)
+        
+        return jsonify(result)
+    
+    except Exception as e:
+        return jsonify({'error': str(e)}), 500
+
 @app.route('/api/search-cases', methods=['POST'])
 def api_search_cases():
     """
@@ -329,6 +360,44 @@ def api_categories():
     except Exception as e:
         return jsonify({'error': str(e)}), 500
 
+@app.route('/api/category/<category_name>')
+def api_category_ordinances(category_name):
+    """Get all ordinances in a specific category"""
+    try:
+        ordinances_list = []
+        
+        # Get all ordinances
+        for cap_key, ordinance in hk_ordinances.ALL_ORDINANCES.items():
+            if ordinance.get('category') == category_name:
+                ordinances_list.append({
+                    'chapter': ordinance.get('chapter', ''),
+                    'title': ordinance.get('title', ''),
+                    'num_sections': len(ordinance.get('sections', {})),
+                    'category': category_name
+                })
+        
+        # Sort by chapter number
+        ordinances_list.sort(key=lambda x: int(x['chapter']) if x['chapter'].isdigit() else 9999)
+        
+        return jsonify({
+            'success': True,
+            'category': category_name,
+            'ordinances': ordinances_list,
+            'total': len(ordinances_list)
+        })
+    except Exception as e:
+        return jsonify({'error': str(e)}), 500
+
+@app.route('/category/<category_name>')
+def category_browser(category_name):
+    """Category browser page"""
+    return render_template('category_browser.html', category=category_name)
+
+@app.route('/ordinance/<chapter>')
+def ordinance_detail_page(chapter):
+    """Ordinance detail webpage"""
+    return render_template('ordinance_detail.html', chapter=chapter)
+
 @app.route('/api/ordinance/<chapter>')
 def api_ordinance_detail(chapter):
     """Get details of a specific ordinance"""
@@ -344,6 +413,36 @@ def api_ordinance_detail(chapter):
             return jsonify({
                 'success': True,
                 'ordinance': info
+            })
+        else:
+            return jsonify({'error': 'Ordinance not found'}), 404
+    except Exception as e:
+        return jsonify({'error': str(e)}), 500
+
+@app.route('/api/ordinance/<chapter>/sections')
+def api_ordinance_sections(chapter):
+    """Get all sections of an ordinance"""
+    try:
+        cap_key = f'cap_{chapter}'
+        if cap_key in hk_ordinances.ALL_ORDINANCES:
+            ordinance = hk_ordinances.ALL_ORDINANCES[cap_key]
+            sections = ordinance.get('sections', {})
+            
+            sections_list = []
+            for num, data in sections.items():
+                sections_list.append({
+                    'number': num,
+                    'title': data.get('title', ''),
+                    'text': data.get('text', ''),
+                    'penalty': data.get('penalty', '')
+                })
+            
+            # Sort by section number
+            sections_list.sort(key=lambda x: int(x['number']) if x['number'].isdigit() else 9999)
+            
+            return jsonify({
+                'success': True,
+                'sections': sections_list
             })
         else:
             return jsonify({'error': 'Ordinance not found'}), 404
