@@ -45,6 +45,13 @@ class EnhancedLegalAnalyzer:
         Returns:
             dict: Complete analysis with context, laws, and advice
         """
+        # Check if text is empty or trivial
+        if not text or len(text.strip()) < 3:
+            return {
+                'success': False,
+                'comprehensive_advice': '### ⚠️ NO INPUT PROVIDED\n\nPlease provide a scenario or legal question to analyze.'
+            }
+        
         # Step 1: Document analysis
         doc_analysis = self.doc_analyzer.analyze_document(text)
         
@@ -55,8 +62,11 @@ class EnhancedLegalAnalyzer:
         relevant_laws = []
         
         # First, add essential definitional sections for detected offenses
-        if 'theft' in doc_analysis.get('offences', [{}])[0].get('type', '') or \
-           any(word in text.lower() for word in ['steal', 'stole', 'theft', 'shoplifting']):
+        offences_list = doc_analysis.get('offences', [])
+        has_theft = (offences_list and 'theft' in offences_list[0].get('type', '')) or \
+                    any(word in text.lower() for word in ['steal', 'stole', 'theft', 'shoplifting'])
+        
+        if has_theft:
             # Force-add Cap. 210 theft sections
             from knowledge_base import json_loader
             theft_def = json_loader.get_ordinance_section('210', '2')
@@ -116,19 +126,52 @@ class EnhancedLegalAnalyzer:
         # Step 4: Traditional rule-based analysis
         extracted_facts = self.doc_analyzer.extract_for_inference(text)
         rule_results = None
+        has_offense = False
+        
         if extracted_facts:
-            engine = analyze_case(extracted_facts)
-            offences = engine.get_offences()
-            if offences:
-                rule_results = {
-                    'offences': offences,
-                    'explanation': engine.explain()
+            try:
+                engine = analyze_case(extracted_facts)
+                offences = engine.get_offences()
+                if offences:
+                    has_offense = True
+                    # Convert offences to JSON-serializable format (remove Rule objects)
+                    serializable_offences = [
+                        {
+                            'offence': o['offence'],
+                            'ordinance_ref': o['ordinance_ref'],
+                            'penalty': o['penalty']
+                        } for o in offences
+                    ]
+                    rule_results = {
+                        'offences': serializable_offences,
+                        'explanation': engine.explain()
+                    }
+            except Exception as e:
+                print(f"Warning: Rule-based analysis failed: {e}")
+                # Continue without rule results
+        
+        # If no offense detected from rules, check if we should proceed
+        # Only proceed if we have BOTH offense detection AND high-relevance legislation
+        if not has_offense:
+            # Check if we have any highly relevant legislation (score > 0.5)
+            high_relevance_laws = [law for law in relevant_laws if law.get('score', 0) > 0.5]
+            
+            if not high_relevance_laws:
+                # No offense detected and no highly relevant laws
+                return {
+                    'success': True,
+                    'comprehensive_advice': self._generate_no_offense_message(text),
+                    'document_analysis': doc_analysis,
+                    'context_assessment': context,
+                    'relevant_laws': [],
+                    'rule_based_results': None,
+                    'risk_assessment': None
                 }
         
         # Step 5: Risk assessment
         risk_assessor = get_risk_assessor()
         offense_type = 'theft'  # Default
-        if doc_analysis.get('offences'):
+        if doc_analysis.get('offences') and len(doc_analysis['offences']) > 0:
             offense_type = doc_analysis['offences'][0].get('type', 'theft')
         
         risk_assessment = risk_assessor.comprehensive_risk_assessment(text, context, offense_type='theft')
@@ -159,11 +202,13 @@ class EnhancedLegalAnalyzer:
             for offence in rules['offences']:
                 sections.append(f"**{offence['offence']}** ({offence['ordinance_ref']})\n")
                 sections.append(f"- Maximum Penalty: {offence['penalty']}\n")
-        else:
+        elif laws:
             # Use semantic search results
-            if laws:
-                sections.append(f"**Potential Offense**: Based on the scenario\n")
-                sections.append(f"- Most relevant law: {laws[0]['reference']} - {laws[0]['title']}\n")
+            sections.append(f"**Potential Offense**: Based on the scenario\n")
+            sections.append(f"- Most relevant law: {laws[0]['reference']} - {laws[0]['title']}\n")
+        else:
+            sections.append(f"**No specific offense identified by rule engine**\n")
+            sections.append(f"- Analysis based on legislation search\n")
         
         # 2. Context & Severity
         if context['severity'] != 'unknown':
@@ -219,24 +264,35 @@ class EnhancedLegalAnalyzer:
             
             # Sentence prediction
             sent_pred = risk['sentence_prediction']
-            sections.append(f"**Predicted Sentence Range**:\n")
             
-            risk_assessor = get_risk_assessor()
-            low_text = risk_assessor.format_months_to_text(sent_pred['low_months'])
-            typical_text = risk_assessor.format_months_to_text(sent_pred['typical_months'])
-            high_text = risk_assessor.format_months_to_text(sent_pred['high_months'])
-            
-            sections.append(f"- Low estimate: {low_text}\n")
-            sections.append(f"- **Typical sentence: {typical_text}**\n")
-            sections.append(f"- High estimate: {high_text}\n")
-            sections.append(f"- Confidence: {sent_pred['confidence']}%\n")
-            sections.append(f"- {sent_pred['basis']}\n")
-            
-            if sent_pred.get('adjustments'):
-                sections.append("\n- Sentence adjustments:\n")
-                for adj in sent_pred['adjustments']:
-                    sections.append(f"  - {adj}\n")
-            sections.append("\n")
+            # Check if this is a fine-only offense
+            if sent_pred.get('is_fine_only', False):
+                sections.append(f"**Penalty**: Fine Only (No Prison)\n")
+                sections.append(f"- **Fine Range**: HK${sent_pred.get('fine_range', 'Unknown')}\n")
+                sections.append(f"- This is a regulatory offense with fixed penalty\n")
+                sections.append(f"- **No imprisonment** for this offense\n")
+                sections.append(f"- Confidence: {sent_pred['confidence']}%\n")
+                sections.append(f"- {sent_pred['basis']}\n\n")
+            else:
+                # Prison sentence possible
+                sections.append(f"**Predicted Sentence Range**:\n")
+                
+                risk_assessor = get_risk_assessor()
+                low_text = risk_assessor.format_months_to_text(sent_pred['low_months'])
+                typical_text = risk_assessor.format_months_to_text(sent_pred['typical_months'])
+                high_text = risk_assessor.format_months_to_text(sent_pred['high_months'])
+                
+                sections.append(f"- Low estimate: {low_text}\n")
+                sections.append(f"- **Typical sentence: {typical_text}**\n")
+                sections.append(f"- High estimate: {high_text}\n")
+                sections.append(f"- Confidence: {sent_pred['confidence']}%\n")
+                sections.append(f"- {sent_pred['basis']}\n")
+                
+                if sent_pred.get('adjustments'):
+                    sections.append("\n- Sentence adjustments:\n")
+                    for adj in sent_pred['adjustments']:
+                        sections.append(f"  - {adj}\n")
+                sections.append("\n")
             
             # Outcome probabilities
             outcomes = risk['outcome_probabilities']
@@ -247,13 +303,18 @@ class EnhancedLegalAnalyzer:
             sections.append(f"- Appeal success rate: {outcomes['appeal_success_rate']}% (based on real HK cases)\n")
             sections.append("\n")
         
-        # 7. Legal Process
+        # 7. Legal Process (adjust based on offense severity)
         sections.append("\n### 📋 LEGAL PROCESS\n")
-        sections.append("- **If arrested**: Right to remain silent, right to legal representation\n")
-        sections.append("- **If charged**: Will be brought to court, may apply for bail\n")
-        sections.append("- **Possible outcomes**: Caution, bind-over, conviction, imprisonment\n")
+        if risk and risk['sentence_prediction'].get('is_fine_only'):
+            sections.append("- **If caught**: Usually issued fixed penalty notice on the spot\n")
+            sections.append("- **Payment**: Pay fine within specified time period\n")
+            sections.append("- **If don't pay**: May be summoned to court for prosecution\n")
+        else:
+            sections.append("- **If arrested**: Right to remain silent, right to legal representation\n")
+            sections.append("- **If charged**: Will be brought to court, may apply for bail\n")
+            sections.append("- **Possible outcomes**: Caution, bind-over, conviction, imprisonment\n")
         
-        # 7. Important Notes
+        # 8. Important Notes
         sections.append("\n### ⚠️ IMPORTANT DISCLAIMER\n")
         sections.append("- This is general legal information, NOT legal advice\n")
         sections.append("- Every case has unique circumstances\n")
@@ -261,6 +322,66 @@ class EnhancedLegalAnalyzer:
         sections.append("- Do not rely solely on this analysis for legal decisions\n")
         
         return ''.join(sections)
+    
+    def _generate_no_offense_message(self, text):
+        """Generate message when no offense is detected"""
+        return f"""### ✅ NO LEGAL VIOLATION DETECTED
+
+**Your Input**: "{text}"
+
+**Analysis Result**: This appears to be **legal conduct** under Hong Kong law. No criminal offense or regulatory violation was detected.
+
+---
+
+### 🎉 Good News!
+
+Based on our analysis:
+- ✅ **No criminal offense** identified
+- ✅ **No regulatory violation** found
+- ✅ **No legal rules** matched this scenario
+
+**This is a normal, legal activity.**
+
+---
+
+### 💡 If This Doesn't Seem Right
+
+If you expected this to be illegal, consider:
+
+1. **Add more details** - Our system needs specific facts
+   - Example: Instead of "I took something", try "I took a phone from a store without paying"
+
+2. **Try Expert Mode (RAG)** 🚀
+   - Uses AI for broader legal analysis
+   - Can handle more complex queries
+   - Better for unusual scenarios
+
+3. **Consult a lawyer** for complex matters
+   - Our system focuses on common offenses
+   - Civil matters require professional advice
+
+---
+
+### 📚 What Our System Has
+
+**Legislation Database** (Complete):
+✅ **ALL Hong Kong Law** - 2,234 ordinances, 52,269 sections
+✅ Criminal Law, Civil Law, Property, Employment, Commercial, Tax, Family Law, etc.
+
+**Rule-Based Analysis** (Focused):
+✅ Common criminal offenses (theft, assault, robbery, drugs, etc.)
+✅ Regulatory offenses (smoking, littering, noise, etc.)
+✅ Animal welfare violations
+⚠️ Limited civil/commercial rules (use **Expert Mode** for these)
+
+**Best Approach**:
+- **Simple scenarios** → Rule-Based Analysis (fast, focused)
+- **Complex queries** → Expert Mode (RAG) 🚀 (uses ALL legislation with AI)
+
+---
+
+⚠️ **Disclaimer**: This is general information. For actual legal matters, consult a qualified Hong Kong solicitor.
+"""
 
 # Singleton instance
 _enhanced_analyzer = None

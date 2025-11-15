@@ -371,6 +371,7 @@ async function handleRAGMode(query, loader, results) {
                                 citHtml += '</div></div>';
                             }
                             
+                            // Only show Cases section if there are relevant cases
                             if (citations && citations.cases && citations.cases.length > 0) {
                                 citHtml += '<div class="result"><h3>⚖️ Cases Cited</h3>';
                                 citHtml += '<div class="citation-list">';
@@ -382,6 +383,7 @@ async function handleRAGMode(query, loader, results) {
                                 });
                                 citHtml += '</div></div>';
                             }
+                            // Don't show anything if no relevant cases found
                             
                             // Add disclaimer
                             citHtml += '<div class="alert alert-warning">';

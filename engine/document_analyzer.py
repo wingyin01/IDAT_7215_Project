@@ -13,6 +13,7 @@ class DocumentAnalyzer:
     
     # Keywords for identifying legal facts
     FACT_KEYWORDS = {
+        'animal_cruelty': ['cat', 'dog', 'animal', 'pet', 'puppy', 'kitten', 'abuse', 'torture', 'cruelty'],
         'theft': ['took', 'steal', 'stole', 'stolen', 'appropriat', 'without paying', 'shoplifting'],
         'robbery': ['rob', 'force', 'threat', 'weapon', 'knife', 'gun', 'demanded'],
         'assault': ['punch', 'hit', 'struck', 'attack', 'beat', 'assault', 'injur', 'harm'],
@@ -22,6 +23,10 @@ class DocumentAnalyzer:
         'sexual': ['rape', 'sexual', 'intercourse', 'indecent', 'consent', 'molest'],
         'property_damage': ['damage', 'destroy', 'vandal', 'arson', 'fire', 'burn'],
         'burglary': ['burgl', 'break', 'enter', 'trespass', 'residence'],
+        'smoking': ['smok', 'cigarette', 'cigar', 'tobacco', 'vaping', 'e-cigarette'],
+        'littering': ['litter', 'trash', 'rubbish', 'waste', 'disposal'],
+        'noise': ['noise', 'loud', 'disturbance', 'nuisance'],
+        'public_health': ['spit', 'urinate', 'defecate', 'hygiene'],
     }
     
     # Intent keywords
@@ -38,6 +43,18 @@ class DocumentAnalyzer:
         'uses_force': ['force', 'violent', 'push', 'hit', 'strike'],
         'enters_building': ['enter', 'break in', 'trespass'],
         'causes_harm': ['injur', 'harm', 'hurt', 'wound'],
+        'smoking_activity': ['smok', 'cigarette', 'cigar', 'tobacco', 'vaping', 'light up', 'puff'],
+        'in_public_place': ['public', 'street', 'park', 'beach', 'sidewalk', 'pavement', 'outdoor', 'plaza'],
+        'in_no_smoking_area': ['no smoking', 'non-smoking', 'smoke-free', 'restaurant', 'workplace', 'office', 'transport', 'bus', 'train', 'ferry', 'mtr'],
+        'disposed_of_waste': ['litter', 'threw', 'dropped', 'disposed', 'dumped', 'discarded'],
+        'spitting_in_public': ['spit', 'spat', 'expectorate'],
+        'emits_excessive_noise': ['loud', 'noise', 'noisy', 'disturbance', 'blaring'],
+        'causes_annoyance_to_others': ['annoying', 'disturbing', 'bothering', 'complaint', 'neighbors'],
+        # Animal-related actions
+        'kills_animal': ['kill', 'killed', 'slaughter'],
+        'beats_or_tortures_animal': ['beat', 'hit', 'kick', 'torture', 'abuse', 'harm', 'hurt'],
+        'causes_unnecessary_suffering': ['suffering', 'pain', 'abuse', 'neglect', 'starv', 'injur'],
+        'without_reasonable_excuse': [],  # Context-based, assume true if animal harm detected
     }
     
     def __init__(self):
@@ -104,26 +121,49 @@ class DocumentAnalyzer:
         return offences
     
     def _extract_facts(self, text_lower):
-        """Extract legal facts from text"""
+        """Extract legal facts from text using both ACTION_KEYWORDS and legacy patterns"""
         facts = []
         
-        # Check for common fact patterns
-        fact_patterns = {
+        # Check if this involves an animal
+        animal_context = any(word in text_lower for word in ['cat', 'dog', 'animal', 'pet', 'puppy', 'kitten'])
+        
+        # First, check ACTION_KEYWORDS (includes new smoking, littering, etc.)
+        for action_fact, keywords in self.ACTION_KEYWORDS.items():
+            if any(kw in text_lower for kw in keywords):
+                facts.append(action_fact)
+        
+        # Special handling for animal-related harm
+        if animal_context:
+            # If animal harm detected, add "without_reasonable_excuse" (most people don't have valid excuses)
+            if 'kills_animal' in facts or 'beats_or_tortures_animal' in facts:
+                if 'without_reasonable_excuse' not in facts:
+                    facts.append('without_reasonable_excuse')
+                if 'causes_unnecessary_suffering' not in facts:
+                    facts.append('causes_unnecessary_suffering')
+        
+        # Also check legacy fact patterns for backward compatibility
+        legacy_patterns = {
             'property_belongs_to_another': ['belong to', 'owned by', 'property of', 'not his', 'not hers'],
             'acts_dishonestly': ['dishonest', 'without permission', 'without consent', 'secretly'],
             'intent_to_permanently_deprive': ['intend to keep', 'never return', 'permanently', 'steal'],
             'uses_force_or_threat': ['threaten', 'force', 'violence', 'weapon', 'scared', 'fear'],
             'victim_does_not_consent': ['no consent', 'refused', 'said no', 'unwilling', 'against will'],
             'unlawfully': ['unlawful', 'illegal', 'without authority', 'without permission'],
-            'enters_building': ['enter', 'went into', 'broke into', 'trespass'],
             'as_trespasser': ['trespass', 'without permission', 'not allowed', 'uninvited'],
             'causes_actual_bodily_harm': ['injur', 'bruise', 'bleeding', 'pain', 'hospital'],
             'causes_gbh': ['serious injur', 'severe harm', 'fracture', 'permanent', 'surgery'],
         }
         
-        for fact, patterns in fact_patterns.items():
+        for fact, patterns in legacy_patterns.items():
             if any(pattern in text_lower for pattern in patterns):
-                facts.append(fact)
+                if fact not in facts:  # Avoid duplicates
+                    facts.append(fact)
+        
+        # Also check INTENT_KEYWORDS
+        for intent_fact, keywords in self.INTENT_KEYWORDS.items():
+            if any(kw in text_lower for kw in keywords):
+                if intent_fact not in facts:
+                    facts.append(intent_fact)
         
         return facts
     
@@ -225,6 +265,30 @@ class DocumentAnalyzer:
                 "Did the defendant know or was reckless about non-consent?",
                 "Was the act of a sexual nature?",
                 "Are there any age-related issues?"
+            ],
+            'smoking': [
+                "Was smoking in a statutory no-smoking area?",
+                "What type of premises (public transport, workplace, restaurant)?",
+                "Were there proper no-smoking signs displayed?",
+                "Is this a first offense or repeat violation?"
+            ],
+            'littering': [
+                "Was waste disposed of in a public place?",
+                "What type and quantity of litter?",
+                "Was there intent or was it accidental?",
+                "Are there aggravating factors (repeated violations)?"
+            ],
+            'noise': [
+                "What type of noise (domestic, commercial, construction)?",
+                "What time did it occur (day/night)?",
+                "Duration and severity of disturbance?",
+                "Were warnings given?"
+            ],
+            'public_health': [
+                "What specific act (spitting, littering, etc.)?",
+                "Was it in a public place?",
+                "Were there health and safety implications?",
+                "Is there a pattern of behavior?"
             ]
         }
         

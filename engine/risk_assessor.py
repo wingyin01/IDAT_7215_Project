@@ -16,30 +16,65 @@ class RiskAssessor:
     
     # Base prosecution rates by offense severity
     PROSECUTION_RATES = {
+        # Regulatory offenses (fines only)
+        'smoking': 25,          # Cap. 371: Fixed penalty
+        'littering': 20,        # Fixed penalty
+        'spitting': 15,         # Fixed penalty
+        'noise': 10,            # Usually warning first
+        
+        # Animal offenses
+        'animal_cruelty': 80,   # Cap. 169: Serious offense
+        
+        # Theft offenses
         'petty_theft': 30,      # <HK$100
         'minor_theft': 70,      # HK$100-5000
         'serious_theft': 95,    # >HK$5000
         'shoplifting': 60,      # Store theft
         'burglary': 95,         # Breaking + theft
         'robbery': 98,          # Force + theft
+        
+        # Assault offenses
         'assault_minor': 75,    # No serious injury
         'assault_serious': 95,  # GBH
+        
+        # Drug offenses
         'drug_possession': 85,  # Personal use amounts
         'drug_trafficking': 99, # Commercial amounts
+        
+        # Other serious crimes
         'fraud': 80,            # Dishonesty offenses
         'sexual': 95,           # Sexual offenses
         'murder': 99,           # Homicide
         'manslaughter': 98,     # Unlawful killing
     }
     
-    # Statutory penalties (months)
+    # Statutory penalties (months, 0 = fine only)
     STATUTORY_PENALTIES = {
+        # Regulatory offenses (FINES ONLY, NO PRISON)
+        'smoking': {'max': 0, 'typical': 0, 'fine': '1,500-5,000', 'fine_only': True},
+        'littering': {'max': 0, 'typical': 0, 'fine': '1,500-25,000', 'fine_only': True},
+        'spitting': {'max': 0, 'typical': 0, 'fine': '1,500-10,000', 'fine_only': True},
+        'noise': {'max': 0, 'typical': 0, 'fine': 'up to 10,000', 'fine_only': True},
+        
+        # Animal cruelty
+        'animal_cruelty': {'max': 36, 'typical': 3-12, 'fine': 'up to 200,000'},  # Cap. 169: 3 years + fine
+        
+        # Theft offenses
         'theft': {'max': 120, 'typical': 6-24},  # Cap. 210: Max 10 years
+        'petty_theft': {'max': 12, 'typical': 0-3},  # Usually fine/community service
+        'minor_theft': {'max': 24, 'typical': 3-12},  # Probation to short sentence
+        'serious_theft': {'max': 120, 'typical': 12-48},  # Prison likely
         'robbery': {'max': 168, 'typical': 36-84},  # Cap. 200: Max 14 years
         'burglary': {'max': 168, 'typical': 24-60},  # Cap. 211: Max 14 years
+        
+        # Assault offenses
         'assault_abh': {'max': 36, 'typical': 3-12},  # Cap. 212: Max 3 years
         'assault_gbh': {'max': 84, 'typical': 24-60},  # Cap. 212: Max 7 years
+        
+        # Drug offenses
         'drug_trafficking': {'max': 9999, 'typical': 60-180},  # Cap. 134: Life
+        
+        # Other serious crimes
         'fraud': {'max': 168, 'typical': 12-48},  # Cap. 210: Max 14 years
         'murder': {'max': 9999, 'mandatory': 9999},  # Life imprisonment
     }
@@ -143,6 +178,19 @@ class RiskAssessor:
         # Get statutory range
         statutory = self.STATUTORY_PENALTIES.get(offense_type, {'max': 120, 'typical': 6-36})
         
+        # Check if this is a fine-only offense
+        if statutory.get('fine_only', False):
+            return {
+                'low_months': 0,
+                'typical_months': 0,
+                'high_months': 0,
+                'fine_range': statutory.get('fine', 'Unknown'),
+                'confidence': 95,
+                'basis': f"Fixed penalty offense under Hong Kong law (HK${statutory.get('fine', 'Unknown')})",
+                'adjustments': ['Fine-only offense - no imprisonment'],
+                'is_fine_only': True
+            }
+        
         # If we have real case data, use it
         if case_based and case_based['based_on_cases'] > 0:
             low = case_based['low_months']
@@ -228,11 +276,21 @@ class RiskAssessor:
         """
         # Base conviction rates
         conviction_base = {
+            # Regulatory offenses
+            'smoking': 90,          # Usually fixed penalty, high conviction if prosecuted
+            'littering': 85,        # Similar
+            'spitting': 80,         # Similar
+            'noise': 70,            # Lower - harder to prove
+            'animal_cruelty': 75,   # Moderate conviction rate
+            
+            # Theft offenses
             'petty_theft': 60,
             'minor_theft': 75,
             'serious_theft': 85,
             'robbery': 90,
             'burglary': 85,
+            
+            # Other serious crimes
             'drug_trafficking': 95,
             'assault_minor': 70,
             'assault_serious': 85,
@@ -250,11 +308,21 @@ class RiskAssessor:
         
         # Custodial sentence likelihood
         custodial_base = {
+            # Regulatory offenses (NEVER prison for first offense)
+            'smoking': 0,           # FINE ONLY
+            'littering': 0,         # FINE ONLY
+            'spitting': 0,          # FINE ONLY
+            'noise': 0,             # FINE ONLY
+            'animal_cruelty': 40,   # Prison possible for serious cases
+            
+            # Theft offenses
             'petty_theft': 10,
             'minor_theft': 30,
             'serious_theft': 70,
             'robbery': 90,
             'burglary': 75,
+            
+            # Other serious crimes
             'drug_trafficking': 95,
             'assault_minor': 40,
             'assault_serious': 80,
@@ -299,15 +367,17 @@ class RiskAssessor:
         # Extract factors from text and context
         factors = self._extract_factors(text, context_assessment)
         
-        # Determine specific offense type from context
-        if context_assessment['severity'] == 'petty':
-            specific_offense = 'petty_theft'
-        elif context_assessment['severity'] == 'minor':
-            specific_offense = 'minor_theft'
-        elif context_assessment['severity'] == 'serious':
-            specific_offense = 'serious_theft'
-        else:
-            specific_offense = offense_type
+        # Detect specific offense type from text
+        specific_offense = self._detect_offense_type(text, offense_type)
+        
+        # If it's theft, further classify by severity
+        if specific_offense == 'theft':
+            if context_assessment['severity'] == 'petty':
+                specific_offense = 'petty_theft'
+            elif context_assessment['severity'] == 'minor':
+                specific_offense = 'minor_theft'
+            elif context_assessment['severity'] == 'serious':
+                specific_offense = 'serious_theft'
         
         # Get keywords for case data lookup
         keywords = []
@@ -407,9 +477,42 @@ class RiskAssessor:
         else:
             return 'Very Unlikely'
     
+    def _detect_offense_type(self, text, default='theft'):
+        """Detect offense type from text"""
+        text_lower = text.lower()
+        
+        # Regulatory offenses
+        if any(word in text_lower for word in ['smok', 'cigarette', 'cigar', 'tobacco', 'vap']):
+            return 'smoking'
+        if any(word in text_lower for word in ['litter', 'throw trash', 'threw rubbish']):
+            return 'littering'
+        if 'spit' in text_lower:
+            return 'spitting'
+        if any(word in text_lower for word in ['noise', 'loud music', 'noisy']):
+            return 'noise'
+        
+        # Animal offenses
+        if any(word in text_lower for word in ['kill', 'harm', 'abuse', 'torture', 'hurt', 'beat']):
+            if any(word in text_lower for word in ['cat', 'dog', 'animal', 'pet', 'puppy', 'kitten']):
+                return 'animal_cruelty'
+        
+        # Serious crimes
+        if 'murder' in text_lower or 'kill' in text_lower and any(w in text_lower for w in ['person', 'man', 'woman', 'someone', 'people']):
+            return 'murder'
+        if 'rob' in text_lower and ('force' in text_lower or 'threat' in text_lower or 'weapon' in text_lower):
+            return 'robbery'
+        if any(word in text_lower for word in ['burgl', 'break in', 'broke in']):
+            return 'burglary'
+        if 'drug' in text_lower and any(w in text_lower for w in ['trafficking', 'dealing', 'distribute', 'sell']):
+            return 'drug_trafficking'
+        
+        return default
+    
     def format_months_to_text(self, months):
         """Convert months to readable text"""
-        if months >= 12:
+        if months == 0:
+            return "Fine only (no prison)"
+        elif months >= 12:
             years = months / 12
             if years == int(years):
                 return f"{int(years)} year{'s' if years > 1 else ''}"

@@ -15,6 +15,7 @@
 - We intentionally limited case data to 29 cases to stay legal and ethical.
 - This is a **known constraint** for our student project phase.
 - For educational purposes, this is acceptable under fair use principles.
+- **Impact**: The 29 cases are all serious criminal appeals (drugs, robbery, murder, etc.). Queries about minor offenses or non-criminal matters may not find relevant case precedents. The system will transparently inform users when no relevant cases are found and rely primarily on legislation analysis.
 
 **Path to Production (Future Collaboration Needed)**
 - To make this production-ready, we would need:

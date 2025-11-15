@@ -256,7 +256,9 @@ class HybridSearchEngine:
         
         results = []
         for idx in top_indices:
-            if hybrid_scores[idx] > 0.1:  # Minimum threshold
+            # Higher threshold for cases to filter out irrelevant matches
+            # Our case database is limited (29 criminal appeals) so require stronger relevance
+            if hybrid_scores[idx] > 0.15:  # Minimum threshold (increased from 0.1)
                 results.append({
                     'metadata': self.case_metadata[idx],
                     'text': self.case_texts[idx],

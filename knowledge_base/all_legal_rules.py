@@ -218,6 +218,97 @@ TAX_RULES = [
     ),
 ]
 
+# PUBLIC HEALTH & REGULATORY OFFENSES
+PUBLIC_HEALTH_RULES = [
+    Rule(
+        rule_id="PH_001",
+        name="Smoking in Statutory No-Smoking Area",
+        conditions=[
+            "smoking_activity",
+            "in_no_smoking_area"
+        ],
+        conclusion="guilty_of_smoking_in_no_smoking_area",
+        ordinance_ref="Cap. 371, s. 3 & 4",
+        penalty="Fixed penalty of HK$1,500 or fine up to HK$5,000 on conviction",
+        explanation="Smoking in a statutory no-smoking area (public transport, workplaces, restaurants, public parks, beaches, etc.) is an offense under the Smoking (Public Health) Ordinance. Hong Kong has extensive no-smoking areas."
+    ),
+    Rule(
+        rule_id="PH_002",
+        name="Smoking in Public Place (General)",
+        conditions=[
+            "smoking_activity",
+            "in_public_place"
+        ],
+        conclusion="guilty_of_smoking_in_public",
+        ordinance_ref="Cap. 371",
+        penalty="Fixed penalty of HK$1,500 or fine up to HK$5,000",
+        explanation="Smoking is prohibited in many public places in Hong Kong including public transport, workplaces, restaurants, bars, beaches, parks, and public transport interchanges. Check if specific location is designated no-smoking area."
+    ),
+    Rule(
+        rule_id="PH_003",
+        name="Littering in Public Place",
+        conditions=[
+            "disposed_of_waste",
+            "in_public_place"
+        ],
+        conclusion="guilty_of_littering",
+        ordinance_ref="Cap. 132BK (Fixed Penalty Offences), s. 4",
+        penalty="Fixed penalty of HK$1,500 or fine up to HK$25,000 and imprisonment for 6 months on conviction",
+        explanation="Disposing of refuse or litter in a public place except in a proper receptacle is an offense. This includes cigarette butts, food packaging, etc."
+    ),
+    Rule(
+        rule_id="PH_004",
+        name="Spitting in Public Place",
+        conditions=[
+            "spitting_in_public"
+        ],
+        conclusion="guilty_of_spitting",
+        ordinance_ref="Cap. 132BK, s. 5",
+        penalty="Fixed penalty of HK$1,500 or fine up to HK$10,000 on conviction",
+        explanation="Spitting in a public place except into a suitable receptacle is an offense under public cleanliness laws."
+    ),
+    Rule(
+        rule_id="PH_005",
+        name="Noise Nuisance - Domestic",
+        conditions=[
+            "emits_excessive_noise",
+            "causes_annoyance_to_others"
+        ],
+        conclusion="liable_for_noise_nuisance",
+        ordinance_ref="Cap. 400 (Noise Control Ordinance), s. 4 & 5",
+        penalty="Fine up to HK$10,000",
+        explanation="Emitting noise from domestic premises that is a source of annoyance can result in a noise abatement notice and fine if notice is not complied with."
+    ),
+]
+
+# ANIMAL WELFARE RULES (Cap. 169 - Prevention of Cruelty to Animals Ordinance)
+ANIMAL_RULES = [
+    Rule(
+        rule_id="ANIMAL_001",
+        name="Cruelty to Animals - Beating/Torturing",
+        conditions=[
+            "beats_or_tortures_animal",
+            "causes_unnecessary_suffering"
+        ],
+        conclusion="guilty_of_animal_cruelty",
+        ordinance_ref="Cap. 169, s. 3",
+        penalty="Fine up to HK$200,000 and imprisonment for 3 years",
+        explanation="Beating, kicking, torturing, or causing unnecessary suffering to any animal is a criminal offense under Hong Kong law."
+    ),
+    Rule(
+        rule_id="ANIMAL_002",
+        name="Cruelty to Animals - Killing",
+        conditions=[
+            "kills_animal",
+            "without_reasonable_excuse"
+        ],
+        conclusion="guilty_of_animal_cruelty",
+        ordinance_ref="Cap. 169, s. 3",
+        penalty="Fine up to HK$200,000 and imprisonment for 3 years",
+        explanation="Killing an animal without reasonable excuse or lawful authority constitutes cruelty. This includes pets like cats and dogs."
+    ),
+]
+
 # Consolidate ALL legal rules
 ALL_LEGAL_RULES = (
     CRIMINAL_RULES +      # 100+ criminal law rules
@@ -226,7 +317,9 @@ ALL_LEGAL_RULES = (
     CIVIL_RULES +         # 2 civil law rules (sample)
     COMMERCIAL_RULES +    # 2 commercial law rules (sample)
     FAMILY_RULES +        # 1 family law rule (sample)
-    TAX_RULES            # 1 tax law rule (sample)
+    TAX_RULES +          # 1 tax law rule (sample)
+    PUBLIC_HEALTH_RULES + # 5 public health & regulatory rules
+    ANIMAL_RULES          # 2 animal welfare rules
 )
 
 # Create rule lookup
@@ -241,6 +334,8 @@ RULES_BY_CATEGORY = {
     'Commercial & Company': COMMERCIAL_RULES,
     'Family Law': FAMILY_RULES,
     'Tax & Revenue': TAX_RULES,
+    'Public Health & Regulatory': PUBLIC_HEALTH_RULES,
+    'Animal Welfare': ANIMAL_RULES,
 }
 
 def get_rule_by_id(rule_id):

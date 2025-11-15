@@ -304,18 +304,39 @@ def api_analyze_document():
         # Run inference if facts found
         inference_results = None
         if extracted_facts:
-            engine = analyze_case(extracted_facts)
-            offences = engine.get_offences()
-            inference_results = {
-                'offences': [
-                    {
-                        'name': o['offence'],
-                        'ordinance_ref': o['ordinance_ref'],
-                        'penalty': o['penalty']
-                    } for o in offences
-                ],
-                'explanation': engine.explain()
-            }
+            try:
+                engine = analyze_case(extracted_facts)
+                offences = engine.get_offences()
+                
+                # Only create inference results if offences found
+                if offences:
+                    inference_results = {
+                        'offences': [
+                            {
+                                'name': o['offence'],
+                                'ordinance_ref': o['ordinance_ref'],
+                                'penalty': o['penalty']
+                            } for o in offences
+                        ],
+                        'explanation': engine.explain()
+                    }
+                else:
+                    # No criminal offences detected
+                    inference_results = {
+                        'offences': [],
+                        'explanation': "No criminal offences matching our rule base were detected. This may be because:\n" +
+                                      "1. The scenario describes non-criminal conduct\n" +
+                                      "2. The offence is not covered by our current rules (which focus on serious crimes)\n" +
+                                      "3. Insufficient facts were provided for rule matching\n\n" +
+                                      "Try using Expert Mode (RAG) for broader legal advice."
+                    }
+            except Exception as e:
+                # Handle any rule engine errors gracefully
+                inference_results = {
+                    'offences': [],
+                    'explanation': f"Unable to process rule-based analysis: {str(e)}\n\n" +
+                                  "Try using Expert Mode (RAG) instead."
+                }
         
         return jsonify({
             'success': True,

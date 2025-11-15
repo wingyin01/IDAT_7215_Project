@@ -38,6 +38,7 @@ class RAGLegalEngine:
                  model_name='llama3.1:8b',
                  top_k_legislation=10,
                  top_k_cases=5,
+                 min_case_score=0.3,
                  search_engine=None):
         """
         Initialize RAG engine
@@ -53,6 +54,7 @@ class RAGLegalEngine:
         self.model_name = model_name
         self.top_k_legislation = top_k_legislation
         self.top_k_cases = top_k_cases
+        self.min_case_score = min_case_score  # Minimum relevance score for cases
         
         # Initialize or use provided search engine
         if search_engine is None:
@@ -107,11 +109,18 @@ class RAGLegalEngine:
             top_k=top_k_legislation
         )
         
-        # Retrieve cases
+        # Retrieve cases with relevance filtering
         case_results = self.search_engine.search_cases_only(
             query, 
             top_k=top_k_cases
         )
+        
+        # Filter out cases below minimum relevance threshold
+        # Our database has only 29 criminal appeals - require high relevance
+        case_results = [
+            result for result in case_results 
+            if result['hybrid_score'] >= self.min_case_score
+        ]
         
         return {
             'legislation': legislation_results,
@@ -148,9 +157,10 @@ class RAGLegalEngine:
                     context_parts.append(f"   Penalty: {metadata['penalty']}\n")
                 context_parts.append(f"   Relevance Score: {result['hybrid_score']:.3f}\n\n")
         
-        # Add case law
+        # Add case law (only if highly relevant cases found)
         if retrieved_sources['cases']:
             context_parts.append("=== RELEVANT CASE PRECEDENTS ===\n")
+            context_parts.append(f"Note: {len(retrieved_sources['cases'])} highly relevant case(s) found in our database of 29 criminal appeals.\n\n")
             
             for i, result in enumerate(retrieved_sources['cases'], 1):
                 metadata = result['metadata']
@@ -164,6 +174,11 @@ class RAGLegalEngine:
                 for principle in metadata['legal_principles']:
                     context_parts.append(f"   - {principle}\n")
                 context_parts.append(f"   Relevance Score: {result['hybrid_score']:.3f}\n\n")
+        else:
+            context_parts.append("\n=== CASE PRECEDENTS ===\n")
+            context_parts.append("Note: No sufficiently relevant case precedents found in our database of 29 criminal appeals. ")
+            context_parts.append("This is expected for regulatory offenses and minor infractions. ")
+            context_parts.append("Analysis will be based on legislation only.\n\n")
         
         return ''.join(context_parts)
     
@@ -202,6 +217,10 @@ class RAGLegalEngine:
     
     def _build_prompt(self, query, context):
         """Build the prompt for LLaMA"""
+        
+        # Check if we have relevant cases in context
+        has_relevant_cases = "RELEVANT CASE PRECEDENTS" in context and "No sufficiently relevant" not in context
+        
         prompt = f"""You are a Hong Kong legal education system providing legal analysis for academic and educational purposes. You MUST provide detailed legal analysis based on Hong Kong law and case precedents.
 
 IMPORTANT: This is an EDUCATIONAL SYSTEM for learning about Hong Kong law. You are REQUIRED to analyze the legal aspects objectively for educational purposes, NOT to provide actual legal advice or encourage criminal activity.
@@ -211,6 +230,8 @@ USER'S LEGAL EDUCATION QUERY:
 
 RETRIEVED HONG KONG LEGISLATION AND CASE PRECEDENTS:
 {context}
+
+{"IMPORTANT: No sufficiently relevant case precedents were found. Our database contains 29 criminal appeal cases focusing on serious crimes. For regulatory/minor offenses, case law may not be applicable. Base your analysis on the legislation provided." if not has_relevant_cases else ""}
 
 YOUR TASK (MANDATORY):
 Analyze this query from a legal education perspective. You MUST:
@@ -339,6 +360,7 @@ PROVIDE YOUR DETAILED LEGAL EDUCATION ANALYSIS:"""
     def get_source_citations(self, retrieved_sources):
         """
         Extract citation information from retrieved sources
+        Only includes sources that passed relevance filtering
         
         Args:
             retrieved_sources: Output from retrieve_context()
@@ -348,7 +370,8 @@ PROVIDE YOUR DETAILED LEGAL EDUCATION ANALYSIS:"""
         """
         citations = {
             'legislation': [],
-            'cases': []
+            'cases': [],
+            'has_relevant_cases': len(retrieved_sources['cases']) > 0
         }
         
         for result in retrieved_sources['legislation']:
@@ -360,14 +383,16 @@ PROVIDE YOUR DETAILED LEGAL EDUCATION ANALYSIS:"""
                 'score': result['hybrid_score']
             })
         
-        for result in retrieved_sources['cases']:
-            metadata = result['metadata']
-            citations['cases'].append({
-                'case_name': metadata['case_name'],
-                'year': metadata['year'],
-                'outcome': metadata['outcome'],
-                'score': result['hybrid_score']
-            })
+        # Only include cases if they passed the relevance threshold
+        if retrieved_sources['cases']:
+            for result in retrieved_sources['cases']:
+                metadata = result['metadata']
+                citations['cases'].append({
+                    'case_name': metadata['case_name'],
+                    'year': metadata['year'],
+                    'outcome': metadata['outcome'],
+                    'score': result['hybrid_score']
+                })
         
         return citations
 
