@@ -240,68 +240,18 @@ class EnhancedLegalAnalyzer:
             for factor in context['mitigation_factors']:
                 sections.append(f"- {factor}\n")
         
-        # 5. Risk Assessment & Prediction (REMOVED DUPLICATE - handled in section 6 below)
-        
-        # 6. Practical Advice
+        # 5. Practical Advice
         if context.get('practical_advice'):
             sections.append("\n### 💼 PRACTICAL ADVICE\n")
             for advice in context['practical_advice']:
                 sections.append(f"- {advice}\n")
         
-        # 6. Risk Assessment & Prediction
-        if risk:
-            sections.append("\n### ⚠️ RISK ASSESSMENT & PREDICTION\n")
-            sections.append(f"**Overall Risk Level**: {risk['risk_level']['level']} ({risk['risk_level']['score']}/100)\n\n")
-            
-            # Prosecution likelihood
-            prosecution = risk['prosecution']
-            sections.append(f"**Prosecution Likelihood**: {prosecution['likelihood']}% ({prosecution['category']})\n")
-            if prosecution.get('adjustments'):
-                sections.append("- Factors considered:\n")
-                for adj, reason in prosecution['adjustments']:
-                    sections.append(f"  - {reason} ({adj})\n")
-            sections.append("\n")
-            
-            # Sentence prediction
-            sent_pred = risk['sentence_prediction']
-            
-            # Check if this is a fine-only offense
-            if sent_pred.get('is_fine_only', False):
-                sections.append(f"**Penalty**: Fine Only (No Prison)\n")
-                sections.append(f"- **Fine Range**: HK${sent_pred.get('fine_range', 'Unknown')}\n")
-                sections.append(f"- This is a regulatory offense with fixed penalty\n")
-                sections.append(f"- **No imprisonment** for this offense\n")
-                sections.append(f"- Confidence: {sent_pred['confidence']}%\n")
-                sections.append(f"- {sent_pred['basis']}\n\n")
-            else:
-                # Prison sentence possible
-                sections.append(f"**Predicted Sentence Range**:\n")
-                
-                risk_assessor = get_risk_assessor()
-                low_text = risk_assessor.format_months_to_text(sent_pred['low_months'])
-                typical_text = risk_assessor.format_months_to_text(sent_pred['typical_months'])
-                high_text = risk_assessor.format_months_to_text(sent_pred['high_months'])
-                
-                sections.append(f"- Low estimate: {low_text}\n")
-                sections.append(f"- **Typical sentence: {typical_text}**\n")
-                sections.append(f"- High estimate: {high_text}\n")
-                sections.append(f"- Confidence: {sent_pred['confidence']}%\n")
-                sections.append(f"- {sent_pred['basis']}\n")
-                
-                if sent_pred.get('adjustments'):
-                    sections.append("\n- Sentence adjustments:\n")
-                    for adj in sent_pred['adjustments']:
-                        sections.append(f"  - {adj}\n")
-                sections.append("\n")
-            
-            # Outcome probabilities
-            outcomes = risk['outcome_probabilities']
-            sections.append(f"**Outcome Probabilities**:\n")
-            sections.append(f"- Conviction likelihood: {outcomes['conviction_likelihood']}%\n")
-            sections.append(f"- Custodial (prison) sentence: {outcomes['custodial_sentence']}%\n")
-            sections.append(f"- Non-custodial options: {outcomes['non_custodial']}%\n")
-            sections.append(f"- Appeal success rate: {outcomes['appeal_success_rate']}% (based on real HK cases)\n")
-            sections.append("\n")
+        # 6. Risk Assessment - Direct to standalone page
+        sections.append("\n### ⚠️ NEED RISK ASSESSMENT?\n")
+        sections.append("For **prosecution likelihood**, **sentence predictions**, and **outcome probabilities**, please use:\n")
+        sections.append("- **[Risk Assessment Tool](/risk-assessment)** - Specialized for criminal cases\n")
+        sections.append("- Get statistical predictions based on real Hong Kong case data\n")
+        sections.append("- Includes prosecution rates, sentence ranges, and conviction probabilities\n")
         
         # 7. Legal Process (adjust based on offense severity)
         sections.append("\n### 📋 LEGAL PROCESS\n")

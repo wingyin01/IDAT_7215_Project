@@ -15,6 +15,7 @@ from engine.rule_engine import InferenceEngine, analyze_case
 from engine.case_matcher import CaseMatcher
 from engine.document_analyzer import DocumentAnalyzer
 from engine.explanation import generate_legal_advice_disclaimer
+from engine.risk_assessor import get_risk_assessor
 
 # Import enhanced analyzer for better analysis
 try:
@@ -76,6 +77,11 @@ def case_search():
 def document_analysis():
     """Document analysis page"""
     return render_template('document_analysis.html')
+
+@app.route('/risk-assessment')
+def risk_assessment():
+    """Risk assessment and sentence prediction page"""
+    return render_template('risk_assessment.html')
 
 @app.route('/api/rag-consultation', methods=['POST'])
 def api_rag_consultation():
@@ -238,6 +244,68 @@ def api_analyze_enhanced():
         result = analyzer.analyze(text)
         
         return jsonify(result)
+    
+    except Exception as e:
+        return jsonify({'error': str(e)}), 500
+
+@app.route('/api/risk-assessment', methods=['POST'])
+def api_risk_assessment():
+    """
+    Standalone risk assessment and sentence prediction
+    Only for criminal cases - validates case type first
+    """
+    try:
+        data = request.json
+        text = data.get('text', '')
+        
+        if not text:
+            return jsonify({'error': 'No text provided'}), 400
+        
+        # Get risk assessor
+        assessor = get_risk_assessor()
+        
+        # Detect offense type
+        offense_type = assessor._detect_offense_type(text, 'unknown')
+        
+        # Check if this is a supported criminal offense
+        if offense_type == 'unknown':
+            # Check for civil/commercial indicators
+            text_lower = text.lower()
+            civil_keywords = ['contract', 'breach', 'damages', 'sue', 'compensation', 
+                            'negligence', 'landlord', 'tenant', 'divorce', 'custody']
+            
+            if any(word in text_lower for word in civil_keywords):
+                return jsonify({
+                    'success': False,
+                    'error': 'civil_case',
+                    'message': '❌ Civil cases are NOT supported by Risk Assessment',
+                    'recommendation': 'Please use Expert Mode (RAG) for civil matters'
+                })
+        
+        # Check if offense is in supported list
+        if offense_type not in assessor.PROSECUTION_RATES:
+            return jsonify({
+                'success': False,
+                'error': 'unsupported_offense',
+                'message': f'⚠️ Offense type "{offense_type}" has limited support',
+                'recommendation': 'Predictions may be less accurate. Consider consulting a lawyer.'
+            })
+        
+        # Import context analyzer
+        from engine.context_analyzer import ContextAnalyzer
+        context_analyzer = ContextAnalyzer()
+        context = context_analyzer.assess_theft_severity(text)
+        
+        # Run risk assessment
+        risk_result = assessor.comprehensive_risk_assessment(text, context, offense_type)
+        
+        # Format response
+        return jsonify({
+            'success': True,
+            'offense_type': offense_type,
+            'risk_assessment': risk_result,
+            'disclaimer': generate_legal_advice_disclaimer()
+        })
     
     except Exception as e:
         return jsonify({'error': str(e)}), 500

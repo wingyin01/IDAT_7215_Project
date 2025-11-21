@@ -1,0 +1,337 @@
+{% extends "base.html" %}
+
+{% block title %}Risk Assessment & Sentence Prediction{% endblock %}
+
+{% block content %}
+<div class="card">
+    <h2>⚠️ Risk Assessment & Sentence Prediction</h2>
+    <p style="margin-bottom: 1rem;">
+        Get statistical predictions for prosecution likelihood, conviction probability, and potential sentence ranges based on Hong Kong criminal law data.
+    </p>
+    
+    <div class="alert alert-warning" style="margin-bottom: 1rem;">
+        <strong>⚠️ Important:</strong> This tool is designed for <strong>criminal cases only</strong>. 
+        Predictions are based on statutory penalties, real case data, and legal patterns.
+    </div>
+</div>
+
+<!-- Supported Case Types -->
+<div class="card" style="border-left: 4px solid #4caf50;">
+    <h3 style="color: #4caf50;">✅ Supported Criminal Offenses (Accurate Predictions)</h3>
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1rem; margin-top: 1rem;">
+        <div style="background: #e8f5e9; padding: 1rem; border-radius: 6px;">
+            <h4 style="color: #2e7d32; margin-bottom: 0.5rem;">🚬 Regulatory Offenses</h4>
+            <ul style="margin: 0; padding-left: 1.2rem; color: #555;">
+                <li>Smoking in no-smoking areas</li>
+                <li>Littering</li>
+                <li>Spitting in public</li>
+                <li>Noise complaints</li>
+            </ul>
+        </div>
+        
+        <div style="background: #e8f5e9; padding: 1rem; border-radius: 6px;">
+            <h4 style="color: #2e7d32; margin-bottom: 0.5rem;">💰 Property Crimes</h4>
+            <ul style="margin: 0; padding-left: 1.2rem; color: #555;">
+                <li>Theft (all levels)</li>
+                <li>Shoplifting</li>
+                <li>Burglary</li>
+                <li>Robbery</li>
+            </ul>
+        </div>
+        
+        <div style="background: #e8f5e9; padding: 1rem; border-radius: 6px;">
+            <h4 style="color: #2e7d32; margin-bottom: 0.5rem;">👊 Violent Crimes</h4>
+            <ul style="margin: 0; padding-left: 1.2rem; color: #555;">
+                <li>Assault (minor & serious)</li>
+                <li>Murder</li>
+                <li>Manslaughter</li>
+                <li>Sexual offenses</li>
+            </ul>
+        </div>
+        
+        <div style="background: #e8f5e9; padding: 1rem; border-radius: 6px;">
+            <h4 style="color: #2e7d32; margin-bottom: 0.5rem;">💊 Drug Offenses</h4>
+            <ul style="margin: 0; padding-left: 1.2rem; color: #555;">
+                <li>Drug possession</li>
+                <li>Drug trafficking</li>
+            </ul>
+        </div>
+        
+        <div style="background: #e8f5e9; padding: 1rem; border-radius: 6px;">
+            <h4 style="color: #2e7d32; margin-bottom: 0.5rem;">🐕 Other Offenses</h4>
+            <ul style="margin: 0; padding-left: 1.2rem; color: #555;">
+                <li>Animal cruelty</li>
+                <li>Fraud</li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<!-- NOT Supported Case Types -->
+<div class="card" style="border-left: 4px solid #f44336;">
+    <h3 style="color: #f44336;">❌ NOT Supported (Use Expert Mode Instead)</h3>
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1rem; margin-top: 1rem;">
+        <div style="background: #ffebee; padding: 1rem; border-radius: 6px;">
+            <h4 style="color: #c62828; margin-bottom: 0.5rem;">❌ Civil Cases</h4>
+            <ul style="margin: 0; padding-left: 1.2rem; color: #555;">
+                <li>Contract disputes</li>
+                <li>Negligence/torts</li>
+                <li>Property disputes</li>
+                <li>Debt collection</li>
+                <li>Personal injury claims</li>
+            </ul>
+        </div>
+        
+        <div style="background: #ffebee; padding: 1rem; border-radius: 6px;">
+            <h4 style="color: #c62828; margin-bottom: 0.5rem;">❌ Commercial Law</h4>
+            <ul style="margin: 0; padding-left: 1.2rem; color: #555;">
+                <li>Company disputes</li>
+                <li>Shareholder issues</li>
+                <li>Intellectual property</li>
+                <li>Banking & finance</li>
+            </ul>
+        </div>
+        
+        <div style="background: #ffebee; padding: 1rem; border-radius: 6px;">
+            <h4 style="color: #c62828; margin-bottom: 0.5rem;">❌ Family Law</h4>
+            <ul style="margin: 0; padding-left: 1.2rem; color: #555;">
+                <li>Divorce proceedings</li>
+                <li>Child custody</li>
+                <li>Alimony/maintenance</li>
+                <li>Adoption</li>
+            </ul>
+        </div>
+        
+        <div style="background: #ffebee; padding: 1rem; border-radius: 6px;">
+            <h4 style="color: #c62828; margin-bottom: 0.5rem;">❌ Administrative Law</h4>
+            <ul style="margin: 0; padding-left: 1.2rem; color: #555;">
+                <li>Immigration matters</li>
+                <li>Tax disputes</li>
+                <li>Licensing issues</li>
+                <li>Judicial review</li>
+            </ul>
+        </div>
+    </div>
+    
+    <div class="alert alert-info" style="margin-top: 1rem;">
+        <strong>💡 For non-criminal cases:</strong> Please use <strong>Expert Mode (RAG)</strong> in the Legal Consultation page, which can handle ALL Hong Kong law including civil, commercial, family, and administrative matters.
+    </div>
+</div>
+
+<!-- Input Form -->
+<div class="card">
+    <h3>📝 Enter Criminal Case Scenario</h3>
+    <form id="riskAssessmentForm">
+        <div class="form-group">
+            <label for="scenario">Describe the criminal case scenario:</label>
+            <textarea 
+                class="form-control" 
+                id="scenario" 
+                name="scenario" 
+                rows="8"
+                placeholder="Example: A person broke into a flat at 2 AM and stole a laptop worth HK$35,000. He has a prior conviction for theft in 2019."
+                required
+            >A person broke into a flat at 2 AM and stole a laptop worth HK$35,000. He has a prior conviction for theft in 2019.</textarea>
+            <small style="color: #666; display: block; margin-top: 0.5rem;">
+                Include details like: offense type, amounts, weapons, violence, prior convictions, remorse, guilty plea, etc.
+            </small>
+        </div>
+        
+        <button type="submit" class="btn btn-primary">⚖️ Assess Risk & Predict Sentence</button>
+    </form>
+</div>
+
+<!-- Loading indicator -->
+<div class="loader" id="loader">
+    <div class="spinner"></div>
+    <p style="margin-top: 1rem; color: #667eea;">Analyzing case and predicting outcomes...</p>
+</div>
+
+<!-- Results -->
+<div id="results" style="display: none;"></div>
+
+<script>
+document.getElementById('riskAssessmentForm').addEventListener('submit', async (e) => {
+    e.preventDefault();
+    
+    const scenario = document.getElementById('scenario').value;
+    const loader = document.getElementById('loader');
+    const results = document.getElementById('results');
+    
+    // Show loader
+    loader.classList.add('active');
+    results.style.display = 'none';
+    
+    try {
+        const response = await fetch('/api/risk-assessment', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify({ text: scenario })
+        });
+        
+        const data = await response.json();
+        
+        // Hide loader
+        loader.classList.remove('active');
+        
+        if (!data.success) {
+            // Show error/warning
+            results.innerHTML = `
+                <div class="card" style="border-left: 4px solid #f44336;">
+                    <h3 style="color: #f44336;">${data.message}</h3>
+                    <p style="margin-top: 1rem;">${data.recommendation}</p>
+                    ${data.error === 'civil_case' ? `
+                        <a href="/consultation" class="btn btn-primary" style="margin-top: 1rem; display: inline-block; text-decoration: none;">
+                            Go to Expert Mode (RAG) →
+                        </a>
+                    ` : ''}
+                </div>
+            `;
+            results.style.display = 'block';
+            return;
+        }
+        
+        // Display results
+        const risk = data.risk_assessment;
+        displayResults(data.offense_type, risk, data.disclaimer);
+        
+    } catch (error) {
+        loader.classList.remove('active');
+        results.innerHTML = `
+            <div class="card" style="border-left: 4px solid #f44336;">
+                <h3 style="color: #f44336;">Error</h3>
+                <p>${error.message}</p>
+            </div>
+        `;
+        results.style.display = 'block';
+    }
+});
+
+function displayResults(offenseType, risk, disclaimer) {
+    const results = document.getElementById('results');
+    const riskLevel = risk.risk_level;
+    const prosecution = risk.prosecution;
+    const sentence = risk.sentence_prediction;
+    const outcomes = risk.outcome_probabilities;
+    
+    let html = `
+        <div class="card" style="border-left: 4px solid ${riskLevel.color};">
+            <h2 style="color: ${riskLevel.color};">📊 Risk Assessment Results</h2>
+            <p><strong>Offense Type:</strong> ${formatOffenseType(offenseType)}</p>
+        </div>
+        
+        <div class="card">
+            <h3>⚠️ Overall Risk Level</h3>
+            <div style="background: ${riskLevel.color}22; padding: 2rem; border-radius: 8px; text-align: center; border: 2px solid ${riskLevel.color};">
+                <div style="font-size: 3rem; font-weight: bold; color: ${riskLevel.color}; margin-bottom: 0.5rem;">
+                    ${riskLevel.level}
+                </div>
+                <div style="font-size: 1.5rem; color: #555;">
+                    Risk Score: ${riskLevel.score}/100
+                </div>
+            </div>
+        </div>
+        
+        <div class="card">
+            <h3>⚖️ Prosecution Likelihood</h3>
+            <div style="background: #f8f9fa; padding: 1.5rem; border-radius: 8px;">
+                <div style="font-size: 2rem; font-weight: bold; color: #667eea; margin-bottom: 1rem;">
+                    ${prosecution.likelihood}% - ${prosecution.category}
+                </div>
+                <p><strong>Base rate:</strong> ${prosecution.base_rate}%</p>
+                ${prosecution.adjustments && prosecution.adjustments.length > 0 ? `
+                    <p style="margin-top: 1rem;"><strong>Adjustments:</strong></p>
+                    <ul style="margin: 0.5rem 0; padding-left: 1.5rem;">
+                        ${prosecution.adjustments.map(([change, reason]) => `<li>${reason} (${change})</li>`).join('')}
+                    </ul>
+                ` : ''}
+            </div>
+        </div>
+        
+        <div class="card">
+            <h3>⏱️ Sentence Prediction</h3>
+            <div style="background: #f8f9fa; padding: 1.5rem; border-radius: 8px;">
+                ${sentence.is_fine_only ? `
+                    <div style="font-size: 1.8rem; font-weight: bold; color: #4caf50; margin-bottom: 1rem;">
+                        Fine Only (No Imprisonment)
+                    </div>
+                    <p><strong>Fine Range:</strong> HK$${sentence.fine_range}</p>
+                    <p style="color: #666; margin-top: 1rem;">This is a regulatory offense with fixed penalty. No prison sentence.</p>
+                ` : `
+                    <p><strong>Low estimate:</strong> ${formatMonths(sentence.low_months)}</p>
+                    <p><strong>Typical sentence:</strong> <span style="font-size: 1.3rem; color: #667eea; font-weight: bold;">${formatMonths(sentence.typical_months)}</span></p>
+                    <p><strong>High estimate:</strong> ${formatMonths(sentence.high_months)}</p>
+                    ${sentence.adjustments && sentence.adjustments.length > 0 ? `
+                        <p style="margin-top: 1rem;"><strong>Sentence adjustments:</strong></p>
+                        <ul style="margin: 0.5rem 0; padding-left: 1.5rem;">
+                            ${sentence.adjustments.map(adj => `<li>${adj}</li>`).join('')}
+                        </ul>
+                    ` : ''}
+                `}
+                <p style="margin-top: 1rem;"><strong>Confidence:</strong> ${sentence.confidence}%</p>
+                <p style="color: #666; font-size: 0.9rem;">${sentence.basis}</p>
+            </div>
+        </div>
+        
+        <div class="card">
+            <h3>📈 Outcome Probabilities</h3>
+            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem;">
+                <div style="background: #e3f2fd; padding: 1rem; border-radius: 8px; text-align: center;">
+                    <div style="font-size: 2rem; font-weight: bold; color: #2196F3;">
+                        ${outcomes.conviction_likelihood}%
+                    </div>
+                    <div style="color: #555;">Conviction Likelihood</div>
+                </div>
+                <div style="background: #ffebee; padding: 1rem; border-radius: 8px; text-align: center;">
+                    <div style="font-size: 2rem; font-weight: bold; color: #f44336;">
+                        ${outcomes.custodial_sentence}%
+                    </div>
+                    <div style="color: #555;">Custodial (Prison)</div>
+                </div>
+                <div style="background: #e8f5e9; padding: 1rem; border-radius: 8px; text-align: center;">
+                    <div style="font-size: 2rem; font-weight: bold; color: #4caf50;">
+                        ${outcomes.non_custodial}%
+                    </div>
+                    <div style="color: #555;">Non-Custodial</div>
+                </div>
+                <div style="background: #fff3e0; padding: 1rem; border-radius: 8px; text-align: center;">
+                    <div style="font-size: 2rem; font-weight: bold; color: #ff9800;">
+                        ${outcomes.appeal_success_rate}%
+                    </div>
+                    <div style="color: #555;">Appeal Success</div>
+                </div>
+            </div>
+            <p style="margin-top: 1rem; color: #666; font-size: 0.9rem;">
+                <strong>Note:</strong> Appeal success rate based on real Hong Kong Court of Appeal cases.
+            </p>
+        </div>
+        
+        <div class="alert alert-warning">
+            ${disclaimer}
+        </div>
+    `;
+    
+    results.innerHTML = html;
+    results.style.display = 'block';
+    results.scrollIntoView({ behavior: 'smooth', block: 'start' });
+}
+
+function formatOffenseType(type) {
+    const formatted = type.replace(/_/g, ' ');
+    return formatted.charAt(0).toUpperCase() + formatted.slice(1);
+}
+
+function formatMonths(months) {
+    if (months === 0) return "Fine only (no prison)";
+    if (months >= 12) {
+        const years = months / 12;
+        return years === Math.floor(years) 
+            ? `${years} year${years > 1 ? 's' : ''}`
+            : `${years.toFixed(1)} years`;
+    }
+    return `${months} months`;
+}
+</script>
+{% endblock %}

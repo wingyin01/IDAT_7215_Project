@@ -38,6 +38,10 @@ Examples:
                        help='Consultation mode (default: rag)')
     parser.add_argument('--top-k', type=int, default=5,
                        help='Number of results for case search (default: 5)')
+    parser.add_argument('--use-auto-rules', action='store_true',
+                       help='Enable auto-generated rules from legislation (experimental)')
+    parser.add_argument('--enhanced', action='store_true',
+                       help='Use enhanced rule engine with auto-rules + fallback')
     
     args = parser.parse_args()
     
@@ -51,7 +55,7 @@ Examples:
     if args.mode == 'rag':
         run_rag_consultation(args.query)
     elif args.mode == 'rule':
-        run_rule_analysis(args.query)
+        run_rule_analysis(args.query, use_enhanced=args.enhanced, use_auto_rules=args.use_auto_rules)
     elif args.mode == 'cases':
         search_cases(args.query, args.top_k)
 
@@ -151,16 +155,18 @@ def run_rag_consultation(query):
         print(f"❌ Error: {e}")
         sys.exit(1)
 
-def run_rule_analysis(document_text):
+def run_rule_analysis(document_text, use_enhanced=False, use_auto_rules=False):
     """Run rule-based document analysis"""
     print("=" * 80)
-    print("RULE-BASED ANALYSIS")
+    if use_enhanced:
+        print("ENHANCED RULE-BASED ANALYSIS (with auto-rules + fallback)")
+    else:
+        print("RULE-BASED ANALYSIS (manual rules only)")
     print("=" * 80)
     print()
     
     try:
         from engine.document_analyzer import DocumentAnalyzer
-        from engine.rule_engine import analyze_case
         
         analyzer = DocumentAnalyzer()
         
@@ -179,26 +185,50 @@ def run_rule_analysis(document_text):
         
         # Try inference
         extracted_facts = analyzer.extract_for_inference(document_text)
-        if extracted_facts:
-            print("Running inference engine...")
-            engine = analyze_case(extracted_facts)
-            offences = engine.get_offences()
+        
+        if use_enhanced:
+            # Use enhanced engine with auto-rules
+            from engine.enhanced_rule_engine import EnhancedRuleEngine
+            from knowledge_base.json_loader import ALL_ORDINANCES
             
-            if offences:
-                print()
-                print("Identified Offences:")
-                for offence in offences:
-                    print(f"  • {offence['offence']} ({offence['ordinance_ref']})")
-                    print(f"    Penalty: {offence['penalty']}")
-                print()
+            print("Initializing enhanced rule engine...")
+            engine = EnhancedRuleEngine(ALL_ORDINANCES, use_auto_rules=use_auto_rules)
+            print()
+            
+            print("Running enhanced analysis...")
+            results = engine.analyze(set(extracted_facts), document_text)
+            explanation = engine.explain_analysis(results)
+            print(explanation)
+            
+        else:
+            # Use original rule engine
+            from engine.rule_engine import analyze_case
+            
+            if extracted_facts:
+                print("Running inference engine...")
+                rule_engine = analyze_case(extracted_facts)
+                offences = rule_engine.get_offences()
                 
-                print("Reasoning:")
-                print(engine.explain())
+                if offences:
+                    print()
+                    print("Identified Offences:")
+                    for offence in offences:
+                        print(f"  • {offence['offence']} ({offence['ordinance_ref']})")
+                        print(f"    Penalty: {offence['penalty']}")
+                    print()
+                    
+                    print("Reasoning:")
+                    print(rule_engine.explain())
+                else:
+                    print("⚠️  No matching rules found.")
+                    print("   Try: python query.py --mode rule --enhanced \"your query\"")
         
         print()
         
     except Exception as e:
         print(f"❌ Error: {e}")
+        import traceback
+        traceback.print_exc()
         sys.exit(1)
 
 def search_cases(query, top_k):

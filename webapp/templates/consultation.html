@@ -425,13 +425,8 @@ async function handleRuleBasedMode(factsText, loader, results) {
         
         let html = '';
         
-        // Show risk assessment first if available
-        if (docData.risk_assessment) {
-            html += '<div class="result">';
-            html += '<h3>⚠️ Risk Assessment & Prediction</h3>';
-            html += generateRiskDashboard(docData.risk_assessment);
-            html += '</div>';
-        }
+        // Note: Risk Assessment is now a standalone feature
+        // Users can access it via /risk-assessment page
         
         // Show comprehensive advice from enhanced analyzer
         if (docData.comprehensive_advice) {
@@ -493,113 +488,7 @@ async function handleRuleBasedMode(factsText, loader, results) {
     }
 }
 
-// Generate visual risk dashboard
-function generateRiskDashboard(risk) {
-    let html = '';
-    
-    // Overall risk level banner
-    const riskLevel = risk.risk_level;
-    html += `<div style="background: linear-gradient(135deg, ${riskLevel.color}22 0%, ${riskLevel.color}11 100%); border-left: 5px solid ${riskLevel.color}; padding: 1.5rem; border-radius: 8px; margin-bottom: 1.5rem;">`;
-    html += `<h4 style="color: ${riskLevel.color}; margin: 0 0 0.5rem 0; font-size: 1.3rem;">Overall Risk: ${riskLevel.level}</h4>`;
-    html += `<p style="margin: 0; color: #666;">Risk Score: <strong style="color: ${riskLevel.color};">${riskLevel.score}/100</strong></p>`;
-    html += `</div>`;
-    
-    // Prosecution likelihood
-    const prosecution = risk.prosecution;
-    html += '<div style="margin-bottom: 1.5rem;">';
-    html += '<h4 style="color: #667eea; margin-bottom: 0.8rem;">⚖️ Prosecution Likelihood</h4>';
-    html += generateProgressBar(prosecution.likelihood, prosecution.category);
-    if (prosecution.adjustments && prosecution.adjustments.length > 0) {
-        html += '<div style="margin-top: 0.8rem; font-size: 0.9rem; color: #666;">';
-        html += '<strong>Factors:</strong><ul style="margin: 0.5rem 0 0 1.5rem;">';
-        prosecution.adjustments.forEach(([adj, reason]) => {
-            html += `<li>${reason} (${adj})</li>`;
-        });
-        html += '</ul></div>';
-    }
-    html += '</div>';
-    
-    // Sentence prediction
-    const sentence = risk.sentence_prediction;
-    html += '<div style="margin-bottom: 1.5rem;">';
-    html += '<h4 style="color: #9b59b6; margin-bottom: 0.8rem;">📊 Predicted Sentence Range</h4>';
-    html += '<div style="background: #f8f9fa; padding: 1rem; border-radius: 6px;">';
-    html += `<p style="margin: 0.5rem 0;"><strong>Low estimate:</strong> ${formatMonths(sentence.low_months)}</p>`;
-    html += `<p style="margin: 0.5rem 0;"><strong style="color: #9b59b6;">Typical sentence:</strong> ${formatMonths(sentence.typical_months)}</p>`;
-    html += `<p style="margin: 0.5rem 0;"><strong>High estimate:</strong> ${formatMonths(sentence.high_months)}</p>`;
-    html += `<p style="margin: 0.5rem 0; font-size: 0.9rem; color: #666;">Confidence: ${sentence.confidence}% | ${sentence.basis}</p>`;
-    html += '</div>';
-    if (sentence.adjustments && sentence.adjustments.length > 0) {
-        html += '<div style="margin-top: 0.8rem; font-size: 0.9rem; color: #666;">';
-        html += '<strong>Adjustments applied:</strong><ul style="margin: 0.5rem 0 0 1.5rem;">';
-        sentence.adjustments.forEach(adj => {
-            html += `<li>${adj}</li>`;
-        });
-        html += '</ul></div>';
-    }
-    html += '</div>';
-    
-    // Outcome probabilities
-    const outcomes = risk.outcome_probabilities;
-    html += '<div style="margin-bottom: 1.5rem;">';
-    html += '<h4 style="color: #e74c3c; margin-bottom: 0.8rem;">🎯 Outcome Probabilities</h4>';
-    html += '<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem;">';
-    
-    html += generateOutcomeCard('Conviction', outcomes.conviction_likelihood, '#e74c3c');
-    html += generateOutcomeCard('Custodial Sentence', outcomes.custodial_sentence, '#f39c12');
-    html += generateOutcomeCard('Non-Custodial', outcomes.non_custodial, '#27ae60');
-    html += generateOutcomeCard('Appeal Success', outcomes.appeal_success_rate, '#3498db');
-    
-    html += '</div></div>';
-    
-    // Disclaimer
-    html += '<div style="background: #fff3cd; border-left: 4px solid #f39c12; padding: 1rem; border-radius: 6px; font-size: 0.9rem;">';
-    html += '<strong>📊 Disclaimer:</strong> These predictions are estimates based on statistical analysis of real cases and legal rules. ';
-    html += 'Actual outcomes depend on many factors including judge discretion, quality of legal representation, and specific circumstances. ';
-    html += 'Consult a qualified lawyer for accurate assessment of your situation.';
-    html += '</div>';
-    
-    return html;
-}
-
-// Generate progress bar
-function generateProgressBar(percentage, label) {
-    const color = percentage > 70 ? '#e74c3c' : percentage > 40 ? '#f39c12' : '#27ae60';
-    return `
-        <div style="margin-bottom: 0.5rem;">
-            <div style="display: flex; justify-content: space-between; margin-bottom: 0.3rem;">
-                <span style="font-weight: 500;">${label || ''}</span>
-                <span style="font-weight: bold; color: ${color};">${percentage}%</span>
-            </div>
-            <div style="background: #e0e0e0; height: 24px; border-radius: 12px; overflow: hidden;">
-                <div style="background: linear-gradient(90deg, ${color} 0%, ${color}dd 100%); width: ${percentage}%; height: 100%; transition: width 0.5s ease;"></div>
-            </div>
-        </div>
-    `;
-}
-
-// Generate outcome card
-function generateOutcomeCard(title, percentage, color) {
-    return `
-        <div style="background: white; border: 2px solid ${color}; border-radius: 8px; padding: 1rem; text-align: center;">
-            <div style="font-size: 2rem; font-weight: bold; color: ${color}; margin-bottom: 0.5rem;">${percentage}%</div>
-            <div style="color: #666; font-size: 0.9rem;">${title}</div>
-        </div>
-    `;
-}
-
-// Format months to text
-function formatMonths(months) {
-    if (months >= 12) {
-        const years = months / 12;
-        if (years === Math.floor(years)) {
-            return `${years} year${years > 1 ? 's' : ''}`;
-        } else {
-            return `${years.toFixed(1)} years`;
-        }
-    }
-    return `${months} months`;
-}
+// Note: Risk assessment functions removed - now handled by standalone /risk-assessment page
 </script>
 
 <!-- Markdown Parsing Library -->
